@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T06:29:21+08:00",
+  "generated_at": "2026-11-11T07:28:14+08:00",
   "summary_mode": "excerpt",
   "top_items": [
     "nf810a5e75c97",
@@ -15,7 +15,7 @@
       "verified": false,
       "title": "Fable 5.2 首批实测出炉，可完成 41% 真实自由职业任务",
       "original_title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
-      "summary": "据量子位报道，Anthropic 新模型 Fable 5.2 推出后出现了首批网友实测，测试内容涵盖作曲、拍片和 3D 建模等多种任务，有网友在对比后表示 Opus 突然不香了。另据 The Decoder 报道，Fable 5.2 能完成 41% 的真实自由职业任务，而一年前这一比例只有 2.5%。",
+      "summary": "据量子位报道，Anthropic 新模型 Fable 5.2 推出后出现首批网友实测，涵盖作曲、拍片和 3D 建模等任务，有网友对比后称 Opus 突然不香了。另据 The Decoder 报道，Fable 5.2 能完成 41% 的真实自由职业任务，一年前这一比例只有 2.5%。",
       "facts": [
         {
           "text": "量子位汇总了 Fable 5.2 的首批网友实测，涉及作曲、拍片、3D 建模等任务",
@@ -111,7 +111,7 @@
       "verified": false,
       "title": "DeepMind 发布 Gemini Robotics 2.5 和开放安全基准 ASIMOV-jailbreak",
       "original_title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "summary": "据 Ars Technica 报道，Google DeepMind 发布了机器人模型 Gemini Robotics 2.5，同时推出开放的安全基准 ASIMOV-jailbreak。报道称，新模型在部分任务上的成功率最高可达此前的两倍。另据 The Decoder 报道，在梅赛德斯-奔驰的一个装配试点中，Gemini Robotics 2.5 分拣金属零件的得分为 96%。",
+      "summary": "据 Ars Technica 报道，Google DeepMind 发布机器人模型 Gemini Robotics 2.5，并推出开放安全基准 ASIMOV-jailbreak，新模型部分任务成功率最高达此前两倍。另据 The Decoder 报道，在奔驰装配试点中，它分拣金属零件得分 96%。",
       "facts": [
         {
           "text": "Google DeepMind 发布 Gemini Robotics 2.5，并推出开放安全基准 ASIMOV-jailbreak",
@@ -335,7 +335,7 @@
       "verified": true,
       "title": "DeepMind 推出 AlphaProof Code，用 AI 形式化验证 Signal 加密协议",
       "original_title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "summary": "Google DeepMind 推出智能体形式化验证框架 AlphaProof Code，由人类专家和 AI 智能体分工，用 Lean 语言证明了 Signal 协议实际代码的关键安全性质。DeepMind 称这是 AI 首次以这种深度形式化验证广泛部署的加密协议，整个验证只用了四周，而这类工作过去需要专家团队数年。相关验证成果将开源。",
+      "summary": "Google DeepMind 推出形式化验证框架 AlphaProof Code，由人类专家和 AI 智能体分工，用 Lean 证明了 Signal 协议实际代码的关键安全性质。DeepMind 称这是 AI 首次以这种深度验证广泛部署的加密协议，只用了四周，过去需专家团队数年。成果将开源。",
       "facts": [
         {
           "text": "AlphaProof Code 的智能体用 Lean 生成证明，验证了 Signal 协议核心加密代码的关键安全性质",

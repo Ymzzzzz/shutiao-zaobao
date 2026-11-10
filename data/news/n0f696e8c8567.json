@@ -5,7 +5,7 @@
   "verified": false,
   "title": "DeepMind 发布 Gemini Robotics 2.5 和开放安全基准 ASIMOV-jailbreak",
   "original_title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-  "summary": "据 Ars Technica 报道，Google DeepMind 发布了机器人模型 Gemini Robotics 2.5，同时推出开放的安全基准 ASIMOV-jailbreak。报道称，新模型在部分任务上的成功率最高可达此前的两倍。另据 The Decoder 报道，在梅赛德斯-奔驰的一个装配试点中，Gemini Robotics 2.5 分拣金属零件的得分为 96%。",
+  "summary": "据 Ars Technica 报道，Google DeepMind 发布机器人模型 Gemini Robotics 2.5，并推出开放安全基准 ASIMOV-jailbreak，新模型部分任务成功率最高达此前两倍。另据 The Decoder 报道，在奔驰装配试点中，它分拣金属零件得分 96%。",
   "facts": [
     {
       "text": "Google DeepMind 发布 Gemini Robotics 2.5，并推出开放安全基准 ASIMOV-jailbreak",
