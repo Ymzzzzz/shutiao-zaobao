@@ -3,11 +3,33 @@
   "category": "研究与论文",
   "importance": 2,
   "verified": true,
-  "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+  "title": "DeepMind 推出 AlphaProof Code，用 AI 形式化验证 Signal 加密协议",
   "original_title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-  "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-  "facts": [],
-  "claims": [],
+  "summary": "Google DeepMind 推出智能体形式化验证框架 AlphaProof Code，由人类专家和 AI 智能体分工，用 Lean 语言证明了 Signal 协议实际代码的关键安全性质。DeepMind 称这是 AI 首次以这种深度形式化验证广泛部署的加密协议，整个验证只用了四周，而这类工作过去需要专家团队数年。相关验证成果将开源。",
+  "facts": [
+    {
+      "text": "AlphaProof Code 的智能体用 Lean 生成证明，验证了 Signal 协议核心加密代码的关键安全性质",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "text": "研究人员把两个已修复的真实漏洞重新植入隔离版本的代码，系统在两种情况下都证明了有漏洞的版本不安全",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "text": "DeepMind 将开源这次形式化验证的成果",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Google DeepMind 称，这是 AI 首次以这种深度形式化验证广泛部署的加密协议，验证过程只用了四周",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,5 +42,5 @@
   "published_at": "2026-11-10T20:02:28+08:00",
   "updated_at": "2026-11-10T20:02:28+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai"
 }

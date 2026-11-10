@@ -3,12 +3,30 @@
   "category": "行业动态",
   "importance": 2,
   "verified": false,
-  "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+  "title": "Fable 5.2 首批实测出炉，可完成 41% 真实自由职业任务",
   "original_title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
-  "summary": "作曲、拍片、3D建模一条龙全包圆",
-  "facts": [],
-  "claims": [],
-  "analysis": [],
+  "summary": "据量子位报道，Anthropic 新模型 Fable 5.2 推出后出现了首批网友实测，测试内容涵盖作曲、拍片和 3D 建模等多种任务，有网友在对比后表示 Opus 突然不香了。另据 The Decoder 报道，Fable 5.2 能完成 41% 的真实自由职业任务，而一年前这一比例只有 2.5%。",
+  "facts": [
+    {
+      "text": "量子位汇总了 Fable 5.2 的首批网友实测，涉及作曲、拍片、3D 建模等任务",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508912.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 The Decoder 称，Fable 5.2 能完成 41% 的真实自由职业任务，一年前这一比例为 2.5%",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/"
+    }
+  ],
+  "analysis": [
+    {
+      "text": "量子位在标题中引用网友评价，认为与 Fable 5.2 相比 Opus 突然不香了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508912.html"
+    }
+  ],
   "sources": [
     {
       "name": "量子位",
@@ -32,5 +50,5 @@
   "published_at": "2026-11-10T15:03:43+08:00",
   "updated_at": "2026-11-10T22:07:47+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai"
 }

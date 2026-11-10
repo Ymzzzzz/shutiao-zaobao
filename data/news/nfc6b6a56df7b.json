@@ -3,11 +3,38 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": true,
-  "title": "Gemini 4 Carbon is now available",
+  "title": "Gemini 4 Carbon 正式开放使用",
   "original_title": "Gemini 4 Carbon is now available",
-  "summary": "",
-  "facts": [],
-  "claims": [],
+  "summary": "Google DeepMind 宣布向开发者、企业、科研人员和普通用户开放 Gemini 4 Carbon，称这是其最强的模型，擅长网络安全和长周期智能体任务。两周前该模型先向网络安全防御者开放，现已通过 API 提供给付费开发者，并向 Google AI Ultra 订阅用户推出。",
+  "facts": [
+    {
+      "text": "Gemini 4 Carbon 已通过 Google AI Studio 和 Gemini for business 的 API 向所有付费开发者和企业开放，并向 Google AI Ultra 订阅用户推出",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "text": "两周前 Carbon 已通过 Fairwind 计划先向一批网络安全防御者开放",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "text": "推广期价格为每百万输入 token 2 美元、每百万输出 token 10 美元，2026 年 11 月 30 日后为 4 美元和 20 美元",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Google DeepMind 称，Carbon 是其最强的模型，在网络安全和长周期智能体工作流上达到前沿水平",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "text": "据 Google DeepMind 称，Carbon 在 CursorBench 4.0 等多个基准上排名第一，单任务成本比次优外部模型低一半以上",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,5 +47,5 @@
   "published_at": "2026-11-11T00:03:47+08:00",
   "updated_at": "2026-11-11T00:03:47+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai"
 }

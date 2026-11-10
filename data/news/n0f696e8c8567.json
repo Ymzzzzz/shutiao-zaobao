@@ -3,11 +3,28 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": false,
-  "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+  "title": "DeepMind 发布 Gemini Robotics 2.5 和开放安全基准 ASIMOV-jailbreak",
   "original_title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-  "summary": "The new model is up to twice as successful at some tasks.",
-  "facts": [],
-  "claims": [],
+  "summary": "据 Ars Technica 报道，Google DeepMind 发布了机器人模型 Gemini Robotics 2.5，同时推出开放的安全基准 ASIMOV-jailbreak。报道称，新模型在部分任务上的成功率最高可达此前的两倍。另据 The Decoder 报道，在梅赛德斯-奔驰的一个装配试点中，Gemini Robotics 2.5 分拣金属零件的得分为 96%。",
+  "facts": [
+    {
+      "text": "Google DeepMind 发布 Gemini Robotics 2.5，并推出开放安全基准 ASIMOV-jailbreak",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Ars Technica 称，新模型在部分任务上的成功率最高可达此前的两倍",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
+    },
+    {
+      "text": "据 The Decoder 称，Gemini Robotics 2.5 在梅赛德斯-奔驰装配试点中分拣金属零件得分 96%",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -26,5 +43,5 @@
   "published_at": "2026-11-10T23:00:39+08:00",
   "updated_at": "2026-11-11T01:11:10+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai"
 }

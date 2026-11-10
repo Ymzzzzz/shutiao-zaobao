@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T06:28:26+08:00",
+  "generated_at": "2026-11-11T06:29:21+08:00",
   "summary_mode": "excerpt",
   "top_items": [
     "nf810a5e75c97",
@@ -13,12 +13,30 @@
       "category": "行业动态",
       "importance": 2,
       "verified": false,
-      "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+      "title": "Fable 5.2 首批实测出炉，可完成 41% 真实自由职业任务",
       "original_title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
-      "summary": "作曲、拍片、3D建模一条龙全包圆",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
+      "summary": "据量子位报道，Anthropic 新模型 Fable 5.2 推出后出现了首批网友实测，测试内容涵盖作曲、拍片和 3D 建模等多种任务，有网友在对比后表示 Opus 突然不香了。另据 The Decoder 报道，Fable 5.2 能完成 41% 的真实自由职业任务，而一年前这一比例只有 2.5%。",
+      "facts": [
+        {
+          "text": "量子位汇总了 Fable 5.2 的首批网友实测，涉及作曲、拍片、3D 建模等任务",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/508912.html"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 The Decoder 称，Fable 5.2 能完成 41% 的真实自由职业任务，一年前这一比例为 2.5%",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/"
+        }
+      ],
+      "analysis": [
+        {
+          "text": "量子位在标题中引用网友评价，认为与 Fable 5.2 相比 Opus 突然不香了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/508912.html"
+        }
+      ],
       "sources": [
         {
           "name": "量子位",
@@ -42,19 +60,31 @@
       "published_at": "2026-11-10T15:03:43+08:00",
       "updated_at": "2026-11-10T22:07:47+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai"
     },
     {
       "id": "n9922bcaa36cd",
       "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "title": "TechCrunch 梳理黄仁勋与被指中国间谍者婚外情时间线",
       "original_title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "facts": [],
+      "summary": "据 TechCrunch 报道，英伟达 CEO 黄仁勋被曝与一名被指为中国间谍的人有婚外情，TechCrunch 为此整理了一份事件时间线。报道认为，在美国和中国竞相开发最先进 AI 基础设施之际，这段关系可能对国家安全产生影响。The Verge 也从中美 AI 竞赛的角度报道了这一事件。",
+      "facts": [
+        {
+          "text": "TechCrunch 发布了黄仁勋与被指中国间谍者婚外情事件的时间线",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+        }
+      ],
       "claims": [],
-      "analysis": [],
+      "analysis": [
+        {
+          "text": "TechCrunch 认为，在美中竞相开发最先进 AI 基础设施之际，这段关系可能对国家安全产生影响",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+        }
+      ],
       "sources": [
         {
           "name": "TechCrunch",
@@ -72,18 +102,35 @@
       "published_at": "2026-11-11T01:04:19+08:00",
       "updated_at": "2026-11-11T03:31:58+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai"
     },
     {
       "id": "n0f696e8c8567",
       "category": "大模型与产品",
       "importance": 2,
       "verified": false,
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "title": "DeepMind 发布 Gemini Robotics 2.5 和开放安全基准 ASIMOV-jailbreak",
       "original_title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "summary": "The new model is up to twice as successful at some tasks.",
-      "facts": [],
-      "claims": [],
+      "summary": "据 Ars Technica 报道，Google DeepMind 发布了机器人模型 Gemini Robotics 2.5，同时推出开放的安全基准 ASIMOV-jailbreak。报道称，新模型在部分任务上的成功率最高可达此前的两倍。另据 The Decoder 报道，在梅赛德斯-奔驰的一个装配试点中，Gemini Robotics 2.5 分拣金属零件的得分为 96%。",
+      "facts": [
+        {
+          "text": "Google DeepMind 发布 Gemini Robotics 2.5，并推出开放安全基准 ASIMOV-jailbreak",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Ars Technica 称，新模型在部分任务上的成功率最高可达此前的两倍",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
+        },
+        {
+          "text": "据 The Decoder 称，Gemini Robotics 2.5 在梅赛德斯-奔驰装配试点中分拣金属零件得分 96%",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -102,7 +149,7 @@
       "published_at": "2026-11-10T23:00:39+08:00",
       "updated_at": "2026-11-11T01:11:10+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai"
     },
     {
       "id": "n4ddbe1642bc5",
@@ -163,11 +210,38 @@
       "category": "大模型与产品",
       "importance": 2,
       "verified": true,
-      "title": "Gemini 4 Carbon is now available",
+      "title": "Gemini 4 Carbon 正式开放使用",
       "original_title": "Gemini 4 Carbon is now available",
-      "summary": "",
-      "facts": [],
-      "claims": [],
+      "summary": "Google DeepMind 宣布向开发者、企业、科研人员和普通用户开放 Gemini 4 Carbon，称这是其最强的模型，擅长网络安全和长周期智能体任务。两周前该模型先向网络安全防御者开放，现已通过 API 提供给付费开发者，并向 Google AI Ultra 订阅用户推出。",
+      "facts": [
+        {
+          "text": "Gemini 4 Carbon 已通过 Google AI Studio 和 Gemini for business 的 API 向所有付费开发者和企业开放，并向 Google AI Ultra 订阅用户推出",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+        },
+        {
+          "text": "两周前 Carbon 已通过 Fairwind 计划先向一批网络安全防御者开放",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+        },
+        {
+          "text": "推广期价格为每百万输入 token 2 美元、每百万输出 token 10 美元，2026 年 11 月 30 日后为 4 美元和 20 美元",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Google DeepMind 称，Carbon 是其最强的模型，在网络安全和长周期智能体工作流上达到前沿水平",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+        },
+        {
+          "text": "据 Google DeepMind 称，Carbon 在 CursorBench 4.0 等多个基准上排名第一，单任务成本比次优外部模型低一半以上",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -180,7 +254,7 @@
       "published_at": "2026-11-11T00:03:47+08:00",
       "updated_at": "2026-11-11T00:03:47+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai"
     },
     {
       "id": "n405fdcad1ce1",
@@ -259,11 +333,33 @@
       "category": "研究与论文",
       "importance": 2,
       "verified": true,
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "title": "DeepMind 推出 AlphaProof Code，用 AI 形式化验证 Signal 加密协议",
       "original_title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "facts": [],
-      "claims": [],
+      "summary": "Google DeepMind 推出智能体形式化验证框架 AlphaProof Code，由人类专家和 AI 智能体分工，用 Lean 语言证明了 Signal 协议实际代码的关键安全性质。DeepMind 称这是 AI 首次以这种深度形式化验证广泛部署的加密协议，整个验证只用了四周，而这类工作过去需要专家团队数年。相关验证成果将开源。",
+      "facts": [
+        {
+          "text": "AlphaProof Code 的智能体用 Lean 生成证明，验证了 Signal 协议核心加密代码的关键安全性质",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        },
+        {
+          "text": "研究人员把两个已修复的真实漏洞重新植入隔离版本的代码，系统在两种情况下都证明了有漏洞的版本不安全",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        },
+        {
+          "text": "DeepMind 将开源这次形式化验证的成果",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Google DeepMind 称，这是 AI 首次以这种深度形式化验证广泛部署的加密协议，验证过程只用了四周",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -276,7 +372,7 @@
       "published_at": "2026-11-10T20:02:28+08:00",
       "updated_at": "2026-11-10T20:02:28+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai"
     },
     {
       "id": "n46ecb159c153",

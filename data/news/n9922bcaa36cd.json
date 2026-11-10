@@ -3,12 +3,24 @@
   "category": "AI公司与融资",
   "importance": 2,
   "verified": false,
-  "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+  "title": "TechCrunch 梳理黄仁勋与被指中国间谍者婚外情时间线",
   "original_title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-  "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-  "facts": [],
+  "summary": "据 TechCrunch 报道，英伟达 CEO 黄仁勋被曝与一名被指为中国间谍的人有婚外情，TechCrunch 为此整理了一份事件时间线。报道认为，在美国和中国竞相开发最先进 AI 基础设施之际，这段关系可能对国家安全产生影响。The Verge 也从中美 AI 竞赛的角度报道了这一事件。",
+  "facts": [
+    {
+      "text": "TechCrunch 发布了黄仁勋与被指中国间谍者婚外情事件的时间线",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    }
+  ],
   "claims": [],
-  "analysis": [],
+  "analysis": [
+    {
+      "text": "TechCrunch 认为，在美中竞相开发最先进 AI 基础设施之际，这段关系可能对国家安全产生影响",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    }
+  ],
   "sources": [
     {
       "name": "TechCrunch",
@@ -26,5 +38,5 @@
   "published_at": "2026-11-11T01:04:19+08:00",
   "updated_at": "2026-11-11T03:31:58+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai"
 }
