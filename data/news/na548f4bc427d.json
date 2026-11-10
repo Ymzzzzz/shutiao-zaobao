@@ -1,0 +1,24 @@
+{
+  "id": "na548f4bc427d",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "The indie game community is in disarray over AI and Big Walk",
+  "original_title": "The indie game community is in disarray over AI and Big Walk",
+  "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "is_primary": false,
+      "published_at": "2026-11-11T01:32:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T01:32:47+08:00",
+  "updated_at": "2026-11-11T03:06:22+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

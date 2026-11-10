@@ -1,0 +1,24 @@
+{
+  "id": "n405fdcad1ce1",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+  "original_title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+  "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVI…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "is_primary": true,
+      "published_at": "2026-11-11T00:00:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T00:00:03+08:00",
+  "updated_at": "2026-11-11T00:00:03+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

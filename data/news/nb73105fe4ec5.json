@@ -1,0 +1,24 @@
+{
+  "id": "nb73105fe4ec5",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Gemini Intelligence: New features, on more devices",
+  "original_title": "Gemini Intelligence: New features, on more devices",
+  "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "is_primary": true,
+      "published_at": "2026-11-11T03:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T03:00:00+08:00",
+  "updated_at": "2026-11-11T03:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

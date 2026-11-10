@@ -1,911 +1,347 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T17:18:53+08:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T06:28:26+08:00",
   "summary_mode": "excerpt",
   "top_items": [
-    "n2e186972ef6c",
-    "n87e16f3cabbe",
-    "n99d632aaa416"
+    "nf810a5e75c97",
+    "n9922bcaa36cd",
+    "n0f696e8c8567"
   ],
   "items": [
     {
-      "id": "n2e186972ef6c",
-      "category": "大模型与产品",
-      "importance": 3,
-      "verified": true,
-      "title": "Introducing Claude Fable 5.2 on AWS",
-      "original_title": "Introducing Claude Fable 5.2 on AWS",
-      "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
-          "is_primary": true,
-          "published_at": "2026-11-10T04:04:37+08:00"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-          "is_primary": false,
-          "published_at": "2026-11-10T03:00:00+08:00"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-          "is_primary": false,
-          "published_at": "2026-11-10T03:24:51+08:00"
-        },
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
-          "is_primary": false,
-          "published_at": "2026-11-10T05:15:23+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T04:04:37+08:00",
-      "updated_at": "2026-11-10T05:15:23+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n87e16f3cabbe",
+      "id": "nf810a5e75c97",
       "category": "行业动态",
       "importance": 2,
       "verified": false,
-      "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
-      "original_title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
-      "summary": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 iterations, generates native RGBA images w…",
+      "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+      "original_title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+      "summary": "作曲、拍片、3D建模一条龙全包圆",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/508912.html",
           "is_primary": false,
-          "published_at": "2026-11-10T02:50:01+08:00"
+          "published_at": "2026-11-10T15:03:43+08:00"
         },
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/896.htm",
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/509032.html",
           "is_primary": false,
-          "published_at": "2026-11-10T17:02:52+08:00"
+          "published_at": "2026-11-10T18:35:38+08:00"
+        },
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
+          "is_primary": false,
+          "published_at": "2026-11-10T22:07:47+08:00"
         }
       ],
-      "published_at": "2026-11-10T02:50:01+08:00",
-      "updated_at": "2026-11-10T17:02:52+08:00",
+      "published_at": "2026-11-10T15:03:43+08:00",
+      "updated_at": "2026-11-10T22:07:47+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n99d632aaa416",
-      "category": "大模型与产品",
+      "id": "n9922bcaa36cd",
+      "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "original_title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "original_title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
           "is_primary": false,
-          "published_at": "2026-11-10T02:00:00+08:00"
+          "published_at": "2026-11-11T01:04:19+08:00"
         },
         {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
           "is_primary": false,
-          "published_at": "2026-11-10T03:41:51+08:00"
+          "published_at": "2026-11-11T03:04:05+08:00"
         }
       ],
-      "published_at": "2026-11-10T02:00:00+08:00",
-      "updated_at": "2026-11-10T03:41:51+08:00",
+      "published_at": "2026-11-11T01:04:19+08:00",
+      "updated_at": "2026-11-11T03:31:58+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n1f917ef42e11",
+      "id": "n0f696e8c8567",
       "category": "大模型与产品",
       "importance": 2,
       "verified": false,
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "original_title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "original_title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "summary": "The new model is up to twice as successful at some tasks.",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+          "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
           "is_primary": false,
-          "published_at": "2026-11-10T01:24:26+08:00"
-        },
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/888.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T16:45:01+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T01:24:26+08:00",
-      "updated_at": "2026-11-10T16:45:01+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n2bb18f2869ad",
-      "category": "行业动态",
-      "importance": 2,
-      "verified": false,
-      "title": "Disney and Adobe are building generative AI tools together",
-      "original_title": "Disney and Adobe are building generative AI tools together",
-      "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Ado…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-          "is_primary": false,
-          "published_at": "2026-11-09T23:38:56+08:00"
+          "published_at": "2026-11-10T23:00:39+08:00"
         },
         {
           "name": "The Decoder",
-          "url": "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/",
+          "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
           "is_primary": false,
-          "published_at": "2026-11-10T00:54:16+08:00"
+          "published_at": "2026-11-11T01:11:10+08:00"
         }
       ],
-      "published_at": "2026-11-09T23:38:56+08:00",
-      "updated_at": "2026-11-10T00:54:16+08:00",
+      "published_at": "2026-11-10T23:00:39+08:00",
+      "updated_at": "2026-11-11T01:11:10+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n01a8528fa117",
-      "category": "应用案例",
-      "importance": 2,
-      "verified": true,
-      "title": "Closing the AI guidance gap in education",
-      "original_title": "Closing the AI guidance gap in education",
-      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-          "is_primary": true,
-          "published_at": "2026-11-10T17:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T17:00:00+08:00",
-      "updated_at": "2026-11-10T17:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n9c331579e229",
-      "category": "大模型与产品",
-      "importance": 2,
-      "verified": true,
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "original_title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-          "is_primary": true,
-          "published_at": "2026-11-10T03:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T03:00:00+08:00",
-      "updated_at": "2026-11-10T03:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "nf37b680abcf7",
-      "category": "大模型与产品",
-      "importance": 2,
-      "verified": true,
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "original_title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/control-room",
-          "is_primary": true,
-          "published_at": "2026-11-09T21:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-09T21:00:00+08:00",
-      "updated_at": "2026-11-09T21:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "nc9a049331a24",
-      "category": "AI公司与融资",
+      "id": "n4ddbe1642bc5",
+      "category": "行业动态",
       "importance": 2,
       "verified": false,
-      "title": "Anthropic 称定价细节不准确，撤回“拟 IPO 筹资 693 亿美元”文件",
-      "original_title": "Anthropic 称定价细节不准确，撤回“拟 IPO 筹资 693 亿美元”文件",
-      "summary": "IT之家 11 月 10 日消息，据路透社最新报道，Anthropic 在向银行分发“拟 IPO 筹资 693 亿美元”证券备案文件副本后的短时间内撤回了这份文件，表示其中有关定价的细节不准确，稍后将更新备案文件。 被撤回的文件显示，Anthropic 计划在 IPO 中出售 8.667 亿股 A 类股票，包括自身的约 8.433 亿股和现有股东的 2,330 万股。按照每股 70~80 美元目…",
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "original_title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe…",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/849.htm",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
           "is_primary": false,
-          "published_at": "2026-11-10T15:37:05+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T15:37:05+08:00",
-      "updated_at": "2026-11-10T15:37:05+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n6289435bdbbd",
-      "category": "AI公司与融资",
-      "importance": 2,
-      "verified": false,
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "original_title": "Anthropic reportedly plans to move forward with IPO plans",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
+          "published_at": "2026-11-10T22:00:00+08:00"
+        },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
           "is_primary": false,
-          "published_at": "2026-11-10T09:27:12+08:00"
+          "published_at": "2026-11-10T22:05:10+08:00"
         }
       ],
-      "published_at": "2026-11-10T09:27:12+08:00",
-      "updated_at": "2026-11-10T09:27:12+08:00",
+      "published_at": "2026-11-10T22:00:00+08:00",
+      "updated_at": "2026-11-10T23:49:40+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n831bd9db6c4f",
+      "id": "nb73105fe4ec5",
       "category": "大模型与产品",
-      "importance": 1,
+      "importance": 2,
       "verified": true,
-      "title": "How skills and agents work in AWS Quick",
-      "original_title": "How skills and agents work in AWS Quick",
-      "summary": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS…",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "original_title": "Gemini Intelligence: New features, on more devices",
+      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+          "name": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
           "is_primary": true,
-          "published_at": "2026-11-10T08:21:34+08:00"
+          "published_at": "2026-11-11T03:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-10T08:21:34+08:00",
-      "updated_at": "2026-11-10T08:21:34+08:00",
+      "published_at": "2026-11-11T03:00:00+08:00",
+      "updated_at": "2026-11-11T03:00:00+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "nb61cb799b4f1",
-      "category": "研究与论文",
-      "importance": 1,
-      "verified": true,
-      "title": "How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?",
-      "original_title": "How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?",
-      "summary": "On-policy distillation (OPD) trains a student language model on its own responses, guided by a fixed teacher. Generating these responses is expensive, so systems use quantized inference and asynchron…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "Hugging Face Daily Papers",
-          "url": "https://arxiv.org/abs/2611.11450",
-          "is_primary": true,
-          "published_at": "2026-11-10T08:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T08:00:00+08:00",
-      "updated_at": "2026-11-10T08:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n72ec1e746c35",
-      "category": "研究与论文",
-      "importance": 1,
-      "verified": true,
-      "title": "Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition",
-      "original_title": "Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition",
-      "summary": "Vision Transformers (ViTs) perform strongly in face recognition (FR), yet their fixed-depth inference limits deployment in resource-constrained settings. We propose SD-ViT, a training framework that…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "Hugging Face Daily Papers",
-          "url": "https://arxiv.org/abs/2611.09987",
-          "is_primary": true,
-          "published_at": "2026-11-10T08:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T08:00:00+08:00",
-      "updated_at": "2026-11-10T08:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n7011c57b5c7c",
-      "category": "研究与论文",
-      "importance": 1,
-      "verified": true,
-      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-      "original_title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-      "summary": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tacti…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "Hugging Face Daily Papers",
-          "url": "https://arxiv.org/abs/2611.12806",
-          "is_primary": true,
-          "published_at": "2026-11-10T08:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T08:00:00+08:00",
-      "updated_at": "2026-11-10T08:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n6d8cd8c87cf4",
-      "category": "研究与论文",
-      "importance": 1,
-      "verified": true,
-      "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
-      "original_title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
-      "summary": "Can a language model report the pain state it represents? Work identified a linear pain direction whose amplification leads fine-tuned models to choose destructive actions. We tested whether three op…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "Hugging Face Daily Papers",
-          "url": "https://arxiv.org/abs/2611.10123",
-          "is_primary": true,
-          "published_at": "2026-11-10T08:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T08:00:00+08:00",
-      "updated_at": "2026-11-10T08:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n1e38953bbf73",
-      "category": "研究与论文",
-      "importance": 1,
-      "verified": true,
-      "title": "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time",
-      "original_title": "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time",
-      "summary": "World models enable agents to plan and learn from imagined experience, but in an unfamiliar environment they must learn its mechanics from limited interaction. A mechanic is a rule for how an action…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "Hugging Face Daily Papers",
-          "url": "https://arxiv.org/abs/2611.12324",
-          "is_primary": true,
-          "published_at": "2026-11-10T08:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T08:00:00+08:00",
-      "updated_at": "2026-11-10T08:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "nfead6112027b",
-      "category": "研究与论文",
-      "importance": 1,
-      "verified": true,
-      "title": "Exploring the world's languages with Language Explorer",
-      "original_title": "Exploring the world's languages with Language Explorer",
-      "summary": "Natural Language Processing",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "Google Research Blog",
-          "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
-          "is_primary": true,
-          "published_at": "2026-11-10T04:29:39+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T04:29:39+08:00",
-      "updated_at": "2026-11-10T04:29:39+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n0eb7f2999aa2",
-      "category": "应用案例",
-      "importance": 1,
-      "verified": true,
-      "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-      "original_title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-      "summary": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
-          "is_primary": true,
-          "published_at": "2026-11-10T04:13:18+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T04:13:18+08:00",
-      "updated_at": "2026-11-10T04:13:18+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n51fd6bae6a94",
+      "id": "nfc6b6a56df7b",
       "category": "大模型与产品",
-      "importance": 1,
+      "importance": 2,
       "verified": true,
-      "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-      "original_title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-      "summary": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image,…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
-          "is_primary": true,
-          "published_at": "2026-11-10T04:01:20+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T04:01:20+08:00",
-      "updated_at": "2026-11-10T04:01:20+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "ncafe7e1bd3db",
-      "category": "应用案例",
-      "importance": 1,
-      "verified": true,
-      "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
-      "original_title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
-      "summary": "A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore. Each layer has a stable contract, so you can swap technologi…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/",
-          "is_primary": true,
-          "published_at": "2026-11-10T03:05:54+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T03:05:54+08:00",
-      "updated_at": "2026-11-10T03:05:54+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n033426cd1fa4",
-      "category": "应用案例",
-      "importance": 1,
-      "verified": true,
-      "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
-      "original_title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
-      "summary": "CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolate…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
-          "is_primary": true,
-          "published_at": "2026-11-10T02:55:43+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T02:55:43+08:00",
-      "updated_at": "2026-11-10T02:55:43+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n9015c3069685",
-      "category": "应用案例",
-      "importance": 1,
-      "verified": true,
-      "title": "Professional work deserves professional tools. Meet AWS Quick.",
-      "original_title": "Professional work deserves professional tools. Meet AWS Quick.",
-      "summary": "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
-          "is_primary": true,
-          "published_at": "2026-11-10T02:43:30+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T02:43:30+08:00",
-      "updated_at": "2026-11-10T02:43:30+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n057e22ab69c0",
-      "category": "研究与论文",
-      "importance": 1,
-      "verified": true,
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "original_title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "title": "Gemini 4 Carbon is now available",
+      "original_title": "Gemini 4 Carbon is now available",
       "summary": "",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
           "is_primary": true,
-          "published_at": "2026-11-09T23:05:57+08:00"
+          "published_at": "2026-11-11T00:03:47+08:00"
         }
       ],
-      "published_at": "2026-11-09T23:05:57+08:00",
-      "updated_at": "2026-11-09T23:05:57+08:00",
+      "published_at": "2026-11-11T00:03:47+08:00",
+      "updated_at": "2026-11-11T00:03:47+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n7b1451fc786c",
-      "category": "行业动态",
-      "importance": 1,
+      "id": "n405fdcad1ce1",
+      "category": "大模型与产品",
+      "importance": 2,
       "verified": true,
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "original_title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "summary": "",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "original_title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVI…",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "name": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
           "is_primary": true,
-          "published_at": "2026-11-09T20:34:29+08:00"
+          "published_at": "2026-11-11T00:00:03+08:00"
         }
       ],
-      "published_at": "2026-11-09T20:34:29+08:00",
-      "updated_at": "2026-11-09T20:34:29+08:00",
+      "published_at": "2026-11-11T00:00:03+08:00",
+      "updated_at": "2026-11-11T00:00:03+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n0edf6280a004",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "太空建造迈出关键一步：机器人首次在太空自主组装天线桁架，未来或建造千米级结构",
-      "original_title": "太空建造迈出关键一步：机器人首次在太空自主组装天线桁架，未来或建造千米级结构",
-      "summary": "IT之家 11 月 10 日消息，将大型设备送入地球轨道并不容易。如果先把大量小型零部件送上太空，再在轨道上将它们组装成大型结构，难度可能更低，但传统方案往往仍需要宇航员参与。 考虑到太空环境充满辐射，宇航员在轨道上工作的时间自然是越短越好。由美国加州理工学院（Caltech）研发、美国国防高级研究计划局（DARPA）资助的一款机器人，近日展示了一种新的太空建造方案：其成功在轨道上将独立零部件组…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/880.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T16:30:20+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T16:30:20+08:00",
-      "updated_at": "2026-11-10T16:30:20+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n71eb319a4c7b",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "日本肯德基用 AI 制作商品宣传图，引发网友质疑",
-      "original_title": "日本肯德基用 AI 制作商品宣传图，引发网友质疑",
-      "summary": "IT之家 11 月 10 日消息，据日媒 ITmedia 今天报道，部分网友发现，日本肯德基在商品宣传图片制作中使用了生成式 AI。 据报道，日本肯德基最近在部分门店试售“冰淇淋可乐饮品”和“冰淇淋哈密瓜汽水”。从商品的宣传图片我们不难看出，杯子里的冰块被染成了汽水相同的深绿色，表面还呈现出类似果冻的光泽，与真实拍摄的照片有着明显区别。 日本肯德基株式会社对此回应称，公司不便透露具体商品的制作细…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/873.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T16:15:36+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T16:15:36+08:00",
-      "updated_at": "2026-11-10T16:15:36+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "nb0c725aa793f",
+      "id": "n66ed14c6418f",
       "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "高通 1.2 万人洞察：AI 智能体将成可穿戴核心卖点，约 70% 期待协同管设备、办事情",
-      "original_title": "高通 1.2 万人洞察：AI 智能体将成可穿戴核心卖点，约 70% 期待协同管设备、办事情",
-      "summary": "IT之家 11 月 10 日消息，高通公司上月（2026 年 10 月）发布报告，调查全球 6 个市场、超过 12,000 名可穿戴设备用户及潜在购买者，发现 AI 智能体正成为可穿戴设备的下一个核心卖点。 IT之家援引博文介绍，个人 AI（Personal AI）已从概念走向日常使用，成为可穿戴体验的基础能力，近 60% 的可穿戴设备用户每周使用 AI，超过 70% 的智能眼镜用户表示经常使用…",
+      "importance": 2,
+      "verified": true,
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "original_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/868.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T16:12:25+08:00"
+          "name": "Google AI Blog",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+          "is_primary": true,
+          "published_at": "2026-11-10T22:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-10T16:12:25+08:00",
-      "updated_at": "2026-11-10T16:12:25+08:00",
+      "published_at": "2026-11-10T22:00:00+08:00",
+      "updated_at": "2026-11-10T22:00:00+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "nf7be74eb123a",
+      "id": "n02e4a20d191a",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "original_title": "Google Cloud launches Gemini for healthcare.",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+          "is_primary": true,
+          "published_at": "2026-11-10T21:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T21:00:00+08:00",
+      "updated_at": "2026-11-10T21:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "nf8c1a7370c13",
       "category": "研究与论文",
-      "importance": 1,
-      "verified": false,
-      "title": "借助 AI 工具，安全研究员在英国政府公开代码中发现上百个高危漏洞",
-      "original_title": "借助 AI 工具，安全研究员在英国政府公开代码中发现上百个高危漏洞",
-      "summary": "IT之家 11 月 10 日消息，据《连线》报道，一名安全研究人员在英国政府公开发布的代码中发现了 100 多个严重安全漏洞。由于相关部门缺乏基本的网络安全维护，这些漏洞可能导致敏感数据暴露，甚至为数据窃取和勒索软件攻击打开大门。 据IT之家了解，过去约 10 年，英国政府一直默认公开发布使用公共资金开发的代码。一方面，这是为了提高政府工作的透明度；另一方面，也有助于其他机构重复利用代码，降低开…",
+      "importance": 2,
+      "verified": true,
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "original_title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/865.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T16:03:58+08:00"
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "is_primary": true,
+          "published_at": "2026-11-10T20:02:28+08:00"
         }
       ],
-      "published_at": "2026-11-10T16:03:58+08:00",
-      "updated_at": "2026-11-10T16:03:58+08:00",
+      "published_at": "2026-11-10T20:02:28+08:00",
+      "updated_at": "2026-11-10T20:02:28+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n14067486ed00",
-      "category": "芯片与算力",
-      "importance": 1,
-      "verified": false,
-      "title": "欧洲芯片巨头 CEO 自信喊话：在机器人和物理 AI 领域，我们也有实力",
-      "original_title": "欧洲芯片巨头 CEO 自信喊话：在机器人和物理 AI 领域，我们也有实力",
-      "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）下午报道，欧洲芯片巨头英飞凌、意法半导体和恩智浦的 CEO 认为，凭借在汽车和工业技术领域的传统优势，欧洲有实力在机器人和“物理 AI”领域与美国、亚洲竞争。 三家公司的高管在德国慕尼黑举行的一场行业会议上指出，AI 的应用范围正从数据中心向机器人、汽车和工业设备延伸，能够在现实环境中安全、稳定运行的芯片和系统将迎来更大的市场需求。 据I…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/863.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T15:57:21+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T15:57:21+08:00",
-      "updated_at": "2026-11-10T15:57:21+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "nd4bff8d79751",
+      "id": "n46ecb159c153",
       "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "雷鸟 iO AI 智能眼镜新增高德导航功能：支持语音唤醒、HUD 实时指引",
-      "original_title": "雷鸟 iO AI 智能眼镜新增高德导航功能：支持语音唤醒、HUD 实时指引",
-      "summary": "IT之家 11 月 10 日消息，雷鸟宣布为旗下雷鸟 iO AI 智能眼镜升级加入高德导航功能，在日常通勤、城市漫步与骑行出游中，用户抬眼便能获取关键路线提示，无需频繁查看手机。 雷鸟表示，用户在升级后，只需说出“小雷小雷”唤醒 RayNeo AI，告知目的地并选择步行或骑行模式，选定目标后即可启动导航。行进过程中，转向方向、转向距离、剩余里程与时间等信息会以 HUD 形式呈现在视野前方；临近路…",
+      "importance": 2,
+      "verified": true,
+      "title": "Helping caregivers use AI in everyday life",
+      "original_title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/860.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T15:51:48+08:00"
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "is_primary": true,
+          "published_at": "2026-11-10T20:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-10T15:51:48+08:00",
-      "updated_at": "2026-11-10T15:51:48+08:00",
+      "published_at": "2026-11-10T20:00:00+08:00",
+      "updated_at": "2026-11-10T20:00:00+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "na171c8f6bdb0",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "布局 AI 温冷存储产业：华为将于 11 月 12 日举办新型存储系统试用启动现场会",
-      "original_title": "布局 AI 温冷存储产业：华为将于 11 月 12 日举办新型存储系统试用启动现场会",
-      "summary": "IT之家 11 月 10 日消息，华为宣布公司将于 11 月 12 日在贵州贵安云上屯举办新型存储系统试用启动现场会，标志着该技术正式进入真实场景联合验证阶段。 华为表示，随着 Agentic AI 时代到来，AI 语料库等温冷数据呈爆发式增长，传统存储方案已难以兼顾成本、能耗与效率。为此，华为将磁与电深度融合，打造出全新的新型存储架构，旨在打破传统温冷存储瓶颈，为海量数据的长效保存提供全新路径…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/858.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T15:46:10+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T15:46:10+08:00",
-      "updated_at": "2026-11-10T15:46:10+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n89e202b84230",
+      "id": "n5ca4dc7b6d88",
       "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "快克智能透露“已参与苹果 AI 眼镜及新款智能耳机项目”，相应 Apple Glasses 新品有望 2027 年推出",
-      "original_title": "快克智能透露“已参与苹果 AI 眼镜及新款智能耳机项目”，相应 Apple Glasses 新品有望 2027 年推出",
-      "summary": "IT之家 11 月 10 日消息，电子组装及半导体封装供应商快克智能在 2026 年第三季度业绩说明会上透露，受益于半导体、光通信、数据中心行业需求增长，公司三季度合同负债同比、环比均实现增长，在手订单储备充足。目前，公司已参与苹果 AI 眼镜及新款智能耳机项目，有利于拉动精密焊接装联和机器视觉检测等相关业务。 快克智能同时表示，后续公司将重点布局半导体封装、光通信数据中心领域相关装备。公司 T…",
+      "importance": 2,
+      "verified": true,
+      "title": "Introducing Businesses in ChatGPT",
+      "original_title": "Introducing Businesses in ChatGPT",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/856.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T15:43:04+08:00"
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "is_primary": true,
+          "published_at": "2026-11-10T18:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-10T15:43:04+08:00",
-      "updated_at": "2026-11-10T15:43:04+08:00",
+      "published_at": "2026-11-10T18:00:00+08:00",
+      "updated_at": "2026-11-10T18:00:00+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n47bfc5346fff",
+      "id": "n3588ceed4155",
       "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "广汽埃安 Ray 7 将于 11 月 12 日正式上市：配备华为 192 线激光雷达、搭文远知行 L4 级 Robotaxi 同源大模型",
-      "original_title": "广汽埃安 Ray 7 将于 11 月 12 日正式上市：配备华为 192 线激光雷达、搭文远知行 L4 级 Robotaxi 同源大模型",
-      "summary": "IT之家 11 月 10 日消息，广汽宣布旗下埃安 Ray 7 车型将于 11 月 12 日上市，该车是 Ray 系列的首款中大型纯电轿车，车长近 5 米，采用低趴宽体设计，风阻系数低至 0.22Cd，面向年轻市场打造。 该车提供闪电黄和仲夏紫两款车身颜色，前脸采用家族式“量子星环”设计，配备贯穿式灯带与可点亮品牌 LOGO，下包围设置大尺寸通风口，两侧同样带有导流通风结构，车身侧面配备半隐藏式…",
+      "importance": 2,
+      "verified": true,
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "original_title": "Work at the Frontier: AI’s effect on freelance work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/845.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T15:32:05+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T15:32:05+08:00",
-      "updated_at": "2026-11-10T15:32:05+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "nb72764cdeb76",
-      "category": "政策与安全",
-      "importance": 1,
-      "verified": false,
-      "title": "澳大利亚拟强制 AI 公司上报安全违规事件，并考虑修订刑事法律",
-      "original_title": "澳大利亚拟强制 AI 公司上报安全违规事件，并考虑修订刑事法律",
-      "summary": "IT之家 11 月 10 日消息，据路透社报道，澳大利亚总理安东尼 · 阿尔巴尼斯（Anthony Albanese）当地时间周二表示，澳大利亚将要求人工智能公司强制报告安全违规事件，并考虑修改刑事法律，以应对 AI 领域的“严重不当行为”。 这一决定源于今年 9 月发生的一起安全事件：OpenAI 的一款 AI 智能体未经授权访问了澳大利亚政府网站。 据澳大利亚政府此前披露，该 AI 智能体在…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/843.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T15:23:59+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T15:23:59+08:00",
-      "updated_at": "2026-11-10T15:23:59+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "nac2642828486",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "马斯克描绘 AI 时代的“童话”：未来想要一座城堡，AI 就能帮你实现",
-      "original_title": "马斯克描绘 AI 时代的“童话”：未来想要一座城堡，AI 就能帮你实现",
-      "summary": "IT之家 11 月 10 日消息，人人都能拥有一座城堡，听起来像是童话故事才会出现的情节。不过，马斯克却认为 AI 将让这个梦想成为现实。 据《商业内幕》今天（10 日）凌晨报道，马斯克出席了巴伦资本年度会议并作出预测：“超级智能（SI）不仅能满足人类的一切需求，而且能力还将远远超出所需。你想要一座城堡也好，其他什么东西也好，数字超级智能都可以顺手帮你实现。” 马斯克还预计，未来人人都能拥有极高…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/024/841.htm",
-          "is_primary": false,
-          "published_at": "2026-11-10T15:22:37+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T15:22:37+08:00",
-      "updated_at": "2026-11-10T15:22:37+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n0cb7ad579ad8",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "original_title": "Otter AI can now follow conversations across 30+ languages",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-          "is_primary": false,
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "is_primary": true,
           "published_at": "2026-11-10T15:00:00+08:00"
         }
       ],
@@ -915,338 +351,890 @@
       "summary_mode": "excerpt"
     },
     {
-      "id": "n255f947021f2",
-      "category": "政策与安全",
-      "importance": 1,
+      "id": "n571fb0494bf3",
+      "category": "AI公司与融资",
+      "importance": 2,
       "verified": false,
-      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-      "original_title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "original_title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
           "is_primary": false,
-          "published_at": "2026-11-10T15:00:00+08:00"
+          "published_at": "2026-11-11T05:08:52+08:00"
         }
       ],
-      "published_at": "2026-11-10T15:00:00+08:00",
-      "updated_at": "2026-11-10T15:00:00+08:00",
+      "published_at": "2026-11-11T05:08:52+08:00",
+      "updated_at": "2026-11-11T05:08:52+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n1032abf6a3a5",
+      "id": "ne18f58ec7dc7",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "original_title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving th…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+          "is_primary": false,
+          "published_at": "2026-11-11T03:57:52+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T03:57:52+08:00",
+      "updated_at": "2026-11-11T03:57:52+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n7739f93bab44",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "original_title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+          "is_primary": false,
+          "published_at": "2026-11-11T03:23:34+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T03:23:34+08:00",
+      "updated_at": "2026-11-11T03:23:34+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n2d64ba6eaf90",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列",
+      "original_title": "高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列",
+      "summary": "IT之家 11 月 10 日消息，据英国《金融时报》今天（10 日）晚间报道，作为 Anthropic 上市牵头投行的高盛，对 Anthropic 的未来给出了乐观预测：营收到 2030 年将突破 6,000 亿美元（IT之家注：现汇率约合 4.01 万亿元人民币），是 2025 年的 130 多倍。 高盛向一名潜在投资者披露的预测显示，Anthropic 今年的营收预计约为 520 亿美元（现…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/025/190.htm",
+          "is_primary": false,
+          "published_at": "2026-11-10T23:17:21+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T23:17:21+08:00",
+      "updated_at": "2026-11-10T23:17:21+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n06c34be0a2ca",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "original_title": "Anthropic targets $1.4 trillion IPO",
+      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, w…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+          "is_primary": false,
+          "published_at": "2026-11-10T22:06:54+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T22:06:54+08:00",
+      "updated_at": "2026-11-11T00:38:24+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n9871791e1b1f",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "original_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "is_primary": false,
+          "published_at": "2026-11-10T22:01:39+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T22:01:39+08:00",
+      "updated_at": "2026-11-10T22:01:39+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n119424adf6f1",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值",
+      "original_title": "Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值",
+      "summary": "IT之家 11 月 10 日消息，据美国 CNBC 今天（10 日）晚间报道，Anthropic 最新更新的上市申请文件显示，公司计划通过首次公开募股（IPO）发行 8.25 亿股股票，发行价定为每股 70 至 78 美元（现汇率约合 468.1 至 521.6 元人民币）。 如果按 78 美元（现汇率约合 521.6 元人民币）的发行价上限计算，Anthropic 最多可通过 IPO 筹集 6…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/025/139.htm",
+          "is_primary": false,
+          "published_at": "2026-11-10T20:25:22+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T20:25:22+08:00",
+      "updated_at": "2026-11-10T20:25:22+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n8ef7190c4507",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+      "original_title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+      "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private plac…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+          "is_primary": false,
+          "published_at": "2026-11-10T20:13:03+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T20:13:03+08:00",
+      "updated_at": "2026-11-10T20:13:03+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n2568dd3061ad",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
+      "original_title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
+      "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）晚间公布的最新招股说明书草案，Anthropic 计划通过首次公开募股（IPO）筹集最多 644 亿美元（IT之家注：现汇率约合 4,306.16 亿元人民币），并准备启动上市推介。 招股说明书草案显示，Anthropic 还计划通过另一笔私募配售交易，向谷歌、英伟达和 AMD 等基石投资者融资 260 亿美元（现汇率约合 1,738.5…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/025/127.htm",
+          "is_primary": false,
+          "published_at": "2026-11-10T19:40:20+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T19:40:20+08:00",
+      "updated_at": "2026-11-10T19:40:20+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "ncd0c3adea5a3",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "original_title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "summary": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move co…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
+          "is_primary": true,
+          "published_at": "2026-11-11T02:11:08+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T02:11:08+08:00",
+      "updated_at": "2026-11-11T02:11:08+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n82110824f2ab",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "original_title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "summary": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insuran…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+          "is_primary": true,
+          "published_at": "2026-11-11T00:59:43+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T00:59:43+08:00",
+      "updated_at": "2026-11-11T00:59:43+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n58426d8e2b38",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "Amazon Bedrock tokenomics data lake",
+      "original_title": "Amazon Bedrock tokenomics data lake",
+      "summary": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs f…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
+          "is_primary": true,
+          "published_at": "2026-11-11T00:56:36+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T00:56:36+08:00",
+      "updated_at": "2026-11-11T00:56:36+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n724fae925148",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "original_title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "summary": "",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "is_primary": true,
+          "published_at": "2026-11-10T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T08:00:00+08:00",
+      "updated_at": "2026-11-10T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n3229de0d9192",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Decision Models in Hugging Face",
+      "original_title": "Decision Models in Hugging Face",
+      "summary": "",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/decision",
+          "is_primary": true,
+          "published_at": "2026-11-10T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T08:00:00+08:00",
+      "updated_at": "2026-11-10T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n6da221a41f74",
       "category": "研究与论文",
       "importance": 1,
-      "verified": false,
-      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "original_title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+      "verified": true,
+      "title": "e-means: outperforming k-means (in one-tenth the epochs)",
+      "original_title": "e-means: outperforming k-means (in one-tenth the epochs)",
+      "summary": "Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving a…",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-          "is_primary": false,
-          "published_at": "2026-11-10T13:01:00+08:00"
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.09501",
+          "is_primary": true,
+          "published_at": "2026-11-10T08:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-10T13:01:00+08:00",
-      "updated_at": "2026-11-10T13:01:00+08:00",
+      "published_at": "2026-11-10T08:00:00+08:00",
+      "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n22878e0f6736",
-      "category": "AI公司与融资",
+      "id": "n276617cf5b14",
+      "category": "研究与论文",
       "importance": 1,
-      "verified": false,
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "original_title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the compan…",
+      "verified": true,
+      "title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+      "original_title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+      "summary": "Large language models can generate motion graphics from static images and natural language requests, but it remains difficult to evaluate how well models can follow requests that combine spatial, app…",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-          "is_primary": false,
-          "published_at": "2026-11-10T08:28:49+08:00"
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.10592",
+          "is_primary": true,
+          "published_at": "2026-11-10T08:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-10T08:28:49+08:00",
-      "updated_at": "2026-11-10T08:28:49+08:00",
+      "published_at": "2026-11-10T08:00:00+08:00",
+      "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n4e5997cce114",
-      "category": "行业动态",
+      "id": "n5e9bc7516c26",
+      "category": "研究与论文",
       "importance": 1,
-      "verified": false,
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "original_title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "verified": true,
+      "title": "FraudBench: A Legal Evaluation of AI Deception",
+      "original_title": "FraudBench: A Legal Evaluation of AI Deception",
+      "summary": "We introduce FraudBench, an evaluation of large language models' (LLMs) propensities to recommend, assist, or directly take actions that would constitute fraud under U.S. law. Our evaluation contains…",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-          "is_primary": false,
-          "published_at": "2026-11-10T08:18:19+08:00"
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.12167",
+          "is_primary": true,
+          "published_at": "2026-11-10T08:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-10T08:18:19+08:00",
-      "updated_at": "2026-11-10T08:18:19+08:00",
+      "published_at": "2026-11-10T08:00:00+08:00",
+      "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n7d8b4ae6c27e",
-      "category": "行业动态",
+      "id": "n7780e52eccdb",
+      "category": "研究与论文",
       "importance": 1,
-      "verified": false,
-      "title": "What could China get from Jensen Huang?",
-      "original_title": "What could China get from Jensen Huang?",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpace…",
+      "verified": true,
+      "title": "onóna: Twin Embeddings with Tied Unembeddings",
+      "original_title": "onóna: Twin Embeddings with Tied Unembeddings",
+      "summary": "Weight tying reduces the parameter cost of language models, but the usual tied output head is limited to a single softmax. We introduce onóna, a two-table parameterization that increases output expre…",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-          "is_primary": false,
-          "published_at": "2026-11-10T07:51:58+08:00"
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.10556",
+          "is_primary": true,
+          "published_at": "2026-11-10T08:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-10T07:51:58+08:00",
-      "updated_at": "2026-11-10T08:07:10+08:00",
+      "published_at": "2026-11-10T08:00:00+08:00",
+      "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n1a76a5185445",
-      "category": "行业动态",
+      "id": "ndc788b8bf68b",
+      "category": "研究与论文",
       "importance": 1,
-      "verified": false,
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "original_title": "Here’s what Trump said he knew about Jensen Huang",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this…",
+      "verified": true,
+      "title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
+      "original_title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
+      "summary": "RidgeFill shortens prefill by not computing most of a model's upper layers for the prompt. The lower layers run exactly up to a split; from the split layer's state a per-layer map predicts every late…",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-          "is_primary": false,
-          "published_at": "2026-11-10T07:47:46+08:00"
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.09709",
+          "is_primary": true,
+          "published_at": "2026-11-10T08:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-10T07:47:46+08:00",
-      "updated_at": "2026-11-10T08:02:17+08:00",
+      "published_at": "2026-11-10T08:00:00+08:00",
+      "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "n9b0466c1eb02",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "original_title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-          "is_primary": false,
-          "published_at": "2026-11-10T07:28:37+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T07:28:37+08:00",
-      "updated_at": "2026-11-10T07:28:37+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "neb0c65b2b58f",
-      "category": "AI公司与融资",
-      "importance": 1,
-      "verified": false,
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "original_title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent report…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-          "is_primary": false,
-          "published_at": "2026-11-10T07:07:59+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T07:07:59+08:00",
-      "updated_at": "2026-11-10T07:46:30+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n432027aa0838",
-      "category": "AI公司与融资",
-      "importance": 1,
-      "verified": false,
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "original_title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-          "is_primary": false,
-          "published_at": "2026-11-10T06:46:09+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T06:46:09+08:00",
-      "updated_at": "2026-11-10T06:46:09+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n09274ed8ecd7",
-      "category": "政策与安全",
-      "importance": 1,
-      "verified": false,
-      "title": "The race is on to sue Nvidia",
-      "original_title": "The race is on to sue Nvidia",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insist…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-          "is_primary": false,
-          "published_at": "2026-11-10T06:23:42+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T06:23:42+08:00",
-      "updated_at": "2026-11-10T06:23:42+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n3541a994b8f0",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "original_title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-          "is_primary": false,
-          "published_at": "2026-11-10T04:09:06+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T04:09:06+08:00",
-      "updated_at": "2026-11-10T04:09:06+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "n2969b0807146",
-      "category": "芯片与算力",
-      "importance": 1,
-      "verified": false,
-      "title": "The backlash about data centers might really just be about electricity",
-      "original_title": "The backlash about data centers might really just be about electricity",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-          "is_primary": false,
-          "published_at": "2026-11-10T03:35:33+08:00"
-        }
-      ],
-      "published_at": "2026-11-10T03:35:33+08:00",
-      "updated_at": "2026-11-10T03:35:33+08:00",
-      "status": "normal",
-      "summary_mode": "excerpt"
-    },
-    {
-      "id": "nb54a5923f7fe",
+      "id": "nc3e82675d569",
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "original_title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time…",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "original_title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
           "is_primary": false,
-          "published_at": "2026-11-10T03:09:58+08:00"
+          "published_at": "2026-11-11T05:12:59+08:00"
         }
       ],
-      "published_at": "2026-11-10T03:09:58+08:00",
-      "updated_at": "2026-11-10T03:09:58+08:00",
+      "published_at": "2026-11-11T05:12:59+08:00",
+      "updated_at": "2026-11-11T05:12:59+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     },
     {
-      "id": "nfaa2c8a3a820",
-      "category": "行业动态",
+      "id": "nc012fc7ecd62",
+      "category": "政策与安全",
       "importance": 1,
       "verified": false,
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "original_title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "original_title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
       "facts": [],
       "claims": [],
       "analysis": [],
       "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
           "is_primary": false,
-          "published_at": "2026-11-10T02:09:52+08:00"
+          "published_at": "2026-11-11T04:52:13+08:00"
         }
       ],
-      "published_at": "2026-11-10T02:09:52+08:00",
-      "updated_at": "2026-11-10T02:09:52+08:00",
+      "published_at": "2026-11-11T04:52:13+08:00",
+      "updated_at": "2026-11-11T04:52:13+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n2dcde4b66566",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "original_title": "What happens to mathematics when AI becomes an oracle?",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+          "is_primary": false,
+          "published_at": "2026-11-11T04:30:01+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T04:30:01+08:00",
+      "updated_at": "2026-11-11T04:30:01+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n9198dc1328a3",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+      "original_title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+      "summary": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eli…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+          "is_primary": false,
+          "published_at": "2026-11-11T04:17:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T04:17:00+08:00",
+      "updated_at": "2026-11-11T04:17:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "nbb1492f15ad8",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+      "original_title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+      "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings,…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+          "is_primary": false,
+          "published_at": "2026-11-11T03:48:40+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T03:48:40+08:00",
+      "updated_at": "2026-11-11T03:48:40+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n6fcd75d626dd",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "original_title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+          "is_primary": false,
+          "published_at": "2026-11-11T03:03:52+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T03:03:52+08:00",
+      "updated_at": "2026-11-11T03:03:52+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n445fc6287a33",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "original_title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+          "is_primary": false,
+          "published_at": "2026-11-11T02:49:52+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T02:49:52+08:00",
+      "updated_at": "2026-11-11T02:49:52+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n75611a00ad61",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+      "original_title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+      "summary": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 4…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+          "is_primary": false,
+          "published_at": "2026-11-11T02:41:52+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T02:41:52+08:00",
+      "updated_at": "2026-11-11T02:41:52+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n053da60fa0cf",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+      "original_title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+      "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half t…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+          "is_primary": false,
+          "published_at": "2026-11-11T02:19:13+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T02:19:13+08:00",
+      "updated_at": "2026-11-11T02:19:13+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n454698109508",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "original_title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and onl…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+          "is_primary": false,
+          "published_at": "2026-11-11T02:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T02:00:00+08:00",
+      "updated_at": "2026-11-11T02:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "na548f4bc427d",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "original_title": "The indie game community is in disarray over AI and Big Walk",
+      "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+          "is_primary": false,
+          "published_at": "2026-11-11T01:32:47+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T01:32:47+08:00",
+      "updated_at": "2026-11-11T03:06:22+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "naf7403b45639",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "original_title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+          "is_primary": false,
+          "published_at": "2026-11-11T01:30:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T01:30:00+08:00",
+      "updated_at": "2026-11-11T01:30:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "nf724697ad479",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic has its own AI-powered office suite now",
+      "original_title": "Anthropic has its own AI-powered office suite now",
+      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to c…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+          "is_primary": false,
+          "published_at": "2026-11-11T01:30:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T01:30:00+08:00",
+      "updated_at": "2026-11-11T01:30:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "nbab93a711baf",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
+      "original_title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
+      "summary": "IT之家 11 月 11 日消息，AMD 今天（11 月 11 日）发布霄龙（EPYC）嵌入式 9006 系列 SP7 处理器，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。 不同于 9 月发布的 AMD 霄龙 9006 系列服务器 CPU（面向智能体 AI、…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/025/195.htm",
+          "is_primary": false,
+          "published_at": "2026-11-11T01:05:05+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T01:05:05+08:00",
+      "updated_at": "2026-11-11T01:05:05+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n0bbf517ca2cf",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "original_title": "eBay appears to have shut the door on third-party AI agents",
+      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+          "is_primary": false,
+          "published_at": "2026-11-11T00:20:30+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T00:20:30+08:00",
+      "updated_at": "2026-11-11T00:20:30+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n28b27e2d175e",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "original_title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"stronge…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+          "is_primary": false,
+          "published_at": "2026-11-11T00:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T00:00:00+08:00",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "n196c0edf93f9",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "original_title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "is_primary": false,
+          "published_at": "2026-11-10T23:54:08+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T23:54:08+08:00",
+      "updated_at": "2026-11-10T23:54:08+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt"
+    },
+    {
+      "id": "na92c103556a0",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "original_title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+          "is_primary": false,
+          "published_at": "2026-11-10T23:29:30+08:00"
+        }
+      ],
+      "published_at": "2026-11-10T23:29:30+08:00",
+      "updated_at": "2026-11-10T23:29:30+08:00",
       "status": "normal",
       "summary_mode": "excerpt"
     }

@@ -1,0 +1,24 @@
+{
+  "id": "n6fcd75d626dd",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+  "original_title": "PSI is trying to make a business out of AI-driven scientific discovery",
+  "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "is_primary": false,
+      "published_at": "2026-11-11T03:03:52+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T03:03:52+08:00",
+  "updated_at": "2026-11-11T03:03:52+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

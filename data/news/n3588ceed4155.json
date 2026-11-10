@@ -1,0 +1,24 @@
+{
+  "id": "n3588ceed4155",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "original_title": "Work at the Frontier: AI’s effect on freelance work",
+  "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "is_primary": true,
+      "published_at": "2026-11-10T15:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T15:00:00+08:00",
+  "updated_at": "2026-11-10T15:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

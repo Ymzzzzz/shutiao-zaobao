@@ -1,0 +1,24 @@
+{
+  "id": "n46ecb159c153",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Helping caregivers use AI in everyday life",
+  "original_title": "Helping caregivers use AI in everyday life",
+  "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "is_primary": true,
+      "published_at": "2026-11-10T20:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T20:00:00+08:00",
+  "updated_at": "2026-11-10T20:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

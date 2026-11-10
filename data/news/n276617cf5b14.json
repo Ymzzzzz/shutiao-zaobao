@@ -1,0 +1,24 @@
+{
+  "id": "n276617cf5b14",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+  "original_title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+  "summary": "Large language models can generate motion graphics from static images and natural language requests, but it remains difficult to evaluate how well models can follow requests that combine spatial, app…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.10592",
+      "is_primary": true,
+      "published_at": "2026-11-10T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T08:00:00+08:00",
+  "updated_at": "2026-11-10T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

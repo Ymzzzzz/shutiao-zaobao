@@ -1,0 +1,24 @@
+{
+  "id": "ncd0c3adea5a3",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+  "original_title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+  "summary": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move co…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
+      "is_primary": true,
+      "published_at": "2026-11-11T02:11:08+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T02:11:08+08:00",
+  "updated_at": "2026-11-11T02:11:08+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

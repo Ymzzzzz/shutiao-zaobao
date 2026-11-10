@@ -1,0 +1,24 @@
+{
+  "id": "n454698109508",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "ChatGPT is getting verified AI ‘Business Agents’",
+  "original_title": "ChatGPT is getting verified AI ‘Business Agents’",
+  "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and onl…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "is_primary": false,
+      "published_at": "2026-11-11T02:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T02:00:00+08:00",
+  "updated_at": "2026-11-11T02:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

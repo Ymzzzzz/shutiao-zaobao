@@ -1,0 +1,24 @@
+{
+  "id": "nbab93a711baf",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
+  "original_title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
+  "summary": "IT之家 11 月 11 日消息，AMD 今天（11 月 11 日）发布霄龙（EPYC）嵌入式 9006 系列 SP7 处理器，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。 不同于 9 月发布的 AMD 霄龙 9006 系列服务器 CPU（面向智能体 AI、…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/025/195.htm",
+      "is_primary": false,
+      "published_at": "2026-11-11T01:05:05+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T01:05:05+08:00",
+  "updated_at": "2026-11-11T01:05:05+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

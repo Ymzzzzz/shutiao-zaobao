@@ -1,0 +1,24 @@
+{
+  "id": "n0bbf517ca2cf",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "eBay appears to have shut the door on third-party AI agents",
+  "original_title": "eBay appears to have shut the door on third-party AI agents",
+  "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "is_primary": false,
+      "published_at": "2026-11-11T00:20:30+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T00:20:30+08:00",
+  "updated_at": "2026-11-11T00:20:30+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

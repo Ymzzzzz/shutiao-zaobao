@@ -1,0 +1,24 @@
+{
+  "id": "n02e4a20d191a",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Google Cloud launches Gemini for healthcare.",
+  "original_title": "Google Cloud launches Gemini for healthcare.",
+  "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "is_primary": true,
+      "published_at": "2026-11-10T21:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T21:00:00+08:00",
+  "updated_at": "2026-11-10T21:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

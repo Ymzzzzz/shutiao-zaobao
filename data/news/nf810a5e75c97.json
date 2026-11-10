@@ -1,0 +1,36 @@
+{
+  "id": "nf810a5e75c97",
+  "category": "行业动态",
+  "importance": 2,
+  "verified": false,
+  "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+  "original_title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+  "summary": "作曲、拍片、3D建模一条龙全包圆",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508912.html",
+      "is_primary": false,
+      "published_at": "2026-11-10T15:03:43+08:00"
+    },
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509032.html",
+      "is_primary": false,
+      "published_at": "2026-11-10T18:35:38+08:00"
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
+      "is_primary": false,
+      "published_at": "2026-11-10T22:07:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T15:03:43+08:00",
+  "updated_at": "2026-11-10T22:07:47+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

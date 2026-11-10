@@ -1,0 +1,24 @@
+{
+  "id": "n9198dc1328a3",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+  "original_title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+  "summary": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eli…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+      "is_primary": false,
+      "published_at": "2026-11-11T04:17:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T04:17:00+08:00",
+  "updated_at": "2026-11-11T04:17:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

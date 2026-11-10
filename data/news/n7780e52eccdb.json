@@ -1,0 +1,24 @@
+{
+  "id": "n7780e52eccdb",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "onóna: Twin Embeddings with Tied Unembeddings",
+  "original_title": "onóna: Twin Embeddings with Tied Unembeddings",
+  "summary": "Weight tying reduces the parameter cost of language models, but the usual tied output head is limited to a single softmax. We introduce onóna, a two-table parameterization that increases output expre…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.10556",
+      "is_primary": true,
+      "published_at": "2026-11-10T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T08:00:00+08:00",
+  "updated_at": "2026-11-10T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

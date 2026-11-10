@@ -1,0 +1,24 @@
+{
+  "id": "nbb1492f15ad8",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+  "original_title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+  "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings,…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+      "is_primary": false,
+      "published_at": "2026-11-11T03:48:40+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T03:48:40+08:00",
+  "updated_at": "2026-11-11T03:48:40+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

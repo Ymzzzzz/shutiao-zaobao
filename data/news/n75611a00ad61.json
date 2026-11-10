@@ -1,0 +1,24 @@
+{
+  "id": "n75611a00ad61",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+  "original_title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+  "summary": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 4…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+      "is_primary": false,
+      "published_at": "2026-11-11T02:41:52+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T02:41:52+08:00",
+  "updated_at": "2026-11-11T02:41:52+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

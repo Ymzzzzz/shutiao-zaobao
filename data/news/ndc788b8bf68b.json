@@ -1,0 +1,24 @@
+{
+  "id": "ndc788b8bf68b",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
+  "original_title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
+  "summary": "RidgeFill shortens prefill by not computing most of a model's upper layers for the prompt. The lower layers run exactly up to a split; from the split layer's state a per-layer map predicts every late…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.09709",
+      "is_primary": true,
+      "published_at": "2026-11-10T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T08:00:00+08:00",
+  "updated_at": "2026-11-10T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "n66ed14c6418f",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "original_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "is_primary": true,
+      "published_at": "2026-11-10T22:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T22:00:00+08:00",
+  "updated_at": "2026-11-10T22:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

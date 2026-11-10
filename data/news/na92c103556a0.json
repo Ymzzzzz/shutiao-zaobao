@@ -1,0 +1,24 @@
+{
+  "id": "na92c103556a0",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+  "original_title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+  "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "is_primary": false,
+      "published_at": "2026-11-10T23:29:30+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T23:29:30+08:00",
+  "updated_at": "2026-11-10T23:29:30+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

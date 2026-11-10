@@ -1,0 +1,24 @@
+{
+  "id": "n5ca4dc7b6d88",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Introducing Businesses in ChatGPT",
+  "original_title": "Introducing Businesses in ChatGPT",
+  "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "is_primary": true,
+      "published_at": "2026-11-10T18:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T18:00:00+08:00",
+  "updated_at": "2026-11-10T18:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

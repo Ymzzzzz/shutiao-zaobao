@@ -1,0 +1,30 @@
+{
+  "id": "n0f696e8c8567",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": false,
+  "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+  "original_title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+  "summary": "The new model is up to twice as successful at some tasks.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "is_primary": false,
+      "published_at": "2026-11-10T23:00:39+08:00"
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+      "is_primary": false,
+      "published_at": "2026-11-11T01:11:10+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T23:00:39+08:00",
+  "updated_at": "2026-11-11T01:11:10+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

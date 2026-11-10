@@ -1,0 +1,30 @@
+{
+  "id": "n9922bcaa36cd",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+  "original_title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+  "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "is_primary": false,
+      "published_at": "2026-11-11T01:04:19+08:00"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "is_primary": false,
+      "published_at": "2026-11-11T03:04:05+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T01:04:19+08:00",
+  "updated_at": "2026-11-11T03:31:58+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

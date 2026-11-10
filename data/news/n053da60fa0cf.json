@@ -1,0 +1,24 @@
+{
+  "id": "n053da60fa0cf",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+  "original_title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+  "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half t…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+      "is_primary": false,
+      "published_at": "2026-11-11T02:19:13+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T02:19:13+08:00",
+  "updated_at": "2026-11-11T02:19:13+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

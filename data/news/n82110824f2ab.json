@@ -1,0 +1,24 @@
+{
+  "id": "n82110824f2ab",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+  "original_title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+  "summary": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insuran…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+      "is_primary": true,
+      "published_at": "2026-11-11T00:59:43+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T00:59:43+08:00",
+  "updated_at": "2026-11-11T00:59:43+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

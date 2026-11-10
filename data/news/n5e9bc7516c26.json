@@ -1,0 +1,24 @@
+{
+  "id": "n5e9bc7516c26",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "FraudBench: A Legal Evaluation of AI Deception",
+  "original_title": "FraudBench: A Legal Evaluation of AI Deception",
+  "summary": "We introduce FraudBench, an evaluation of large language models' (LLMs) propensities to recommend, assist, or directly take actions that would constitute fraud under U.S. law. Our evaluation contains…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.12167",
+      "is_primary": true,
+      "published_at": "2026-11-10T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T08:00:00+08:00",
+  "updated_at": "2026-11-10T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

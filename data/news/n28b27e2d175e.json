@@ -1,0 +1,24 @@
+{
+  "id": "n28b27e2d175e",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+  "original_title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+  "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"stronge…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "is_primary": false,
+      "published_at": "2026-11-11T00:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T00:00:00+08:00",
+  "updated_at": "2026-11-11T00:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

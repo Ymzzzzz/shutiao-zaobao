@@ -1,0 +1,24 @@
+{
+  "id": "nf8c1a7370c13",
+  "category": "研究与论文",
+  "importance": 2,
+  "verified": true,
+  "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+  "original_title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+  "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "is_primary": true,
+      "published_at": "2026-11-10T20:02:28+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T20:02:28+08:00",
+  "updated_at": "2026-11-10T20:02:28+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}
