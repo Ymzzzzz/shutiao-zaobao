@@ -1,0 +1,24 @@
+{
+  "id": "n057e22ab69c0",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+  "original_title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+  "summary": "",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "is_primary": true,
+      "published_at": "2026-11-09T23:05:57+08:00"
+    }
+  ],
+  "published_at": "2026-11-09T23:05:57+08:00",
+  "updated_at": "2026-11-09T23:05:57+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

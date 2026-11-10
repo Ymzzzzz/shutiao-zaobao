@@ -1,0 +1,24 @@
+{
+  "id": "n7011c57b5c7c",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+  "original_title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+  "summary": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tacti…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.12806",
+      "is_primary": true,
+      "published_at": "2026-11-10T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T08:00:00+08:00",
+  "updated_at": "2026-11-10T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

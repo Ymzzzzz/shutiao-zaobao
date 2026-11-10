@@ -1,0 +1,42 @@
+{
+  "id": "n2e186972ef6c",
+  "category": "大模型与产品",
+  "importance": 3,
+  "verified": true,
+  "title": "Introducing Claude Fable 5.2 on AWS",
+  "original_title": "Introducing Claude Fable 5.2 on AWS",
+  "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+      "is_primary": true,
+      "published_at": "2026-11-10T04:04:37+08:00"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "is_primary": false,
+      "published_at": "2026-11-10T03:00:00+08:00"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "is_primary": false,
+      "published_at": "2026-11-10T03:24:51+08:00"
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+      "is_primary": false,
+      "published_at": "2026-11-10T05:15:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T04:04:37+08:00",
+  "updated_at": "2026-11-10T05:15:23+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

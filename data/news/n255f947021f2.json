@@ -1,0 +1,24 @@
+{
+  "id": "n255f947021f2",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+  "original_title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+  "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+      "is_primary": false,
+      "published_at": "2026-11-10T15:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T15:00:00+08:00",
+  "updated_at": "2026-11-10T15:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

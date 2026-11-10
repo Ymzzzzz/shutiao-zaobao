@@ -1,0 +1,24 @@
+{
+  "id": "n01a8528fa117",
+  "category": "应用案例",
+  "importance": 2,
+  "verified": true,
+  "title": "Closing the AI guidance gap in education",
+  "original_title": "Closing the AI guidance gap in education",
+  "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "is_primary": true,
+      "published_at": "2026-11-10T17:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T17:00:00+08:00",
+  "updated_at": "2026-11-10T17:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

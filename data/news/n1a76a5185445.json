@@ -1,0 +1,24 @@
+{
+  "id": "n1a76a5185445",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Here’s what Trump said he knew about Jensen Huang",
+  "original_title": "Here’s what Trump said he knew about Jensen Huang",
+  "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "is_primary": false,
+      "published_at": "2026-11-10T07:47:46+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T07:47:46+08:00",
+  "updated_at": "2026-11-10T08:02:17+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

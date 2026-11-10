@@ -1,0 +1,30 @@
+{
+  "id": "n99d632aaa416",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": false,
+  "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "original_title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "is_primary": false,
+      "published_at": "2026-11-10T02:00:00+08:00"
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+      "is_primary": false,
+      "published_at": "2026-11-10T03:41:51+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T02:00:00+08:00",
+  "updated_at": "2026-11-10T03:41:51+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n2bb18f2869ad",
+  "category": "行业动态",
+  "importance": 2,
+  "verified": false,
+  "title": "Disney and Adobe are building generative AI tools together",
+  "original_title": "Disney and Adobe are building generative AI tools together",
+  "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Ado…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "is_primary": false,
+      "published_at": "2026-11-09T23:38:56+08:00"
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/",
+      "is_primary": false,
+      "published_at": "2026-11-10T00:54:16+08:00"
+    }
+  ],
+  "published_at": "2026-11-09T23:38:56+08:00",
+  "updated_at": "2026-11-10T00:54:16+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

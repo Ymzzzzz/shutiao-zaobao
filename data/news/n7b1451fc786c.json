@@ -1,0 +1,24 @@
+{
+  "id": "n7b1451fc786c",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": true,
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "original_title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "summary": "",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "is_primary": true,
+      "published_at": "2026-11-09T20:34:29+08:00"
+    }
+  ],
+  "published_at": "2026-11-09T20:34:29+08:00",
+  "updated_at": "2026-11-09T20:34:29+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

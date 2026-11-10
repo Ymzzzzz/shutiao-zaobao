@@ -1,0 +1,24 @@
+{
+  "id": "n1e38953bbf73",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time",
+  "original_title": "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time",
+  "summary": "World models enable agents to plan and learn from imagined experience, but in an unfamiliar environment they must learn its mechanics from limited interaction. A mechanic is a rule for how an action…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.12324",
+      "is_primary": true,
+      "published_at": "2026-11-10T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T08:00:00+08:00",
+  "updated_at": "2026-11-10T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

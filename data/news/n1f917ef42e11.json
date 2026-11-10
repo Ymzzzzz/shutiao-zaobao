@@ -1,0 +1,30 @@
+{
+  "id": "n1f917ef42e11",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": false,
+  "title": "Claude Code is accidentally exposing secrets all over GitHub",
+  "original_title": "Claude Code is accidentally exposing secrets all over GitHub",
+  "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "is_primary": false,
+      "published_at": "2026-11-10T01:24:26+08:00"
+    },
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/024/888.htm",
+      "is_primary": false,
+      "published_at": "2026-11-10T16:45:01+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T01:24:26+08:00",
+  "updated_at": "2026-11-10T16:45:01+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nb61cb799b4f1",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?",
+  "original_title": "How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?",
+  "summary": "On-policy distillation (OPD) trains a student language model on its own responses, guided by a fixed teacher. Generating these responses is expensive, so systems use quantized inference and asynchron…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.11450",
+      "is_primary": true,
+      "published_at": "2026-11-10T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T08:00:00+08:00",
+  "updated_at": "2026-11-10T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "n9015c3069685",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "Professional work deserves professional tools. Meet AWS Quick.",
+  "original_title": "Professional work deserves professional tools. Meet AWS Quick.",
+  "summary": "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
+      "is_primary": true,
+      "published_at": "2026-11-10T02:43:30+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T02:43:30+08:00",
+  "updated_at": "2026-11-10T02:43:30+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

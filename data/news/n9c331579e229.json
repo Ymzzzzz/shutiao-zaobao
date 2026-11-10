@@ -1,0 +1,24 @@
+{
+  "id": "n9c331579e229",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "original_title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "is_primary": true,
+      "published_at": "2026-11-10T03:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T03:00:00+08:00",
+  "updated_at": "2026-11-10T03:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

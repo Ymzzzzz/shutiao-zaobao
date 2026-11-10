@@ -1,0 +1,24 @@
+{
+  "id": "n1032abf6a3a5",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": false,
+  "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+  "original_title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+  "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "is_primary": false,
+      "published_at": "2026-11-10T13:01:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T13:01:00+08:00",
+  "updated_at": "2026-11-10T13:01:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "n0eb7f2999aa2",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+  "original_title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+  "summary": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+      "is_primary": true,
+      "published_at": "2026-11-10T04:13:18+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T04:13:18+08:00",
+  "updated_at": "2026-11-10T04:13:18+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

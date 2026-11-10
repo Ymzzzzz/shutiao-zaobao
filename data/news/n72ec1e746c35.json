@@ -1,0 +1,24 @@
+{
+  "id": "n72ec1e746c35",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition",
+  "original_title": "Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition",
+  "summary": "Vision Transformers (ViTs) perform strongly in face recognition (FR), yet their fixed-depth inference limits deployment in resource-constrained settings. We propose SD-ViT, a training framework that…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.09987",
+      "is_primary": true,
+      "published_at": "2026-11-10T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T08:00:00+08:00",
+  "updated_at": "2026-11-10T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

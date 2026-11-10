@@ -1,0 +1,24 @@
+{
+  "id": "n6d8cd8c87cf4",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
+  "original_title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
+  "summary": "Can a language model report the pain state it represents? Work identified a linear pain direction whose amplification leads fine-tuned models to choose destructive actions. We tested whether three op…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.10123",
+      "is_primary": true,
+      "published_at": "2026-11-10T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T08:00:00+08:00",
+  "updated_at": "2026-11-10T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

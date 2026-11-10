@@ -1,0 +1,24 @@
+{
+  "id": "n7d8b4ae6c27e",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "What could China get from Jensen Huang?",
+  "original_title": "What could China get from Jensen Huang?",
+  "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpace…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "is_primary": false,
+      "published_at": "2026-11-10T07:51:58+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T07:51:58+08:00",
+  "updated_at": "2026-11-10T08:07:10+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

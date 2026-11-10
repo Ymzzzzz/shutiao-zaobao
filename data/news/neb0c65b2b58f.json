@@ -1,0 +1,24 @@
+{
+  "id": "neb0c65b2b58f",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+  "original_title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+  "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent report…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "is_primary": false,
+      "published_at": "2026-11-10T07:07:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T07:07:59+08:00",
+  "updated_at": "2026-11-10T07:46:30+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

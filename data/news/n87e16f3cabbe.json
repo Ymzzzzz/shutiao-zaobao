@@ -1,0 +1,30 @@
+{
+  "id": "n87e16f3cabbe",
+  "category": "行业动态",
+  "importance": 2,
+  "verified": false,
+  "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+  "original_title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+  "summary": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 iterations, generates native RGBA images w…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
+      "is_primary": false,
+      "published_at": "2026-11-10T02:50:01+08:00"
+    },
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/024/896.htm",
+      "is_primary": false,
+      "published_at": "2026-11-10T17:02:52+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T02:50:01+08:00",
+  "updated_at": "2026-11-10T17:02:52+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

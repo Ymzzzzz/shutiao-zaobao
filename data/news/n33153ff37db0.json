@@ -1,0 +1,24 @@
+{
+  "id": "n33153ff37db0",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "BAIR at CoRL 2026",
+  "original_title": "BAIR at CoRL 2026",
+  "summary": "The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Care…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "BAIR Blog",
+      "url": "https://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "is_primary": true,
+      "published_at": "2026-11-09T17:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-09T17:00:00+08:00",
+  "updated_at": "2026-11-09T17:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nb54a5923f7fe",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+  "original_title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+  "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "is_primary": false,
+      "published_at": "2026-11-10T03:09:58+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T03:09:58+08:00",
+  "updated_at": "2026-11-10T03:09:58+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}

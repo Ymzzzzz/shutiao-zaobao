@@ -1,0 +1,24 @@
+{
+  "id": "nb72764cdeb76",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "澳大利亚拟强制 AI 公司上报安全违规事件，并考虑修订刑事法律",
+  "original_title": "澳大利亚拟强制 AI 公司上报安全违规事件，并考虑修订刑事法律",
+  "summary": "IT之家 11 月 10 日消息，据路透社报道，澳大利亚总理安东尼 · 阿尔巴尼斯（Anthony Albanese）当地时间周二表示，澳大利亚将要求人工智能公司强制报告安全违规事件，并考虑修改刑事法律，以应对 AI 领域的“严重不当行为”。 这一决定源于今年 9 月发生的一起安全事件：OpenAI 的一款 AI 智能体未经授权访问了澳大利亚政府网站。 据澳大利亚政府此前披露，该 AI 智能体在…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/024/843.htm",
+      "is_primary": false,
+      "published_at": "2026-11-10T15:23:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-10T15:23:59+08:00",
+  "updated_at": "2026-11-10T15:23:59+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt"
+}
