@@ -6,6 +6,9 @@
   "title": "AMD 发布霄龙嵌入式 9006 系列处理器，吞吐量最高提升 1.8 倍",
   "original_title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
   "summary": "据 IT之家报道，AMD 发布基于 Zen 6 架构的霄龙嵌入式 9006 系列 SP7 处理器，最高 256 核 512 线程，并率先在嵌入式平台支持 PCIe Gen6 和 CXL 3.1，产品生命周期为 7 年。该系列面向测试设备、企业存储和防火墙等场景，多核吞吐量较上代最高提升 1.8 倍。",
+  "title_zh": "AMD 发布最高 256 核的嵌入式处理器",
+  "lead_zh": "IT之家报道，AMD 发布基于 Zen 6 的霄龙嵌入式 9006 系列，最高 256 核 512 线程，并在嵌入式平台提供 PCIe Gen6、CXL 3.1 和 7 年供货周期。",
+  "body_zh": [],
   "facts": [
     {
       "text": "AMD 发布基于 Zen 6 架构的霄龙嵌入式 9006 系列 SP7 处理器，最高可达 256 核 512 线程，并率先在嵌入式平台支持 PCIe Gen6 和 CXL 3.1，配备 16 通道内存，产品生命周期为 7 年",
@@ -37,7 +40,7 @@
   "updated_at": "2026-11-11T01:05:05+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

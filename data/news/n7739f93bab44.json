@@ -6,6 +6,41 @@
   "title": "Oura 将以 6.25 亿美元收购 AI 原生初级诊疗公司 Counsel Health",
   "original_title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
   "summary": "据 TechCrunch 报道，Oura 宣布以 6.25 亿美元收购 AI 原生初级诊疗公司 Counsel Health。交易发生在其因市场不确定而无限期推迟最高 22 亿美元 IPO 的数周之后。Counsel 服务已接入 Oura 应用，交易预计在 2027 年底前完成。",
+  "title_zh": "Oura 拟以 6.25 亿美元收购保健公司",
+  "lead_zh": "报道称，智能戒指公司 Oura 将以 6.25 亿美元收购一家人工智能初级保健公司。数周前，它因上市环境不确定，推迟了约 22 亿美元的上市。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "Oura 周二宣布，将以 **6.25 亿美元** 收购人工智能初级保健公司 Counsel Health。TechCrunch 称，数周前 Oura 以“IPO 市场不确定”为由，无限期推迟了最高 **22 亿美元** 的上市。Counsel 的对话式医疗服务已于 6 月接入 Oura 应用，交易预计在 **2027** 年底前完成。",
+        "Counsel 一年前完成 **2500 万美元** A 轮，由 a16z 和 GV 领投；PitchBook 估计累计融资 **3600 万美元**。TechCrunch 引述 Bloomberg：首席执行官 Muthu Alagappan 将出任 Oura 的首席临床人工智能官，约 **70** 名员工一并加入。Oura 还披露，截至 9 月 30 日的季度收入同比增长 **153%**，至 **5.33 亿美元**。"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "Oura 首席执行官 Tom Hale 说，戒指帮助会员理解自己的生理数据，加上 Counsel 之后，就可以把从临时提问、处方到化验、慢病和转诊的需求付诸行动。Alagappan 说，Counsel 的医疗人工智能把医生留在临床决定的环节里。Oura 称收购后 Counsel 会继续服务现有和新的企业客户。"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "TechCrunch 把这笔交易放在竞争背景下：RingConn 和 Ultrahuman 等对手正在进入智能戒指市场，Oura 需要继续扩展业务。文章同时列出财务背景：2026 财年收入约 **17.5 亿美元**，同比增长 **92%**；2025 年 10 月完成 **9 亿美元** 后期融资后，估值达到 **110 亿美元**。"
+      ]
+    }
+  ],
   "facts": [
     {
       "text": "Oura 宣布以 6.25 亿美元收购 Counsel Health，交易预计在 2027 年底前完成",
@@ -43,7 +78,7 @@
   "updated_at": "2026-11-11T03:23:34+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "img/b54a40b1d51301ae3b6092e572db8f22bdc3ba3d.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296609700.jpg?resize=1200,799"
 }

@@ -6,6 +6,9 @@
   "title": "Anthropic 推出 Claude Meetings，可把会议讨论变成计划和任务",
   "original_title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
   "summary": "据 TechCrunch 报道，Anthropic 推出测试版 Claude Meetings：会议进行中，Claude 可起草正在讨论的计划、在白板上排时间线、在聊天里回答问题，并调用已连接的办公应用。会后可查看纪要和待办。该功能先向团队版和企业版开放，目前支持 Google Meet。",
+  "title_zh": "Anthropic 让 Claude 在会议进行时就动手",
+  "lead_zh": "TechCrunch 报道，Claude Meetings 能在通话时起草正在讨论的计划、在白板上排时间，并在聊天里回答问题。同一天还发布了白板和表格功能。",
+  "body_zh": [],
   "facts": [
     {
       "text": "在会议进行中，Claude 可起草正在讨论的计划、在白板上排出时间线、在会议聊天中回答问题，并访问已连接的办公应用以调取信息",
@@ -43,7 +46,7 @@
   "updated_at": "2026-11-11T01:30:00+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "img/5ba04a582f65c1d7eabe28979eac18e5b9d4cc88.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675"
 }

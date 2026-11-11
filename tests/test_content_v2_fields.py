@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CHECK = ROOT / "spec" / "sample-v2" / "check_v2.py"
 DIGEST = ROOT / "data" / "digest" / "2026-11-11.json"
 LATEST = ROOT / "data" / "digest" / "latest.json"
-# 原文页面返回 403，RSS 摘要不够 300 字，正文按规则留空。
+# 原文页面返回 403。main 上的新摘要仍不够写成 300 字正文，故留空。
 OPENAI_403 = {
     "n46ecb159c153",
     "n5ca4dc7b6d88",
@@ -68,12 +68,15 @@ class ContentV2FieldsTest(unittest.TestCase):
         self.assertIn("通过", proc.stdout)
         self.assertNotIn("不通过", proc.stdout)
 
-    def test_latest_matches_dated_digest_and_timestamp_unchanged(self):
+    def test_latest_matches_dated_digest_and_keeps_main_timestamp(self):
         self.assertEqual(self.latest, self.digest)
         self.assertEqual(self.digest["date"], "2026-11-11")
-        self.assertEqual(self.digest["generated_at"], "2026-11-11T07:28:14+08:00")
-        self.assertEqual(self.digest["summary_mode"], "excerpt")
+        self.assertEqual(self.digest["generated_at"], "2026-11-11T09:46:23+08:00")
+        self.assertEqual(self.digest["summary_mode"], "ai")
         self.assertEqual(len(self.digest["items"]), 50)
+        self.assertTrue(OPENAI_403.isdisjoint(self.digest["top_items"]))
+        digests = load(ROOT / "data" / "digests.json")
+        self.assertEqual(digests["digests"][0]["generated_at"], self.digest["generated_at"])
 
     def test_titles_leads_and_key_bodies(self):
         items = self.digest["items"]
@@ -92,6 +95,20 @@ class ContentV2FieldsTest(unittest.TestCase):
                 n["id"] in self.digest["top_items"] or n.get("importance", 1) >= 2
             ):
                 self.assertTrue(n["body_zh"], n["id"])
+        main = json.loads(
+            subprocess.check_output(
+                ["git", "show", "origin/main:data/digest/2026-11-11.json"],
+                cwd=ROOT,
+            )
+        )
+        self.assertEqual(self.digest["top_items"], main["top_items"])
+        self.assertEqual(
+            [n["id"] for n in self.digest["items"]],
+            [n["id"] for n in main["items"]],
+        )
+        for published, current in zip(main["items"], self.digest["items"]):
+            for key in OLD:
+                self.assertEqual(published[key], current[key], (current["id"], key))
 
     def test_new_fields_are_empty_string_or_list_and_old_fields_remain(self):
         for n in self.digest["items"]:

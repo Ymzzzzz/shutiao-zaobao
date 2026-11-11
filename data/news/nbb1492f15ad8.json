@@ -6,6 +6,9 @@
   "title": "Anthropic 为 Claude 增加表格、白板等协作功能，会议纪要将推出",
   "original_title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
   "summary": "据 The Decoder 报道，Anthropic 为 Claude 增加表格和白板等协作功能，并允许 Adobe、Atlassian 等把应用嵌进 Claude。公司称，能加入通话并做笔记的 Claude Meetings 即将上线。",
+  "title_zh": "Claude 加入表格、白板和应用连接",
+  "lead_zh": "报道称，Claude 新增表格、白板和数据看板，并让设计、协作和客户管理三类伙伴把应用嵌进来。公司说会议记录功能即将推出。",
+  "body_zh": [],
   "facts": [
     {
       "text": "Claude Sheets 可协助团队创建和编辑带公式、多工作表的表格，Claude Whiteboards 可用于头脑风暴并由 Claude 做归纳",
@@ -38,7 +41,7 @@
   "updated_at": "2026-11-11T03:48:40+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

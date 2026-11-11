@@ -6,6 +6,9 @@
   "title": "新方法 RidgeFill 无需训练即可加速大模型预填充",
   "original_title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
   "summary": "一篇新论文提出无需训练的加速方法 RidgeFill：提示词只需精确计算模型的较低层，再用一次拟合的映射去填充较高层缓存。作者称，在部分模型和推理框架上，首个 token 的生成速度可提高约 1.25 至 1.60 倍，同时长文本基准变化较小。",
+  "title_zh": "RidgeFill 试图免训练加快预填充",
+  "lead_zh": "RidgeFill 在不重新训练的前提下，少算提示词的大部分高层。低层算到切分点后，用逐层映射预测后面各层的输入，再由这些层写出缓存。",
+  "body_zh": [],
   "facts": [
     {
       "text": "RidgeFill 在一个分割层之前精确计算较低层，再用一次闭式岭回归拟合的逐层映射，为后续高层填写缓存，无需额外训练，也不丢弃 token",
@@ -33,7 +36,7 @@
   "updated_at": "2026-11-10T08:00:00+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

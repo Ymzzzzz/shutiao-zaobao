@@ -6,6 +6,9 @@
   "title": "AWS 推出 Amazon Bedrock 调用日志数据湖，用于看清每次调用成本",
   "original_title": "Amazon Bedrock tokenomics data lake",
   "summary": "AWS 介绍了一套中心化的 Amazon Bedrock 可观测数据湖方案：把各账户的模型调用日志汇总到一处，处理后可用 Athena 查询每次调用的提示、模型、token 用量和成本。该方案以基础设施即代码提供，示例代码已放在 GitHub 仓库中。",
+  "title_zh": "博文演示如何集中查看 Bedrock 调用",
+  "lead_zh": "AWS 博文给出一种做法：把各关联账户的模型调用日志收成一张可查询的表，从而看到提示词、返回、Token 数量和所用模型，而不只是总账单。",
+  "body_zh": [],
   "facts": [
     {
       "text": "该方案把各关联账户中的 Amazon Bedrock 模型调用日志汇集到中心账户，处理后形成可查询的数据表",
@@ -37,7 +40,7 @@
   "updated_at": "2026-11-11T00:56:36+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

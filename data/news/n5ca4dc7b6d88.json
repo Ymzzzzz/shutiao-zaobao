@@ -6,6 +6,9 @@
   "title": "ChatGPT 上线企业主页和 Business Agent，商家可认领信息并接待咨询",
   "original_title": "Introducing Businesses in ChatGPT",
   "summary": "OpenAI 推出测试版「ChatGPT 中的企业」：商家可通过 Business Hub 认领主页、更新资料和商品信息，并查看汇总后的互动数据。符合条件的美国电商和在线服务商还可上线 Business Agent，在独立对话中回答顾客问题。OpenAI 称不会向商家提供用户对话内容。",
+  "title_zh": "ChatGPT 测试企业主页和商务代理",
+  "lead_zh": "商家可通过业务中心认领主页、更新资料和带价格库存的商品，并查看汇总互动。符合条件的美国电商可上线商务代理，在独立对话里回答顾客，且内容不提供给商家。",
+  "body_zh": [],
   "facts": [
     {
       "text": "商家可通过 Business Hub 认领并验证企业主页，更新关键信息，并添加含价格和库存的自助商品数据源",
@@ -43,7 +46,7 @@
   "updated_at": "2026-11-10T18:00:00+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

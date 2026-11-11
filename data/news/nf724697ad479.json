@@ -6,6 +6,9 @@
   "title": "Anthropic 推出面向知识工作者的 AI 办公套件",
   "original_title": "Anthropic has its own AI-powered office suite now",
   "summary": "据 The Verge 报道，Anthropic 在旧金山发布 Claude Meetings、Sheets 和 Whiteboards，可加入会议做笔记、协作编辑表格和共用白板，目前均为测试版。公司还推出交互式连接器，可在 Claude 内打开 Adobe、Atlassian 等合作方应用。",
+  "title_zh": "Anthropic 把 Claude 扩成办公工具套件",
+  "lead_zh": "The Verge 报道，Anthropic 在企业和编程工具之外，推出带人工智能的办公套件，面向更广的知识工作者，并赶在上市之前争取白领用户。",
+  "body_zh": [],
   "facts": [
     {
       "text": "Anthropic 在旧金山发布 Claude Meetings、Claude Sheets 和 Claude Whiteboards，三者目前均为测试版；前两项向所有付费方案开放，Meetings 面向 Teams 和 Enterprise",
@@ -49,7 +52,7 @@
   "updated_at": "2026-11-11T01:30:00+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "img/4f2344d2470d5902bdac32e05b07edddedee171e.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
 }

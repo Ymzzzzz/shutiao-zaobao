@@ -6,6 +6,31 @@
   "title": "Anthropic 确认 IPO 定价区间，最高估值约 1.4 万亿美元",
   "original_title": "Anthropic targets $1.4 trillion IPO",
   "summary": "据 The Verge 报道，Anthropic 确认 IPO 发行价预计为每股 70 至 78 美元，最高估值约 1.4 万亿美元，低于此前外界预期的最高 2 万亿美元。公司已申请以股票代码 ANT 在纳斯达克上市。有消息称，股票可能于下周四五开始交易。",
+  "title_zh": "The Verge：Anthropic 上市估值上看 1.4 万亿",
+  "lead_zh": "The Verge 报道，Anthropic 确认 IPO 发行价预计为每股 70 到 78 美元，估值最高可达 1.4 万亿美元，低于此前最高约 2 万亿美元的预期，并申请以 ANT 在纳斯达克上市。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "sources": [
+        "The Verge"
+      ],
+      "paras": [
+        "The Verge 报道，Anthropic 周二确认，这次 IPO 可能是有史以来规模最大的之一，但仍低于先前预期。发行价预计为每股 **70** 到 **78** 美元。该刊引述《纽约时报》称，对应估值最高为 **1.4 万亿美元**。公司已申请把 A 类普通股放在纳斯达克全球精选市场，代码为 ANT。",
+        "文章引述《华尔街日报》的消息源称，Anthropic 希望下周周四或周五开始交易。它还引述路透社称，此前列出的估值预期最高可达 **2 万亿美元**。作为对照，截至上周，竞争对手 OpenAI 的估值为 **1.25 万亿美元**。"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "sources": [
+        "The Verge"
+      ],
+      "paras": [
+        "The Verge 把估值预期下调，放在几个月来关于人工智能安全的争论、中期选举显示出的舆论变化，以及英伟达首席执行官黄仁勋相关报道之后。文章认为，上市仍可能让 Anthropic 在下周就成为全球市值最高的上市公司之一，只是不再沿着此前更高的目标定价。"
+      ]
+    }
+  ],
   "facts": [
     {
       "text": "Anthropic 确认 IPO 发行价预计为每股 70 至 78 美元，按此计算最高估值约 1.4 万亿美元",
@@ -38,7 +63,7 @@
   "updated_at": "2026-11-11T00:38:24+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

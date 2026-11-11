@@ -6,6 +6,9 @@
   "title": "OpenAI 在美国五座城市为照护者举办免费 ChatGPT 培训",
   "original_title": "Helping caregivers use AI in everyday life",
   "summary": "OpenAI Academy 与照护行动网络、阿尔茨海默病协会和美国糖尿病协会合作，在国家家庭照护者月期间，于奥克兰、坦帕、匹兹堡、亚特兰大和底特律举办免费实践工作坊，帮助照护者安全、实际地使用 ChatGPT 安排日程和查找资源。",
+  "title_zh": "OpenAI 在五座城市为照护者办免费课",
+  "lead_zh": "OpenAI Academy 与三家照护组织合作，在奥克兰、坦帕、匹兹堡、亚特兰大和底特律举办免费 ChatGPT 工作坊，帮助照护者安排日程并查找资源。",
+  "body_zh": [],
   "facts": [
     {
       "text": "OpenAI Academy 与 Caregiver Action Network、Alzheimer's Association 和 American Diabetes Association 合作，在美国五座城市举办免费、面对面的 ChatGPT 工作坊",
@@ -43,7 +46,7 @@
   "updated_at": "2026-11-10T20:00:00+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

@@ -6,6 +6,9 @@
   "title": "Trovata 在 Amazon Bedrock 上构建自主资金管理智能体",
   "original_title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
   "summary": "AWS 介绍了资金管理平台 Trovata 如何在 Amazon Bedrock 和 AgentCore 上构建自主资金管理智能体。该平台已连接逾 1 万家银行，可在权限控制下自动查询和监测资金状况，并把原先耗时数小时甚至数天的报表缩短到一分钟以内。",
+  "title_zh": "Trovata 在云上做自主资金管理代理",
+  "lead_zh": "AWS 博文介绍，Trovata 用 Bedrock 和 AgentCore 做带权限控制的资金管理代理，连接超过一万家银行，把企业司库从手工报表推向实时决策。",
+  "body_zh": [],
   "facts": [
     {
       "text": "Trovata 是面向企业资金与流动性管理的平台，已直接连接逾 1 万家银行",
@@ -37,7 +40,7 @@
   "updated_at": "2026-11-11T02:11:08+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }
