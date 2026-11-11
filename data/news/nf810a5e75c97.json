@@ -6,6 +6,46 @@
   "title": "Fable 5.2 首批实测出炉，可完成 41% 真实自由职业任务",
   "original_title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
   "summary": "据量子位报道，Anthropic 新模型 Fable 5.2 推出后出现首批网友实测，涵盖作曲、拍片和 3D 建模等任务，有网友对比后称 Opus 突然不香了。另据 The Decoder 报道，Fable 5.2 能完成 41% 的真实自由职业任务，一年前这一比例只有 2.5%。",
+  "title_zh": "Fable 5.2 在真实自由职业任务上领先",
+  "lead_zh": "The Decoder 报道，Fable 5.2 在远程劳动指数上完成 41.3% 的真实自由职业任务，约一年前榜首只有 2.5%。量子位则汇总了作曲、拍片和三维建模等首批网友实测。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "sources": [
+        "The Decoder",
+        "量子位"
+      ],
+      "paras": [
+        "据 The Decoder 报道，Anthropic 的 Fable 5.2 在远程劳动指数上以 **41.3%** 领先。这项测试看智能体能否把真实自由职业任务做到付费客户愿意收下。约一年前榜首 Manus 只有 **2.5%**，今年 7 月同系列的 Fable 5 约为 **16%**，直接前代 Fable 5.1 不到 18%。",
+        "同一榜单上，Opus 5.5 为 21.25%，GPT 6 Astra 为 20.83%。数据集包含 240 个项目，来自 358 名经核验的 Upwork 专业人士，合计约 14.4 万美元。量子位另一篇报道写，在 RoboDojo 仿真双臂测试中，Fable 5.2 得分 **64.9%**，GPT-6 Astra 为 29.8%。"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "sources": [
+        "量子位"
+      ],
+      "paras": [
+        "量子位称，软件工程测试达到 **69.9%**，比上一代提高 **13.6** 个百分点；输出速度比 Fable 5.1 最高快 **30%**，支持 **100 万** Token 上下文，输出最长 **12.8 万** Token。每百万输入和输出 Token 的 API 价格为 **8** 美元和 **40** 美元，整体下降 **20%**。该媒体还汇总了作曲、拍片和三维建模等网友演示。"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "sources": [
+        "The Decoder",
+        "量子位"
+      ],
+      "paras": [
+        "The Decoder 援引 Scale Labs 的说法：提升最明显的是音频和音乐编辑、建筑与室内设计以及三维模型，工业产品设计和动画仍然很弱；其中近 50 项任务是这项测试里此前没有智能体完成过的。量子位的标题则引用网友评价，称和 Fable 5.2 相比，Opus 显得不香了。"
+      ]
+    }
+  ],
+  "image_url": "img/69bea3ec476f1220e44e7513215e2e861914f1fc.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/07/Remote-labor-index-bench-title.png",
   "facts": [
     {
       "text": "量子位汇总了 Fable 5.2 的首批网友实测，涉及作曲、拍片、3D 建模等任务",

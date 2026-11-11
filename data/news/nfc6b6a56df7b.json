@@ -6,6 +6,34 @@
   "title": "Gemini 4 Carbon 正式开放使用",
   "original_title": "Gemini 4 Carbon is now available",
   "summary": "Google DeepMind 宣布向开发者、企业、科研人员和普通用户开放 Gemini 4 Carbon，称这是其最强的模型，擅长网络安全和长周期智能体任务。两周前该模型先向网络安全防御者开放，现已通过 API 提供给付费开发者，并向 Google AI Ultra 订阅用户推出。",
+  "title_zh": "Gemini 4 Carbon 向付费用户和订阅者开放",
+  "lead_zh": "DeepMind 宣布向开发者、企业、科研人员和普通用户开放 Gemini 4 Carbon，价格与上一款模型相同，并预览把一条提示拆成一组智能体的功能。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "sources": [
+        "Google DeepMind Blog"
+      ],
+      "paras": [
+        "Google DeepMind 宣布，Gemini 4 Carbon 现已向开发者、企业、科研人员和消费者开放。两周前，它先经 Fairwind 计划提供给一批网络安全防御者。现在，付费开发者和企业可通过 Google AI Studio 与 Gemini 商业版的 API 使用，介绍价与 Gemini 4 Argon 相同：每百万输入 Token **2** 美元，每百万输出 Token **10** 美元。",
+        "它也在向 Google AI Ultra 订阅用户推出，覆盖 Google Antigravity、Gemini 应用和搜索中的 AI Mode。博客同时预览 Antigravity 里的 /swarm：一条提示可以变成一组分工的智能体，并在实时界面里查看。"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "sources": [
+        "Google DeepMind Blog"
+      ],
+      "paras": [
+        "DeepMind 称 Carbon 是自己最强的模型，强项是网络安全，以及跨知识工作、软件工程和科学推理的长周期智能体任务。Argon 仍被公司视为多数软件工程和知识工作的合适选择；Carbon 会用更多 Token 做深入推理和长时间验证。公司称它在 CursorBench 4.0、Perplexity 的 WANDR 和 Zapier 的 AutomationBench 上排第 **1**，单任务成本比下一名外部模型低一倍以上。"
+      ]
+    }
+  ],
+  "image_url": "img/5f77d604dcae4f708385b04a21aad342fce07670.jpg",
+  "image_source": "Google DeepMind Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
   "facts": [
     {
       "text": "Gemini 4 Carbon 已通过 Google AI Studio 和 Gemini for business 的 API 向所有付费开发者和企业开放，并向 Google AI Ultra 订阅用户推出",

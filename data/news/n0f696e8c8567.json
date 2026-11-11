@@ -6,6 +6,46 @@
   "title": "DeepMind 发布 Gemini Robotics 2.5 和开放安全基准 ASIMOV-jailbreak",
   "original_title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
   "summary": "据 Ars Technica 报道，Google DeepMind 发布机器人模型 Gemini Robotics 2.5，并推出开放安全基准 ASIMOV-jailbreak，新模型部分任务成功率最高达此前两倍。另据 The Decoder 报道，在奔驰装配试点中，它分拣金属零件得分 96%。",
+  "title_zh": "DeepMind 发布机器人模型并公开安全测试",
+  "lead_zh": "Ars Technica 报道，Gemini Robotics 2.5 成功率最高可到此前的两倍，并公开安全基准。The Decoder 称，奔驰产线分拣金属零件的成功率为 96%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "sources": [
+        "Ars Technica",
+        "The Decoder"
+      ],
+      "paras": [
+        "Google DeepMind 发布视觉语言动作模型 Gemini Robotics 2.5，并公开安全基准 ASIMOV-jailbreak。Ars Technica 称，评估覆盖 200 多项活动，包括用夹子分发食物和实验室移液；搭载该模型的 Apptronik Apollo 2 能用五指手打蝴蝶结。与上一版相比，成功率高出 **30%** 到 **100%**，速度提高 **20%** 到 **30%**。",
+        "The Decoder 报道，DeepMind 与 Apptronik、奔驰在匈牙利和德国的在产线上做了试点。Apollo 2 从散装箱分拣金属零件并按车辆顺序放入托盘，报道的成功率为 **96%**。Ars 称 ASIMOV 数据集有 **1500** 条诱导不安全行为的提示，放在 Hugging Face 上。"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "sources": [
+        "Ars Technica",
+        "The Decoder"
+      ],
+      "paras": [
+        "Ars Technica 引述 DeepMind 总监 Kanishka Rao：补上最后 4 个百分点会是一条陡路。机器人负责人 Carolina Parada 说，可以把某一个应用做得很强，代价是牺牲泛化。The Decoder 引述 Apptronik 首席执行官 Jeff Cardenas：后训练几周内模型进步明显，转到奔驰产线后性能损失很小。两家媒体对 Argon 的越狱抵抗数字并不相同，Ars 写的是 **98.8%**，The Decoder 写的是 **99.5%**。"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "sources": [
+        "Ars Technica"
+      ],
+      "paras": [
+        "Ars Technica 指出，96% 对奔驰这类工厂可能仍不够，因为人做这类重复工作时几乎每次都正确。文章还写道，当前版本仍跑在云端，演示被加速，延迟并未消失。"
+      ]
+    }
+  ],
+  "image_url": "img/4810e460b1f67f7e76a8cb0a221290f1ddbe26b6.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
   "facts": [
     {
       "text": "Google DeepMind 发布 Gemini Robotics 2.5，并推出开放安全基准 ASIMOV-jailbreak",

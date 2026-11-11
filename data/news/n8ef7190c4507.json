@@ -6,6 +6,44 @@
   "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
   "original_title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
   "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private plac…",
+  "title_zh": "Anthropic 路演估值上看 1.02 万亿美元",
+  "lead_zh": "The Decoder 引述路透社报道，Anthropic 开始上市路演，按招股书股本估算估值最高约 1.02 万亿美元，公开发行最多筹资 644 亿美元，另有 260 亿美元私募配售。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "sources": [
+        "The Decoder"
+      ],
+      "paras": [
+        "The Decoder 引述路透社报道，Anthropic 计划通过公开发行最多筹集 **644 亿美元**，按招股书所列股数估算，估值最高约 **1.02 万亿美元**。方案曾在周一晚间发给投行，随后被撤回。官方公布的公开发行包含 **8.25 亿** 股 A 类普通股，定价每股 **70** 到 **78** 美元，股票代码 ANT。",
+        "其中 801351354 股由公司发行，现有股东出售 23648646 股，公司不会从这批二次发售中获得收入。高盛和摩根士丹利牵头的承销团有 **30** 天选择权，可再买 **1.2375 亿** 股。另有 **260 亿美元** 私募，基石投资者包括谷歌、英伟达、AMD、博通、美光、微软和台积电，配售总额最高 **904 亿美元**。"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "sources": [
+        "The Decoder"
+      ],
+      "paras": [
+        "The Decoder 引述招股书称，第三季度净亏损收窄，营收环比增长 **47%**，至 **169.6 亿美元**；上一季度的环比增幅为 **144%**。公司把增长归于 Claude 在医疗、金融和法律等行业方案上的需求，并写明已承诺近 **9000 亿美元** 的算力容量，部分未来基础设施取决于开发者无法控制的融资。"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "sources": [
+        "The Decoder"
+      ],
+      "paras": [
+        "文章称，潜在支持者在此前 **1.5 万亿美元** 的数字被认为过高之后，推动了更低的估值。今年 5 月的私募把公司估在 **9650 亿美元**。The Decoder 还把推迟后的 IPO 放在高利率和市场对数据中心产能的怀疑之中，并称纳斯达克在中期选举后的周四出现了 19 个月来最大的单日下跌。"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
   "facts": [],
   "claims": [],
   "analysis": [],

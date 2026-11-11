@@ -6,6 +6,44 @@
   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
   "original_title": "All 7 Anthropic founders will each cash out about $250M in IPO",
   "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving th…",
+  "title_zh": "Anthropic 七位创始人 IPO 拟各套现约 2.5 亿",
+  "lead_zh": "TechCrunch 根据最新 S-1 报道，七位联合创始人计划出售同样数量的股票，按发行价区间中点计算，每人大约套现 2.5 亿美元，并仍共同掌握公司投票权。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "TechCrunch 报道，Anthropic 在新的 S-1 中披露，七位联合创始人每人将出售 **3378378** 股。初步发行价为每股 **70** 到 **78** 美元。按中点 **74** 美元计算，每人收入略低于 **2.5 亿美元**；若按 70 美元，约为 2.36 亿美元，按 78 美元则略低于 2.64 亿美元。",
+        "这七人是首席执行官 Dario Amodei、总裁兼董事长 Daniela Amodei、首席计算官 Tom Brown、公益事务负责人 Jack Clark、首席科学官 Jared Kaplan、首席架构师 Sam McCandlish，以及可解释性研究负责人 Christopher Olah。出售后每人约持有已发行 A 类股的 **3.2%**，合计约 22%。"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "招股文件怎么说",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "招股书显示，每人还会获得一股带超级投票权的 F 类股票，七人合计控制 **51.1%** 的投票权，没有单个人的持股或票数明显高于其他人。董事 Reed Hastings 表示希望通过捐赠者建议基金购买 **3 亿美元** 股票，董事 Christopher Liddell 希望购买 **300 万美元**。"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "TechCrunch 提醒，A 类股并不是公司的全部股权。亚马逊和谷歌等持有没有投票权的 N 类股，因此创始人在总股权中的比例会更小，但作为一个整体仍然控制公司。文章还回顾，这七人于 2021 年离开 OpenAI 创立 Anthropic。"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
   "facts": [],
   "claims": [],
   "analysis": [],

@@ -6,6 +6,47 @@
   "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
   "original_title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
   "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe…",
+  "title_zh": "Adobe 给视频和照片增加生成式移除",
+  "lead_zh": "报道称，Adobe 在年度大会上为视频、照片和修图软件增加移除杂物与瑕疵的功能，创意套件加入原型工具，并让外部聊天机器人调用一部分桌面应用。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "sources": [
+        "The Verge",
+        "TechCrunch"
+      ],
+      "paras": [
+        "Adobe 在迈阿密举行的 MAX 上更新 Creative Cloud 和 Firefly。The Verge 报道，Premiere 推出仍处测试的生成式移除，可在时间线上擦掉吊杆麦克风和背景杂物；Photoshop 的移除工具更能补上反光、阴影和脚印，并新增前后对比和重新布光。Lightroom 桌面版加入一键祛瑕，睁眼功能进入公开测试。",
+        "另一篇报道称，创意套件里的原型工具以私人测试推出，并新增图表，以及把片段、图片和音效拼成视频的能力。公司发布本地连接协议，让外部聊天机器人调用插画、照片、特效和视频应用的部分功能，新收购的图像实验室还放出放大降噪和高动态范围两款模型。"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "sources": [
+        "The Verge",
+        "TechCrunch"
+      ],
+      "paras": [
+        "Adobe 称，Premiere 会用生成式模型把擦除区域补上看起来真实的细节，周围画面保持不动。负责产品的副总裁 Deepa Subramaniam 告诉 TechCrunch，公司还在决定 MCP 开放哪些能力，会看用户怎么用再继续增加，并不打算主动限制端点能暴露的功能。"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "sources": [
+        "TechCrunch",
+        "The Verge"
+      ],
+      "paras": [
+        "一篇报道把新的原型工具视为进入界面设计竞争对手的地盘。另一篇认为新的流程图和原型工具，与对手去年的两款产品相似，并引述对方联合创始人上个月的话：这种连接协议并不完美，而且更利于最大的模型实验室。"
+      ]
+    }
+  ],
+  "image_url": "img/4e24c008c119ee55fcfe24732ad849e3e8c301d9.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PS-Remove-No-Logo-2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
   "facts": [],
   "claims": [],
   "analysis": [],

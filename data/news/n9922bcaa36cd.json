@@ -6,6 +6,45 @@
   "title": "TechCrunch 梳理黄仁勋与被指中国间谍者婚外情时间线",
   "original_title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
   "summary": "据 TechCrunch 报道，英伟达 CEO 黄仁勋被曝与一名被指为中国间谍的人有婚外情，TechCrunch 为此整理了一份事件时间线。报道认为，在美国和中国竞相开发最先进 AI 基础设施之际，这段关系可能对国家安全产生影响。The Verge 也从中美 AI 竞赛的角度报道了这一事件。",
+  "title_zh": "黄仁勋承认不忠，报道聚焦芯片与安全",
+  "lead_zh": "TechCrunch 报道，黄仁勋向员工承认对妻子不忠，并称董事会已启动独立调查。报道同时写到，美国官员怀疑与其交往的 Megaspeed 高管向中国传递信息。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "TechCrunch 报道，现年 63 岁的英伟达联合创始人兼首席执行官黄仁勋，在同时对外发布的员工信中承认，自己对结婚 40 年的妻子不忠。信里没有点名对方，但把这件事和新闻报道中的国家安全关切连在一起。英伟达董事会已启动独立调查，黄仁勋表示会配合。",
+        "同一报道称，美国官员认为交往对象是 Megaspeed 高管 Alice Huang，并怀疑她在向北京传递信息；她与黄仁勋没有亲属关系。Megaspeed 据报过去两年购买了 **48 亿美元** 的英伟达芯片，美国和新加坡都曾调查它是否把芯片非法提供给中国。信公开后的下一个交易日，英伟达股价下跌超过 **5%**。"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "黄仁勋在信中向家人和员工道歉，承认不忠，并写道没有任何借口。英伟达发言人 John Rizzo 说，首席执行官与客户高管会面并不罕见，公司每年有数千次此类会面；如果美国政府认为某人威胁美国产业，会通知英伟达。TechCrunch 还记述，特朗普周日说自己尚未就此事与黄仁勋交谈，并在被问到是否应留任时表示他认为应该留任。"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "sources": [
+        "TechCrunch",
+        "The Verge"
+      ],
+      "paras": [
+        "TechCrunch 认为，在美国和中国竞相建设最先进人工智能基础设施时，这段关系可能影响到国家安全。The Verge 引述新美国安全中心的 Emily Kilcrease：没有最新的英伟达芯片，中国难以缩小与美国前沿能力的差距；若得到这些芯片，美国的领先可能在数周或数月内消失。该文同时写明，没有公开证据表明黄仁勋本人协助把受限芯片送往中国。"
+      ]
+    }
+  ],
+  "image_url": "img/7cc778d1943ec29b7f10cc5e5947f0d34ffde5dd.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
   "facts": [
     {
       "text": "TechCrunch 发布了黄仁勋与被指中国间谍者婚外情事件的时间线",
