@@ -3,10 +3,21 @@
   "category": "大模型与产品",
   "importance": 1,
   "verified": true,
-  "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+  "title": "Hugging Face Hub 现已支持用 Google Cloud 账户结算",
   "original_title": "Pay for Hugging Face Hub with your Google Cloud Account",
-  "summary": "",
-  "facts": [],
+  "summary": "Hugging Face 宣布，企业可把组织账户关联到 Google Cloud 账单，将 Hub 上的订阅、推理和存储等费用记到现有谷歌云发票上，不必再单独绑公司信用卡。管理员需先在 Marketplace 订阅，再完成关联，经审核后开始按此结算。",
+  "facts": [
+    {
+      "text": "企业可以把 Hugging Face 组织账户关联到 Google Cloud 账户，使 Hub 使用费用出现在现有的谷歌云账单中，而不必再单独使用公司信用卡",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace"
+    },
+    {
+      "text": "管理员需先在 Google Cloud Marketplace 订阅，再选择要关联的 Hugging Face 组织；订阅经 Hugging Face 团队审核通过后，才开始按此方式结算",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace"
+    }
+  ],
   "claims": [],
   "analysis": [],
   "sources": [
@@ -20,7 +31,7 @@
   "published_at": "2026-11-10T08:00:00+08:00",
   "updated_at": "2026-11-10T08:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

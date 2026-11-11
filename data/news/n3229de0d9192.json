@@ -3,10 +3,21 @@
   "category": "大模型与产品",
   "importance": 1,
   "verified": true,
-  "title": "Decision Models in Hugging Face",
+  "title": "Hugging Face 推出决策模型，可直接对预定义选项给出概率",
   "original_title": "Decision Models in Hugging Face",
-  "summary": "",
-  "facts": [],
+  "summary": "Hugging Face 介绍了决策模型，并在 transformers 中新增 decision 接口。与逐词生成文本不同，这类模型针对预定义选项直接给出概率分布，适合客服分流、分类等结构化任务。文章还解释了它与传统分类、零样本分类的区别。",
+  "facts": [
+    {
+      "text": "Hugging Face 在 transformers 中新增了名为 decision 的接口，用于调用决策模型",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/decision"
+    },
+    {
+      "text": "决策模型接收输入状态、问题和允许的答案，直接返回结构化决定及各选项的概率，而不是逐词生成文本",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/decision"
+    }
+  ],
   "claims": [],
   "analysis": [],
   "sources": [
@@ -20,7 +31,7 @@
   "published_at": "2026-11-10T08:00:00+08:00",
   "updated_at": "2026-11-10T08:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

@@ -3,11 +3,28 @@
   "category": "研究与论文",
   "importance": 1,
   "verified": true,
-  "title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+  "title": "新基准 MotionGraphicsBench 用程序校验评估动态图形生成",
   "original_title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
-  "summary": "Large language models can generate motion graphics from static images and natural language requests, but it remains difficult to evaluate how well models can follow requests that combine spatial, app…",
-  "facts": [],
-  "claims": [],
+  "summary": "一篇新论文发布 MotionGraphicsBench，用于评估大模型根据提示为静态 SVG 生成动态图形的能力。该基准有 100 道专家整理的题目，并用可程序化校验的方式判断要求是否满足。测试显示，47 种模型配置的一次通过率介于 6.0% 到 67.7% 之间。",
+  "facts": [
+    {
+      "text": "MotionGraphicsBench 包含 100 道由专家整理的题目，要求模型根据提示为给定的静态 SVG 生成动态效果，并用确定性的校验程序判断各项要求是否通过",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.10592"
+    },
+    {
+      "text": "在 32 个大模型和 12 家提供方的 47 种配置中，一次尝试的通过率介于 6.0% 到 67.7% 之间",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.10592"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据作者称，在 180 个动画的对照测试中，其校验程序与人工判断的原始一致率为 93.3%，高于作为基线的 GPT-6 Astra 的 83.3%",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.10592"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,7 +37,7 @@
   "published_at": "2026-11-10T08:00:00+08:00",
   "updated_at": "2026-11-10T08:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null
