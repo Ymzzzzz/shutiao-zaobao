@@ -3,38 +3,26 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": true,
-  "title": "Google Cloud launches Gemini for healthcare.",
+  "title": "Google Cloud 推出 Gemini for healthcare，用于打通临床数据与流程",
   "original_title": "Google Cloud launches Gemini for healthcare.",
-  "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-  "title_zh": "谷歌云预览面向医疗的 Gemini 方案",
-  "lead_zh": "谷歌云宣布 Gemini for healthcare 预览，打算把电子病历、账单和临床指南接到同一套流程里，并在人工监督下处理病历综合和事先授权。首批伙伴包括 HCA Healthcare。",
-  "body_zh": [
+  "summary": "Google Cloud 推出 Gemini for healthcare，用于整合电子病历、计费和临床指南等分散数据，并在人工监督下自动处理病历汇总、事先授权审核等流程。该服务先以预览形式提供，合作伙伴包括 HCA 等医疗系统。",
+  "facts": [
     {
-      "kind": "facts",
-      "heading": "发生了什么",
-      "sources": [
-        "Google AI Blog"
-      ],
-      "paras": [
-        "谷歌云宣布 Gemini for healthcare，目标是把分散的临床、运营和行政系统接到一起，让医疗团队把隔离的数据变成可以协调的行动，而不是只做信息检索。博文写道，临床人员每周有将近 **28** 小时花在文书和行政事务上。",
-        "它通过专门技能和数据连接器接入现有第三方系统，汇集电子病历、账单平台、临床指南和 Medicare 数据集。目前以预览形式提供，发布时的合作伙伴包括 HCA Healthcare、Highmark Health 和 Northwell Health。"
-      ]
+      "text": "Gemini for healthcare 可连接电子病历、计费平台、临床指南和 Medicare 数据集等现有系统",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
     },
     {
-      "kind": "claims",
-      "heading": "公司怎么说",
-      "sources": [
-        "Google AI Blog"
-      ],
-      "paras": [
-        "谷歌称，这套方案会在设定的护栏和人工监督下，编排并执行病历综合、事先授权审核这类多步骤流程，用来疏通瓶颈，把员工时间腾回给患者照护。页面没有给出独立的临床效果数字，上述 28 小时来自这篇官方博文的陈述。"
-      ]
+      "text": "该平台可在既定护栏和人工监督下编排病历汇总、事先授权审核等复杂多步流程",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+    },
+    {
+      "text": "服务先以预览形式提供，发布合作伙伴包括 HCA Healthcare、Highmark Health 和 Northwell Health",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
     }
   ],
-  "image_url": "img/1e83c10cf2a814bfaa4f22e30bc190c5a484313f.jpg",
-  "image_source": "Google AI Blog",
-  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-1440x810.png",
-  "facts": [],
   "claims": [],
   "analysis": [],
   "sources": [
@@ -48,5 +36,8 @@
   "published_at": "2026-11-10T21:00:00+08:00",
   "updated_at": "2026-11-10T21:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

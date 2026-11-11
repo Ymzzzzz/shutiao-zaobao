@@ -3,17 +3,28 @@
   "category": "行业动态",
   "importance": 1,
   "verified": false,
-  "title": "The indie game community is in disarray over AI and Big Walk",
+  "title": "独立游戏节评审拒评生成式 AI 作品，热门游戏 Big Walk 陷入争议",
   "original_title": "The indie game community is in disarray over AI and Big Walk",
-  "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big…",
-  "title_zh": "独立游戏节评委拒绝投给生成式作品",
-  "lead_zh": "The Verge 报道，部分独立游戏节评委声明，不会投票给以任何方式使用生成式人工智能的游戏。游戏《Big Walk》的开发者则说自己只用了一点点，用来解决技术难题。",
-  "body_zh": [],
-  "image_url": "img/32ea8785dd3bffbe7ad985ce189a0037fde42fca.jpg",
-  "image_source": "The Verge",
-  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-  "facts": [],
-  "claims": [],
+  "summary": "据 The Verge 报道，部分独立游戏节评审发表声明，拒绝为任何使用生成式 AI 的作品投票。热门游戏 Big Walk 的开发商随后承认，在开发后期曾少量使用大模型辅助解决技术难题，并估计相关代码不到全部的 0.1%。该声明并不代表组委会立场。",
+  "facts": [
+    {
+      "text": "部分独立游戏节（IGF）评审发表声明称，不会为任何使用生成式 AI 的游戏投票；声明写明并不代表 IGF 组织或全体评审的立场",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
+    },
+    {
+      "text": "Big Walk 开发商 House House 随后表示，仅在开发后期少量使用大模型，以协助解决困难的技术问题和漏洞，并估计与此相关的代码远低于全部代码的 0.1%，且未在其他环节使用生成式 AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 House House 称，这并不是对 AI 工具的背书，他们担心自愿披露可能让这种技术被当成必然，并为此前的使用可能达不到反对者的标准而道歉",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -26,5 +37,8 @@
   "published_at": "2026-11-11T01:32:47+08:00",
   "updated_at": "2026-11-11T03:06:22+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

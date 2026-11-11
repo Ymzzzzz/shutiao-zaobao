@@ -3,48 +3,26 @@
   "category": "AI公司与融资",
   "importance": 2,
   "verified": false,
-  "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+  "title": "Anthropic 设定 IPO 定价每股 70 至 78 美元，估值最高 1.404 万亿美元",
   "original_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-  "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-  "title_zh": "Anthropic 更新招股：每股 70 至 78 美元",
-  "lead_zh": "TechCrunch 报道，Anthropic 更新后的 IPO 文件计划发行 8.25 亿股 A 类股，价格区间为每股 70 至 78 美元，若按上限成交，完全摊薄估值约为 1.404 万亿美元。",
-  "body_zh": [
+  "summary": "据 TechCrunch 报道，Anthropic 计划发行 8.25 亿股 A 类股，定价每股 70 至 78 美元，按上限计算完全摊薄估值约 1.404 万亿美元，公开募资约 577.5 亿至 643.5 亿美元。公司还将向谷歌、英伟达等私募配售 260 亿美元股份，代码定为 ANT。",
+  "facts": [
     {
-      "kind": "facts",
-      "heading": "发生了什么",
-      "sources": [
-        "TechCrunch"
-      ],
-      "paras": [
-        "TechCrunch 报道，Anthropic 在周二更新的 IPO 文件中写明，将发行合计 **8.25 亿** 股 A 类股，预估价格为每股 **70** 到 **78** 美元，募资约 **577.5 亿** 到 **643.5 亿美元**。若按区间上限上市，完全摊薄估值约为 **1.404 万亿美元**。今年 5 月融资时的估值为 9650 亿美元，仍低于数月前市场流传的 **2 万亿美元** 目标。",
-        "公司另按 IPO 价格私募 **260 亿美元** 无投票权的 N 类股，对象包括 AMD、博通、谷歌、美光、微软、英伟达和台积电，其中谷歌和英伟达各 **100 亿美元**。承销商可额外购买最多 **1.2375 亿** 股。TechCrunch 引述 CNBC 称，交易可能在 11 月 19 日前后于纳斯达克开始，代码 ANT。"
-      ]
+      "text": "Anthropic 计划发行 8.25 亿股 A 类股，定价区间为每股 70 至 78 美元，公开募资规模约为 577.5 亿至 643.5 亿美元",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
     },
     {
-      "kind": "claims",
-      "heading": "招股文件怎么说",
-      "sources": [
-        "TechCrunch"
-      ],
-      "paras": [
-        "更新文件称，到 10 月底年化营收达到 **810 亿美元**，比 9 月底多出约 **100 亿美元**。第三季度营收为 **170 亿美元**，前九个月营收 **332 亿美元**，同期净亏损 **1040 亿美元**；算力和基础设施承诺达到 **9009 亿美元**，现金及短期投资近 **1320 亿美元**。七位联合创始人预计每人出售近 **340 万** 股。"
-      ]
+      "text": "若按定价上限计算，公司完全摊薄估值约为 1.404 万亿美元",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
     },
     {
-      "kind": "analysis",
-      "heading": "为什么重要",
-      "sources": [
-        "TechCrunch"
-      ],
-      "paras": [
-        "TechCrunch 指出，作为公益公司，创始人持有的 F 类股拥有 **50.1%** 投票权，长期利益信托还将选出董事会多数，因此购买 A 类股的投资者影响力有限。文章并以 OpenAI 作为对照：后者上周完成 **110 亿美元** 融资后，据报估值为 **1.25 万亿美元**。"
-      ]
+      "text": "Anthropic 还达成协议，按 IPO 发行价向 AMD、博通、谷歌、美光、微软、英伟达和台积电私募出售 260 亿美元无投票权 N 类股，其中谷歌和英伟达各投资 100 亿美元",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
     }
   ],
-  "image_url": "img/763af1c8ae6810ab12527cc71567a17faa753408.jpg",
-  "image_source": "TechCrunch",
-  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-  "facts": [],
   "claims": [],
   "analysis": [],
   "sources": [
@@ -58,5 +36,8 @@
   "published_at": "2026-11-10T22:01:39+08:00",
   "updated_at": "2026-11-10T22:01:39+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

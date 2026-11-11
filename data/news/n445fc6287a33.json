@@ -3,18 +3,35 @@
   "category": "大模型与产品",
   "importance": 1,
   "verified": false,
-  "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+  "title": "OpenAI 推出企业主页，试图让 ChatGPT 更像搜索引擎",
   "original_title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-  "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-  "title_zh": "ChatGPT 上线仍在测试的商家资料",
-  "lead_zh": "TechCrunch 报道，OpenAI 周二推出业务中心测试，企业可以核验并更新产品与服务信息。符合条件的公司还能发布专门代理，回答用户关于该商家的问题。",
-  "body_zh": [],
-  "image_url": "img/d88b668d6977848008ef726b3c7314b1a9ca9140.jpg",
-  "image_source": "TechCrunch",
-  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677",
-  "facts": [],
-  "claims": [],
-  "analysis": [],
+  "summary": "据 TechCrunch 报道，OpenAI 推出测试版 Business Hub，企业可认证并更新产品服务信息，符合条件的公司还能上线专门的商业智能体。该媒体认为，这让 ChatGPT 更接近谷歌式的消费发现入口。OpenAI 早前直接做电商购物的尝试并未成功。",
+  "facts": [
+    {
+      "text": "OpenAI 推出测试版 Business Hub，企业可创建并验证业务主页，更新产品和服务信息，符合条件的公司还可上线专门的商业智能体",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+    },
+    {
+      "text": "Business Hub 还将向企业提供有限的互动洞察，包括主页浏览、被提及次数和网站点击等",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 OpenAI 称，随着人们用 AI 发现产品、比较选项并做决定，ChatGPT 已成为连接用户与企业的平台，此次是把企业更深入引入 ChatGPT 的早期一步",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+    }
+  ],
+  "analysis": [
+    {
+      "text": "TechCrunch 认为，加入企业主页和洞察后，ChatGPT 更像在模仿谷歌式的消费发现入口；并指出公司早前把 ChatGPT 做成直接电商平台的尝试并未成功",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+    }
+  ],
   "sources": [
     {
       "name": "TechCrunch",
@@ -26,5 +43,8 @@
   "published_at": "2026-11-11T02:49:52+08:00",
   "updated_at": "2026-11-11T02:49:52+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

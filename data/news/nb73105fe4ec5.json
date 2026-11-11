@@ -3,38 +3,26 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": true,
-  "title": "Gemini Intelligence: New features, on more devices",
+  "title": "Gemini Intelligence 扩展至更多设备，Pixel 10 与摩托罗拉新机可用",
   "original_title": "Gemini Intelligence: New features, on more devices",
-  "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-  "title_zh": "Gemini Intelligence 扩展到更多手机和手表",
-  "lead_zh": "谷歌宣布 Gemini Intelligence 继续扩展机型，摩托罗拉 signature 27 将于 11 月 19 日在美国预订，Pixel 10 系列也获得口述整理、任务自动化和自制小组件等功能。",
-  "body_zh": [
+  "summary": "Google 宣布 Gemini Intelligence 扩展到 Pixel 10 系列和摩托罗拉 signature 27。新功能包括把口述实时整理成文的 Rambler、跨应用代办订餐约车，以及用一句话生成桌面小组件。Pixel 手机还将把主动建议带到车机。",
+  "facts": [
     {
-      "kind": "facts",
-      "heading": "发生了什么",
-      "sources": [
-        "Google AI Blog"
-      ],
-      "paras": [
-        "谷歌在官方博客宣布，Gemini Intelligence 扩展到更多 Android 设备。摩托罗拉的第一款相关机型 motorola signature 27 将于 **11 月 19 日** 在美国开启预订。同期的 Pixel Drop 让 Pixel 10、Pixel 10 Pro XL 和 Pixel 10 Pro Fold 获得新功能。",
-        "口述整理功能 Rambler 来到上述 Pixel 机型和 motorola signature 27。跨应用代办叫车、订餐和订位的任务自动化，扩展到英国、印度和日本。未来几周上线的 Create My Widget 可用一句话做主屏小组件，并从 Gmail、日历和搜索取信息，之后也会到 Pixel Watch。上月已经发布面向该能力的笔记本 Googlebook。"
-      ]
+      "text": "Gemini Intelligence 扩展至 motorola signature 27 以及 Pixel 10、Pixel 10 Pro XL 和 Pixel 10 Pro Fold",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
     },
     {
-      "kind": "claims",
-      "heading": "公司怎么说",
-      "sources": [
-        "Google AI Blog"
-      ],
-      "paras": [
-        "谷歌称，Device Assistance 让用户直接吩咐手机清理存储空间、查看哪些应用能读取位置，或在屏蔽干扰时仍放过重要来电。带有 Gemini Intelligence 的 Pixel 手机稍后会把主动建议带到 Android Auto，例如从确认邮件里找出集合地址并一键回复。公司同时提醒，功能因国家、语言和设备而异，部分仅向 18 岁以上用户开放，更高用量可能需要订阅。"
-      ]
+      "text": "Rambler 可把口述实时整理成清晰文字，现已在 Pixel 10 系列和 motorola signature 27 上提供",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+    },
+    {
+      "text": "即将推出的 Create My Widget 可用一句话生成个性化桌面小组件，并可从 Gmail、日历和搜索拉取信息",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
     }
   ],
-  "image_url": "img/3af02544476ccf299845e9c9b45b096a8afb5bf5.jpg",
-  "image_source": "Google AI Blog",
-  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27_Hero_2784x156.width-1300.jpg",
-  "facts": [],
   "claims": [],
   "analysis": [],
   "sources": [
@@ -48,5 +36,8 @@
   "published_at": "2026-11-11T03:00:00+08:00",
   "updated_at": "2026-11-11T03:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

@@ -3,17 +3,28 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": true,
-  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "title": "OpenAI 与 Upwork 研究显示，AI 相关自由职业项目预算更高、范围更广",
   "original_title": "Work at the Frontier: AI’s effect on freelance work",
-  "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-  "title_zh": "OpenAI 与 Upwork 研究自由职业变化",
-  "lead_zh": "OpenAI 新闻摘要称，该公司与 Upwork 的新研究发现自由职业需求正在变化，出现新的技能组合，与人工智能相关的项目预算更大，投入的工时也更多。",
-  "body_zh": [],
-  "image_url": "",
-  "image_source": "",
-  "image_origin_url": "",
-  "facts": [],
-  "claims": [],
+  "summary": "OpenAI 与 Upwork 的新研究发现，自由职业需求正在变化：不少在 ChatGPT 中较常见的工作类型，在 Upwork 上的份额有所下降。AI 相关项目的任务组合更多样，固定价格预算更高、工时更多，但时薪与其他项目相近。研究认为，这不只是简单的替代关系。",
+  "facts": [
+    {
+      "text": "OpenAI 与 Upwork 联合研究自由职业市场与 ChatGPT 使用情况，观察需求变化和 AI 相关项目的特点",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work"
+    },
+    {
+      "text": "AI 相关项目的固定价格预算更高、涉及工时更多，但挂出的时薪与其他工作相近",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该研究称，这些现象并不指向一种简单的替代关系，AI 可能同时改变客户找自由职业者做的事情，以及项目的组织方式",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -26,5 +37,8 @@
   "published_at": "2026-11-10T15:00:00+08:00",
   "updated_at": "2026-11-10T15:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

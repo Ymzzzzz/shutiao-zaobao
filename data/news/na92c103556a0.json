@@ -3,18 +3,29 @@
   "category": "大模型与产品",
   "importance": 1,
   "verified": false,
-  "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+  "title": "Meta 的 AI 智能体 Muse 登陆 Apple Watch 和 Wear OS",
   "original_title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-  "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-  "title_zh": "Meta 的助手登上苹果和安卓手表",
-  "lead_zh": "报道称，用户现在可以在苹果手表和安卓穿戴系统上，用语音、短信或听写呼唤 Meta 的助手。一个月前，它刚刚推出了平板应用。",
-  "body_zh": [],
-  "image_url": "img/bf9e4a4c595d8fb0c83ecfc6cbb6b70b4e4c1c37.jpg",
-  "image_source": "TechCrunch",
-  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
-  "facts": [],
+  "summary": "据 TechCrunch 报道，Meta 把 AI 智能体 Muse 带到 Apple Watch 和 Android Wear OS，用户可在手表上通过语音通话、短信或口述与它互动。Muse 可连接邮箱和日程等账户，协助订餐、购物等，这是该产品 9 月上线后的又一次扩展。",
+  "facts": [
+    {
+      "text": "用户现在可以在 Apple Watch 和 Wear OS 手表上，通过语音通话、短信或口述与 Muse 互动",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+    },
+    {
+      "text": "Muse 于 9 月在 App Store 上线，一个月前刚推出专用应用，此次是向更多苹果和安卓可穿戴设备扩展",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+    }
+  ],
   "claims": [],
-  "analysis": [],
+  "analysis": [
+    {
+      "text": "TechCrunch 认为，Muse 正在加入众多面向消费者的 AI 智能体竞争，Meta 希望让它成为其消费级 AI 产品生态的中心",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+    }
+  ],
   "sources": [
     {
       "name": "TechCrunch",
@@ -26,5 +37,8 @@
   "published_at": "2026-11-10T23:29:30+08:00",
   "updated_at": "2026-11-10T23:29:30+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

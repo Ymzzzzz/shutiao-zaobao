@@ -3,18 +3,34 @@
   "category": "大模型与产品",
   "importance": 1,
   "verified": false,
-  "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+  "title": "Grok Build 编程智能体泄露大量机密信息，部分属于 SpaceXSI",
   "original_title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-  "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-  "title_zh": "Grok Build 的分享链接暴露大量应用",
-  "lead_zh": "Ars Technica 报道，研究者发现约 35000 个 Grok Build 应用可以被逐个找出来，其中包含 SpaceXSI 的敏感信息。随机链接并没有挡住枚举。",
-  "body_zh": [],
-  "image_url": "img/20c0f44ed1335185777d36bc339b1b42bff9ac6a.jpg",
-  "image_source": "Ars Technica",
-  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
-  "facts": [],
+  "summary": "据 Ars Technica 报道，安全公司 Claroc 发现，Grok Build 的分享链接可被枚举，超过 3.5 万个应用处于公开可访问状态，其中包含商业计划和体检结果等敏感信息，也包括 SpaceXSI 自己的内部材料。在该媒体问询后，SpaceXSI 已下线其相关链接。",
+  "facts": [
+    {
+      "text": "Claroc 通过被动 DNS 检索发现 43601 个以 grok.me 结尾的链接，其中超过 3.5 万个、约 95% 为公开可访问，点击即可打开应用及其存储数据",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+    },
+    {
+      "text": "泄露内容包括内部商业计划、广告提案、体检结果等；其中有 24 个应用来自 SpaceXSI 自身，含标注机密的入职计划和销售区域图",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+    },
+    {
+      "text": "在 Ars Technica 发邮件询问后数小时内，SpaceXSI 开始移除相关链接；发稿时这 24 个应用的链接已显示为找不到应用",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+    }
+  ],
   "claims": [],
-  "analysis": [],
+  "analysis": [
+    {
+      "text": "Ars Technica 认为，问题在于随机部分被放在域名左侧，因而可被被动 DNS 服务枚举，使本应难以猜测的分享链接失效",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+    }
+  ],
   "sources": [
     {
       "name": "Ars Technica",
@@ -26,5 +42,8 @@
   "published_at": "2026-11-11T05:12:59+08:00",
   "updated_at": "2026-11-11T05:12:59+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

@@ -3,17 +3,33 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": true,
-  "title": "Introducing Businesses in ChatGPT",
+  "title": "ChatGPT 上线企业主页和 Business Agent，商家可认领信息并接待咨询",
   "original_title": "Introducing Businesses in ChatGPT",
-  "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-  "title_zh": "ChatGPT 摘要提到商家信息管理功能",
-  "lead_zh": "OpenAI 新闻页的摘要称，商家可以在 ChatGPT 中管理自己的信息、查看业务如何被呈现，并把用户的兴趣转化为实际行动。原文页面未能打开，细节无法继续核对。",
-  "body_zh": [],
-  "image_url": "",
-  "image_source": "",
-  "image_origin_url": "",
-  "facts": [],
-  "claims": [],
+  "summary": "OpenAI 推出测试版「ChatGPT 中的企业」：商家可通过 Business Hub 认领主页、更新资料和商品信息，并查看汇总后的互动数据。符合条件的美国电商和在线服务商还可上线 Business Agent，在独立对话中回答顾客问题。OpenAI 称不会向商家提供用户对话内容。",
+  "facts": [
+    {
+      "text": "商家可通过 Business Hub 认领并验证企业主页，更新关键信息，并添加含价格和库存的自助商品数据源",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt"
+    },
+    {
+      "text": "Business Agent 目前向符合条件的美国电商和在线服务企业开放",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt"
+    },
+    {
+      "text": "与 Business Agent 的对话会被明确标注，并与用户原先的 ChatGPT 对话以及 ChatGPT 的独立回答分开",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 OpenAI 称，不会向商家提供用户对话或 Business Agent 聊天内容，洞察数据仅在互动量达到一定门槛后以汇总形式提供",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -26,5 +42,8 @@
   "published_at": "2026-11-10T18:00:00+08:00",
   "updated_at": "2026-11-10T18:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }
