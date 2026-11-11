@@ -3,12 +3,40 @@
   "category": "行业动态",
   "importance": 1,
   "verified": false,
-  "title": "Anthropic has its own AI-powered office suite now",
+  "title": "Anthropic 推出面向知识工作者的 AI 办公套件",
   "original_title": "Anthropic has its own AI-powered office suite now",
-  "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to c…",
-  "facts": [],
-  "claims": [],
-  "analysis": [],
+  "summary": "据 The Verge 报道，Anthropic 在旧金山发布 Claude Meetings、Sheets 和 Whiteboards，可加入会议做笔记、协作编辑表格和共用白板，目前均为测试版。公司还推出交互式连接器，可在 Claude 内打开 Adobe、Atlassian 等合作方应用。",
+  "facts": [
+    {
+      "text": "Anthropic 在旧金山发布 Claude Meetings、Claude Sheets 和 Claude Whiteboards，三者目前均为测试版；前两项向所有付费方案开放，Meetings 面向 Teams 和 Enterprise",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+    },
+    {
+      "text": "公司还推出交互式连接器，可在 Claude 内打开 HubSpot、Adobe、Atlassian 等合作方应用",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+    },
+    {
+      "text": "原在 10 月以测试版推出的 Claude Data（曾用名 Claude Dashboards）现已向所有付费方案正式开放",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Anthropic 产品人员 Nicholas Lin 称，Claude Code 一年前改变了工程师的工作方式，现在公司希望补上知识工作者这一块",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+    }
+  ],
+  "analysis": [
+    {
+      "text": "The Verge 认为，Anthropic 正试图在 IPO 前把产品从企业编程工具扩展到更多知识工作者，并指出谷歌、OpenAI 已有类似的会议记录和连接器能力",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+    }
+  ],
   "sources": [
     {
       "name": "The Verge",
@@ -20,7 +48,7 @@
   "published_at": "2026-11-11T01:30:00+08:00",
   "updated_at": "2026-11-11T01:30:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

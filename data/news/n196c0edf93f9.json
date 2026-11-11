@@ -3,11 +3,28 @@
   "category": "芯片与算力",
   "importance": 1,
   "verified": false,
-  "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+  "title": "Google 发布两款专用 TPU，分别强化机密计算和内存容量",
   "original_title": "Google broadens its AI hardware portfolio with two new specialized chips",
-  "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-  "facts": [],
-  "claims": [],
+  "summary": "据 TechCrunch 报道，Google 发布第八代 TPU 的两款新变体：与 AMD 合作的 TPU 8tx 把安全做进硬件，用于机密训练和推理；TPU 8i Max 则相当于把两颗推理芯片封装在一起，以加倍内存、算力和带宽，服务更大工作负载。",
+  "facts": [
+    {
+      "text": "TPU 8tx 与 AMD 合作设计，基于 TPU 8t，面向机密地训练和运行 AI 模型，把安全做进硬件层，使敏感数据和模型权重在使用中仍保持隔离",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    },
+    {
+      "text": "TPU 8i Max 相当于把今年 4 月发布的两颗推理芯片 TPU 8i 封装在一起，使内存容量、处理能力和带宽加倍",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Google 称，TPU 8tx 把安全直接做进硬件层，可在数据处于使用状态时仍保护并隔离敏感数据和模型权重",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,7 +37,7 @@
   "published_at": "2026-11-10T23:54:08+08:00",
   "updated_at": "2026-11-10T23:54:08+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

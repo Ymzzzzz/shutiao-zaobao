@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T09:44:51+08:00",
-  "summary_mode": "excerpt",
+  "generated_at": "2026-11-11T09:46:23+08:00",
+  "summary_mode": "ai",
   "top_items": [
     "nf810a5e75c97",
     "n9922bcaa36cd",
@@ -1606,12 +1606,35 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+      "title": "OpenAI 把 ChatGPT 做成企业目录，并推出可回答顾客问题的智能体",
       "original_title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
-      "summary": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eli…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
+      "summary": "据 The Decoder 报道，OpenAI 推出测试版「ChatGPT 中的企业」，商家可通过 Business Hub 认领主页、更新信息和商品数据。符合条件的美国电商还可上线 Business Agent，在 ChatGPT 里回答顾客问题。OpenAI 称不会向商家提供用户对话。",
+      "facts": [
+        {
+          "text": "商家可通过 Business Hub 注册并管理企业信息，添加含价格和库存的商品数据，并查看被提及次数和网站点击等指标",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/"
+        },
+        {
+          "text": "符合条件的美国电商和在线服务商可创建 Business Agent，在 ChatGPT 中回答顾客问题并协助比较商品",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 OpenAI 称，不会向商家提供用户对话内容",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/"
+        }
+      ],
+      "analysis": [
+        {
+          "text": "The Decoder 认为，该功能可能与谷歌的「我的商家」竞争，区别是把企业主页直接放进对话式 AI 界面",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/"
+        }
+      ],
       "sources": [
         {
           "name": "The Decoder",
@@ -1623,7 +1646,7 @@
       "published_at": "2026-11-11T04:17:00+08:00",
       "updated_at": "2026-11-11T04:17:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1633,11 +1656,28 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+      "title": "Anthropic 为 Claude 增加表格、白板等协作功能，会议纪要将推出",
       "original_title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
-      "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings,…",
-      "facts": [],
-      "claims": [],
+      "summary": "据 The Decoder 报道，Anthropic 为 Claude 增加表格和白板等协作功能，并允许 Adobe、Atlassian 等把应用嵌进 Claude。公司称，能加入通话并做笔记的 Claude Meetings 即将上线。",
+      "facts": [
+        {
+          "text": "Claude Sheets 可协助团队创建和编辑带公式、多工作表的表格，Claude Whiteboards 可用于头脑风暴并由 Claude 做归纳",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/"
+        },
+        {
+          "text": "Claude Data（原名已更改）可连接 Snowflake、Salesforce 等工具，用于制作仪表盘和数据可视化",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Anthropic 称，能加入通话并做笔记的 Claude Meetings 即将上线",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -1650,7 +1690,7 @@
       "published_at": "2026-11-11T03:48:40+08:00",
       "updated_at": "2026-11-11T03:48:40+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1660,11 +1700,28 @@
       "category": "行业动态",
       "importance": 1,
       "verified": false,
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "title": "PSI 借助 Anthropic 模型证明量子计算猜想，并试图把 AI 科学发现做成生意",
       "original_title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "facts": [],
-      "claims": [],
+      "summary": "据 TechCrunch 报道，初创实验室 PSI 的研究员借助 Anthropic Fable 5.2 的早期权限，解决了量子计算领域一个提出近二十年的问题。该证明已用 Lean 形式化，并经相关领域研究者核验。公司目前收入来自优化数据中心，长期希望把理论成果转化成技术。",
+      "facts": [
+        {
+          "text": "PSI 技术人员 David Turturean 利用 Anthropic Fable 5.2 的早期权限，给出了 Aaronson-Ambainis 猜想的证明，该证明已用 Lean 自动形式化",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+        },
+        {
+          "text": "提出该问题的研究者之一 Scott Aaronson 表示，自己尚未完全理解证明，但因形式化结果并经 PSI 分享对象中的顶尖研究者核验，他相信其正确",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 PSI CEO Matt Pines 称，有效的研究系统应具备大量工具、记忆和仿真设施，以便从广度和深度同时进攻问题",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -1677,7 +1734,7 @@
       "published_at": "2026-11-11T03:03:52+08:00",
       "updated_at": "2026-11-11T03:03:52+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1687,12 +1744,35 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "title": "OpenAI 推出企业主页，试图让 ChatGPT 更像搜索引擎",
       "original_title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
+      "summary": "据 TechCrunch 报道，OpenAI 推出测试版 Business Hub，企业可认证并更新产品服务信息，符合条件的公司还能上线专门的商业智能体。该媒体认为，这让 ChatGPT 更接近谷歌式的消费发现入口。OpenAI 早前直接做电商购物的尝试并未成功。",
+      "facts": [
+        {
+          "text": "OpenAI 推出测试版 Business Hub，企业可创建并验证业务主页，更新产品和服务信息，符合条件的公司还可上线专门的商业智能体",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+        },
+        {
+          "text": "Business Hub 还将向企业提供有限的互动洞察，包括主页浏览、被提及次数和网站点击等",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 OpenAI 称，随着人们用 AI 发现产品、比较选项并做决定，ChatGPT 已成为连接用户与企业的平台，此次是把企业更深入引入 ChatGPT 的早期一步",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+        }
+      ],
+      "analysis": [
+        {
+          "text": "TechCrunch 认为，加入企业主页和洞察后，ChatGPT 更像在模仿谷歌式的消费发现入口；并指出公司早前把 ChatGPT 做成直接电商平台的尝试并未成功",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+        }
+      ],
       "sources": [
         {
           "name": "TechCrunch",
@@ -1704,7 +1784,7 @@
       "published_at": "2026-11-11T02:49:52+08:00",
       "updated_at": "2026-11-11T02:49:52+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1714,11 +1794,33 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+      "title": "英伟达发布 GR00T 2：看人类操作视频，再把自己想象成机器人",
       "original_title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
-      "summary": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 4…",
-      "facts": [],
-      "claims": [],
+      "summary": "据 The Decoder 报道，英伟达发布机器人基础模型 GR00T 2，把人类操作视频迁移到机械臂，以减少繁琐的遥操作训练。该模型会同时预测下一步动作和短暂的未来画面。实验室测试中，它能完成划火柴、切香蕉等任务，成功率因任务而异，介于 10% 到 80%。",
+      "facts": [
+        {
+          "text": "与前代不同，GR00T 2 被英伟达称为世界-行动模型，会同时计算下一步动作，并用扩散方法预测短暂的未来画面",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/"
+        },
+        {
+          "text": "该系统在超过一千颗 GB300 芯片的集群上训练，训练数据包括约 40 万小时头戴相机拍摄的人类操作视频",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/"
+        },
+        {
+          "text": "实验室测试中，五指机械手可用这种方法划火柴、切香蕉或把包裹扔上传送带，而无需针对这些任务做遥操作，成功率因任务而异，介于 10% 到 80%",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据英伟达称，该软件作为世界-行动模型工作，能够同时计算下一步动作并预测机械臂动作后镜头画面将如何变化",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -1731,7 +1833,7 @@
       "published_at": "2026-11-11T02:41:52+08:00",
       "updated_at": "2026-11-11T02:41:52+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1741,12 +1843,35 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+      "title": "Gemini 4 Carbon 正式开放，却赶上本轮模型迭代最快的时刻",
       "original_title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
-      "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half t…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
+      "summary": "据 The Decoder 报道，Google 在两周测试后向付费开发者和企业开放 Gemini 4 Carbon，面向多步编程和科研等更难任务，并预览了可把一条提示拆成多智能体协作的 swarm 功能。该媒体认为，其发布时 Anthropic 新模型已经追上，本轮模型迭代速度格外快。",
+      "facts": [
+        {
+          "text": "Gemini 4 Carbon 在为期两周的测试后，已向付费开发者和企业客户普遍开放，定位是补强而非取代 Gemini 4 Argon",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/"
+        },
+        {
+          "text": "Google 在 Antigravity 中预览 /swarm 功能，可将一条提示变成一组实时分工的协同智能体",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Google 称，Argon 仍更适合大多数软件工程和知识工作，而 Carbon 面向会把模型智力推向极限的任务",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/"
+        }
+      ],
+      "analysis": [
+        {
+          "text": "The Decoder 认为，Carbon 开放时已显得不那么新鲜，因为 Anthropic 刚发布的新模型在 Artificial Analysis 测试中即便以较低推理强度也超过了它，本轮模型迭代速度格外快",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/"
+        }
+      ],
       "sources": [
         {
           "name": "The Decoder",
@@ -1758,7 +1883,7 @@
       "published_at": "2026-11-11T02:19:13+08:00",
       "updated_at": "2026-11-11T02:19:13+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1768,11 +1893,28 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "title": "ChatGPT 将上线经过验证的企业智能体，可协助比较商品",
       "original_title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and onl…",
-      "facts": [],
-      "claims": [],
+      "summary": "据 The Verge 报道，ChatGPT 将允许用户与经过验证的「Business Agent」对话，协助比较商品等。该功能先向符合条件的美国电商和在线服务商开放。对话会被明确标注，并与主对话分开；企业可通过 Business Hub 认领并验证组织。",
+      "facts": [
+        {
+          "text": "当某家已创建 Business Agent 的企业出现在 ChatGPT 回答中时，用户可以开始与该智能体对话，询问其产品并做后续比较",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+        },
+        {
+          "text": "企业可通过 Business Hub 认领组织并完成验证；与 Business Agent 的对话会被明确标注，并与用户的主对话分开",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 OpenAI 称，此次是把企业更深入引入 ChatGPT 的早期一步，先从准确的企业信息、有用的洞察和帮助人们做决定的对话开始",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -1785,7 +1927,7 @@
       "published_at": "2026-11-11T02:00:00+08:00",
       "updated_at": "2026-11-11T02:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1795,11 +1937,28 @@
       "category": "行业动态",
       "importance": 1,
       "verified": false,
-      "title": "The indie game community is in disarray over AI and Big Walk",
+      "title": "独立游戏节评审拒评生成式 AI 作品，热门游戏 Big Walk 陷入争议",
       "original_title": "The indie game community is in disarray over AI and Big Walk",
-      "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big…",
-      "facts": [],
-      "claims": [],
+      "summary": "据 The Verge 报道，部分独立游戏节评审发表声明，拒绝为任何使用生成式 AI 的作品投票。热门游戏 Big Walk 的开发商随后承认，在开发后期曾少量使用大模型辅助解决技术难题，并估计相关代码不到全部的 0.1%。该声明并不代表组委会立场。",
+      "facts": [
+        {
+          "text": "部分独立游戏节（IGF）评审发表声明称，不会为任何使用生成式 AI 的游戏投票；声明写明并不代表 IGF 组织或全体评审的立场",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
+        },
+        {
+          "text": "Big Walk 开发商 House House 随后表示，仅在开发后期少量使用大模型，以协助解决困难的技术问题和漏洞，并估计与此相关的代码远低于全部代码的 0.1%，且未在其他环节使用生成式 AI",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 House House 称，这并不是对 AI 工具的背书，他们担心自愿披露可能让这种技术被当成必然，并为此前的使用可能达不到反对者的标准而道歉",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -1812,7 +1971,7 @@
       "published_at": "2026-11-11T01:32:47+08:00",
       "updated_at": "2026-11-11T03:06:22+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1822,11 +1981,33 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "title": "Anthropic 推出 Claude Meetings，可把会议讨论变成计划和任务",
       "original_title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such…",
-      "facts": [],
-      "claims": [],
+      "summary": "据 TechCrunch 报道，Anthropic 推出测试版 Claude Meetings：会议进行中，Claude 可起草正在讨论的计划、在白板上排时间线、在聊天里回答问题，并调用已连接的办公应用。会后可查看纪要和待办。该功能先向团队版和企业版开放，目前支持 Google Meet。",
+      "facts": [
+        {
+          "text": "在会议进行中，Claude 可起草正在讨论的计划、在白板上排出时间线、在会议聊天中回答问题，并访问已连接的办公应用以调取信息",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+        },
+        {
+          "text": "Claude 会表明自己是会议参与者并在聊天中发出提示；除非管理员授权，否则不会加入有外部访客的通话，若外部访客中途加入则会自动退出",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+        },
+        {
+          "text": "Claude Meetings 以测试版形式向 Team 和 Enterprise 方案开放，发布时先支持 Google Meet",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Anthropic 称，会议结束后的工作通常在挂断后才开始，而这一新功能可以让团队在讨论进行时就把内容转化成行动",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -1839,7 +2020,7 @@
       "published_at": "2026-11-11T01:30:00+08:00",
       "updated_at": "2026-11-11T01:30:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1849,12 +2030,40 @@
       "category": "行业动态",
       "importance": 1,
       "verified": false,
-      "title": "Anthropic has its own AI-powered office suite now",
+      "title": "Anthropic 推出面向知识工作者的 AI 办公套件",
       "original_title": "Anthropic has its own AI-powered office suite now",
-      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to c…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
+      "summary": "据 The Verge 报道，Anthropic 在旧金山发布 Claude Meetings、Sheets 和 Whiteboards，可加入会议做笔记、协作编辑表格和共用白板，目前均为测试版。公司还推出交互式连接器，可在 Claude 内打开 Adobe、Atlassian 等合作方应用。",
+      "facts": [
+        {
+          "text": "Anthropic 在旧金山发布 Claude Meetings、Claude Sheets 和 Claude Whiteboards，三者目前均为测试版；前两项向所有付费方案开放，Meetings 面向 Teams 和 Enterprise",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+        },
+        {
+          "text": "公司还推出交互式连接器，可在 Claude 内打开 HubSpot、Adobe、Atlassian 等合作方应用",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+        },
+        {
+          "text": "原在 10 月以测试版推出的 Claude Data（曾用名 Claude Dashboards）现已向所有付费方案正式开放",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Anthropic 产品人员 Nicholas Lin 称，Claude Code 一年前改变了工程师的工作方式，现在公司希望补上知识工作者这一块",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+        }
+      ],
+      "analysis": [
+        {
+          "text": "The Verge 认为，Anthropic 正试图在 IPO 前把产品从企业编程工具扩展到更多知识工作者，并指出谷歌、OpenAI 已有类似的会议记录和连接器能力",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+        }
+      ],
       "sources": [
         {
           "name": "The Verge",
@@ -1866,7 +2075,7 @@
       "published_at": "2026-11-11T01:30:00+08:00",
       "updated_at": "2026-11-11T01:30:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1876,10 +2085,26 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
+      "title": "AMD 发布霄龙嵌入式 9006 系列处理器，吞吐量最高提升 1.8 倍",
       "original_title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
-      "summary": "IT之家 11 月 11 日消息，AMD 今天（11 月 11 日）发布霄龙（EPYC）嵌入式 9006 系列 SP7 处理器，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。 不同于 9 月发布的 AMD 霄龙 9006 系列服务器 CPU（面向智能体 AI、…",
-      "facts": [],
+      "summary": "据 IT之家报道，AMD 发布基于 Zen 6 架构的霄龙嵌入式 9006 系列 SP7 处理器，最高 256 核 512 线程，并率先在嵌入式平台支持 PCIe Gen6 和 CXL 3.1，产品生命周期为 7 年。该系列面向测试设备、企业存储和防火墙等场景，多核吞吐量较上代最高提升 1.8 倍。",
+      "facts": [
+        {
+          "text": "AMD 发布基于 Zen 6 架构的霄龙嵌入式 9006 系列 SP7 处理器，最高可达 256 核 512 线程，并率先在嵌入式平台支持 PCIe Gen6 和 CXL 3.1，配备 16 通道内存，产品生命周期为 7 年",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/195.htm"
+        },
+        {
+          "text": "该系列主要面向半导体测试设备、企业存储和高端网络防火墙等嵌入式场景，与 9 月发布的面向服务器的霄龙 9006 系列不同",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/195.htm"
+        },
+        {
+          "text": "官方数据显示，多核吞吐量较上代最高提升 1.8 倍，防火墙吞吐量提升 1.3 倍；128 核型号将于 11 月 15 日出货",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/195.htm"
+        }
+      ],
       "claims": [],
       "analysis": [],
       "sources": [
@@ -1893,7 +2118,7 @@
       "published_at": "2026-11-11T01:05:05+08:00",
       "updated_at": "2026-11-11T01:05:05+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1903,12 +2128,35 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "eBay appears to have shut the door on third-party AI agents",
+      "title": "eBay 似已限制第三方 AI 智能体访问，包括 Meta 的 Muse",
       "original_title": "eBay appears to have shut the door on third-party AI agents",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
+      "summary": "据 The Verge 报道，eBay 似乎已阻止包括 Meta Muse 在内的第三方 AI 智能体浏览其网站。一位读者称，此前可用 Muse 整理 eBay 商品，但本周末已被拦截。eBay 发言人未直接证实是否新设限制，只表示会有选择地开放第三方访问。",
+      "facts": [
+        {
+          "text": "一位读者告诉 The Verge，数周来他一直用 Muse 浏览并整理 eBay 上的手表商品，但本周末 Muse 已无法从 eBay 拉取链接或详情",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping"
+        },
+        {
+          "text": "The Verge 用其他搜索请求复核了这一情况，有时 Muse 会改为指向镜像 eBay 商品的外部网站",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 eBay 发言人 Sybille St. Arromand 称，公司对第三方如何访问和互动采取有选择的方式，并已在未经授权抓取和训练等情形下限制智能体访问",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping"
+        }
+      ],
+      "analysis": [
+        {
+          "text": "The Verge 认为，这是 AI 智能体购物竞赛中的又一处减速带，各零售商对第三方智能体的开放程度并不一致",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping"
+        }
+      ],
       "sources": [
         {
           "name": "The Verge",
@@ -1920,7 +2168,7 @@
       "published_at": "2026-11-11T00:20:30+08:00",
       "updated_at": "2026-11-11T00:20:30+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1930,11 +2178,33 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "title": "Google 向公众开放 Gemini 4 Carbon，并预览智能体 swarm 功能",
       "original_title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"stronge…",
-      "facts": [],
-      "claims": [],
+      "summary": "据 The Verge 报道，Google 在两周前向网络安全防御者开放 Gemini 4 Carbon 后，现已向付费开发者、企业和 AI Ultra 用户推出。公司称这是其最强模型，并在 Antigravity 平台预览 swarm 功能，可把一条提示变成一组协同工作的智能体。",
+      "facts": [
+        {
+          "text": "Gemini 4 Carbon 已通过 Google AI Studio 和 Gemini for business 的 API 向所有付费开发者和企业开放，并向 Google AI Ultra 订阅用户在 Gemini 应用、搜索 AI 模式和 Antigravity 中提供",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+        },
+        {
+          "text": "推广期价格为每百万输入 token 2 美元、每百万输出 token 10 美元，11 月底推广期结束后价格将提高一倍",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+        },
+        {
+          "text": "Google 还在智能体开发平台 Antigravity 上预览 swarm 功能，可把一条提示变成一组协同工作的智能体",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Google 称，Carbon 是其最强模型，比此前发布的 Argon 把能力边界推得更远，适合复杂的多步编程和开放式科学研究",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -1947,7 +2217,7 @@
       "published_at": "2026-11-11T00:00:00+08:00",
       "updated_at": "2026-11-11T00:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1957,11 +2227,28 @@
       "category": "芯片与算力",
       "importance": 1,
       "verified": false,
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "title": "Google 发布两款专用 TPU，分别强化机密计算和内存容量",
       "original_title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "facts": [],
-      "claims": [],
+      "summary": "据 TechCrunch 报道，Google 发布第八代 TPU 的两款新变体：与 AMD 合作的 TPU 8tx 把安全做进硬件，用于机密训练和推理；TPU 8i Max 则相当于把两颗推理芯片封装在一起，以加倍内存、算力和带宽，服务更大工作负载。",
+      "facts": [
+        {
+          "text": "TPU 8tx 与 AMD 合作设计，基于 TPU 8t，面向机密地训练和运行 AI 模型，把安全做进硬件层，使敏感数据和模型权重在使用中仍保持隔离",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+        },
+        {
+          "text": "TPU 8i Max 相当于把今年 4 月发布的两颗推理芯片 TPU 8i 封装在一起，使内存容量、处理能力和带宽加倍",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Google 称，TPU 8tx 把安全直接做进硬件层，可在数据处于使用状态时仍保护并隔离敏感数据和模型权重",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -1974,7 +2261,7 @@
       "published_at": "2026-11-10T23:54:08+08:00",
       "updated_at": "2026-11-10T23:54:08+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -1984,12 +2271,29 @@
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "title": "Meta 的 AI 智能体 Muse 登陆 Apple Watch 和 Wear OS",
       "original_title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-      "facts": [],
+      "summary": "据 TechCrunch 报道，Meta 把 AI 智能体 Muse 带到 Apple Watch 和 Android Wear OS，用户可在手表上通过语音通话、短信或口述与它互动。Muse 可连接邮箱和日程等账户，协助订餐、购物等，这是该产品 9 月上线后的又一次扩展。",
+      "facts": [
+        {
+          "text": "用户现在可以在 Apple Watch 和 Wear OS 手表上，通过语音通话、短信或口述与 Muse 互动",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+        },
+        {
+          "text": "Muse 于 9 月在 App Store 上线，一个月前刚推出专用应用，此次是向更多苹果和安卓可穿戴设备扩展",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+        }
+      ],
       "claims": [],
-      "analysis": [],
+      "analysis": [
+        {
+          "text": "TechCrunch 认为，Muse 正在加入众多面向消费者的 AI 智能体竞争，Meta 希望让它成为其消费级 AI 产品生态的中心",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+        }
+      ],
       "sources": [
         {
           "name": "TechCrunch",
@@ -2001,7 +2305,7 @@
       "published_at": "2026-11-10T23:29:30+08:00",
       "updated_at": "2026-11-10T23:29:30+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null

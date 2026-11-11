@@ -3,11 +3,33 @@
   "category": "大模型与产品",
   "importance": 1,
   "verified": false,
-  "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+  "title": "英伟达发布 GR00T 2：看人类操作视频，再把自己想象成机器人",
   "original_title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
-  "summary": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 4…",
-  "facts": [],
-  "claims": [],
+  "summary": "据 The Decoder 报道，英伟达发布机器人基础模型 GR00T 2，把人类操作视频迁移到机械臂，以减少繁琐的遥操作训练。该模型会同时预测下一步动作和短暂的未来画面。实验室测试中，它能完成划火柴、切香蕉等任务，成功率因任务而异，介于 10% 到 80%。",
+  "facts": [
+    {
+      "text": "与前代不同，GR00T 2 被英伟达称为世界-行动模型，会同时计算下一步动作，并用扩散方法预测短暂的未来画面",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/"
+    },
+    {
+      "text": "该系统在超过一千颗 GB300 芯片的集群上训练，训练数据包括约 40 万小时头戴相机拍摄的人类操作视频",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/"
+    },
+    {
+      "text": "实验室测试中，五指机械手可用这种方法划火柴、切香蕉或把包裹扔上传送带，而无需针对这些任务做遥操作，成功率因任务而异，介于 10% 到 80%",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据英伟达称，该软件作为世界-行动模型工作，能够同时计算下一步动作并预测机械臂动作后镜头画面将如何变化",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,7 +42,7 @@
   "published_at": "2026-11-11T02:41:52+08:00",
   "updated_at": "2026-11-11T02:41:52+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

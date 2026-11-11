@@ -3,11 +3,33 @@
   "category": "大模型与产品",
   "importance": 1,
   "verified": false,
-  "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+  "title": "Google 向公众开放 Gemini 4 Carbon，并预览智能体 swarm 功能",
   "original_title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-  "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"stronge…",
-  "facts": [],
-  "claims": [],
+  "summary": "据 The Verge 报道，Google 在两周前向网络安全防御者开放 Gemini 4 Carbon 后，现已向付费开发者、企业和 AI Ultra 用户推出。公司称这是其最强模型，并在 Antigravity 平台预览 swarm 功能，可把一条提示变成一组协同工作的智能体。",
+  "facts": [
+    {
+      "text": "Gemini 4 Carbon 已通过 Google AI Studio 和 Gemini for business 的 API 向所有付费开发者和企业开放，并向 Google AI Ultra 订阅用户在 Gemini 应用、搜索 AI 模式和 Antigravity 中提供",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+    },
+    {
+      "text": "推广期价格为每百万输入 token 2 美元、每百万输出 token 10 美元，11 月底推广期结束后价格将提高一倍",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+    },
+    {
+      "text": "Google 还在智能体开发平台 Antigravity 上预览 swarm 功能，可把一条提示变成一组协同工作的智能体",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Google 称，Carbon 是其最强模型，比此前发布的 Argon 把能力边界推得更远，适合复杂的多步编程和开放式科学研究",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,7 +42,7 @@
   "published_at": "2026-11-11T00:00:00+08:00",
   "updated_at": "2026-11-11T00:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

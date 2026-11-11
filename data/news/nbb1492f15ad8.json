@@ -3,11 +3,28 @@
   "category": "大模型与产品",
   "importance": 1,
   "verified": false,
-  "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+  "title": "Anthropic 为 Claude 增加表格、白板等协作功能，会议纪要将推出",
   "original_title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
-  "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings,…",
-  "facts": [],
-  "claims": [],
+  "summary": "据 The Decoder 报道，Anthropic 为 Claude 增加表格和白板等协作功能，并允许 Adobe、Atlassian 等把应用嵌进 Claude。公司称，能加入通话并做笔记的 Claude Meetings 即将上线。",
+  "facts": [
+    {
+      "text": "Claude Sheets 可协助团队创建和编辑带公式、多工作表的表格，Claude Whiteboards 可用于头脑风暴并由 Claude 做归纳",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/"
+    },
+    {
+      "text": "Claude Data（原名已更改）可连接 Snowflake、Salesforce 等工具，用于制作仪表盘和数据可视化",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Anthropic 称，能加入通话并做笔记的 Claude Meetings 即将上线",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,7 +37,7 @@
   "published_at": "2026-11-11T03:48:40+08:00",
   "updated_at": "2026-11-11T03:48:40+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

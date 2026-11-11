@@ -3,12 +3,35 @@
   "category": "大模型与产品",
   "importance": 1,
   "verified": false,
-  "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+  "title": "Gemini 4 Carbon 正式开放，却赶上本轮模型迭代最快的时刻",
   "original_title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
-  "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half t…",
-  "facts": [],
-  "claims": [],
-  "analysis": [],
+  "summary": "据 The Decoder 报道，Google 在两周测试后向付费开发者和企业开放 Gemini 4 Carbon，面向多步编程和科研等更难任务，并预览了可把一条提示拆成多智能体协作的 swarm 功能。该媒体认为，其发布时 Anthropic 新模型已经追上，本轮模型迭代速度格外快。",
+  "facts": [
+    {
+      "text": "Gemini 4 Carbon 在为期两周的测试后，已向付费开发者和企业客户普遍开放，定位是补强而非取代 Gemini 4 Argon",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/"
+    },
+    {
+      "text": "Google 在 Antigravity 中预览 /swarm 功能，可将一条提示变成一组实时分工的协同智能体",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Google 称，Argon 仍更适合大多数软件工程和知识工作，而 Carbon 面向会把模型智力推向极限的任务",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/"
+    }
+  ],
+  "analysis": [
+    {
+      "text": "The Decoder 认为，Carbon 开放时已显得不那么新鲜，因为 Anthropic 刚发布的新模型在 Artificial Analysis 测试中即便以较低推理强度也超过了它，本轮模型迭代速度格外快",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/"
+    }
+  ],
   "sources": [
     {
       "name": "The Decoder",
@@ -20,7 +43,7 @@
   "published_at": "2026-11-11T02:19:13+08:00",
   "updated_at": "2026-11-11T02:19:13+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null
