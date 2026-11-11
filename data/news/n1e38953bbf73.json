@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T08:00:00+08:00",
   "updated_at": "2026-11-10T08:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "论文探讨世界模型需多少次交互学习新机制",
+  "lead_zh": "这篇论文关注世界模型如何在陌生环境中，通过有限交互学习未见过的游戏机制，以便智能体在想象的经验中做规划和再学习。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

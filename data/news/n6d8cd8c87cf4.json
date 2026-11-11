@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T08:00:00+08:00",
   "updated_at": "2026-11-10T08:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "论文称语言模型不会报告被注入的痛觉状态",
+  "lead_zh": "该论文关注语言模型能否报告其所表征的痛觉状态；已有工作发现一条线性痛觉方向，放大后会使微调模型选择破坏性动作，作者测试了模型是否会报告被注入的这类状态。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

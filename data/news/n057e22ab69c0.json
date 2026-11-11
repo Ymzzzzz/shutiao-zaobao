@@ -20,5 +20,11 @@
   "published_at": "2026-11-09T23:05:57+08:00",
   "updated_at": "2026-11-09T23:05:57+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "英伟达发布日本金融场景合成人物数据集",
+  "lead_zh": "英伟达与 Elith 发布面向日本人口与金融情境的合成人物数据集，供开发者在不使用真实客户数据的情况下开发金融 AI。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

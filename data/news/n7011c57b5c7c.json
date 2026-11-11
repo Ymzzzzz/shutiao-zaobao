@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T08:00:00+08:00",
   "updated_at": "2026-11-10T08:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "论文提出面向灵巧操作的异构触觉表征学习",
+  "lead_zh": "这篇论文指出，触觉对接触丰富的灵巧操作必不可少，并介绍了用于通用灵巧操作的异构触觉表征学习方法。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T02:55:43+08:00",
   "updated_at": "2026-11-10T02:55:43+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "CrossnoKaye 借助亚马逊云平台把物理 AI 用于工业",
+  "lead_zh": "CrossnoKaye 借助亚马逊云的智能体服务，把物理人工智能用于重工业，其平台结合现场工厂数据开展推理，并在隔离环境中运行可验证的程序。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

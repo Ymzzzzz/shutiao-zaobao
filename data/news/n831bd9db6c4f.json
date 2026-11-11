@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T08:21:34+08:00",
   "updated_at": "2026-11-10T08:21:34+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "AWS 介绍 Quick 中技能与智能体的用法",
+  "lead_zh": "AWS 发文介绍如何在 AWS Quick 中用智能体和技能来编码状态更新、发布说明和工单创建等可重复任务，并说明它们与数据如何配合。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

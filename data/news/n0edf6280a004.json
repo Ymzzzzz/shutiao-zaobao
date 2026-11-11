@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T16:30:20+08:00",
   "updated_at": "2026-11-10T16:30:20+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "机器人在太空自主组装天线桁架",
+  "lead_zh": "据报道，加州理工学院研发、美国国防高级研究计划局资助的一款机器人，近日在轨道上把独立零部件组装成天线桁架，展示了新的太空建造方案。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

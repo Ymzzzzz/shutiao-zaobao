@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T03:05:54+08:00",
   "updated_at": "2026-11-10T03:05:54+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "AWS 提出七层企业智能体 AI 参考架构",
+  "lead_zh": "AWS 介绍了一套基于 Amazon Bedrock AgentCore 的七层可组合参考架构，用于把企业智能体 AI 从原型推向生产，并称各层有稳定接口以便替换技术组件。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

@@ -26,5 +26,11 @@
   "published_at": "2026-11-10T01:24:26+08:00",
   "updated_at": "2026-11-10T16:45:01+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "Claude Code 设置或致密钥被传到 GitHub",
+  "lead_zh": "据报道，使用 Claude Code 时如果选择不再询问，密码和接口密钥等敏感信息可能会被共享到 GitHub。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

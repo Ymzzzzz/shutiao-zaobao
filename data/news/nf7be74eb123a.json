@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T16:03:58+08:00",
   "updated_at": "2026-11-10T16:03:58+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "研究员称在英国政府公开代码中发现大量漏洞",
+  "lead_zh": "据《连线》报道，一名安全研究人员在英国政府公开发布的代码中发现了 100 多个严重安全漏洞，文章称相关部门缺乏基本的网络安全维护，敏感数据面临暴露风险。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

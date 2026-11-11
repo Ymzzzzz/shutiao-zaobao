@@ -26,5 +26,11 @@
   "published_at": "2026-11-09T23:38:56+08:00",
   "updated_at": "2026-11-10T00:54:16+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "迪士尼与 Adobe 合作开发生成式 AI 工具",
+  "lead_zh": "华特迪士尼公司与 Adobe 达成多年合作，将开发由艺术家主导的专有生成式 AI 模型，用于支持迪士尼的内容制作流程。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

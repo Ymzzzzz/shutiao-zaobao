@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T03:00:00+08:00",
   "updated_at": "2026-11-10T03:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "企业版 ChatGPT 已登陆亚马逊云市场",
+  "lead_zh": "OpenAI 宣布企业版 ChatGPT 已可在亚马逊云市场购买，方便机构沿用现有云采购和结算关系完成采购。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T13:01:00+08:00",
   "updated_at": "2026-11-10T13:01:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "DeepMind 用 AI 工具形式化验证 Signal 协议",
+  "lead_zh": "报道称，DeepMind 研究人员用新的 AI 工具对广泛使用的 Signal 加密协议做了形式化验证，认为其按预期工作，并希望将方法扩展到更多软件。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

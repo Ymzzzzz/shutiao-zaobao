@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T09:27:12+08:00",
   "updated_at": "2026-11-10T09:27:12+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "报道称 Anthropic 计划继续推进 IPO",
+  "lead_zh": "据《华尔街日报》报道，Anthropic 计划继续推进上市，并预计将在本周确定估值区间。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

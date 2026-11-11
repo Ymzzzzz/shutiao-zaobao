@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T17:00:00+08:00",
   "updated_at": "2026-11-10T17:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "OpenAI 分享教育领域 AI 指导经验",
+  "lead_zh": "OpenAI 结合其在欧洲、中东和非洲的教育合作以及 ThinkYoung 的新研究，讨论如何支持教师、提升 AI 素养与独立学习。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

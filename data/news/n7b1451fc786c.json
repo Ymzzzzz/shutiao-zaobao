@@ -20,5 +20,11 @@
   "published_at": "2026-11-09T20:34:29+08:00",
   "updated_at": "2026-11-09T20:34:29+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "亚马逊提出保留专家组合的剪枝方法 HOPE",
+  "lead_zh": "亚马逊在博客中介绍了名为 HOPE 的高阶专家剪枝方法，它会考虑专家之间的两两协作，以便在精简专家时尽量保留相互配合的组合。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

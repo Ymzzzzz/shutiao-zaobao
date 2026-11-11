@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T15:00:00+08:00",
   "updated_at": "2026-11-10T15:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "英国政府公开代码被指存在安全漏洞",
+  "lead_zh": "报道称，一名研究人员在英国政府部门公开可获取的代码中发现安全问题，多个部门的私人信息面临泄露风险。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

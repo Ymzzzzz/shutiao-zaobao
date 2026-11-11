@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T08:00:00+08:00",
   "updated_at": "2026-11-10T08:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "论文探讨策略蒸馏能容忍多大训练推理偏差",
+  "lead_zh": "该论文研究在策略蒸馏中，学生模型在固定教师指导下用自身回复做训练时，量化推理和异步等做法带来的训练-推理不匹配能被容忍到什么程度。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

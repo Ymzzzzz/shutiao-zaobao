@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T08:00:00+08:00",
   "updated_at": "2026-11-10T08:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "论文提出用于人脸识别早退的 SD-ViT 框架",
+  "lead_zh": "作者提出训练框架 SD-ViT，旨在让视觉 Transformer 在人脸识别中实现与图库一致的早退推理，以应对固定深度推理在资源受限场景中的局限。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

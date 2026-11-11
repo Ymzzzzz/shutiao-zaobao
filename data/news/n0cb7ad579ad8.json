@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T15:00:00+08:00",
   "updated_at": "2026-11-10T15:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "Otter AI 新增 27 种语言支持",
+  "lead_zh": "Otter AI 新增了 27 种语言支持，并预告即将推出一项功能，可在说话者切换语言时继续跟随记录对话。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

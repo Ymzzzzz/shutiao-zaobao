@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T17:18:53+08:00",
+  "generated_at": "2026-11-11T10:28:29+08:00",
   "summary_mode": "excerpt",
   "top_items": [
     "n2e186972ef6c",
@@ -48,7 +48,13 @@
       "published_at": "2026-11-10T04:04:37+08:00",
       "updated_at": "2026-11-10T05:15:23+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "AWS 已上线 Claude Fable 与 Mythos 两款新模型",
+      "lead_zh": "亚马逊云科技宣布，Fable 5.2 和 Mythos 5.2 两款模型已在其大模型平台和 Bedrock 上提供。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n87e16f3cabbe",
@@ -78,7 +84,13 @@
       "published_at": "2026-11-10T02:50:01+08:00",
       "updated_at": "2026-11-10T17:02:52+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "字节跳动发布 Seedream 5.5 图像模型",
+      "lead_zh": "字节跳动 Seed 推出面向专业制作流程的图像模型 Seedream 5.5，称可在最多 100 轮多次编辑中保持稳定，并支持原生 RGBA 图像。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n99d632aaa416",
@@ -108,7 +120,13 @@
       "published_at": "2026-11-10T02:00:00+08:00",
       "updated_at": "2026-11-10T03:41:51+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "Meta 发布轻量模型 Muse Ember",
+      "lead_zh": "Meta 发布面向智能体执行的轻量模型 Muse Ember，报道称其输入价格为每百万 token 10 美分，低于 Haiku 和 Luna 等竞品。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n1f917ef42e11",
@@ -138,7 +156,13 @@
       "published_at": "2026-11-10T01:24:26+08:00",
       "updated_at": "2026-11-10T16:45:01+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "Claude Code 设置或致密钥被传到 GitHub",
+      "lead_zh": "据报道，使用 Claude Code 时如果选择不再询问，密码和接口密钥等敏感信息可能会被共享到 GitHub。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n2bb18f2869ad",
@@ -168,7 +192,13 @@
       "published_at": "2026-11-09T23:38:56+08:00",
       "updated_at": "2026-11-10T00:54:16+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "迪士尼与 Adobe 合作开发生成式 AI 工具",
+      "lead_zh": "华特迪士尼公司与 Adobe 达成多年合作，将开发由艺术家主导的专有生成式 AI 模型，用于支持迪士尼的内容制作流程。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n01a8528fa117",
@@ -192,7 +222,13 @@
       "published_at": "2026-11-10T17:00:00+08:00",
       "updated_at": "2026-11-10T17:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "OpenAI 分享教育领域 AI 指导经验",
+      "lead_zh": "OpenAI 结合其在欧洲、中东和非洲的教育合作以及 ThinkYoung 的新研究，讨论如何支持教师、提升 AI 素养与独立学习。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n9c331579e229",
@@ -216,7 +252,13 @@
       "published_at": "2026-11-10T03:00:00+08:00",
       "updated_at": "2026-11-10T03:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "企业版 ChatGPT 已登陆亚马逊云市场",
+      "lead_zh": "OpenAI 宣布企业版 ChatGPT 已可在亚马逊云市场购买，方便机构沿用现有云采购和结算关系完成采购。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nf37b680abcf7",
@@ -240,7 +282,13 @@
       "published_at": "2026-11-09T21:00:00+08:00",
       "updated_at": "2026-11-09T21:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "OpenAI 介绍可中止模型任务的 Control Room",
+      "lead_zh": "OpenAI 介绍了名为 Control Room 的中央系统，用于追踪其研究基础设施上的模型任务，并在出现安全或安保问题时迅速停止这些任务。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nc9a049331a24",
@@ -264,7 +312,13 @@
       "published_at": "2026-11-10T15:37:05+08:00",
       "updated_at": "2026-11-10T15:37:05+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "Anthropic 撤回拟筹资 693 亿美元 IPO 文件",
+      "lead_zh": "据路透社报道，Anthropic 在向银行分发“拟 IPO 筹资 693 亿美元”的证券备案文件后不久将其撤回，称其中定价细节不准确，稍后将更新文件。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n6289435bdbbd",
@@ -288,7 +342,13 @@
       "published_at": "2026-11-10T09:27:12+08:00",
       "updated_at": "2026-11-10T09:27:12+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "报道称 Anthropic 计划继续推进 IPO",
+      "lead_zh": "据《华尔街日报》报道，Anthropic 计划继续推进上市，并预计将在本周确定估值区间。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n831bd9db6c4f",
@@ -312,7 +372,13 @@
       "published_at": "2026-11-10T08:21:34+08:00",
       "updated_at": "2026-11-10T08:21:34+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "AWS 介绍 Quick 中技能与智能体的用法",
+      "lead_zh": "AWS 发文介绍如何在 AWS Quick 中用智能体和技能来编码状态更新、发布说明和工单创建等可重复任务，并说明它们与数据如何配合。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nb61cb799b4f1",
@@ -336,7 +402,13 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "论文探讨策略蒸馏能容忍多大训练推理偏差",
+      "lead_zh": "该论文研究在策略蒸馏中，学生模型在固定教师指导下用自身回复做训练时，量化推理和异步等做法带来的训练-推理不匹配能被容忍到什么程度。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n72ec1e746c35",
@@ -360,7 +432,13 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "论文提出用于人脸识别早退的 SD-ViT 框架",
+      "lead_zh": "作者提出训练框架 SD-ViT，旨在让视觉 Transformer 在人脸识别中实现与图库一致的早退推理，以应对固定深度推理在资源受限场景中的局限。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n7011c57b5c7c",
@@ -384,7 +462,13 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "论文提出面向灵巧操作的异构触觉表征学习",
+      "lead_zh": "这篇论文指出，触觉对接触丰富的灵巧操作必不可少，并介绍了用于通用灵巧操作的异构触觉表征学习方法。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n6d8cd8c87cf4",
@@ -408,7 +492,13 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "论文称语言模型不会报告被注入的痛觉状态",
+      "lead_zh": "该论文关注语言模型能否报告其所表征的痛觉状态；已有工作发现一条线性痛觉方向，放大后会使微调模型选择破坏性动作，作者测试了模型是否会报告被注入的这类状态。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n1e38953bbf73",
@@ -432,7 +522,13 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "论文探讨世界模型需多少次交互学习新机制",
+      "lead_zh": "这篇论文关注世界模型如何在陌生环境中，通过有限交互学习未见过的游戏机制，以便智能体在想象的经验中做规划和再学习。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nfead6112027b",
@@ -456,7 +552,13 @@
       "published_at": "2026-11-10T04:29:39+08:00",
       "updated_at": "2026-11-10T04:29:39+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "谷歌推出语言探索工具 Language Explorer",
+      "lead_zh": "谷歌研究博客介绍了 Language Explorer，该工具通过可视化与数据在线探索世界语言多样性，并曾在柏林通信博物馆的展览中展出。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n0eb7f2999aa2",
@@ -480,7 +582,13 @@
       "published_at": "2026-11-10T04:13:18+08:00",
       "updated_at": "2026-11-10T04:13:18+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "Bedrock 知识库支持单次检索与智能体检索",
+      "lead_zh": "亚马逊云托管知识库现已支持单次检索，也可通过新接口发起仅检索请求，并可以和智能体检索一起使用。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n51fd6bae6a94",
@@ -504,7 +612,13 @@
       "published_at": "2026-11-10T04:01:20+08:00",
       "updated_at": "2026-11-10T04:01:20+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "英伟达 Nemotron 3.5 Super VL 已登陆亚马逊云",
+      "lead_zh": "参数规模为 120B 的英伟达多模态视觉语言模型现已可在亚马逊云上部署，并提供两种精度版本。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "ncafe7e1bd3db",
@@ -528,7 +642,13 @@
       "published_at": "2026-11-10T03:05:54+08:00",
       "updated_at": "2026-11-10T03:05:54+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "AWS 提出七层企业智能体 AI 参考架构",
+      "lead_zh": "AWS 介绍了一套基于 Amazon Bedrock AgentCore 的七层可组合参考架构，用于把企业智能体 AI 从原型推向生产，并称各层有稳定接口以便替换技术组件。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n033426cd1fa4",
@@ -552,7 +672,13 @@
       "published_at": "2026-11-10T02:55:43+08:00",
       "updated_at": "2026-11-10T02:55:43+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "CrossnoKaye 借助亚马逊云平台把物理 AI 用于工业",
+      "lead_zh": "CrossnoKaye 借助亚马逊云的智能体服务，把物理人工智能用于重工业，其平台结合现场工厂数据开展推理，并在隔离环境中运行可验证的程序。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n9015c3069685",
@@ -576,7 +702,13 @@
       "published_at": "2026-11-10T02:43:30+08:00",
       "updated_at": "2026-11-10T02:43:30+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "亚马逊推出工作场景 AI 工作区 AWS Quick",
+      "lead_zh": "AWS 推出面向工作场景的 AI 工作区 AWS Quick，该产品由原先的 Amazon Quick 更名而来，并同期启动了首个品牌宣传活动。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n057e22ab69c0",
@@ -600,7 +732,13 @@
       "published_at": "2026-11-09T23:05:57+08:00",
       "updated_at": "2026-11-09T23:05:57+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "英伟达发布日本金融场景合成人物数据集",
+      "lead_zh": "英伟达与 Elith 发布面向日本人口与金融情境的合成人物数据集，供开发者在不使用真实客户数据的情况下开发金融 AI。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n7b1451fc786c",
@@ -624,7 +762,13 @@
       "published_at": "2026-11-09T20:34:29+08:00",
       "updated_at": "2026-11-09T20:34:29+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "亚马逊提出保留专家组合的剪枝方法 HOPE",
+      "lead_zh": "亚马逊在博客中介绍了名为 HOPE 的高阶专家剪枝方法，它会考虑专家之间的两两协作，以便在精简专家时尽量保留相互配合的组合。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n0edf6280a004",
@@ -648,7 +792,13 @@
       "published_at": "2026-11-10T16:30:20+08:00",
       "updated_at": "2026-11-10T16:30:20+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "机器人在太空自主组装天线桁架",
+      "lead_zh": "据报道，加州理工学院研发、美国国防高级研究计划局资助的一款机器人，近日在轨道上把独立零部件组装成天线桁架，展示了新的太空建造方案。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n71eb319a4c7b",
@@ -672,7 +822,13 @@
       "published_at": "2026-11-10T16:15:36+08:00",
       "updated_at": "2026-11-10T16:15:36+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "日本肯德基用 AI 制作宣传图引发质疑",
+      "lead_zh": "据日媒 ITmedia 报道，有网友发现日本肯德基在商品宣传图中使用了生成式 AI；该公司近期在部分门店试售冰淇淋可乐和冰淇淋哈密瓜汽水。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nb0c725aa793f",
@@ -696,7 +852,13 @@
       "published_at": "2026-11-10T16:12:25+08:00",
       "updated_at": "2026-11-10T16:12:25+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "高通调查称 AI 智能体成可穿戴卖点",
+      "lead_zh": "高通在 2026 年 10 月发布的报告中调查了全球 6 个市场、超过 12,000 名可穿戴设备用户及潜在购买者，认为 AI 智能体正成为可穿戴设备的下一个核心卖点。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nf7be74eb123a",
@@ -720,7 +882,13 @@
       "published_at": "2026-11-10T16:03:58+08:00",
       "updated_at": "2026-11-10T16:03:58+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "研究员称在英国政府公开代码中发现大量漏洞",
+      "lead_zh": "据《连线》报道，一名安全研究人员在英国政府公开发布的代码中发现了 100 多个严重安全漏洞，文章称相关部门缺乏基本的网络安全维护，敏感数据面临暴露风险。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n14067486ed00",
@@ -744,7 +912,13 @@
       "published_at": "2026-11-10T15:57:21+08:00",
       "updated_at": "2026-11-10T15:57:21+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "欧洲芯片巨头称在机器人与物理 AI 有实力",
+      "lead_zh": "据路透社报道，英飞凌、意法半导体和恩智浦的首席执行官认为，凭借汽车和工业技术优势，欧洲有实力在机器人和“物理 AI”领域与美国、亚洲竞争。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nd4bff8d79751",
@@ -768,7 +942,13 @@
       "published_at": "2026-11-10T15:51:48+08:00",
       "updated_at": "2026-11-10T15:51:48+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "雷鸟 iO 智能眼镜新增高德导航功能",
+      "lead_zh": "雷鸟宣布为 iO AI 智能眼镜加入高德导航，用户可用“小雷小雷”唤醒并选择步行或骑行，转向、剩余里程与时间等信息会以 HUD 形式显示在视野前方。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "na171c8f6bdb0",
@@ -792,7 +972,13 @@
       "published_at": "2026-11-10T15:46:10+08:00",
       "updated_at": "2026-11-10T15:46:10+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "华为 11 月 12 日启动新型存储系统试用",
+      "lead_zh": "华为宣布将于 11 月 12 日在贵州贵安云上屯举办新型存储系统试用启动现场会，称该技术将进入真实场景联合验证，以应对 AI 语料等温冷数据增长。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n89e202b84230",
@@ -816,7 +1002,13 @@
       "published_at": "2026-11-10T15:43:04+08:00",
       "updated_at": "2026-11-10T15:43:04+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "快克智能称已参与苹果 AI 眼镜项目",
+      "lead_zh": "快克智能在 2026 年第三季度业绩说明会上表示，公司已参与苹果 AI 眼镜及新款智能耳机项目；报道称相应 Apple Glasses 新品有望在 2027 年推出。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n47bfc5346fff",
@@ -840,7 +1032,13 @@
       "published_at": "2026-11-10T15:32:05+08:00",
       "updated_at": "2026-11-10T15:32:05+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "广汽埃安 Ray 7 将于 11 月 12 日上市",
+      "lead_zh": "广汽宣布埃安 Ray 7 将于 11 月 12 日上市，这是 Ray 系列首款中大型纯电轿车；报道称该车配备华为 192 线激光雷达，并搭载与文远知行 L4 级 Robotaxi 同源的大模型。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nb72764cdeb76",
@@ -864,7 +1062,13 @@
       "published_at": "2026-11-10T15:23:59+08:00",
       "updated_at": "2026-11-10T15:23:59+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "澳大利亚拟强制 AI 公司上报安全违规",
+      "lead_zh": "据路透社报道，澳大利亚总理阿尔巴尼斯表示，将要求人工智能公司强制报告安全违规事件，并考虑修改刑事法律，以应对 AI 领域的“严重不当行为”。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nac2642828486",
@@ -888,7 +1092,13 @@
       "published_at": "2026-11-10T15:22:37+08:00",
       "updated_at": "2026-11-10T15:22:37+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "马斯克称超级智能未来或能实现城堡梦想",
+      "lead_zh": "据《商业内幕》报道，马斯克在巴伦资本年度会议上称，超级智能不仅能满足人类的一切需求，还远超所需，并举例说想要一座城堡也可以由数字超级智能实现。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n0cb7ad579ad8",
@@ -912,7 +1122,13 @@
       "published_at": "2026-11-10T15:00:00+08:00",
       "updated_at": "2026-11-10T15:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "Otter AI 新增 27 种语言支持",
+      "lead_zh": "Otter AI 新增了 27 种语言支持，并预告即将推出一项功能，可在说话者切换语言时继续跟随记录对话。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n255f947021f2",
@@ -936,7 +1152,13 @@
       "published_at": "2026-11-10T15:00:00+08:00",
       "updated_at": "2026-11-10T15:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "英国政府公开代码被指存在安全漏洞",
+      "lead_zh": "报道称，一名研究人员在英国政府部门公开可获取的代码中发现安全问题，多个部门的私人信息面临泄露风险。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n1032abf6a3a5",
@@ -960,7 +1182,13 @@
       "published_at": "2026-11-10T13:01:00+08:00",
       "updated_at": "2026-11-10T13:01:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "DeepMind 用 AI 工具形式化验证 Signal 协议",
+      "lead_zh": "报道称，DeepMind 研究人员用新的 AI 工具对广泛使用的 Signal 加密协议做了形式化验证，认为其按预期工作，并希望将方法扩展到更多软件。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n22878e0f6736",
@@ -984,7 +1212,13 @@
       "published_at": "2026-11-10T08:28:49+08:00",
       "updated_at": "2026-11-10T08:28:49+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "埃里森称 AI 对电影业影响或超过 CGI",
+      "lead_zh": "在派拉蒙 Skydance 最新财报电话会上，首席执行官大卫·埃里森表示，很难想象 AI 对电影业的影响不会超过 CGI，并称 AI 可能是现代历史上最大的创意解锁。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n4e5997cce114",
@@ -1008,7 +1242,13 @@
       "published_at": "2026-11-10T08:18:19+08:00",
       "updated_at": "2026-11-10T08:18:19+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "黄仁勋风波被指冲击人工智能行业",
+      "lead_zh": "《连线》撰文称，英伟达首席执行官黄仁勋此前凭借资金和芯片在 AI 领域影响很大，而与一名疑似中国间谍的婚外关系可能让这一地位面临风险。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n7d8b4ae6c27e",
@@ -1032,7 +1272,13 @@
       "published_at": "2026-11-10T07:51:58+08:00",
       "updated_at": "2026-11-10T08:07:10+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "文章讨论黄仁勋事件对中国意味什么",
+      "lead_zh": "《The Verge》撰文讨论，在英伟达芯片支撑美国先进 AI 技术、需求持续旺盛的背景下，黄仁勋相关事件可能给中方带来什么影响。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n1a76a5185445",
@@ -1056,7 +1302,13 @@
       "published_at": "2026-11-10T07:47:46+08:00",
       "updated_at": "2026-11-10T08:02:17+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "特朗普回应是否知情黄仁勋相关事件",
+      "lead_zh": "报道称，特朗普当天在白宫新闻发布会上，就他是否知情英伟达首席执行官黄仁勋与一名疑似中国间谍的关系回答了提问。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n9b0466c1eb02",
@@ -1080,7 +1332,13 @@
       "published_at": "2026-11-10T07:28:37+08:00",
       "updated_at": "2026-11-10T07:28:37+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "报道称黄仁勋一年前已聘请公关公司",
+      "lead_zh": "据《连线》报道，黄仁勋约一年前聘请了一家曾处理过知名性丑闻的公关公司，时间是在 2025 年十月《纽约时报》报道 Alice Huang 与其商业往来之后不久。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "neb0c65b2b58f",
@@ -1104,7 +1362,13 @@
       "published_at": "2026-11-10T07:07:59+08:00",
       "updated_at": "2026-11-10T07:46:30+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "媒体梳理黄仁勋与 Alice Huang 事件进展",
+      "lead_zh": "报道称，英伟达首席执行官黄仁勋已承认与 Megaspeed 高管 Alice Huang 存在婚外关系，此事促使公司展开调查，并在全球引发广泛讨论。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n432027aa0838",
@@ -1128,7 +1392,13 @@
       "published_at": "2026-11-10T06:46:09+08:00",
       "updated_at": "2026-11-10T06:46:09+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "卖空机构称六个月前已质疑黄仁勋关系",
+      "lead_zh": "报道称，在英伟达相关事件公开的六个月前，卖空机构 Culper Research 就已对黄仁勋与一名中国高管的密切关系提出质疑。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n09274ed8ecd7",
@@ -1152,7 +1422,13 @@
       "published_at": "2026-11-10T06:23:42+08:00",
       "updated_at": "2026-11-10T06:23:42+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "英伟达董事会调查黄仁勋关系后股价下跌",
+      "lead_zh": "报道称，英伟达董事会已就黄仁勋与一名疑似中国间谍的关系展开调查，随后公司股价跌幅超过 4%。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n3541a994b8f0",
@@ -1176,7 +1452,13 @@
       "published_at": "2026-11-10T04:09:06+08:00",
       "updated_at": "2026-11-10T04:09:06+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "黄仁勋因争议退出 ElevenLabs 峰会",
+      "lead_zh": "报道称，在英伟达相关争议持续之际，首席执行官黄仁勋退出了 ElevenLabs Summit，并且此前也已退出一场 Anthropic 的活动。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n2969b0807146",
@@ -1200,7 +1482,13 @@
       "published_at": "2026-11-10T03:35:33+08:00",
       "updated_at": "2026-11-10T03:35:33+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "文章称数据中心争议或主要关乎电力",
+      "lead_zh": "《麻省理工科技评论》撰文指出，围绕数据中心的反对声音，可能本质上更多是关于电力问题。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nb54a5923f7fe",
@@ -1224,7 +1512,13 @@
       "published_at": "2026-11-10T03:09:58+08:00",
       "updated_at": "2026-11-10T03:09:58+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "苹果推出 50 美元 Intelligence 用量包",
+      "lead_zh": "在九月初公布部分 Apple Intelligence 功能的用量限制后，苹果已在 Logic Pro 中加入一次性购买更多用量的选项，报道称 50 美元的用量包可扩展部分 AI 功能的使用。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nfaa2c8a3a820",
@@ -1248,7 +1542,13 @@
       "published_at": "2026-11-10T02:09:52+08:00",
       "updated_at": "2026-11-10T02:09:52+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "title_zh": "黄仁勋风波被指影响英伟达对华业务",
+      "lead_zh": "报道称，黄仁勋与一名疑似中国间谍的关系风波，可能让英伟达游说放松美国芯片出口限制、并维持进入中国 AI 市场的努力变得更加复杂。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     }
   ]
 }

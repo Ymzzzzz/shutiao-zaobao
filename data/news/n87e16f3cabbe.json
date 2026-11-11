@@ -26,5 +26,11 @@
   "published_at": "2026-11-10T02:50:01+08:00",
   "updated_at": "2026-11-10T17:02:52+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "字节跳动发布 Seedream 5.5 图像模型",
+  "lead_zh": "字节跳动 Seed 推出面向专业制作流程的图像模型 Seedream 5.5，称可在最多 100 轮多次编辑中保持稳定，并支持原生 RGBA 图像。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

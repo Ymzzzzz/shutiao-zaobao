@@ -20,5 +20,11 @@
   "published_at": "2026-11-10T04:01:20+08:00",
   "updated_at": "2026-11-10T04:01:20+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "英伟达 Nemotron 3.5 Super VL 已登陆亚马逊云",
+  "lead_zh": "参数规模为 120B 的英伟达多模态视觉语言模型现已可在亚马逊云上部署，并提供两种精度版本。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

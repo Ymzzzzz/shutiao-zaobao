@@ -38,5 +38,11 @@
   "published_at": "2026-11-10T04:04:37+08:00",
   "updated_at": "2026-11-10T05:15:23+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "title_zh": "AWS 已上线 Claude Fable 与 Mythos 两款新模型",
+  "lead_zh": "亚马逊云科技宣布，Fable 5.2 和 Mythos 5.2 两款模型已在其大模型平台和 Bedrock 上提供。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }
