@@ -3,10 +3,26 @@
   "category": "AI公司与融资",
   "importance": 2,
   "verified": false,
-  "title": "Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值",
+  "title": "Anthropic IPO 定价每股 70 至 78 美元，剑指 1.4 万亿美元估值",
   "original_title": "Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值",
-  "summary": "IT之家 11 月 10 日消息，据美国 CNBC 今天（10 日）晚间报道，Anthropic 最新更新的上市申请文件显示，公司计划通过首次公开募股（IPO）发行 8.25 亿股股票，发行价定为每股 70 至 78 美元（现汇率约合 468.1 至 521.6 元人民币）。 如果按 78 美元（现汇率约合 521.6 元人民币）的发行价上限计算，Anthropic 最多可通过 IPO 筹集 6…",
-  "facts": [],
+  "summary": "据 IT之家援引 CNBC 报道，Anthropic 更新后的上市文件显示，公司计划发行 8.25 亿股，定价每股 70 至 78 美元，按上限计算最多筹资 643.5 亿美元，完全摊薄估值约 1.4 万亿美元。另有七家公司将按发行价认购 260 亿美元无投票权股份。",
+  "facts": [
+    {
+      "text": "IT之家援引 CNBC 报道，Anthropic 更新后的上市申请文件显示，公司计划发行 8.25 亿股，定价为每股 70 至 78 美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/139.htm"
+    },
+    {
+      "text": "按 78 美元的发行价上限计算，Anthropic 最多可通过 IPO 筹集 643.5 亿美元，完全摊薄估值约 1.4 万亿美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/139.htm"
+    },
+    {
+      "text": "另有七家公司将通过私募配售，按发行价认购总价值 260 亿美元的 N 类普通股，这部分股份不纳入此次 IPO 注册范围",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/139.htm"
+    }
+  ],
   "claims": [],
   "analysis": [],
   "sources": [
@@ -20,7 +36,7 @@
   "published_at": "2026-11-10T20:25:22+08:00",
   "updated_at": "2026-11-10T20:25:22+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

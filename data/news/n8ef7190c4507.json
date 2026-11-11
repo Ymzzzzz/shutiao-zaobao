@@ -3,12 +3,29 @@
   "category": "AI公司与融资",
   "importance": 2,
   "verified": false,
-  "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+  "title": "Anthropic 启动 IPO 路演，公开募股加私募最多筹资约 904 亿美元",
   "original_title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
-  "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private plac…",
-  "facts": [],
+  "summary": "据 The Decoder 报道，Anthropic 已启动 IPO 路演，计划公开发行最多 644 亿美元股票，并向谷歌、英伟达等基石投资者私募 260 亿美元，合计最多约 904 亿美元。该媒体按文件测算，目标估值最高约 1.02 万亿美元，定价为每股 70 至 78 美元。",
+  "facts": [
+    {
+      "text": "The Decoder 报道，Anthropic 计划公开发行最多 644 亿美元股票，并向谷歌、英伟达、AMD、博通、美光、微软和台积电等基石投资者私募 260 亿美元",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/"
+    },
+    {
+      "text": "该媒体按招股文件中的股份数量测算，公司目标估值最高约 1.02 万亿美元，定价区间为每股 70 至 78 美元，股票代码为 ANT",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/"
+    }
+  ],
   "claims": [],
-  "analysis": [],
+  "analysis": [
+    {
+      "text": "The Decoder 指出，此次 IPO 正值投资者对 AI 支出日益审慎，且公司面临与亚马逊、谷歌等合作方近 9000 亿美元算力承诺的压力",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/"
+    }
+  ],
   "sources": [
     {
       "name": "The Decoder",
@@ -20,7 +37,7 @@
   "published_at": "2026-11-10T20:13:03+08:00",
   "updated_at": "2026-11-10T20:13:03+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

@@ -3,10 +3,26 @@
   "category": "应用案例",
   "importance": 1,
   "verified": true,
-  "title": "Amazon Bedrock tokenomics data lake",
+  "title": "AWS 推出 Amazon Bedrock 调用日志数据湖，用于看清每次调用成本",
   "original_title": "Amazon Bedrock tokenomics data lake",
-  "summary": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs f…",
-  "facts": [],
+  "summary": "AWS 介绍了一套中心化的 Amazon Bedrock 可观测数据湖方案：把各账户的模型调用日志汇总到一处，处理后可用 Athena 查询每次调用的提示、模型、token 用量和成本。该方案以基础设施即代码提供，示例代码已放在 GitHub 仓库中。",
+  "facts": [
+    {
+      "text": "该方案把各关联账户中的 Amazon Bedrock 模型调用日志汇集到中心账户，处理后形成可查询的数据表",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/"
+    },
+    {
+      "text": "平台和机器学习团队可用 Athena 查询每次调用使用的模型、token 数量、提示和回复，并据此计算单次调用成本",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/"
+    },
+    {
+      "text": "部署模板和示例代码发布在 AWS Sample Bedrock Invocation Data Lake 的 GitHub 仓库中",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/"
+    }
+  ],
   "claims": [],
   "analysis": [],
   "sources": [
@@ -20,7 +36,7 @@
   "published_at": "2026-11-11T00:56:36+08:00",
   "updated_at": "2026-11-11T00:56:36+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

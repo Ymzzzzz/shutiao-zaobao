@@ -3,11 +3,33 @@
   "category": "AI公司与融资",
   "importance": 2,
   "verified": false,
-  "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+  "title": "Oura 将以 6.25 亿美元收购 AI 原生初级诊疗公司 Counsel Health",
   "original_title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-  "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-  "facts": [],
-  "claims": [],
+  "summary": "据 TechCrunch 报道，Oura 宣布以 6.25 亿美元收购 AI 原生初级诊疗公司 Counsel Health。交易发生在其因市场不确定而无限期推迟最高 22 亿美元 IPO 的数周之后。Counsel 服务已接入 Oura 应用，交易预计在 2027 年底前完成。",
+  "facts": [
+    {
+      "text": "Oura 宣布以 6.25 亿美元收购 Counsel Health，交易预计在 2027 年底前完成",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+    },
+    {
+      "text": "此次交易发生在 Oura 无限期推迟最高 22 亿美元 IPO 的数周之后，公司当时给出的理由是 IPO 市场存在不确定性",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+    },
+    {
+      "text": "Counsel Health 的服务已于 6 月接入 Oura 应用，其 CEO Muthu Alagappan 将出任 Oura 首席临床 AI 官",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Oura CEO Tom Hale 称，Oura 帮助用户了解自身生理状况，而结合 Counsel，用户可以从快速问询、开方到慢病管理和转诊，在更多场景里采取行动",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,7 +42,7 @@
   "published_at": "2026-11-11T03:23:34+08:00",
   "updated_at": "2026-11-11T03:23:34+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

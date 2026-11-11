@@ -3,11 +3,28 @@
   "category": "应用案例",
   "importance": 1,
   "verified": true,
-  "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+  "title": "TCS 用 Amazon Bedrock AgentCore 搭建智能体测试编排系统",
   "original_title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
-  "summary": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insuran…",
-  "facts": [],
-  "claims": [],
+  "summary": "AWS 与 TCS 介绍了后者如何在 Amazon Bedrock AgentCore 上构建智能体测试编排系统，把需求自动转成可执行、可审计的测试，服务银行和保险客户。系统按租户隔离数据，由专门智能体分别负责场景设计、执行和报告。内部基准显示测试工作量减少 88%。",
+  "facts": [
+    {
+      "text": "TCS 在 Amazon Bedrock AgentCore 上构建了智能体测试编排系统，把需求转成可执行、受治理的测试，服务银行、金融和保险客户",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "text": "该平台按租户隔离数据与知识库，并由专门智能体分别承担场景设计、代码生成和执行等任务",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 TCS 称，在约 100 个测试场景的内部对照中，单场景平均耗时从约 2 小时降到约 14 分钟，工作量减少 88%",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,7 +37,7 @@
   "published_at": "2026-11-11T00:59:43+08:00",
   "updated_at": "2026-11-11T00:59:43+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

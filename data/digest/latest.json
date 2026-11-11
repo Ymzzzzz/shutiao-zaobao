@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T09:41:58+08:00",
+  "generated_at": "2026-11-11T09:43:52+08:00",
   "summary_mode": "excerpt",
   "top_items": [
     "nf810a5e75c97",
@@ -742,11 +742,33 @@
       "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "title": "Oura 将以 6.25 亿美元收购 AI 原生初级诊疗公司 Counsel Health",
       "original_title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "facts": [],
-      "claims": [],
+      "summary": "据 TechCrunch 报道，Oura 宣布以 6.25 亿美元收购 AI 原生初级诊疗公司 Counsel Health。交易发生在其因市场不确定而无限期推迟最高 22 亿美元 IPO 的数周之后。Counsel 服务已接入 Oura 应用，交易预计在 2027 年底前完成。",
+      "facts": [
+        {
+          "text": "Oura 宣布以 6.25 亿美元收购 Counsel Health，交易预计在 2027 年底前完成",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+        },
+        {
+          "text": "此次交易发生在 Oura 无限期推迟最高 22 亿美元 IPO 的数周之后，公司当时给出的理由是 IPO 市场存在不确定性",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+        },
+        {
+          "text": "Counsel Health 的服务已于 6 月接入 Oura 应用，其 CEO Muthu Alagappan 将出任 Oura 首席临床 AI 官",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Oura CEO Tom Hale 称，Oura 帮助用户了解自身生理状况，而结合 Counsel，用户可以从快速问询、开方到慢病管理和转诊，在更多场景里采取行动",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -759,7 +781,7 @@
       "published_at": "2026-11-11T03:23:34+08:00",
       "updated_at": "2026-11-11T03:23:34+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -769,11 +791,28 @@
       "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列",
+      "title": "高盛预计 Anthropic 2030 年营收将突破 6000 亿美元",
       "original_title": "高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列",
-      "summary": "IT之家 11 月 10 日消息，据英国《金融时报》今天（10 日）晚间报道，作为 Anthropic 上市牵头投行的高盛，对 Anthropic 的未来给出了乐观预测：营收到 2030 年将突破 6,000 亿美元（IT之家注：现汇率约合 4.01 万亿元人民币），是 2025 年的 130 多倍。 高盛向一名潜在投资者披露的预测显示，Anthropic 今年的营收预计约为 520 亿美元（现…",
-      "facts": [],
-      "claims": [],
+      "summary": "据 IT之家援引英国《金融时报》报道，作为 Anthropic 上市牵头投行的高盛向潜在投资者披露预测：该公司营收到 2030 年将突破 6000 亿美元，约为 2025 年的 130 多倍；今年营收预计约 520 亿美元。若预测成真，其营收规模将跻身全球最大企业之列。",
+      "facts": [
+        {
+          "text": "IT之家援引英国《金融时报》报道，高盛作为 Anthropic 上市牵头投行，向一名潜在投资者披露了对该公司的营收预测",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/190.htm"
+        },
+        {
+          "text": "高盛预测 Anthropic 营收到 2030 年将突破 6000 亿美元，约为 2025 年的 130 多倍；今年营收预计约 520 亿美元，2025 年营收为 46 亿美元",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/190.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据高盛称，如果上述预测成真，Anthropic 将在营收规模上跻身全球最大企业之列",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/190.htm"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -786,7 +825,7 @@
       "published_at": "2026-11-10T23:17:21+08:00",
       "updated_at": "2026-11-10T23:17:21+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -796,12 +835,29 @@
       "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "Anthropic targets $1.4 trillion IPO",
+      "title": "Anthropic 确认 IPO 定价区间，最高估值约 1.4 万亿美元",
       "original_title": "Anthropic targets $1.4 trillion IPO",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, w…",
-      "facts": [],
+      "summary": "据 The Verge 报道，Anthropic 确认 IPO 发行价预计为每股 70 至 78 美元，最高估值约 1.4 万亿美元，低于此前外界预期的最高 2 万亿美元。公司已申请以股票代码 ANT 在纳斯达克上市。有消息称，股票可能于下周四五开始交易。",
+      "facts": [
+        {
+          "text": "Anthropic 确认 IPO 发行价预计为每股 70 至 78 美元，按此计算最高估值约 1.4 万亿美元",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+        },
+        {
+          "text": "公司已申请以股票代码 ANT 在纳斯达克 Global Select Market 上市其 A 类普通股",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+        }
+      ],
       "claims": [],
-      "analysis": [],
+      "analysis": [
+        {
+          "text": "The Verge 指出，此次 IPO 可能仍是史上规模最大的之一，但已低于此前外界预期的最高 2 万亿美元估值",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+        }
+      ],
       "sources": [
         {
           "name": "The Verge",
@@ -813,7 +869,7 @@
       "published_at": "2026-11-10T22:06:54+08:00",
       "updated_at": "2026-11-11T00:38:24+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -823,10 +879,26 @@
       "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "title": "Anthropic 设定 IPO 定价每股 70 至 78 美元，估值最高 1.404 万亿美元",
       "original_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-      "facts": [],
+      "summary": "据 TechCrunch 报道，Anthropic 计划发行 8.25 亿股 A 类股，定价每股 70 至 78 美元，按上限计算完全摊薄估值约 1.404 万亿美元，公开募资约 577.5 亿至 643.5 亿美元。公司还将向谷歌、英伟达等私募配售 260 亿美元股份，代码定为 ANT。",
+      "facts": [
+        {
+          "text": "Anthropic 计划发行 8.25 亿股 A 类股，定价区间为每股 70 至 78 美元，公开募资规模约为 577.5 亿至 643.5 亿美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        },
+        {
+          "text": "若按定价上限计算，公司完全摊薄估值约为 1.404 万亿美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        },
+        {
+          "text": "Anthropic 还达成协议，按 IPO 发行价向 AMD、博通、谷歌、美光、微软、英伟达和台积电私募出售 260 亿美元无投票权 N 类股，其中谷歌和英伟达各投资 100 亿美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        }
+      ],
       "claims": [],
       "analysis": [],
       "sources": [
@@ -840,7 +912,7 @@
       "published_at": "2026-11-10T22:01:39+08:00",
       "updated_at": "2026-11-10T22:01:39+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -850,10 +922,26 @@
       "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值",
+      "title": "Anthropic IPO 定价每股 70 至 78 美元，剑指 1.4 万亿美元估值",
       "original_title": "Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值",
-      "summary": "IT之家 11 月 10 日消息，据美国 CNBC 今天（10 日）晚间报道，Anthropic 最新更新的上市申请文件显示，公司计划通过首次公开募股（IPO）发行 8.25 亿股股票，发行价定为每股 70 至 78 美元（现汇率约合 468.1 至 521.6 元人民币）。 如果按 78 美元（现汇率约合 521.6 元人民币）的发行价上限计算，Anthropic 最多可通过 IPO 筹集 6…",
-      "facts": [],
+      "summary": "据 IT之家援引 CNBC 报道，Anthropic 更新后的上市文件显示，公司计划发行 8.25 亿股，定价每股 70 至 78 美元，按上限计算最多筹资 643.5 亿美元，完全摊薄估值约 1.4 万亿美元。另有七家公司将按发行价认购 260 亿美元无投票权股份。",
+      "facts": [
+        {
+          "text": "IT之家援引 CNBC 报道，Anthropic 更新后的上市申请文件显示，公司计划发行 8.25 亿股，定价为每股 70 至 78 美元",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/139.htm"
+        },
+        {
+          "text": "按 78 美元的发行价上限计算，Anthropic 最多可通过 IPO 筹集 643.5 亿美元，完全摊薄估值约 1.4 万亿美元",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/139.htm"
+        },
+        {
+          "text": "另有七家公司将通过私募配售，按发行价认购总价值 260 亿美元的 N 类普通股，这部分股份不纳入此次 IPO 注册范围",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/139.htm"
+        }
+      ],
       "claims": [],
       "analysis": [],
       "sources": [
@@ -867,7 +955,7 @@
       "published_at": "2026-11-10T20:25:22+08:00",
       "updated_at": "2026-11-10T20:25:22+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -877,12 +965,29 @@
       "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+      "title": "Anthropic 启动 IPO 路演，公开募股加私募最多筹资约 904 亿美元",
       "original_title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
-      "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private plac…",
-      "facts": [],
+      "summary": "据 The Decoder 报道，Anthropic 已启动 IPO 路演，计划公开发行最多 644 亿美元股票，并向谷歌、英伟达等基石投资者私募 260 亿美元，合计最多约 904 亿美元。该媒体按文件测算，目标估值最高约 1.02 万亿美元，定价为每股 70 至 78 美元。",
+      "facts": [
+        {
+          "text": "The Decoder 报道，Anthropic 计划公开发行最多 644 亿美元股票，并向谷歌、英伟达、AMD、博通、美光、微软和台积电等基石投资者私募 260 亿美元",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/"
+        },
+        {
+          "text": "该媒体按招股文件中的股份数量测算，公司目标估值最高约 1.02 万亿美元，定价区间为每股 70 至 78 美元，股票代码为 ANT",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/"
+        }
+      ],
       "claims": [],
-      "analysis": [],
+      "analysis": [
+        {
+          "text": "The Decoder 指出，此次 IPO 正值投资者对 AI 支出日益审慎，且公司面临与亚马逊、谷歌等合作方近 9000 亿美元算力承诺的压力",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/"
+        }
+      ],
       "sources": [
         {
           "name": "The Decoder",
@@ -894,7 +999,7 @@
       "published_at": "2026-11-10T20:13:03+08:00",
       "updated_at": "2026-11-10T20:13:03+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -904,11 +1009,33 @@
       "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
+      "title": "路透社：Anthropic 拟通过 IPO 筹集最多 644 亿美元并启动路演",
       "original_title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
-      "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）晚间公布的最新招股说明书草案，Anthropic 计划通过首次公开募股（IPO）筹集最多 644 亿美元（IT之家注：现汇率约合 4,306.16 亿元人民币），并准备启动上市推介。 招股说明书草案显示，Anthropic 还计划通过另一笔私募配售交易，向谷歌、英伟达和 AMD 等基石投资者融资 260 亿美元（现汇率约合 1,738.5…",
-      "facts": [],
-      "claims": [],
+      "summary": "据 IT之家援引路透社报道，Anthropic 最新招股说明书草案显示，公司计划通过 IPO 筹集最多 644 亿美元，并准备启动上市推介，定价区间为每股 70 至 78 美元。前一日曾出现“筹资最多 693 亿美元”的文件，公司随后撤回并称定价细节不准确。",
+      "facts": [
+        {
+          "text": "IT之家援引路透社报道，Anthropic 最新招股说明书草案显示，公司计划通过 IPO 筹集最多 644 亿美元，并准备启动上市推介",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/127.htm"
+        },
+        {
+          "text": "初步定价区间为每股 70 至 78 美元",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/127.htm"
+        },
+        {
+          "text": "当地时间 9 日，路透社曾披露公司计划募集至多 693 亿美元；相关文件发出后不久被撤回，Anthropic 称其中定价细节不准确",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/127.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Anthropic 称，被撤回文件中有关定价的细节不准确，稍后将更新备案文件",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/025/127.htm"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -921,7 +1048,7 @@
       "published_at": "2026-11-10T19:40:20+08:00",
       "updated_at": "2026-11-10T19:40:20+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -931,10 +1058,26 @@
       "category": "应用案例",
       "importance": 1,
       "verified": true,
-      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "title": "Trovata 在 Amazon Bedrock 上构建自主资金管理智能体",
       "original_title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
-      "summary": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move co…",
-      "facts": [],
+      "summary": "AWS 介绍了资金管理平台 Trovata 如何在 Amazon Bedrock 和 AgentCore 上构建自主资金管理智能体。该平台已连接逾 1 万家银行，可在权限控制下自动查询和监测资金状况，并把原先耗时数小时甚至数天的报表缩短到一分钟以内。",
+      "facts": [
+        {
+          "text": "Trovata 是面向企业资金与流动性管理的平台，已直接连接逾 1 万家银行",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/"
+        },
+        {
+          "text": "最新方案在 Amazon Bedrock 和 Amazon Bedrock AgentCore 上部署自主资金管理智能体，并采用基于角色的访问控制，以支持银行品牌化部署",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/"
+        },
+        {
+          "text": "该文称，资金报表时间已从数小时甚至数天缩短到一分钟以内",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/"
+        }
+      ],
       "claims": [],
       "analysis": [],
       "sources": [
@@ -948,7 +1091,7 @@
       "published_at": "2026-11-11T02:11:08+08:00",
       "updated_at": "2026-11-11T02:11:08+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -958,11 +1101,28 @@
       "category": "应用案例",
       "importance": 1,
       "verified": true,
-      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "title": "TCS 用 Amazon Bedrock AgentCore 搭建智能体测试编排系统",
       "original_title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
-      "summary": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insuran…",
-      "facts": [],
-      "claims": [],
+      "summary": "AWS 与 TCS 介绍了后者如何在 Amazon Bedrock AgentCore 上构建智能体测试编排系统，把需求自动转成可执行、可审计的测试，服务银行和保险客户。系统按租户隔离数据，由专门智能体分别负责场景设计、执行和报告。内部基准显示测试工作量减少 88%。",
+      "facts": [
+        {
+          "text": "TCS 在 Amazon Bedrock AgentCore 上构建了智能体测试编排系统，把需求转成可执行、受治理的测试，服务银行、金融和保险客户",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/"
+        },
+        {
+          "text": "该平台按租户隔离数据与知识库，并由专门智能体分别承担场景设计、代码生成和执行等任务",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 TCS 称，在约 100 个测试场景的内部对照中，单场景平均耗时从约 2 小时降到约 14 分钟，工作量减少 88%",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -975,7 +1135,7 @@
       "published_at": "2026-11-11T00:59:43+08:00",
       "updated_at": "2026-11-11T00:59:43+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null
@@ -985,10 +1145,26 @@
       "category": "应用案例",
       "importance": 1,
       "verified": true,
-      "title": "Amazon Bedrock tokenomics data lake",
+      "title": "AWS 推出 Amazon Bedrock 调用日志数据湖，用于看清每次调用成本",
       "original_title": "Amazon Bedrock tokenomics data lake",
-      "summary": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs f…",
-      "facts": [],
+      "summary": "AWS 介绍了一套中心化的 Amazon Bedrock 可观测数据湖方案：把各账户的模型调用日志汇总到一处，处理后可用 Athena 查询每次调用的提示、模型、token 用量和成本。该方案以基础设施即代码提供，示例代码已放在 GitHub 仓库中。",
+      "facts": [
+        {
+          "text": "该方案把各关联账户中的 Amazon Bedrock 模型调用日志汇集到中心账户，处理后形成可查询的数据表",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/"
+        },
+        {
+          "text": "平台和机器学习团队可用 Athena 查询每次调用使用的模型、token 数量、提示和回复，并据此计算单次调用成本",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/"
+        },
+        {
+          "text": "部署模板和示例代码发布在 AWS Sample Bedrock Invocation Data Lake 的 GitHub 仓库中",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/"
+        }
+      ],
       "claims": [],
       "analysis": [],
       "sources": [
@@ -1002,7 +1178,7 @@
       "published_at": "2026-11-11T00:56:36+08:00",
       "updated_at": "2026-11-11T00:56:36+08:00",
       "status": "normal",
-      "summary_mode": "excerpt",
+      "summary_mode": "ai",
       "image_url": null,
       "image_source": null,
       "image_origin_url": null

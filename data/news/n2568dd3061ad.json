@@ -3,11 +3,33 @@
   "category": "AI公司与融资",
   "importance": 2,
   "verified": false,
-  "title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
+  "title": "路透社：Anthropic 拟通过 IPO 筹集最多 644 亿美元并启动路演",
   "original_title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
-  "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）晚间公布的最新招股说明书草案，Anthropic 计划通过首次公开募股（IPO）筹集最多 644 亿美元（IT之家注：现汇率约合 4,306.16 亿元人民币），并准备启动上市推介。 招股说明书草案显示，Anthropic 还计划通过另一笔私募配售交易，向谷歌、英伟达和 AMD 等基石投资者融资 260 亿美元（现汇率约合 1,738.5…",
-  "facts": [],
-  "claims": [],
+  "summary": "据 IT之家援引路透社报道，Anthropic 最新招股说明书草案显示，公司计划通过 IPO 筹集最多 644 亿美元，并准备启动上市推介，定价区间为每股 70 至 78 美元。前一日曾出现“筹资最多 693 亿美元”的文件，公司随后撤回并称定价细节不准确。",
+  "facts": [
+    {
+      "text": "IT之家援引路透社报道，Anthropic 最新招股说明书草案显示，公司计划通过 IPO 筹集最多 644 亿美元，并准备启动上市推介",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/127.htm"
+    },
+    {
+      "text": "初步定价区间为每股 70 至 78 美元",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/127.htm"
+    },
+    {
+      "text": "当地时间 9 日，路透社曾披露公司计划募集至多 693 亿美元；相关文件发出后不久被撤回，Anthropic 称其中定价细节不准确",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/127.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Anthropic 称，被撤回文件中有关定价的细节不准确，稍后将更新备案文件",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/025/127.htm"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,7 +42,7 @@
   "published_at": "2026-11-10T19:40:20+08:00",
   "updated_at": "2026-11-10T19:40:20+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null

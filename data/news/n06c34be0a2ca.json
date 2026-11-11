@@ -3,12 +3,29 @@
   "category": "AI公司与融资",
   "importance": 2,
   "verified": false,
-  "title": "Anthropic targets $1.4 trillion IPO",
+  "title": "Anthropic 确认 IPO 定价区间，最高估值约 1.4 万亿美元",
   "original_title": "Anthropic targets $1.4 trillion IPO",
-  "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, w…",
-  "facts": [],
+  "summary": "据 The Verge 报道，Anthropic 确认 IPO 发行价预计为每股 70 至 78 美元，最高估值约 1.4 万亿美元，低于此前外界预期的最高 2 万亿美元。公司已申请以股票代码 ANT 在纳斯达克上市。有消息称，股票可能于下周四五开始交易。",
+  "facts": [
+    {
+      "text": "Anthropic 确认 IPO 发行价预计为每股 70 至 78 美元，按此计算最高估值约 1.4 万亿美元",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+    },
+    {
+      "text": "公司已申请以股票代码 ANT 在纳斯达克 Global Select Market 上市其 A 类普通股",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+    }
+  ],
   "claims": [],
-  "analysis": [],
+  "analysis": [
+    {
+      "text": "The Verge 指出，此次 IPO 可能仍是史上规模最大的之一，但已低于此前外界预期的最高 2 万亿美元估值",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+    }
+  ],
   "sources": [
     {
       "name": "The Verge",
@@ -20,7 +37,7 @@
   "published_at": "2026-11-10T22:06:54+08:00",
   "updated_at": "2026-11-11T00:38:24+08:00",
   "status": "normal",
-  "summary_mode": "excerpt",
+  "summary_mode": "ai",
   "image_url": null,
   "image_source": null,
   "image_origin_url": null
