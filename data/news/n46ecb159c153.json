@@ -3,11 +3,33 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": true,
-  "title": "Helping caregivers use AI in everyday life",
+  "title": "OpenAI 在美国五座城市为照护者举办免费 ChatGPT 培训",
   "original_title": "Helping caregivers use AI in everyday life",
-  "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-  "facts": [],
-  "claims": [],
+  "summary": "OpenAI Academy 与照护行动网络、阿尔茨海默病协会和美国糖尿病协会合作，在国家家庭照护者月期间，于奥克兰、坦帕、匹兹堡、亚特兰大和底特律举办免费实践工作坊，帮助照护者安全、实际地使用 ChatGPT 安排日程和查找资源。",
+  "facts": [
+    {
+      "text": "OpenAI Academy 与 Caregiver Action Network、Alzheimer's Association 和 American Diabetes Association 合作，在美国五座城市举办免费、面对面的 ChatGPT 工作坊",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    },
+    {
+      "text": "五座城市分别是加州奥克兰、佛罗里达州坦帕、宾夕法尼亚州匹兹堡、佐治亚州亚特兰大和密歇根州底特律",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    },
+    {
+      "text": "课程内容包括整理照护日程和清单、把可靠资料改写成通俗文本、查找社区资源，以及学习保护个人信息并在需要时咨询专业人士",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 OpenAI 全球事务长 Chris Lehane 称，对照护者来说，这可以减少花在整理日程和查找信息上的时间，把更多时间留给被照护的人",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,5 +42,8 @@
   "published_at": "2026-11-10T20:00:00+08:00",
   "updated_at": "2026-11-10T20:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

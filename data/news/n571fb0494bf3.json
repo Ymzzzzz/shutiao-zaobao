@@ -3,12 +3,35 @@
   "category": "AI公司与融资",
   "importance": 2,
   "verified": false,
-  "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+  "title": "OpenAI 收购旅行初创公司 Odessia，创始人已加入公司",
   "original_title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-  "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-  "facts": [],
-  "claims": [],
-  "analysis": [],
+  "summary": "据 TechCrunch 报道，OpenAI 已收购 Sonder 创始人 Francis Davidson 创办的 AI 旅行助手 Odessia。官方证实他已加入，但未公布交易金额和旅行产品计划。Odessia 成立约一年，曾获红杉领投的 600 万美元融资，产品现已关闭。",
+  "facts": [
+    {
+      "text": "OpenAI 已收购 AI 旅行助手 Odessia，创始人 Francis Davidson 发帖称自己已加入 OpenAI，协助其旅行方向的工作",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+    },
+    {
+      "text": "交易条款未披露；成立约一年的 Odessia 曾由红杉领投获得 600 万美元预种子轮融资，产品现已关闭",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 OpenAI 发言人称，很高兴欢迎 Francis 加入，他是一位曾多次创办旅行业务的创始人",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+    }
+  ],
+  "analysis": [
+    {
+      "text": "TechCrunch 认为这看起来像一次人才收购，并指出 OpenAI 尚未说明后续的旅行产品计划",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+    }
+  ],
   "sources": [
     {
       "name": "TechCrunch",
@@ -20,5 +43,8 @@
   "published_at": "2026-11-11T05:08:52+08:00",
   "updated_at": "2026-11-11T05:08:52+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

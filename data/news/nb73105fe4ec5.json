@@ -3,10 +3,26 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": true,
-  "title": "Gemini Intelligence: New features, on more devices",
+  "title": "Gemini Intelligence 扩展至更多设备，Pixel 10 与摩托罗拉新机可用",
   "original_title": "Gemini Intelligence: New features, on more devices",
-  "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-  "facts": [],
+  "summary": "Google 宣布 Gemini Intelligence 扩展到 Pixel 10 系列和摩托罗拉 signature 27。新功能包括把口述实时整理成文的 Rambler、跨应用代办订餐约车，以及用一句话生成桌面小组件。Pixel 手机还将把主动建议带到车机。",
+  "facts": [
+    {
+      "text": "Gemini Intelligence 扩展至 motorola signature 27 以及 Pixel 10、Pixel 10 Pro XL 和 Pixel 10 Pro Fold",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+    },
+    {
+      "text": "Rambler 可把口述实时整理成清晰文字，现已在 Pixel 10 系列和 motorola signature 27 上提供",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+    },
+    {
+      "text": "即将推出的 Create My Widget 可用一句话生成个性化桌面小组件，并可从 Gmail、日历和搜索拉取信息",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+    }
+  ],
   "claims": [],
   "analysis": [],
   "sources": [
@@ -20,5 +36,8 @@
   "published_at": "2026-11-11T03:00:00+08:00",
   "updated_at": "2026-11-11T03:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

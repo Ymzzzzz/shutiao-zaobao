@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T07:28:14+08:00",
+  "generated_at": "2026-11-11T09:41:58+08:00",
   "summary_mode": "excerpt",
   "top_items": [
     "nf810a5e75c97",
@@ -60,7 +60,10 @@
       "published_at": "2026-11-10T15:03:43+08:00",
       "updated_at": "2026-11-10T22:07:47+08:00",
       "status": "normal",
-      "summary_mode": "ai"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n9922bcaa36cd",
@@ -102,7 +105,10 @@
       "published_at": "2026-11-11T01:04:19+08:00",
       "updated_at": "2026-11-11T03:31:58+08:00",
       "status": "normal",
-      "summary_mode": "ai"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n0f696e8c8567",
@@ -149,19 +155,50 @@
       "published_at": "2026-11-10T23:00:39+08:00",
       "updated_at": "2026-11-11T01:11:10+08:00",
       "status": "normal",
-      "summary_mode": "ai"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n4ddbe1642bc5",
       "category": "行业动态",
       "importance": 2,
       "verified": false,
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "title": "Adobe 在 Max 大会为 Photoshop、Premiere 等增加消除物体等 AI 功能",
       "original_title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe…",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
+      "summary": "据 The Verge 和 TechCrunch 报道，Adobe 在 Max 大会为 Premiere、Photoshop 和 Lightroom 增加消除物体等 AI 功能，Firefly 还推出原型工具 Builder。公司同时发布本地 MCP，供 ChatGPT 等调用其创意软件。",
+      "facts": [
+        {
+          "text": "Adobe 在 Max 大会为 Premiere、Photoshop、Lightroom 和 Firefly 推出多项对象消除与生成式 AI 功能",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
+        },
+        {
+          "text": "Adobe 发布本地 MCP，让 ChatGPT、Claude、Gemini 等聊天机器人调用 Creative Cloud 功能",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+        },
+        {
+          "text": "Firefly 推出名为 Builder 的原型设计工具，目前为私人测试版",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Adobe 称，Premiere 的 Generative Remove 会用生成式 AI 以逼真细节填补消除区域，周围画面保持不变",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
+        }
+      ],
+      "analysis": [
+        {
+          "text": "TechCrunch 认为，Firefly 新增的 Builder 原型工具进入了 Figma 的领域",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+        }
+      ],
       "sources": [
         {
           "name": "The Verge",
@@ -179,17 +216,36 @@
       "published_at": "2026-11-10T22:00:00+08:00",
       "updated_at": "2026-11-10T23:49:40+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "nb73105fe4ec5",
       "category": "大模型与产品",
       "importance": 2,
       "verified": true,
-      "title": "Gemini Intelligence: New features, on more devices",
+      "title": "Gemini Intelligence 扩展至更多设备，Pixel 10 与摩托罗拉新机可用",
       "original_title": "Gemini Intelligence: New features, on more devices",
-      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-      "facts": [],
+      "summary": "Google 宣布 Gemini Intelligence 扩展到 Pixel 10 系列和摩托罗拉 signature 27。新功能包括把口述实时整理成文的 Rambler、跨应用代办订餐约车，以及用一句话生成桌面小组件。Pixel 手机还将把主动建议带到车机。",
+      "facts": [
+        {
+          "text": "Gemini Intelligence 扩展至 motorola signature 27 以及 Pixel 10、Pixel 10 Pro XL 和 Pixel 10 Pro Fold",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+        },
+        {
+          "text": "Rambler 可把口述实时整理成清晰文字，现已在 Pixel 10 系列和 motorola signature 27 上提供",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+        },
+        {
+          "text": "即将推出的 Create My Widget 可用一句话生成个性化桌面小组件，并可从 Gmail、日历和搜索拉取信息",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+        }
+      ],
       "claims": [],
       "analysis": [],
       "sources": [
@@ -203,7 +259,10 @@
       "published_at": "2026-11-11T03:00:00+08:00",
       "updated_at": "2026-11-11T03:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "nfc6b6a56df7b",
@@ -254,18 +313,43 @@
       "published_at": "2026-11-11T00:03:47+08:00",
       "updated_at": "2026-11-11T00:03:47+08:00",
       "status": "normal",
-      "summary_mode": "ai"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n405fdcad1ce1",
       "category": "大模型与产品",
       "importance": 2,
       "verified": true,
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "title": "英伟达在 KubeCon 向 CNCF 捐赠 OpenShell，并推出新的开源组件",
       "original_title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVI…",
-      "facts": [],
-      "claims": [],
+      "summary": "英伟达在 KubeCon 宣布，将用于保障和治理自主智能体的开源运行时 OpenShell 捐赠给 CNCF，成为 Sandbox 项目。公司还参与谷歌主导的 Agent Substrate，并推出 Kubernetes Engine、Recipes 和 Snapshot 等开源组件。",
+      "facts": [
+        {
+          "text": "英伟达将开源运行时 OpenShell 捐赠给 CNCF，作为 Sandbox 项目管理",
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+        },
+        {
+          "text": "OpenShell 用于为自主智能体提供安全与治理，可对智能体使用工具、调用推理和执行任务施加确定性控制",
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+        },
+        {
+          "text": "英伟达还宣布 DSX AI Factory Platform 的新组件：NVIDIA Kubernetes Engine、NVIDIA Kubernetes Recipes 和 NVIDIA Snapshot",
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 Linux 基金会CEO Jim Zemlin 称，把 OpenShell 交给 CNCF，能给开发者一个共同基础，并让业界一起塑造智能体安全的演进方向",
+          "source": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -278,17 +362,36 @@
       "published_at": "2026-11-11T00:00:03+08:00",
       "updated_at": "2026-11-11T00:00:03+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n66ed14c6418f",
       "category": "大模型与产品",
       "importance": 2,
       "verified": true,
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "title": "Google 与 Adobe 加深合作，创意工具将进入 Drive、Gmail 和 Gemini",
       "original_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "facts": [],
+      "summary": "Google 在 Adobe Max 宣布扩大与 Adobe 的合作：Drive 和 Gmail 将提供进入 Acrobat 的编辑入口，Adobe 工具将接入 Gemini 和企业版，以及搜索的 AI 模式。双方还计划探索用于 Photoshop 的近实时图像模型。",
+      "facts": [
+        {
+          "text": "Google Drive 和 Gmail 将提供进入 Adobe Acrobat 的直接入口，包括文件预览中的「Edit with」",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+        },
+        {
+          "text": "Adobe 将把 Acrobat 及其他创意工具接入 Gemini、Gemini Enterprise，并带到 Google 搜索的 AI 模式",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+        },
+        {
+          "text": "Adobe 与 Google DeepMind 将探索新的专业编辑能力，首先是可能实现近实时修改的 Photoshop 图像模型",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+        }
+      ],
       "claims": [],
       "analysis": [],
       "sources": [
@@ -302,17 +405,36 @@
       "published_at": "2026-11-10T22:00:00+08:00",
       "updated_at": "2026-11-10T22:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n02e4a20d191a",
       "category": "大模型与产品",
       "importance": 2,
       "verified": true,
-      "title": "Google Cloud launches Gemini for healthcare.",
+      "title": "Google Cloud 推出 Gemini for healthcare，用于打通临床数据与流程",
       "original_title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "facts": [],
+      "summary": "Google Cloud 推出 Gemini for healthcare，用于整合电子病历、计费和临床指南等分散数据，并在人工监督下自动处理病历汇总、事先授权审核等流程。该服务先以预览形式提供，合作伙伴包括 HCA 等医疗系统。",
+      "facts": [
+        {
+          "text": "Gemini for healthcare 可连接电子病历、计费平台、临床指南和 Medicare 数据集等现有系统",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+        },
+        {
+          "text": "该平台可在既定护栏和人工监督下编排病历汇总、事先授权审核等复杂多步流程",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+        },
+        {
+          "text": "服务先以预览形式提供，发布合作伙伴包括 HCA Healthcare、Highmark Health 和 Northwell Health",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+        }
+      ],
       "claims": [],
       "analysis": [],
       "sources": [
@@ -326,7 +448,10 @@
       "published_at": "2026-11-10T21:00:00+08:00",
       "updated_at": "2026-11-10T21:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "nf8c1a7370c13",
@@ -372,18 +497,43 @@
       "published_at": "2026-11-10T20:02:28+08:00",
       "updated_at": "2026-11-10T20:02:28+08:00",
       "status": "normal",
-      "summary_mode": "ai"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n46ecb159c153",
       "category": "大模型与产品",
       "importance": 2,
       "verified": true,
-      "title": "Helping caregivers use AI in everyday life",
+      "title": "OpenAI 在美国五座城市为照护者举办免费 ChatGPT 培训",
       "original_title": "Helping caregivers use AI in everyday life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "facts": [],
-      "claims": [],
+      "summary": "OpenAI Academy 与照护行动网络、阿尔茨海默病协会和美国糖尿病协会合作，在国家家庭照护者月期间，于奥克兰、坦帕、匹兹堡、亚特兰大和底特律举办免费实践工作坊，帮助照护者安全、实际地使用 ChatGPT 安排日程和查找资源。",
+      "facts": [
+        {
+          "text": "OpenAI Academy 与 Caregiver Action Network、Alzheimer's Association 和 American Diabetes Association 合作，在美国五座城市举办免费、面对面的 ChatGPT 工作坊",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+        },
+        {
+          "text": "五座城市分别是加州奥克兰、佛罗里达州坦帕、宾夕法尼亚州匹兹堡、佐治亚州亚特兰大和密歇根州底特律",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+        },
+        {
+          "text": "课程内容包括整理照护日程和清单、把可靠资料改写成通俗文本、查找社区资源，以及学习保护个人信息并在需要时咨询专业人士",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 OpenAI 全球事务长 Chris Lehane 称，对照护者来说，这可以减少花在整理日程和查找信息上的时间，把更多时间留给被照护的人",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -396,18 +546,43 @@
       "published_at": "2026-11-10T20:00:00+08:00",
       "updated_at": "2026-11-10T20:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n5ca4dc7b6d88",
       "category": "大模型与产品",
       "importance": 2,
       "verified": true,
-      "title": "Introducing Businesses in ChatGPT",
+      "title": "ChatGPT 上线企业主页和 Business Agent，商家可认领信息并接待咨询",
       "original_title": "Introducing Businesses in ChatGPT",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "facts": [],
-      "claims": [],
+      "summary": "OpenAI 推出测试版「ChatGPT 中的企业」：商家可通过 Business Hub 认领主页、更新资料和商品信息，并查看汇总后的互动数据。符合条件的美国电商和在线服务商还可上线 Business Agent，在独立对话中回答顾客问题。OpenAI 称不会向商家提供用户对话内容。",
+      "facts": [
+        {
+          "text": "商家可通过 Business Hub 认领并验证企业主页，更新关键信息，并添加含价格和库存的自助商品数据源",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt"
+        },
+        {
+          "text": "Business Agent 目前向符合条件的美国电商和在线服务企业开放",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt"
+        },
+        {
+          "text": "与 Business Agent 的对话会被明确标注，并与用户原先的 ChatGPT 对话以及 ChatGPT 的独立回答分开",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 OpenAI 称，不会向商家提供用户对话或 Business Agent 聊天内容，洞察数据仅在互动量达到一定门槛后以汇总形式提供",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -420,18 +595,38 @@
       "published_at": "2026-11-10T18:00:00+08:00",
       "updated_at": "2026-11-10T18:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n3588ceed4155",
       "category": "大模型与产品",
       "importance": 2,
       "verified": true,
-      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "title": "OpenAI 与 Upwork 研究显示，AI 相关自由职业项目预算更高、范围更广",
       "original_title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "facts": [],
-      "claims": [],
+      "summary": "OpenAI 与 Upwork 的新研究发现，自由职业需求正在变化：不少在 ChatGPT 中较常见的工作类型，在 Upwork 上的份额有所下降。AI 相关项目的任务组合更多样，固定价格预算更高、工时更多，但时薪与其他项目相近。研究认为，这不只是简单的替代关系。",
+      "facts": [
+        {
+          "text": "OpenAI 与 Upwork 联合研究自由职业市场与 ChatGPT 使用情况，观察需求变化和 AI 相关项目的特点",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work"
+        },
+        {
+          "text": "AI 相关项目的固定价格预算更高、涉及工时更多，但挂出的时薪与其他工作相近",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该研究称，这些现象并不指向一种简单的替代关系，AI 可能同时改变客户找自由职业者做的事情，以及项目的组织方式",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
@@ -444,19 +639,45 @@
       "published_at": "2026-11-10T15:00:00+08:00",
       "updated_at": "2026-11-10T15:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n571fb0494bf3",
       "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "title": "OpenAI 收购旅行初创公司 Odessia，创始人已加入公司",
       "original_title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "facts": [],
-      "claims": [],
-      "analysis": [],
+      "summary": "据 TechCrunch 报道，OpenAI 已收购 Sonder 创始人 Francis Davidson 创办的 AI 旅行助手 Odessia。官方证实他已加入，但未公布交易金额和旅行产品计划。Odessia 成立约一年，曾获红杉领投的 600 万美元融资，产品现已关闭。",
+      "facts": [
+        {
+          "text": "OpenAI 已收购 AI 旅行助手 Odessia，创始人 Francis Davidson 发帖称自己已加入 OpenAI，协助其旅行方向的工作",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+        },
+        {
+          "text": "交易条款未披露；成立约一年的 Odessia 曾由红杉领投获得 600 万美元预种子轮融资，产品现已关闭",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据 OpenAI 发言人称，很高兴欢迎 Francis 加入，他是一位曾多次创办旅行业务的创始人",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+        }
+      ],
+      "analysis": [
+        {
+          "text": "TechCrunch 认为这看起来像一次人才收购，并指出 OpenAI 尚未说明后续的旅行产品计划",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+        }
+      ],
       "sources": [
         {
           "name": "TechCrunch",
@@ -468,17 +689,36 @@
       "published_at": "2026-11-11T05:08:52+08:00",
       "updated_at": "2026-11-11T05:08:52+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "ne18f58ec7dc7",
       "category": "AI公司与融资",
       "importance": 2,
       "verified": false,
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "title": "Anthropic 七位联合创始人计划在 IPO 中各套现约 2.5 亿美元",
       "original_title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving th…",
-      "facts": [],
+      "summary": "据 TechCrunch 报道，Anthropic 更新的招股书显示，七位联合创始人将在 IPO 中各出售相同数量的股份，按定价区间中值计算每人约套现 2.5 亿美元。出售后他们仍将集体掌握 51.1% 的投票权，继续控制公司。",
+      "facts": [
+        {
+          "text": "七位联合创始人计划在 IPO 中各出售 3378378 股，数量完全相同",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+        },
+        {
+          "text": "按每股 70 至 78 美元定价区间的中值 74 美元计算，每人约套现 2.5 亿美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+        },
+        {
+          "text": "出售后，七人将集体控制 51.1% 的投票权，但没有任何一位创始人明显比其他人持有更多股份或票数",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+        }
+      ],
       "claims": [],
       "analysis": [],
       "sources": [
@@ -492,7 +732,10 @@
       "published_at": "2026-11-11T03:57:52+08:00",
       "updated_at": "2026-11-11T03:57:52+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "ai",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n7739f93bab44",
@@ -516,7 +759,10 @@
       "published_at": "2026-11-11T03:23:34+08:00",
       "updated_at": "2026-11-11T03:23:34+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n2d64ba6eaf90",
@@ -540,7 +786,10 @@
       "published_at": "2026-11-10T23:17:21+08:00",
       "updated_at": "2026-11-10T23:17:21+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n06c34be0a2ca",
@@ -564,7 +813,10 @@
       "published_at": "2026-11-10T22:06:54+08:00",
       "updated_at": "2026-11-11T00:38:24+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n9871791e1b1f",
@@ -588,7 +840,10 @@
       "published_at": "2026-11-10T22:01:39+08:00",
       "updated_at": "2026-11-10T22:01:39+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n119424adf6f1",
@@ -612,7 +867,10 @@
       "published_at": "2026-11-10T20:25:22+08:00",
       "updated_at": "2026-11-10T20:25:22+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n8ef7190c4507",
@@ -636,7 +894,10 @@
       "published_at": "2026-11-10T20:13:03+08:00",
       "updated_at": "2026-11-10T20:13:03+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n2568dd3061ad",
@@ -660,7 +921,10 @@
       "published_at": "2026-11-10T19:40:20+08:00",
       "updated_at": "2026-11-10T19:40:20+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "ncd0c3adea5a3",
@@ -684,7 +948,10 @@
       "published_at": "2026-11-11T02:11:08+08:00",
       "updated_at": "2026-11-11T02:11:08+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n82110824f2ab",
@@ -708,7 +975,10 @@
       "published_at": "2026-11-11T00:59:43+08:00",
       "updated_at": "2026-11-11T00:59:43+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n58426d8e2b38",
@@ -732,7 +1002,10 @@
       "published_at": "2026-11-11T00:56:36+08:00",
       "updated_at": "2026-11-11T00:56:36+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n724fae925148",
@@ -756,7 +1029,10 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n3229de0d9192",
@@ -780,7 +1056,10 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n6da221a41f74",
@@ -804,7 +1083,10 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n276617cf5b14",
@@ -828,7 +1110,10 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n5e9bc7516c26",
@@ -852,7 +1137,10 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n7780e52eccdb",
@@ -876,7 +1164,10 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "ndc788b8bf68b",
@@ -900,7 +1191,10 @@
       "published_at": "2026-11-10T08:00:00+08:00",
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "nc3e82675d569",
@@ -924,7 +1218,10 @@
       "published_at": "2026-11-11T05:12:59+08:00",
       "updated_at": "2026-11-11T05:12:59+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "nc012fc7ecd62",
@@ -948,7 +1245,10 @@
       "published_at": "2026-11-11T04:52:13+08:00",
       "updated_at": "2026-11-11T04:52:13+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n2dcde4b66566",
@@ -972,7 +1272,10 @@
       "published_at": "2026-11-11T04:30:01+08:00",
       "updated_at": "2026-11-11T04:30:01+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n9198dc1328a3",
@@ -996,7 +1299,10 @@
       "published_at": "2026-11-11T04:17:00+08:00",
       "updated_at": "2026-11-11T04:17:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "nbb1492f15ad8",
@@ -1020,7 +1326,10 @@
       "published_at": "2026-11-11T03:48:40+08:00",
       "updated_at": "2026-11-11T03:48:40+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n6fcd75d626dd",
@@ -1044,7 +1353,10 @@
       "published_at": "2026-11-11T03:03:52+08:00",
       "updated_at": "2026-11-11T03:03:52+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n445fc6287a33",
@@ -1068,7 +1380,10 @@
       "published_at": "2026-11-11T02:49:52+08:00",
       "updated_at": "2026-11-11T02:49:52+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n75611a00ad61",
@@ -1092,7 +1407,10 @@
       "published_at": "2026-11-11T02:41:52+08:00",
       "updated_at": "2026-11-11T02:41:52+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n053da60fa0cf",
@@ -1116,7 +1434,10 @@
       "published_at": "2026-11-11T02:19:13+08:00",
       "updated_at": "2026-11-11T02:19:13+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n454698109508",
@@ -1140,7 +1461,10 @@
       "published_at": "2026-11-11T02:00:00+08:00",
       "updated_at": "2026-11-11T02:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "na548f4bc427d",
@@ -1164,7 +1488,10 @@
       "published_at": "2026-11-11T01:32:47+08:00",
       "updated_at": "2026-11-11T03:06:22+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "naf7403b45639",
@@ -1188,7 +1515,10 @@
       "published_at": "2026-11-11T01:30:00+08:00",
       "updated_at": "2026-11-11T01:30:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "nf724697ad479",
@@ -1212,7 +1542,10 @@
       "published_at": "2026-11-11T01:30:00+08:00",
       "updated_at": "2026-11-11T01:30:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "nbab93a711baf",
@@ -1236,7 +1569,10 @@
       "published_at": "2026-11-11T01:05:05+08:00",
       "updated_at": "2026-11-11T01:05:05+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n0bbf517ca2cf",
@@ -1260,7 +1596,10 @@
       "published_at": "2026-11-11T00:20:30+08:00",
       "updated_at": "2026-11-11T00:20:30+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n28b27e2d175e",
@@ -1284,7 +1623,10 @@
       "published_at": "2026-11-11T00:00:00+08:00",
       "updated_at": "2026-11-11T00:00:00+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "n196c0edf93f9",
@@ -1308,7 +1650,10 @@
       "published_at": "2026-11-10T23:54:08+08:00",
       "updated_at": "2026-11-10T23:54:08+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     },
     {
       "id": "na92c103556a0",
@@ -1332,7 +1677,10 @@
       "published_at": "2026-11-10T23:29:30+08:00",
       "updated_at": "2026-11-10T23:29:30+08:00",
       "status": "normal",
-      "summary_mode": "excerpt"
+      "summary_mode": "excerpt",
+      "image_url": null,
+      "image_source": null,
+      "image_origin_url": null
     }
   ]
 }

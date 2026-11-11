@@ -20,5 +20,8 @@
   "published_at": "2026-11-11T00:59:43+08:00",
   "updated_at": "2026-11-11T00:59:43+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "excerpt",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

@@ -3,10 +3,26 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": true,
-  "title": "Google Cloud launches Gemini for healthcare.",
+  "title": "Google Cloud 推出 Gemini for healthcare，用于打通临床数据与流程",
   "original_title": "Google Cloud launches Gemini for healthcare.",
-  "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-  "facts": [],
+  "summary": "Google Cloud 推出 Gemini for healthcare，用于整合电子病历、计费和临床指南等分散数据，并在人工监督下自动处理病历汇总、事先授权审核等流程。该服务先以预览形式提供，合作伙伴包括 HCA 等医疗系统。",
+  "facts": [
+    {
+      "text": "Gemini for healthcare 可连接电子病历、计费平台、临床指南和 Medicare 数据集等现有系统",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+    },
+    {
+      "text": "该平台可在既定护栏和人工监督下编排病历汇总、事先授权审核等复杂多步流程",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+    },
+    {
+      "text": "服务先以预览形式提供，发布合作伙伴包括 HCA Healthcare、Highmark Health 和 Northwell Health",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+    }
+  ],
   "claims": [],
   "analysis": [],
   "sources": [
@@ -20,5 +36,8 @@
   "published_at": "2026-11-10T21:00:00+08:00",
   "updated_at": "2026-11-10T21:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

@@ -3,11 +3,33 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": true,
-  "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+  "title": "英伟达在 KubeCon 向 CNCF 捐赠 OpenShell，并推出新的开源组件",
   "original_title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-  "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVI…",
-  "facts": [],
-  "claims": [],
+  "summary": "英伟达在 KubeCon 宣布，将用于保障和治理自主智能体的开源运行时 OpenShell 捐赠给 CNCF，成为 Sandbox 项目。公司还参与谷歌主导的 Agent Substrate，并推出 Kubernetes Engine、Recipes 和 Snapshot 等开源组件。",
+  "facts": [
+    {
+      "text": "英伟达将开源运行时 OpenShell 捐赠给 CNCF，作为 Sandbox 项目管理",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+    },
+    {
+      "text": "OpenShell 用于为自主智能体提供安全与治理，可对智能体使用工具、调用推理和执行任务施加确定性控制",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+    },
+    {
+      "text": "英伟达还宣布 DSX AI Factory Platform 的新组件：NVIDIA Kubernetes Engine、NVIDIA Kubernetes Recipes 和 NVIDIA Snapshot",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据 Linux 基金会CEO Jim Zemlin 称，把 OpenShell 交给 CNCF，能给开发者一个共同基础，并让业界一起塑造智能体安全的演进方向",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+    }
+  ],
   "analysis": [],
   "sources": [
     {
@@ -20,5 +42,8 @@
   "published_at": "2026-11-11T00:00:03+08:00",
   "updated_at": "2026-11-11T00:00:03+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }

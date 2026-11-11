@@ -3,10 +3,26 @@
   "category": "大模型与产品",
   "importance": 2,
   "verified": true,
-  "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "title": "Google 与 Adobe 加深合作，创意工具将进入 Drive、Gmail 和 Gemini",
   "original_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-  "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-  "facts": [],
+  "summary": "Google 在 Adobe Max 宣布扩大与 Adobe 的合作：Drive 和 Gmail 将提供进入 Acrobat 的编辑入口，Adobe 工具将接入 Gemini 和企业版，以及搜索的 AI 模式。双方还计划探索用于 Photoshop 的近实时图像模型。",
+  "facts": [
+    {
+      "text": "Google Drive 和 Gmail 将提供进入 Adobe Acrobat 的直接入口，包括文件预览中的「Edit with」",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    },
+    {
+      "text": "Adobe 将把 Acrobat 及其他创意工具接入 Gemini、Gemini Enterprise，并带到 Google 搜索的 AI 模式",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    },
+    {
+      "text": "Adobe 与 Google DeepMind 将探索新的专业编辑能力，首先是可能实现近实时修改的 Photoshop 图像模型",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    }
+  ],
   "claims": [],
   "analysis": [],
   "sources": [
@@ -20,5 +36,8 @@
   "published_at": "2026-11-10T22:00:00+08:00",
   "updated_at": "2026-11-10T22:00:00+08:00",
   "status": "normal",
-  "summary_mode": "excerpt"
+  "summary_mode": "ai",
+  "image_url": null,
+  "image_source": null,
+  "image_origin_url": null
 }
