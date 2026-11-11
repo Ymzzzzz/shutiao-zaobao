@@ -6,6 +6,9 @@
   "title": "OpenAI 推出企业主页，试图让 ChatGPT 更像搜索引擎",
   "original_title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
   "summary": "据 TechCrunch 报道，OpenAI 推出测试版 Business Hub，企业可认证并更新产品服务信息，符合条件的公司还能上线专门的商业智能体。该媒体认为，这让 ChatGPT 更接近谷歌式的消费发现入口。OpenAI 早前直接做电商购物的尝试并未成功。",
+  "title_zh": "ChatGPT 上线仍在测试的商家资料",
+  "lead_zh": "TechCrunch 报道，OpenAI 周二推出业务中心测试，企业可以核验并更新产品与服务信息。符合条件的公司还能发布专门代理，回答用户关于该商家的问题。",
+  "body_zh": [],
   "facts": [
     {
       "text": "OpenAI 推出测试版 Business Hub，企业可创建并验证业务主页，更新产品和服务信息，符合条件的公司还可上线专门的商业智能体",
@@ -44,7 +47,7 @@
   "updated_at": "2026-11-11T02:49:52+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "img/d88b668d6977848008ef726b3c7314b1a9ca9140.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677"
 }

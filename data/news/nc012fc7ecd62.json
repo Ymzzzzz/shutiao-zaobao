@@ -6,6 +6,9 @@
   "title": "纽约州 AI 安全法即将生效，OpenAI 与 Anthropic 等需登记",
   "original_title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
   "summary": "据 TechCrunch 报道，纽约州已开放登记门户，年营收超过 5 亿美元的前沿 AI 开发商须在 2027 年 1 月 1 日前登记。即将生效的 RAISE 法案要求公司公布安全框架，并在 72 小时内报告重大安全事件，单次违规最高可罚 100 万美元。",
+  "title_zh": "纽约要求大型模型公司登记并报告事故",
+  "lead_zh": "TechCrunch 报道，纽约已开放登记入口。年收入超过 5 亿美元的前沿公司须在 2027 年 1 月 1 日前登记，公开安全框架，并在 72 小时内报告重大事故。",
+  "body_zh": [],
   "facts": [
     {
       "text": "纽约州已开放登记门户，年营收超过 5 亿美元的大型前沿 AI 开发商须在 2027 年 1 月 1 日前完成登记",
@@ -43,7 +46,7 @@
   "updated_at": "2026-11-11T04:52:13+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "img/1841fca8242c1279f384785d4aaaf12759b7ad63.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024"
 }

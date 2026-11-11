@@ -6,6 +6,9 @@
   "title": "Gemini 4 Carbon 正式开放，却赶上本轮模型迭代最快的时刻",
   "original_title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
   "summary": "据 The Decoder 报道，Google 在两周测试后向付费开发者和企业开放 Gemini 4 Carbon，面向多步编程和科研等更难任务，并预览了可把一条提示拆成多智能体协作的 swarm 功能。该媒体认为，其发布时 Anthropic 新模型已经追上，本轮模型迭代速度格外快。",
+  "title_zh": "媒体对照 Gemini 4 Carbon 与 Fable 的成绩",
+  "lead_zh": "The Decoder 称，Carbon 全面开放后在若干基准上排第一，有的项目领先且更便宜；但在 Artificial Analysis 的测试里，Fable 5.2 即使降低推理强度仍然更高。",
+  "body_zh": [],
   "facts": [
     {
       "text": "Gemini 4 Carbon 在为期两周的测试后，已向付费开发者和企业客户普遍开放，定位是补强而非取代 Gemini 4 Argon",
@@ -44,7 +47,7 @@
   "updated_at": "2026-11-11T02:19:13+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

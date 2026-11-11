@@ -6,6 +6,9 @@
   "title": "新论文提出 e-means：以更少轮次、更快速度改进 k-means 聚类",
   "original_title": "e-means: outperforming k-means (in one-tenth the epochs)",
   "summary": "一篇新论文提出聚类算法 e-means，用指数滑动平均和深度学习工具改进 k-means。作者称，在多种嵌入数据集上，它能以更少轮次达到更低损失，常见情况下 1.4 至 2.6 个周期即可超过传统方法跑 25 个周期的效果，GPU 耗时可比现有实现快 10 至 45 倍。",
+  "title_zh": "论文用更少轮次改进 k-means 聚类",
+  "lead_zh": "这篇论文为 k-means 加入指数移动平均和小批量更新，并使用深度学习工具。标题称，达到效果所需的轮次大约是传统方法的十分之一。",
+  "body_zh": [],
   "facts": [
     {
       "text": "e-means 为 k-means 引入基于指数滑动平均的小批量优化，并给出衰减率和批量大小的选取规则，无需再做超参数搜索",
@@ -33,7 +36,7 @@
   "updated_at": "2026-11-10T08:00:00+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

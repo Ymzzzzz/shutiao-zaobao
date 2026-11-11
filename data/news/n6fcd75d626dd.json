@@ -6,6 +6,9 @@
   "title": "PSI 借助 Anthropic 模型证明量子计算猜想，并试图把 AI 科学发现做成生意",
   "original_title": "PSI is trying to make a business out of AI-driven scientific discovery",
   "summary": "据 TechCrunch 报道，初创实验室 PSI 的研究员借助 Anthropic Fable 5.2 的早期权限，解决了量子计算领域一个提出近二十年的问题。该证明已用 Lean 形式化，并经相关领域研究者核验。公司目前收入来自优化数据中心，长期希望把理论成果转化成技术。",
+  "title_zh": "创业公司用未发布模型研究量子计算",
+  "lead_zh": "TechCrunch 报道，PSI 的研究人员用尚未发布的 Fable 5.2，处理提出约 18 年的 Aaronson-Ambainis 猜想，这个问题关系量子计算机能否比经典计算机更快。",
+  "body_zh": [],
   "facts": [
     {
       "text": "PSI 技术人员 David Turturean 利用 Anthropic Fable 5.2 的早期权限，给出了 Aaronson-Ambainis 猜想的证明，该证明已用 Lean 自动形式化",
@@ -38,7 +41,7 @@
   "updated_at": "2026-11-11T03:03:52+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "img/0625c559f85e2a03e709fd682bbc72e06710b0c8.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683"
 }

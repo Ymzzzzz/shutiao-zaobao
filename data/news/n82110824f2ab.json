@@ -6,6 +6,9 @@
   "title": "TCS 用 Amazon Bedrock AgentCore 搭建智能体测试编排系统",
   "original_title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
   "summary": "AWS 与 TCS 介绍了后者如何在 Amazon Bedrock AgentCore 上构建智能体测试编排系统，把需求自动转成可执行、可审计的测试，服务银行和保险客户。系统按租户隔离数据，由专门智能体分别负责场景设计、执行和报告。内部基准显示测试工作量减少 88%。",
+  "title_zh": "TCS 用云平台编排银行保险测试",
+  "lead_zh": "AWS 博文介绍，塔塔咨询在 Bedrock AgentCore 上做测试编排，把需求变成可执行、可审计的测试，服务银行、金融服务和保险客户，并按租户隔离。",
+  "body_zh": [],
   "facts": [
     {
       "text": "TCS 在 Amazon Bedrock AgentCore 上构建了智能体测试编排系统，把需求转成可执行、受治理的测试，服务银行、金融和保险客户",
@@ -38,7 +41,7 @@
   "updated_at": "2026-11-11T00:59:43+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

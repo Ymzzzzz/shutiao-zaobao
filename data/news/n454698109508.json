@@ -6,6 +6,9 @@
   "title": "ChatGPT 将上线经过验证的企业智能体，可协助比较商品",
   "original_title": "ChatGPT is getting verified AI ‘Business Agents’",
   "summary": "据 The Verge 报道，ChatGPT 将允许用户与经过验证的「Business Agent」对话，协助比较商品等。该功能先向符合条件的美国电商和在线服务商开放。对话会被明确标注，并与主对话分开；企业可通过 Business Hub 认领并验证组织。",
+  "title_zh": "ChatGPT 将提供经过核验的商务代理",
+  "lead_zh": "The Verge 报道，符合条件的美国电商和在线服务可以让用户与代表品牌的代理对话，例如比较商品。这些对话与原来的主对话分开，目前以测试形式推出。",
+  "body_zh": [],
   "facts": [
     {
       "text": "当某家已创建 Business Agent 的企业出现在 ChatGPT 回答中时，用户可以开始与该智能体对话，询问其产品并做后续比较",
@@ -38,7 +41,7 @@
   "updated_at": "2026-11-11T02:00:00+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "img/066295de70e6dd2aff2fc854c80ac9197fabfdd6.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
 }

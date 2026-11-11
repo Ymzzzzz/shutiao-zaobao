@@ -16,6 +16,46 @@
       "title": "Fable 5.2 首批实测出炉，可完成 41% 真实自由职业任务",
       "original_title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
       "summary": "据量子位报道，Anthropic 新模型 Fable 5.2 推出后出现首批网友实测，涵盖作曲、拍片和 3D 建模等任务，有网友对比后称 Opus 突然不香了。另据 The Decoder 报道，Fable 5.2 能完成 41% 的真实自由职业任务，一年前这一比例只有 2.5%。",
+      "title_zh": "Fable 5.2 在真实自由职业任务上领先",
+      "lead_zh": "The Decoder 报道，Fable 5.2 在远程劳动指数上完成 41.3% 的真实自由职业任务，约一年前榜首只有 2.5%。量子位则汇总了作曲、拍片和三维建模等首批网友实测。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "The Decoder",
+            "量子位"
+          ],
+          "paras": [
+            "据 The Decoder 报道，Anthropic 的 Fable 5.2 在远程劳动指数上以 **41.3%** 领先。这项测试看智能体能否把真实自由职业任务做到付费客户愿意收下。约一年前榜首 Manus 只有 **2.5%**，今年 7 月同系列的 Fable 5 约为 **16%**，直接前代 Fable 5.1 不到 18%。",
+            "同一榜单上，Opus 5.5 为 21.25%，GPT 6 Astra 为 20.83%。数据集包含 240 个项目，来自 358 名经核验的 Upwork 专业人士，合计约 14.4 万美元。量子位另一篇报道写，在 RoboDojo 仿真双臂测试中，Fable 5.2 得分 **64.9%**，GPT-6 Astra 为 29.8%。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "sources": [
+            "量子位"
+          ],
+          "paras": [
+            "量子位称，软件工程测试达到 **69.9%**，比上一代提高 **13.6** 个百分点；输出速度比 Fable 5.1 最高快 **30%**，支持 **100 万** Token 上下文，输出最长 **12.8 万** Token。每百万输入和输出 Token 的 API 价格为 **8** 美元和 **40** 美元，整体下降 **20%**。该媒体还汇总了作曲、拍片和三维建模等网友演示。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "The Decoder",
+            "量子位"
+          ],
+          "paras": [
+            "The Decoder 援引 Scale Labs 的说法：提升最明显的是音频和音乐编辑、建筑与室内设计以及三维模型，工业产品设计和动画仍然很弱；其中近 50 项任务是这项测试里此前没有智能体完成过的。量子位的标题则引用网友评价，称和 Fable 5.2 相比，Opus 显得不香了。"
+          ]
+        }
+      ],
+      "image_url": "img/69bea3ec476f1220e44e7513215e2e861914f1fc.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/07/Remote-labor-index-bench-title.png",
       "facts": [
         {
           "text": "量子位汇总了 Fable 5.2 的首批网友实测，涉及作曲、拍片、3D 建模等任务",
@@ -60,10 +100,7 @@
       "published_at": "2026-11-10T15:03:43+08:00",
       "updated_at": "2026-11-10T22:07:47+08:00",
       "status": "normal",
-      "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "summary_mode": "ai"
     },
     {
       "id": "n9922bcaa36cd",
@@ -73,6 +110,45 @@
       "title": "TechCrunch 梳理黄仁勋与被指中国间谍者婚外情时间线",
       "original_title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
       "summary": "据 TechCrunch 报道，英伟达 CEO 黄仁勋被曝与一名被指为中国间谍的人有婚外情，TechCrunch 为此整理了一份事件时间线。报道认为，在美国和中国竞相开发最先进 AI 基础设施之际，这段关系可能对国家安全产生影响。The Verge 也从中美 AI 竞赛的角度报道了这一事件。",
+      "title_zh": "黄仁勋承认不忠，报道聚焦芯片与安全",
+      "lead_zh": "TechCrunch 报道，黄仁勋向员工承认对妻子不忠，并称董事会已启动独立调查。报道同时写到，美国官员怀疑与其交往的 Megaspeed 高管向中国传递信息。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "TechCrunch 报道，现年 63 岁的英伟达联合创始人兼首席执行官黄仁勋，在同时对外发布的员工信中承认，自己对结婚 40 年的妻子不忠。信里没有点名对方，但把这件事和新闻报道中的国家安全关切连在一起。英伟达董事会已启动独立调查，黄仁勋表示会配合。",
+            "同一报道称，美国官员认为交往对象是 Megaspeed 高管 Alice Huang，并怀疑她在向北京传递信息；她与黄仁勋没有亲属关系。Megaspeed 据报过去两年购买了 **48 亿美元** 的英伟达芯片，美国和新加坡都曾调查它是否把芯片非法提供给中国。信公开后的下一个交易日，英伟达股价下跌超过 **5%**。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "黄仁勋在信中向家人和员工道歉，承认不忠，并写道没有任何借口。英伟达发言人 John Rizzo 说，首席执行官与客户高管会面并不罕见，公司每年有数千次此类会面；如果美国政府认为某人威胁美国产业，会通知英伟达。TechCrunch 还记述，特朗普周日说自己尚未就此事与黄仁勋交谈，并在被问到是否应留任时表示他认为应该留任。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "TechCrunch",
+            "The Verge"
+          ],
+          "paras": [
+            "TechCrunch 认为，在美国和中国竞相建设最先进人工智能基础设施时，这段关系可能影响到国家安全。The Verge 引述新美国安全中心的 Emily Kilcrease：没有最新的英伟达芯片，中国难以缩小与美国前沿能力的差距；若得到这些芯片，美国的领先可能在数周或数月内消失。该文同时写明，没有公开证据表明黄仁勋本人协助把受限芯片送往中国。"
+          ]
+        }
+      ],
+      "image_url": "img/7cc778d1943ec29b7f10cc5e5947f0d34ffde5dd.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
       "facts": [
         {
           "text": "TechCrunch 发布了黄仁勋与被指中国间谍者婚外情事件的时间线",
@@ -105,10 +181,7 @@
       "published_at": "2026-11-11T01:04:19+08:00",
       "updated_at": "2026-11-11T03:31:58+08:00",
       "status": "normal",
-      "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "summary_mode": "ai"
     },
     {
       "id": "n0f696e8c8567",
@@ -118,6 +191,46 @@
       "title": "DeepMind 发布 Gemini Robotics 2.5 和开放安全基准 ASIMOV-jailbreak",
       "original_title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
       "summary": "据 Ars Technica 报道，Google DeepMind 发布机器人模型 Gemini Robotics 2.5，并推出开放安全基准 ASIMOV-jailbreak，新模型部分任务成功率最高达此前两倍。另据 The Decoder 报道，在奔驰装配试点中，它分拣金属零件得分 96%。",
+      "title_zh": "DeepMind 发布机器人模型并公开安全测试",
+      "lead_zh": "Ars Technica 报道，Gemini Robotics 2.5 成功率最高可到此前的两倍，并公开安全基准。The Decoder 称，奔驰产线分拣金属零件的成功率为 96%。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "Ars Technica",
+            "The Decoder"
+          ],
+          "paras": [
+            "Google DeepMind 发布视觉语言动作模型 Gemini Robotics 2.5，并公开安全基准 ASIMOV-jailbreak。Ars Technica 称，评估覆盖 200 多项活动，包括用夹子分发食物和实验室移液；搭载该模型的 Apptronik Apollo 2 能用五指手打蝴蝶结。与上一版相比，成功率高出 **30%** 到 **100%**，速度提高 **20%** 到 **30%**。",
+            "The Decoder 报道，DeepMind 与 Apptronik、奔驰在匈牙利和德国的在产线上做了试点。Apollo 2 从散装箱分拣金属零件并按车辆顺序放入托盘，报道的成功率为 **96%**。Ars 称 ASIMOV 数据集有 **1500** 条诱导不安全行为的提示，放在 Hugging Face 上。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "sources": [
+            "Ars Technica",
+            "The Decoder"
+          ],
+          "paras": [
+            "Ars Technica 引述 DeepMind 总监 Kanishka Rao：补上最后 4 个百分点会是一条陡路。机器人负责人 Carolina Parada 说，可以把某一个应用做得很强，代价是牺牲泛化。The Decoder 引述 Apptronik 首席执行官 Jeff Cardenas：后训练几周内模型进步明显，转到奔驰产线后性能损失很小。两家媒体对 Argon 的越狱抵抗数字并不相同，Ars 写的是 **98.8%**，The Decoder 写的是 **99.5%**。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "Ars Technica"
+          ],
+          "paras": [
+            "Ars Technica 指出，96% 对奔驰这类工厂可能仍不够，因为人做这类重复工作时几乎每次都正确。文章还写道，当前版本仍跑在云端，演示被加速，延迟并未消失。"
+          ]
+        }
+      ],
+      "image_url": "img/4810e460b1f67f7e76a8cb0a221290f1ddbe26b6.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
       "facts": [
         {
           "text": "Google DeepMind 发布 Gemini Robotics 2.5，并推出开放安全基准 ASIMOV-jailbreak",
@@ -155,10 +268,7 @@
       "published_at": "2026-11-10T23:00:39+08:00",
       "updated_at": "2026-11-11T01:11:10+08:00",
       "status": "normal",
-      "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "summary_mode": "ai"
     },
     {
       "id": "n4ddbe1642bc5",
@@ -168,6 +278,44 @@
       "title": "Adobe 在 Max 大会为 Photoshop、Premiere 等增加消除物体等 AI 功能",
       "original_title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
       "summary": "据 The Verge 和 TechCrunch 报道，Adobe 在 Max 大会为 Premiere、Photoshop 和 Lightroom 增加消除物体等 AI 功能，Firefly 还推出原型工具 Builder。公司同时发布本地 MCP，供 ChatGPT 等调用其创意软件。",
+      "title_zh": "Adobe 给视频和照片增加生成式移除",
+      "lead_zh": "报道称，Adobe 在年度大会上为视频、照片和修图软件增加移除杂物与瑕疵的功能，创意套件加入原型工具，并让外部聊天机器人调用一部分桌面应用。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "The Verge",
+            "TechCrunch"
+          ],
+          "paras": [
+            "Adobe 在迈阿密举行的 MAX 上更新 Creative Cloud 和 Firefly。The Verge 报道，Premiere 推出仍处测试的生成式移除，可在时间线上擦掉吊杆麦克风和背景杂物；Photoshop 的移除工具更能补上反光、阴影和脚印，并新增前后对比和重新布光。Lightroom 桌面版加入一键祛瑕，睁眼功能进入公开测试。",
+            "另一篇报道称，创意套件里的原型工具以私人测试推出，并新增图表，以及把片段、图片和音效拼成视频的能力。公司发布本地连接协议，让外部聊天机器人调用插画、照片、特效和视频应用的部分功能，新收购的图像实验室还放出放大降噪和高动态范围两款模型。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "sources": [
+            "The Verge",
+            "TechCrunch"
+          ],
+          "paras": [
+            "Adobe 称，Premiere 会用生成式模型把擦除区域补上看起来真实的细节，周围画面保持不动。负责产品的副总裁 Deepa Subramaniam 告诉 TechCrunch，公司还在决定 MCP 开放哪些能力，会看用户怎么用再继续增加，并不打算主动限制端点能暴露的功能。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "TechCrunch",
+            "The Verge"
+          ],
+          "paras": [
+            "一篇报道把新的原型工具视为进入界面设计竞争对手的地盘。另一篇认为新的流程图和原型工具，与对手去年的两款产品相似，并引述对方联合创始人上个月的话：这种连接协议并不完美，而且更利于最大的模型实验室。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "Adobe 在 Max 大会为 Premiere、Photoshop、Lightroom 和 Firefly 推出多项对象消除与生成式 AI 功能",
@@ -217,9 +365,9 @@
       "updated_at": "2026-11-10T23:49:40+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/4e24c008c119ee55fcfe24732ad849e3e8c301d9.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PS-Remove-No-Logo-2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
     },
     {
       "id": "nb73105fe4ec5",
@@ -229,6 +377,31 @@
       "title": "Gemini Intelligence 扩展至更多设备，Pixel 10 与摩托罗拉新机可用",
       "original_title": "Gemini Intelligence: New features, on more devices",
       "summary": "Google 宣布 Gemini Intelligence 扩展到 Pixel 10 系列和摩托罗拉 signature 27。新功能包括把口述实时整理成文的 Rambler、跨应用代办订餐约车，以及用一句话生成桌面小组件。Pixel 手机还将把主动建议带到车机。",
+      "title_zh": "Gemini Intelligence 扩展到更多手机和手表",
+      "lead_zh": "谷歌宣布 Gemini Intelligence 继续扩展机型，摩托罗拉 signature 27 将于 11 月 19 日在美国预订，Pixel 10 系列也获得口述整理、任务自动化和自制小组件等功能。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "Google AI Blog"
+          ],
+          "paras": [
+            "谷歌在官方博客宣布，Gemini Intelligence 扩展到更多 Android 设备。摩托罗拉的第一款相关机型 motorola signature 27 将于 **11 月 19 日** 在美国开启预订。同期的 Pixel Drop 让 Pixel 10、Pixel 10 Pro XL 和 Pixel 10 Pro Fold 获得新功能。",
+            "口述整理功能 Rambler 来到上述 Pixel 机型和 motorola signature 27。跨应用代办叫车、订餐和订位的任务自动化，扩展到英国、印度和日本。未来几周上线的 Create My Widget 可用一句话做主屏小组件，并从 Gmail、日历和搜索取信息，之后也会到 Pixel Watch。上月已经发布面向该能力的笔记本 Googlebook。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "sources": [
+            "Google AI Blog"
+          ],
+          "paras": [
+            "谷歌称，Device Assistance 让用户直接吩咐手机清理存储空间、查看哪些应用能读取位置，或在屏蔽干扰时仍放过重要来电。带有 Gemini Intelligence 的 Pixel 手机稍后会把主动建议带到 Android Auto，例如从确认邮件里找出集合地址并一键回复。公司同时提醒，功能因国家、语言和设备而异，部分仅向 18 岁以上用户开放，更高用量可能需要订阅。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "Gemini Intelligence 扩展至 motorola signature 27 以及 Pixel 10、Pixel 10 Pro XL 和 Pixel 10 Pro Fold",
@@ -260,9 +433,9 @@
       "updated_at": "2026-11-11T03:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/3af02544476ccf299845e9c9b45b096a8afb5bf5.jpg",
+      "image_source": "Google AI Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27_Hero_2784x156.width-1300.jpg"
     },
     {
       "id": "nfc6b6a56df7b",
@@ -272,6 +445,34 @@
       "title": "Gemini 4 Carbon 正式开放使用",
       "original_title": "Gemini 4 Carbon is now available",
       "summary": "Google DeepMind 宣布向开发者、企业、科研人员和普通用户开放 Gemini 4 Carbon，称这是其最强的模型，擅长网络安全和长周期智能体任务。两周前该模型先向网络安全防御者开放，现已通过 API 提供给付费开发者，并向 Google AI Ultra 订阅用户推出。",
+      "title_zh": "Gemini 4 Carbon 向付费用户和订阅者开放",
+      "lead_zh": "DeepMind 宣布向开发者、企业、科研人员和普通用户开放 Gemini 4 Carbon，价格与上一款模型相同，并预览把一条提示拆成一组智能体的功能。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "Google DeepMind Blog"
+          ],
+          "paras": [
+            "Google DeepMind 宣布，Gemini 4 Carbon 现已向开发者、企业、科研人员和消费者开放。两周前，它先经 Fairwind 计划提供给一批网络安全防御者。现在，付费开发者和企业可通过 Google AI Studio 与 Gemini 商业版的 API 使用，介绍价与 Gemini 4 Argon 相同：每百万输入 Token **2** 美元，每百万输出 Token **10** 美元。",
+            "它也在向 Google AI Ultra 订阅用户推出，覆盖 Google Antigravity、Gemini 应用和搜索中的 AI Mode。博客同时预览 Antigravity 里的 /swarm：一条提示可以变成一组分工的智能体，并在实时界面里查看。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "sources": [
+            "Google DeepMind Blog"
+          ],
+          "paras": [
+            "DeepMind 称 Carbon 是自己最强的模型，强项是网络安全，以及跨知识工作、软件工程和科学推理的长周期智能体任务。Argon 仍被公司视为多数软件工程和知识工作的合适选择；Carbon 会用更多 Token 做深入推理和长时间验证。公司称它在 CursorBench 4.0、Perplexity 的 WANDR 和 Zapier 的 AutomationBench 上排第 **1**，单任务成本比下一名外部模型低一倍以上。"
+          ]
+        }
+      ],
+      "image_url": "img/5f77d604dcae4f708385b04a21aad342fce07670.jpg",
+      "image_source": "Google DeepMind Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
       "facts": [
         {
           "text": "Gemini 4 Carbon 已通过 Google AI Studio 和 Gemini for business 的 API 向所有付费开发者和企业开放，并向 Google AI Ultra 订阅用户推出",
@@ -313,10 +514,7 @@
       "published_at": "2026-11-11T00:03:47+08:00",
       "updated_at": "2026-11-11T00:03:47+08:00",
       "status": "normal",
-      "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "summary_mode": "ai"
     },
     {
       "id": "n405fdcad1ce1",
@@ -326,6 +524,41 @@
       "title": "英伟达在 KubeCon 向 CNCF 捐赠 OpenShell，并推出新的开源组件",
       "original_title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
       "summary": "英伟达在 KubeCon 宣布，将用于保障和治理自主智能体的开源运行时 OpenShell 捐赠给 CNCF，成为 Sandbox 项目。公司还参与谷歌主导的 Agent Substrate，并推出 Kubernetes Engine、Recipes 和 Snapshot 等开源组件。",
+      "title_zh": "英伟达把 OpenShell 捐给云原生基金会",
+      "lead_zh": "英伟达在 KubeCon 宣布，把约束自主智能体的开源运行时 OpenShell 捐给云原生计算基金会，并公布在 Kubernetes 上更快拉起推理实例的 Snapshot 等组件。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "NVIDIA Blog"
+          ],
+          "paras": [
+            "英伟达在 KubeCon + CloudNativeCon 上宣布，把开源运行时 OpenShell 贡献给云原生计算基金会，进入沙箱项目，用来限制自主智能体能使用哪些工具、推理服务和工作负载。公司同时参与谷歌发起、已进入同一沙箱的 Agent Substrate，并让它与自家的 Dynamo 推理和 KAI Scheduler 配合。",
+            "博文还公布 DSX 人工智能工厂平台的新组件。Kubernetes Engine 和 Kubernetes Recipes 进入公开预览，用于在 GPU 上提供托管 Kubernetes。Snapshot 则把已做检查点的推理副本在数秒内恢复，省去重新加载模型。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "sources": [
+            "NVIDIA Blog"
+          ],
+          "paras": [
+            "英伟达称，不到一年已有数百家机构使用 OpenShell，并收到数以万计的贡献。设计伙伴的测试也写进博文：Crusoe 在 HGX B300 上运行 GLM-5.3，工作负载就绪时间从大约 **8** 分钟降到 **31** 秒；Saturn Cloud 把 vLLM 从零启动的时间，从 2 到 8.5 分钟降到 **6** 到 **34** 秒。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "NVIDIA Blog"
+          ],
+          "paras": [
+            "Linux 基金会首席执行官 Jim Zemlin 在博文中说，云原生社区的新问题是给智能体一个安全的运行环境，把 OpenShell 交给社区，是为了让更多人一起决定智能体安全基础设施怎么演进。这是基金会负责人的判断，不是英伟达单方面的产品指标。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "英伟达将开源运行时 OpenShell 捐赠给 CNCF，作为 Sandbox 项目管理",
@@ -363,9 +596,9 @@
       "updated_at": "2026-11-11T00:00:03+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/8248bbeca2e94bb729230602a2ef316e35dc8588.jpg",
+      "image_source": "NVIDIA Blog",
+      "image_origin_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg"
     },
     {
       "id": "n66ed14c6418f",
@@ -375,6 +608,31 @@
       "title": "Google 与 Adobe 加深合作，创意工具将进入 Drive、Gmail 和 Gemini",
       "original_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "summary": "Google 在 Adobe Max 宣布扩大与 Adobe 的合作：Drive 和 Gmail 将提供进入 Acrobat 的编辑入口，Adobe 工具将接入 Gemini 和企业版，以及搜索的 AI 模式。双方还计划探索用于 Photoshop 的近实时图像模型。",
+      "title_zh": "谷歌与 Adobe 打通文档、搜索和 Gemini",
+      "lead_zh": "谷歌宣布扩大与 Adobe 的合作：网盘和邮箱可以打开 PDF 软件，创作工具会进入对话产品和搜索，企业也能调用 Adobe 的助手。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "Google AI Blog"
+          ],
+          "paras": [
+            "谷歌在 Adobe MAX 宣布扩大与 Adobe 的合作，把 Adobe 的创作和效率工具放进日常使用的谷歌产品，同时把谷歌的前沿模型放进 Adobe 的应用。博文称，很快可以从 Google Drive 和 Gmail 直接进入 Adobe Acrobat，Acrobat 会作为推荐应用出现，文件预览里也会提供 Edit with 入口。",
+            "Adobe 正在把 Acrobat 和更多创作工具加进 Gemini 与 Gemini Enterprise 的连接器，并把创作工具带到谷歌搜索的 AI Mode。企业将能在 Gemini Enterprise 使用 Adobe 的 CX Enterprise Coworker，在不切换应用的情况下设计图形、处理 PDF 和发起营销活动。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "sources": [
+            "Google AI Blog"
+          ],
+          "paras": [
+            "双方还写明，Adobe 将与 Google DeepMind 探索面向专业创作者的新编辑能力，第一步是一个可能让 Photoshop 做到接近实时修改的图像模型。谷歌把这次合作解释为减少来回切换应用，避免改一份 PDF 或细调一张图片时打断手头工作。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "Google Drive 和 Gmail 将提供进入 Adobe Acrobat 的直接入口，包括文件预览中的「Edit with」",
@@ -406,9 +664,9 @@
       "updated_at": "2026-11-10T22:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/d56ce5fbdc119187de7f29680294955822c47e61.jpg",
+      "image_source": "Google AI Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-1440x810.png"
     },
     {
       "id": "n02e4a20d191a",
@@ -418,6 +676,31 @@
       "title": "Google Cloud 推出 Gemini for healthcare，用于打通临床数据与流程",
       "original_title": "Google Cloud launches Gemini for healthcare.",
       "summary": "Google Cloud 推出 Gemini for healthcare，用于整合电子病历、计费和临床指南等分散数据，并在人工监督下自动处理病历汇总、事先授权审核等流程。该服务先以预览形式提供，合作伙伴包括 HCA 等医疗系统。",
+      "title_zh": "谷歌云预览面向医疗的 Gemini 方案",
+      "lead_zh": "谷歌云宣布 Gemini for healthcare 预览，打算把电子病历、账单和临床指南接到同一套流程里，并在人工监督下处理病历综合和事先授权。首批伙伴包括 HCA Healthcare。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "Google AI Blog"
+          ],
+          "paras": [
+            "谷歌云宣布 Gemini for healthcare，目标是把分散的临床、运营和行政系统接到一起，让医疗团队把隔离的数据变成可以协调的行动，而不是只做信息检索。博文写道，临床人员每周有将近 **28** 小时花在文书和行政事务上。",
+            "它通过专门技能和数据连接器接入现有第三方系统，汇集电子病历、账单平台、临床指南和 Medicare 数据集。目前以预览形式提供，发布时的合作伙伴包括 HCA Healthcare、Highmark Health 和 Northwell Health。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "sources": [
+            "Google AI Blog"
+          ],
+          "paras": [
+            "谷歌称，这套方案会在设定的护栏和人工监督下，编排并执行病历综合、事先授权审核这类多步骤流程，用来疏通瓶颈，把员工时间腾回给患者照护。页面没有给出独立的临床效果数字，上述 28 小时来自这篇官方博文的陈述。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "Gemini for healthcare 可连接电子病历、计费平台、临床指南和 Medicare 数据集等现有系统",
@@ -449,9 +732,9 @@
       "updated_at": "2026-11-10T21:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/1e83c10cf2a814bfaa4f22e30bc190c5a484313f.jpg",
+      "image_source": "Google AI Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-1440x810.png"
     },
     {
       "id": "nf8c1a7370c13",
@@ -461,6 +744,34 @@
       "title": "DeepMind 推出 AlphaProof Code，用 AI 形式化验证 Signal 加密协议",
       "original_title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "summary": "Google DeepMind 推出形式化验证框架 AlphaProof Code，由人类专家和 AI 智能体分工，用 Lean 证明了 Signal 协议实际代码的关键安全性质。DeepMind 称这是 AI 首次以这种深度验证广泛部署的加密协议，只用了四周，过去需专家团队数年。成果将开源。",
+      "title_zh": "DeepMind 用智能体验证 Signal 加密代码",
+      "lead_zh": "Google DeepMind 发布 AlphaProof Code，由人和智能体分工，用 Lean 验证 Signal 协议实际代码的关键安全性质，并称整个过程用了四周。证明产物将开源。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "Google DeepMind Blog"
+          ],
+          "paras": [
+            "Google DeepMind 发布形式化验证框架 AlphaProof Code。研究者先和多种模型一起，把 Signal 的安全目标写成数学规范，并由人逐条复核；随后由 Gemini Carbon 驱动的智能体用 Lean 做证明。博文称，人只需要回头看大约 **1%** 的代码，其余由 Lean 自动检查。",
+            "验证对象不是停留在设计文档，而是 Signal 协议实际编译后的代码，包括设备被临时攻破前后消息仍受保护等性质，一直落到机器指令。DeepMind 写道，整个过程用了 **4** 周。他们还把两个已经修复的真实漏洞重新放进隔离代码，系统都给出了“有漏洞的版本不安全”的机器检查证明。证明产物将开源。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "sources": [
+            "Google DeepMind Blog"
+          ],
+          "paras": [
+            "DeepMind 称，这是人工智能第一次以这种深度验证一套广泛部署的加密协议，也是这套实现第一次被任何方法做成形式化验证。Signal 首席技术官 Ehren Kret 说，用智能体把线上代码翻译成有效的 Lean 定理是一项突破，让他们对代码的隐私保证更有信心。页面摘要和正文对证明行数的说法不一致，因此这里不引用该数字。"
+          ]
+        }
+      ],
+      "image_url": "img/b164bf0a75f034efd7150d0987f717789d4ffcf4.jpg",
+      "image_source": "Google DeepMind Blog",
+      "image_origin_url": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w1200-h630-n-nu-rw",
       "facts": [
         {
           "text": "AlphaProof Code 的智能体用 Lean 生成证明，验证了 Signal 协议核心加密代码的关键安全性质",
@@ -497,10 +808,7 @@
       "published_at": "2026-11-10T20:02:28+08:00",
       "updated_at": "2026-11-10T20:02:28+08:00",
       "status": "normal",
-      "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "summary_mode": "ai"
     },
     {
       "id": "n46ecb159c153",
@@ -510,6 +818,9 @@
       "title": "OpenAI 在美国五座城市为照护者举办免费 ChatGPT 培训",
       "original_title": "Helping caregivers use AI in everyday life",
       "summary": "OpenAI Academy 与照护行动网络、阿尔茨海默病协会和美国糖尿病协会合作，在国家家庭照护者月期间，于奥克兰、坦帕、匹兹堡、亚特兰大和底特律举办免费实践工作坊，帮助照护者安全、实际地使用 ChatGPT 安排日程和查找资源。",
+      "title_zh": "OpenAI 在五座城市为照护者办免费课",
+      "lead_zh": "OpenAI Academy 与三家照护组织合作，在奥克兰、坦帕、匹兹堡、亚特兰大和底特律举办免费 ChatGPT 工作坊，帮助照护者安排日程并查找资源。",
+      "body_zh": [],
       "facts": [
         {
           "text": "OpenAI Academy 与 Caregiver Action Network、Alzheimer's Association 和 American Diabetes Association 合作，在美国五座城市举办免费、面对面的 ChatGPT 工作坊",
@@ -547,9 +858,9 @@
       "updated_at": "2026-11-10T20:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n5ca4dc7b6d88",
@@ -559,6 +870,9 @@
       "title": "ChatGPT 上线企业主页和 Business Agent，商家可认领信息并接待咨询",
       "original_title": "Introducing Businesses in ChatGPT",
       "summary": "OpenAI 推出测试版「ChatGPT 中的企业」：商家可通过 Business Hub 认领主页、更新资料和商品信息，并查看汇总后的互动数据。符合条件的美国电商和在线服务商还可上线 Business Agent，在独立对话中回答顾客问题。OpenAI 称不会向商家提供用户对话内容。",
+      "title_zh": "ChatGPT 测试企业主页和商务代理",
+      "lead_zh": "商家可通过业务中心认领主页、更新资料和带价格库存的商品，并查看汇总互动。符合条件的美国电商可上线商务代理，在独立对话里回答顾客，且内容不提供给商家。",
+      "body_zh": [],
       "facts": [
         {
           "text": "商家可通过 Business Hub 认领并验证企业主页，更新关键信息，并添加含价格和库存的自助商品数据源",
@@ -596,9 +910,9 @@
       "updated_at": "2026-11-10T18:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n3588ceed4155",
@@ -608,6 +922,9 @@
       "title": "OpenAI 与 Upwork 研究显示，AI 相关自由职业项目预算更高、范围更广",
       "original_title": "Work at the Frontier: AI’s effect on freelance work",
       "summary": "OpenAI 与 Upwork 的新研究发现，自由职业需求正在变化：不少在 ChatGPT 中较常见的工作类型，在 Upwork 上的份额有所下降。AI 相关项目的任务组合更多样，固定价格预算更高、工时更多，但时薪与其他项目相近。研究认为，这不只是简单的替代关系。",
+      "title_zh": "研究称 AI 自由职业项目预算更高",
+      "lead_zh": "OpenAI 与 Upwork 的研究称，自由职业需求正在变化。AI 相关项目任务更杂、固定价格预算更高、工时更多，但时薪相近，并非简单的替代关系。",
+      "body_zh": [],
       "facts": [
         {
           "text": "OpenAI 与 Upwork 联合研究自由职业市场与 ChatGPT 使用情况，观察需求变化和 AI 相关项目的特点",
@@ -640,9 +957,9 @@
       "updated_at": "2026-11-10T15:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n571fb0494bf3",
@@ -652,6 +969,41 @@
       "title": "OpenAI 收购旅行初创公司 Odessia，创始人已加入公司",
       "original_title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "summary": "据 TechCrunch 报道，OpenAI 已收购 Sonder 创始人 Francis Davidson 创办的 AI 旅行助手 Odessia。官方证实他已加入，但未公布交易金额和旅行产品计划。Odessia 成立约一年，曾获红杉领投的 600 万美元融资，产品现已关闭。",
+      "title_zh": "OpenAI 收购旅行代理创业公司 Odessia",
+      "lead_zh": "报道称，OpenAI 收购了一家旅行代理创业公司，创始人本人也加入买方。交易金额没有披露，上线约五个月的产品已经关闭。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "TechCrunch 报道，人工智能旅行代理 Odessia 的创始人 Francis Davidson 宣布公司已被 OpenAI 收购，他本人也加入 OpenAI，参与旅行方向的工作。交易条款没有披露。这家成立一年的公司完成了由红杉领投的 **600 万美元** 预种子轮，大约五个月前推出产品，现已关闭。Davidson 称它曾帮助早期用户规划价值数百万美元的旅行。",
+            "Davidson 2014 年还创办过短租公司 Sonder，后来通过 SPAC 上市，但融资没有达到他事后所说的需求。与万豪的关键合作破裂后，公司进入破产并停止运营。TechCrunch 称，在跌落之前，Sonder 曾是收入 **1.43 亿美元** 的独角兽。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "OpenAI 发言人向 TechCrunch 确认了这次聘用，但没有宣布专门的旅行产品。发言人说，每周有 **12 亿** 人用 ChatGPT 处理日常事务，其中包括规划行程，公司认为这些体验还可以更有用。报道也提到，预订网站、Expedia 和 KAYAK 已是其客户或合作伙伴。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "TechCrunch 根据公告内容判断，这更像一次人才收购，因为创始人重点讲述的是自己如何指挥智能体团队做出旅行代理，而不是产品将如何继续运营。实验室对旅行业务的具体计划，文章认为仍要等后续公布。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "OpenAI 已收购 AI 旅行助手 Odessia，创始人 Francis Davidson 发帖称自己已加入 OpenAI，协助其旅行方向的工作",
@@ -690,9 +1042,9 @@
       "updated_at": "2026-11-11T05:08:52+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/b0173b13e28c198e0ad26bac26f63352931f6859.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801"
     },
     {
       "id": "ne18f58ec7dc7",
@@ -702,6 +1054,41 @@
       "title": "Anthropic 七位联合创始人计划在 IPO 中各套现约 2.5 亿美元",
       "original_title": "All 7 Anthropic founders will each cash out about $250M in IPO",
       "summary": "据 TechCrunch 报道，Anthropic 更新的招股书显示，七位联合创始人将在 IPO 中各出售相同数量的股份，按定价区间中值计算每人约套现 2.5 亿美元。出售后他们仍将集体掌握 51.1% 的投票权，继续控制公司。",
+      "title_zh": "Anthropic 七位创始人 IPO 拟各套现约 2.5 亿",
+      "lead_zh": "TechCrunch 根据最新 S-1 报道，七位联合创始人计划出售同样数量的股票，按发行价区间中点计算，每人大约套现 2.5 亿美元，并仍共同掌握公司投票权。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "TechCrunch 报道，Anthropic 在新的 S-1 中披露，七位联合创始人每人将出售 **3378378** 股。初步发行价为每股 **70** 到 **78** 美元。按中点 **74** 美元计算，每人收入略低于 **2.5 亿美元**；若按 70 美元，约为 2.36 亿美元，按 78 美元则略低于 2.64 亿美元。",
+            "这七人是首席执行官 Dario Amodei、总裁兼董事长 Daniela Amodei、首席计算官 Tom Brown、公益事务负责人 Jack Clark、首席科学官 Jared Kaplan、首席架构师 Sam McCandlish，以及可解释性研究负责人 Christopher Olah。出售后每人约持有已发行 A 类股的 **3.2%**，合计约 22%。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "招股文件怎么说",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "招股书显示，每人还会获得一股带超级投票权的 F 类股票，七人合计控制 **51.1%** 的投票权，没有单个人的持股或票数明显高于其他人。董事 Reed Hastings 表示希望通过捐赠者建议基金购买 **3 亿美元** 股票，董事 Christopher Liddell 希望购买 **300 万美元**。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "TechCrunch 提醒，A 类股并不是公司的全部股权。亚马逊和谷歌等持有没有投票权的 N 类股，因此创始人在总股权中的比例会更小，但作为一个整体仍然控制公司。文章还回顾，这七人于 2021 年离开 OpenAI 创立 Anthropic。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "七位联合创始人计划在 IPO 中各出售 3378378 股，数量完全相同",
@@ -733,9 +1120,9 @@
       "updated_at": "2026-11-11T03:57:52+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n7739f93bab44",
@@ -745,6 +1132,41 @@
       "title": "Oura 将以 6.25 亿美元收购 AI 原生初级诊疗公司 Counsel Health",
       "original_title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "summary": "据 TechCrunch 报道，Oura 宣布以 6.25 亿美元收购 AI 原生初级诊疗公司 Counsel Health。交易发生在其因市场不确定而无限期推迟最高 22 亿美元 IPO 的数周之后。Counsel 服务已接入 Oura 应用，交易预计在 2027 年底前完成。",
+      "title_zh": "Oura 拟以 6.25 亿美元收购保健公司",
+      "lead_zh": "报道称，智能戒指公司 Oura 将以 6.25 亿美元收购一家人工智能初级保健公司。数周前，它因上市环境不确定，推迟了约 22 亿美元的上市。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "Oura 周二宣布，将以 **6.25 亿美元** 收购人工智能初级保健公司 Counsel Health。TechCrunch 称，数周前 Oura 以“IPO 市场不确定”为由，无限期推迟了最高 **22 亿美元** 的上市。Counsel 的对话式医疗服务已于 6 月接入 Oura 应用，交易预计在 **2027** 年底前完成。",
+            "Counsel 一年前完成 **2500 万美元** A 轮，由 a16z 和 GV 领投；PitchBook 估计累计融资 **3600 万美元**。TechCrunch 引述 Bloomberg：首席执行官 Muthu Alagappan 将出任 Oura 的首席临床人工智能官，约 **70** 名员工一并加入。Oura 还披露，截至 9 月 30 日的季度收入同比增长 **153%**，至 **5.33 亿美元**。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "Oura 首席执行官 Tom Hale 说，戒指帮助会员理解自己的生理数据，加上 Counsel 之后，就可以把从临时提问、处方到化验、慢病和转诊的需求付诸行动。Alagappan 说，Counsel 的医疗人工智能把医生留在临床决定的环节里。Oura 称收购后 Counsel 会继续服务现有和新的企业客户。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "TechCrunch 把这笔交易放在竞争背景下：RingConn 和 Ultrahuman 等对手正在进入智能戒指市场，Oura 需要继续扩展业务。文章同时列出财务背景：2026 财年收入约 **17.5 亿美元**，同比增长 **92%**；2025 年 10 月完成 **9 亿美元** 后期融资后，估值达到 **110 亿美元**。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "Oura 宣布以 6.25 亿美元收购 Counsel Health，交易预计在 2027 年底前完成",
@@ -782,9 +1204,9 @@
       "updated_at": "2026-11-11T03:23:34+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/b54a40b1d51301ae3b6092e572db8f22bdc3ba3d.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296609700.jpg?resize=1200,799"
     },
     {
       "id": "n2d64ba6eaf90",
@@ -794,6 +1216,41 @@
       "title": "高盛预计 Anthropic 2030 年营收将突破 6000 亿美元",
       "original_title": "高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列",
       "summary": "据 IT之家援引英国《金融时报》报道，作为 Anthropic 上市牵头投行的高盛向潜在投资者披露预测：该公司营收到 2030 年将突破 6000 亿美元，约为 2025 年的 130 多倍；今年营收预计约 520 亿美元。若预测成真，其营收规模将跻身全球最大企业之列。",
+      "title_zh": "高盛预测 Anthropic 2030 年营收超 6000 亿",
+      "lead_zh": "IT之家引述英国《金融时报》报道，上市牵头投行高盛预测 Anthropic 营收到 2030 年突破 6000 亿美元，并预计自由现金流要到那一年才转正。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "IT之家"
+          ],
+          "paras": [
+            "IT之家引述英国《金融时报》报道，作为 Anthropic 上市牵头投行的高盛，向一名潜在投资者披露了营收预测：2025 年为 **46 亿美元**，今年约 **520 亿美元**，2027 年 **1360 亿美元**，2029 年 **4420 亿美元**，2030 年突破 **6000 亿美元**，是 2025 年的 130 多倍。按拟定发行价上限，估值为 **1.4 万亿美元**。",
+            "同一预测称，自由现金流转正要到 2030 年，届时为 **336 亿美元**。尽管今年前三季度自由现金流为正，高盛仍预计第四季度净流出 **128 亿美元**，2027 年净流出 **657 亿美元**。IT之家称，公司预计在美国感恩节前完成上市。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "sources": [
+            "IT之家"
+          ],
+          "paras": [
+            "高盛还预计，营业亏损在 2027 年达到 **404 亿美元** 的峰值，2029 年营业利润转正，2030 年营业利润为 **652 亿美元**。这些都是投行向潜在投资者披露的预测，不是公司已经实现的业绩。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "IT之家"
+          ],
+          "paras": [
+            "IT之家称，如果预测成真，成立约 6 年的 Anthropic 将进入全球营收最高的企业之列。文章引述 Visible Alpha 汇总的分析师预期作为对照：亚马逊今年营收约 **8300 亿美元**，英伟达 2027 年有望达到 **7000 亿美元**。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "IT之家援引英国《金融时报》报道，高盛作为 Anthropic 上市牵头投行，向一名潜在投资者披露了对该公司的营收预测",
@@ -826,9 +1283,9 @@
       "updated_at": "2026-11-10T23:17:21+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n06c34be0a2ca",
@@ -838,6 +1295,31 @@
       "title": "Anthropic 确认 IPO 定价区间，最高估值约 1.4 万亿美元",
       "original_title": "Anthropic targets $1.4 trillion IPO",
       "summary": "据 The Verge 报道，Anthropic 确认 IPO 发行价预计为每股 70 至 78 美元，最高估值约 1.4 万亿美元，低于此前外界预期的最高 2 万亿美元。公司已申请以股票代码 ANT 在纳斯达克上市。有消息称，股票可能于下周四五开始交易。",
+      "title_zh": "The Verge：Anthropic 上市估值上看 1.4 万亿",
+      "lead_zh": "The Verge 报道，Anthropic 确认 IPO 发行价预计为每股 70 到 78 美元，估值最高可达 1.4 万亿美元，低于此前最高约 2 万亿美元的预期，并申请以 ANT 在纳斯达克上市。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "The Verge"
+          ],
+          "paras": [
+            "The Verge 报道，Anthropic 周二确认，这次 IPO 可能是有史以来规模最大的之一，但仍低于先前预期。发行价预计为每股 **70** 到 **78** 美元。该刊引述《纽约时报》称，对应估值最高为 **1.4 万亿美元**。公司已申请把 A 类普通股放在纳斯达克全球精选市场，代码为 ANT。",
+            "文章引述《华尔街日报》的消息源称，Anthropic 希望下周周四或周五开始交易。它还引述路透社称，此前列出的估值预期最高可达 **2 万亿美元**。作为对照，截至上周，竞争对手 OpenAI 的估值为 **1.25 万亿美元**。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "The Verge"
+          ],
+          "paras": [
+            "The Verge 把估值预期下调，放在几个月来关于人工智能安全的争论、中期选举显示出的舆论变化，以及英伟达首席执行官黄仁勋相关报道之后。文章认为，上市仍可能让 Anthropic 在下周就成为全球市值最高的上市公司之一，只是不再沿着此前更高的目标定价。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "Anthropic 确认 IPO 发行价预计为每股 70 至 78 美元，按此计算最高估值约 1.4 万亿美元",
@@ -870,9 +1352,9 @@
       "updated_at": "2026-11-11T00:38:24+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n9871791e1b1f",
@@ -882,6 +1364,41 @@
       "title": "Anthropic 设定 IPO 定价每股 70 至 78 美元，估值最高 1.404 万亿美元",
       "original_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
       "summary": "据 TechCrunch 报道，Anthropic 计划发行 8.25 亿股 A 类股，定价每股 70 至 78 美元，按上限计算完全摊薄估值约 1.404 万亿美元，公开募资约 577.5 亿至 643.5 亿美元。公司还将向谷歌、英伟达等私募配售 260 亿美元股份，代码定为 ANT。",
+      "title_zh": "Anthropic 更新招股：每股 70 至 78 美元",
+      "lead_zh": "TechCrunch 报道，Anthropic 更新后的 IPO 文件计划发行 8.25 亿股 A 类股，价格区间为每股 70 至 78 美元，若按上限成交，完全摊薄估值约为 1.404 万亿美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "TechCrunch 报道，Anthropic 在周二更新的 IPO 文件中写明，将发行合计 **8.25 亿** 股 A 类股，预估价格为每股 **70** 到 **78** 美元，募资约 **577.5 亿** 到 **643.5 亿美元**。若按区间上限上市，完全摊薄估值约为 **1.404 万亿美元**。今年 5 月融资时的估值为 9650 亿美元，仍低于数月前市场流传的 **2 万亿美元** 目标。",
+            "公司另按 IPO 价格私募 **260 亿美元** 无投票权的 N 类股，对象包括 AMD、博通、谷歌、美光、微软、英伟达和台积电，其中谷歌和英伟达各 **100 亿美元**。承销商可额外购买最多 **1.2375 亿** 股。TechCrunch 引述 CNBC 称，交易可能在 11 月 19 日前后于纳斯达克开始，代码 ANT。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "招股文件怎么说",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "更新文件称，到 10 月底年化营收达到 **810 亿美元**，比 9 月底多出约 **100 亿美元**。第三季度营收为 **170 亿美元**，前九个月营收 **332 亿美元**，同期净亏损 **1040 亿美元**；算力和基础设施承诺达到 **9009 亿美元**，现金及短期投资近 **1320 亿美元**。七位联合创始人预计每人出售近 **340 万** 股。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "TechCrunch"
+          ],
+          "paras": [
+            "TechCrunch 指出，作为公益公司，创始人持有的 F 类股拥有 **50.1%** 投票权，长期利益信托还将选出董事会多数，因此购买 A 类股的投资者影响力有限。文章并以 OpenAI 作为对照：后者上周完成 **110 亿美元** 融资后，据报估值为 **1.25 万亿美元**。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "Anthropic 计划发行 8.25 亿股 A 类股，定价区间为每股 70 至 78 美元，公开募资规模约为 577.5 亿至 643.5 亿美元",
@@ -913,9 +1430,9 @@
       "updated_at": "2026-11-10T22:01:39+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/763af1c8ae6810ab12527cc71567a17faa753408.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
     },
     {
       "id": "n119424adf6f1",
@@ -925,6 +1442,41 @@
       "title": "Anthropic IPO 定价每股 70 至 78 美元，剑指 1.4 万亿美元估值",
       "original_title": "Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值",
       "summary": "据 IT之家援引 CNBC 报道，Anthropic 更新后的上市文件显示，公司计划发行 8.25 亿股，定价每股 70 至 78 美元，按上限计算最多筹资 643.5 亿美元，完全摊薄估值约 1.4 万亿美元。另有七家公司将按发行价认购 260 亿美元无投票权股份。",
+      "title_zh": "IT之家：Anthropic 发行价区间 70 到 78 美元",
+      "lead_zh": "IT之家引述 CNBC 报道，Anthropic 计划 IPO 发行 8.25 亿股，每股 70 至 78 美元，按上限计算最多筹资 643.5 亿美元，完全摊薄估值最高约 1.405 万亿美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "IT之家"
+          ],
+          "paras": [
+            "IT之家引述 CNBC 报道，Anthropic 更新后的上市申请计划发行 **8.25 亿** 股，发行价每股 **70** 至 **78** 美元。按 78 美元上限计算，最多筹资 **643.5 亿美元**，完全摊薄估值最高约 **1.405 万亿美元**。今年 5 月融资时公布的估值为 **9650 亿美元**。",
+            "公司还与 AMD、博通、谷歌、美光、微软、英伟达和台积电达成协议，七家以与 IPO 相同的价格，私募认购合计 **260 亿美元** 的 N 类普通股。这部分股份不纳入此次 IPO 注册，也不受承销商禁售协议限制。若按计划于本月登陆纳斯达克，代码为 ANT。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "招股文件怎么说",
+          "sources": [
+            "IT之家"
+          ],
+          "paras": [
+            "IT之家引述的财务数据称，今年前九个月营收 **332.4 亿美元**，同比增长约 **1200%**；净亏损 **1040 亿美元**，主要来自可转换票据和衍生负债的公允价值变动。2025 年同期亏损为 **251 亿美元**。联合创始人在招股书中写道，希望帮助人类安全度过这场技术变革，并邀请股东一起参与。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "IT之家"
+          ],
+          "paras": [
+            "CNBC 上周的报道被 IT之家引述为：部分投资者预期上市估值可能低于此前目标。公司不久前仍希望获得 **2 万亿美元** 估值，现在有股东对能否达到 **1.5 万亿美元** 表示怀疑。文章还提到，美国中期选举后，一些可能放慢人工智能基础设施建设的州级提案获得通过。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "IT之家援引 CNBC 报道，Anthropic 更新后的上市申请文件显示，公司计划发行 8.25 亿股，定价为每股 70 至 78 美元",
@@ -956,9 +1508,9 @@
       "updated_at": "2026-11-10T20:25:22+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n8ef7190c4507",
@@ -968,6 +1520,41 @@
       "title": "Anthropic 启动 IPO 路演，公开募股加私募最多筹资约 904 亿美元",
       "original_title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
       "summary": "据 The Decoder 报道，Anthropic 已启动 IPO 路演，计划公开发行最多 644 亿美元股票，并向谷歌、英伟达等基石投资者私募 260 亿美元，合计最多约 904 亿美元。该媒体按文件测算，目标估值最高约 1.02 万亿美元，定价为每股 70 至 78 美元。",
+      "title_zh": "Anthropic 路演估值上看 1.02 万亿美元",
+      "lead_zh": "The Decoder 引述路透社报道，Anthropic 开始上市路演，按招股书股本估算估值最高约 1.02 万亿美元，公开发行最多筹资 644 亿美元，另有 260 亿美元私募配售。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "The Decoder"
+          ],
+          "paras": [
+            "The Decoder 引述路透社报道，Anthropic 计划通过公开发行最多筹集 **644 亿美元**，按招股书所列股数估算，估值最高约 **1.02 万亿美元**。方案曾在周一晚间发给投行，随后被撤回。官方公布的公开发行包含 **8.25 亿** 股 A 类普通股，定价每股 **70** 到 **78** 美元，股票代码 ANT。",
+            "其中 801351354 股由公司发行，现有股东出售 23648646 股，公司不会从这批二次发售中获得收入。高盛和摩根士丹利牵头的承销团有 **30** 天选择权，可再买 **1.2375 亿** 股。另有 **260 亿美元** 私募，基石投资者包括谷歌、英伟达、AMD、博通、美光、微软和台积电，配售总额最高 **904 亿美元**。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "sources": [
+            "The Decoder"
+          ],
+          "paras": [
+            "The Decoder 引述招股书称，第三季度净亏损收窄，营收环比增长 **47%**，至 **169.6 亿美元**；上一季度的环比增幅为 **144%**。公司把增长归于 Claude 在医疗、金融和法律等行业方案上的需求，并写明已承诺近 **9000 亿美元** 的算力容量，部分未来基础设施取决于开发者无法控制的融资。"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "sources": [
+            "The Decoder"
+          ],
+          "paras": [
+            "文章称，潜在支持者在此前 **1.5 万亿美元** 的数字被认为过高之后，推动了更低的估值。今年 5 月的私募把公司估在 **9650 亿美元**。The Decoder 还把推迟后的 IPO 放在高利率和市场对数据中心产能的怀疑之中，并称纳斯达克在中期选举后的周四出现了 19 个月来最大的单日下跌。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "The Decoder 报道，Anthropic 计划公开发行最多 644 亿美元股票，并向谷歌、英伟达、AMD、博通、美光、微软和台积电等基石投资者私募 260 亿美元",
@@ -1000,9 +1587,9 @@
       "updated_at": "2026-11-10T20:13:03+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n2568dd3061ad",
@@ -1012,6 +1599,31 @@
       "title": "路透社：Anthropic 拟通过 IPO 筹集最多 644 亿美元并启动路演",
       "original_title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
       "summary": "据 IT之家援引路透社报道，Anthropic 最新招股说明书草案显示，公司计划通过 IPO 筹集最多 644 亿美元，并准备启动上市推介，定价区间为每股 70 至 78 美元。前一日曾出现“筹资最多 693 亿美元”的文件，公司随后撤回并称定价细节不准确。",
+      "title_zh": "路透社稿：Anthropic 拟最多募资 644 亿美元",
+      "lead_zh": "IT之家引述路透社报道，Anthropic 最新招股说明书草案计划通过 IPO 最多筹集 644 亿美元，并向谷歌、英伟达、AMD 等基石投资者另募 260 亿美元。公司曾撤回一份定价细节。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "IT之家"
+          ],
+          "paras": [
+            "IT之家引述路透社报道，Anthropic 最新招股说明书草案计划通过 IPO 最多筹集 **644 亿美元**，并准备启动上市推介工作。草案同时写明，另一笔私募将向谷歌、英伟达和 AMD 等基石投资者融资 **260 亿美元**。",
+            "计入博通、美光、微软和台积电等其他基石投资者之后，这次股票发行的募资规模最高为 **904 亿美元**。公司和部分现有投资者计划在 IPO 中出售股票，初步定价为每股 **70** 至 **78** 美元，具体安排预计不久后公布。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "sources": [
+            "IT之家"
+          ],
+          "paras": [
+            "IT之家称，路透社在当地时间 9 日曾披露一份最高募集 **693 亿美元** 的备案副本。文件发给银行后不久，Anthropic 撤回了该文件，并回应说其中的定价细节不准确，稍后会更新备案。因此 693 亿美元不是目前仍有效的发行数字。"
+          ]
+        }
+      ],
       "facts": [
         {
           "text": "IT之家援引路透社报道，Anthropic 最新招股说明书草案显示，公司计划通过 IPO 筹集最多 644 亿美元，并准备启动上市推介",
@@ -1049,9 +1661,9 @@
       "updated_at": "2026-11-10T19:40:20+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "ncd0c3adea5a3",
@@ -1061,6 +1673,9 @@
       "title": "Trovata 在 Amazon Bedrock 上构建自主资金管理智能体",
       "original_title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
       "summary": "AWS 介绍了资金管理平台 Trovata 如何在 Amazon Bedrock 和 AgentCore 上构建自主资金管理智能体。该平台已连接逾 1 万家银行，可在权限控制下自动查询和监测资金状况，并把原先耗时数小时甚至数天的报表缩短到一分钟以内。",
+      "title_zh": "Trovata 在云上做自主资金管理代理",
+      "lead_zh": "AWS 博文介绍，Trovata 用 Bedrock 和 AgentCore 做带权限控制的资金管理代理，连接超过一万家银行，把企业司库从手工报表推向实时决策。",
+      "body_zh": [],
       "facts": [
         {
           "text": "Trovata 是面向企业资金与流动性管理的平台，已直接连接逾 1 万家银行",
@@ -1092,9 +1707,9 @@
       "updated_at": "2026-11-11T02:11:08+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n82110824f2ab",
@@ -1104,6 +1719,9 @@
       "title": "TCS 用 Amazon Bedrock AgentCore 搭建智能体测试编排系统",
       "original_title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
       "summary": "AWS 与 TCS 介绍了后者如何在 Amazon Bedrock AgentCore 上构建智能体测试编排系统，把需求自动转成可执行、可审计的测试，服务银行和保险客户。系统按租户隔离数据，由专门智能体分别负责场景设计、执行和报告。内部基准显示测试工作量减少 88%。",
+      "title_zh": "TCS 用云平台编排银行保险测试",
+      "lead_zh": "AWS 博文介绍，塔塔咨询在 Bedrock AgentCore 上做测试编排，把需求变成可执行、可审计的测试，服务银行、金融服务和保险客户，并按租户隔离。",
+      "body_zh": [],
       "facts": [
         {
           "text": "TCS 在 Amazon Bedrock AgentCore 上构建了智能体测试编排系统，把需求转成可执行、受治理的测试，服务银行、金融和保险客户",
@@ -1136,9 +1754,9 @@
       "updated_at": "2026-11-11T00:59:43+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n58426d8e2b38",
@@ -1148,6 +1766,9 @@
       "title": "AWS 推出 Amazon Bedrock 调用日志数据湖，用于看清每次调用成本",
       "original_title": "Amazon Bedrock tokenomics data lake",
       "summary": "AWS 介绍了一套中心化的 Amazon Bedrock 可观测数据湖方案：把各账户的模型调用日志汇总到一处，处理后可用 Athena 查询每次调用的提示、模型、token 用量和成本。该方案以基础设施即代码提供，示例代码已放在 GitHub 仓库中。",
+      "title_zh": "博文演示如何集中查看 Bedrock 调用",
+      "lead_zh": "AWS 博文给出一种做法：把各关联账户的模型调用日志收成一张可查询的表，从而看到提示词、返回、Token 数量和所用模型，而不只是总账单。",
+      "body_zh": [],
       "facts": [
         {
           "text": "该方案把各关联账户中的 Amazon Bedrock 模型调用日志汇集到中心账户，处理后形成可查询的数据表",
@@ -1179,9 +1800,9 @@
       "updated_at": "2026-11-11T00:56:36+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n724fae925148",
@@ -1191,6 +1812,9 @@
       "title": "Hugging Face Hub 现已支持用 Google Cloud 账户结算",
       "original_title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "summary": "Hugging Face 宣布，企业可把组织账户关联到 Google Cloud 账单，将 Hub 上的订阅、推理和存储等费用记到现有谷歌云发票上，不必再单独绑公司信用卡。管理员需先在 Marketplace 订阅，再完成关联，经审核后开始按此结算。",
+      "title_zh": "Hugging Face 用量可记入谷歌云账单",
+      "lead_zh": "Hugging Face 宣布，组织可以关联谷歌云账户，把模型托管、推理和 GPU 任务的费用记到谷歌云账单，而不必另用信用卡。入口在云市场。",
+      "body_zh": [],
       "facts": [
         {
           "text": "企业可以把 Hugging Face 组织账户关联到 Google Cloud 账户，使 Hub 使用费用出现在现有的谷歌云账单中，而不必再单独使用公司信用卡",
@@ -1217,9 +1841,9 @@
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/1c8f08047bb9d73278ee8eb621fbcf918ee13a63.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg"
     },
     {
       "id": "n3229de0d9192",
@@ -1229,6 +1853,9 @@
       "title": "Hugging Face 推出决策模型，可直接对预定义选项给出概率",
       "original_title": "Decision Models in Hugging Face",
       "summary": "Hugging Face 介绍了决策模型，并在 transformers 中新增 decision 接口。与逐词生成文本不同，这类模型针对预定义选项直接给出概率分布，适合客服分流、分类等结构化任务。文章还解释了它与传统分类、零样本分类的区别。",
+      "title_zh": "Hugging Face 介绍不必生成文字的决策模型",
+      "lead_zh": "Hugging Face 写道，并不是每个问题都要先生成一段文字。决策模型可以直接给候选答案概率，例如判断客服该由谁处理、有多紧急、是否在要求退款。",
+      "body_zh": [],
       "facts": [
         {
           "text": "Hugging Face 在 transformers 中新增了名为 decision 的接口，用于调用决策模型",
@@ -1255,9 +1882,9 @@
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/d75ed9af1ed1f8aaefc4aa32297c23f7fd7801be.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://huggingface.co/blog/assets/decision/thumbnail.png"
     },
     {
       "id": "n6da221a41f74",
@@ -1267,6 +1894,9 @@
       "title": "新论文提出 e-means：以更少轮次、更快速度改进 k-means 聚类",
       "original_title": "e-means: outperforming k-means (in one-tenth the epochs)",
       "summary": "一篇新论文提出聚类算法 e-means，用指数滑动平均和深度学习工具改进 k-means。作者称，在多种嵌入数据集上，它能以更少轮次达到更低损失，常见情况下 1.4 至 2.6 个周期即可超过传统方法跑 25 个周期的效果，GPU 耗时可比现有实现快 10 至 45 倍。",
+      "title_zh": "论文用更少轮次改进 k-means 聚类",
+      "lead_zh": "这篇论文为 k-means 加入指数移动平均和小批量更新，并使用深度学习工具。标题称，达到效果所需的轮次大约是传统方法的十分之一。",
+      "body_zh": [],
       "facts": [
         {
           "text": "e-means 为 k-means 引入基于指数滑动平均的小批量优化，并给出衰减率和批量大小的选取规则，无需再做超参数搜索",
@@ -1294,9 +1924,9 @@
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n276617cf5b14",
@@ -1306,6 +1936,9 @@
       "title": "新基准 MotionGraphicsBench 用程序校验评估动态图形生成",
       "original_title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
       "summary": "一篇新论文发布 MotionGraphicsBench，用于评估大模型根据提示为静态 SVG 生成动态图形的能力。该基准有 100 道专家整理的题目，并用可程序化校验的方式判断要求是否满足。测试显示，47 种模型配置的一次通过率介于 6.0% 到 67.7% 之间。",
+      "title_zh": "新基准检验运动图形是否按提示生成",
+      "lead_zh": "论文推出 MotionGraphicsBench，用专家整理的 100 个例子，检验模型能否按照同时包含空间、外观和时间要求的提示，给静态矢量图加上运动。",
+      "body_zh": [],
       "facts": [
         {
           "text": "MotionGraphicsBench 包含 100 道由专家整理的题目，要求模型根据提示为给定的静态 SVG 生成动态效果，并用确定性的校验程序判断各项要求是否通过",
@@ -1338,9 +1971,9 @@
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n5e9bc7516c26",
@@ -1350,6 +1983,9 @@
       "title": "新基准 FraudBench 评估大模型在美国法律下的欺诈倾向",
       "original_title": "FraudBench: A Legal Evaluation of AI Deception",
       "summary": "一篇新论文发布 FraudBench，依据美国真实判例评估大模型是否会建议、协助或直接实施构成欺诈的行为。对 20 个模型的测试显示，欺诈率从接近 0% 到超过 40% 不等，且随自主程度上升：提供建议时为 3.0%，代写消息时为 14.7%，直接代为操作时为 21.4%。",
+      "title_zh": "新基准评估模型会不会协助欺诈",
+      "lead_zh": "FraudBench 用 159 个取材于美国真实判例、并经法律专家校验的情景，评估大模型是否会建议、协助或直接做出美国法下构成欺诈的行为。",
+      "body_zh": [],
       "facts": [
         {
           "text": "FraudBench 基于经法律专家核验的 159 个真实美国判例场景，从提供建议、代写消息和直接代用户行动三种自主程度评估大模型",
@@ -1382,9 +2018,9 @@
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n7780e52eccdb",
@@ -1394,6 +2030,9 @@
       "title": "新方法 onóna 用双嵌入表提升输出表达，同时保持权重共享",
       "original_title": "onóna: Twin Embeddings with Tied Unembeddings",
       "summary": "一篇新论文提出名为 onóna 的参数共享方法：用两张嵌入表的平均值作为输入，并在输出端混合这两张表对应的 softmax。作者在多种架构和 1.42 亿、3.3 亿、10 亿参数规模上测试，称在 12 组对照中有 11 组降低了验证损失。",
+      "title_zh": "论文用两张词表增强权重绑定",
+      "lead_zh": "论文提出名为 onóna 的双词表做法：输入取两张表的平均，输出再合并这两张表各自的分布，在保留权重共享的同时提高表达能力。",
+      "body_zh": [],
       "facts": [
         {
           "text": "onóna 使用两张嵌入表：Transformer 以二者平均值作为输入，输出头再混合由这两张表定义的 softmax 分布，门控仅取决于当前输入 token",
@@ -1421,9 +2060,9 @@
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "ndc788b8bf68b",
@@ -1433,6 +2072,9 @@
       "title": "新方法 RidgeFill 无需训练即可加速大模型预填充",
       "original_title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
       "summary": "一篇新论文提出无需训练的加速方法 RidgeFill：提示词只需精确计算模型的较低层，再用一次拟合的映射去填充较高层缓存。作者称，在部分模型和推理框架上，首个 token 的生成速度可提高约 1.25 至 1.60 倍，同时长文本基准变化较小。",
+      "title_zh": "RidgeFill 试图免训练加快预填充",
+      "lead_zh": "RidgeFill 在不重新训练的前提下，少算提示词的大部分高层。低层算到切分点后，用逐层映射预测后面各层的输入，再由这些层写出缓存。",
+      "body_zh": [],
       "facts": [
         {
           "text": "RidgeFill 在一个分割层之前精确计算较低层，再用一次闭式岭回归拟合的逐层映射，为后续高层填写缓存，无需额外训练，也不丢弃 token",
@@ -1460,9 +2102,9 @@
       "updated_at": "2026-11-10T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nc3e82675d569",
@@ -1472,6 +2114,9 @@
       "title": "Grok Build 编程智能体泄露大量机密信息，部分属于 SpaceXSI",
       "original_title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
       "summary": "据 Ars Technica 报道，安全公司 Claroc 发现，Grok Build 的分享链接可被枚举，超过 3.5 万个应用处于公开可访问状态，其中包含商业计划和体检结果等敏感信息，也包括 SpaceXSI 自己的内部材料。在该媒体问询后，SpaceXSI 已下线其相关链接。",
+      "title_zh": "Grok Build 的分享链接暴露大量应用",
+      "lead_zh": "Ars Technica 报道，研究者发现约 35000 个 Grok Build 应用可以被逐个找出来，其中包含 SpaceXSI 的敏感信息。随机链接并没有挡住枚举。",
+      "body_zh": [],
       "facts": [
         {
           "text": "Claroc 通过被动 DNS 检索发现 43601 个以 grok.me 结尾的链接，其中超过 3.5 万个、约 95% 为公开可访问，点击即可打开应用及其存储数据",
@@ -1509,9 +2154,9 @@
       "updated_at": "2026-11-11T05:12:59+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/20c0f44ed1335185777d36bc339b1b42bff9ac6a.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp"
     },
     {
       "id": "nc012fc7ecd62",
@@ -1521,6 +2166,9 @@
       "title": "纽约州 AI 安全法即将生效，OpenAI 与 Anthropic 等需登记",
       "original_title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
       "summary": "据 TechCrunch 报道，纽约州已开放登记门户，年营收超过 5 亿美元的前沿 AI 开发商须在 2027 年 1 月 1 日前登记。即将生效的 RAISE 法案要求公司公布安全框架，并在 72 小时内报告重大安全事件，单次违规最高可罚 100 万美元。",
+      "title_zh": "纽约要求大型模型公司登记并报告事故",
+      "lead_zh": "TechCrunch 报道，纽约已开放登记入口。年收入超过 5 亿美元的前沿公司须在 2027 年 1 月 1 日前登记，公开安全框架，并在 72 小时内报告重大事故。",
+      "body_zh": [],
       "facts": [
         {
           "text": "纽约州已开放登记门户，年营收超过 5 亿美元的大型前沿 AI 开发商须在 2027 年 1 月 1 日前完成登记",
@@ -1558,9 +2206,9 @@
       "updated_at": "2026-11-11T04:52:13+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/1841fca8242c1279f384785d4aaaf12759b7ad63.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024"
     },
     {
       "id": "n2dcde4b66566",
@@ -1570,6 +2218,9 @@
       "title": "当 AI 成为神谕，数学会怎样：新书探讨大规模计算下的数学",
       "original_title": "What happens to mathematics when AI becomes an oracle?",
       "summary": "据 Ars Technica 报道，应用数学家 Steven Strogatz 与 Alex Townsend 出版新书《Big Math》，讨论当计算和 AI 开始处理海量变量时，数学将如何变化。书中回顾了人类把数学外置到工具中的传统，并探讨该如何适应这一变化。",
+      "title_zh": "数学家讨论人工智能成为神谕之后",
+      "lead_zh": "Ars Technica 介绍 Strogatz 与 Townsend 的新书《Big Math》，讨论算法、预报、医学成像和机器学习背后的数学，以及大模型可能让数学超出创造者掌控。",
+      "body_zh": [],
       "facts": [
         {
           "text": "康奈尔大学应用数学家 Steven Strogatz 与 Alex Townsend 合作出版新书《Big Math: The Hidden Codes That Run Our World》",
@@ -1597,9 +2248,9 @@
       "updated_at": "2026-11-11T04:30:01+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/0d3b58ca7faee2d542be4ed0ce6c7d1ab0eb53bc.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-2560x1440.jpg"
     },
     {
       "id": "n9198dc1328a3",
@@ -1609,6 +2260,9 @@
       "title": "OpenAI 把 ChatGPT 做成企业目录，并推出可回答顾客问题的智能体",
       "original_title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
       "summary": "据 The Decoder 报道，OpenAI 推出测试版「ChatGPT 中的企业」，商家可通过 Business Hub 认领主页、更新信息和商品数据。符合条件的美国电商还可上线 Business Agent，在 ChatGPT 里回答顾客问题。OpenAI 称不会向商家提供用户对话。",
+      "title_zh": "ChatGPT 开始测试商家主页和商务代理",
+      "lead_zh": "The Decoder 报道，商家可以在新的业务中心里认领资料、上传价格和库存，并查看被提及和点击的次数。符合条件的美国电商还能设置直接答问的代理。",
+      "body_zh": [],
       "facts": [
         {
           "text": "商家可通过 Business Hub 注册并管理企业信息，添加含价格和库存的商品数据，并查看被提及次数和网站点击等指标",
@@ -1647,9 +2301,9 @@
       "updated_at": "2026-11-11T04:17:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "nbb1492f15ad8",
@@ -1659,6 +2313,9 @@
       "title": "Anthropic 为 Claude 增加表格、白板等协作功能，会议纪要将推出",
       "original_title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
       "summary": "据 The Decoder 报道，Anthropic 为 Claude 增加表格和白板等协作功能，并允许 Adobe、Atlassian 等把应用嵌进 Claude。公司称，能加入通话并做笔记的 Claude Meetings 即将上线。",
+      "title_zh": "Claude 加入表格、白板和应用连接",
+      "lead_zh": "报道称，Claude 新增表格、白板和数据看板，并让设计、协作和客户管理三类伙伴把应用嵌进来。公司说会议记录功能即将推出。",
+      "body_zh": [],
       "facts": [
         {
           "text": "Claude Sheets 可协助团队创建和编辑带公式、多工作表的表格，Claude Whiteboards 可用于头脑风暴并由 Claude 做归纳",
@@ -1691,9 +2348,9 @@
       "updated_at": "2026-11-11T03:48:40+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n6fcd75d626dd",
@@ -1703,6 +2360,9 @@
       "title": "PSI 借助 Anthropic 模型证明量子计算猜想，并试图把 AI 科学发现做成生意",
       "original_title": "PSI is trying to make a business out of AI-driven scientific discovery",
       "summary": "据 TechCrunch 报道，初创实验室 PSI 的研究员借助 Anthropic Fable 5.2 的早期权限，解决了量子计算领域一个提出近二十年的问题。该证明已用 Lean 形式化，并经相关领域研究者核验。公司目前收入来自优化数据中心，长期希望把理论成果转化成技术。",
+      "title_zh": "创业公司用未发布模型研究量子计算",
+      "lead_zh": "TechCrunch 报道，PSI 的研究人员用尚未发布的 Fable 5.2，处理提出约 18 年的 Aaronson-Ambainis 猜想，这个问题关系量子计算机能否比经典计算机更快。",
+      "body_zh": [],
       "facts": [
         {
           "text": "PSI 技术人员 David Turturean 利用 Anthropic Fable 5.2 的早期权限，给出了 Aaronson-Ambainis 猜想的证明，该证明已用 Lean 自动形式化",
@@ -1735,9 +2395,9 @@
       "updated_at": "2026-11-11T03:03:52+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/0625c559f85e2a03e709fd682bbc72e06710b0c8.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683"
     },
     {
       "id": "n445fc6287a33",
@@ -1747,6 +2407,9 @@
       "title": "OpenAI 推出企业主页，试图让 ChatGPT 更像搜索引擎",
       "original_title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
       "summary": "据 TechCrunch 报道，OpenAI 推出测试版 Business Hub，企业可认证并更新产品服务信息，符合条件的公司还能上线专门的商业智能体。该媒体认为，这让 ChatGPT 更接近谷歌式的消费发现入口。OpenAI 早前直接做电商购物的尝试并未成功。",
+      "title_zh": "ChatGPT 上线仍在测试的商家资料",
+      "lead_zh": "TechCrunch 报道，OpenAI 周二推出业务中心测试，企业可以核验并更新产品与服务信息。符合条件的公司还能发布专门代理，回答用户关于该商家的问题。",
+      "body_zh": [],
       "facts": [
         {
           "text": "OpenAI 推出测试版 Business Hub，企业可创建并验证业务主页，更新产品和服务信息，符合条件的公司还可上线专门的商业智能体",
@@ -1785,9 +2448,9 @@
       "updated_at": "2026-11-11T02:49:52+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/d88b668d6977848008ef726b3c7314b1a9ca9140.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677"
     },
     {
       "id": "n75611a00ad61",
@@ -1797,6 +2460,9 @@
       "title": "英伟达发布 GR00T 2：看人类操作视频，再把自己想象成机器人",
       "original_title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
       "summary": "据 The Decoder 报道，英伟达发布机器人基础模型 GR00T 2，把人类操作视频迁移到机械臂，以减少繁琐的遥操作训练。该模型会同时预测下一步动作和短暂的未来画面。实验室测试中，它能完成划火柴、切香蕉等任务，成功率因任务而异，介于 10% 到 80%。",
+      "title_zh": "英伟达 GR00T 2 用人类视频教机器人",
+      "lead_zh": "The Decoder 报道，GR00T 2 试图把视频中的人手动作迁到机械臂上，以减少遥操作采集。训练素材约 40 万小时，但不同任务的成功率仍在 10% 到 80% 之间。",
+      "body_zh": [],
       "facts": [
         {
           "text": "与前代不同，GR00T 2 被英伟达称为世界-行动模型，会同时计算下一步动作，并用扩散方法预测短暂的未来画面",
@@ -1834,9 +2500,9 @@
       "updated_at": "2026-11-11T02:41:52+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/0e97798085927964c18f53d8897613f4ad6b4341.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/GR00T-2-Nvidia-1200x675.png"
     },
     {
       "id": "n053da60fa0cf",
@@ -1846,6 +2512,9 @@
       "title": "Gemini 4 Carbon 正式开放，却赶上本轮模型迭代最快的时刻",
       "original_title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
       "summary": "据 The Decoder 报道，Google 在两周测试后向付费开发者和企业开放 Gemini 4 Carbon，面向多步编程和科研等更难任务，并预览了可把一条提示拆成多智能体协作的 swarm 功能。该媒体认为，其发布时 Anthropic 新模型已经追上，本轮模型迭代速度格外快。",
+      "title_zh": "媒体对照 Gemini 4 Carbon 与 Fable 的成绩",
+      "lead_zh": "The Decoder 称，Carbon 全面开放后在若干基准上排第一，有的项目领先且更便宜；但在 Artificial Analysis 的测试里，Fable 5.2 即使降低推理强度仍然更高。",
+      "body_zh": [],
       "facts": [
         {
           "text": "Gemini 4 Carbon 在为期两周的测试后，已向付费开发者和企业客户普遍开放，定位是补强而非取代 Gemini 4 Argon",
@@ -1884,9 +2553,9 @@
       "updated_at": "2026-11-11T02:19:13+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n454698109508",
@@ -1896,6 +2565,9 @@
       "title": "ChatGPT 将上线经过验证的企业智能体，可协助比较商品",
       "original_title": "ChatGPT is getting verified AI ‘Business Agents’",
       "summary": "据 The Verge 报道，ChatGPT 将允许用户与经过验证的「Business Agent」对话，协助比较商品等。该功能先向符合条件的美国电商和在线服务商开放。对话会被明确标注，并与主对话分开；企业可通过 Business Hub 认领并验证组织。",
+      "title_zh": "ChatGPT 将提供经过核验的商务代理",
+      "lead_zh": "The Verge 报道，符合条件的美国电商和在线服务可以让用户与代表品牌的代理对话，例如比较商品。这些对话与原来的主对话分开，目前以测试形式推出。",
+      "body_zh": [],
       "facts": [
         {
           "text": "当某家已创建 Business Agent 的企业出现在 ChatGPT 回答中时，用户可以开始与该智能体对话，询问其产品并做后续比较",
@@ -1928,9 +2600,9 @@
       "updated_at": "2026-11-11T02:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/066295de70e6dd2aff2fc854c80ac9197fabfdd6.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
     },
     {
       "id": "na548f4bc427d",
@@ -1940,6 +2612,9 @@
       "title": "独立游戏节评审拒评生成式 AI 作品，热门游戏 Big Walk 陷入争议",
       "original_title": "The indie game community is in disarray over AI and Big Walk",
       "summary": "据 The Verge 报道，部分独立游戏节评审发表声明，拒绝为任何使用生成式 AI 的作品投票。热门游戏 Big Walk 的开发商随后承认，在开发后期曾少量使用大模型辅助解决技术难题，并估计相关代码不到全部的 0.1%。该声明并不代表组委会立场。",
+      "title_zh": "独立游戏节评委拒绝投给生成式作品",
+      "lead_zh": "The Verge 报道，部分独立游戏节评委声明，不会投票给以任何方式使用生成式人工智能的游戏。游戏《Big Walk》的开发者则说自己只用了一点点，用来解决技术难题。",
+      "body_zh": [],
       "facts": [
         {
           "text": "部分独立游戏节（IGF）评审发表声明称，不会为任何使用生成式 AI 的游戏投票；声明写明并不代表 IGF 组织或全体评审的立场",
@@ -1972,9 +2647,9 @@
       "updated_at": "2026-11-11T03:06:22+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/32ea8785dd3bffbe7ad985ce189a0037fde42fca.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
     },
     {
       "id": "naf7403b45639",
@@ -1984,6 +2659,9 @@
       "title": "Anthropic 推出 Claude Meetings，可把会议讨论变成计划和任务",
       "original_title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
       "summary": "据 TechCrunch 报道，Anthropic 推出测试版 Claude Meetings：会议进行中，Claude 可起草正在讨论的计划、在白板上排时间线、在聊天里回答问题，并调用已连接的办公应用。会后可查看纪要和待办。该功能先向团队版和企业版开放，目前支持 Google Meet。",
+      "title_zh": "Anthropic 让 Claude 在会议进行时就动手",
+      "lead_zh": "TechCrunch 报道，Claude Meetings 能在通话时起草正在讨论的计划、在白板上排时间，并在聊天里回答问题。同一天还发布了白板和表格功能。",
+      "body_zh": [],
       "facts": [
         {
           "text": "在会议进行中，Claude 可起草正在讨论的计划、在白板上排出时间线、在会议聊天中回答问题，并访问已连接的办公应用以调取信息",
@@ -2021,9 +2699,9 @@
       "updated_at": "2026-11-11T01:30:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/5ba04a582f65c1d7eabe28979eac18e5b9d4cc88.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675"
     },
     {
       "id": "nf724697ad479",
@@ -2033,6 +2711,9 @@
       "title": "Anthropic 推出面向知识工作者的 AI 办公套件",
       "original_title": "Anthropic has its own AI-powered office suite now",
       "summary": "据 The Verge 报道，Anthropic 在旧金山发布 Claude Meetings、Sheets 和 Whiteboards，可加入会议做笔记、协作编辑表格和共用白板，目前均为测试版。公司还推出交互式连接器，可在 Claude 内打开 Adobe、Atlassian 等合作方应用。",
+      "title_zh": "Anthropic 把 Claude 扩成办公工具套件",
+      "lead_zh": "The Verge 报道，Anthropic 在企业和编程工具之外，推出带人工智能的办公套件，面向更广的知识工作者，并赶在上市之前争取白领用户。",
+      "body_zh": [],
       "facts": [
         {
           "text": "Anthropic 在旧金山发布 Claude Meetings、Claude Sheets 和 Claude Whiteboards，三者目前均为测试版；前两项向所有付费方案开放，Meetings 面向 Teams 和 Enterprise",
@@ -2076,9 +2757,9 @@
       "updated_at": "2026-11-11T01:30:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/4f2344d2470d5902bdac32e05b07edddedee171e.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "id": "nbab93a711baf",
@@ -2088,6 +2769,9 @@
       "title": "AMD 发布霄龙嵌入式 9006 系列处理器，吞吐量最高提升 1.8 倍",
       "original_title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
       "summary": "据 IT之家报道，AMD 发布基于 Zen 6 架构的霄龙嵌入式 9006 系列 SP7 处理器，最高 256 核 512 线程，并率先在嵌入式平台支持 PCIe Gen6 和 CXL 3.1，产品生命周期为 7 年。该系列面向测试设备、企业存储和防火墙等场景，多核吞吐量较上代最高提升 1.8 倍。",
+      "title_zh": "AMD 发布最高 256 核的嵌入式处理器",
+      "lead_zh": "IT之家报道，AMD 发布基于 Zen 6 的霄龙嵌入式 9006 系列，最高 256 核 512 线程，并在嵌入式平台提供 PCIe Gen6、CXL 3.1 和 7 年供货周期。",
+      "body_zh": [],
       "facts": [
         {
           "text": "AMD 发布基于 Zen 6 架构的霄龙嵌入式 9006 系列 SP7 处理器，最高可达 256 核 512 线程，并率先在嵌入式平台支持 PCIe Gen6 和 CXL 3.1，配备 16 通道内存，产品生命周期为 7 年",
@@ -2119,9 +2803,9 @@
       "updated_at": "2026-11-11T01:05:05+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": ""
     },
     {
       "id": "n0bbf517ca2cf",
@@ -2131,6 +2815,9 @@
       "title": "eBay 似已限制第三方 AI 智能体访问，包括 Meta 的 Muse",
       "original_title": "eBay appears to have shut the door on third-party AI agents",
       "summary": "据 The Verge 报道，eBay 似乎已阻止包括 Meta Muse 在内的第三方 AI 智能体浏览其网站。一位读者称，此前可用 Muse 整理 eBay 商品，但本周末已被拦截。eBay 发言人未直接证实是否新设限制，只表示会有选择地开放第三方访问。",
+      "title_zh": "eBay 似乎拦住了第三方购物代理",
+      "lead_zh": "The Verge 报道，eBay 似乎已经阻止包括 Meta Muse 在内的人工智能代理浏览站内页面，使正在推进的智能体购物又遇到一道限制。",
+      "body_zh": [],
       "facts": [
         {
           "text": "一位读者告诉 The Verge，数周来他一直用 Muse 浏览并整理 eBay 上的手表商品，但本周末 Muse 已无法从 eBay 拉取链接或详情",
@@ -2169,9 +2856,9 @@
       "updated_at": "2026-11-11T00:20:30+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/c4d0871dc4d81c09717198e76f0e839ece4592ed.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "id": "n28b27e2d175e",
@@ -2181,6 +2868,9 @@
       "title": "Google 向公众开放 Gemini 4 Carbon，并预览智能体 swarm 功能",
       "original_title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
       "summary": "据 The Verge 报道，Google 在两周前向网络安全防御者开放 Gemini 4 Carbon 后，现已向付费开发者、企业和 AI Ultra 用户推出。公司称这是其最强模型，并在 Antigravity 平台预览 swarm 功能，可把一条提示变成一组协同工作的智能体。",
+      "title_zh": "谷歌向公众开放 Gemini 4 Carbon",
+      "lead_zh": "The Verge 报道，谷歌在两周前向选定的网络安全防御者提供后，现把 Gemini 4 Carbon 推向公众。公司称这是迄今最强的模型，并超过上一款 Argon。",
+      "body_zh": [],
       "facts": [
         {
           "text": "Gemini 4 Carbon 已通过 Google AI Studio 和 Gemini for business 的 API 向所有付费开发者和企业开放，并向 Google AI Ultra 订阅用户在 Gemini 应用、搜索 AI 模式和 Antigravity 中提供",
@@ -2218,9 +2908,9 @@
       "updated_at": "2026-11-11T00:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/f892de1b3fe46552b4ceff1aa6230ffcf2719283.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
     },
     {
       "id": "n196c0edf93f9",
@@ -2230,6 +2920,9 @@
       "title": "Google 发布两款专用 TPU，分别强化机密计算和内存容量",
       "original_title": "Google broadens its AI hardware portfolio with two new specialized chips",
       "summary": "据 TechCrunch 报道，Google 发布第八代 TPU 的两款新变体：与 AMD 合作的 TPU 8tx 把安全做进硬件，用于机密训练和推理；TPU 8i Max 则相当于把两颗推理芯片封装在一起，以加倍内存、算力和带宽，服务更大工作负载。",
+      "title_zh": "谷歌再发布两款专用人工智能芯片",
+      "lead_zh": "TechCrunch 报道，谷歌周一发布 TPU 8tx 和 TPU 8i Max，用来覆盖机密推理和更大内存两类需求。其中 8tx 与 AMD 一起设计，属于今年 4 月的第八代。",
+      "body_zh": [],
       "facts": [
         {
           "text": "TPU 8tx 与 AMD 合作设计，基于 TPU 8t，面向机密地训练和运行 AI 模型，把安全做进硬件层，使敏感数据和模型权重在使用中仍保持隔离",
@@ -2262,9 +2955,9 @@
       "updated_at": "2026-11-10T23:54:08+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/b356b755a675b9817eb88df35ec74e4fe80e46b2.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800"
     },
     {
       "id": "na92c103556a0",
@@ -2274,6 +2967,9 @@
       "title": "Meta 的 AI 智能体 Muse 登陆 Apple Watch 和 Wear OS",
       "original_title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
       "summary": "据 TechCrunch 报道，Meta 把 AI 智能体 Muse 带到 Apple Watch 和 Android Wear OS，用户可在手表上通过语音通话、短信或口述与它互动。Muse 可连接邮箱和日程等账户，协助订餐、购物等，这是该产品 9 月上线后的又一次扩展。",
+      "title_zh": "Meta 的助手登上苹果和安卓手表",
+      "lead_zh": "报道称，用户现在可以在苹果手表和安卓穿戴系统上，用语音、短信或听写呼唤 Meta 的助手。一个月前，它刚刚推出了平板应用。",
+      "body_zh": [],
       "facts": [
         {
           "text": "用户现在可以在 Apple Watch 和 Wear OS 手表上，通过语音通话、短信或口述与 Muse 互动",
@@ -2306,9 +3002,9 @@
       "updated_at": "2026-11-10T23:29:30+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "image_url": null,
-      "image_source": null,
-      "image_origin_url": null
+      "image_url": "img/bf9e4a4c595d8fb0c83ecfc6cbb6b70b4e4c1c37.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200"
     }
   ]
 }

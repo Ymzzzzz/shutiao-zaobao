@@ -6,6 +6,9 @@
   "title": "当 AI 成为神谕，数学会怎样：新书探讨大规模计算下的数学",
   "original_title": "What happens to mathematics when AI becomes an oracle?",
   "summary": "据 Ars Technica 报道，应用数学家 Steven Strogatz 与 Alex Townsend 出版新书《Big Math》，讨论当计算和 AI 开始处理海量变量时，数学将如何变化。书中回顾了人类把数学外置到工具中的传统，并探讨该如何适应这一变化。",
+  "title_zh": "数学家讨论人工智能成为神谕之后",
+  "lead_zh": "Ars Technica 介绍 Strogatz 与 Townsend 的新书《Big Math》，讨论算法、预报、医学成像和机器学习背后的数学，以及大模型可能让数学超出创造者掌控。",
+  "body_zh": [],
   "facts": [
     {
       "text": "康奈尔大学应用数学家 Steven Strogatz 与 Alex Townsend 合作出版新书《Big Math: The Hidden Codes That Run Our World》",
@@ -33,7 +36,7 @@
   "updated_at": "2026-11-11T04:30:01+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "img/0d3b58ca7faee2d542be4ed0ce6c7d1ab0eb53bc.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-2560x1440.jpg"
 }

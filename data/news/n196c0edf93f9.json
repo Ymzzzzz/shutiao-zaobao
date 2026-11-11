@@ -6,6 +6,9 @@
   "title": "Google 发布两款专用 TPU，分别强化机密计算和内存容量",
   "original_title": "Google broadens its AI hardware portfolio with two new specialized chips",
   "summary": "据 TechCrunch 报道，Google 发布第八代 TPU 的两款新变体：与 AMD 合作的 TPU 8tx 把安全做进硬件，用于机密训练和推理；TPU 8i Max 则相当于把两颗推理芯片封装在一起，以加倍内存、算力和带宽，服务更大工作负载。",
+  "title_zh": "谷歌再发布两款专用人工智能芯片",
+  "lead_zh": "TechCrunch 报道，谷歌周一发布 TPU 8tx 和 TPU 8i Max，用来覆盖机密推理和更大内存两类需求。其中 8tx 与 AMD 一起设计，属于今年 4 月的第八代。",
+  "body_zh": [],
   "facts": [
     {
       "text": "TPU 8tx 与 AMD 合作设计，基于 TPU 8t，面向机密地训练和运行 AI 模型，把安全做进硬件层，使敏感数据和模型权重在使用中仍保持隔离",
@@ -38,7 +41,7 @@
   "updated_at": "2026-11-10T23:54:08+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "img/b356b755a675b9817eb88df35ec74e4fe80e46b2.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800"
 }

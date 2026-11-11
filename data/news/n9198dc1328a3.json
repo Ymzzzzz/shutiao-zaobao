@@ -6,6 +6,9 @@
   "title": "OpenAI 把 ChatGPT 做成企业目录，并推出可回答顾客问题的智能体",
   "original_title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
   "summary": "据 The Decoder 报道，OpenAI 推出测试版「ChatGPT 中的企业」，商家可通过 Business Hub 认领主页、更新信息和商品数据。符合条件的美国电商还可上线 Business Agent，在 ChatGPT 里回答顾客问题。OpenAI 称不会向商家提供用户对话。",
+  "title_zh": "ChatGPT 开始测试商家主页和商务代理",
+  "lead_zh": "The Decoder 报道，商家可以在新的业务中心里认领资料、上传价格和库存，并查看被提及和点击的次数。符合条件的美国电商还能设置直接答问的代理。",
+  "body_zh": [],
   "facts": [
     {
       "text": "商家可通过 Business Hub 注册并管理企业信息，添加含价格和库存的商品数据，并查看被提及次数和网站点击等指标",
@@ -44,7 +47,7 @@
   "updated_at": "2026-11-11T04:17:00+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": ""
 }

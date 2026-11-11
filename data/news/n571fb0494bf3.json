@@ -6,6 +6,41 @@
   "title": "OpenAI 收购旅行初创公司 Odessia，创始人已加入公司",
   "original_title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
   "summary": "据 TechCrunch 报道，OpenAI 已收购 Sonder 创始人 Francis Davidson 创办的 AI 旅行助手 Odessia。官方证实他已加入，但未公布交易金额和旅行产品计划。Odessia 成立约一年，曾获红杉领投的 600 万美元融资，产品现已关闭。",
+  "title_zh": "OpenAI 收购旅行代理创业公司 Odessia",
+  "lead_zh": "报道称，OpenAI 收购了一家旅行代理创业公司，创始人本人也加入买方。交易金额没有披露，上线约五个月的产品已经关闭。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "TechCrunch 报道，人工智能旅行代理 Odessia 的创始人 Francis Davidson 宣布公司已被 OpenAI 收购，他本人也加入 OpenAI，参与旅行方向的工作。交易条款没有披露。这家成立一年的公司完成了由红杉领投的 **600 万美元** 预种子轮，大约五个月前推出产品，现已关闭。Davidson 称它曾帮助早期用户规划价值数百万美元的旅行。",
+        "Davidson 2014 年还创办过短租公司 Sonder，后来通过 SPAC 上市，但融资没有达到他事后所说的需求。与万豪的关键合作破裂后，公司进入破产并停止运营。TechCrunch 称，在跌落之前，Sonder 曾是收入 **1.43 亿美元** 的独角兽。"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "OpenAI 发言人向 TechCrunch 确认了这次聘用，但没有宣布专门的旅行产品。发言人说，每周有 **12 亿** 人用 ChatGPT 处理日常事务，其中包括规划行程，公司认为这些体验还可以更有用。报道也提到，预订网站、Expedia 和 KAYAK 已是其客户或合作伙伴。"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "sources": [
+        "TechCrunch"
+      ],
+      "paras": [
+        "TechCrunch 根据公告内容判断，这更像一次人才收购，因为创始人重点讲述的是自己如何指挥智能体团队做出旅行代理，而不是产品将如何继续运营。实验室对旅行业务的具体计划，文章认为仍要等后续公布。"
+      ]
+    }
+  ],
   "facts": [
     {
       "text": "OpenAI 已收购 AI 旅行助手 Odessia，创始人 Francis Davidson 发帖称自己已加入 OpenAI，协助其旅行方向的工作",
@@ -44,7 +79,7 @@
   "updated_at": "2026-11-11T05:08:52+08:00",
   "status": "normal",
   "summary_mode": "ai",
-  "image_url": null,
-  "image_source": null,
-  "image_origin_url": null
+  "image_url": "img/b0173b13e28c198e0ad26bac26f63352931f6859.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801"
 }
