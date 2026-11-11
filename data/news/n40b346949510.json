@@ -1,0 +1,45 @@
+{
+  "id": "n40b346949510",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": true,
+  "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+  "original_title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+  "summary": "Health & Bioscience",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google Research Blog",
+      "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+      "is_primary": true,
+      "published_at": "2026-11-12T03:54:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T03:54:00+08:00",
+  "updated_at": "2026-11-12T03:54:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "谷歌研究：用可穿戴设备做心肾代谢风险评估",
+  "lead_zh": "谷歌研究博客介绍利用可穿戴设备数据进行心血管、肾脏和代谢综合风险画像，用于个性化健康指导。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌研究博客介绍了利用可穿戴设备评估心血管、肾脏和代谢（CKM）综合征风险的研究。心脏病、肾病以及 2 型糖尿病等代谢疾病并非彼此孤立，而是相互关联，其进展往往在症状出现前多年就悄然开始，并受到运动、睡眠和心血管活动等日常习惯影响。文章强调，及早捕捉这些细微变化，是扭转病情发展趋势的最佳机会。",
+        "文章指出，智能手表能轻松记录昨天做了什么，但从被动记录走向有意义的行动要难得多，比如多睡 **30 分钟**或每天快走一次，三个月后健康会改善多少。单看实际年龄不够，同年出生的人生理健康可能差别很大；现有基于血液检测或可穿戴传感器的生物钟大多不是为日常指导设计的，很多只是在估算出生年份，或像黑箱一样无法说明改变某个习惯的影响。研究想回答的问题之一是：日常习惯此刻正如何影响我的 CKM 风险。"
+      ],
+      "sources": [
+        "Google Research Blog"
+      ]
+    }
+  ],
+  "image_url": "img/ebea633a7bfba9adbb4b23326979b7b5b6eaf4b5.jpg",
+  "image_source": "Google Research Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/CKMHealthHero.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

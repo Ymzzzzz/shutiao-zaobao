@@ -1,0 +1,92 @@
+{
+  "id": "nbad6ee94c356",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "original_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "is_primary": true,
+      "published_at": "2026-11-12T00:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T00:00:00+08:00",
+  "updated_at": "2026-11-12T00:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "谷歌实验项目 Tabletop：为小组打造协作空间",
+  "lead_zh": "Google Labs 推出实验项目 Tabletop，可为团队生成互动行程、投票和对阵表等协作空间，目前开放候补名单申请。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌推出 Google Labs 新实验项目 Tabletop，主打多人实时协作，面向家庭出游规划、业余联赛组织、聚餐安排等需要一群人一起出主意、搭建和做决定的场景。",
+        "用户只需放入链接、文件和想法，然后向 @tabletop 发出指令，或者选择一个起步模板，就能生成定制的互动行程、聚餐投票、费用分摊工具和比赛对阵表。空间建好后，把邀请链接发到群聊里，所有人就可以像使用 Google 文档一样同时进入、一起使用。",
+        "Tabletop 目前以候补名单方式在美国面向 **18** 岁以上用户逐步开放，感兴趣的用户可以在 Google Labs 网站上报名排队。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "谷歌怎么说",
+      "paras": [
+        "据谷歌称，当每个人都能在同一个地方出力、搭建和共同决定时，群体协调会变得更容易，这正是 Tabletop 想解决的问题。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    }
+  ],
+  "image_url": "img/8773f944c5f1971ef50ee2933987f12ca7d91ae3.jpg",
+  "image_source": "Google AI Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
+  "fulltext_status": "ok",
+  "read_minutes": 1,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Roman Nurik",
+    "author_title_zh": "Google Labs 设计与工程负责人",
+    "published_at": "2026-11-11",
+    "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "title_zh": "试试 Tabletop：可定制的协作空间，让群组一起计划、玩乐、做更多事",
+    "dek_en": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "dek_zh": "Tabletop 是 Google Labs 推出的群组协作新实验。和你的团队一起搭建交互式行程、投票和对阵表。加入候补名单。",
+    "word_count_zh": 224,
+    "read_minutes": 1,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "无论是规划家庭旅行、运营业余联赛还是举办聚餐，当每个人都能在同一个地方出力、搭建并共同决定时，群体协作会更轻松。",
+        "en": "Whether you’re planning a family trip, running a rec league or hosting a potluck, coordinating as a group is easier when everyone can pitch in, build and decide together in one place."
+      },
+      {
+        "t": "p",
+        "zh": "今天，我们推出 Tabletop，这是 Google Labs 为实时协作打造的新实验。",
+        "en": "Today, we’re introducing Tabletop, a new Google Labs experiment built for real-time collaboration."
+      },
+      {
+        "t": "p",
+        "zh": "只需加入你的链接、文件和想法，然后向 @tabletop 发出提示，或选择一个入门模板，就能生成定制的交互式旅行行程、聚餐投票、费用分摊器和比赛对阵表。空间准备好后，把邀请链接丢进你的群聊，让所有人同时加入使用，就像在 Google 文档里一样。",
+        "en": "Just add in your links, files, and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters, and tournament brackets. Once your space is ready, drop the invite link in your group chat to let everyone jump in and use it at the same time, like in a Google Doc."
+      },
+      {
+        "t": "p",
+        "zh": "Tabletop 正通过候补名单在美国（18 岁以上）陆续推出。拉把椅子坐下，到 labs.google/tabletop 注册。",
+        "en": "Tabletop is rolling out in the U.S. (18+) via waitlist. Pull up a chair and sign up at labs.google/tabletop."
+      }
+    ]
+  }
+}

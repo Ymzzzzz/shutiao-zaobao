@@ -1,0 +1,55 @@
+{
+  "id": "n52c1a0c9377c",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+  "original_title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+  "summary": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with expli…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+      "is_primary": true,
+      "published_at": "2026-11-11T09:07:19+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T09:07:19+08:00",
+  "updated_at": "2026-11-11T09:07:19+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "月之暗面最新大模型上线亚马逊云平台",
+  "lead_zh": "月之暗面的 Kimi K3.1 Pro 模型已在亚马逊云的 Bedrock 平台上线，可通过兼容 OpenAI 的多种接口调用，并介绍了推理优化方法。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS 宣布月之暗面的 Kimi K3.1 Pro Highspeed 上线 Amazon Bedrock。它属于新的 K3.1 系列，是 Kimi K3 的后训练版本，沿用相同的 3T 级开放权重架构和 **100 万**词元上下文窗口，但投入了多得多的后训练算力。",
+        "该模型与 Bedrock 上的 Kimi K3 使用相同的端点、接口和功能，已在用 Kimi K3 的开发者只需更换模型 ID 即可试用，支持工具调用、结构化输出、可调推理、图像输入和流式输出。AWS 表示数据在其数据边界内处理，不与月之暗面共享、不用于训练模型，推理请求始终零数据留存。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "厂商怎么说",
+      "paras": [
+        "据月之暗面称，额外训练主要针对长周期智能体任务并减少事实错误，同时提升财务建模、办公文档，以及游戏引擎、3D 场景和 CAD 脚本等编程任务的表现；Highspeed 版输出速度是 Kimi K3.1 Pro 的 **2–3 倍**。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/3bc85dc64f7c65260955ede7a1f1a140541ec3df.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-22229-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

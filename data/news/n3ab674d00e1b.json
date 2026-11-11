@@ -1,0 +1,55 @@
+{
+  "id": "n3ab674d00e1b",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+  "original_title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+  "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "is_primary": false,
+      "published_at": "2026-11-11T23:30:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T23:30:00+08:00",
+  "updated_at": "2026-11-11T23:30:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "WIRED：中国的英伟达美人计并不意外",
+  "lead_zh": "WIRED 文章称，美人计是由来已久的情报手段，近年也有高调案例，并追问全球最有权势的 AI 高管为何仍会中招。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED 文章梳理了英伟达首席执行官黄仁勋卷入的间谍丑闻。事件始于万圣节前夕《纽约时报》一篇由六位记者署名的报道，称黄仁勋是一起中国间谍计划的目标：大约从 **2024** 年到 **2025** 年间，他被指与新加坡云服务商 Megaspeed 的前高管 Alice Huang（两人无亲属关系）有婚外情，美国情报机构曾就此发出警告。",
+        "文章提到，政府、军队和情报人员在反间谍培训中常被灌输一句口诀，意思是突然对普通人格外感兴趣的漂亮女性很可能另有目的；美国陆军反情报司令部还曾在情人节发帖调侃美人计。这则消息本周一度引发股价波动。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "WIRED 认为，美人计是由来已久的情报手段，近年也有高调案例；黄仁勋身为身家千亿美元的英伟达掌门人，所在公司是外国情报机构的首要目标之一，他理应清楚这种风险，因此中招更令人意外。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/da59e4423da3024b7383f4592a30124a4202d4e4.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6af3b2cb420c0dad2c15cd3b/master/pass/Jensen-Honeypot-Big-Story-2.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

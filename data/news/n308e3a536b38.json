@@ -1,0 +1,132 @@
+{
+  "id": "n308e3a536b38",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+  "original_title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+  "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far mo…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+      "is_primary": false,
+      "published_at": "2026-11-11T20:12:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T20:12:47+08:00",
+  "updated_at": "2026-11-11T20:12:47+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "OpenAI 季度营收增至 100 亿美元，仍在大量烧钱",
+  "lead_zh": "据 The Decoder 报道，OpenAI 季度营收增长 50% 至 100 亿美元，但调整后经营亏损升至 109 亿美元，经营效率仍不及 Anthropic。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder 援引《华尔街日报》和 The Information 的报道称，OpenAI 第三季度营收环比增长约 **50%**，达到 **100 亿美元**；第二季度增速只有 17% 到 18%，一年前同期营收为 **39 亿美元**。",
+        "尽管营收一年内翻了约三倍，调整后经营亏损仍从 **101 亿美元**小幅升至 **109 亿美元**，这还不含升至 **26 亿美元**的股权激励。调整后经营利润率从第二季度的负 150% 改善到负 109%。",
+        "对手 Anthropic 第三季度营收增长 47% 至 **170 亿美元**，含股权激励的经营亏损只有 **5.67 亿美元**。消费端方面，ChatGPT 周活跃用户达 **12 亿**，付费订阅用户 **1 亿**。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据 OpenAI 总裁 Greg Brockman 称，这是营收的一个惊人转折点，企业业务在第三季度翻倍，已占营收的大头，他还举出摩根大通等大客户为例。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "The Decoder 认为，两家效率差距源于商业模式：Anthropic 专注企业客户和 Claude Code 等工具，OpenAI 则投入机器人等广泛研究并运营昂贵的消费业务，如今正靠降价在企业市场掀起价格战。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "ok",
+  "read_minutes": 2,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Maximilian Schreiner",
+    "author_title_zh": "",
+    "published_at": "2026-11-11",
+    "title_en": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+    "title_zh": "企业销售推动 OpenAI 季度营收达到 100 亿美元，但仍落后于 Anthropic",
+    "dek_en": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling a price war for enterprise customers.",
+    "dek_zh": "OpenAI 季度营收增长 50% 至 100 亿美元，但烧钱仍多于进账。调整后的运营亏损攀升至 109 亿美元，而对手 Anthropic 以 170 亿美元营收运营得高效得多。为缩小差距，OpenAI 正在推动一场争夺企业客户的价格战。",
+    "word_count_zh": 723,
+    "read_minutes": 2,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "在新 AI 模型和企业客户的推动下，OpenAI Q3营收大幅跃升。但运营亏损持续扩大，而对手 Anthropic 在上市前运营得高效得多。",
+        "en": "OpenAI posts a massive Q3 revenue jump, driven by new AI models and enterprise customers. But operating losses keep growing, while rival Anthropic operates far more efficiently ahead of its IPO."
+      },
+      {
+        "t": "p",
+        "zh": "据《华尔街日报》和 The Information 报道，OpenAI Q3营收环比增长约 50%，达到 100 亿美元。Q2营收仅增长了 17% 到 18%。一年前，该公司的营收为 39 亿美元。",
+        "en": "According to reports from the Wall Street Journal and The Information, OpenAI grew its revenue by about 50 percent quarter over quarter in Q3 to $10 billion. In Q2, revenue had grown by just 17 to 18 percent. A year earlier, the company brought in $3.9 billion."
+      },
+      {
+        "t": "p",
+        "zh": "尽管营收在一年内翻了三倍，Q3调整后的运营亏损仍从 101 亿美元小幅上升至 109 亿美元。这一数字不含股权激励，后者已攀升至 26 亿美元。调整后的运营利润率确实有所改善，从Q2的负 150% 升至负 109%。一年前是负 97%。",
+        "en": "Despite tripling revenue within a year, adjusted operating losses rose slightly in Q3 from $10.1 billion to $10.9 billion. That figure doesn't include stock-based compensation, which climbed to $2.6 billion. The adjusted operating margin did improve, going from negative 150 percent in Q2 to negative 109 percent. A year earlier it was negative 97 percent."
+      },
+      {
+        "t": "p",
+        "zh": "这使 OpenAI 落后于行业领头羊 Anthropic，后者计划下周上市。这家 Claude 开发商在Q2的营收就已超过 OpenAI，当时甚至还录得小额运营利润。Q3，Anthropic 营收增长 47% 至 170 亿美元，而包含股权激励的运营亏损仅为 5.67 亿美元。",
+        "en": "That puts OpenAI behind industry leader Anthropic, which plans its IPO next week. The Claude developer already overtook OpenAI on revenue in Q2 and even posted a small operating profit at the time. In Q3, Anthropic grew revenue 47 percent to $17 billion, while its operating loss including stock compensation came to just $567 million."
+      },
+      {
+        "t": "h",
+        "zh": "OpenAI 降价并以新的收入来源争取企业客户",
+        "en": "OpenAI cuts prices and chases enterprise customers with new revenue streams"
+      },
+      {
+        "t": "p",
+        "zh": "效率差距归根结底在于商业模式。Anthropic 重点押注企业客户，以及 Claude Code 和 Claude Cowork 智能体等成功的工具。相比之下，OpenAI 为机器人领域的广泛研究出资，并运营着一项昂贵的消费者业务。",
+        "en": "The efficiency gap comes down to business models. Anthropic focuses heavily on enterprise customers and successful tools like Claude Code and the Claude Cowork agent. OpenAI, by contrast, funds broad research into robotics and runs an expensive consumer business."
+      },
+      {
+        "t": "p",
+        "zh": "为了在企业市场追赶，OpenAI 在今年早些时候重新调整了优先事项。公司停掉了视频应用等项目，把更多资源投入编程工具 Codex，并聘请 Dali Rajic 担任新的销售主管。与此同时，OpenAI 下调了新模型的价格。",
+        "en": "To catch up in the enterprise market, OpenAI reshuffled its priorities earlier this year. The company discontinued projects like a video app, put more resources into its coding tool Codex, and hired Dali Rajic as its new head of sales. At the same time, OpenAI cut prices on new models."
+      },
+      {
+        "t": "p",
+        "zh": "第三方数据显示，企业在寻找比 Claude 更便宜的替代品，这推动了 API 销售。OpenAI 总裁 Greg Brockman 称这是一个不可思议的营收转折点，并提到摩根大通等大客户。Brockman 说，企业业务在Q3翻了一番，目前占营收的大部分。",
+        "en": "Third-party data showed companies seeking cheaper alternatives to Claude, which boosted API sales. OpenAI president Greg Brockman called it an incredible revenue turning point and pointed to major customers like JPMorgan Chase. The enterprise business doubled in Q3 and now accounts for the bulk of revenue, Brockman said."
+      },
+      {
+        "t": "p",
+        "zh": "消费者端也在增长。ChatGPT 现在有 12 亿周活跃用户，在新增 2200 万注册用户后，付费订阅用户达到 1 亿。此外，新的 ChatGPT 广告产品在 8 月达到 10 亿美元的年化收入运行率。",
+        "en": "The consumer side is growing too. ChatGPT now has 1.2 billion weekly active users, with 100 million paying subscribers after 22 million new sign-ups. On top of that, the new ChatGPT ad product hit an annualized revenue run rate of $1 billion in August."
+      },
+      {
+        "t": "p",
+        "zh": "两家竞争对手都感受到了近期金融市场中科技股的抛售。OpenAI 的目标是明年上市，目前正以 1.25 万亿美元的估值融资，但到目前为止筹集的资金不到计划的 300 亿美元的一半。Anthropic 也不得不大幅下调其上市估值目标。",
+        "en": "Both competitors are feeling the recent tech sell-off in the financial markets. OpenAI is targeting an IPO next year and is currently raising fresh capital at a $1.25 trillion valuation, but has so far raised less than half of the planned $30 billion. Anthropic also had to cut its IPO valuation target significantly."
+      }
+    ]
+  }
+}

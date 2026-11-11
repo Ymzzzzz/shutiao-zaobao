@@ -1,0 +1,45 @@
+{
+  "id": "n43095b8b4297",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking",
+  "original_title": "Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking",
+  "summary": "Diffusion language models (DLMs) generate text through iterative denoising, where decisions about which tokens to commit or remask strongly affect output quality. Existing certainty-aware strategies…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.10486",
+      "is_primary": true,
+      "published_at": "2026-11-11T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T08:00:00+08:00",
+  "updated_at": "2026-11-11T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "论文：扩散语言模型的频率感知重掩码推理扩展",
+  "lead_zh": "论文研究扩散语言模型在推理时扩展计算，提出频率感知的重掩码策略，改进去噪过程中提交或重掩哪些词元的决策。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "扩散语言模型通过迭代去噪生成文本，每一步决定提交或重新掩码哪些词元，会显著影响输出质量。现有方法依赖即时置信度或熵，但这类局部信号在困难推理题上可能误导模型。论文把推理时扩展视为对推理算力和解码策略的自适应分配，提出两阶段方法：先用快速基础采样器解决简单题，再对剩下的难题使用频率感知重掩码。",
+        "这一策略跟踪每个词元的预测在去噪步骤中变化的频率，优先提交频繁变化的词元，鼓励采样探索其他推理路径，而不是收敛到模型偏好的轨迹。在 LLaDA-8B-Instruct 和 Dream-7B-Instruct 上，相比强基线，MATH-500 准确率最多提升 **3.73** 和 **7.33** 个百分点，HumanEval 覆盖率最多提升 **11.39** 和 **10.98** 个百分点；对基础策略采样 100 次仍未解出的题，新方法能解出 **3.75%** 到 **18.75%**。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/683680de5afe18b1e69e31bb37f23033d498def8.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.10486.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

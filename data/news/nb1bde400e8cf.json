@@ -1,0 +1,55 @@
+{
+  "id": "nb1bde400e8cf",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+  "original_title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+  "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "is_primary": false,
+      "published_at": "2026-11-12T03:55:54+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T03:55:54+08:00",
+  "updated_at": "2026-11-12T03:55:54+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "记者用 OpenAI 模型教会小机器鸭走路和逗猫",
+  "lead_zh": "WIRED 记者讲述借助 OpenAI 模型教会 Microduck 机器鸭摇摆行走，还让它兼职当起小猫管家，并借此展望机器人未来。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED 记者讲述了自己借助 AI 开发机器人猫管家的经历。他用 OpenAI 的 GPT-6 Sol，教会 Pollen Robotics 和 Hugging Face 推出的小机器人 Microduck 的虚拟版本在房间里走动，并识别附近的孟加拉猫。实体机器人还没到货，但他认为模拟中的行为相对简单，应能迁移到真机上。",
+        "他计划让机器人自动给自家孟加拉猫 Leona 发零食，比如低头从 3D 打印的头戴储物仓里放出一颗。文章还提到，加州大学伯克利分校教授 Ken Goldberg 及其学生在 OpenAI 9 月发布 Astra 后看到其 3D 渲染演示，开始思考它能否帮助训练各类机器人所需的模拟。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据作者称，他只用几个小时就完成了虚拟机器人的编程和训练，以前这类事可能要花几周；他认为这得益于 OpenAI 最新模型很擅长理解和操作物理世界的 3D 表示，并把它转化为代码、智能体动作和机器人训练。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/5b05162389604441a97200f8fa9f6b8437be4ea6.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/master/pass/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

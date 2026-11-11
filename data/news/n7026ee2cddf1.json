@@ -1,0 +1,46 @@
+{
+  "id": "n7026ee2cddf1",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+  "original_title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+  "summary": "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
+      "is_primary": true,
+      "published_at": "2026-11-11T23:50:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T23:50:55+08:00",
+  "updated_at": "2026-11-11T23:50:55+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "AWS 推出跨框架智能体评测系统 UAEF",
+  "lead_zh": "AWS 介绍通用智能体评测框架 UAEF，它把不同框架的运行轨迹转换为统一格式，再用 36 个内置指标打分，实现闭环评测。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS 介绍了通用智能体评测框架 UAEF。在 AWS 上构建智能体的团队会用到 LangGraph、LangChain、Strands Agents 和 Bedrock AgentCore 等不同框架，每个框架记录运行过程的方式各不相同，评测工具往往只针对单一框架的轨迹格式，换框架就要重做指标和打分逻辑。这种耦合让一个基本问题更难回答：改动提示词、模型或工具之后，智能体到底有没有变好。",
+        "UAEF 用适配器把各框架的轨迹转换成统一格式，再用覆盖 **7** 个维度的 **36** 个内置指标打分，维度包括工具调用、回答质量、负责任 AI、性能、多轮对话、多智能体协作和推理，并保存历史结果以便比较不同版本。",
+        "AWS 称，电信、医疗和金融服务行业的 **12** 家机构已用 UAEF 以统一指标评测其 AI 智能体，并在发布前比较不同版本。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/77e54061d1e0d79e816aed207caabce91b63df36.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-21994-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

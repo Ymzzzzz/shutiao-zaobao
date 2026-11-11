@@ -1,0 +1,55 @@
+{
+  "id": "n2f5ac4847b02",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+  "original_title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+  "summary": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substr…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
+      "is_primary": true,
+      "published_at": "2026-11-12T04:45:45+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T04:45:45+08:00",
+  "updated_at": "2026-11-12T04:45:45+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "DXC 在 Amazon Bedrock 上搭建多模型 AI 底座",
+  "lead_zh": "为 70 个国家受监管机构提供托管 IT 服务的 DXC，介绍了如何在受治理的 Bedrock 多模型底座上构建人机协同运营模式 OASIS。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS 博客与 DXC Technology 的 Nick Tamburro 合写文章，介绍 DXC 如何在 Amazon Bedrock 上搭建受治理的多模型底座，支撑其人机协同运营模式 DXC OASIS。DXC 为 **70** 个国家的受监管机构提供关键托管 IT 服务。",
+        "通过单一托管接口，OASIS 可调用 Anthropic Claude、Amazon Nova、Meta Llama 及多个开放权重模型系列；Bedrock Guardrails 对所有模型统一执行内容过滤、个人身份信息脱敏和禁用话题策略，AWS PrivateLink 让推理流量留在客户的虚拟私有云内，无服务器扩展则避免自建 GPU 基础设施成为故障点。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "文章怎么说",
+      "paras": [
+        "文章称，近期一些自主智能体做出操作者未曾预料的破坏性操作，说明真正的风险很少只来自模型本身，而是智能体拥有超出任务所需的权限，架构里却没有任何约束，因此要从基础设施层面治理模型访问。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/bdb93bbca8b01734fd656bd5056009f3aa4186f6.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-21702-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

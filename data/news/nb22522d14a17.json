@@ -1,0 +1,492 @@
+{
+  "id": "nb22522d14a17",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "original_title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "summary": "",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "is_primary": true,
+      "published_at": "2026-11-11T13:01:16+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T13:01:16+08:00",
+  "updated_at": "2026-11-11T13:01:16+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "BotPsy：用十亿参数以下模型做端侧个人助手",
+  "lead_zh": "Hugging Face 博客介绍 BotPsy，一个运行在设备端的个人助手，核心是参数量不足十亿的智能体语言模型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Tether AI Research 在 Hugging Face 博客发布 BotPsy，这是一个 **0.8B** 参数的模型，基于 Qwen3.5-0.8B 打造，专为函数调用和智能体工作流设计，可以部署在设备端运行。",
+        "BotPsy 定位为调用工具完成各种简单任务的个人助手，覆盖网页搜索与调研、出行生活、商业金融、客户运营、设备与车辆控制、文件文档、日历以及邮件消息等领域。由于参数量小，它更适合低到中等难度的任务，模型权重和多种量化版本已公开。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "团队怎么说",
+      "paras": [
+        "据团队称，BotPsy 在同等规模中达到最好的工具使用和智能体表现，超过他们测试过的所有不超过 **1.2B** 参数的模型；在关键基准上智能体能力约为基础模型的两倍，例如 BFCL v4 得分从 **23.4** 提升到 **44.0**。",
+        "团队认为前沿云端大模型运营成本高且可能波动，提供方随时可能修改或停止服务，而很多日常任务并不需要前沿级智能。团队也提醒，小模型仍会出错，不适合高风险用途。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/e11fbf55d1e64e648d0f89808ee0081e60c0105d.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
+  "fulltext_status": "ok",
+  "read_minutes": 15,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-11",
+    "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "title_zh": "BotPsy：基于十亿参数以下智能体语言模型的端侧个人助理",
+    "dek_en": "A Blog post by QVAC on Hugging Face",
+    "dek_zh": "QVAC 在 Hugging Face 上发布的博客文章",
+    "word_count_zh": 5672,
+    "read_minutes": 15,
+    "omitted_note": "原文另有 3 个表格、1 段代码，未收录",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "前沿云端大语言模型的运营成本高昂且可能出现意想不到的波动，依赖这类第三方模型还会带来脆弱性，因为服务商可以随时修改、拒绝或停用访问。此外，专有模型对特定工作流的定制能力有限，同时对隐私、数据控制和透明度构成风险。再者，并非每项任务都需要前沿水平的智能：小型的专用智能体在特定任务上可以同样胜任，运行成本却低得多，因为许多日常或较小的工作负载可以在设备端高效处理。随着每个参数的智能水平持续快速提升，我们希望站在这一转向高性能、注重隐私、自托管模型的潮流前沿。",
+        "en": "Frontier cloud LLMs carry high operational costs that can fluctuate unexpectedly, and relying on such third-party models introduces vulnerabilities, as providers can modify, deny, or deprecate access at any time. Furthermore, proprietary models offer limited customization for specific workflows, while posing risks to privacy, data control, and transparency. Besides, not every task demands frontier-level intelligence: small, specialized agents can be equally capable on specific tasks and significantly cheaper to run, since many routine or smaller workloads can be processed efficiently on-device. As intelligence per parameter continues to improve rapidly, we aim to stand at the forefront of this shift toward performant, privacy-focused, self-hosted models."
+      },
+      {
+        "t": "p",
+        "zh": "Tether AI Research 推出 BotPsy，这是一个 0.8B 参数的模型，专为函数调用和智能体工作流设计，基于 Qwen3.5-0.8B 构建，适合在设备端部署。BotPsy 是一个“个人助理”，使用工具为用户完成各种简单任务，涉及网络搜索与研究、出行与生活方式、商业与金融、业务与客户运营、设备与车辆控制、文件与文档、日历以及邮件与消息等领域。由于参数量较小，它最适合低到中等难度的任务。就其规模而言，BotPsy 实现了最先进（SOTA）的工具使用和智能体性能，超过了我们测试过的所有不超过 1.2B 参数的模型（图 1 和图 2）。它专为安全的设备端工作流设计，在保持用户数据私密的同时，提供出色的指令遵循可靠性和效率。作为一个小模型，BotPsy 仍然会犯错，不适合用于高风险场景；请阅读“预期用途与局限”了解更多信息。",
+        "en": "Tether AI Research introduces BotPsy, a 0.8B-parameter model introduce BotPsy, a 0.8B-parameter model designed for function calling and agentic workflows, built on top of Qwen3.5-0.8B and suitable for on-device deployment. BotPsy is a \"personal assistant\" that uses tools to perform a variety of simple tasks for the user, in domains such as web search & research, travel & lifestyle, commerce & finance, business & customer operations, device & vehicle control, files & documents, calendar, and email & messaging. Due to its small parameter count, it is best suited to tasks of low to medium difficulty. BotPsy achieves state-of-the-art (SOTA) tool-use and agentic performance for its size, outperforming every model of up to 1.2B parameters that we tested (Figures 1 and 2). Designed for secure on-device workflows, it provides exceptional instruction-following reliability and efficiency while keeping user data private. As a small model, BotPsy still makes mistakes and is not intended for high-stakes use; please read the Intended Use and Limitations for more information."
+      },
+      {
+        "t": "p",
+        "zh": "🤗 模型（safetensors） | 📦 GGUF（bf16、Q8、Q4）",
+        "en": "🤗 Model (safetensors) | 📦 GGUFs (bf16, Q8, Q4)"
+      },
+      {
+        "t": "h",
+        "zh": "版权投诉",
+        "en": "Copyright Complaints"
+      },
+      {
+        "t": "p",
+        "zh": "我们会针对版权侵权通知采取适当措施。如果你认为你的作品被以侵犯你知识产权的方式使用或复制，请发送电子邮件至 data-apps@tether.io，说明并描述受版权保护的作品和涉嫌侵权的内容，以提交侵权通知。",
+        "en": "We will take appropriate actions in response to notice of copyright infringement. If you believe your work has been used or copied in a manner that infringes upon your intellectual property rights, please email data-apps@tether.io identifying and describing both the copyrighted work and alleged infringing content to file a notice of infringement."
+      },
+      {
+        "t": "h",
+        "zh": "主要亮点",
+        "en": "Key Highlights"
+      },
+      {
+        "t": "h",
+        "zh": "基准测试结果",
+        "en": "Benchmark results"
+      },
+      {
+        "t": "p",
+        "zh": "• 性能达到基础模型的两倍：BotPsy 在关键基准上把 Qwen3.5-0.8B-Think 的智能体能力大约提高了一倍：BFCL v4 从 23.4 升至 44.0，ACEBench 从 30.1 升至 58.7，τ-bench 从 23.2 升至 51.5（零售、电信和银行子集的平均值）。",
+        "en": "• Twice the performance of its base model: BotPsy roughly doubles the agentic capability of Qwen3.5-0.8B-Think on key benchmarks: BFCL v4 rises from 23.4 to 44.0, ACEBench from 30.1 to 58.7, and τ-bench from 23.2 to 51.5 (mean of the retail, telecom and banking subsets)."
+      },
+      {
+        "t": "p",
+        "zh": "• 同类别中最好的智能体：在全部六项工具使用和智能体基准（BFCL v4、ACEBench、τ-bench、ToolSandbox、Claw-Eval 和 BrowseComp-Plus）上，BotPsy 都优于 ≤1.2B 参数级别的领先模型（Qwen3.5-0.8B-Think、LFM2.5-1.2B-Think、MiniCPM5-1B-Think）。",
+        "en": "• Best agent in its category: BotPsy outperforms leading models in the ≤1.2B-parameter weight class (Qwen3.5-0.8B-Think, LFM2.5-1.2B-Think, MiniCPM5-1B-Think) on all six tool-use and agentic benchmarks: BFCL v4, ACEBench, τ-bench, ToolSandbox, Claw-Eval and BrowseComp-Plus."
+      },
+      {
+        "t": "p",
+        "zh": "• 超过体量更大的同系列模型：在六项基准中的五项上，BotPsy 在所有测试模型中得分最高，在 BFCL v4（44.0 对 37.7）、ACEBench（58.7 对 55.4）、τ-bench（51.5 对 46.5）、ToolSandbox（64.6 对 41.2）和 BrowseComp-Plus（4.5 对 2.8）上击败了体量为其 2.5 倍的 Qwen3.5-2B-Think。只有在 Claw-Eval 上 Qwen3.5-2B-Think 领先（48.9 对 46.5）。",
+        "en": "• Outperforms its larger sibling: BotPsy has the highest score of all models tested on five of the six benchmarks, beating Qwen3.5-2B-Think, a model 2.5× its size, on BFCL v4 (44.0 vs 37.7), ACEBench (58.7 vs 55.4), τ-bench (51.5 vs 46.5), ToolSandbox (64.6 vs 41.2) and BrowseComp-Plus (4.5 vs 2.8). Only on Claw-Eval does Qwen3.5-2B-Think lead (48.9 vs 46.5)."
+      },
+      {
+        "t": "h",
+        "zh": "模型能力",
+        "en": "Model capabilities"
+      },
+      {
+        "t": "p",
+        "zh": "• 在多轮工作流中更可靠：在 τ²-bench 上，智能体必须进行长时间的客户对话、遵循严格的政策并代表客户行动，它在电信场景得分 82.5，领先于 Qwen3.5-2B-Think（69.3）。在 BFCL v4 的多轮任务上，它从基础模型的 7.5 升至 46.1，接近 Qwen3.5-2B-Think（23.8）的两倍。按应用分组，它的多步骤得分在商业与服务（58.3 对 47.4，次优为 Qwen3.5-2B-Think）以及设备与系统管理（46.1 对 31.9）方面领先所有测试模型。",
+        "en": "• More reliable in multi-turn workflows: On τ²-bench, where the agent must hold a long customer conversation, follow a strict policy, and act on the customer's behalf, it scores 82.5 in telecom, ahead of Qwen3.5-2B-Think (69.3). On BFCL v4's multi-turn tasks, it rises from 7.5 to 46.1 over its base, nearly double Qwen3.5-2B-Think (23.8). Grouped by application, its multi-step scores lead all models tested in commerce and services (58.3 vs 47.4 for the next best, Qwen3.5-2B-Think) and in device and system management (46.1 vs 31.9)."
+      },
+      {
+        "t": "p",
+        "zh": "• 知道何时该（不该）调用工具：会行动的智能体也必须知道何时不该行动。在 BFCL v4 的幻觉测试中（检查模型在没有合适工具时是否会拒绝），BotPsy 得分 86.1，是所有测试模型中最高的。在 ACEBench 的特殊情况下（请求不完整、包含错误参数或无法由给定工具满足），它得分 51.3，而其基础模型为 13.7。",
+        "en": "• Knows when (not) to call tools: An agent that acts must also know when not to act. On BFCL v4's hallucination tests, which check that the model declines when no appropriate tool exists, BotPsy scores 86.1, the highest of all models tested. On ACEBench's special cases, where the request is incomplete, contains wrong parameters, or cannot be served by the given tools, it scores 51.3, up from 13.7 for its base model."
+      },
+      {
+        "t": "p",
+        "zh": "• 在遵循指令的同时保留知识：BotPsy 专注于工具使用，同时保留通用技能。指令遵循大幅提升，IFEval 从 59.7 升至 90.8，IFBench 从 22.0 升至 55.9，是所有测试模型中最高的 IFBench 得分。通用知识也有所提升，GPQA Diamond 从 33.2 升至 38.1，MMLU-Pro 从 41.6 升至 48.9。在这四项基准上，BotPsy 都优于我们测试的所有 1.2B 参数及以下的其他模型。",
+        "en": "• Follows instructions while preserving knowledge: BotPsy specializes in tool use while preserving general skills. Instruction following improves sharply, with IFEval rising from 59.7 to 90.8 and IFBench from 22.0 to 55.9, the highest IFBench score of all models tested. General knowledge also improves, with GPQA Diamond rising from 33.2 to 38.1 and MMLU-Pro from 41.6 to 48.9. On all four benchmarks, BotPsy outperforms every other model of 1.2B parameters or fewer that we tested."
+      },
+      {
+        "t": "h",
+        "zh": "安全性、效率与部署",
+        "en": "Safety, efficiency and deployment"
+      },
+      {
+        "t": "p",
+        "zh": "• 比同类别领先模型更安全：在涵盖六类危害的自动化红队测试中，BotPsy 有 21% 的情况下产生不安全回答，而其基础模型为 36%。这是所有不超过 1.2B 参数的模型中最低的比率（LFM2.5-1.2B-Think：35%；MiniCPM5-1B-Think：47%）。在提示注入攻击下（这对读取不可信工具输出的智能体最为重要），不安全比率从基础模型的 46% 降至 31%。",
+        "en": "• Safer than leading models in its category: In automated red-teaming across six harm categories, BotPsy produces unsafe responses 21% of the time, compared with 36% for its base model. This is the lowest rate of all models of up to 1.2B parameters (LFM2.5-1.2B-Think: 35%; MiniCPM5-1B-Think: 47%). Under prompt-injection attacks, which matter most for agents that read untrusted tool outputs, the unsafe rate drops from 46% for its base model to 31%."
+      },
+      {
+        "t": "p",
+        "zh": "• 推理更高效，循环更少：在五个模型都答对的问题上，BotPsy 得出答案所用的推理 token 在 GPQA Diamond 上比其基础模型少约 3 倍（3,690 对 11,563），在 MMLU-Pro 上少 2.7 倍（1,912 对 5,105）。在所有 IFBench 尝试中，它陷入重复推理循环的比率从 22.9% 降至 1.4%，触及 32k token 上限的运行比例从 28.3% 降至 0.2%。更短、更果断的推理应当能降低设备端的延迟。",
+        "en": "• More efficient reasoning and less looping: On questions that all five models answer correctly, BotPsy reaches the answer with about 3× fewer reasoning tokens than its base model on GPQA Diamond (3,690 vs 11,563) and 2.7× fewer on MMLU-Pro (1,912 vs 5,105). Across all IFBench attempts, its rate of getting stuck in repetitive reasoning loops falls from 22.9% to 1.4%, and runs that hit the 32k-token limit fall from 28.3% to 0.2%. Shorter, more decisive reasoning should reduce latency on-device."
+      },
+      {
+        "t": "p",
+        "zh": "• 开源且开箱即用：BotPsy 将以 Apache 2.0 许可证发布开放权重，用于研究和教育用途。它将提供三种精度（bf16、Q8、Q4），包括 Hugging Face safetensors 格式，以及适用于 QVAC SDK 和 llama.cpp 的 GGUF 文件。",
+        "en": "• Open-source and ready to use: BotPsy will be released with open weights under the Apache 2.0 license for research and educational use. It will be available in three precisions (bf16, Q8, Q4), as Hugging Face safetensors and as GGUF files for the QVAC SDK and llama.cpp."
+      },
+      {
+        "t": "h",
+        "zh": "更广阔的愿景",
+        "en": "Broader Vision"
+      },
+      {
+        "t": "p",
+        "zh": "在 BotPsy 的基础上，Tether Data, S.A. de C.V.（“Tether AI Research”、“我们”）未来的开发将侧重于扩展设备端智能体能力，使其与更广泛的硬件和本地服务无缝集成。Tether 的 Hypersearch 将不断演进，以支持更稳健的去中心化点对点（P2P）查询，进一步确保私密、加密、绕开企业追踪器的网络搜索。QVAC Fabric 的本地微调机制将得到优化，以更深入地适应个人用户的偏好、工作流和专门的工具环境。未来的迭代将让智能手机界面在离线与在线切换期间，顺畅地把繁重的计算任务委托给家用 PC 或受信任的安全 P2P 节点。隐私协议将不断加强，以保证所有个人数据、凭据和决策严格保留在本地硬件上。我们还将引入协作功能，允许智能体在受信任的本地网络之间安全通信，而不损害用户保密性。最终，这些进展将使 BotPsy 成为一个完全自主、能力强大的个人 AI 生态系统，让用户完全掌控自己的数字生活。",
+        "en": "Building upon the foundation of BotPsy, future development by Tether Data, S.A. de C.V. (“Tether AI Research”, “we”, “our”) will focus on expanding on-device agentic capabilities to seamlessly integrate with an even broader array of hardware and local services. Tether's Hypersearch will evolve to support more robust decentralized peer-to-peer (P2P) queries, further ensuring private, encrypted web searches that bypass corporate trackers. QVAC Fabric local fine-tuning mechanisms will be optimized to adapt more deeply to individual user preferences, workflows, and specialized tool environments. Future iterations will allow the smartphone interface to smoothly delegate heavy computational tasks to home PCs or trusted secure P2P nodes during offline-online transitions. Privacy protocols will be continuously strengthened to guarantee that all personal data, credentials, and decisions remain strictly on local hardware. Collaborative features will be introduced to allow secure agent-to-agent communication across trusted local networks without compromising user confidentiality. Ultimately, these advancements will solidify BotPsy as a fully autonomous, highly capable personal AI ecosystem that keeps users entirely in control of their digital lives."
+      },
+      {
+        "t": "h",
+        "zh": "方法",
+        "en": "Methodology"
+      },
+      {
+        "t": "p",
+        "zh": "BotPsy 基于 Qwen3.5-0.8B，并经过四个连续阶段的后训练：监督微调（SFT）、多教师在线策略蒸馏（MOPD），以及两轮强化学习（RL）。每个阶段都以上一阶段的最佳检查点为起点，并受益于不同的学习信号：对参考轨迹的模仿、体量大得多的教师模型的 token 分布，以及基于规则的工具调用奖励（见图 3）。",
+        "en": "BotPsy is based on Qwen3.5-0.8B and is post-trained in four sequential stages: Supervised Fine-Tuning (SFT), Multi-teacher On-Policy Distillation (MOPD), and two rounds of Reinforcement Learning (RL). Each stage uses the previous stage's best checkpoint as its starting point and benefits from a different learning signal: imitation of reference trajectories, the token distributions of much larger teacher models, and rule-based tool-calling rewards (see Figure 3)."
+      },
+      {
+        "t": "h",
+        "zh": "训练流程：四个阶段，三类反馈",
+        "en": "Training procedure: four stages, three types of feedback"
+      },
+      {
+        "t": "p",
+        "zh": "我们的方法采用四个训练阶段，从三类信号中学习：示范、专家教师和可验证的奖励。",
+        "en": "Our approach uses four stages of training, which learn from three types of signal: demonstrations, specialist teachers, and verifiable rewards."
+      },
+      {
+        "t": "p",
+        "zh": "从示范中学习（SFT）",
+        "en": "Learning from demonstrations (SFT)"
+      },
+      {
+        "t": "p",
+        "zh": "我们首先在工具使用对话上进行全参数监督微调。这些对话包括来自模拟环境的多轮智能体轨迹、重放的单次、并行和多步调用，以及不应调用任何工具的情况。",
+        "en": "We first perform full-parameter supervised fine-tuning on tool-use conversations. These include multi-turn agent trajectories from simulated environments, replayed single, parallel and multi-step calls, and cases where no tool should be called."
+      },
+      {
+        "t": "p",
+        "zh": "从教师中学习（MOPD）",
+        "en": "Learning from teachers (MOPD)"
+      },
+      {
+        "t": "p",
+        "zh": "接下来，学生模型通过在线策略蒸馏（OPD）进行训练：它生成自己的回答，由专家教师对每个 token 给出反馈，以逐 token 的反向 KL 散度作为训练信号。为构建这些教师，我们先用 RL 训练了三个 Qwen3.5-4B 模型，分别专精于工具使用、通用推理和指令遵循。训练期间，每个提示都会被路由到其中一位教师。这一阶段主要旨在恢复在 SFT 阶段退化的知识和指令遵循能力，不过工具使用指标也有所提升（见图 4）。",
+        "en": "Next, the student is trained with on-policy distillation (OPD): it generates its own responses, and a specialist teacher provides feedback on every token, using the per-token reverse KL divergence as the training signal. To build the teachers, we first RL-trained three Qwen3.5-4B models to specialize in tool use, general reasoning, and instruction following. During training, every prompt is routed to one of these teachers. This stage mainly aims to recover knowledge and instruction following, which degraded during the SFT stage, although the tool-use metrics also increase (see Figure 4)."
+      },
+      {
+        "t": "p",
+        "zh": "从规则和环境中学习（RL 阶段）",
+        "en": "Learning from rules and environments (RL stages)"
+      },
+      {
+        "t": "p",
+        "zh": "最后，模型使用 DAPO [1] 进行强化学习训练，只从规则和验证器计算出的奖励中学习。第一轮侧重于工具调用，辅以指令遵循和 STEM 选择题。与 Tool-N1 [2] 一样，工具调用奖励首先检查推理和工具调用的格式。但它没有采用 Tool-N1 的二元正确性奖励，而是按照 ToolRL [3] 的思路给出细粒度的部分得分，把预测的工具名称、参数名称和参数值与标准答案进行匹配。",
+        "en": "Finally, the model is trained with reinforcement learning using DAPO [1], learning only from rewards computed by rules and verifiers. The first round focuses on tool calling, accompanied by instruction following and STEM multiple-choice questions. As in Tool-N1 [2], the tool-calling reward first checks the reasoning and tool-call format. Instead of Tool-N1's binary correctness reward, however, it gives fine-grained partial credit in the spirit of ToolRL [3], matching the predicted tool names, argument names, and argument values against the ground truth."
+      },
+      {
+        "t": "p",
+        "zh": "第二轮把训练混合扩展到通用领域的可验证任务：数学、代码、知识（选择题）、指令遵循、结构化输出，以及模拟工作场所环境中的多步骤工具使用。尽管这一混合中不包含多轮对话，它仍进一步提升了多轮函数调用能力。",
+        "en": "The second round widens the training mix to general-domain verifiable tasks: math, code, knowledge (multiple-choice) questions, instruction following, structured outputs, and multi-step tool use in a simulated workplace environment. Although this mix contains no multi-turn conversations, it further improves multi-turn function calling."
+      },
+      {
+        "t": "h",
+        "zh": "数据构成",
+        "en": "Data composition"
+      },
+      {
+        "t": "p",
+        "zh": "每个训练阶段使用不同的数据混合（图 5）。SFT 阶段主要侧重工具使用，为后续阶段打好基础。MOPD 的混合结合了工具使用、知识和指令遵循数据，既为进一步提升函数调用，也为恢复 SFT 阶段造成的通用领域退步。第一轮 RL 阶段再次主要侧重工具使用，而第二轮 RL 阶段把比重转向通用领域数据（指令遵循、知识、数学和代码），保留较小比例的工具使用。",
+        "en": "Each stage of training uses a different data mixture (Figure 5). The SFT stage focuses mainly on tool use and prepares the ground for the subsequent stages. The MOPD mixture combines tool-use, knowledge and instruction-following data, both to further improve function calling and to recover the general-domain regressions from the SFT stage. The first RL stage again focuses mainly on tool use, while the second RL stage shifts the balance toward general-domain data (instruction following, knowledge, math and code), keeping a smaller share of tool use."
+      },
+      {
+        "t": "h",
+        "zh": "结果",
+        "en": "Results"
+      },
+      {
+        "t": "h",
+        "zh": "工具使用与智能体",
+        "en": "Tool use & agents"
+      },
+      {
+        "t": "p",
+        "zh": "BotPsy 把其 Qwen3.5-0.8B 基础模型的工具使用性能大约提高了一倍，并在六项智能体基准中的五项上是五个模型中最强的：BFCL v4（44.0 对 23.4）、ACEBench（58.7 对 30.1）、τ-bench（51.5 对 23.2）、BrowseComp-Plus（4.5 对 1.9）和 ToolSandbox（64.6 对 30.5）。在这五项上，它也领先于体量为其 2.5 倍的 Qwen3.5-2B-Think（分别为 37.7、55.4、46.5、2.8 和 41.2；见表 1）。在 Claw-Eval 上，Qwen3.5-2B-Think 领先（48.9 对 46.5）。",
+        "en": "BotPsy roughly doubles the tool-use performance of its Qwen3.5-0.8B base and is the strongest of the five models on five of the six agentic benchmarks: BFCL v4 (44.0 vs 23.4), ACEBench (58.7 vs 30.1), τ-bench (51.5 vs 23.2), BrowseComp-Plus (4.5 vs 1.9) and ToolSandbox (64.6 vs 30.5). On all five, it is also ahead of Qwen3.5-2B-Think, a model 2.5× its size (37.7, 55.4, 46.5, 2.8 and 41.2 respectively; see Table 1). On Claw-Eval, Qwen3.5-2B-Think leads (48.9 vs 46.5)."
+      },
+      {
+        "t": "p",
+        "zh": "表 1：工具使用和智能体基准（0–100，越高越好）。每行最佳得分加粗，次佳加下划线；倍数表示相对于 BotPsy-0.8B 的参数量。平均值为六项基准的未加权平均。评测设置详情见评测脚注。",
+        "en": "Table 1: Tool-use and agentic benchmarks (0–100, higher is better). Best score per row in bold, second best underlined; multipliers give parameter count relative to BotPsy-0.8B. The average is the unweighted mean of the six benchmarks. See Evaluation Footnotes for details of the evaluation setup."
+      },
+      {
+        "t": "h",
+        "zh": "知识",
+        "en": "Knowledge"
+      },
+      {
+        "t": "p",
+        "zh": "工具使用训练没有损失通用知识：GPQA Diamond 从 33.2 升至 38.1，MMLU-Pro 从 41.6 升至 48.9，在 1.2B 参数及以下的模型中最好（LFM2.5-1.2B-Think：35.0 和 39.4；MiniCPM5-1B-Think：15.8 和 40.0）。知识仍主要随参数量扩展，Qwen3.5-2B-Think 的得分高出许多（59.9 和 65.5）。因此，BotPsy 的设计思路是对不知道的事实调用工具，而不是充当知识模型。",
+        "en": "Tool-use training did not cost general knowledge: GPQA Diamond rises from 33.2 to 38.1 and MMLU-Pro from 41.6 to 48.9, the best of the models at 1.2B parameters or below (LFM2.5-1.2B-Think: 35.0 and 39.4; MiniCPM5-1B-Think: 15.8 and 40.0). Knowledge still scales mainly with parameter count, and Qwen3.5-2B-Think scores well above (59.9 and 65.5). BotPsy is therefore designed to call tools for facts it does not know, not to serve as a knowledge model."
+      },
+      {
+        "t": "p",
+        "zh": "表 2：通用知识基准（0–100，越高越好）。每行最佳得分加粗，次佳加下划线。评测设置详情见评测脚注。",
+        "en": "Table 2: General-knowledge benchmarks (0–100, higher is better). Best score per row in bold, second best underlined. See Evaluation Footnotes for details of the evaluation setup."
+      },
+      {
+        "t": "h",
+        "zh": "指令遵循",
+        "en": "Instruction following"
+      },
+      {
+        "t": "p",
+        "zh": "在遵循明确指令方面，BotPsy 是五个模型中最好的：IFEval 90.8（基础模型 59.7；Qwen3.5-2B-Think 80.0）和 IFBench 55.9（基础模型 22.0；Qwen3.5-2B-Think 40.9）。在 Multi-IF 上（测试八种语言、三轮对话中的指令遵循），它得分 67.2，与 Qwen3.5-2B-Think（66.9）和 LFM2.5-1.2B-Think（68.2）相当。它起步最强（第 1 轮 84.3，五个模型中最高），但随着指令累积下降得更快（第 3 轮 51.0，而另外两个模型分别为 56.5 和 56.2）。低资源语言仍是弱项：印地语（24.5）和俄语（57.6）远低于英语、中文、法语、西班牙语、意大利语和葡萄牙语达到的 72–80。",
+        "en": "BotPsy is the best of the five at following explicit instructions: IFEval 90.8 (base 59.7; Qwen3.5-2B-Think 80.0) and IFBench 55.9 (base 22.0; Qwen3.5-2B-Think 40.9). On Multi-IF, which tests instruction following over three turns in eight languages, it scores 67.2, on par with Qwen3.5-2B-Think (66.9) and LFM2.5-1.2B-Think (68.2). It starts strongest (84.3 in turn 1, the highest of the five) but drops faster as instructions accumulate (51.0 in turn 3, vs 56.5 and 56.2 for those two models). Lower-resource languages remain a weakness: Hindi (24.5) and Russian (57.6) are far below the 72–80 reached in English, Chinese, French, Spanish, Italian and Portuguese."
+      },
+      {
+        "t": "p",
+        "zh": "表 3：指令遵循基准（0–100，越高越好）。每行最佳得分加粗，次佳加下划线。评测设置详情见评测脚注。",
+        "en": "Table 3: Instruction-following benchmarks (0–100, higher is better). Best score per row in bold, second best underlined. See Evaluation Footnotes for details of the evaluation setup."
+      },
+      {
+        "t": "h",
+        "zh": "多轮对话",
+        "en": "Multi-turn conversations"
+      },
+      {
+        "t": "p",
+        "zh": "最大的相对提升出现在多轮、有状态的交互中，BotPsy 在五项多轮基准中的四项领先（图 6）。在 BFCL v4 多轮上，它从 7.5 升至 46.1，接近 Qwen3.5-2B-Think（23.8）的两倍；在 ACEBench Agent 上从 7.9 升至 28.3（Qwen3.5-2B-Think：16.2）。在 τ²-bench 上，它在零售场景把基础模型的得分翻了一倍（67.8 对 33.9，以微弱优势领先 65.5 的 Qwen3.5-2B-Think），在电信场景达到 82.5，该场景中智能体需要在多轮对话中引导用户排查故障（MiniCPM5-1B-Think：74.0；Qwen3.5-2B-Think：69.3）。它在单次调用（BFCL non-live：83.0）以及在没有合适工具时不调用工具（BFCL 幻觉：86.1）方面，也是五个模型中最可靠的。",
+        "en": "The largest relative gains come in multi-turn, stateful interaction, where BotPsy leads four of the five multi-turn benchmarks (Figure 6). On BFCL v4 multi-turn it rises from 7.5 to 46.1, nearly double Qwen3.5-2B-Think (23.8), and on ACEBench Agent from 7.9 to 28.3 (Qwen3.5-2B-Think: 16.2). On τ²-bench it doubles its base in retail (67.8 vs 33.9, a narrow lead over Qwen3.5-2B-Think at 65.5) and reaches 82.5 in telecom, where the agent has to guide a user through troubleshooting over many turns (MiniCPM5-1B-Think: 74.0; Qwen3.5-2B-Think: 69.3). It is also the most reliable of the five at single calls (BFCL non-live: 83.0) and at not calling a tool when none fits (BFCL hallucination: 86.1)."
+      },
+      {
+        "t": "h",
+        "zh": "弱点",
+        "en": "Weak spots"
+      },
+      {
+        "t": "p",
+        "zh": "BotPsy 较弱的方面是开放式搜索，以及 Qwen3.5-2B-Think 仍然领先的几个领域。BotPsy 在 BrowseComp-Plus 上的得分 4.5 是五个模型中最好的，但绝对值偏低；在 BFCL 网络搜索（14.0）和记忆（16.3）上，它落后于 Qwen3.5-2B-Think（19.8 和 26.1）。在 Claw-Eval 上，BotPsy 相比基础模型明显提升（46.5 对 39.3），但仍略低于 Qwen3.5-2B-Think（48.9）。在 ACEBench 的特殊情况（不完整或有错误的请求）上，Qwen3.5-2B-Think 也领先（58.0 对 51.3），不过 BotPsy 远高于其基础模型在该项的得分（13.7）。τ³-banking 是 BotPsy 唯一没有领先的多轮基准：没有任何模型得分超过 5（BotPsy 为 4.1，与其基础模型相同；Qwen3.5-2B-Think 为 4.8）。",
+        "en": "BotPsy's weaker spots are open-ended search and a few areas where Qwen3.5-2B-Think still leads. BotPsy's BrowseComp-Plus score of 4.5 is the best of the five, but low in absolute terms, and on BFCL web search (14.0) and memory (16.3) it trails Qwen3.5-2B-Think (19.8 and 26.1). On Claw-Eval, BotPsy improves clearly on its base (46.5 vs 39.3) but remains slightly below Qwen3.5-2B-Think (48.9). On ACEBench's special cases (incomplete or erroneous requests), Qwen3.5-2B-Think is also ahead (58.0 vs 51.3), although BotPsy is far above its base there (13.7). τ³-banking is the one multi-turn benchmark where BotPsy does not lead: no model gets above 5 (BotPsy 4.1, unchanged from its base; Qwen3.5-2B-Think 4.8)."
+      },
+      {
+        "t": "h",
+        "zh": "适用范围：应用级性能拆解",
+        "en": "Where it works: app-level performance breakdown"
+      },
+      {
+        "t": "p",
+        "zh": "BotPsy 可以处理各种用例和场景。图 7 按应用分组拆解了基准场景，把简单场景（单轮、一次工具调用）与复杂场景（多轮或多工具）分开。本节引用的总体得分是对所有场景取平均；图 7 的最后一行是七个分组的未加权平均，因此数字有所不同。",
+        "en": "BotPsy can handle a variety of use cases and scenarios. Figure 7 breaks the benchmark scenarios down by app group, separating simple scenarios (single turn, one tool call) from complex ones (multi-turn or multi-tool). The overall scores quoted in this section are averaged over all scenarios; the bottom row of Figure 7 is an unweighted mean of the seven groups, so its numbers differ."
+      },
+      {
+        "t": "h",
+        "zh": "单次工具调用在各处都表现良好",
+        "en": "Single tool calls work well everywhere"
+      },
+      {
+        "t": "p",
+        "zh": "在每个有意义样本的应用分组中（通信与社交仅有 6 个），简单场景得分都在 70–79。总体而言，BotPsy 得分 75，比其基础模型（54）高约 21 分，略高于 Qwen3.5-2B-Think（70）。",
+        "en": "Simple scenarios score 70–79 in every app group with a meaningful sample (Communication & Social has only 6). Overall, BotPsy scores 75, about 21 points above its base model (54) and slightly above Qwen3.5-2B-Think (70)."
+      },
+      {
+        "t": "h",
+        "zh": "最大的提升在多步骤任务",
+        "en": "The largest gains are in multi-step tasks"
+      },
+      {
+        "t": "p",
+        "zh": "在复杂场景上，BotPsy 总体得分 39.5，其基础模型为 17.9，Qwen3.5-2B-Think 为 30.8。提升最大的是通信与社交（61 对基础模型的 13）、商业与服务（58 对 27）以及设备与系统管理（46 对 15）。Qwen3.5-2B-Think 仅在个人效率与工作方面领先（64 对 58，38 个场景，主要来自 Claw-Eval），MiniCPM5-1B-Think 在通信与社交方面略微领先（61.5 对 60.5）。多步骤任务的得分仍低于单次调用，这仍是更难任务的主要限制。",
+        "en": "On complex scenarios, BotPsy scores 39.5 overall, against 17.9 for its base and 30.8 for Qwen3.5-2B-Think. The gain is largest in Communication & Social (61 vs 13 for the base), Commerce & Services (58 vs 27) and Device & System Management (46 vs 15). Qwen3.5-2B-Think is ahead only in Personal Productivity & Work (64 vs 58, 38 scenarios, mostly Claw-Eval), and MiniCPM5-1B-Think is marginally ahead in Communication & Social (61.5 vs 60.5). Multi-step tasks still score lower than single calls, which remains the main limit for harder tasks."
+      },
+      {
+        "t": "h",
+        "zh": "多步骤信息检索是弱点",
+        "en": "Multi-step information retrieval is the weak spot"
+      },
+      {
+        "t": "p",
+        "zh": "复杂的信息检索与研究场景得分 15（单次调用：79）。其中大多数是 BrowseComp-Plus 的深度研究问题，对这一规模范围内的所有模型来说仍然很难（基础模型：9；Qwen3.5-2B-Think：14）。",
+        "en": "Complex Information Retrieval & Research scenarios score 15 (single calls: 79). Most are BrowseComp-Plus deep-research questions, which stay hard for every model in this size range (base: 9; Qwen3.5-2B-Think: 14)."
+      },
+      {
+        "t": "h",
+        "zh": "推理效率",
+        "en": "Inference efficiency"
+      },
+      {
+        "t": "p",
+        "zh": "BotPsy 用比基础模型少得多的推理得出正确答案，并且在多轮智能体任务上所需轮次更少。这与我们在整个训练过程中对推理效率的明确关注一致。下面所有比较都在相同的问题或任务上进行（即五个模型都答对或解决的那些），因此难度差异不会影响数字。推理 token 使用各模型自己的分词器计数。",
+        "en": "BotPsy reaches correct answers with much less reasoning than its base, and with fewer turns on multi-turn agent tasks. This aligns with our explicit focus on reasoning efficiency throughout training. All comparisons below are made on the same questions or tasks (those that all five models answered correctly or solved), so differences in difficulty do not drive the numbers. Reasoning tokens are counted with each model's own tokenizer."
+      },
+      {
+        "t": "p",
+        "zh": "推理更短，准确率更高。与基础模型相比，BotPsy 在 GPQA Diamond（3,690 对 11,563）、MMLU-Pro（1,912 对 5,105）、IFEval（3,148 对 4,433）和 IFBench（4,204 对 11,576）上，每个正确答案所用的推理 token 少 1.4–3.1 倍，同时在这四项上得分都更高（图 8）。它并非处处都是最短的：LFM2.5-1.2B-Think 在 MMLU-Pro、IFEval 和 IFBench 上写出的推理更短，MiniCPM5-1B-Think 在 IFEval 和 IFBench 上更短，但它们在每一项上的准确率都低于 BotPsy。",
+        "en": "Shorter reasoning, with higher accuracy. Compared with its base, BotPsy uses 1.4–3.1× fewer reasoning tokens per correct answer on GPQA Diamond (3,690 vs 11,563), MMLU-Pro (1,912 vs 5,105), IFEval (3,148 vs 4,433) and IFBench (4,204 vs 11,576), while scoring higher on all four (Figure 8). It is not the shortest model everywhere: LFM2.5-1.2B-Think writes shorter reasoning on MMLU-Pro, IFEval and IFBench, and MiniCPM5-1B-Think on IFEval and IFBench, but at lower accuracy than BotPsy on each."
+      },
+      {
+        "t": "p",
+        "zh": "在多轮智能体任务上轮次比基础模型更少。在五个模型都能解决的 τ²-bench 任务上，BotPsy 所需的助手轮次比其基础模型更少（图 9）：",
+        "en": "Fewer turns than the base on multi-turn agent tasks. On τ²-bench tasks that all five models solve, BotPsy needs fewer assistant turns than its base (Figure 9):"
+      },
+      {
+        "t": "p",
+        "zh": "• τ²-retail：10.7 轮，基础模型为 11.7 轮（少 9%），Qwen3.5-2B-Think 为 10.6 轮。",
+        "en": "• τ²-retail: 10.7 turns, against 11.7 for the base (9% fewer) and 10.6 for Qwen3.5-2B-Think."
+      },
+      {
+        "t": "p",
+        "zh": "• τ²-telecom：13.1 轮，基础模型为 17.6 轮（少 26%），Qwen3.5-2B-Think 为 13.8 轮（少 5%）。",
+        "en": "• τ²-telecom: 13.1 turns, against 17.6 for the base (26% fewer) and 13.8 for Qwen3.5-2B-Think (5% fewer)."
+      },
+      {
+        "t": "p",
+        "zh": "在做到这一点的同时，它通过的任务数是基础模型的 2.0 倍（零售）和 2.6 倍（电信）。MiniCPM5-1B-Think 在零售上使用的轮次更少（8.7），但仅通过 9.9% 的零售任务。",
+        "en": "It does this while passing 2.0× (retail) and 2.6× (telecom) as many tasks as the base. MiniCPM5-1B-Think uses fewer turns on retail (8.7), but passes only 9.9% of retail tasks."
+      },
+      {
+        "t": "h",
+        "zh": "预期用途与局限",
+        "en": "Intended Use and Limitations"
+      },
+      {
+        "t": "p",
+        "zh": "BotPsy 的开发旨在推进技术水平并支持研究和教育用途。基于我们的工作开发的模型可能适合以下领域的任务：设备与系统管理（设置、文件与文档、时钟与闹钟）、个人效率与工作（日历与任务、邮件、协作工具）、通信（消息）、信息检索与研究（网络搜索、天气、新闻）、媒体与生活方式（视频、音乐、食谱与健身、照片）以及商业与服务（地图与出行、金融、购物与配送）。由于参数量较小，它最适合低到中等难度的任务。",
+        "en": "BotPsy has been developed to advance the state of the art and to support research and educational uses. Models developed based on our work could be suitable for tasks in domains such as device & system management (settings, files & documents, clocks & alarms), personal productivity & work (calendar & tasks, email, collaboration tools), communication (messaging), information retrieval & research (web search, weather, news), media & lifestyle (video, music, recipes & fitness, photos) and commerce & services (maps & travel, finance, shopping & delivery). Due to its small parameter count, it is best suited to tasks of low to medium difficulty."
+      },
+      {
+        "t": "p",
+        "zh": "BotPsy 主要以英语进行训练和测试，英语也是推荐使用的语言。它还在涵盖另外七种语言（中文、法语、印地语、意大利语、葡萄牙语、俄语和西班牙语）的 Multi-IF 上进行了评测：它在大多数语言中表现良好，但在印地语和俄语中得分低得多。BotPsy 是一个小型语言模型，它会犯错。它不适用于安全攸关或高风险的自动化决策，也不适用于涉及金钱、个人信息、健康及其他敏感话题的应用。",
+        "en": "BotPsy has been primarily trained and tested in English, which is the recommended language. It has also been evaluated on Multi-IF, which covers seven additional languages (Chinese, French, Hindi, Italian, Portuguese, Russian and Spanish): it performs well in most of them, but scores much lower in Hindi and Russian. BotPsy is a small language model, and it makes mistakes. It is not intended for safety-critical or high-stakes automated decisions, or for applications involving money, personal information, health and other sensitive topics."
+      },
+      {
+        "t": "h",
+        "zh": "引用",
+        "en": "Citation"
+      },
+      {
+        "t": "h",
+        "zh": "参考文献",
+        "en": "References"
+      },
+      {
+        "t": "p",
+        "zh": "[1] Yu, Qiying, et al. \"DAPO: An Open-Source LLM Reinforcement Learning System at Scale.\" Advances in Neural Information Processing Systems 38 (2025): 113222–113244.",
+        "en": "[1] Yu, Qiying, et al. \"DAPO: An Open-Source LLM Reinforcement Learning System at Scale.\" Advances in Neural Information Processing Systems 38 (2025): 113222–113244."
+      },
+      {
+        "t": "p",
+        "zh": "[2] Zhang, Shaokun, et al. \"Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning.\" International Conference on Learning Representations (2026).",
+        "en": "[2] Zhang, Shaokun, et al. \"Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning.\" International Conference on Learning Representations (2026)."
+      },
+      {
+        "t": "p",
+        "zh": "[3] Qian, Cheng, et al. \"ToolRL: Reward is All Tool Learning Needs.\" Advances in Neural Information Processing Systems 38 (2025).",
+        "en": "[3] Qian, Cheng, et al. \"ToolRL: Reward is All Tool Learning Needs.\" Advances in Neural Information Processing Systems 38 (2025)."
+      },
+      {
+        "t": "h",
+        "zh": "评测脚注",
+        "en": "Evaluation Footnotes"
+      },
+      {
+        "t": "p",
+        "zh": "• 所有分数均为百分比（越高越好）。",
+        "en": "• All scores are percentages (higher is better)."
+      },
+      {
+        "t": "p",
+        "zh": "• 所有模型均在思考（推理）模式下评测。",
+        "en": "• All models were evaluated in thinking (reasoning) mode."
+      },
+      {
+        "t": "p",
+        "zh": "• 所有使用外部 API 的基准均于 2026 年 11 月 3 日运行。",
+        "en": "• All benchmarks that use an external API were run on November 3, 2026."
+      },
+      {
+        "t": "p",
+        "zh": "• ¹ BFCL v4：总分按官方加权公式计算（40% Agentic、30% Multi-Turn、10% Live、10% Non-Live、10% Hallucination），3 次运行的平均值。",
+        "en": "• ¹ BFCL v4: overall score calculated using the official weighted formula (40% Agentic, 30% Multi-Turn, 10% Live, 10% Non-Live, and 10% Hallucination), averaged over 3 runs."
+      },
+      {
+        "t": "p",
+        "zh": "• ² ACEBench：总体准确率。所有模型均在函数调用（FC）模式下评测；2 次运行的平均值。",
+        "en": "• ² ACEBench: overall accuracy. All models were evaluated in function-calling (FC) mode; mean of 2 runs."
+      },
+      {
+        "t": "p",
+        "zh": "• ³ τ-bench：τ²-bench（零售、电信）与 τ³-bench（银行）的平均值，不含航空；3 次运行的平均值。",
+        "en": "• ³ τ-bench: average of τ²-bench (retail, telecom) and τ³-bench (banking), excluding airline; mean of 3 runs."
+      },
+      {
+        "t": "p",
+        "zh": "• ⁴ Claw-Eval：官方平均任务得分，每个任务的得分为 安全性 × (0.8 × 完成度 + 0.2 × 稳健性)；3 次运行的平均值。",
+        "en": "• ⁴ Claw-Eval: official average task score, where each task scores safety × (0.8 × completion + 0.2 × robustness); mean of 3 runs."
+      },
+      {
+        "t": "p",
+        "zh": "• ⁵ BrowseComp-Plus：准确率，所有模型最多 30 步。",
+        "en": "• ⁵ BrowseComp-Plus: accuracy, with a maximum of 30 steps for all models."
+      },
+      {
+        "t": "p",
+        "zh": "• ⁶ ToolSandbox：8 种设置下的平均相似度得分。",
+        "en": "• ⁶ ToolSandbox: mean similarity score over 8 settings."
+      },
+      {
+        "t": "p",
+        "zh": "• ⁷ GPQA Diamond：全部 198 个问题上的准确率，3 次运行的平均值，开启思考。",
+        "en": "• ⁷ GPQA Diamond: accuracy over all 198 questions, mean of 3 runs, thinking enabled."
+      },
+      {
+        "t": "p",
+        "zh": "• ⁸ MMLU-Pro：准确率。",
+        "en": "• ⁸ MMLU-Pro: accuracy."
+      },
+      {
+        "t": "p",
+        "zh": "• ⁹ IFEval、IFBench：提示级严格准确率。",
+        "en": "• ⁹ IFEval, IFBench: prompt-level strict accuracy."
+      },
+      {
+        "t": "p",
+        "zh": "• ¹⁰ Multi-IF：3 次运行的平均值。",
+        "en": "• ¹⁰ Multi-IF: average of 3 runs."
+      }
+    ]
+  }
+}

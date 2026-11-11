@@ -1,0 +1,65 @@
+{
+  "id": "n850c0644106f",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": false,
+  "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+  "original_title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+  "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thir…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "is_primary": false,
+      "published_at": "2026-11-12T03:54:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T03:54:00+08:00",
+  "updated_at": "2026-11-12T03:54:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "CoreWeave 靠客户预付款和短期合同为扩张融资",
+  "lead_zh": "据 CoreWeave 三季度财报，公司越来越多要求客户预付、以具体合同抵押借款，并考虑可能带来更高价格的短期合同。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 TechCrunch 报道，出租 AI 算力的云服务商 CoreWeave 在周二公布的第三季度财报中披露，正在改变为扩张融资的方式：越来越多地要求客户预付、以具体客户合同为抵押借款，甚至寻求可能带来更高价格的短期合同。",
+        "该季度 CoreWeave 营收 **36.6 亿美元**，同比增长 **168%**，但净亏损 **7.09 亿美元**，季度利息支出 **8.46 亿美元**。公司积压订单达 **1325 亿美元**，预计未来三个月将收到约 **90 亿美元**客户预付款和押金，其中超过 30 亿美元与已建成产能的新合同有关，无需额外硬件投入。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据 CoreWeave 首席执行官 Michael Intrator 在财报电话会上称，公司不会以当前收益率利用无担保债券市场为业务融资，也没有这个必要。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "TechCrunch 认为，这些做法能让 CoreWeave 更高效地为增长融资，并从现有基础设施中榨取更多现金，但前提是当前的需求和定价能力能够持续。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/819aa5df3021da4cc5bbe86190a96ccd919af253.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

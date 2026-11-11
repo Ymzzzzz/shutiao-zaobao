@@ -1,0 +1,45 @@
+{
+  "id": "nd2296a64c0dc",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "original_title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "summary": "",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "is_primary": true,
+      "published_at": "2026-11-11T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T08:00:00+08:00",
+  "updated_at": "2026-11-11T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "多向量嵌入模型的词元池化感知训练方法",
+  "lead_zh": "Hugging Face 博客介绍一种面向多向量嵌入模型的训练方法，在训练阶段就考虑词元池化，以适配压缩后的检索表示。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Hugging Face 博客介绍了多向量嵌入模型的词元池化感知训练。多向量模型让查询中的每个词元都有机会在文档中找到匹配，表达力强，但文档向量会迅速膨胀，数百万篇文档的语料可能包含数亿个向量。词元池化通过合并相似的词元向量来压缩表示，但压缩越激进，越容易丢失有用信息。",
+        "池化感知训练让编码器学会在向量被合并时保留关键信息，从而在相同存储预算下检索得更好。作者用 Sentence Transformers 训练了一个用于压缩检索的模型：在 pool_factor 为 4、文档向量减少 **4 倍**时，常规训练的模型保留了未池化时 NanoBEIR nDCG@10 的 **94.6%**，池化感知训练则把这一比例提高到 **97.8%**。这篇文章借鉴了 Stefan Josef 的 Learn to Pool 研究和 LightOn 的池化正则化研究。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/e08c69fedc28b9d18417529bcae64af657c46676.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

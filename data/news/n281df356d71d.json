@@ -1,0 +1,137 @@
+{
+  "id": "n281df356d71d",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+  "original_title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+  "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+      "is_primary": false,
+      "published_at": "2026-11-11T21:51:11+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T21:51:11+08:00",
+  "updated_at": "2026-11-11T21:51:11+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "美国数据商向中国 AI 实验室出售约五亿美元训练数据",
+  "lead_zh": "据 ChinaTalk 调查，Mercor、Surge AI、AfterQuery 等美国数据商向中国实验室出售了约五亿美元的 AI 训练数据，含强化学习训练环境。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 The Decoder 援引 ChinaTalk 的调查，Mercor、Surge AI、AfterQuery 和 Turing 等美国数据公司向中国 AI 实验室出售了价值约 **5 亿美元**的训练数据，调查共发现至少 **9** 家美国数据公司向中国客户供货。",
+        "其中一部分是强化学习环境，即让模型在编程、金融分析、办公等具体任务上训练的模拟世界。报道称中国实验室会刻意购买此前卖给 Anthropic 或 OpenAI 的同款产品，以省去自研成本和无效训练。",
+        "这些交易部分通过离岸架构进行，字节跳动在新加坡和圣何塞设有采购办公室。由于强化学习环境基本不受监管，出口管制几乎覆盖不到。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "调查怎么说",
+      "paras": [
+        "据 ChinaTalk 称，相关业务关系是通过匿名信源以及分包商操作疏忽曝光的：美国数据公司把大量工作外包给印度等发展中国家的低薪工人，这些分包商有时会在领英或简历上写出客户名称。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "paras": [
+        "报道指出，编程类环境可能增强网络攻击能力，生物类环境可能提升基因合成能力，具有两用风险；再加上用 GPT、Claude 输出做蒸馏，中国实验室能以更少算力缩小差距。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/f96a4be3f3e2021e57fab2a1855179e791ae8321.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/06/china_vs_usa_ai_race.png",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Maximilian Schreiner",
+    "author_title_zh": "",
+    "published_at": "2026-11-11",
+    "title_en": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+    "title_zh": "美国数据中介向中国 AI 实验室出售价值 5 亿美元的强化学习训练环境",
+    "dek_en": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and export controls barely apply.",
+    "dek_zh": "据 ChinaTalk 的一项调查，Mercor、Surge AI 和 AfterQuery 等美国数据中介正向中国实验室出售价值约 5 亿美元的 AI 训练数据，其中包括此前为 OpenAI 或 Anthropic 打造的同一批强化学习环境。至少有 9 家公司牵涉其中，出口管制几乎不适用。",
+    "word_count_zh": 873,
+    "read_minutes": 3,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "美国数据中介向中国 AI 实验室出售所谓的强化学习（RL）环境，帮助它们在模型开发中节省算力。ChinaTalk 的一项调查查明至少有 9 家公司牵涉其中。",
+        "en": "American data brokers sell so-called RL environments to Chinese AI labs, helping them save compute during model development. A ChinaTalk investigation identifies at least nine companies involved."
+      },
+      {
+        "t": "p",
+        "zh": "据 ChinaTalk 的一项调查，Mercor、Surge AI、AfterQuery 和 Turing 等美国数据公司正向中国 AI 实验室出售价值约 5 亿美元的训练数据。其中一部分数据以强化学习环境的形式出现，即让 AI 模型在编程、财务分析或办公等特定任务上训练的模拟世界。",
+        "en": "American data firms like Mercor, Surge AI, AfterQuery, and Turing are selling roughly half a billion dollars' worth of training data to Chinese AI labs, according to an investigation by ChinaTalk. Some of that data takes the form of reinforcement learning environments, which are simulated worlds where AI models are trained on specific tasks like coding, financial analysis, or office work."
+      },
+      {
+        "t": "p",
+        "zh": "报告称，中国实验室有意购买此前卖给 Anthropic 或 OpenAI 的同样产品。这样，它们已经知道这些数据有效，可以跳过昂贵的自主开发和浪费的训练运行。由于中国芯片存在严重的内存瓶颈，这些节省对那里的实验室尤其宝贵。",
+        "en": "Chinese labs deliberately buy the same products previously sold to Anthropic or OpenAI, the report says. That way, they already know the data works and can skip costly in-house development and wasted training runs. Because Chinese chips suffer from acute memory bottlenecks, those savings are particularly valuable for labs there."
+      },
+      {
+        "t": "p",
+        "zh": "还有蒸馏的问题。中国实验室把 GPT 或 Claude 等强大的美国模型当作“老师”，用它们的输出作为训练样本。再加上购买的 RL 环境，形成了双重优势，让中国实验室用更少的自有算力缩小差距。",
+        "en": "There is also the issue of distillation. Chinese labs use powerful US models like GPT or Claude as \"teachers,\" using their outputs as training examples. Combined with purchased RL environments, this creates a two-pronged advantage that lets Chinese labs close the gap with less compute of their own."
+      },
+      {
+        "t": "h",
+        "zh": "至少查明 9 家公司",
+        "en": "At least nine firms identified"
+      },
+      {
+        "t": "p",
+        "zh": "作者查明至少有 9 家向中国客户销售的美国数据公司。据报道，AfterQuery 的年度经常性收入中有相当大一部分来自中国客户。ChinaTalk 引用了《福布斯》关于约 1 亿美元年度经常性收入（ARR）的报道，但无法独立核实这些销售。",
+        "en": "The authors identified at least nine US data firms selling to Chinese customers. AfterQuery reportedly draws a significant share of its annual recurring revenue from Chinese customers. ChinaTalk points to Forbes reports of about $100 million in ARR but could not independently verify the sales."
+      },
+      {
+        "t": "p",
+        "zh": "Surge AI 在其网站上公开宣传其产品“由为我们前沿实验室工作提供支持的同一批专家打造”。这些交易还通过离岸结构进行。字节跳动在新加坡和圣何塞设有采购办公室。",
+        "en": "Surge AI openly advertises on its website that its products are \"built by the same experts behind our frontier-lab work.\" The deals also run through offshore structures. ByteDance maintains procurement offices in Singapore and San Jose."
+      },
+      {
+        "t": "p",
+        "zh": "据 ChinaTalk 称，这些商业关系是通过匿名消息来源和分包商糟糕的运营保密措施曝光的。美国数据公司把大量实际的 RL 环境创建和数据整理工作外包给发展中国家（尤其是印度）的低薪工人。这些分包商有时会在领英或简历上贴出客户名称，尽管他们本应只使用代号。出口管制几乎不适用，因为 RL 环境基本上仍不受监管。",
+        "en": "These business relationships came to light through a combination of anonymous sources and sloppy operational security among subcontractors, according to ChinaTalk. The US data firms outsource much of the actual RL environment creation and data curation to low-paid workers in developing countries, especially India. Those subcontractors then sometimes post client names on LinkedIn or in résumés, even though they are supposed to use only code names. Export controls barely apply because RL environments remain largely unregulated."
+      },
+      {
+        "t": "h",
+        "zh": "编程和生物领域引发两用担忧",
+        "en": "Coding and biology raise dual-use concerns"
+      },
+      {
+        "t": "p",
+        "zh": "具有两用潜力的领域带来特别的风险：编程环境能改进软件开发，但也可能增强进攻性网络能力。生物环境可能提升基因合成能力，并可能增强与生物武器相关的应用。ChinaTalk 的作者认为，工业与安全局应对这些两用环境适用现有的出口管制。",
+        "en": "Domains with dual-use potential pose particular risks: Coding environments improve software development but can also sharpen offensive cyber capabilities. Biology environments could improve gene synthesis capabilities and potentially enhance bioweapons-relevant applications. The ChinaTalk authors argue that the Bureau of Industry and Security should subject these dual-use environments to existing export controls."
+      },
+      {
+        "t": "p",
+        "zh": "同时，作者强调这些关系并非末日景象。从结构上看，中国实验室靠搭美国工作的便车，仍至少落后美国同行几个月。作者称，生物、化学、网络安全、芯片设计和投资银行等领域的敏感环境，越来越多地由美国前沿公司在内部自行构建。",
+        "en": "At the same time, the authors stress that these relationships are not apocalyptic. By piggybacking on US work, Chinese labs still trail their US peers by at least a few months as a structural matter. Sensitive environments in areas like biology, chemistry, cybersecurity, chip design, and investment banking are increasingly being built in-house at American frontier companies, the authors say."
+      }
+    ]
+  }
+}

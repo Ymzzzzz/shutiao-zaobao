@@ -1,0 +1,55 @@
+{
+  "id": "n6f3c74a04fea",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+  "original_title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+  "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "is_primary": false,
+      "published_at": "2026-11-12T03:34:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T03:34:55+08:00",
+  "updated_at": "2026-11-12T03:34:55+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "英国芯片公司 Fractile 完成 7.2 亿美元融资",
+  "lead_zh": "英国 AI 芯片初创公司 Fractile 完成 7.2 亿美元融资，跻身专用 AI 芯片赛道中融资最多的公司之列。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英国 AI 芯片初创公司 Fractile 完成 **7.2 亿美元** C 轮融资，英国主权 AI 基金参与支持，领投方包括 Thrive Capital、Founders Fund、Lightspeed Venture Partners 和 Redpoint。这使它与 Axelera、Etched、OLIX 等一起跻身专用 AI 芯片赛道融资最多的初创公司之列。",
+        "据英国政府说法，此轮估值超过 **50 亿英镑**，英国《金融时报》和路透社信源报道约为 **70 亿美元**。Fractile 采用全栈路线，除硬件外还开发机器学习编译器，以加快大模型在其芯片上的运行；转型后的设计把常见的 DRAM 堆叠在每颗芯片上方，希望绕开内存与容量之间的取舍。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据 Fractile 首席执行官 Walter Goodwin 在领英上称，公司前面还有很多工作，新资金将让公司在明年交付首批芯片和系统。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/afcce761d00238fd4fc6a3d051ca4dff543cb498.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

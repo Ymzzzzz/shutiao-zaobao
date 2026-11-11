@@ -1,0 +1,33 @@
+{
+  "id": "nae5556d61c0b",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "Why the data center you dread might never even be built",
+  "original_title": "Why the data center you dread might never even be built",
+  "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, t…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "is_primary": false,
+      "published_at": "2026-11-12T04:15:15+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T04:15:15+08:00",
+  "updated_at": "2026-11-12T04:15:15+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "你担心的数据中心，可能根本建不起来",
+  "lead_zh": "TechCrunch 分析称，数据中心热潮正遭遇地方反对、审批拖延和电力争夺等现实阻碍，许多规划项目可能最终无法落地。",
+  "body_zh": [],
+  "image_url": "img/2aac58ae8e89d2dd4d7e7ca01e2f3fa6bd7f2dfd.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

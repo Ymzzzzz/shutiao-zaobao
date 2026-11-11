@@ -1,0 +1,55 @@
+{
+  "id": "na7761420660d",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "A Startup Wants to Fight AI Bioweapons With AI",
+  "original_title": "A Startup Wants to Fight AI Bioweapons With AI",
+  "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "is_primary": false,
+      "published_at": "2026-11-12T01:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T01:00:00+08:00",
+  "updated_at": "2026-11-12T01:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "初创公司想用 AI 对抗 AI 生物武器",
+  "lead_zh": "WIRED 报道，Radical Numerics 开发了一个模型，称能在不联网的情况下识别天然及 AI 设计的病原体。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 WIRED 报道，总部位于旧金山的初创公司 Radical Numerics 周三发布端侧模型 Omnii Defense，只需一台笔记本电脑和一个 USB 基因测序仪，就能标记天然的和 AI 设计的病原体，并且可以离线运行，方便网络不稳定的野外研究人员使用。",
+        "公司创始团队曾在斯坦福大学读博期间参与开源 DNA 基础模型 Evo 和 Evo-2 的研发，于 **2025** 年创立公司。此前公司推出了基因组语言模型 Omnii，它除 DNA 外还利用 RNA、蛋白质和表观遗传信号等生物信息；10 月公司宣布用 Omnii 设计了定制噬菌体。报道也提到，许多科学家认为 AI 制造生物武器的可能性较低。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据联合创始人兼首席执行官 Eric Nguyen 称，生物防御领域正迎来类似网络安全的军备竞赛，攻防双方都在借助 AI 争取优势，而生物安全在防御一侧已经远远落后。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/e280d71009ea74e17328dd2f78a40ba21fd0be7b.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6af2619c5a9cd51895c4c0be/master/pass/science_ai_fight_bioweapon.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "n3beb9de1922e",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Automating AWS Agent Registry updates with push-based architecture",
+  "original_title": "Automating AWS Agent Registry updates with push-based architecture",
+  "summary": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server cha…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
+      "is_primary": true,
+      "published_at": "2026-11-12T04:52:48+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T04:52:48+08:00",
+  "updated_at": "2026-11-12T04:52:48+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "AWS 教程：用推送架构自动更新智能体注册表",
+  "lead_zh": "AWS 博客演示如何借助云端审计日志、事件总线、无服务器函数和身份服务搭建事件驱动流水线，在服务器变化时自动更新智能体注册表。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS 博客介绍如何让 AWS Agent Registry（Amazon Bedrock AgentCore 的一项功能）自动保持最新。每当注册表中发布的 MCP 服务器新增工具或更新接口定义，注册记录都要同步更新，否则使用方看到的就是过时的元数据。",
+        "文章指出，如果工程师给 MCP 服务器加了工具却忘了更新目录，使用方会完全错过新能力，应用也可能按旧的接口定义调用工具，导致意外的运行行为或悄无声息的流程偏差。久而久之，团队会退回到硬编码端点、口口相传和过期文档等临时做法。",
+        "为此，文章给出一套事件驱动方案，结合 CloudTrail、EventBridge、Lambda 和 AgentCore Identity，在检测到服务器变化后自动推送更新注册记录。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/a73df01aabe1408cbe3aab0744dcdb1ea14cf444.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21088-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

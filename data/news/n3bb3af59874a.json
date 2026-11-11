@@ -1,0 +1,45 @@
+{
+  "id": "n3bb3af59874a",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+  "original_title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+  "summary": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepg…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+      "is_primary": true,
+      "published_at": "2026-11-11T23:10:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T23:10:23+08:00",
+  "updated_at": "2026-11-11T23:10:23+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "SageMaker 双向流式推理支持按用量计费",
+  "lead_zh": "AWS Marketplace 现支持对 SageMaker 双向流式推理按实际用量计量，模型提供商可按客户在实时流中的真实消耗收费。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS 宣布 Amazon SageMaker AI 双向流式推理支持按用量计量。此前，在 SageMaker 上部署流式模型的客户要为托管模型的端点基础设施付费，而在 AWS Marketplace 上架的模型提供商缺少按实时流中实际消耗收费的办法；现在提供商可以上报真实用量，用于 Marketplace 的软件费用结算，端点基础设施费用仍照常收取。",
+        "实时语音 AI 公司 Deepgram 是首发合作伙伴，在 AWS Marketplace 上推出按用量计费的语音转文字和文字转语音服务。此前双方已先后推出 SageMaker 实时推理的双向流式支持、基于 IAM 临时委托的企业安全认证以及增强的监控指标，这次的计量功能让计费方式与流式和实时 AI 负载的实际使用方式对齐。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/c1694838dbde36a60a8170d4de6d30b326dc6c92.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/28/ML-21045-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

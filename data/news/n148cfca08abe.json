@@ -1,0 +1,56 @@
+{
+  "id": "n148cfca08abe",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
+  "original_title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
+  "summary": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
+      "is_primary": false,
+      "published_at": "2026-11-12T03:35:11+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T03:35:11+08:00",
+  "updated_at": "2026-11-12T03:35:11+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "美国企业 AI 支出 10 月创新高，但增速放缓",
+  "lead_zh": "据 Ramp AI 指数，10 月美国企业 AI 支出仅增长 1.65%，OpenAI 和 Anthropic 八成收入仍来自 1% 的公司。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 The Decoder 报道，跟踪金融服务商 Ramp 企业客户 AI 支出的 Ramp AI 指数显示，2026 年 10 月美国企业 AI 支出创下新高，但环比仅增长 **1.65%**。",
+        "AI 支出最高的前 1% 企业每名员工每月支出中位数为 **10200 美元**，增长 9%；普通企业则只有 **16.32 美元**，比上月增加不到 1 美元。企业客户在 OpenAI 上的支出环比增长 **2.1%**，Anthropic 只有 **0.5%**。同期每百万文本词元的平均价格下降了 **21%**。",
+        "该指数基于超过 **8.5 万**家美国企业的支付数据，但可能漏掉免费工具和个人账户的使用，且客户群偏向成长型、懂技术的大公司，AI 普及程度可能被高估。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "Ramp 怎么说",
+      "paras": [
+        "据 Ramp 首席经济学家 Ara Kharazian 称，他此前指出的结构性风险依然存在：1% 的企业贡献了 OpenAI 和 Anthropic 八成收入，这些企业主要是科技、金融和技术服务领域的风投支持公司，在这些行业之外 AI 几乎没有扩散。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

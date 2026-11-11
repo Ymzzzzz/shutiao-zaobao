@@ -1,0 +1,55 @@
+{
+  "id": "nddb95c61a535",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+  "original_title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+  "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult proble…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "is_primary": false,
+      "published_at": "2026-11-11T23:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T23:00:00+08:00",
+  "updated_at": "2026-11-11T23:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "The Verge：AlphaGenome 2 聚焦疾病的细胞根源",
+  "lead_zh": "The Verge 报道，DeepMind 推出新 AI 模型，解析 DNA 变化如何影响不同细胞，为科学家研究这一难题提供更细致视角。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 The Verge 报道，谷歌 DeepMind 发布新 AI 模型 AlphaGenome 2，它是去年发布的基因组预测模型 AlphaGenome 的后继者，用于解析 DNA 变化如何影响不同细胞，有望为理解疾病成因和寻找新疗法提供线索。",
+        "人体几乎每个细胞都携带相同的 DNA，但心肌细胞、皮肤细胞、对抗感染的免疫细胞等会开启或关闭不同基因，同一遗传变异在不同类型和状态的细胞中可能产生截然不同的效果。新模型正是要捕捉这些差异，它基于 **68** 种组织中超过 **1 亿**份单细胞图谱训练而成。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "DeepMind 怎么说",
+      "paras": [
+        "据 DeepMind 称，AlphaGenome 2 识别出的、能改变细胞基因表达的变异数量接近此前最好模型的 **2 倍**；研究人员还发现，它无需重新训练就能对新的细胞类型和生物状态做出预测，并能找出实验数据中的空白，帮助科学家决定下一步实验方向。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/33336583bbe6aaa20d8457c8412c21782b64e486.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

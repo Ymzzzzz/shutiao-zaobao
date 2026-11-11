@@ -1,0 +1,253 @@
+{
+  "id": "na3f9078912ac",
+  "category": "芯片与算力",
+  "importance": 2,
+  "verified": true,
+  "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+  "original_title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+  "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "is_primary": true,
+      "published_at": "2026-11-11T11:00:20+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T11:00:20+08:00",
+  "updated_at": "2026-11-11T11:00:20+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "英伟达：视觉 AI 与机器人帮回收商分拣混合垃圾",
+  "lead_zh": "英伟达博客介绍视觉 AI 和机器人如何从旧衣物、瓶子和混合可回收物中挑出有价值材料，让数千吨物料免于填埋。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英伟达博客在 COP31 大会召开之际介绍了 AI 和机器人如何帮助回收行业。文章提到，全球进入经济体系的材料中来自回收或再利用的不到 **7%**，城市固体废物每年超过 **20 亿吨**，到 2050 年可能接近翻倍。",
+        "文章介绍了英伟达初创加速计划中的四家成员公司。其中台湾初创公司 AIRECO 用视觉 AI 更精细地分拣塑料，让材料能从混合废料中挑出来做闭环回收；它在台南一家回收厂的试点产线上用 Jetson Orin NX 模块运行推理并驱动机械臂，测试线识别准确率超过 **95%**。",
+        "AIRECO 计划明年建成完整产线，目标把年处理量从 **1.8 万吨**提高到 **4.8 万吨**，接近原来的三倍。"
+      ],
+      "sources": [
+        "NVIDIA Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "当事方怎么说",
+      "paras": [
+        "据英伟达可持续发展负责人 Josh Parker 称，AI 可以帮助弄清废物流里有什么、哪些能回收，并让分拣自动化。AIRECO 创始人兼首席执行官 Chun-Feng Liu 则称，分得越细，能回收的就越多，塑料瓶更有可能一次次被回收成瓶子。"
+      ],
+      "sources": [
+        "NVIDIA Blog"
+      ]
+    }
+  ],
+  "image_url": "img/511aeb5a5aaa1aa65382b43a218e22509c85f815.jpg",
+  "image_source": "NVIDIA Blog",
+  "image_origin_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
+  "fulltext_status": "ok",
+  "read_minutes": 5,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Katie Michel",
+    "author_title_zh": "",
+    "published_at": "2026-11-11",
+    "title_en": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+    "title_zh": "AI 如何帮助回收企业把混合垃圾变成可再利用的材料",
+    "dek_en": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+    "dek_zh": "视觉 AI 和机器人从传送带上的旧衣物、瓶子和混合可回收物中挑出值得回收的部分，让数千吨材料免于填埋。",
+    "word_count_zh": 1964,
+    "read_minutes": 5,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "随着世界各国领导人齐聚土耳其出席 COP31，会议对零废弃的强调让一个现实挑战成为焦点：如何让产品和材料被使用得更久。在全球范围内，进入经济体系的材料中，来自回收或再利用来源的不到 7%。城市固体废物每年产生超过 20 亿吨垃圾，这一数字到 2050 年可能接近翻倍。",
+        "en": "As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to keep products and materials in use for longer. Globally, less than 7% of the materials entering the economy come from recycled or reused sources. Municipal solid waste generation accounts for over 2 billion tons of trash per year — a figure that could nearly double by 2050."
+      },
+      {
+        "t": "p",
+        "zh": "AI 和机器人正在帮助改变这一轨迹，世界各地的创新者通过改进分拣来回收原本会最终进入填埋场的资源。",
+        "en": "AI and robotics are helping change this trajectory, as innovators around the globe improve sorting to recover resources that would otherwise end up in landfills."
+      },
+      {
+        "t": "p",
+        "zh": "“更循环的经济依赖于更好地利用我们已有的东西，”NVIDIA 可持续发展负责人 Josh Parker 说。“AI 可以帮助我们了解废物流中有什么、识别哪些可以回收，并把分拣工作自动化。我们为创新者提供计算工具，让这些流程更有效，并推广到更多地方。”",
+        "en": "“A more circular economy relies on making better use of what we already have,” said Josh Parker, head of sustainability at NVIDIA. “AI can help us understand what’s in a waste stream, identify what can be recovered and automate the work of sorting it. We’re giving innovators the computing tools to make those processes more effective and bring them to more places.”"
+      },
+      {
+        "t": "p",
+        "zh": "看看 NVIDIA Inception 初创企业计划的四家成员如何应用 AI，让有价值的材料继续流通。",
+        "en": "See how four members of the NVIDIA Inception program for startups are applying AI to keep valuable materials in circulation."
+      },
+      {
+        "t": "h",
+        "zh": "AIRECO 让塑料废弃物获得新生",
+        "en": "AIRECO Gives Plastic Waste New Life"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/0228f3f4ab1ca8f1b678c8f40fcf02a3c3960aa9.jpg",
+        "origin_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/QC.png",
+        "caption_zh": "",
+        "source": "NVIDIA Blog",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "t": "p",
+        "zh": "回收塑料只有在成本和质量能与新材料竞争时才会被使用。但它常常做不到：进来的废料质量参差不齐，分拣依赖难以招到的人工，混合废料最终被降级回收成低档产品。",
+        "en": "Recycled plastic is only used if its cost and quality can compete with new material. Too often it can’t: Incoming waste is of inconsistent quality, sorting depends on hard-to-find manual labor and mixed scrap ends up downcycled into low-grade products."
+      },
+      {
+        "t": "p",
+        "zh": "总部位于台湾的初创公司 AIRECO 的创始人相信，AI 分拣可以降低回收成本、提高回收质量，让这些材料在商业上更有用。该公司使用视觉 AI 对塑料进行更精细的分拣，使材料能从混合废料堆中被挑出来用于闭环回收，也就是把用过的物品重新加工成同一产品的新版本。",
+        "en": "The founders of AIRECO, a Taiwan-based startup, believe that AI sorting can cut down the cost and improve the quality of recycling to make these materials more commercially useful. The company uses vision AI to sort plastics more finely, enabling materials to be plucked out of mixed scrap piles for closed-loop recycling, where used items are reprocessed into new versions of the same product."
+      },
+      {
+        "t": "p",
+        "zh": "“分拣得越细，能回收的就越多，”AIRECO 创始人兼 CEO Chun-Feng Liu 说。“有了精细分拣的材料，物品更有可能留在循环中，比如塑料瓶一次又一次地被回收成瓶子，而不是最终变成其他难以进一步回收的产品。”",
+        "en": "“The finer you sort, the more you can recycle,” said Chun-Feng Liu, founder and CEO of AIRECO. “With finely sorted material, it’s more likely that an item can stay in the loop — a plastic bottle recycled back into a bottle again and again, rather than ending up in other products that are hard to recycle further.”"
+      },
+      {
+        "t": "p",
+        "zh": "该公司使用 NVIDIA Jetson Orin NX 模块在台南一家回收厂的试点产线上运行推理，包括驱动机械臂从传送带上拣出目标。测试线上的识别准确率超过 95%。",
+        "en": "The company uses NVIDIA Jetson Orin NX modules to run inference across its pilot line at a recycling plant in Tainan, including to drive robotic arms that pick targets off a conveyor belt. Recognition accuracy on the test line tops 95%."
+      },
+      {
+        "t": "p",
+        "zh": "在计划于明年投产的完整生产线上，团队的目标是把年废物处理能力从 18,000 吨提高到 48,000 吨，接近三倍，同时把运营成本降低 85%。",
+        "en": "In a full production line planned for next year, the team aims to nearly triple annual waste processing capacity from 18,000 to 48,000 tons while cutting operating costs by 85%."
+      },
+      {
+        "t": "h",
+        "zh": "EverestLabs AI 把机器人带上回收产线",
+        "en": "EverestLabs AI Puts Robotics on the Recycling Line"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/2e63c1f1b051ecb64b961051ea706dd406731a58.jpg",
+        "origin_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/everestlabs-robot-pic.jpeg",
+        "caption_zh": "",
+        "source": "NVIDIA Blog",
+        "w": 750,
+        "h": 500
+      },
+      {
+        "t": "p",
+        "zh": "在材料回收设施（即分离家庭可回收物的工厂）中，分拣必须在高速移动的传送带上实时完成，需要快速分析来识别和分拣物品。",
+        "en": "At material recovery facilities, the plants that separate household recyclables, sorting must be done in real time at fast-moving conveyor belts — requiring rapid analysis to identify and sort items."
+      },
+      {
+        "t": "p",
+        "zh": "美国初创公司 EverestLabs AI 在这些分拣线上部署由计算机视觉引导的机器人。目前约有 150 台机器人部署在北美和澳大利亚的设施中。",
+        "en": "EverestLabs AI, a U.S. startup, deploys computer vision-guided robots on those sorting lines. About 150 robots are currently deployed in facilities across North America and Australia."
+      },
+      {
+        "t": "p",
+        "zh": "“其他机器人有无限的时间来完成任务，”EverestLabs AI 的 CEO R. Paul Singh 说。“我们没有这种奢侈，因为我们的传送带会以一定的速度过来，我们必须在材料移走之前快速行动。这是一场实时游戏。”",
+        "en": "“Other robots have infinite time to finish their tasks,” said R. Paul Singh, CEO of EverestLabs AI. “We don’t have that luxury because our conveyor belts are going to come in at a certain speed, and we have to act at a fast clip before the material moves. It’s a real-time game.”"
+      },
+      {
+        "t": "p",
+        "zh": "EverestLabs 在边缘端的 NVIDIA RTX GPU 上运行 AI 推理，并在 NVIDIA 数据中心 GPU 上训练模型，通过 NVIDIA CUDA 进行优化。该公司估计，其已部署的系统迄今已识别约 400 亿个物体，回收约 25,000 吨材料，并避免了约 30,000 公吨二氧化碳排放。",
+        "en": "EverestLabs runs AI inference on NVIDIA RTX GPUs at the edge and trains its models on NVIDIA data center GPUs, optimized using NVIDIA CUDA. The company estimates its deployed systems have so far identified about 40 billion objects, recycled roughly 25,000 tons of material and avoided about 30,000 metric tons of carbon dioxide emissions."
+      },
+      {
+        "t": "p",
+        "zh": "他们的团队不断改进模型，以正确分类并拣出每一种物体，同时记录每件物品的材料类型、品牌和包装的元数据。他们还在推出智能体 AI 工具，为回收设施的员工（从车间经理到负责多个设施的高管）提供可操作的数据，并希望把这一能力扩展到相邻行业。",
+        "en": "Their team is constantly working to improve its models to correctly classify and pick every kind of object while capturing metadata about the material type, brand and packaging of each. They’re also shipping agentic AI tools to provide actionable data to recycling facility staff, from floor managers to executives responsible for multiple facilities — and are looking to extend that capability to adjacent industries."
+      },
+      {
+        "t": "h",
+        "zh": "Greyparrot 让回收企业清楚看到废物流",
+        "en": "Greyparrot Gives Recyclers a Clear View of the Waste Stream"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/88b195f01ed05a7746b879f815670c81a4331b5f.jpg",
+        "origin_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Greyparrot-Analyzer-Unit-the-hardware-collecting-data-that-is-fed-into-the-deepnest-platform-scaled.jpg",
+        "caption_zh": "",
+        "source": "NVIDIA Blog",
+        "w": 750,
+        "h": 500
+      },
+      {
+        "t": "p",
+        "zh": "回收厂每天可处理数万吨废物，但运营人员长期以来只能通过人工抽样不到 1% 的废物来判断传送带上有什么。",
+        "en": "Recycling plants can process tens of thousands of tons of waste a day, yet operators have long judged what’s on the belt by manually sampling less than 1% of it."
+      },
+      {
+        "t": "p",
+        "zh": "英国初创公司 Greyparrot 打造了 Analyzer 平台来改变这一点。它安装在传送带上方，利用计算机视觉按材料和品牌识别每个经过的物体，即使在多尘环境或光线不佳、传送带速度高达每秒 4 米的情况下也能做到。",
+        "en": "U.K. startup Greyparrot built its Analyzer platform to change that. Mounted above conveyor belts, it uses computer vision to identify each passing object by material and brand, even in dusty environments or poor lighting on belts moving up to 4 meters a second."
+      },
+      {
+        "t": "p",
+        "zh": "“废物一直在变。它随小时、季节和供应商而变化，”Greyparrot 联合创始人 Ambarish Mitra 说。“以前，运营人员根据极小的样本来猜测，现在他们可以准确看到传送带上有什么。”",
+        "en": "“Waste changes all the time. It shifts by hour, by season, by supplier,” said Ambarish Mitra, cofounder of Greyparrot. “Before, operators guessed based on a tiny sample, and now they can see exactly what’s on the belt.”"
+      },
+      {
+        "t": "p",
+        "zh": "Greyparrot 使用 NVIDIA GPU 在数十亿个物体上训练 AI 模型，同时由 NVIDIA Jetson 模块在边缘端运行快速检测。超过 300 套 Analyzer 系统在 20 多个国家运行，迄今已完成超过一万亿次边界框检测，把检查 15 吨废物所需的时间从 375 小时减少到仅 6 小时。",
+        "en": "Greyparrot uses NVIDIA GPUs to train AI models on billions of objects, while NVIDIA Jetson modules run rapid detection at the edge. More than 300 Analyzer systems, operating in over 20 countries, have made over a trillion bounding box detections to date — reducing the time needed to check 15 tons of waste from 375 hours to just six."
+      },
+      {
+        "t": "p",
+        "zh": "使用 Analyzer 实时数据的设施报告效率提升 10% 到 30%。在全球包装公司 Amcor，该方案帮助将食品级塑料的产出率提高了 12%。可口可乐、高露洁棕榄和 Kenvue 等品牌也使用 Greyparrot 的技术，在真实的分拣厂中衡量其包装是如何被回收的。",
+        "en": "Facilities using the real-time data from Analyzer report efficiency gains of 10% to 30%. At global packaging company Amcor, the solution helped increase the yield of food-grade plastics by 12%. Brands including Coca-Cola, Colgate-Palmolive and Kenvue also use Greyparrot technology to measure how their packaging is recycled in real sorting plants."
+      },
+      {
+        "t": "h",
+        "zh": "reverse.fashion 让废弃衣物获得二次审视",
+        "en": "reverse.fashion Gives Discarded Garments a Second Look"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/ea12e06e6c393833805bec271467876b6f639785.jpg",
+        "origin_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/line.sort_B_reverse.fashion-scaled-e1794354681419.jpg",
+        "caption_zh": "",
+        "source": "NVIDIA Blog",
+        "w": 750,
+        "h": 423
+      },
+      {
+        "t": "p",
+        "zh": "欧洲每年产生近 700 万吨旧纺织品。其中约四分之一被单独收集，并由人工分成数百个类别，去向从复古转售到降级回收为家具填充物或清洁布不等。这项工作缓慢、昂贵且难以招到人手，使可再利用衣物的价值被埋没。",
+        "en": "Europe generates nearly 7 million tons of used textiles a year. About a quarter of these textiles are collected separately and sorted by hand into hundreds of categories, destined for uses ranging from vintage resale to downcycling as furniture filling or cleaning cloths. The work is slow, costly and hard to staff, which keeps the value of reusable garments buried."
+      },
+      {
+        "t": "p",
+        "zh": "总部位于柏林的初创公司 reverse.fashion 正在用高分辨率计算机视觉帮助自动化这项工作。其系统识别产品类型、缺陷、颜色、尺寸、品牌、面料结构、季节和风格，并把每件衣物归入其价值最高的类别。",
+        "en": "reverse.fashion, a Berlin-based startup, is helping automate the job with high-resolution computer vision. Its system identifies product type, defects, color, size, brand, fabric construction, season and style and assigns each garment to its most valuable category."
+      },
+      {
+        "t": "p",
+        "zh": "“与传统的废物分拣相比，我们的 AI 模型必须以非常高的分辨率运行，因为人们对纺织品很挑剔，”reverse.fashion 联合创始人兼首席技术官 Karsten Pufahl 说。“计算机视觉流程需要发现细小的缺陷，以判断每件衣物的质量和潜在价值。”",
+        "en": "“Compared to classical waste sorting, our AI models have to run at very high resolution because humans are picky with textiles,” said Karsten Pufahl, cofounder and chief technology officer of reverse.fashion. “The computer vision pipeline needs to spot small defects to determine the quality and potential value of each garment.”"
+      },
+      {
+        "t": "p",
+        "zh": "每件被 Reverse Fashion 分析的纺织品在以每秒 3 米的速度经过传送带时，会通过十几个视觉 AI 模型，这些模型用 NVIDIA TensorRT 软件优化，并在边缘端的 NVIDIA Jetson 模块上运行。模型在工作站和云端的 NVIDIA GPU 上训练。",
+        "en": "As it moves across a conveyor belt at 3 meters a second, each textile analyzed by Reverse Fashion passes through over a dozen vision AI models optimized with NVIDIA TensorRT software and running on NVIDIA Jetson modules at the edge. The models are trained on NVIDIA GPUs in workstations and the cloud."
+      },
+      {
+        "t": "p",
+        "zh": "Pufahl 估计，该系统一小时就能分拣完以前需要一周才能分拣完的量，目前正在向欧洲的设施推广。",
+        "en": "The system sorts in an hour what would’ve previously taken a week to sort, Pufahl estimates, and is currently rolling out to facilities in Europe."
+      },
+      {
+        "t": "p",
+        "zh": "探索更多由 NVIDIA 驱动的可持续发展应用。",
+        "en": "Explore more NVIDIA-powered sustainability applications."
+      }
+    ]
+  }
+}

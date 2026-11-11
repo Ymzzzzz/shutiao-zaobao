@@ -1,0 +1,55 @@
+{
+  "id": "n87a2a2e6ed68",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+  "original_title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+  "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+      "is_primary": false,
+      "published_at": "2026-11-12T00:13:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T00:13:03+08:00",
+  "updated_at": "2026-11-12T00:13:03+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "AO3 停摆让同人读者与作者产生对立",
+  "lead_zh": "WIRED 报道，AO3 停摆后有作者发现作品未经同意被搬到镜像网站，一位同人作者称此事让她心里很不是滋味。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 WIRED 报道，同人小说网站 Archive of Our Own（AO3）在 **10 月 29 日**因安全事件下线，团队宣布网站将停摆最多 **四周**。AO3 托管了数十万个同人圈的超过 **1880 万**部作品，是全球访问量最高的网站之一。",
+        "停摆几天内，一些读者把自己保存在设备上的作品放进谷歌云盘的共享库，部分作品还被搬到 Squidgeworld、AO3.Life 等镜像网站，引发社区摩擦。一位化名 Avery、写了约六年同人的作者发现自己的作品被未经同意上传，她发邮件后作品被删除，但无法确认是否找到了所有副本；AO3.Life 随后已下线。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据 Avery 称，这对她来说是安全风险，一个坏人就可能在共享盘里放入恶意软件，此事让她心里很不是滋味。托管 Squidgeworld 的 Squidge.org 主席 Walter Hopgood 则称，网站会删除未经作者许可发布的作品。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/ec6e002dc5e385631c4ee2bfad3a71ca8e38c49f.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6af3b082973df10f7a2af251/master/pass/culture_fanfic_authors_replace_ao3.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

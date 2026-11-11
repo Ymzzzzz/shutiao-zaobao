@@ -1,0 +1,46 @@
+{
+  "id": "nf4729026ce18",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "Prompt2Echo (P2Echo): Text-Prompted Multi-View Echocardiography Segmentation with One Model",
+  "original_title": "Prompt2Echo (P2Echo): Text-Prompted Multi-View Echocardiography Segmentation with One Model",
+  "summary": "Automated segmentation in multi-view echocardiography is essential for comprehensive cardiac assessment, yet remains challenging due to substantial anatomical and appearance variability across standa…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.13425",
+      "is_primary": true,
+      "published_at": "2026-11-11T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T08:00:00+08:00",
+  "updated_at": "2026-11-11T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "论文 P2Echo：一个模型完成多切面心超分割",
+  "lead_zh": "论文提出 Prompt2Echo，用文本提示驱动单个模型完成多切面超声心动图分割，以应对不同标准切面间巨大的解剖和外观差异。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "这篇论文针对多切面超声心动图的自动分割问题。由于不同标准声窗之间解剖结构和图像外观差异很大，自动分割一直很有挑战。作者提出 P2Echo，这是一个统一框架，用结构化、感知切面的文本提示控制单个模型，分割多个标准切面中的不同心脏结构。",
+        "与依赖隐式潜在先验的基础模型改造方法不同，P2Echo 通过新的动态图文对齐模块 DyITA 显式约束分割过程。该模块结合可微分路由机制和词元差分算子，根据所请求的切面和目标结构动态调节解码器特征，让网络无需改动架构就能为不同切面切换处理路径。",
+        "作者在一个大规模内部数据集以及三个外部数据集上做了实验，称 P2Echo 的表现达到或超过各切面专用模型和最先进的通用模型，而计算成本只是它们的一小部分，代码已公开。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/81cf4534ba593427a57ac235d4511b65a9dd50b8.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.13425.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "nbdeaa23eb988",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+  "original_title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+  "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, t…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "is_primary": false,
+      "published_at": "2026-11-12T04:02:14+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T04:02:14+08:00",
+  "updated_at": "2026-11-12T04:02:14+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "反对声浪与繁琐审批持续拖慢美国数据中心建设",
+  "lead_zh": "TechCrunch 报道，数据中心热潮正面临地方反对、审批延误和电力短缺等障碍，项目推进速度明显放缓。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 旗下播客 Equity 本期讨论数据中心热潮遇到的现实阻碍，包括广泛的地方反对、审批拖延和电力争夺。节目指出，在这些挑战之前还有一个更基本的问题：许多已宣布的项目可能根本不会动工。主持人 Rebecca Bellan 和 Tim De Chant 邀请 Ascend Analytics 市场与战略高级董事总经理 Brent Nelson，一起区分哪些项目可能建成、哪些可能永远落不了地。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "嘉宾怎么说",
+      "paras": [
+        "据 Nelson 称，数据中心储备项目被严重高估，只有一小部分会真正建成；如果泡沫破裂，租户选错的数据中心开发商可能陷入严重困境。他还认为民主党应该现在就推动审批改革，而不是等待更有利的政治时机，并谈到能源项目如何陷入审批循环。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/9a828a62fe3c26ac9b807fed5344c97571bb4d02.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "n6619f09dbc0d",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+  "original_title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+  "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "is_primary": false,
+      "published_at": "2026-11-11T23:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T23:00:00+08:00",
+  "updated_at": "2026-11-11T23:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "Databricks 新智能体向 CEO 直言公司问题",
+  "lead_zh": "据科技媒体报道，Databricks 已有 1.2 万名员工，首席执行官坦言无法了解每个人，员工也不太会主动汇报问题，于是借助新的智能体了解实情。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 TechCrunch 报道，Databricks 周三发布了新版 AI 智能体 Genie，它能执行需要较长时间完成的多步骤任务。Databricks 为此构建了一套本体，让 Genie 能从客户存储在平台上的信息中获取所需上下文；公司称企业管理者可以给它分配各种任务，由它在无人监督的情况下完成。",
+        "首席执行官 Ali Ghodsi 向记者展示了自己的真实使用记录：让 Genie 分析员工满意度调查中得分较低的部分，并评估高管提出的改进方案；总结一次失败的大客户推介，包括对方购买前需要的功能；还在播客采访前回顾他以往的节目并预测可能的问题。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "CEO 怎么说",
+      "paras": [
+        "据 Ghodsi 称，公司已有 **1.2 万**名员工，他不可能认识每个人，员工也不太会向老板坦白问题，而 Genie 成了他了解哪些事情进展不顺的直言渠道。他还提到邓巴数，称这个神奇数字是 **150**。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/8c3736c72748168753c48ef0cb436b7e40f72289.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

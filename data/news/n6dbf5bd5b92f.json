@@ -1,0 +1,45 @@
+{
+  "id": "n6dbf5bd5b92f",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+  "original_title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+  "summary": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanni…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
+      "is_primary": true,
+      "published_at": "2026-11-12T05:05:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T05:05:59+08:00",
+  "updated_at": "2026-11-12T05:05:59+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "AWS re:Invent 2026 人工智能分会场参会指南",
+  "lead_zh": "AWS re:Invent 2026 设有超过 140 场 AI/ML 分会场活动，这份指南帮助参会者按角色和目标挑选分享、研讨和动手课程。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS 年度大会 re:Invent 将于 **11 月 30 日至 12 月 4 日**举行，内容包括 AWS 领导者的主题演讲、专家带领的互动课程，以及 re:Play 现场娱乐和游戏等活动。大会共有超过 **2000** 场按主题和难度划分的学习课程，其中 AI/ML 分会场有超过 **140** 场独立课程。AWS 称这是其年度最重要的学习活动，帮助参会者全面提升各领域的 AWS 技术能力。",
+        "参会者可以选择分享会、白板讨论、动手构建课、工作坊和代码讲解等形式。分享会会录制，几天后上传到 AWS Events 的 YouTube 频道，其余形式则是不录制的现场互动课程。无法到场的人也可以点播许多课程并在线观看主题演讲直播。这份指南按角色和目标帮参会者挑选合适的 AI/ML 课程。其中分享会是时长 **60 分钟**的讲座形式。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/32023822ffe477a39a5c5b34c189d6ee63e3d05a.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-22321-featured-image-4.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

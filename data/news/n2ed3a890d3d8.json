@@ -1,0 +1,56 @@
+{
+  "id": "n2ed3a890d3d8",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+  "original_title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+  "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "is_primary": false,
+      "published_at": "2026-11-12T00:14:44+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T00:14:44+08:00",
+  "updated_at": "2026-11-12T00:14:44+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "OpenAI 季度营收据报首次突破 100 亿美元",
+  "lead_zh": "据 TechCrunch 报道，OpenAI 季度营收达 100 亿美元，较第二季度的 67 亿美元增长近 50%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 援引彭博社基于匿名信源的报道称，受近期 AI 模型需求强劲推动，OpenAI 季度营收首次突破 **100 亿美元**，较第二季度的 **67 亿美元**增长近 **50%**，而此前一、二季度之间的增速约为 18%。",
+        "报道称 OpenAI 的盈利状况也有改善，调整后经营利润率从第二季度的 **-150%** 收窄到第三季度的 **-109%**，年化营收已达 **500 亿美元**。",
+        "竞争对手 Anthropic 此前公布第三季度营收为 **170 亿美元**，并称截至 10 月底年化营收一个月内增加 100 亿美元，达到 **810 亿美元**；两家公司计算年化营收的方式并不相同。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "TechCrunch 认为，OpenAI 近期受益于更严格的定价、折扣、模型改进，以及更专注面向企业的产品和能帮人完成任务的智能体，而 Anthropic 此前在企业市场的营收增长上领先。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/7ae1a2968fac261c34fc0753020ba8977bf58169.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

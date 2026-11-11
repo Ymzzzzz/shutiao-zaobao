@@ -1,0 +1,55 @@
+{
+  "id": "n94fcbf10f807",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+  "original_title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+  "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "is_primary": false,
+      "published_at": "2026-11-12T03:22:22+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T03:22:22+08:00",
+  "updated_at": "2026-11-12T03:22:22+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "美国国会要求黄仁勋就涉华间谍事件作出说明",
+  "lead_zh": "据 TechCrunch 报道，众议院共和党人要求英伟达 CEO 黄仁勋就其与涉嫌中国间谍的私人关系参加闭门说明会。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 援引彭博社报道称，美国国会正准备传唤英伟达首席执行官黄仁勋，要求他就与一名涉嫌中国间谍者的婚外情回答问题，彭博社的消息来自两名众议院共和党人。",
+        "一周前，众议院共和党人 Brian Mast、John Moolenaar 和 Rick Crawford 致信黄仁勋，要求他出席几个委员会的联合闭门说明会，说明他与 Megaspeed 高管、涉嫌中国间谍的 Alice Huang 之间的关系。英伟达没有立即回应 TechCrunch 的置评请求。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "议员怎么说",
+      "paras": [
+        "据众议院中国问题委员会主席 Moolenaar 周三在福克斯商业频道称，黄仁勋必须在当天结束前回复，如果不同意出席说明会，很可能会被传唤。众议院外交事务委员会主席 Mast 同日也表示，若黄仁勋不回应，委员会已准备好发出传票。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/4825d998e5561ccba583c3bf2da35bee54e9600d.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

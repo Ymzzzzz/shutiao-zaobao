@@ -1,0 +1,37 @@
+{
+  "id": "n8c999d6885d2",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "original_title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "is_primary": true,
+      "published_at": "2026-11-11T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T08:00:00+08:00",
+  "updated_at": "2026-11-11T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "JioStar 首席架构师谈五亿用户规模的 AI 内容发现",
+  "lead_zh": "OpenAI 刊登对 JioStar 的 Vijay Seshadri 的访谈，讲述在五亿用户规模下做 AI 内容发现，以及评测、护栏和上线生产的经验。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "blocked",
+  "read_minutes": 0,
+  "fulltext": {
+    "status": "blocked",
+    "reason": "http_403",
+    "blocks": []
+  }
+}

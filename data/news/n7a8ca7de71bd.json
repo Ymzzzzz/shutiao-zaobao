@@ -1,0 +1,55 @@
+{
+  "id": "n7a8ca7de71bd",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+  "original_title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+  "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "is_primary": false,
+      "published_at": "2026-11-12T00:16:07+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T00:16:07+08:00",
+  "updated_at": "2026-11-12T00:16:07+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "黄仁勋事件背后，业内类似行为或更普遍",
+  "lead_zh": "TechCrunch 援引一位投资情报顾问称，业内很多高层知道这类事情在发生，实际上是在默许。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 报道，英伟达首席执行官黄仁勋的美人计丑闻仍在冲击 AI 行业，但业内有人认为问题远不止一个人。报道指出，中国政府数十年来一直活跃于经济间谍活动，而半导体处在 AI 热潮中心，渗透相关公司的压力很大；同时许多借热潮致富的高管也让自己成了容易下手的目标。",
+        "投资情报公司 Heron Intelligence 首席执行官 Nate Singer 的公司专做企业尽职调查，帮客户在重大收购或聘请高管前摸清底细。他在一篇广为流传的领英帖子中讲述了一个案例：一位 CEO 的妻子突然闯进董事会，指责丈夫和另一名高管带着两名年轻女子乘公司专机出行，而这两人后来被发现是国家支持的人员。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "当事人怎么说",
+      "paras": [
+        "据 Singer 称，英伟达的案例尤其严重，但半导体行业还有很多类似情况未被曝光，他至少看到过 **3** 起类似报告，怀疑更多没有上报；他还称业内很多高层知道这些事情在发生，实际上是在默许。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/6694fc452fd2585b659a3213445652ed1fff64e7.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "n4d33a45a8c99",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+  "original_title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+  "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 millise…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
+      "is_primary": false,
+      "published_at": "2026-11-12T04:12:46+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T04:12:46+08:00",
+  "updated_at": "2026-11-12T04:12:46+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "谷歌推出 Gemini Decision 1，一次评估千个问题",
+  "lead_zh": "据 The Decoder 报道，谷歌新 API 可一次性评估最多 1000 个跨文本、图像、音频和视频的封闭式问题，响应约 150 到 250 毫秒。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 The Decoder 报道，谷歌 DeepMind 推出 Gemini Decisions API，这是专为快速封闭式判断设计的接口，可处理是否题、选择题和按量表打分等问题。底层模型 Gemini Decision 1 能在一次计算中处理最多 **1000** 个独立问题，输入可以是文本、图像、音频、视频和 PDF。",
+        "模型直接给选项打分，在 **150 到 250 毫秒**内返回概率和置信度。价格为每百万输入词元 **0.10 美元**，输出词元不收费。该接口已在 Google AI Studio 上线，OpenRouter、LangChain、Vercel 等平台的集成正在陆续推出。",
+        "报道指出，最近几周类似模型接连出现：初创公司 Jev 推出自家版本后，OpenAI、Cloudflare 和微软也很快跟进。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "谷歌怎么说",
+      "paras": [
+        "据谷歌称，这一接口比 Gemini 3.5 Flash-Lite 便宜约 **5 倍**，公司内部已经在用它为 Gemini Notebook 做动态模型路由、在 Stitch 中做设计原型，以及在谷歌搜索中做安全检查。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

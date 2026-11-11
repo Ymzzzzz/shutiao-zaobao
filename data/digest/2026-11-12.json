@@ -1,0 +1,2571 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T07:20:42+08:00",
+  "summary_mode": "excerpt",
+  "top_items": [
+    "ncce714811b51",
+    "nbad6ee94c356",
+    "ne879c6fc35d4"
+  ],
+  "items": [
+    {
+      "id": "ncce714811b51",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "original_title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "is_primary": true,
+          "published_at": "2026-11-12T02:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T02:00:00+08:00",
+      "updated_at": "2026-11-12T02:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "谷歌推出 Gemini Decisions API，主打快速多模态决策",
+      "lead_zh": "谷歌发布 Gemini Decisions API，由其新模型 Gemini Decision 驱动，面向开发者提供快速且经过校准的多模态判断能力。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌在 Google AI Studio 的 Gemini API 中推出 Decisions API，这是一个专门处理封闭式判断的新接口，由新模型 Gemini Decision 1（gemini-decision-1）驱动，适用于工具选择、策略检查、模型路由和上下文评分等有限选项场景。",
+            "开发者可以传入一份多模态输入，覆盖文本、图像、音频、视频和 PDF，上下文最长 **256K** 词元，同时附上最多 **1000** 个相互独立的问题。模型不逐字生成答案，而是在一次前向计算中给候选选项打分，返回概率和置信度，端到端延迟约 **150–250 毫秒**。",
+            "计费方面，输入每百万词元 **0.10 美元**，输出词元不收费。问题类型分三种：是否判断、在 **2 到 255** 个选项中单选，以及按有序评分表打分，每个答案都附带 0 到 1 的置信分，便于把拿不准的情况转给备用流程或人工复核。"
+          ],
+          "sources": [
+            "Google AI Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "谷歌怎么说",
+          "paras": [
+            "据谷歌称，在智能体路由、推理、排序和多模态理解等基准上，Gemini Decision 1 整体领先且校准误差最低；在同一组基准上，它比通过 Interactions API 调用 Gemini 3.5 Flash-Lite 便宜近 **5 倍**，且每次请求从 1 个问题增加到 100 个问题时延迟几乎不变。"
+          ],
+          "sources": [
+            "Google AI Blog"
+          ]
+        }
+      ],
+      "image_url": "img/750931324bc2995137eb3d59aab4e8cc1c0854ed.jpg",
+      "image_source": "Google AI Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
+      "fulltext_status": "ok",
+      "read_minutes": 4
+    },
+    {
+      "id": "nbad6ee94c356",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "original_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+          "is_primary": true,
+          "published_at": "2026-11-12T00:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "谷歌实验项目 Tabletop：为小组打造协作空间",
+      "lead_zh": "Google Labs 推出实验项目 Tabletop，可为团队生成互动行程、投票和对阵表等协作空间，目前开放候补名单申请。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌推出 Google Labs 新实验项目 Tabletop，主打多人实时协作，面向家庭出游规划、业余联赛组织、聚餐安排等需要一群人一起出主意、搭建和做决定的场景。",
+            "用户只需放入链接、文件和想法，然后向 @tabletop 发出指令，或者选择一个起步模板，就能生成定制的互动行程、聚餐投票、费用分摊工具和比赛对阵表。空间建好后，把邀请链接发到群聊里，所有人就可以像使用 Google 文档一样同时进入、一起使用。",
+            "Tabletop 目前以候补名单方式在美国面向 **18** 岁以上用户逐步开放，感兴趣的用户可以在 Google Labs 网站上报名排队。"
+          ],
+          "sources": [
+            "Google AI Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "谷歌怎么说",
+          "paras": [
+            "据谷歌称，当每个人都能在同一个地方出力、搭建和共同决定时，群体协调会变得更容易，这正是 Tabletop 想解决的问题。"
+          ],
+          "sources": [
+            "Google AI Blog"
+          ]
+        }
+      ],
+      "image_url": "img/8773f944c5f1971ef50ee2933987f12ca7d91ae3.jpg",
+      "image_source": "Google AI Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
+      "fulltext_status": "ok",
+      "read_minutes": 1
+    },
+    {
+      "id": "ne879c6fc35d4",
+      "category": "研究与论文",
+      "importance": 2,
+      "verified": true,
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "original_title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "is_primary": true,
+          "published_at": "2026-11-11T23:00:15+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T23:00:15+08:00",
+      "updated_at": "2026-11-11T23:00:15+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "DeepMind 发布 AlphaGenome 2，解读细胞如何读取 DNA",
+      "lead_zh": "谷歌 DeepMind 发布 AlphaGenome 2，用于预测 DNA 序列及其变异对特定人类细胞类型和疾病的影响，帮助理解致病机制。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌 DeepMind 发布新一代 DNA 序列模型 AlphaGenome 2，用来预测 DNA 序列及其变异如何影响特定的人类细胞类型，从而帮助科学家找出疾病背后的细胞层面原因。它把单细胞生物学和人类遗传学联系起来，可预测遗传变异对数百种人类细胞类型的影响。",
+            "去年发布的第一代 AlphaGenome 只能在较宽泛的组织层面预测变异效应，团队还推出了 AlphaGenome Atlas，收录人类基因组全部 **90 亿**种可能单字母变化的预测。新模型训练数据超过 **1 亿**份单细胞图谱，覆盖 **68** 种组织，并重新设计了模型处理细胞类型的方式。",
+            "AlphaGenome 2 现已通过 AlphaGenome API 向非商业研究开放，商业研究则处于私有预览阶段。"
+          ],
+          "sources": [
+            "Google DeepMind Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "DeepMind 怎么说",
+          "paras": [
+            "据 DeepMind 称，与此前最好的模型相比，AlphaGenome 2 能识别出近 **2 倍**数量的、会改变细胞基因表达的变异，还能对模型从未见过的细胞状态和疾病状态做出预测，捕捉到组织级模型容易漏掉的疾病相关细胞中的效应。"
+          ],
+          "sources": [
+            "Google DeepMind Blog"
+          ]
+        }
+      ],
+      "image_url": "img/052ce9bde901a8d430dc5866b58e7efdd6c7c18e.jpg",
+      "image_source": "Google DeepMind Blog",
+      "image_origin_url": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
+      "fulltext_status": "ok",
+      "read_minutes": 8
+    },
+    {
+      "id": "n14eef01dc0f4",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "original_title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google AI Blog",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+          "is_primary": true,
+          "published_at": "2026-11-11T17:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T17:00:00+08:00",
+      "updated_at": "2026-11-11T17:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "谷歌艺术与文化上线南非艺术家马朗古专题",
+      "lead_zh": "谷歌博客介绍了关于南非艺术家 Esther Mahlangu 博士艺术与传承的线上专题，金山大学讲师 Nontobeko Ntombela 参与其中。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "在南非艺术家 Esther Mahlangu 博士 **91** 岁生日之际，Google Arts & Culture 上线了她的首个线上回顾展，收录超过 **45** 个策展故事、虚拟导览和丰富档案，向全球观众介绍她的艺术、生活与影响。",
+            "策展人、金山大学讲师 Nontobeko Ntombela 介绍，现有档案中没有 **1980** 年以前的任何资料，她早年的经历因此缺失。团队通过一系列工作坊和访谈，记录了她从 **10** 岁开始画画到 1980 年首批有记录作品之间的这段历史，例如她 10 岁时用羽毛代替画笔发现自己绘画天赋的故事。",
+            "项目联合了 Google DeepMind、Google Arts & Culture 实验室，以及设计工作室 Domestic Data Streamers 的合成记忆计划。团队依据她的回忆和档案材料先生成静态图像，再用 Veo 把图像转成视频，重现她早年的生活片段。"
+          ],
+          "sources": [
+            "Google AI Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "策展人怎么说",
+          "paras": [
+            "据 Ntombela 称，她多年来与 Mahlangu 及其家人密切合作，这次回顾展是她长期研究二十世纪初以来有影响力的南非女性艺术家的一部分；用 AI 重现记忆的过程还唤起了 Mahlangu 本人更多的回忆。"
+          ],
+          "sources": [
+            "Google AI Blog"
+          ]
+        }
+      ],
+      "image_url": "img/eb72fa2219924d003dcb903740748b21e1178df4.jpg",
+      "image_source": "Google AI Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
+      "fulltext_status": "ok",
+      "read_minutes": 3
+    },
+    {
+      "id": "n80b38ea7da37",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "original_title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "is_primary": true,
+          "published_at": "2026-11-11T16:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T16:00:00+08:00",
+      "updated_at": "2026-11-11T16:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "超两万名退伍军人领取一年免费 ChatGPT Plus",
+      "lead_zh": "OpenAI 称已有超过 2 万名退伍军人和转业军人领取一年免费 ChatGPT Plus，并介绍他们如何用它准备转入民间职业。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "blocked",
+      "read_minutes": 0
+    },
+    {
+      "id": "nb22522d14a17",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "original_title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "is_primary": true,
+          "published_at": "2026-11-11T13:01:16+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T13:01:16+08:00",
+      "updated_at": "2026-11-11T13:01:16+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "BotPsy：用十亿参数以下模型做端侧个人助手",
+      "lead_zh": "Hugging Face 博客介绍 BotPsy，一个运行在设备端的个人助手，核心是参数量不足十亿的智能体语言模型。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Tether AI Research 在 Hugging Face 博客发布 BotPsy，这是一个 **0.8B** 参数的模型，基于 Qwen3.5-0.8B 打造，专为函数调用和智能体工作流设计，可以部署在设备端运行。",
+            "BotPsy 定位为调用工具完成各种简单任务的个人助手，覆盖网页搜索与调研、出行生活、商业金融、客户运营、设备与车辆控制、文件文档、日历以及邮件消息等领域。由于参数量小，它更适合低到中等难度的任务，模型权重和多种量化版本已公开。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "团队怎么说",
+          "paras": [
+            "据团队称，BotPsy 在同等规模中达到最好的工具使用和智能体表现，超过他们测试过的所有不超过 **1.2B** 参数的模型；在关键基准上智能体能力约为基础模型的两倍，例如 BFCL v4 得分从 **23.4** 提升到 **44.0**。",
+            "团队认为前沿云端大模型运营成本高且可能波动，提供方随时可能修改或停止服务，而很多日常任务并不需要前沿级智能。团队也提醒，小模型仍会出错，不适合高风险用途。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/e11fbf55d1e64e648d0f89808ee0081e60c0105d.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
+      "fulltext_status": "ok",
+      "read_minutes": 15
+    },
+    {
+      "id": "na3f9078912ac",
+      "category": "芯片与算力",
+      "importance": 2,
+      "verified": true,
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "original_title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+          "is_primary": true,
+          "published_at": "2026-11-11T11:00:20+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T11:00:20+08:00",
+      "updated_at": "2026-11-11T11:00:20+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "英伟达：视觉 AI 与机器人帮回收商分拣混合垃圾",
+      "lead_zh": "英伟达博客介绍视觉 AI 和机器人如何从旧衣物、瓶子和混合可回收物中挑出有价值材料，让数千吨物料免于填埋。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "英伟达博客在 COP31 大会召开之际介绍了 AI 和机器人如何帮助回收行业。文章提到，全球进入经济体系的材料中来自回收或再利用的不到 **7%**，城市固体废物每年超过 **20 亿吨**，到 2050 年可能接近翻倍。",
+            "文章介绍了英伟达初创加速计划中的四家成员公司。其中台湾初创公司 AIRECO 用视觉 AI 更精细地分拣塑料，让材料能从混合废料中挑出来做闭环回收；它在台南一家回收厂的试点产线上用 Jetson Orin NX 模块运行推理并驱动机械臂，测试线识别准确率超过 **95%**。",
+            "AIRECO 计划明年建成完整产线，目标把年处理量从 **1.8 万吨**提高到 **4.8 万吨**，接近原来的三倍。"
+          ],
+          "sources": [
+            "NVIDIA Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "当事方怎么说",
+          "paras": [
+            "据英伟达可持续发展负责人 Josh Parker 称，AI 可以帮助弄清废物流里有什么、哪些能回收，并让分拣自动化。AIRECO 创始人兼首席执行官 Chun-Feng Liu 则称，分得越细，能回收的就越多，塑料瓶更有可能一次次被回收成瓶子。"
+          ],
+          "sources": [
+            "NVIDIA Blog"
+          ]
+        }
+      ],
+      "image_url": "img/511aeb5a5aaa1aa65382b43a218e22509c85f815.jpg",
+      "image_source": "NVIDIA Blog",
+      "image_origin_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
+      "fulltext_status": "ok",
+      "read_minutes": 5
+    },
+    {
+      "id": "n8c999d6885d2",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "original_title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/jiostar-vijay-seshadri",
+          "is_primary": true,
+          "published_at": "2026-11-11T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T08:00:00+08:00",
+      "updated_at": "2026-11-11T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "JioStar 首席架构师谈五亿用户规模的 AI 内容发现",
+      "lead_zh": "OpenAI 刊登对 JioStar 的 Vijay Seshadri 的访谈，讲述在五亿用户规模下做 AI 内容发现，以及评测、护栏和上线生产的经验。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "blocked",
+      "read_minutes": 0
+    },
+    {
+      "id": "n281df356d71d",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+      "original_title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+      "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+          "is_primary": false,
+          "published_at": "2026-11-11T21:51:11+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T21:51:11+08:00",
+      "updated_at": "2026-11-11T21:51:11+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "美国数据商向中国 AI 实验室出售约五亿美元训练数据",
+      "lead_zh": "据 ChinaTalk 调查，Mercor、Surge AI、AfterQuery 等美国数据商向中国实验室出售了约五亿美元的 AI 训练数据，含强化学习训练环境。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 The Decoder 援引 ChinaTalk 的调查，Mercor、Surge AI、AfterQuery 和 Turing 等美国数据公司向中国 AI 实验室出售了价值约 **5 亿美元**的训练数据，调查共发现至少 **9** 家美国数据公司向中国客户供货。",
+            "其中一部分是强化学习环境，即让模型在编程、金融分析、办公等具体任务上训练的模拟世界。报道称中国实验室会刻意购买此前卖给 Anthropic 或 OpenAI 的同款产品，以省去自研成本和无效训练。",
+            "这些交易部分通过离岸架构进行，字节跳动在新加坡和圣何塞设有采购办公室。由于强化学习环境基本不受监管，出口管制几乎覆盖不到。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "调查怎么说",
+          "paras": [
+            "据 ChinaTalk 称，相关业务关系是通过匿名信源以及分包商操作疏忽曝光的：美国数据公司把大量工作外包给印度等发展中国家的低薪工人，这些分包商有时会在领英或简历上写出客户名称。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "为什么重要",
+          "paras": [
+            "报道指出，编程类环境可能增强网络攻击能力，生物类环境可能提升基因合成能力，具有两用风险；再加上用 GPT、Claude 输出做蒸馏，中国实验室能以更少算力缩小差距。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/f96a4be3f3e2021e57fab2a1855179e791ae8321.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/06/china_vs_usa_ai_race.png",
+      "fulltext_status": "ok",
+      "read_minutes": 3
+    },
+    {
+      "id": "n308e3a536b38",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+      "original_title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far mo…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+          "is_primary": false,
+          "published_at": "2026-11-11T20:12:47+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T20:12:47+08:00",
+      "updated_at": "2026-11-11T20:12:47+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "OpenAI 季度营收增至 100 亿美元，仍在大量烧钱",
+      "lead_zh": "据 The Decoder 报道，OpenAI 季度营收增长 50% 至 100 亿美元，但调整后经营亏损升至 109 亿美元，经营效率仍不及 Anthropic。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder 援引《华尔街日报》和 The Information 的报道称，OpenAI 第三季度营收环比增长约 **50%**，达到 **100 亿美元**；第二季度增速只有 17% 到 18%，一年前同期营收为 **39 亿美元**。",
+            "尽管营收一年内翻了约三倍，调整后经营亏损仍从 **101 亿美元**小幅升至 **109 亿美元**，这还不含升至 **26 亿美元**的股权激励。调整后经营利润率从第二季度的负 150% 改善到负 109%。",
+            "对手 Anthropic 第三季度营收增长 47% 至 **170 亿美元**，含股权激励的经营亏损只有 **5.67 亿美元**。消费端方面，ChatGPT 周活跃用户达 **12 亿**，付费订阅用户 **1 亿**。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据 OpenAI 总裁 Greg Brockman 称，这是营收的一个惊人转折点，企业业务在第三季度翻倍，已占营收的大头，他还举出摩根大通等大客户为例。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "The Decoder 认为，两家效率差距源于商业模式：Anthropic 专注企业客户和 Claude Code 等工具，OpenAI 则投入机器人等广泛研究并运营昂贵的消费业务，如今正靠降价在企业市场掀起价格战。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "ok",
+      "read_minutes": 2
+    },
+    {
+      "id": "n8b208eddf6e2",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "ICYMI: What landed for AI builders in October 2026",
+      "original_title": "ICYMI: What landed for AI builders in October 2026",
+      "summary": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
+          "is_primary": true,
+          "published_at": "2026-11-12T06:26:40+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T06:26:40+08:00",
+      "updated_at": "2026-11-12T06:26:40+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "AWS 回顾 2026 年 10 月面向 AI 开发者的更新",
+      "lead_zh": "AWS 汇总了 10 月 Amazon Bedrock、AgentCore 和 Strands 的主要更新，包括新模型、提升智能体可用性与可靠性的功能及更清晰的成本信息。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS 汇总了 2026 年 10 月面向 AI 开发者的主要更新，涉及 Amazon Bedrock、Bedrock AgentCore 和开源智能体开发工具包 Strands。Bedrock 提供主流模型和安全构建、扩展 AI 应用的工具，AgentCore 则用于以任意模型和框架构建、连接和优化智能体。",
+            "文章提到，智能体进入核心业务流程后要求更高：需要随任务、预算和延迟目标切换模型；主模型被限流或不可用时要能继续工作；要在设定的边界内行动，输出能被其他软件直接使用；回答要基于允许的来源，成本在大规模使用时也要可控。",
+            "10 月的更新包括帮助按价格和速度匹配任务的新模型，覆盖从大批量子智能体到实时语音的场景，以及让智能体保持可用、遵守流程的 Bedrock 和 AgentCore 改进。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/ea12e38ccd2f2670145340f636fe3981ed99d962.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-22436-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6dbf5bd5b92f",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+      "original_title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+      "summary": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanni…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
+          "is_primary": true,
+          "published_at": "2026-11-12T05:05:59+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T05:05:59+08:00",
+      "updated_at": "2026-11-12T05:05:59+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "AWS re:Invent 2026 人工智能分会场参会指南",
+      "lead_zh": "AWS re:Invent 2026 设有超过 140 场 AI/ML 分会场活动，这份指南帮助参会者按角色和目标挑选分享、研讨和动手课程。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS 年度大会 re:Invent 将于 **11 月 30 日至 12 月 4 日**举行，内容包括 AWS 领导者的主题演讲、专家带领的互动课程，以及 re:Play 现场娱乐和游戏等活动。大会共有超过 **2000** 场按主题和难度划分的学习课程，其中 AI/ML 分会场有超过 **140** 场独立课程。AWS 称这是其年度最重要的学习活动，帮助参会者全面提升各领域的 AWS 技术能力。",
+            "参会者可以选择分享会、白板讨论、动手构建课、工作坊和代码讲解等形式。分享会会录制，几天后上传到 AWS Events 的 YouTube 频道，其余形式则是不录制的现场互动课程。无法到场的人也可以点播许多课程并在线观看主题演讲直播。这份指南按角色和目标帮参会者挑选合适的 AI/ML 课程。其中分享会是时长 **60 分钟**的讲座形式。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/32023822ffe477a39a5c5b34c189d6ee63e3d05a.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-22321-featured-image-4.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n3beb9de1922e",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Automating AWS Agent Registry updates with push-based architecture",
+      "original_title": "Automating AWS Agent Registry updates with push-based architecture",
+      "summary": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server cha…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
+          "is_primary": true,
+          "published_at": "2026-11-12T04:52:48+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T04:52:48+08:00",
+      "updated_at": "2026-11-12T04:52:48+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "AWS 教程：用推送架构自动更新智能体注册表",
+      "lead_zh": "AWS 博客演示如何借助云端审计日志、事件总线、无服务器函数和身份服务搭建事件驱动流水线，在服务器变化时自动更新智能体注册表。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS 博客介绍如何让 AWS Agent Registry（Amazon Bedrock AgentCore 的一项功能）自动保持最新。每当注册表中发布的 MCP 服务器新增工具或更新接口定义，注册记录都要同步更新，否则使用方看到的就是过时的元数据。",
+            "文章指出，如果工程师给 MCP 服务器加了工具却忘了更新目录，使用方会完全错过新能力，应用也可能按旧的接口定义调用工具，导致意外的运行行为或悄无声息的流程偏差。久而久之，团队会退回到硬编码端点、口口相传和过期文档等临时做法。",
+            "为此，文章给出一套事件驱动方案，结合 CloudTrail、EventBridge、Lambda 和 AgentCore Identity，在检测到服务器变化后自动推送更新注册记录。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/a73df01aabe1408cbe3aab0744dcdb1ea14cf444.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21088-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n2f5ac4847b02",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+      "original_title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+      "summary": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substr…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
+          "is_primary": true,
+          "published_at": "2026-11-12T04:45:45+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T04:45:45+08:00",
+      "updated_at": "2026-11-12T04:45:45+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "DXC 在 Amazon Bedrock 上搭建多模型 AI 底座",
+      "lead_zh": "为 70 个国家受监管机构提供托管 IT 服务的 DXC，介绍了如何在受治理的 Bedrock 多模型底座上构建人机协同运营模式 OASIS。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS 博客与 DXC Technology 的 Nick Tamburro 合写文章，介绍 DXC 如何在 Amazon Bedrock 上搭建受治理的多模型底座，支撑其人机协同运营模式 DXC OASIS。DXC 为 **70** 个国家的受监管机构提供关键托管 IT 服务。",
+            "通过单一托管接口，OASIS 可调用 Anthropic Claude、Amazon Nova、Meta Llama 及多个开放权重模型系列；Bedrock Guardrails 对所有模型统一执行内容过滤、个人身份信息脱敏和禁用话题策略，AWS PrivateLink 让推理流量留在客户的虚拟私有云内，无服务器扩展则避免自建 GPU 基础设施成为故障点。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "文章怎么说",
+          "paras": [
+            "文章称，近期一些自主智能体做出操作者未曾预料的破坏性操作，说明真正的风险很少只来自模型本身，而是智能体拥有超出任务所需的权限，架构里却没有任何约束，因此要从基础设施层面治理模型访问。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/bdb93bbca8b01734fd656bd5056009f3aa4186f6.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-21702-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n40b346949510",
+      "category": "政策与安全",
+      "importance": 1,
+      "verified": true,
+      "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+      "original_title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+      "summary": "Health & Bioscience",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google Research Blog",
+          "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+          "is_primary": true,
+          "published_at": "2026-11-12T03:54:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T03:54:00+08:00",
+      "updated_at": "2026-11-12T03:54:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "谷歌研究：用可穿戴设备做心肾代谢风险评估",
+      "lead_zh": "谷歌研究博客介绍利用可穿戴设备数据进行心血管、肾脏和代谢综合风险画像，用于个性化健康指导。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌研究博客介绍了利用可穿戴设备评估心血管、肾脏和代谢（CKM）综合征风险的研究。心脏病、肾病以及 2 型糖尿病等代谢疾病并非彼此孤立，而是相互关联，其进展往往在症状出现前多年就悄然开始，并受到运动、睡眠和心血管活动等日常习惯影响。文章强调，及早捕捉这些细微变化，是扭转病情发展趋势的最佳机会。",
+            "文章指出，智能手表能轻松记录昨天做了什么，但从被动记录走向有意义的行动要难得多，比如多睡 **30 分钟**或每天快走一次，三个月后健康会改善多少。单看实际年龄不够，同年出生的人生理健康可能差别很大；现有基于血液检测或可穿戴传感器的生物钟大多不是为日常指导设计的，很多只是在估算出生年份，或像黑箱一样无法说明改变某个习惯的影响。研究想回答的问题之一是：日常习惯此刻正如何影响我的 CKM 风险。"
+          ],
+          "sources": [
+            "Google Research Blog"
+          ]
+        }
+      ],
+      "image_url": "img/ebea633a7bfba9adbb4b23326979b7b5b6eaf4b5.jpg",
+      "image_source": "Google Research Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/CKMHealthHero.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n0afd1907df33",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "Accelerating generative AI delivery with reusable assets",
+      "original_title": "Accelerating generative AI delivery with reusable assets",
+      "summary": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
+          "is_primary": true,
+          "published_at": "2026-11-12T03:19:21+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T03:19:21+08:00",
+      "updated_at": "2026-11-12T03:19:21+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "AWS 提供 23 个可复用生成式 AI 组件加速交付",
+      "lead_zh": "AWS 指出生成式 AI 团队总在重复搭建检索增强、文档处理和智能体框架，并介绍一份含 23 个可直接用于生产的开源组件目录。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS 博客指出，构建生成式 AI 方案的团队经常重复搭建已有组件，例如检索增强生成流水线、文档处理器和智能体框架，代价是没把时间花在解决客户的真正问题上。文章介绍如何获取 AWS 生成式 AI 创新中心（现属 AWS Frontier AI Engineering & Services）整理的 **23** 个可用于生产的开源资产目录。",
+            "该中心自 **2023** 年起陆续发布开源可复用资产，作为经过验证的起点，替代从空白文件开始。文章还会说明团队为何反复重建组件、怎样的资产才算真正可复用，以及 DoorDash、理光等公司如何借助这些资产取得成效。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "AWS 怎么说",
+          "paras": [
+            "据 AWS 称，这些资产能把开发周期从数月缩短到数周，已支撑的客户方案带来了测试能力提升 **50 倍**、工程工时减少 **90%** 等可量化结果。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/5ec2c9a6a5a541a8cfaf4dc32f6497a3f1e37f8b.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-20608-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6e11a23c0428",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "original_title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "summary": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, De…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
+          "is_primary": true,
+          "published_at": "2026-11-12T00:05:33+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T00:05:33+08:00",
+      "updated_at": "2026-11-12T00:05:33+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "AWS Quick 用六个智能体串起 AI 驱动产品开发",
+      "lead_zh": "AWS 介绍如何用 AWS Quick 中的六个智能体搭建 AI 驱动的产品开发生命周期，从零散客户信号一路走到经过验证的原型。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS 博客介绍如何用基于 AWS Quick 的智能体改进和加快产品开发生命周期，并在流程中加入人工审批。文章认为，编码智能体能把清晰的需求更快变成可用软件，但无法弥补做错产品的问题，因此竞争优势正在向上游转移，集中在发现正确的客户问题、决定追求哪个机会、设计合适的体验、通过原型验证这四项活动。",
+            "做这些决策所需的信号散落各处：客户在 Slack 留下反馈，销售在 Salesforce 记录洞察，系统在 ServiceNow 记录事故，需求写在 SharePoint，工程任务在 Jira，决策发生在 Outlook 会议和邮件中。团队在工具间切换时，上下文会在每次交接中流失，AWS Quick 被定位为连接这些分散信息的一层。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/61c1795a46ac4353c7ee34cefaecccb82a81ec12.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/Accelerating-product-development-with-AI-driven-lifecycle-management-AI-PDLC-in-AWS-Quick.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n7026ee2cddf1",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+      "original_title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+      "summary": "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
+          "is_primary": true,
+          "published_at": "2026-11-11T23:50:55+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T23:50:55+08:00",
+      "updated_at": "2026-11-11T23:50:55+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "AWS 推出跨框架智能体评测系统 UAEF",
+      "lead_zh": "AWS 介绍通用智能体评测框架 UAEF，它把不同框架的运行轨迹转换为统一格式，再用 36 个内置指标打分，实现闭环评测。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS 介绍了通用智能体评测框架 UAEF。在 AWS 上构建智能体的团队会用到 LangGraph、LangChain、Strands Agents 和 Bedrock AgentCore 等不同框架，每个框架记录运行过程的方式各不相同，评测工具往往只针对单一框架的轨迹格式，换框架就要重做指标和打分逻辑。这种耦合让一个基本问题更难回答：改动提示词、模型或工具之后，智能体到底有没有变好。",
+            "UAEF 用适配器把各框架的轨迹转换成统一格式，再用覆盖 **7** 个维度的 **36** 个内置指标打分，维度包括工具调用、回答质量、负责任 AI、性能、多轮对话、多智能体协作和推理，并保存历史结果以便比较不同版本。",
+            "AWS 称，电信、医疗和金融服务行业的 **12** 家机构已用 UAEF 以统一指标评测其 AI 智能体，并在发布前比较不同版本。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/77e54061d1e0d79e816aed207caabce91b63df36.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-21994-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n3bb3af59874a",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+      "original_title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+      "summary": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepg…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+          "is_primary": true,
+          "published_at": "2026-11-11T23:10:23+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T23:10:23+08:00",
+      "updated_at": "2026-11-11T23:10:23+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "SageMaker 双向流式推理支持按用量计费",
+      "lead_zh": "AWS Marketplace 现支持对 SageMaker 双向流式推理按实际用量计量，模型提供商可按客户在实时流中的真实消耗收费。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS 宣布 Amazon SageMaker AI 双向流式推理支持按用量计量。此前，在 SageMaker 上部署流式模型的客户要为托管模型的端点基础设施付费，而在 AWS Marketplace 上架的模型提供商缺少按实时流中实际消耗收费的办法；现在提供商可以上报真实用量，用于 Marketplace 的软件费用结算，端点基础设施费用仍照常收取。",
+            "实时语音 AI 公司 Deepgram 是首发合作伙伴，在 AWS Marketplace 上推出按用量计费的语音转文字和文字转语音服务。此前双方已先后推出 SageMaker 实时推理的双向流式支持、基于 IAM 临时委托的企业安全认证以及增强的监控指标，这次的计量功能让计费方式与流式和实时 AI 负载的实际使用方式对齐。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/c1694838dbde36a60a8170d4de6d30b326dc6c92.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/28/ML-21045-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n52c1a0c9377c",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+      "original_title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+      "summary": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with expli…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+          "is_primary": true,
+          "published_at": "2026-11-11T09:07:19+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T09:07:19+08:00",
+      "updated_at": "2026-11-11T09:07:19+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "月之暗面最新大模型上线亚马逊云平台",
+      "lead_zh": "月之暗面的 Kimi K3.1 Pro 模型已在亚马逊云的 Bedrock 平台上线，可通过兼容 OpenAI 的多种接口调用，并介绍了推理优化方法。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS 宣布月之暗面的 Kimi K3.1 Pro Highspeed 上线 Amazon Bedrock。它属于新的 K3.1 系列，是 Kimi K3 的后训练版本，沿用相同的 3T 级开放权重架构和 **100 万**词元上下文窗口，但投入了多得多的后训练算力。",
+            "该模型与 Bedrock 上的 Kimi K3 使用相同的端点、接口和功能，已在用 Kimi K3 的开发者只需更换模型 ID 即可试用，支持工具调用、结构化输出、可调推理、图像输入和流式输出。AWS 表示数据在其数据边界内处理，不与月之暗面共享、不用于训练模型，推理请求始终零数据留存。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "厂商怎么说",
+          "paras": [
+            "据月之暗面称，额外训练主要针对长周期智能体任务并减少事实错误，同时提升财务建模、办公文档，以及游戏引擎、3D 场景和 CAD 脚本等编程任务的表现；Highspeed 版输出速度是 Kimi K3.1 Pro 的 **2–3 倍**。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/3bc85dc64f7c65260955ede7a1f1a140541ec3df.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-22229-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nd2296a64c0dc",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "original_title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary": "",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/token-pooling",
+          "is_primary": true,
+          "published_at": "2026-11-11T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T08:00:00+08:00",
+      "updated_at": "2026-11-11T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "多向量嵌入模型的词元池化感知训练方法",
+      "lead_zh": "Hugging Face 博客介绍一种面向多向量嵌入模型的训练方法，在训练阶段就考虑词元池化，以适配压缩后的检索表示。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Hugging Face 博客介绍了多向量嵌入模型的词元池化感知训练。多向量模型让查询中的每个词元都有机会在文档中找到匹配，表达力强，但文档向量会迅速膨胀，数百万篇文档的语料可能包含数亿个向量。词元池化通过合并相似的词元向量来压缩表示，但压缩越激进，越容易丢失有用信息。",
+            "池化感知训练让编码器学会在向量被合并时保留关键信息，从而在相同存储预算下检索得更好。作者用 Sentence Transformers 训练了一个用于压缩检索的模型：在 pool_factor 为 4、文档向量减少 **4 倍**时，常规训练的模型保留了未池化时 NanoBEIR nDCG@10 的 **94.6%**，池化感知训练则把这一比例提高到 **97.8%**。这篇文章借鉴了 Stefan Josef 的 Learn to Pool 研究和 LightOn 的池化正则化研究。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/e08c69fedc28b9d18417529bcae64af657c46676.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n09a822ceb033",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
+      "original_title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
+      "summary": "When two objects share a name, how much does their visual similarity explain, and what do the teaching examples add? First, we reanalyzed trial-level data from a large adult word-extension study (Lew…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.14116",
+          "is_primary": true,
+          "published_at": "2026-11-11T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T08:00:00+08:00",
+      "updated_at": "2026-11-11T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "论文：视觉相似度如何影响成人的词义扩展",
+      "lead_zh": "这篇论文重新分析大规模成人词义扩展实验的逐次数据，研究两个物体同名时视觉相似度和教学示例各自能解释多少。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "这篇论文研究两个物体同名时，视觉相似度能解释多少词义扩展，以及教学示例起什么作用。作者先重新分析了一项大型成人词义扩展研究的逐次数据，用冻结的自监督视觉编码器 DINOv2 计算每张测试图片与示例图片的距离，发现距离与扩展显著相关，每增加一个标准差，对数几率为 **-3.23**，样本为 **520** 人。",
+            "示例构成同样重要：看过三个示例后，如果示例是下位类别，成人只会把词扩展到 **1.1%** 的上位类别物品；如果示例是上位类别，比例升至 **77.5%**。在使用同一编码器的人工学习者中，连接两个类别的词，类别距离越远学得越不准，近、中、远三组的命名准确率分别为 **84.7%**、**65.4%** 和 **53.0%**。",
+            "编码器距离与三个数据集中人类相似度和混淆度指标相关，但作者指出，这并未构成人类距离能预测学习难度的确凿证据。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/b5badd9c3cfadc430ee1f4c99e85277e331ef17b.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.14116.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf4729026ce18",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "Prompt2Echo (P2Echo): Text-Prompted Multi-View Echocardiography Segmentation with One Model",
+      "original_title": "Prompt2Echo (P2Echo): Text-Prompted Multi-View Echocardiography Segmentation with One Model",
+      "summary": "Automated segmentation in multi-view echocardiography is essential for comprehensive cardiac assessment, yet remains challenging due to substantial anatomical and appearance variability across standa…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.13425",
+          "is_primary": true,
+          "published_at": "2026-11-11T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T08:00:00+08:00",
+      "updated_at": "2026-11-11T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "论文 P2Echo：一个模型完成多切面心超分割",
+      "lead_zh": "论文提出 Prompt2Echo，用文本提示驱动单个模型完成多切面超声心动图分割，以应对不同标准切面间巨大的解剖和外观差异。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "这篇论文针对多切面超声心动图的自动分割问题。由于不同标准声窗之间解剖结构和图像外观差异很大，自动分割一直很有挑战。作者提出 P2Echo，这是一个统一框架，用结构化、感知切面的文本提示控制单个模型，分割多个标准切面中的不同心脏结构。",
+            "与依赖隐式潜在先验的基础模型改造方法不同，P2Echo 通过新的动态图文对齐模块 DyITA 显式约束分割过程。该模块结合可微分路由机制和词元差分算子，根据所请求的切面和目标结构动态调节解码器特征，让网络无需改动架构就能为不同切面切换处理路径。",
+            "作者在一个大规模内部数据集以及三个外部数据集上做了实验，称 P2Echo 的表现达到或超过各切面专用模型和最先进的通用模型，而计算成本只是它们的一小部分，代码已公开。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/81cf4534ba593427a57ac235d4511b65a9dd50b8.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.13425.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n43095b8b4297",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking",
+      "original_title": "Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking",
+      "summary": "Diffusion language models (DLMs) generate text through iterative denoising, where decisions about which tokens to commit or remask strongly affect output quality. Existing certainty-aware strategies…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.10486",
+          "is_primary": true,
+          "published_at": "2026-11-11T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T08:00:00+08:00",
+      "updated_at": "2026-11-11T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "论文：扩散语言模型的频率感知重掩码推理扩展",
+      "lead_zh": "论文研究扩散语言模型在推理时扩展计算，提出频率感知的重掩码策略，改进去噪过程中提交或重掩哪些词元的决策。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "扩散语言模型通过迭代去噪生成文本，每一步决定提交或重新掩码哪些词元，会显著影响输出质量。现有方法依赖即时置信度或熵，但这类局部信号在困难推理题上可能误导模型。论文把推理时扩展视为对推理算力和解码策略的自适应分配，提出两阶段方法：先用快速基础采样器解决简单题，再对剩下的难题使用频率感知重掩码。",
+            "这一策略跟踪每个词元的预测在去噪步骤中变化的频率，优先提交频繁变化的词元，鼓励采样探索其他推理路径，而不是收敛到模型偏好的轨迹。在 LLaDA-8B-Instruct 和 Dream-7B-Instruct 上，相比强基线，MATH-500 准确率最多提升 **3.73** 和 **7.33** 个百分点，HumanEval 覆盖率最多提升 **11.39** 和 **10.98** 个百分点；对基础策略采样 100 次仍未解出的题，新方法能解出 **3.75%** 到 **18.75%**。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/683680de5afe18b1e69e31bb37f23033d498def8.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.10486.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n40453a70ddad",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "Embodied First Exam",
+      "original_title": "Embodied First Exam",
+      "summary": "Early successes on agentic robotics point to a potential paradigm shift toward using coding agents to control robots. Existing robotics benchmarks are built around visuomotor policy learning, leaving…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.12177",
+          "is_primary": true,
+          "published_at": "2026-11-11T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T08:00:00+08:00",
+      "updated_at": "2026-11-11T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "论文 Embodied First Exam：考察编码智能体控制机器人",
+      "lead_zh": "论文指出现有机器人基准围绕视觉运动策略学习构建，忽略了用编码智能体控制机器人的新范式，因此提出新的评测基准。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "论文指出，智能体机器人的早期成功预示着一种范式转变：用编码智能体来控制机器人。但现有机器人基准围绕视觉运动策略学习构建，无法回答编码智能体能否在物理约束下可靠控制各种机器人。为此作者推出 Embodied First Exam，一个统一、全面、面向智能体的评测框架，智能体可以自选直接控制、写代码控制或训练策略控制。",
+            "基准包含 **47** 种机器人上的 **35** 个任务套件、共 **1156** 个任务，其中 **9** 个新套件超出抓取放置，涵盖空间谜题、灵巧操作、多机器人交互、动态全身控制等。每个任务最多有三种评测设置：标准设置模拟真实世界，智能体只能获得传感器观测且默认不能重置环境；实时变体在智能体思考时环境持续运行；特权设置则开放完整模拟器状态和无限次重置，其成功率可作为近似上限。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/549a5cfd94b15ecd6ac60b6c2a8e3e61f64295ed.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12177.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf5cfdab0258a",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "LEASH: Stay Safe in Agentic Robotics",
+      "original_title": "LEASH: Stay Safe in Agentic Robotics",
+      "summary": "Foundation models such as GPT and Claude have shown strong capabilities in spatial understanding and embodied intelligence. These advances make agentic robotics a promising path toward artificial gen…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.14115",
+          "is_primary": true,
+          "published_at": "2026-11-11T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T08:00:00+08:00",
+      "updated_at": "2026-11-11T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "论文 LEASH：为智能体机器人加上安全约束",
+      "lead_zh": "论文指出 GPT、Claude 等基础模型已展现空间理解和具身能力，智能体机器人前景广阔，并聚焦其安全问题提出 LEASH 方法。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "论文指出，GPT、Claude 等基础模型在空间理解和具身智能上表现强劲，让智能体机器人成为通往机器人通用智能的可行路径，但用基础模型控制机器人存在严重安全风险，且缺乏全面的安全评测。作者推出 RoboRisk 基准，包含 **92** 个模拟任务和 **13** 个实体机器人任务，分为任务级拒绝、计划修复、执行时危险、注入和序列记忆五类，且所有任务都以闭环方式执行，而以往基准最多只覆盖其中两类。",
+            "作者评测了 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna、Claude Opus 5.5、Gemini 4 Argon 和 Grok 4.7 六个前沿模型，发现它们普遍有较高的伤害率，另外还评测了两个机器人专用接口。论文进一步提出 LEASH 安全框架，可集成到几乎任何智能体架构中，并借助决策模型实现安全约束。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/cbeb21626f832076c11c9cffaaa1bf6838966c36.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.14115.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n55fb77d5f91b",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+      "original_title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+      "summary": "The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
+          "is_primary": true,
+          "published_at": "2026-11-11T07:34:05+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T07:34:05+08:00",
+      "updated_at": "2026-11-11T07:34:05+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "用 LangGraph 和 AgentCore 搭建每日依赖监控",
+      "lead_zh": "AWS 教程演示用 LangGraph 和 Bedrock AgentCore 的网页搜索接口，搭建一个每天检查软件依赖动态并给出引用来源的智能体。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS 宣布 Amazon Bedrock AgentCore 的网页搜索接口正式可用，智能体和应用只需一次调用就能获得最新网页结果，并用已有的 AWS 凭证签名。所有查询都由亚马逊自己运营的网页索引响应，不会发送给第三方搜索引擎。文章指出，模型的训练数据无法回答当天的新变化，生产环境还需要可引用的结果，并能控制采信哪些来源。",
+            "每条结果包含页面标题、链接、发布日期和与查询相关的摘录，请求可以指定包含或排除的域名，并限定发布日期范围。在 Lambda、ECS 或 AgentCore 运行时上，智能体用执行角色调用接口，无需存储或轮换搜索密钥；该功能也可通过 AgentCore Gateway 使用。",
+            "文章随后演示如何用 LangGraph 搭建一个每日依赖监控智能体，跟踪安全公告、产品发布等每天变化的信息。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/314e8f1d3d37daa6f811418cd3a5f50a43ac101f.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/06/ML-22037-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nd8ee9ab549e4",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "United won’t let your AI agent book your flight",
+      "original_title": "United won’t let your AI agent book your flight",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+          "is_primary": false,
+          "published_at": "2026-11-12T05:54:21+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T05:54:21+08:00",
+      "updated_at": "2026-11-12T05:54:21+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "美联航不允许 AI 智能体代用户订机票",
+      "lead_zh": "美联航表示不会让个人 AI 助手代用户预订机票，理由是隐私和监管顾虑，并称目前尝试用 AI 智能体订票的人还不多。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 The Verge 援引《华尔街日报》报道，美联航表示不会让个人 AI 助手代用户在其平台订票，理由是隐私和监管顾虑。AI 智能体仍可以向用户展示美联航航班，但不能替用户完成交易。公司称目前尝试用 AI 智能体订机票的人还不多。",
+            "美联航担心智能体可能泄露客户信息或做出用户并不想要的购买，还可能绕开联邦规定中航空公司必须告知乘客的信息，例如让乘客确认行李中没有爆炸物。各行业企业都在权衡是否允许智能体交易，eBay 似乎已阻止智能体浏览网站，多家大银行也设了限制。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据美联航首席执行官 Scott Kirby 称，他不想再制造一个中间商。美联航也表示，随着第三方 AI 智能体进步，公司看到了其中的机会，未来可能重新考虑这一决定。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/d96dc465f281bef5e785ef9408e0badf179a5031.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0%2C10.721800295556%2C100%2C78.556399408888&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nae5556d61c0b",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "Why the data center you dread might never even be built",
+      "original_title": "Why the data center you dread might never even be built",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, t…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+          "is_primary": false,
+          "published_at": "2026-11-12T04:15:15+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T04:15:15+08:00",
+      "updated_at": "2026-11-12T04:15:15+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "你担心的数据中心，可能根本建不起来",
+      "lead_zh": "TechCrunch 分析称，数据中心热潮正遭遇地方反对、审批拖延和电力争夺等现实阻碍，许多规划项目可能最终无法落地。",
+      "body_zh": [],
+      "image_url": "img/2aac58ae8e89d2dd4d7e7ca01e2f3fa6bd7f2dfd.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n4d33a45a8c99",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+      "original_title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+      "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 millise…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
+          "is_primary": false,
+          "published_at": "2026-11-12T04:12:46+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T04:12:46+08:00",
+      "updated_at": "2026-11-12T04:12:46+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "谷歌推出 Gemini Decision 1，一次评估千个问题",
+      "lead_zh": "据 The Decoder 报道，谷歌新 API 可一次性评估最多 1000 个跨文本、图像、音频和视频的封闭式问题，响应约 150 到 250 毫秒。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 The Decoder 报道，谷歌 DeepMind 推出 Gemini Decisions API，这是专为快速封闭式判断设计的接口，可处理是否题、选择题和按量表打分等问题。底层模型 Gemini Decision 1 能在一次计算中处理最多 **1000** 个独立问题，输入可以是文本、图像、音频、视频和 PDF。",
+            "模型直接给选项打分，在 **150 到 250 毫秒**内返回概率和置信度。价格为每百万输入词元 **0.10 美元**，输出词元不收费。该接口已在 Google AI Studio 上线，OpenRouter、LangChain、Vercel 等平台的集成正在陆续推出。",
+            "报道指出，最近几周类似模型接连出现：初创公司 Jev 推出自家版本后，OpenAI、Cloudflare 和微软也很快跟进。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "谷歌怎么说",
+          "paras": [
+            "据谷歌称，这一接口比 Gemini 3.5 Flash-Lite 便宜约 **5 倍**，公司内部已经在用它为 Gemini Notebook 做动态模型路由、在 Stitch 中做设计原型，以及在谷歌搜索中做安全检查。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n70b89fd3ef03",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Meta is losing its longtime head of infrastructure",
+      "original_title": "Meta is losing its longtime head of infrastructure",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+          "is_primary": false,
+          "published_at": "2026-11-12T04:12:01+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T04:12:01+08:00",
+      "updated_at": "2026-11-12T04:12:01+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "Meta 长期基础设施负责人将卸任",
+      "lead_zh": "据科技媒体报道，自 2009 年起就在公司任职的 Meta 基础设施负责人 Janardhan 将卸任现有职务，这是公司又一高层人事变动。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Meta 向 TechCrunch 证实，长期担任基础设施负责人、同时是工程联席负责人的 Santosh Janardhan 将卸任。他于 **2009** 年加入公司，帮助 Meta 成长为今天的互联网巨头。接替者是今年早些时候加入、担任基础设施副总裁的 Dave Brown，他此前在亚马逊工作了 **19** 年，专注计算、云和 AI。",
+            "Janardhan 的离任最早由彭博社根据一份内部备忘录报道，备忘录没有说明原因，只提到需要交棒。他预计明年离开，今年早些时候他受命领导 Meta Compute，这一计划负责扩大公司在数据中心上的投入。近年 Meta 为在 AI 竞赛中跟上对手，基础设施投资大幅增加。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据一位 Meta 发言人称，Janardhan 会留下来完成过渡，并转任 Meta Compute 的顾问职务；对于他卸任的具体原因，Meta 没有立即回应询问。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/3f3ee8b6e2903bd8d10bda33b09b04ef2d0199bd.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nbdeaa23eb988",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "original_title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, t…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+          "is_primary": false,
+          "published_at": "2026-11-12T04:02:14+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T04:02:14+08:00",
+      "updated_at": "2026-11-12T04:02:14+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "反对声浪与繁琐审批持续拖慢美国数据中心建设",
+      "lead_zh": "TechCrunch 报道，数据中心热潮正面临地方反对、审批延误和电力短缺等障碍，项目推进速度明显放缓。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch 旗下播客 Equity 本期讨论数据中心热潮遇到的现实阻碍，包括广泛的地方反对、审批拖延和电力争夺。节目指出，在这些挑战之前还有一个更基本的问题：许多已宣布的项目可能根本不会动工。主持人 Rebecca Bellan 和 Tim De Chant 邀请 Ascend Analytics 市场与战略高级董事总经理 Brent Nelson，一起区分哪些项目可能建成、哪些可能永远落不了地。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "嘉宾怎么说",
+          "paras": [
+            "据 Nelson 称，数据中心储备项目被严重高估，只有一小部分会真正建成；如果泡沫破裂，租户选错的数据中心开发商可能陷入严重困境。他还认为民主党应该现在就推动审批改革，而不是等待更有利的政治时机，并谈到能源项目如何陷入审批循环。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/9a828a62fe3c26ac9b807fed5344c97571bb4d02.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nb1bde400e8cf",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "original_title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+          "is_primary": false,
+          "published_at": "2026-11-12T03:55:54+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T03:55:54+08:00",
+      "updated_at": "2026-11-12T03:55:54+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "记者用 OpenAI 模型教会小机器鸭走路和逗猫",
+      "lead_zh": "WIRED 记者讲述借助 OpenAI 模型教会 Microduck 机器鸭摇摆行走，还让它兼职当起小猫管家，并借此展望机器人未来。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "WIRED 记者讲述了自己借助 AI 开发机器人猫管家的经历。他用 OpenAI 的 GPT-6 Sol，教会 Pollen Robotics 和 Hugging Face 推出的小机器人 Microduck 的虚拟版本在房间里走动，并识别附近的孟加拉猫。实体机器人还没到货，但他认为模拟中的行为相对简单，应能迁移到真机上。",
+            "他计划让机器人自动给自家孟加拉猫 Leona 发零食，比如低头从 3D 打印的头戴储物仓里放出一颗。文章还提到，加州大学伯克利分校教授 Ken Goldberg 及其学生在 OpenAI 9 月发布 Astra 后看到其 3D 渲染演示，开始思考它能否帮助训练各类机器人所需的模拟。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "作者怎么说",
+          "paras": [
+            "据作者称，他只用几个小时就完成了虚拟机器人的编程和训练，以前这类事可能要花几周；他认为这得益于 OpenAI 最新模型很擅长理解和操作物理世界的 3D 表示，并把它转化为代码、智能体动作和机器人训练。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/5b05162389604441a97200f8fa9f6b8437be4ea6.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/master/pass/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n850c0644106f",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": false,
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "original_title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thir…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+          "is_primary": false,
+          "published_at": "2026-11-12T03:54:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T03:54:00+08:00",
+      "updated_at": "2026-11-12T03:54:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "CoreWeave 靠客户预付款和短期合同为扩张融资",
+      "lead_zh": "据 CoreWeave 三季度财报，公司越来越多要求客户预付、以具体合同抵押借款，并考虑可能带来更高价格的短期合同。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 TechCrunch 报道，出租 AI 算力的云服务商 CoreWeave 在周二公布的第三季度财报中披露，正在改变为扩张融资的方式：越来越多地要求客户预付、以具体客户合同为抵押借款，甚至寻求可能带来更高价格的短期合同。",
+            "该季度 CoreWeave 营收 **36.6 亿美元**，同比增长 **168%**，但净亏损 **7.09 亿美元**，季度利息支出 **8.46 亿美元**。公司积压订单达 **1325 亿美元**，预计未来三个月将收到约 **90 亿美元**客户预付款和押金，其中超过 30 亿美元与已建成产能的新合同有关，无需额外硬件投入。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据 CoreWeave 首席执行官 Michael Intrator 在财报电话会上称，公司不会以当前收益率利用无担保债券市场为业务融资，也没有这个必要。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "TechCrunch 认为，这些做法能让 CoreWeave 更高效地为增长融资，并从现有基础设施中榨取更多现金，但前提是当前的需求和定价能力能够持续。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/819aa5df3021da4cc5bbe86190a96ccd919af253.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n148cfca08abe",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
+      "original_title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
+      "summary": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
+          "is_primary": false,
+          "published_at": "2026-11-12T03:35:11+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T03:35:11+08:00",
+      "updated_at": "2026-11-12T03:35:11+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "美国企业 AI 支出 10 月创新高，但增速放缓",
+      "lead_zh": "据 Ramp AI 指数，10 月美国企业 AI 支出仅增长 1.65%，OpenAI 和 Anthropic 八成收入仍来自 1% 的公司。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 The Decoder 报道，跟踪金融服务商 Ramp 企业客户 AI 支出的 Ramp AI 指数显示，2026 年 10 月美国企业 AI 支出创下新高，但环比仅增长 **1.65%**。",
+            "AI 支出最高的前 1% 企业每名员工每月支出中位数为 **10200 美元**，增长 9%；普通企业则只有 **16.32 美元**，比上月增加不到 1 美元。企业客户在 OpenAI 上的支出环比增长 **2.1%**，Anthropic 只有 **0.5%**。同期每百万文本词元的平均价格下降了 **21%**。",
+            "该指数基于超过 **8.5 万**家美国企业的支付数据，但可能漏掉免费工具和个人账户的使用，且客户群偏向成长型、懂技术的大公司，AI 普及程度可能被高估。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "Ramp 怎么说",
+          "paras": [
+            "据 Ramp 首席经济学家 Ara Kharazian 称，他此前指出的结构性风险依然存在：1% 的企业贡献了 OpenAI 和 Anthropic 八成收入，这些企业主要是科技、金融和技术服务领域的风投支持公司，在这些行业之外 AI 几乎没有扩散。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6f3c74a04fea",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "original_title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+          "is_primary": false,
+          "published_at": "2026-11-12T03:34:55+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T03:34:55+08:00",
+      "updated_at": "2026-11-12T03:34:55+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "英国芯片公司 Fractile 完成 7.2 亿美元融资",
+      "lead_zh": "英国 AI 芯片初创公司 Fractile 完成 7.2 亿美元融资，跻身专用 AI 芯片赛道中融资最多的公司之列。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "英国 AI 芯片初创公司 Fractile 完成 **7.2 亿美元** C 轮融资，英国主权 AI 基金参与支持，领投方包括 Thrive Capital、Founders Fund、Lightspeed Venture Partners 和 Redpoint。这使它与 Axelera、Etched、OLIX 等一起跻身专用 AI 芯片赛道融资最多的初创公司之列。",
+            "据英国政府说法，此轮估值超过 **50 亿英镑**，英国《金融时报》和路透社信源报道约为 **70 亿美元**。Fractile 采用全栈路线，除硬件外还开发机器学习编译器，以加快大模型在其芯片上的运行；转型后的设计把常见的 DRAM 堆叠在每颗芯片上方，希望绕开内存与容量之间的取舍。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据 Fractile 首席执行官 Walter Goodwin 在领英上称，公司前面还有很多工作，新资金将让公司在明年交付首批芯片和系统。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/afcce761d00238fd4fc6a3d051ca4dff543cb498.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n94fcbf10f807",
+      "category": "政策与安全",
+      "importance": 1,
+      "verified": false,
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "original_title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+          "is_primary": false,
+          "published_at": "2026-11-12T03:22:22+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T03:22:22+08:00",
+      "updated_at": "2026-11-12T03:22:22+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "美国国会要求黄仁勋就涉华间谍事件作出说明",
+      "lead_zh": "据 TechCrunch 报道，众议院共和党人要求英伟达 CEO 黄仁勋就其与涉嫌中国间谍的私人关系参加闭门说明会。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch 援引彭博社报道称，美国国会正准备传唤英伟达首席执行官黄仁勋，要求他就与一名涉嫌中国间谍者的婚外情回答问题，彭博社的消息来自两名众议院共和党人。",
+            "一周前，众议院共和党人 Brian Mast、John Moolenaar 和 Rick Crawford 致信黄仁勋，要求他出席几个委员会的联合闭门说明会，说明他与 Megaspeed 高管、涉嫌中国间谍的 Alice Huang 之间的关系。英伟达没有立即回应 TechCrunch 的置评请求。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "议员怎么说",
+          "paras": [
+            "据众议院中国问题委员会主席 Moolenaar 周三在福克斯商业频道称，黄仁勋必须在当天结束前回复，如果不同意出席说明会，很可能会被传唤。众议院外交事务委员会主席 Mast 同日也表示，若黄仁勋不回应，委员会已准备好发出传票。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/4825d998e5561ccba583c3bf2da35bee54e9600d.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ndc8dd8269ac9",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
+      "original_title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
+      "summary": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
+          "is_primary": false,
+          "published_at": "2026-11-12T02:18:25+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T02:18:25+08:00",
+      "updated_at": "2026-11-12T02:18:25+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "DeepMind 用四周完成 Signal 加密核心形式化验证",
+      "lead_zh": "据报道，谷歌 DeepMind 的形式化证明工具只用四周就完成了对加密通讯应用 Signal 核心代码的数学验证，这类工作通常需要数年。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 The Decoder 报道，谷歌 DeepMind 发布 AlphaProof Code，这套 AI 系统能用数学方法证明软件无误地满足安全规范。研究人员在加密通讯应用 Signal 的加密协议上做了演示，用 **四周**完成了通常需要数年的工作。",
+            "以往的验证工作只停留在理论设计层面，而 AlphaProof Code 验证的是实际运行在用户设备上的加密核心代码。专家先定义形式化安全要求，再由基于 Gemini Carbon 的 AI 智能体用 Lean 证明语言写出超过 **600 万行**证明代码，只把约 **1%** 的代码标记出来交给人工复核；测试时故意植入的 **2** 个漏洞也被立刻发现。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据 Signal 首席技术官 Ehren Kret 称，在 AI 威胁日益增加的情况下，这种方法能增强人们对数据隐私的信任。DeepMind 则表示，计划通过 CodeMender 等系统把这一方法推广到电网和医疗设备等关键基础设施。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/273e4b7fb14c8030d922058d1843244e4391ce32.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/deepmind_alphaproof.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nc2f79d0f0a9a",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "original_title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+          "is_primary": false,
+          "published_at": "2026-11-12T02:16:40+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T02:16:40+08:00",
+      "updated_at": "2026-11-12T02:16:40+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "台积电将向 Anthropic 和 OpenAI 投资 10 亿美元",
+      "lead_zh": "Ars Technica 报道，台积电将向 Anthropic 和 OpenAI 投资 10 亿美元，被视为 AI 热潮中循环融资的最新例子。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 Ars Technica 援引路透社报道，台积电董事会批准向 Anthropic 和 OpenAI 合计投资 **10 亿美元**：最多 **5 亿美元**认购 OpenAI 面向大型投资者的优先股，另外 **5 亿美元**按 Anthropic 预期的上市价格购买其普通股。",
+            "台积电的晶圆厂生产了英伟达绝大多数数据中心 AI 芯片，以及苹果用于 iPhone、Mac 和计划中 AI 服务器的大部分定制芯片。工厂主要在台湾，也在日本和中国运营，并在美国亚利桑那州扩建产能、在德国新建工厂。而 Anthropic 和 OpenAI 都在为数据中心大量采购台积电制造的 AI 硬件。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "各方怎么看",
+          "paras": [
+            "据《华尔街日报》报道，这笔投资可能在 AI 交易出现疲态时给市场打一针强心剂；但分析人士也警告，投资方、供应商和客户之间的循环融资，让人难以判断 AI 硬件和服务的真实市场需求。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/96424419ad1b0d2698d86cd1aa55a2bbbd728ac4.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n2464a640b3fb",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "original_title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+          "is_primary": false,
+          "published_at": "2026-11-12T01:37:32+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T01:37:32+08:00",
+      "updated_at": "2026-11-12T01:37:32+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "Big Walk 用 AI 修漏洞，引发独立游戏圈反思",
+      "lead_zh": "Ars Technica 报道，游戏 Big Walk 用 AI 修复了一个漏洞，引发争议，许多独立游戏节评委认为任何 AI 编码都不可接受。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 Ars Technica 报道，独立游戏节（IGF）大奖评审团 50 多名成员中有 **19** 人周一发表联署声明，表示拒绝投票给任何以任何方式使用生成式 AI 的游戏，并呼吁 IGF 今后采取强硬的反 AI 政策。声明没有点名具体游戏，但到周二，热门合作解谜游戏 Big Walk 成为争论焦点。",
+            "开发商 House House 随后公开承认，在开发后期少量使用了大语言模型，帮助解决一些棘手的技术难题和漏洞，其中包括一个让游戏中阴影无限延长、拖慢运行的 Unity 引擎问题；聊天机器人给出的思路经大幅修改后，变成最终游戏中的 **10** 行代码。公司称此前在 Steam 发布时未披露，是因为 Valve 不要求披露代码或聊天机器人的使用。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据 House House 称，AI 使用量远低于游戏代码的 **0.1%**，这次披露并不是为使用 AI 工具背书，并为可能未达到反 AI 人士标准而道歉。评委 Austin Walker 和 Damon Reece 都曾高度评价这款游戏，但表示在评奖时，哪怕极少量使用 AI 也会压过他们对作品的敬意。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/521dbae7618323bb1570b10938b271ad6519bcd1.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "na7761420660d",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "original_title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+          "is_primary": false,
+          "published_at": "2026-11-12T01:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T01:00:00+08:00",
+      "updated_at": "2026-11-12T01:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "初创公司想用 AI 对抗 AI 生物武器",
+      "lead_zh": "WIRED 报道，Radical Numerics 开发了一个模型，称能在不联网的情况下识别天然及 AI 设计的病原体。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 WIRED 报道，总部位于旧金山的初创公司 Radical Numerics 周三发布端侧模型 Omnii Defense，只需一台笔记本电脑和一个 USB 基因测序仪，就能标记天然的和 AI 设计的病原体，并且可以离线运行，方便网络不稳定的野外研究人员使用。",
+            "公司创始团队曾在斯坦福大学读博期间参与开源 DNA 基础模型 Evo 和 Evo-2 的研发，于 **2025** 年创立公司。此前公司推出了基因组语言模型 Omnii，它除 DNA 外还利用 RNA、蛋白质和表观遗传信号等生物信息；10 月公司宣布用 Omnii 设计了定制噬菌体。报道也提到，许多科学家认为 AI 制造生物武器的可能性较低。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据联合创始人兼首席执行官 Eric Nguyen 称，生物防御领域正迎来类似网络安全的军备竞赛，攻防双方都在借助 AI 争取优势，而生物安全在防御一侧已经远远落后。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/e280d71009ea74e17328dd2f78a40ba21fd0be7b.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6af2619c5a9cd51895c4c0be/master/pass/science_ai_fight_bioweapon.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n7a8ca7de71bd",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "original_title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+          "is_primary": false,
+          "published_at": "2026-11-12T00:16:07+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T00:16:07+08:00",
+      "updated_at": "2026-11-12T00:16:07+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "黄仁勋事件背后，业内类似行为或更普遍",
+      "lead_zh": "TechCrunch 援引一位投资情报顾问称，业内很多高层知道这类事情在发生，实际上是在默许。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch 报道，英伟达首席执行官黄仁勋的美人计丑闻仍在冲击 AI 行业，但业内有人认为问题远不止一个人。报道指出，中国政府数十年来一直活跃于经济间谍活动，而半导体处在 AI 热潮中心，渗透相关公司的压力很大；同时许多借热潮致富的高管也让自己成了容易下手的目标。",
+            "投资情报公司 Heron Intelligence 首席执行官 Nate Singer 的公司专做企业尽职调查，帮客户在重大收购或聘请高管前摸清底细。他在一篇广为流传的领英帖子中讲述了一个案例：一位 CEO 的妻子突然闯进董事会，指责丈夫和另一名高管带着两名年轻女子乘公司专机出行，而这两人后来被发现是国家支持的人员。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "当事人怎么说",
+          "paras": [
+            "据 Singer 称，英伟达的案例尤其严重，但半导体行业还有很多类似情况未被曝光，他至少看到过 **3** 起类似报告，怀疑更多没有上报；他还称业内很多高层知道这些事情在发生，实际上是在默许。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/6694fc452fd2585b659a3213445652ed1fff64e7.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n2ed3a890d3d8",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "original_title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+          "is_primary": false,
+          "published_at": "2026-11-12T00:14:44+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T00:14:44+08:00",
+      "updated_at": "2026-11-12T00:14:44+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "OpenAI 季度营收据报首次突破 100 亿美元",
+      "lead_zh": "据 TechCrunch 报道，OpenAI 季度营收达 100 亿美元，较第二季度的 67 亿美元增长近 50%。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch 援引彭博社基于匿名信源的报道称，受近期 AI 模型需求强劲推动，OpenAI 季度营收首次突破 **100 亿美元**，较第二季度的 **67 亿美元**增长近 **50%**，而此前一、二季度之间的增速约为 18%。",
+            "报道称 OpenAI 的盈利状况也有改善，调整后经营利润率从第二季度的 **-150%** 收窄到第三季度的 **-109%**，年化营收已达 **500 亿美元**。",
+            "竞争对手 Anthropic 此前公布第三季度营收为 **170 亿美元**，并称截至 10 月底年化营收一个月内增加 100 亿美元，达到 **810 亿美元**；两家公司计算年化营收的方式并不相同。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "TechCrunch 认为，OpenAI 近期受益于更严格的定价、折扣、模型改进，以及更专注面向企业的产品和能帮人完成任务的智能体，而 Anthropic 此前在企业市场的营收增长上领先。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/7ae1a2968fac261c34fc0753020ba8977bf58169.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n87a2a2e6ed68",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "original_title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+          "is_primary": false,
+          "published_at": "2026-11-12T00:13:03+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T00:13:03+08:00",
+      "updated_at": "2026-11-12T00:13:03+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "AO3 停摆让同人读者与作者产生对立",
+      "lead_zh": "WIRED 报道，AO3 停摆后有作者发现作品未经同意被搬到镜像网站，一位同人作者称此事让她心里很不是滋味。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 WIRED 报道，同人小说网站 Archive of Our Own（AO3）在 **10 月 29 日**因安全事件下线，团队宣布网站将停摆最多 **四周**。AO3 托管了数十万个同人圈的超过 **1880 万**部作品，是全球访问量最高的网站之一。",
+            "停摆几天内，一些读者把自己保存在设备上的作品放进谷歌云盘的共享库，部分作品还被搬到 Squidgeworld、AO3.Life 等镜像网站，引发社区摩擦。一位化名 Avery、写了约六年同人的作者发现自己的作品被未经同意上传，她发邮件后作品被删除，但无法确认是否找到了所有副本；AO3.Life 随后已下线。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据 Avery 称，这对她来说是安全风险，一个坏人就可能在共享盘里放入恶意软件，此事让她心里很不是滋味。托管 Squidgeworld 的 Squidge.org 主席 Walter Hopgood 则称，网站会删除未经作者许可发布的作品。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/ec6e002dc5e385631c4ee2bfad3a71ca8e38c49f.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6af3b082973df10f7a2af251/master/pass/culture_fanfic_authors_replace_ao3.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf0476f4b70e9",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "original_title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+          "is_primary": false,
+          "published_at": "2026-11-12T00:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "谷歌 Tabletop 可生成定制化协作应用",
+      "lead_zh": "The Verge 报道，谷歌推出实验性 AI 工具 Tabletop，可生成定制化的协作空间，帮助用户与家人和朋友协调安排。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 The Verge 报道，谷歌推出实验性 AI 工具 Tabletop，可生成定制化的协作空间，帮助用户和家人、朋友协调安排。它在界面上与 Asana、Monday 等办公管理应用有些相似，但内置 AI 功能，用户只要描述需求，就能做出储蓄追踪、家务表、活动计划等个性化互动工具。测试版目前通过候补名单逐步开放，仅限美国 **18** 岁以上用户使用。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "谷歌怎么说",
+          "paras": [
+            "据 Google Labs 设计与工程负责人 Roman Nurik 在博客中称，用户放入链接、文件和想法，再向 @tabletop 发出指令或选择模板，就能生成互动行程、聚餐投票、费用分摊和对阵表，并把邀请链接发到群聊里让大家像用 Google 文档一样同时使用。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "The Verge 认为，Nurik 举的一些例子显然需要让儿童或青少年使用，用它做家庭规划也比办公软件更有吸引力，因此年龄限制可能只在公开测试期间存在。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/7efbd0babb83a006fbb7245fb4d103f93fb44291.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n3ab674d00e1b",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "original_title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+          "is_primary": false,
+          "published_at": "2026-11-11T23:30:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T23:30:00+08:00",
+      "updated_at": "2026-11-11T23:30:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "WIRED：中国的英伟达美人计并不意外",
+      "lead_zh": "WIRED 文章称，美人计是由来已久的情报手段，近年也有高调案例，并追问全球最有权势的 AI 高管为何仍会中招。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "WIRED 文章梳理了英伟达首席执行官黄仁勋卷入的间谍丑闻。事件始于万圣节前夕《纽约时报》一篇由六位记者署名的报道，称黄仁勋是一起中国间谍计划的目标：大约从 **2024** 年到 **2025** 年间，他被指与新加坡云服务商 Megaspeed 的前高管 Alice Huang（两人无亲属关系）有婚外情，美国情报机构曾就此发出警告。",
+            "文章提到，政府、军队和情报人员在反间谍培训中常被灌输一句口诀，意思是突然对普通人格外感兴趣的漂亮女性很可能另有目的；美国陆军反情报司令部还曾在情人节发帖调侃美人计。这则消息本周一度引发股价波动。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "WIRED 认为，美人计是由来已久的情报手段，近年也有高调案例；黄仁勋身为身家千亿美元的英伟达掌门人，所在公司是外国情报机构的首要目标之一，他理应清楚这种风险，因此中招更令人意外。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/da59e4423da3024b7383f4592a30124a4202d4e4.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6af3b2cb420c0dad2c15cd3b/master/pass/Jensen-Honeypot-Big-Story-2.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n7171fc053518",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+      "original_title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+      "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience fr…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+          "is_primary": false,
+          "published_at": "2026-11-11T23:12:53+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T23:12:53+08:00",
+      "updated_at": "2026-11-11T23:12:53+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "Helsing 推出为武器系统准备目标的 AI 系统",
+      "lead_zh": "Helsing 发布 Clarity 平台，用智能体把传感器数据提炼为武器系统目标建议，称每个决定都由具名人员负责并在欧洲掌控之下。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "德国国防科技公司 Helsing 周三在柏林发布 Clarity 平台，称其为智能体情报平台。软件会处理军事单位能接触到的全部数据，包括传感器信号、公开情报、书面报告和现有系统，由数百个专用 AI 智能体识别敌方部队、设施和位置，交由人员审核后再打包给相应武器系统。",
+            "Helsing 表示，Clarity 运行在客户自有基础设施上，模型和接口在欧洲开发，数据和操作完全由军方掌控；平台遵循模块化开放系统方法和北约标准，可对接任何厂商的效应器。这一市场目前由 Palantir 的 Maven 系统主导。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据 Helsing 称，打击决定始终由人做出，由人选定目标并批准每一次移交给武器系统；只有在多个独立来源一致且判断置信度高时才会推荐目标，每个决定都会记录负责人的姓名。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "The Decoder 认为，类似系统在伊朗、加沙以及一次涉华险情中的使用表明，这些关于人类监督的承诺在实践中会出现漏洞。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/1e025f15b2701122a27b90b312f62900c6bbf1a9.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/Helsing-Clarity.webp",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6619f09dbc0d",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "original_title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+          "is_primary": false,
+          "published_at": "2026-11-11T23:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T23:00:00+08:00",
+      "updated_at": "2026-11-11T23:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "Databricks 新智能体向 CEO 直言公司问题",
+      "lead_zh": "据科技媒体报道，Databricks 已有 1.2 万名员工，首席执行官坦言无法了解每个人，员工也不太会主动汇报问题，于是借助新的智能体了解实情。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 TechCrunch 报道，Databricks 周三发布了新版 AI 智能体 Genie，它能执行需要较长时间完成的多步骤任务。Databricks 为此构建了一套本体，让 Genie 能从客户存储在平台上的信息中获取所需上下文；公司称企业管理者可以给它分配各种任务，由它在无人监督的情况下完成。",
+            "首席执行官 Ali Ghodsi 向记者展示了自己的真实使用记录：让 Genie 分析员工满意度调查中得分较低的部分，并评估高管提出的改进方案；总结一次失败的大客户推介，包括对方购买前需要的功能；还在播客采访前回顾他以往的节目并预测可能的问题。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "CEO 怎么说",
+          "paras": [
+            "据 Ghodsi 称，公司已有 **1.2 万**名员工，他不可能认识每个人，员工也不太会向老板坦白问题，而 Genie 成了他了解哪些事情进展不顺的直言渠道。他还提到邓巴数，称这个神奇数字是 **150**。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/8c3736c72748168753c48ef0cb436b7e40f72289.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nddb95c61a535",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "original_title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult proble…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "is_primary": false,
+          "published_at": "2026-11-11T23:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T23:00:00+08:00",
+      "updated_at": "2026-11-11T23:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "The Verge：AlphaGenome 2 聚焦疾病的细胞根源",
+      "lead_zh": "The Verge 报道，DeepMind 推出新 AI 模型，解析 DNA 变化如何影响不同细胞，为科学家研究这一难题提供更细致视角。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 The Verge 报道，谷歌 DeepMind 发布新 AI 模型 AlphaGenome 2，它是去年发布的基因组预测模型 AlphaGenome 的后继者，用于解析 DNA 变化如何影响不同细胞，有望为理解疾病成因和寻找新疗法提供线索。",
+            "人体几乎每个细胞都携带相同的 DNA，但心肌细胞、皮肤细胞、对抗感染的免疫细胞等会开启或关闭不同基因，同一遗传变异在不同类型和状态的细胞中可能产生截然不同的效果。新模型正是要捕捉这些差异，它基于 **68** 种组织中超过 **1 亿**份单细胞图谱训练而成。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "DeepMind 怎么说",
+          "paras": [
+            "据 DeepMind 称，AlphaGenome 2 识别出的、能改变细胞基因表达的变异数量接近此前最好模型的 **2 倍**；研究人员还发现，它无需重新训练就能对新的细胞类型和生物状态做出预测，并能找出实验数据中的空白，帮助科学家决定下一步实验方向。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/33336583bbe6aaa20d8457c8412c21782b64e486.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "na7480e072992",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Adobe 公布四项 AI 实验项目：照片秒变 3D 场景，还能通过聊天设计 AI 角色",
+      "original_title": "Adobe 公布四项 AI 实验项目：照片秒变 3D 场景，还能通过聊天设计 AI 角色",
+      "summary": "IT之家 11 月 11 日消息，每年举办的 Adobe MAX 大会上，Adobe 展示的最令人印象深刻的技术之一，往往是那些仍处于实验阶段、尚未正式推出的创新功能。今天，该公司公布了最新一批实验项目：它们能够将普通图片转换为可探索的 3D 场景，通过与 AI 角色对话来设计角色形象，还能让照片编辑变成简单的复制粘贴操作。 首先是非常奇特的 Project Screen Test 项目，其旨在…",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/025/815.htm",
+          "is_primary": false,
+          "published_at": "2026-11-11T22:32:05+08:00"
+        }
+      ],
+      "published_at": "2026-11-11T22:32:05+08:00",
+      "updated_at": "2026-11-11T22:32:05+08:00",
+      "status": "normal",
+      "summary_mode": "excerpt",
+      "title_zh": "Adobe 公布四项 AI 实验：照片变 3D 场景",
+      "lead_zh": "Adobe 在 MAX 大会公布新一批实验项目，能把普通图片转为可探索的 3D 场景、通过对话设计 AI 角色，并让修图变成复制粘贴。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 IT之家报道，Adobe 在 MAX 大会上公布了最新一批名为 Sneaks 的实验项目。Project Screen Test 让用户先设定角色性格和声音，再像视频通话一样与 AI 角色对话，完善其背景、目标和习惯，最后生成动态试镜视频。Project Sight Span 能把照片、绘画和插画转换为可探索的 3D 空间，重新调整构图和视角，并保留原作风格。",
+            "Project Sound Bender 根据文字提示为视频生成音效，并提供一个方形控制面板，用户拖动光标即可实时混合四类声音。Project Rinse Repeat 基于 Photoshop，能把已完成的修图操作自动应用到同一张照片中的其他人物或物体上，且效果仍可编辑。这些项目目前都只是技术预览，未来可能进入 Creative Cloud 或 Firefly，但不保证全部推出。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "IT之家文章认为，这些实验都在尝试降低照片编辑、视频制作和音频混音的使用门槛；考虑到 AI 已是 Adobe 增长战略的核心，部分功能最终上线的可能性相当高，若足够实用，也可能取代创意从业者目前使用的部分工具和素材库。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/c90f0b7cad8c900f411505cbe9d91a9cdd26cdb6.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/4d686645-2b49-44a7-bb6a-df8573626e3f.jpg?x-bce-process=image/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    }
+  ]
+}

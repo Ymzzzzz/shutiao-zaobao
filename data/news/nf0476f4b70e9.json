@@ -1,0 +1,64 @@
+{
+  "id": "nf0476f4b70e9",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+  "original_title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+  "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "is_primary": false,
+      "published_at": "2026-11-12T00:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T00:00:00+08:00",
+  "updated_at": "2026-11-12T00:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "谷歌 Tabletop 可生成定制化协作应用",
+  "lead_zh": "The Verge 报道，谷歌推出实验性 AI 工具 Tabletop，可生成定制化的协作空间，帮助用户与家人和朋友协调安排。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 The Verge 报道，谷歌推出实验性 AI 工具 Tabletop，可生成定制化的协作空间，帮助用户和家人、朋友协调安排。它在界面上与 Asana、Monday 等办公管理应用有些相似，但内置 AI 功能，用户只要描述需求，就能做出储蓄追踪、家务表、活动计划等个性化互动工具。测试版目前通过候补名单逐步开放，仅限美国 **18** 岁以上用户使用。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "谷歌怎么说",
+      "paras": [
+        "据 Google Labs 设计与工程负责人 Roman Nurik 在博客中称，用户放入链接、文件和想法，再向 @tabletop 发出指令或选择模板，就能生成互动行程、聚餐投票、费用分摊和对阵表，并把邀请链接发到群聊里让大家像用 Google 文档一样同时使用。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "The Verge 认为，Nurik 举的一些例子显然需要让儿童或青少年使用，用它做家庭规划也比办公软件更有吸引力，因此年龄限制可能只在公开测试期间存在。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/7efbd0babb83a006fbb7245fb4d103f93fb44291.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

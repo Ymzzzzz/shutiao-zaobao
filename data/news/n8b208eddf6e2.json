@@ -1,0 +1,46 @@
+{
+  "id": "n8b208eddf6e2",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "ICYMI: What landed for AI builders in October 2026",
+  "original_title": "ICYMI: What landed for AI builders in October 2026",
+  "summary": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
+      "is_primary": true,
+      "published_at": "2026-11-12T06:26:40+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T06:26:40+08:00",
+  "updated_at": "2026-11-12T06:26:40+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "AWS 回顾 2026 年 10 月面向 AI 开发者的更新",
+  "lead_zh": "AWS 汇总了 10 月 Amazon Bedrock、AgentCore 和 Strands 的主要更新，包括新模型、提升智能体可用性与可靠性的功能及更清晰的成本信息。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS 汇总了 2026 年 10 月面向 AI 开发者的主要更新，涉及 Amazon Bedrock、Bedrock AgentCore 和开源智能体开发工具包 Strands。Bedrock 提供主流模型和安全构建、扩展 AI 应用的工具，AgentCore 则用于以任意模型和框架构建、连接和优化智能体。",
+        "文章提到，智能体进入核心业务流程后要求更高：需要随任务、预算和延迟目标切换模型；主模型被限流或不可用时要能继续工作；要在设定的边界内行动，输出能被其他软件直接使用；回答要基于允许的来源，成本在大规模使用时也要可控。",
+        "10 月的更新包括帮助按价格和速度匹配任务的新模型，覆盖从大批量子智能体到实时语音的场景，以及让智能体保持可用、遵守流程的 Bedrock 和 AgentCore 改进。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/ea12e38ccd2f2670145340f636fe3981ed99d962.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-22436-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

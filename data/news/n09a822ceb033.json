@@ -1,0 +1,46 @@
+{
+  "id": "n09a822ceb033",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
+  "original_title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
+  "summary": "When two objects share a name, how much does their visual similarity explain, and what do the teaching examples add? First, we reanalyzed trial-level data from a large adult word-extension study (Lew…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.14116",
+      "is_primary": true,
+      "published_at": "2026-11-11T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T08:00:00+08:00",
+  "updated_at": "2026-11-11T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "论文：视觉相似度如何影响成人的词义扩展",
+  "lead_zh": "这篇论文重新分析大规模成人词义扩展实验的逐次数据，研究两个物体同名时视觉相似度和教学示例各自能解释多少。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "这篇论文研究两个物体同名时，视觉相似度能解释多少词义扩展，以及教学示例起什么作用。作者先重新分析了一项大型成人词义扩展研究的逐次数据，用冻结的自监督视觉编码器 DINOv2 计算每张测试图片与示例图片的距离，发现距离与扩展显著相关，每增加一个标准差，对数几率为 **-3.23**，样本为 **520** 人。",
+        "示例构成同样重要：看过三个示例后，如果示例是下位类别，成人只会把词扩展到 **1.1%** 的上位类别物品；如果示例是上位类别，比例升至 **77.5%**。在使用同一编码器的人工学习者中，连接两个类别的词，类别距离越远学得越不准，近、中、远三组的命名准确率分别为 **84.7%**、**65.4%** 和 **53.0%**。",
+        "编码器距离与三个数据集中人类相似度和混淆度指标相关，但作者指出，这并未构成人类距离能预测学习难度的确凿证据。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/b5badd9c3cfadc430ee1f4c99e85277e331ef17b.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.14116.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "n55fb77d5f91b",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+  "original_title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+  "summary": "The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
+      "is_primary": true,
+      "published_at": "2026-11-11T07:34:05+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T07:34:05+08:00",
+  "updated_at": "2026-11-11T07:34:05+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "用 LangGraph 和 AgentCore 搭建每日依赖监控",
+  "lead_zh": "AWS 教程演示用 LangGraph 和 Bedrock AgentCore 的网页搜索接口，搭建一个每天检查软件依赖动态并给出引用来源的智能体。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS 宣布 Amazon Bedrock AgentCore 的网页搜索接口正式可用，智能体和应用只需一次调用就能获得最新网页结果，并用已有的 AWS 凭证签名。所有查询都由亚马逊自己运营的网页索引响应，不会发送给第三方搜索引擎。文章指出，模型的训练数据无法回答当天的新变化，生产环境还需要可引用的结果，并能控制采信哪些来源。",
+        "每条结果包含页面标题、链接、发布日期和与查询相关的摘录，请求可以指定包含或排除的域名，并限定发布日期范围。在 Lambda、ECS 或 AgentCore 运行时上，智能体用执行角色调用接口，无需存储或轮换搜索密钥；该功能也可通过 AgentCore Gateway 使用。",
+        "文章随后演示如何用 LangGraph 搭建一个每日依赖监控智能体，跟踪安全公告、产品发布等每天变化的信息。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/314e8f1d3d37daa6f811418cd3a5f50a43ac101f.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/06/ML-22037-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "nc2f79d0f0a9a",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+  "original_title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+  "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "is_primary": false,
+      "published_at": "2026-11-12T02:16:40+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T02:16:40+08:00",
+  "updated_at": "2026-11-12T02:16:40+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "台积电将向 Anthropic 和 OpenAI 投资 10 亿美元",
+  "lead_zh": "Ars Technica 报道，台积电将向 Anthropic 和 OpenAI 投资 10 亿美元，被视为 AI 热潮中循环融资的最新例子。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 Ars Technica 援引路透社报道，台积电董事会批准向 Anthropic 和 OpenAI 合计投资 **10 亿美元**：最多 **5 亿美元**认购 OpenAI 面向大型投资者的优先股，另外 **5 亿美元**按 Anthropic 预期的上市价格购买其普通股。",
+        "台积电的晶圆厂生产了英伟达绝大多数数据中心 AI 芯片，以及苹果用于 iPhone、Mac 和计划中 AI 服务器的大部分定制芯片。工厂主要在台湾，也在日本和中国运营，并在美国亚利桑那州扩建产能、在德国新建工厂。而 Anthropic 和 OpenAI 都在为数据中心大量采购台积电制造的 AI 硬件。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "各方怎么看",
+      "paras": [
+        "据《华尔街日报》报道，这笔投资可能在 AI 交易出现疲态时给市场打一针强心剂；但分析人士也警告，投资方、供应商和客户之间的循环融资，让人难以判断 AI 硬件和服务的真实市场需求。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/96424419ad1b0d2698d86cd1aa55a2bbbd728ac4.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

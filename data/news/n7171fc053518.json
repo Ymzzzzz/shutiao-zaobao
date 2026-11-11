@@ -1,0 +1,65 @@
+{
+  "id": "n7171fc053518",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+  "original_title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+  "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience fr…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+      "is_primary": false,
+      "published_at": "2026-11-11T23:12:53+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T23:12:53+08:00",
+  "updated_at": "2026-11-11T23:12:53+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "Helsing 推出为武器系统准备目标的 AI 系统",
+  "lead_zh": "Helsing 发布 Clarity 平台，用智能体把传感器数据提炼为武器系统目标建议，称每个决定都由具名人员负责并在欧洲掌控之下。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "德国国防科技公司 Helsing 周三在柏林发布 Clarity 平台，称其为智能体情报平台。软件会处理军事单位能接触到的全部数据，包括传感器信号、公开情报、书面报告和现有系统，由数百个专用 AI 智能体识别敌方部队、设施和位置，交由人员审核后再打包给相应武器系统。",
+        "Helsing 表示，Clarity 运行在客户自有基础设施上，模型和接口在欧洲开发，数据和操作完全由军方掌控；平台遵循模块化开放系统方法和北约标准，可对接任何厂商的效应器。这一市场目前由 Palantir 的 Maven 系统主导。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据 Helsing 称，打击决定始终由人做出，由人选定目标并批准每一次移交给武器系统；只有在多个独立来源一致且判断置信度高时才会推荐目标，每个决定都会记录负责人的姓名。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "The Decoder 认为，类似系统在伊朗、加沙以及一次涉华险情中的使用表明，这些关于人类监督的承诺在实践中会出现漏洞。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/1e025f15b2701122a27b90b312f62900c6bbf1a9.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/Helsing-Clarity.webp",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

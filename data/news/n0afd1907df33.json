@@ -1,0 +1,55 @@
+{
+  "id": "n0afd1907df33",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "Accelerating generative AI delivery with reusable assets",
+  "original_title": "Accelerating generative AI delivery with reusable assets",
+  "summary": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
+      "is_primary": true,
+      "published_at": "2026-11-12T03:19:21+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T03:19:21+08:00",
+  "updated_at": "2026-11-12T03:19:21+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "AWS 提供 23 个可复用生成式 AI 组件加速交付",
+  "lead_zh": "AWS 指出生成式 AI 团队总在重复搭建检索增强、文档处理和智能体框架，并介绍一份含 23 个可直接用于生产的开源组件目录。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS 博客指出，构建生成式 AI 方案的团队经常重复搭建已有组件，例如检索增强生成流水线、文档处理器和智能体框架，代价是没把时间花在解决客户的真正问题上。文章介绍如何获取 AWS 生成式 AI 创新中心（现属 AWS Frontier AI Engineering & Services）整理的 **23** 个可用于生产的开源资产目录。",
+        "该中心自 **2023** 年起陆续发布开源可复用资产，作为经过验证的起点，替代从空白文件开始。文章还会说明团队为何反复重建组件、怎样的资产才算真正可复用，以及 DoorDash、理光等公司如何借助这些资产取得成效。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "AWS 怎么说",
+      "paras": [
+        "据 AWS 称，这些资产能把开发周期从数月缩短到数周，已支撑的客户方案带来了测试能力提升 **50 倍**、工程工时减少 **90%** 等可量化结果。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/5ec2c9a6a5a541a8cfaf4dc32f6497a3f1e37f8b.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-20608-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

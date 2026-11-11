@@ -1,0 +1,55 @@
+{
+  "id": "n2464a640b3fb",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+  "original_title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+  "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "is_primary": false,
+      "published_at": "2026-11-12T01:37:32+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T01:37:32+08:00",
+  "updated_at": "2026-11-12T01:37:32+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "Big Walk 用 AI 修漏洞，引发独立游戏圈反思",
+  "lead_zh": "Ars Technica 报道，游戏 Big Walk 用 AI 修复了一个漏洞，引发争议，许多独立游戏节评委认为任何 AI 编码都不可接受。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 Ars Technica 报道，独立游戏节（IGF）大奖评审团 50 多名成员中有 **19** 人周一发表联署声明，表示拒绝投票给任何以任何方式使用生成式 AI 的游戏，并呼吁 IGF 今后采取强硬的反 AI 政策。声明没有点名具体游戏，但到周二，热门合作解谜游戏 Big Walk 成为争论焦点。",
+        "开发商 House House 随后公开承认，在开发后期少量使用了大语言模型，帮助解决一些棘手的技术难题和漏洞，其中包括一个让游戏中阴影无限延长、拖慢运行的 Unity 引擎问题；聊天机器人给出的思路经大幅修改后，变成最终游戏中的 **10** 行代码。公司称此前在 Steam 发布时未披露，是因为 Valve 不要求披露代码或聊天机器人的使用。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据 House House 称，AI 使用量远低于游戏代码的 **0.1%**，这次披露并不是为使用 AI 工具背书，并为可能未达到反 AI 人士标准而道歉。评委 Austin Walker 和 Damon Reece 都曾高度评价这款游戏，但表示在评奖时，哪怕极少量使用 AI 也会压过他们对作品的敬意。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/521dbae7618323bb1570b10938b271ad6519bcd1.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

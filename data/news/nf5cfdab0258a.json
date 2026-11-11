@@ -1,0 +1,45 @@
+{
+  "id": "nf5cfdab0258a",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "LEASH: Stay Safe in Agentic Robotics",
+  "original_title": "LEASH: Stay Safe in Agentic Robotics",
+  "summary": "Foundation models such as GPT and Claude have shown strong capabilities in spatial understanding and embodied intelligence. These advances make agentic robotics a promising path toward artificial gen…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.14115",
+      "is_primary": true,
+      "published_at": "2026-11-11T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T08:00:00+08:00",
+  "updated_at": "2026-11-11T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "论文 LEASH：为智能体机器人加上安全约束",
+  "lead_zh": "论文指出 GPT、Claude 等基础模型已展现空间理解和具身能力，智能体机器人前景广阔，并聚焦其安全问题提出 LEASH 方法。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "论文指出，GPT、Claude 等基础模型在空间理解和具身智能上表现强劲，让智能体机器人成为通往机器人通用智能的可行路径，但用基础模型控制机器人存在严重安全风险，且缺乏全面的安全评测。作者推出 RoboRisk 基准，包含 **92** 个模拟任务和 **13** 个实体机器人任务，分为任务级拒绝、计划修复、执行时危险、注入和序列记忆五类，且所有任务都以闭环方式执行，而以往基准最多只覆盖其中两类。",
+        "作者评测了 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna、Claude Opus 5.5、Gemini 4 Argon 和 Grok 4.7 六个前沿模型，发现它们普遍有较高的伤害率，另外还评测了两个机器人专用接口。论文进一步提出 LEASH 安全框架，可集成到几乎任何智能体架构中，并借助决策模型实现安全约束。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/cbeb21626f832076c11c9cffaaa1bf6838966c36.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.14115.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

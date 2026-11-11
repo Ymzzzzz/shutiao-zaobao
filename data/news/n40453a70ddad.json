@@ -1,0 +1,45 @@
+{
+  "id": "n40453a70ddad",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "Embodied First Exam",
+  "original_title": "Embodied First Exam",
+  "summary": "Early successes on agentic robotics point to a potential paradigm shift toward using coding agents to control robots. Existing robotics benchmarks are built around visuomotor policy learning, leaving…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.12177",
+      "is_primary": true,
+      "published_at": "2026-11-11T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T08:00:00+08:00",
+  "updated_at": "2026-11-11T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "论文 Embodied First Exam：考察编码智能体控制机器人",
+  "lead_zh": "论文指出现有机器人基准围绕视觉运动策略学习构建，忽略了用编码智能体控制机器人的新范式，因此提出新的评测基准。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "论文指出，智能体机器人的早期成功预示着一种范式转变：用编码智能体来控制机器人。但现有机器人基准围绕视觉运动策略学习构建，无法回答编码智能体能否在物理约束下可靠控制各种机器人。为此作者推出 Embodied First Exam，一个统一、全面、面向智能体的评测框架，智能体可以自选直接控制、写代码控制或训练策略控制。",
+        "基准包含 **47** 种机器人上的 **35** 个任务套件、共 **1156** 个任务，其中 **9** 个新套件超出抓取放置，涵盖空间谜题、灵巧操作、多机器人交互、动态全身控制等。每个任务最多有三种评测设置：标准设置模拟真实世界，智能体只能获得传感器观测且默认不能重置环境；实时变体在智能体思考时环境持续运行；特权设置则开放完整模拟器状态和无限次重置，其成功率可作为近似上限。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/549a5cfd94b15ecd6ac60b6c2a8e3e61f64295ed.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12177.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

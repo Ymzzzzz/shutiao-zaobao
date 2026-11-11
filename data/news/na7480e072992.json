@@ -1,0 +1,55 @@
+{
+  "id": "na7480e072992",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Adobe 公布四项 AI 实验项目：照片秒变 3D 场景，还能通过聊天设计 AI 角色",
+  "original_title": "Adobe 公布四项 AI 实验项目：照片秒变 3D 场景，还能通过聊天设计 AI 角色",
+  "summary": "IT之家 11 月 11 日消息，每年举办的 Adobe MAX 大会上，Adobe 展示的最令人印象深刻的技术之一，往往是那些仍处于实验阶段、尚未正式推出的创新功能。今天，该公司公布了最新一批实验项目：它们能够将普通图片转换为可探索的 3D 场景，通过与 AI 角色对话来设计角色形象，还能让照片编辑变成简单的复制粘贴操作。 首先是非常奇特的 Project Screen Test 项目，其旨在…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/025/815.htm",
+      "is_primary": false,
+      "published_at": "2026-11-11T22:32:05+08:00"
+    }
+  ],
+  "published_at": "2026-11-11T22:32:05+08:00",
+  "updated_at": "2026-11-11T22:32:05+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "Adobe 公布四项 AI 实验：照片变 3D 场景",
+  "lead_zh": "Adobe 在 MAX 大会公布新一批实验项目，能把普通图片转为可探索的 3D 场景、通过对话设计 AI 角色，并让修图变成复制粘贴。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 IT之家报道，Adobe 在 MAX 大会上公布了最新一批名为 Sneaks 的实验项目。Project Screen Test 让用户先设定角色性格和声音，再像视频通话一样与 AI 角色对话，完善其背景、目标和习惯，最后生成动态试镜视频。Project Sight Span 能把照片、绘画和插画转换为可探索的 3D 空间，重新调整构图和视角，并保留原作风格。",
+        "Project Sound Bender 根据文字提示为视频生成音效，并提供一个方形控制面板，用户拖动光标即可实时混合四类声音。Project Rinse Repeat 基于 Photoshop，能把已完成的修图操作自动应用到同一张照片中的其他人物或物体上，且效果仍可编辑。这些项目目前都只是技术预览，未来可能进入 Creative Cloud 或 Firefly，但不保证全部推出。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "IT之家文章认为，这些实验都在尝试降低照片编辑、视频制作和音频混音的使用门槛；考虑到 AI 已是 Adobe 增长战略的核心，部分功能最终上线的可能性相当高，若足够实用，也可能取代创意从业者目前使用的部分工具和素材库。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/c90f0b7cad8c900f411505cbe9d91a9cdd26cdb6.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/4d686645-2b49-44a7-bb6a-df8573626e3f.jpg?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

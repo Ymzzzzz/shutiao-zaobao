@@ -1,0 +1,55 @@
+{
+  "id": "nd8ee9ab549e4",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "United won’t let your AI agent book your flight",
+  "original_title": "United won’t let your AI agent book your flight",
+  "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book…",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "is_primary": false,
+      "published_at": "2026-11-12T05:54:21+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T05:54:21+08:00",
+  "updated_at": "2026-11-12T05:54:21+08:00",
+  "status": "normal",
+  "summary_mode": "excerpt",
+  "title_zh": "美联航不允许 AI 智能体代用户订机票",
+  "lead_zh": "美联航表示不会让个人 AI 助手代用户预订机票，理由是隐私和监管顾虑，并称目前尝试用 AI 智能体订票的人还不多。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 The Verge 援引《华尔街日报》报道，美联航表示不会让个人 AI 助手代用户在其平台订票，理由是隐私和监管顾虑。AI 智能体仍可以向用户展示美联航航班，但不能替用户完成交易。公司称目前尝试用 AI 智能体订机票的人还不多。",
+        "美联航担心智能体可能泄露客户信息或做出用户并不想要的购买，还可能绕开联邦规定中航空公司必须告知乘客的信息，例如让乘客确认行李中没有爆炸物。各行业企业都在权衡是否允许智能体交易，eBay 似乎已阻止智能体浏览网站，多家大银行也设了限制。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据美联航首席执行官 Scott Kirby 称，他不想再制造一个中间商。美联航也表示，随着第三方 AI 智能体进步，公司看到了其中的机会，未来可能重新考虑这一决定。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/d96dc465f281bef5e785ef9408e0badf179a5031.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0%2C10.721800295556%2C100%2C78.556399408888&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
