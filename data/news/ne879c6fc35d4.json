@@ -113,7 +113,7 @@
       },
       {
         "t": "img",
-        "src": "img/fulltext/35defec5379bde260ef4ad979b9893d9c6510c8c.jpg",
+        "src": "img/fulltext/c23810be76a47f25ec858fe3549131c959e74503.jpg",
         "origin_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/EUdRzfXXT2oOcMoR/ag1_vs_ag2_expr_cond_gdm_light_no_outline.gif",
         "caption_zh": "对比 AlphaGenome 1 和 2 处理细胞类型的方式。AlphaGenome 从一段 100 万个字母的 DNA 序列出发，并行输出固定的整体组织和细胞系结果。AlphaGenome 2 是一个条件模型，它在输入 DNA 序列的同时接收一个特定的生物学条件，这个条件可以从细胞类型参考目录中选择，也可以通过我们的细胞编码器，根据科学家自己的单细胞实验即时生成。",
         "source": "Google DeepMind Blog",

@@ -23,7 +23,30 @@
   "summary_mode": "excerpt",
   "title_zh": "你担心的数据中心，可能根本建不起来",
   "lead_zh": "TechCrunch 分析称，数据中心热潮正遭遇地方反对、审批拖延和电力争夺等现实阻碍，许多规划项目可能最终无法落地。",
-  "body_zh": [],
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 的 Equity 播客在太平洋时间 **2026 年 11 月 11 日**中午 12 点 15 分发出这一期，时长 **31** 分钟。主持人是 Rebecca Bellan 和 Tim De Chant，嘉宾是 Ascend Analytics 市场与战略高级董事总经理 Brent Nelson。",
+        "节目页面写道，数据中心热潮正遇到普遍的地方反对、审批拖延和电力争夺。在这些障碍真正起作用之前，更基本的问题是：不少已经宣布的项目可能从一开始就不会建成。页面同时写道，AI 基础设施投资涉及数十亿美元，把可能建成的项目和只停留在宣布阶段的项目区分开变得更重要。",
+        "这一期配图的说明是 **2026 年 9 月 14 日**费城一场要求暂停数据中心的集会。页面没有写集会人数、组织方或结果，上面这句话只复述图片说明本身。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "能确认什么",
+      "paras": [
+        "公开页面只有节目介绍，没有访谈逐字稿，也没有 Brent Nelson 对某个具体项目会不会建成的判断。因此这里不能补充他在 **31** 分钟节目里的结论，只能确认讨论范围停在反对意见、审批、电力，以及宣布本身可能落空这几件事上。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
   "image_url": "img/2aac58ae8e89d2dd4d7e7ca01e2f3fa6bd7f2dfd.jpg",
   "image_source": "TechCrunch",
   "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800",
