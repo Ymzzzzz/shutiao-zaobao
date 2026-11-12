@@ -1,0 +1,37 @@
+{
+  "id": "nf28f90d2895a",
+  "category": "政策与安全",
+  "importance": 2,
+  "verified": true,
+  "title": "律师事务所 Gilbert + Tobin 用人工智能重塑法律业务",
+  "original_title": "Gilbert + Tobin rethinks the business of law with AI",
+  "summary": "OpenAI 发布与律师事务所 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的对话，介绍这家律所如何借助人工智能重新思考法律业务的开展方式。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "is_primary": true,
+      "published_at": "2026-11-12T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T08:00:00+08:00",
+  "updated_at": "2026-11-12T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "律师事务所 Gilbert + Tobin 用人工智能重塑法律业务",
+  "lead_zh": "OpenAI 发布与律师事务所 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的对话，讨论该所用人工智能重塑法律业务。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "blocked",
+  "read_minutes": 0,
+  "fulltext": {
+    "status": "blocked",
+    "reason": "http_403",
+    "blocks": []
+  }
+}

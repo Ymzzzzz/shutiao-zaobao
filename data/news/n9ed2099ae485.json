@@ -1,0 +1,55 @@
+{
+  "id": "n9ed2099ae485",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "为 Bedrock 托管知识库工具实现细粒度访问控制",
+  "original_title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+  "summary": "亚马逊介绍如何通过 AgentCore Gateway，把托管知识库以 MCP 工具形式提供给智能体，同时用请求拦截器注入身份信息，从而保持按用户的细粒度访问控制。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
+      "is_primary": true,
+      "published_at": "2026-11-12T23:40:24+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T23:40:24+08:00",
+  "updated_at": "2026-11-12T23:40:24+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "为 Bedrock 托管知识库工具实现细粒度访问控制",
+  "lead_zh": "亚马逊介绍如何通过 AgentCore Gateway 把托管知识库以 MCP 工具形式提供给智能体，并用请求拦截器注入身份信息，保持按用户的访问控制。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "文章讲了什么",
+      "paras": [
+        "亚马逊云科技发文介绍，如何把 Amazon Bedrock 托管知识库作为 MCP 工具，经 Amazon Bedrock AgentCore Gateway 提供给智能体，同时保持按用户的访问控制。核心原则是不让大模型决定“当前用户是谁”，而由受信任的代码根据身份提供方已验证的信息注入身份。",
+        "托管知识库的 ACL 感知功能会在请求带上用户上下文时，只返回该用户有权查看的文档。但经网关暴露为工具后，用户上下文会变成由模型填写的工具参数。为此，方案用请求拦截器写入已验证身份，再用 AgentCore 中的策略独立校验，并用基于资源的策略限制对知识库的直接访问。示例可用一份 CDK 堆栈部署，默认还包含 CloudFront 上的演示网页。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "落地时要注意",
+      "paras": [
+        "作者提醒，Amazon S3 数据源的访问控制在摄入时固化，搜索时不会实时复核，权限变更要等下一次同步才生效；没有 ACL 条目的文档不会被摄入，ACL 配置错误也不会报错，只是相关文档被静默排除。Cognito 访问令牌默认不含邮箱声明，示例用预发生令牌的 Lambda 在邮箱已验证时写入，并要求用户池为 Essentials 或 Plus 方案。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/e489582253b76e572d8673564e6b2a04c5e82541.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-21865-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

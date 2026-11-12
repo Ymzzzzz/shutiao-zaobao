@@ -1,0 +1,157 @@
+{
+  "id": "nfc0f425d4885",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "Nebius 计划 2027 年投入约 400 亿美元扩建基础设施",
+  "original_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+  "summary": "Nebius 在三季度财报电话会上公布 2027 年约 400 亿美元建设计划，拟靠客户预付款和合同贷款融资；但微软租用的新泽西数据中心已推迟数月，股价当日下跌 17%。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "is_primary": false,
+      "published_at": "2026-11-13T05:27:10+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T05:27:10+08:00",
+  "updated_at": "2026-11-13T05:27:10+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Nebius 计划 2027 年投入约 400 亿美元扩建基础设施",
+  "lead_zh": "Nebius 在三季度财报电话会上公布 2027 年约 400 亿美元建设计划，同时微软租用的新泽西数据中心已推迟数月，引发对其融资模式的讨论。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 TechCrunch 报道，Nebius 在周四的三季度财报电话会上公布，2027 年计划投入 **400 亿美元**。公司拟依靠客户预付款以及以客户合同为支撑的贷款来为扩建融资。三季度营收 9.81 亿美元，同比增 571%；公司将 2026 年营收预期下调 2 亿美元至 30 亿美元，当日股价下跌 **17%**。",
+        "Nebius 的重要客户微软，正在新泽西州 Vineland 的数据中心采购人工智能算力，该项目已落后数月。双方合同价值最高可达 **194 亿美元**；目前计划到年底只交付略多于一半的微软容量，其余延至 2027 年第二季度。该站点由第三方 DataOne 运营，推迟原因是临时发电退出快于预期，站点正转向燃料电池。",
+        "调查媒体曾发现该站点至少有 45 台天然气发电机在无相应许可的情况下运行，新泽西监管部门因此对 DataOne 处以 110 万美元罚款。按合同摘要，若错过交付日期且未提供替代容量，微软可在宽限期后终止受影响服务。Nebius 季末现金为 **74 亿美元**，并预计 2027 年营收 120 亿至 130 亿美元。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据首席执行官 Arkady Volozh 在电话会上称，“以这样的规模建设本身就很难，延期目前是这个行业的一部分，我们也不能幸免。”首席收入官表示，与微软和 Meta 的交易都带有可观预付款，且在交付前就已到账。TechCrunch 同时引述彭博社报道称，微软正收紧对第三方项目的监督。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/682f2786f1e8518ea77c5e50e36d7803038e200f.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2300447831.jpg?w=1024",
+  "fulltext_status": "ok",
+  "read_minutes": 4,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Rebecca Bellan",
+    "author_title_zh": "",
+    "published_at": "2026-11-12",
+    "title_en": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "title_zh": "Nebius 用计划中的 400 亿美元支出，检验 neocloud 这一套打法",
+    "dek_en": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "dek_zh": "Nebius 计划通过客户预付款和贷款，为其 400 亿美元的人工智能基础设施扩建筹资，尽管微软一座数据中心的延期已让人对其融资模式产生疑问。",
+    "word_count_zh": 1384,
+    "read_minutes": 4,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "在周四的第三季度财报电话会上，neocloud 公司 Nebius 公布了 2027 年计划支出 400 亿美元，远超华尔街此前预期。这是一份雄心勃勃的计划，但所依赖的一系列既定项目，已经开始出现裂痕。",
+        "en": "In its third-quarter earnings call Thursday, the neocloud company Nebius laid out $40 billion in planned spending for 2027, far more than Wall Street had expected. It’s an ambitious plan, but it rests on a string of planned projects that are already starting to show cracks."
+      },
+      {
+        "t": "p",
+        "zh": "Nebius 计划依靠客户预付款，以及以客户合同作担保的贷款来为扩建筹资——本质上是用数据中心的未来价值为建设本身融资。但如果这些项目因延期或取消而陷入停滞，这种策略就会有风险。",
+        "en": "Nebius plans to fund the buildout by relying on customer pre-payments and loans backed by customer contracts — essentially using the future value of its data centers to finance their construction. But that can be a risky strategy if those projects get bogged down by delays or cancellations."
+      },
+      {
+        "t": "p",
+        "zh": "“按这种规模建设很难，延期也是我们这个行业眼下的一部分，”首席执行官 Arkady Volozh 在周四的财报电话会上说。“我们也不能幸免。”",
+        "en": "“Building at this scale is hard, and delays are part of our industry right now,” CEO Arkady Volozh said during Thursday’s earnings call. “We are not immune.”"
+      },
+      {
+        "t": "p",
+        "zh": "这份财报发布之际，正有报道称微软正对未能按时交付的 neocloud 交易降温。这对 Nebius 这类公司是个问题，因为它的融资策略正越来越依赖还款。如果不能按时形成产能，它就会在收入下滑的同时不断堆高成本。",
+        "en": "The earnings announcement comes on the heels of reports that Microsoft is cooling on neocloud deals that aren’t delivering on time. That’s a problem for companies like Nebius, whose financing strategy is becoming more dependent on repayments. Because if it can’t get to capacity on time, it will keep piling on costs while revenues slip."
+      },
+      {
+        "t": "p",
+        "zh": "Nebius 最大的客户之一是微软，后者正在为新泽西州 Vineland 一座现已落后数月的数据中心支付人工智能算力费用。Nebius 与微软的合同价值最高达 194 亿美元，但截止日期已经在往后推。目前计划在年底前交付的微软产能刚过一半，其余将在 Q2 2027交付。",
+        "en": "One of Nebius’s largest customers is Microsoft, which is paying for AI computing capacity at a Vineland, New Jersey data center that is now months behind schedule. Nebius’s contract with Microsoft is worth up to $19.4 billion, but it’s already letting deadlines slip. Only just over half of the Microsoft capacity is now planned for delivery by the end of the year, with the rest coming in Q2 2027."
+      },
+      {
+        "t": "p",
+        "zh": "延期的原因是该场地的第三方运营商 DataOne“决定比预期更快地停用临时发电”，产品与基础设施首席官 Andrey Korolenko 表示，因为该场地正在改用 Bloom Energy 的燃料电池。",
+        "en": "The delay is because DataOne, the third party operator of the site, “decided to wind down the temporary generation faster than it was expected,” according to Andrey Korolenko, chief product and infrastructure officer, as the site switches over to Bloom Energy fuel cells."
+      },
+      {
+        "t": "p",
+        "zh": "不过，这次转换并不完全出于自愿。8 月，调查网站 Floodlight 确认 DataOne 场地至少有 45 台天然气发电机在运行，尽管它并未获得任何运营燃气发电机的许可。新泽西监管机构为此对该设施罚款 110 万美元，认定使用这些发电机违反了联邦法律。",
+        "en": "Still, that transition wasn’t entirely by choice. In August, the investigative site Floodlight identified at least 45 natural gas generators in operation at the DataOne site, even though it had not received any permits for operating gas generators. New Jersey regulators fined the DataOne facility $1.1 million in response, finding that the use of the generators violated federal law."
+      },
+      {
+        "t": "p",
+        "zh": "DataOne 还面临附近居民提出的噪声投诉诉讼，称数据中心持续发出嗡嗡声。",
+        "en": "DataOne is also facing a noise-complaint lawsuit from nearby residents over a constant humming noise allegedly emitted by the data center."
+      },
+      {
+        "t": "p",
+        "zh": "根据 Nebius 对其微软合同的摘要，如果日期被错过且未提供替代产能，微软可以在宽限期后终止受影响的服务。这些批次原本计划在 2025 年和 2026 年部署，因此 Q2 2027的交付日期已远远超出该窗口。合同还包含延迟交付的经济处罚。",
+        "en": "According to Nebius’s summary of its Microsoft contract, Microsoft can terminate affected service after a grace period if dates are missed and no alternative capacity is offered. The tranches were originally meant to be deployed in 2025 and 2026, so a Q2 2027 delivery date falls well beyond that window. The contract also includes financial penalties for late delivery."
+      },
+      {
+        "t": "p",
+        "zh": "Nebius 表示，微软“一直参与规划过程”。Nebius 没有说明微软是否已同意新的日期，但微软尚未公开取消任何内容。",
+        "en": "Nebius said that Microsoft “has been part of the planning process.” Nebius did not say whether Microsoft has agreed to the new dates, but Microsoft has not publicly canceled anything."
+      },
+      {
+        "t": "p",
+        "zh": "TechCrunch 已联系 Nebius、微软和 DataOne 请求置评。",
+        "en": "TechCrunch has reached out to Nebius, Microsoft, and DataOne for comment."
+      },
+      {
+        "t": "p",
+        "zh": "在电话会上，Nebius 首席收入官 Marc Boroditsky 说，公司与微软和 Meta 的交易都带有可观的预付款，并且在交付前很久就已到账。但彭博上周报道，微软正在收紧对第三方运营项目的监督，包括 Nebius、IREN 和 Nscale，并在讨论是否还值得签署新协议。彭博还称，微软已派员工前往新泽西的场地。",
+        "en": "On the call, Marc Boroditsky, Nebius’s chief revenue officer said the company’s deals with Microsoft and Meta both came with significant prepayment, which arrived long before delivery. But Bloomberg reported last week that Microsoft is tightening oversight on projects run by third parties, including Nebius, IREN, and Nscale, and debating whether it’s worth signing new agreements. Microsoft also sent employees to the site in New Jersey, per Bloomberg."
+      },
+      {
+        "t": "p",
+        "zh": "微软在自己的季度财报中指出，由于第三方延期，其资本支出低于预期。该公司显然并不排斥在合作伙伴未能履行其分担义务时，从既定协议中后撤。彭博还报道，微软不会行使选择权，把与 Nscale 在得克萨斯一座数据中心的协议扩大到一倍以上，并在电力延期后，最近不再担任 Nscale 计划中 Essex 场地的锚点客户。",
+        "en": "In its own quarterly earnings report, Microsoft noted that its capex spend was lower than expected due to third-party delays. The company is clearly not above pulling back from planned agreements where its partner doesn’t meet its share of the bargain. Bloomberg also reported that Microsoft won’t use an option to more than double its Nscale agreement for a Texas data center and recently stopped being an anchor customer for Nscale’s planned Essex site after power delays."
+      },
+      {
+        "t": "p",
+        "zh": "Nebius 表示，它所面对的延期来自自己无法控制的场地，而它自行建设的数据中心正在按时或提前上线。Nebius 称，从 2027 年起，大部分新增产能将由这些自建设施提供。Boroditsky 说，Q3新签的交易附带的预付款，已超过建设相应产能的成本。Nebius 本季度结束时拥有 74 亿美元现金。",
+        "en": "Nebius says the delays it faces are coming from sites it doesn’t control, with the data centers it is building itself coming online on time or ahead of schedule. Those, Nebius says, will supply most of its new capacity from 2027. New deals signed in Q3 came with prepayments that more than cover the cost of building capacity behind them, says Boroditsky. Nebius ended the quarter with $7.4 billion in cash."
+      },
+      {
+        "t": "p",
+        "zh": "预付款总额，加上对投资级合同的资产担保融资，预计可覆盖 2027 年 40 至 45 billion 美元（400 亿至 450 亿美元）资本支出的最多 85%。首席财务官 Maria Del Dado Alonso Sanchez 点名微软和 Meta 的合同可以用这种方式融资。Boroditsky 还说，Nebius 可以“动用预付款来补上任何额外的现金需求”。",
+        "en": "Total prepayments plus asset-backed financing of investment-grade contracts are expected to cover up to 85% of the $40 to $45 billion 2027 capex spend. CFO Maria Del Dado Alonso Sanchez named Microsoft and Meta as contracts that can be financed this way. Boroditsky also said Nebius could “tap prepayments to shore up any additional cash requirements.”"
+      },
+      {
+        "t": "p",
+        "zh": "Nebius 预测 2027 年收入为 12 至 13 billion 美元（120 亿至 130 亿美元），并表示预计在第四季度实现税前盈亏平衡。",
+        "en": "Nebius forecast 2027 revenue of $12 to $13 billion, and said it expects to break even on a pre-tax basis by the fourth quarter."
+      },
+      {
+        "t": "p",
+        "zh": "Nebius 公布第三季度收入为 9.81 亿美元，同比增长 571%。其中大约三分之一是与新的合作模式相关的一次性付款。Nebius 把 2026 年收入预测下调 2 亿美元至 30 亿美元，理由是新泽西等第三方场地出现延期。当日收盘股价下跌 17%。",
+        "en": "Nebius reported third-quarter revenue of $981 million, up 571% from a year earlier. Roughly a third of that was a one-time payment tied to a new partnership model. Nebius cut its 2026 revenue forecast by $200 million to $3 billion, citing delays to third-party sites like New Jersey. Shares ended the day down 17%."
+      }
+    ]
+  }
+}

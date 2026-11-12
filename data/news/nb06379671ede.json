@@ -1,0 +1,37 @@
+{
+  "id": "nb06379671ede",
+  "category": "政策与安全",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI 承诺投入 200 万美元，支持儿童安全相关研究",
+  "original_title": "Supporting research on AI and children’s safety",
+  "summary": "OpenAI 宣布已承诺投入 200 万美元，专门资助人工智能与儿童安全领域的研究，用于开发可共享的衡量工具，以评估相关风险以及这些技术可能给年轻人带来的机会。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/children-first-declaration",
+      "is_primary": true,
+      "published_at": "2026-11-12T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T08:00:00+08:00",
+  "updated_at": "2026-11-12T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI 承诺投入 200 万美元，支持儿童安全相关研究",
+  "lead_zh": "OpenAI 宣布投入 200 万美元，资助人工智能与儿童安全相关的研究，用于开发衡量风险和机会的共享工具。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "blocked",
+  "read_minutes": 0,
+  "fulltext": {
+    "status": "blocked",
+    "reason": "http_403",
+    "blocks": []
+  }
+}

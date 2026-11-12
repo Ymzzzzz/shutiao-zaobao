@@ -1,0 +1,142 @@
+{
+  "id": "nca80552a275a",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "软银预购燃气轮机减记超 30 亿美元",
+  "original_title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+  "summary": "据 TechCrunch 报道，软银公布单季亏损 71 亿美元，其中逾一半来自发电设备相关损失；公司为锁定燃气轮机支付的不可退还订金被大规模减记，金额超过 30 亿美元。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "is_primary": false,
+      "published_at": "2026-11-13T01:00:52+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T01:00:52+08:00",
+  "updated_at": "2026-11-13T01:00:52+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "软银预购燃气轮机减记超 30 亿美元",
+  "lead_zh": "软银公布季度亏损 71 亿美元，其中逾一半来自发电设备相关损失，为锁定燃气轮机而支付的不可退还订金被大规模减记。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据 TechCrunch 报道，软银周二公布季度亏损 **71 亿美元**，其中逾一半来自发电设备相关损失。公司曾向轮机厂商支付不可退还订金以锁定订单，现在认为其中很大一部分已没有价值，相关减记超过 **30 亿美元**。",
+        "报道回顾，软银曾在 2025 年初对 OpenAI 下注 **300 亿美元**，并在今年 2 月宣布其子公司 SB Energy 将投入 **330 亿美元**建设 **9.2 吉瓦**的天然气发电厂。大约两年前起，软银据报为超过 **13 吉瓦**的轮机支付订金，数量比自身所需高出近 **50%**。当前轮机订单排队已延伸到 2030 年代初期。",
+        "Noreva 首席执行官 Peter Gardett 在发给 TechCrunch 的邮件中说，SB Energy 如果想马上拿到部分轮机，当时除了超前预订外别无选择，并认为这笔减记是“价格发现终于发生”。Ascend Analytics 市场与战略高级董事总经理 Brent Nelson 则在播客中表示，多数数据中心仍最好接入电网，再用大型电池弥补缺口、应对高峰或限电。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "文章怎么看",
+      "paras": [
+        "TechCrunch 认为，这笔超过 **30 亿美元**的错判，反映出人工智能行业对电力的狂热；但软银的天然气相关亏损不太可能引发发电项目大规模取消，因为电力需求仍然很大。报道称，目前天然气依旧走强，只是软银可能已经摸到了自己的天花板。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/2ff39205eb2831cf76ed99f323f695b10a8528a2.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Tim De Chant",
+    "author_title_zh": "",
+    "published_at": "2026-11-12",
+    "title_en": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "title_zh": "软银的数十亿美元亏损，或给人工智能的天然气雄心设了上限",
+    "dek_en": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+    "dek_zh": "软银在预购用于为人工智能数据中心供电的天然气轮机上损失超过 30 亿美元。以下是这笔亏损对电力市场的意义。",
+    "word_count_zh": 988,
+    "read_minutes": 3,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "软银未必是第一个押注热门趋势的投资者，但一旦出手，往往就会下很大的注。",
+        "en": "SoftBank might not be the first to invest in a hot trend, but when it does, it goes big."
+      },
+      {
+        "t": "p",
+        "zh": "看看它在 2025 年初对 OpenAI 投下的 300 亿美元，或是它在 2 月宣布子公司 SB Energy 将花费 330 亿美元建设一座 9.2 吉瓦的天然气发电厂。如果你当不成第一，那就做最大的，我猜是这样。",
+        "en": "Witness its $30 billion bet on OpenAI in early 2025 or its announcement in February that its SB Energy subsidiary would spend $33 billion on a 9.2-gigawatt natural gas power plant. If you can’t be first, be biggest, I guess."
+      },
+      {
+        "t": "p",
+        "zh": "这套理念显然也延伸到了采购，订单同样被做得很大。从大约两年前开始，据报软银为超过 13 吉瓦的轮机支付了定金，几乎比它所需的多出 50%。",
+        "en": "That philosophy apparently spilled over into procurement, where orders were also supersized. Starting about two years ago, SoftBank reportedly put down deposits on more than 13 gigawatts of turbines, almost 50% more than it needed."
+      },
+      {
+        "t": "p",
+        "zh": "超量下单的决定，无疑帮助它锁定了轮机，并加快了软银的项目进度。",
+        "en": "The decision to over-order undoubtedly helped secure turbines and speed up SoftBank’s projects."
+      },
+      {
+        "t": "p",
+        "zh": "“如果想马上拿到一部分轮机，SB Energy 除了超量预订未来的轮机，没有别的选择，”Noreva 首席执行官 Peter Gardett 在发给 TechCrunch 的电子邮件中说。",
+        "en": "“SB Energy did not have a choice except to overbook turbines in the future if they wanted some turbines right away,” Peter Gardett, CEO of Noreva, told TechCrunch via email."
+      },
+      {
+        "t": "p",
+        "zh": "能源行业对人工智能用电需求上升的速度和规模措手不及。轮机订单的排队现在已经排到 2030 年代初。当天然气正成为人工智能热潮中的首选电源时，首席执行官孙正义押注，凭借投资公司可观的资金储备，他可以独占市场的一部分。如果人工智能行业要为数据中心找到电力，就得来找他。",
+        "en": "The energy world was caught off guard by the swiftness and magnitude of AI’s rising power demands. Queues for turbine orders now extend into the early 2030s. As natural gas was shaping up to be a go-to power source for the AI boom, CEO Masayoshi Son bet that by deploying his investment firm’s significant war chest, he could corner a portion of the market. If the AI world wanted power for its data centers, it would have to come to him."
+      },
+      {
+        "t": "p",
+        "zh": "现在这笔赌注似乎已经落空。软银周二宣布单季亏损 71 亿美元，其中超过一半来自与发电设备相关的损失。这家投资机构曾向机制造商支付不可退还的定金以锁定订单，现在认为其中大部分已经没有价值。",
+        "en": "Now that bet appears to have fizzled. SoftBank announced a $7.1 billion quarterly loss on Tuesday, with over half of that stemming from losses related to power-generating equipment. The investor had paid turbine manufacturers nonrefundable deposits to secure orders, and now it considered much of those worthless."
+      },
+      {
+        "t": "p",
+        "zh": "Gardett 说，此举也是一次代价高昂的价格发现。软银没有选择可能仍买不够轮机的溢价方案，而是既溢价又超量下单。",
+        "en": "The move was also a costly bit of price discovery, Gardett said. Rather than overpay and potentially still be short of turbines, SoftBank overpaid and over-ordered."
+      },
+      {
+        "t": "p",
+        "zh": "“这笔计提，不过是价格发现终于发生了，”Gardett 说。",
+        "en": "“This charge is just that price discovery finally happening,” Gardett said."
+      },
+      {
+        "t": "p",
+        "zh": "这笔下错的赌注规模——超过 30 亿美元——也反映出人工智能行业里蔓延的电力狂热。面对接入电网可能长达数年的等待，许多超大规模厂商和开发商把天然气当成某种能源“安全毯”，因为它经过验证、也为人熟悉。",
+        "en": "The magnitude of that misplaced bet — over $3 billion — reflects some of the electricity mania that has overtaken the AI world. Faced with years-long waits to connect to the grid, many hyperscalers and developers have turned to natural gas as a sort of energy security blanket, something that is proven and familiar."
+      },
+      {
+        "t": "p",
+        "zh": "随着人工智能数据中心投入运行的时间变长，运营商对维持运转到底需要什么有了更清楚的感觉。天然气看起来像是稳妥的选择，但仍有风险，包括供应下降、需求飙升时的冬季限电，Ascend Analytics 市场与战略高级董事总经理 Brent Nelson 周三在 Equity 播客中表示。",
+        "en": "As AI data centers spend more time in operation, their operators are getting a better feel for what’s required to keep them operating. Natural gas might seem like a safe bet, but there are still risks, including winter curtailments when supplies dip and demand spikes, Brent Nelson, senior managing director of markets and strategy at Ascend Analytics, told the Equity podcast Wednesday."
+      },
+      {
+        "t": "p",
+        "zh": "有鉴于此，Nelson 说电网可能仍是它们最好的选择。对大多数数据中心来说，接入电网仍然最合适，只不过容量可以比它们通常申请的更小。为了补上缺口，大型电池是具有成本效益的选择，Nelson 说。它们可以帮助削峰，或熬过公用事业要求削减用电的时段。",
+        "en": "In light of that, Nelson said the grid might still be their best bet. Most data centers would be best served by a grid connection, albeit a smaller one than they might normally request. To make up for the shortfall, large batteries are a cost-effective choice, Nelson said. They’d help shave peak loads or ride out requests from the utility to curtail electricity use."
+      },
+      {
+        "t": "p",
+        "zh": "数据中心运营商可能正在得出同样的结论，从而使天然气市场的发展慢于软银的预期。",
+        "en": "Data center operators might be coming to that same conclusion, leading the natural gas market to develop more slowly than SoftBank expected."
+      },
+      {
+        "t": "p",
+        "zh": "软银与天然气相关的亏损不太可能产生多米诺效应，导致燃气电厂被大规模取消。人工智能的电力需求看起来太大，不会走到那一步。眼下天然气仍然走高，不过软银或许已经摸到了它的天花板。",
+        "en": "SoftBank’s natural gas-related losses are unlikely to have a domino effect, leading to mass cancellations of gas power plants. AI’s power demand appears to be too large for that. For now, natural gas is riding high, though SoftBank may have found its ceiling."
+      }
+    ]
+  }
+}

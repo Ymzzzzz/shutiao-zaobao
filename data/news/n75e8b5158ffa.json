@@ -1,0 +1,55 @@
+{
+  "id": "n75e8b5158ffa",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "The Verge：人工智能智能体并未发现未知玛雅遗址",
+  "original_title": "No, AI agents did not discover a previously unknown Maya site",
+  "summary": "科技媒体报道，谷歌研究员 Pietro Miotti 本周声称带领智能体团队发现墨西哥一处可能未被标注的玛雅遗址，但该地点实际上早已为考古界所知，报道据此认为所谓新发现并不能成立。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "is_primary": false,
+      "published_at": "2026-11-13T03:42:40+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T03:42:40+08:00",
+  "updated_at": "2026-11-13T03:42:40+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "The Verge：人工智能智能体并未发现未知玛雅遗址",
+  "lead_zh": "The Verge 报道，谷歌研究员 Pietro Miotti 本周声称用智能体团队发现墨西哥一处可能未被标注的玛雅遗址，但该遗址其实早已为人所知。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge 报道，谷歌研究员 Pietro Miotti 本周声称，带领一组人工智能智能体，在墨西哥发现了一处可能未被标注的玛雅遗址。但该遗址其实已在去年的学术期刊中发表过。Miotti 说这是个人副业，没有使用谷歌的算力或资源；他让 **48** 个智能体检索美国航天局的激光雷达数据，并曾联系墨西哥国家人类学与历史研究所核对，对方称该位置没有登记遗址。",
+        "他强调自己不是考古学家，发现仍需田野调查核实。在考古学者指出疏漏后，他对 The Verge 表示，自己没有意识到“未登记”并不等于“未被测绘”，检查一处遗址是否已知，需要把图像与论文中的图对照，而不是只查数据库；发现被指出后，他已尽快更新博文并标注前人工作。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "学者怎么看",
+      "paras": [
+        "亚拉巴马大学伯明翰分校考古学教授 Sarah Parcak 说，这正说明需要同行评议，政府数据库里没有，并不意味着遗址未知或未被测绘。伦敦大学学院的 Elizabeth Graham 则表示，玛雅地区的研究者本来就知道大量尚未发掘或测绘的遗址，而且当地社区往往早已知晓；真正的障碍是研究经费不足，“只是发现了什么，对知识的增量并不大。”这篇遗址论文的共同作者 Ivan Šprajc 也担心，业余人士用人工智能申报新发现，可能让考古学者应接不暇。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/71510b445524240da48699bcaceee7d15f484d2b.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=2.4327168367347%2C0%2C95.134566326531%2C100&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

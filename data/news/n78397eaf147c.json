@@ -1,0 +1,55 @@
+{
+  "id": "n78397eaf147c",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "The Verge 评论帕兰蒂尔转向“进步”立场的表态",
+  "original_title": "Oh, Palantir is ‘progressive’ now, is it?",
+  "summary": "科技媒体发表评论，质疑帕兰蒂尔首席执行官在选举后重新靠向左翼、宣称公司立场变得“进步”的表态，认为这与其近期政治站位并不相符，更像是一次面向舆论的策略调整，而不是突然改换了长期立场。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "is_primary": false,
+      "published_at": "2026-11-13T02:06:54+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T02:06:54+08:00",
+  "updated_at": "2026-11-13T02:13:39+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "The Verge 评论帕兰蒂尔转向“进步”立场的表态",
+  "lead_zh": "The Verge 发表评论，质疑帕兰蒂尔首席执行官 Alex Karp 在选举后重新靠向左翼的表态，认为与公司近期政治立场并不相符。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge 于 **11** 月 **12** 日发表 Elizabeth Lopatto 的评论文章，聚焦帕兰蒂尔首席执行官 Alex Karp 近日接受 Politico 采访时的表态。Karp 称自己“一辈子都是民主党人”，在极左环境中长大，并说“我绝对相信帕兰蒂尔——我们所有的产品本质上都是进步的”。",
+        "文章把它放在上周选举之后的舆论环境里讨论，并回溯了 Karp 近年来的公开言论，包括 **2024** 年 **8** 月对边境与特种作战的辩护，以及 **2025** 年 **2** 月致股东信中引用 Samuel Huntington 关于“有组织暴力”的表述。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "The Verge 认为，Karp 在选举后重新靠向左翼、宣称公司立场变得“进步”的说法，与其近三年公开言论并不相符，更像一次面向舆论的策略调整，而不是突然改换了长期立场。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/d4b6a63e4272c30c9e1f6efdc107c3c8be7e9cc5.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

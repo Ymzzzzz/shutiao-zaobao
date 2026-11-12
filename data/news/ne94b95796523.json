@@ -1,0 +1,55 @@
+{
+  "id": "ne94b95796523",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "美国联邦航空局扩大用人工智能疏导全美空域拥堵",
+  "original_title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+  "summary": "Ars Technica 报道，美国联邦航空局把用于疏导空中交通拥堵的人工智能建议工具扩大到全美空域；航空公司对此表示欢迎，但空中交通管制员所在工会并未参与其中。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "is_primary": false,
+      "published_at": "2026-11-13T06:28:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T06:28:47+08:00",
+  "updated_at": "2026-11-13T06:28:47+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "美国联邦航空局扩大用人工智能疏导全美空域拥堵",
+  "lead_zh": "Ars Technica 报道，美国联邦航空局把人工智能建议工具扩大到管理全美空域拥堵，航空公司表示欢迎，但空管员工会并未参与其中。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Ars Technica 报道，美国联邦航空局把名为 SMART 的人工智能建议系统，从华盛顿特区空域扩大到全国全部 **22** 个区域中心，用于协助管理空中交通拥堵。该机构称，这套价值 **8.75 亿美元**的系统自 9 月 21 日在华盛顿空域启用以来，已帮助改航 **180** 架次航班，平均每班节省约 **10** 分钟和近 **80** 加仑燃油。",
+        "据介绍，SMART 是一套云系统，会综合天气、航路、交通流量和管制员人力等数据来预测交通并给出调度、航线和着陆顺序建议。华盛顿的一组联邦航空局专家会先审核这些建议，再转给各地管制单位；地方管制员可以决定是否采纳。该局强调，系统不能取代管制员，也不能接管飞机。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "联邦航空局在 11 月 10 日的声明中称，将在全国使用该系统，以减少延误和油耗、改善旅客出行体验。达美航空首席执行官 Ed Bastian 和美国航空首席执行官 Robert Isom 此前曾公开表态支持。但代表逾 **1.5 万**名会员的美国全国空中交通管制员协会对《飞行》杂志表示，他们并未参与该系统的设计、测试或实施，因此无法评价其对管制队伍的影响。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/16a6f93cc77d04ee005b15b696ef9183abdac809.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

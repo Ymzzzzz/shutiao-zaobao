@@ -1,0 +1,55 @@
+{
+  "id": "n4e46e49750fb",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "如何在 Amazon Bedrock 上计算任务成本并证明智能体回报",
+  "original_title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+  "summary": "亚马逊指出，只比较每千词元价格会掩盖在云上运行模型的真实成本。文章介绍如何计算单项任务成本、用缓存降低开支，以及怎样证明智能体项目的投资回报，文章还列出了四项容易被忽略的成本因素。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
+      "is_primary": true,
+      "published_at": "2026-11-13T02:43:19+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T02:43:19+08:00",
+  "updated_at": "2026-11-13T02:43:19+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "如何在 Amazon Bedrock 上计算任务成本并证明智能体回报",
+  "lead_zh": "亚马逊指出，只比较每千词元价格会掩盖真实成本，文章介绍如何计算任务成本、利用缓存降低开支，并证明智能体的投资回报。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "文章讲了什么",
+      "paras": [
+        "亚马逊云科技在系列第二篇文章中提出，比较每词元标价会掩盖在 Amazon Bedrock 上跑通一项任务的真实成本。文中把“任务”定义为一次完整工作单元，可能包含多次模型调用，并讨论四项定价页上看不到的成本驱动因素，以及用缓存、路由和输出约束降低任务成本的方法。",
+        "作者还介绍如何用人类基线、留出实验和五维评分表衡量智能体回报。文中举例称，不同模型的分词器会把同一段文本切成不同词元数：若某模型标价低 **15%**，但在结构化数据上多用 **40%** 词元，实际可能更贵；非拉丁文脚本常被切成相当于英文的两到三倍词元。输出词元通常比输入贵 **3** 至 **5** 倍，推理词元也按输出计费。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者的建议",
+      "paras": [
+        "AWS 举例说，一个先读 **750** 词客户邮件、再抽实体、调接口并输出严格 JSON 的流程里，标价更高的模型按任务计算可能反便宜约 **65%**，因为额外轮次会反复发送不断变长的上下文。文中注明这些价格是示意数字，需按自身数据和当前定价重新测算；并建议先关闭扩展思考，只在基准显示质量差距足以覆盖成本时再打开。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/35fa0ccf6ef5e114c75987542aef427984139efb.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-21540-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

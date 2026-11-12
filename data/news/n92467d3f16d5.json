@@ -1,0 +1,55 @@
+{
+  "id": "n92467d3f16d5",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "路透社称黄仁勋还与英伟达另一名员工有第三段婚外情",
+  "original_title": "Jensen Huang was having a third affair, Reuters reports",
+  "summary": "科技媒体援引路透社报道称，黄仁勋还有第三段婚外情，对方是英伟达的一名员工；路透社目前暂未公布这名员工的姓名，只确认其在该公司任职，这已是公开报道中提到的又一段关系。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "is_primary": false,
+      "published_at": "2026-11-13T04:26:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T04:26:47+08:00",
+  "updated_at": "2026-11-13T04:26:47+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "路透社称黄仁勋还与英伟达另一名员工有第三段婚外情",
+  "lead_zh": "TechCrunch 援引路透社报道称，黄仁勋还有第三段婚外情，对方是英伟达员工，路透社暂未公布其姓名。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 于 **11** 月 **12** 日援引路透社周四报道称，英伟达创始人黄仁勋还有一段此前未公开报道的婚外情，对象是该公司一名员工。路透社暂未公布这名员工的姓名，但确认对方在英伟达任职。",
+        "报道同时回顾，黄仁勋已于当天辞去首席执行官和董事职务。此前公开报道涉及被指为间谍的 Alice Huang，以及英伟达医疗健康副总裁 Kimberly Powell。首席财务官 Colette Kress 已出任临时首席执行官，永久继任者尚未公布。撰文者为 Russell Brandom。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道还提到",
+      "paras": [
+        "据该文称，黄仁勋已被要求在未来数周到国会就与 Alice Huang 关系的国家安全影响作证，但在听证举行前还会披露多少信息尚不清楚。文章并称，他的突然失势预计将给整个行业带来显著影响。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/89898000348029c9a4340d0b79dfe6bf7c79829f.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

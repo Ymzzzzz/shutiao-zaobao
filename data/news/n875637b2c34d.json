@@ -1,0 +1,55 @@
+{
+  "id": "n875637b2c34d",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌搜索升级：称能更好回答更复杂的问题",
+  "original_title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+  "summary": "TechCrunch 报道，由 Gemini 4 Hydrogen 驱动的谷歌搜索 AI Mode 正在升级，谷歌称它能更好理解复杂查询、呈现相关链接，并给出更丰富的可视化答复。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "is_primary": false,
+      "published_at": "2026-11-13T03:27:45+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T03:27:45+08:00",
+  "updated_at": "2026-11-13T03:27:45+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌搜索升级：称能更好回答更复杂的问题",
+  "lead_zh": "TechCrunch 报道，由 Gemini 4 Hydrogen 驱动的谷歌 AI Mode 在理解复杂查询、呈现相关链接和给出更丰富的可视化答复方面有所增强。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 报道，由新发布的 Gemini 4 Hydrogen 驱动，谷歌搜索的 AI Mode 正在升级，以更好理解包含多个部分、非常具体或带有难辨拼写错误的复杂问题。谷歌称这是迄今对搜索模型的最大一次改进，并将向全球所有搜索用户推送。",
+        "除了搜索，Hydrogen 还将进入 Google AI Studio 的各个层级、Gemini 编程接口、Gemini 应用，以及付费的 AI Pro 和 Ultra 订阅用户所使用的 Antigravity 开发平台。该模型提供低、中、高（默认）和新增的最高思考档。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "谷歌怎么说",
+      "paras": [
+        "据谷歌称，Hydrogen 完成任务的速度比上一款快速模型快 **2.5 倍**，并在默认高思考档上，一项综合智力评测指数超过了定位更高的 Argon。在搜索中，它能更好地理解意图、给出更多有用链接和可视化答复，包括图片、结构化结果、对比表格和自定义工具；其推理也会改进把一条提问拆成多个子查询的 fan-out 技术，帮助用户发现原本可能错过的网站。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/0163c7ad5f4aec0625971fe9be11f2260b55348c.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/hydrogen-at-2.01.42-PM.jpg?resize=1200,589",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

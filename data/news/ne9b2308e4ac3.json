@@ -1,0 +1,55 @@
+{
+  "id": "ne9b2308e4ac3",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊盘点 Bedrock 推理中影响费用的四项选择",
+  "original_title": "Four Amazon Bedrock inference choices that affect cost",
+  "summary": "亚马逊指出，即便已经优化提示词和应用逻辑，Amazon Bedrock 的推理账单仍可能上升；缓存时长、服务等级、推理力度和 maxTokens 这四项请求级选择都会影响费用。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
+      "is_primary": true,
+      "published_at": "2026-11-13T04:51:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T04:51:55+08:00",
+  "updated_at": "2026-11-13T04:51:55+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊盘点 Bedrock 推理中影响费用的四项选择",
+  "lead_zh": "亚马逊云科技指出，即便优化了提示词和应用逻辑，Bedrock 推理费用仍可能上升，缓存时长、服务等级、推理力度和 maxTokens 都会改变账单。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "文章讲了什么",
+      "paras": [
+        "亚马逊云科技发文指出，即便已经优化提示词和应用逻辑，Amazon Bedrock 的推理账单仍可能上升。缓存时长、服务等级、推理力度和 maxTokens 这四项请求级选择，会在不改模型或提示词的情况下改变处理的词元数量和计费费率。推理词元按输出词元计费，缓存读写则使用单独计数。",
+        "文中列举，受支持的 Anthropic 模型提示缓存存活期可为 **5** 分钟或 **1** 小时，受支持的 GPT-5.6 模型最短为 **30** 分钟。作者还在 Amazon Nova 2 Lite 上分别发送 **200** 次默认请求和 **200** 次 Flex 请求：二者处理的输入和输出词元数相同，全部 **400** 次请求都落到所请求的等级，中位延迟差异小到无法与噪声区分；撰文时 us-west-2 公布的 Flex 费率为标准费率的一半，账单也与此相符。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者建议",
+      "paras": [
+        "AWS 称，Claude Sonnet 5 和 Claude Opus 5 在未填写 thinking 字段时，默认仍会以高力度做自适应思考，maxTokens 会同时限制思考和回复文本。作者建议按任务观察输出词元分布后设定上限，并比较 P95 与 P99，再留出余量；有自适应思考时，校准也要打开思考。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/ec0690ebd23474b69d4b7ad9956a937d34875982.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21479-featured-image-1.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

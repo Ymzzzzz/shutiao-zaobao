@@ -1,0 +1,46 @@
+{
+  "id": "n77dc6766a4b4",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "微软研究聚焦第 98 期：通用翻译与数学难题进展",
+  "original_title": "Microsoft Research Focus – Edition #98",
+  "summary": "微软研究博客第 98 期由 Anson Ho 介绍最新进展，内容包括人工智能驱动的通用翻译、一项有 31 年历史的数学难题突破，以及让人工智能更好编写代码的研究。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+      "is_primary": true,
+      "published_at": "2026-11-13T05:31:57+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T05:31:57+08:00",
+  "updated_at": "2026-11-13T05:31:57+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "微软研究聚焦第 98 期：通用翻译与数学难题进展",
+  "lead_zh": "微软研究博客第 98 期介绍最新进展，包括人工智能驱动的通用翻译、一项有 31 年历史的数学难题突破，以及提升编程能力的研究。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "微软研究博客于 **11** 月 **12** 日发布第 **98** 期“Microsoft Research Focus”，由主持人 Anson Ho 介绍近期进展，主题包括人工智能驱动的通用翻译、一项有 **31** 年历史的数学难题突破，以及让编程智能体更快、更省的研究。",
+        "数学方面，文中称高维几何中的核心未解问题 KLS 猜想已被新研究解决，从而去掉了理解科学与计算中随机算法效率的一项主要理论障碍。编程方面，一项新研究查看了 **1,350** 万次编程会话，发现需要做上下文压缩的不足 **8%**，但这些会话占全部人工智能处理成本的 **44%**。",
+        "此外，东京实验室研究实习生 Lilika Makabe 的成长经历也被提及；另有研究讨论在 **104** 种语言上改进分词，认为只追求压缩效率并不足够。"
+      ],
+      "sources": [
+        "Microsoft Research Blog"
+      ]
+    }
+  ],
+  "image_url": "img/a139251aa4194b606a092acb14349984b1b8e03b.jpg",
+  "image_source": "Microsoft Research Blog",
+  "image_origin_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/ResearchFocus-BlogHeroFeature-1400x788-1-scaled-1.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

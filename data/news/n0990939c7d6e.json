@@ -1,0 +1,37 @@
+{
+  "id": "n0990939c7d6e",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Holiday Extras 用 Codex 改造应用，希望提高预订转化",
+  "original_title": "Holiday Extras is rethinking what it can build with Codex",
+  "summary": "OpenAI 介绍称，旅游公司 Holiday Extras 借助 Codex，把客户经验转化到应用里，希望借此提高预订转化率，并为后续业务增长打开新的可能性。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "is_primary": true,
+      "published_at": "2026-11-12T17:30:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T17:30:00+08:00",
+  "updated_at": "2026-11-12T17:30:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Holiday Extras 用 Codex 改造应用，希望提高预订转化",
+  "lead_zh": "旅游公司 Holiday Extras 采用 OpenAI 的 Codex，把客户经验转化到应用中，希望提高预订转化并开拓新的增长可能。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "blocked",
+  "read_minutes": 0,
+  "fulltext": {
+    "status": "blocked",
+    "reason": "http_403",
+    "blocks": []
+  }
+}

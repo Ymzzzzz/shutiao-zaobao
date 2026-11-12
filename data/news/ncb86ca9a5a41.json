@@ -1,0 +1,55 @@
+{
+  "id": "ncb86ca9a5a41",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "基因检测公司 Natera 打造实验室智能体系统",
+  "original_title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+  "summary": "基因检测公司 Natera 基于 Amazon Bedrock AgentCore 构建了名为 SWARM 的智能体系统，用来沉淀实验室运营中的制度性知识，并把它规模化部署到日常作业里。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
+      "is_primary": true,
+      "published_at": "2026-11-13T05:47:07+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T05:47:07+08:00",
+  "updated_at": "2026-11-13T05:47:07+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "基因检测公司 Natera 打造实验室智能体系统",
+  "lead_zh": "基因检测公司 Natera 基于 Amazon Bedrock AgentCore 构建名为 SWARM 的智能体系统，用于沉淀实验室运营经验并规模化部署。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "游离 DNA 检测公司 Natera 实验室工程团队在 Ariel Jirau 带领下，与亚马逊云科技合作，基于 Amazon Bedrock AgentCore 构建了实验室运营智能体系统 SWARM。文中称，实验室每天三个 Jira 队列会收到超过 **65** 张工单，平均首次响应时间为 **17.4** 小时。",
+        "AWS 博客称，SWARM 把制度性知识沉淀并规模化部署，首次响应时间约加快 **130** 倍，并在支持工单上实现 **96.2%** 的自动覆盖。系统采用无长期密钥的部署，用 OIDC 与临时凭证，并把流量放在私有子网和 VPC 端点内。技能库共有 **33** 项，其中 **24** 项针对仪器家族，**9** 项为跨流程技能。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据 Jirau 说，“诊断准确性首先是数据质量问题”。他称，为得分最低的仪器家族补上缺失的厂商手册后，准确率在未改模型的情况下从 **71%** 升至 **75%**。评估还显示，标注为高置信的工单在 **154** 个案例中准确率为 **74%**，中、低置信分别为 **65%**（样本 **78** 和 **37**）。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/10964368505a88efa83ddd1786a804e249113b2f.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21653-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

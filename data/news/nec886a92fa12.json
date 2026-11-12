@@ -1,0 +1,137 @@
+{
+  "id": "nec886a92fa12",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "AWS 发布 SGLang-Neuron，可在 Trainium 上部署前沿模型",
+  "original_title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+  "summary": "AWS 宣布 SGLang-Neuron 已通过深度学习容器公开可用，开发者可在 AWS Trainium 上使用 SGLang 提供模型推理，并生成强化学习所需的 rollout。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+      "is_primary": true,
+      "published_at": "2026-11-13T06:03:34+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T06:03:34+08:00",
+  "updated_at": "2026-11-13T06:03:34+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AWS 发布 SGLang-Neuron，可在 Trainium 上部署前沿模型",
+  "lead_zh": "亚马逊云科技宣布，相关工具已通过深度学习容器公开可用，可在自研加速芯片上用 SGLang 提供模型推理，并生成强化学习所需的试运行数据。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技宣布，SGLang-Neuron 已通过 AWS 深度学习容器公开可用，由 RadixArk 与 Annapurna Labs 合作发布。开发者可以在 AWS 自研芯片 Trainium 上，用自己已经熟悉的 SGLang 接口提供模型推理，并生成强化学习所需的试运行数据，底层跑在原生 PyTorch 上。",
+        "SGLang-Neuron 是一个外部插件：安装后会注册 neuron 平台，启动服务时设置相应环境变量即可选用。SGLang 核心仍负责接口服务、请求生命周期和前缀缓存等，插件则实现面向 Trainium 的模型、注意力、混合专家和计算图执行。它使用标准 PyTorch 运算，并加入用 Neuron Kernel Interface 编写的内核，再通过 torch.compile 编译后由运行器在推理时执行。",
+        "该方案还支持把预填充与解码分开部署：预填充服务器计算提示词的键值缓存，再通过弹性结构适配器上的 NIXL 传输给解码服务器，由后者继续生成后续词元。官方文档提供了在 Trainium3 实例和专用容器中启动服务、发送请求的示例，并介绍了支持的模型和已验证配置。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/31551113ab29c5219a8f2710d74ed8706375c42e.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/12/ML-22453-featured-image.png",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-12",
+    "title_en": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+    "title_zh": "用 SGLang-Neuron 在 AWS Trainium 上部署前沿人工智能模型",
+    "dek_en": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.",
+    "dek_zh": "SGLang-Neuron 现已通过 AWS Deep Learning Container 公开提供。有了 SGLang-Neuron，你可以用已经熟悉的同一套 SGLang 接口，在 AWS Trainium 上用 SGLang 提供模型服务并生成强化学习 rollout，全部运行在原生 PyTorch 上。",
+    "word_count_zh": 985,
+    "read_minutes": 3,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "今天，亚马逊宣布 SGLang-Neuron 已公开提供，并可通过 AWS Deep Learning Container 使用，该容器由 RadixArk 与 Annapurna Labs 合作发布。有了 SGLang-Neuron，你可以用今天已经在用的同一套 SGLang 接口，在 AWS Trainium 上用 SGLang 提供模型服务并生成强化学习（RL）rollout。Trainium 是亚马逊云科技的人工智能芯片产品组合，可为大规模训练和推理提供有竞争力的成本表现。现在，在 Trainium 上运行 SGLang 沿用你已经熟悉的 SGLang 工作流：通过 SGLang 的服务器接口启动模型，并用同一套生成 API 调用该端点。在这层接口之下，SGLang-Neuron 运行在原生 PyTorch 上。凭借树外插件设计，Trainium 支持与 SGLang 核心可以各自独立开发，迭代也更快。",
+        "en": "Today, Amazon announced that SGLang-Neuron is publicly available and can be accessed through an AWS Deep Learning Container, released by RadixArk in collaboration with Annapurna Labs. With SGLang-Neuron, you can serve models and generate reinforcement learning (RL) rollouts with SGLang on AWS Trainium using the same SGLang interface you use today. Trainium is a portfolio of AWS AI chips that delivers strong economics for AI training and inference at scale. Now, running SGLang on Trainium follows the SGLang workflow you already know: you launch models through SGLang’s server interface and invoke the endpoint using the same generation APIs. Underneath that interface, SGLang-Neuron runs on native PyTorch. With its out-of-tree plugin design, Trainium support and SGLang core develop independently and iterate faster."
+      },
+      {
+        "t": "h",
+        "zh": "SGLang 如何在 Trainium 上运行",
+        "en": "How SGLang runs on Trainium"
+      },
+      {
+        "t": "p",
+        "zh": "SGLang-Neuron 是一个把 SGLang 与 AWS Trainium 连接起来的树外插件。安装该插件后，会通过 SGLang 的插件入口点注册 neuron 平台，在服务器启动时设置 SGLANG_PLATFORM=neuron 即可选用它。SGLang 核心继续提供 API 服务器、请求生命周期、RadixAttention 和前缀缓存记账。插件则实现 Trainium 特定的模型、注意力、混合专家（MoE）以及图运行器。",
+        "en": "SGLang-Neuron is an out-of-tree plugin that connects SGLang with AWS Trainium. Installing the plugin registers the neuron platform through SGLang’s plugin entry points, and setting SGLANG_PLATFORM=neuron selects it when the server starts. SGLang core continues to provide the API server, request lifecycle, RadixAttention, and prefix-cache bookkeeping. The plugin implements the Trainium-specific models, attention, mixture of experts (MoE), and the graph runner."
+      },
+      {
+        "t": "p",
+        "zh": "图 1：AWS Trainium 上的 SGLang-Neuron",
+        "en": "Figure 1: SGLang-Neuron on AWS Trainium"
+      },
+      {
+        "t": "p",
+        "zh": "TorchNeuron 把 Trainium 注册为原生 PyTorch 设备。SGLang-Neuron 在模型执行路径上使用标准 PyTorch 操作，并引入用 Neuron Kernel Interface（NKI）编写的内核以提升性能。它使用 torch.compile 把这些操作和内核编译成可执行程序，再由图形运行器在服务过程中准备并执行。",
+        "en": "TorchNeuron registers Trainium as a native PyTorch device. SGLang-Neuron uses standard PyTorch operations for the model execution path and incorporates kernels written with the Neuron Kernel Interface (NKI) for performance. It compiles these operations and kernels into executable programs using torch.compile, which the graph runner prepares and executes during serving."
+      },
+      {
+        "t": "p",
+        "zh": "SGLang-Neuron 还支持 PD 分离。在这种配置下，预填充服务器计算提示的 KV 缓存，并通过 Elastic Fabric Adapter（EFA）上的 NIXL 将其传输到解码服务器。解码服务器随后生成剩余词元。每个服务器仍使用 SGLang 的调度器和请求生命周期，而插件负责管理 Trainium 执行和 KV 缓存传输路径。",
+        "en": "SGLang-Neuron also supports PD disaggregation. In this configuration, a prefill server computes the prompt KV cache and transfers it to a decode server using NIXL over Elastic Fabric Adapter (EFA). The decode server then generates the remaining tokens. Each server still uses SGLang’s scheduler and request lifecycle, while the plugin manages the Trainium execution and KV-cache transfer path."
+      },
+      {
+        "t": "h",
+        "zh": "使用 SGLang-Neuron 在 AWS Trainium 上提供模型服务",
+        "en": "Serving models on AWS Trainium using SGLang-Neuron"
+      },
+      {
+        "t": "p",
+        "zh": "要跟随本演练，你需要使用带有 pytorch-inference-sglang-neuronx 容器的 Trainium3 Amazon Elastic Compute Cloud（Amazon EC2）实例。步骤如下：",
+        "en": "To follow this walkthrough, you use a Trainium3 Amazon Elastic Compute Cloud (Amazon EC2) instance with a pytorch-inference-sglang-neuronx container. Here are the steps:"
+      },
+      {
+        "t": "p",
+        "zh": "• 启动容器。 docker run --rm -it \\ --privileged --ipc=host \\ -v /path/to/work:/work \\ public.ecr.aws/neuron/pytorch-inference-sglang-neuron:v0.1.0-neuron-py314-sdk-2.33.0-ubuntu26.04 \\ /bin/bash",
+        "en": "• Start the container. docker run --rm -it \\ --privileged --ipc=host \\ -v /path/to/work:/work \\ public.ecr.aws/neuron/pytorch-inference-sglang-neuron:v0.1.0-neuron-py314-sdk-2.33.0-ubuntu26.04 \\ /bin/bash"
+      },
+      {
+        "t": "p",
+        "zh": "• 在容器内启动 SGLang 模型服务器。 SGLANG_PLATFORM=neuron \\ python -m sglang.launch_server \\ --model-path openai/gpt-oss-120b \\ --tp-size 8 \\ --ep-size 8 \\ --kv-cache-dtype fp8_e4m3 \\ --context-length 10240 \\ --chunked-prefill-size 8192 \\ --max-running-requests 64 \\ --max-total-tokens 655360 \\ --mem-fraction-static 0.8 \\ --host 127.0.0.1 \\ --port 30000",
+        "en": "• Launch the SGLang model server inside the container. SGLANG_PLATFORM=neuron \\ python -m sglang.launch_server \\ --model-path openai/gpt-oss-120b \\ --tp-size 8 \\ --ep-size 8 \\ --kv-cache-dtype fp8_e4m3 \\ --context-length 10240 \\ --chunked-prefill-size 8192 \\ --max-running-requests 64 \\ --max-total-tokens 655360 \\ --mem-fraction-static 0.8 \\ --host 127.0.0.1 \\ --port 30000"
+      },
+      {
+        "t": "p",
+        "zh": "• 向模型服务器发送请求。 curl -s http://127.0.0.1:30000/v1/chat/completions \\ -H 'Content-Type: application/json' \\ -d '{ \"model\": \"openai/gpt-oss-120b\", \"messages\": [ {\"role\": \"user\", \"content\": \"Explain why the sky appears blue.\"}], \"temperature\": 0, \"max_tokens\": 128 }'",
+        "en": "• Send a request to the model server. curl -s http://127.0.0.1:30000/v1/chat/completions \\ -H 'Content-Type: application/json' \\ -d '{ \"model\": \"openai/gpt-oss-120b\", \"messages\": [ {\"role\": \"user\", \"content\": \"Explain why the sky appears blue.\"}], \"temperature\": 0, \"max_tokens\": 128 }'"
+      },
+      {
+        "t": "p",
+        "zh": "更多信息请参阅 SGLang-Neuron 入门指南中的设置说明，并查看代码库文档，了解支持的模型、功能和经过验证的配置。",
+        "en": "For additional information, please see the SGLang-Neuron getting started guide for setup instructions, and explore the repository documentation for supported models, features, and validated configurations."
+      },
+      {
+        "t": "h",
+        "zh": "结语",
+        "en": "Conclusion"
+      },
+      {
+        "t": "p",
+        "zh": "SGLang-Neuron 通过原生 PyTorch，把你熟悉的 SGLang 服务工作流带到了 AWS Trainium。你可以从启动 SGLang-Neuron 容器开始，并按照快速入门来为受支持的模型提供服务。用你的工作负载试一试，通过项目代码库贡献，并分享反馈，帮助塑造未来的模型与功能支持。",
+        "en": "SGLang-Neuron brings SGLang’s familiar serving workflow to AWS Trainium through native PyTorch. You can get started by launching the SGLang-Neuron container and following the quickstart to serve a supported model. Try it with your workloads, contribute through the project repository, and share feedback to help shape future model and feature support."
+      },
+      {
+        "t": "h",
+        "zh": "关于作者",
+        "en": "About the authors"
+      }
+    ]
+  }
+}

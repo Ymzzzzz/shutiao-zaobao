@@ -1,0 +1,2542 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T07:31:47+08:00",
+  "summary_mode": "ai",
+  "top_items": [
+    "na8d5fa7d24b3",
+    "nad614f81e42f",
+    "nec886a92fa12"
+  ],
+  "items": [
+    {
+      "id": "n372847c94994",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "Amplitude 用 OpenAI 打造产品代理 Wave，一两天即可上线改进",
+      "original_title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Amplitude 推出主要基于 OpenAI 模型的主动式产品代理 Wave，可判断该开发什么功能，并借助编程代理帮助团队在一到两天内完成上线改动，同时衡量效果。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/amplitude",
+          "is_primary": true,
+          "published_at": "2026-11-13T04:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T04:00:00+08:00",
+      "updated_at": "2026-11-13T04:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Amplitude 用 OpenAI 打造产品代理 Wave，一两天即可上线改进",
+      "lead_zh": "Amplitude 推出主要基于 OpenAI 模型的主动式产品代理 Wave，可识别该做什么、借助编程代理上线改动，并衡量效果。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "blocked",
+      "read_minutes": 0
+    },
+    {
+      "id": "na8d5fa7d24b3",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "谷歌发布 Gemini 4 Hydrogen，面向日常编程与智能体工作流",
+      "original_title": "Introducing Gemini 4 Hydrogen",
+      "summary": "谷歌 DeepMind 发布 Gemini 4 Hydrogen，主打日常编码和智能体工作流的速度与效率，已在谷歌搜索、Gemini 应用、API 及 Antigravity 等面向广泛用户开放。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "is_primary": true,
+          "published_at": "2026-11-13T02:00:50+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T02:00:50+08:00",
+      "updated_at": "2026-11-13T02:00:50+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌发布 Gemini 4 Hydrogen，面向日常编程与智能体工作流",
+      "lead_zh": "谷歌 DeepMind 推出 Gemini 4 Hydrogen，定位快速执行的日常编码和智能体工作流，已在搜索、Gemini 应用和 API 等面向广泛用户开放。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌 DeepMind 发布新模型 Gemini 4 Hydrogen，由高级副总裁兼谷歌首席人工智能架构师 Koray Kavukcuoglu 撰文介绍。该模型面向日常编码和智能体工作流，强调速度与效率；同系列的 Carbon 和 Argon 则侧重处理更困难的长程推理任务。",
+            "在一项独立智力评测指数上，Hydrogen 默认高思考档得分为 **51**，超过 Argon 的 **50**，最高档可达 **54**。定价在整个 **100 万** 词元上下文窗口内统一：输入每百万词元 **1.50 美元**，输出每百万词元 **7.50 美元**。它提供低、中、高（默认）和全新最高档共四档思考深度。",
+            "谷歌宣布，该模型即日起在全球开发者、企业和消费产品中逐步上线。开发者可在 AI Studio、Android Studio 和编程接口中使用；付费的 Pro 与 Ultra 订阅用户可在 Antigravity 中试用；所有用户可在 Gemini 应用和谷歌搜索中使用。"
+          ],
+          "sources": [
+            "Google DeepMind Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "谷歌怎么说",
+          "paras": [
+            "据谷歌称，相较上一款快速模型 3.8 Flash，Hydrogen 在默认高档完成任务速度快 **2.5 倍**，一项终端编程基准得分由 **18.2%** 升至 **57%**，捏造内容减少 **5 倍**以上。谷歌还推出可在同一会话里动态切换模型的编排器；在相关基准上，其任务成功率接近 Carbon，同时平均少消耗 **24%** 配额、完成速度快 **19%**。"
+          ],
+          "sources": [
+            "Google DeepMind Blog"
+          ]
+        }
+      ],
+      "image_url": "img/09be2f98e79c210cc9c1ea43aab82c3bea5747c0.jpg",
+      "image_source": "Google DeepMind Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+      "fulltext_status": "ok",
+      "read_minutes": 8
+    },
+    {
+      "id": "nad614f81e42f",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "谷歌搜索全球上线 Gemini 4 Hydrogen",
+      "original_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "谷歌搜索产品副总裁 Robby Stein 宣布，Gemini 4 Hydrogen 已在全球接入谷歌搜索，称能更好理解复杂、多部分的问题，并给出更直观、带表格和图片的可视化答复。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "is_primary": true,
+          "published_at": "2026-11-13T02:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T02:00:00+08:00",
+      "updated_at": "2026-11-13T02:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌搜索全球上线 Gemini 4 Hydrogen",
+      "lead_zh": "谷歌将 Gemini 4 Hydrogen 全面接入谷歌搜索，称能更好理解复杂多段问题，并给出更直观、可视化的答复。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌搜索产品副总裁 Robby Stein 撰文宣布，Gemini 4 Hydrogen 已在全球范围内接入谷歌搜索，旨在提供更直观、更可视、也更精确的答复。用户今天就可以在谷歌搜索中试用这些能力，去提出更细、更复杂的问题。",
+            "这次更新强调更好地理解用户真实意图。谷歌介绍，即使用户提出包含多个部分的复杂问题、出现较难辨认的拼写错误，或要求非常具体，搜索也能更准确地理解要找什么，并用自然语言处理旅行、购物、爱好等带具体条件的查询。",
+            "在呈现方式上，搜索会给出更具适应性、便于扫读的可视化结果，包括结构化信息、对比表格、图片，以及为用户生成的自定义工具。谷歌还表示将升级搜索中的 query fan-out 技术，提供比以往更广的相关链接，并在其人工智能模型目前支持的所有语言中给出更细致的答案。"
+          ],
+          "sources": [
+            "Google AI Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "谷歌怎么说",
+          "paras": [
+            "据谷歌称，Hydrogen 能把用户以自然思路提出的问题理解得更准确，即使查询包含多个部分、难以辨认的拼写错误或非常具体的要求，也能抓住真实意图，并把用户连接到此前可能不容易发现的网站。"
+          ],
+          "sources": [
+            "Google AI Blog"
+          ]
+        }
+      ],
+      "image_url": "img/9bb76db4abd249ff61609e03f994e8321de70e26.jpg",
+      "image_source": "Google AI Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
+      "fulltext_status": "ok",
+      "read_minutes": 2
+    },
+    {
+      "id": "n0990939c7d6e",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "Holiday Extras 用 Codex 改造应用，希望提高预订转化",
+      "original_title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "OpenAI 介绍称，旅游公司 Holiday Extras 借助 Codex，把客户经验转化到应用里，希望借此提高预订转化率，并为后续业务增长打开新的可能性。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "is_primary": true,
+          "published_at": "2026-11-12T17:30:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T17:30:00+08:00",
+      "updated_at": "2026-11-12T17:30:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Holiday Extras 用 Codex 改造应用，希望提高预订转化",
+      "lead_zh": "旅游公司 Holiday Extras 采用 OpenAI 的 Codex，把客户经验转化到应用中，希望提高预订转化并开拓新的增长可能。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "blocked",
+      "read_minutes": 0
+    },
+    {
+      "id": "nb06379671ede",
+      "category": "政策与安全",
+      "importance": 2,
+      "verified": true,
+      "title": "OpenAI 承诺投入 200 万美元，支持儿童安全相关研究",
+      "original_title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI 宣布已承诺投入 200 万美元，专门资助人工智能与儿童安全领域的研究，用于开发可共享的衡量工具，以评估相关风险以及这些技术可能给年轻人带来的机会。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/children-first-declaration",
+          "is_primary": true,
+          "published_at": "2026-11-12T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T08:00:00+08:00",
+      "updated_at": "2026-11-12T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "OpenAI 承诺投入 200 万美元，支持儿童安全相关研究",
+      "lead_zh": "OpenAI 宣布投入 200 万美元，资助人工智能与儿童安全相关的研究，用于开发衡量风险和机会的共享工具。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "blocked",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf28f90d2895a",
+      "category": "政策与安全",
+      "importance": 2,
+      "verified": true,
+      "title": "律师事务所 Gilbert + Tobin 用人工智能重塑法律业务",
+      "original_title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "OpenAI 发布与律师事务所 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的对话，介绍这家律所如何借助人工智能重新思考法律业务的开展方式。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "is_primary": true,
+          "published_at": "2026-11-12T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T08:00:00+08:00",
+      "updated_at": "2026-11-12T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "律师事务所 Gilbert + Tobin 用人工智能重塑法律业务",
+      "lead_zh": "OpenAI 发布与律师事务所 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的对话，讨论该所用人工智能重塑法律业务。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "blocked",
+      "read_minutes": 0
+    },
+    {
+      "id": "nfc0f425d4885",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "Nebius 计划 2027 年投入约 400 亿美元扩建基础设施",
+      "original_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "summary": "Nebius 在三季度财报电话会上公布 2027 年约 400 亿美元建设计划，拟靠客户预付款和合同贷款融资；但微软租用的新泽西数据中心已推迟数月，股价当日下跌 17%。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "is_primary": false,
+          "published_at": "2026-11-13T05:27:10+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T05:27:10+08:00",
+      "updated_at": "2026-11-13T05:27:10+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Nebius 计划 2027 年投入约 400 亿美元扩建基础设施",
+      "lead_zh": "Nebius 在三季度财报电话会上公布 2027 年约 400 亿美元建设计划，同时微软租用的新泽西数据中心已推迟数月，引发对其融资模式的讨论。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 TechCrunch 报道，Nebius 在周四的三季度财报电话会上公布，2027 年计划投入 **400 亿美元**。公司拟依靠客户预付款以及以客户合同为支撑的贷款来为扩建融资。三季度营收 9.81 亿美元，同比增 571%；公司将 2026 年营收预期下调 2 亿美元至 30 亿美元，当日股价下跌 **17%**。",
+            "Nebius 的重要客户微软，正在新泽西州 Vineland 的数据中心采购人工智能算力，该项目已落后数月。双方合同价值最高可达 **194 亿美元**；目前计划到年底只交付略多于一半的微软容量，其余延至 2027 年第二季度。该站点由第三方 DataOne 运营，推迟原因是临时发电退出快于预期，站点正转向燃料电池。",
+            "调查媒体曾发现该站点至少有 45 台天然气发电机在无相应许可的情况下运行，新泽西监管部门因此对 DataOne 处以 110 万美元罚款。按合同摘要，若错过交付日期且未提供替代容量，微软可在宽限期后终止受影响服务。Nebius 季末现金为 **74 亿美元**，并预计 2027 年营收 120 亿至 130 亿美元。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据首席执行官 Arkady Volozh 在电话会上称，“以这样的规模建设本身就很难，延期目前是这个行业的一部分，我们也不能幸免。”首席收入官表示，与微软和 Meta 的交易都带有可观预付款，且在交付前就已到账。TechCrunch 同时引述彭博社报道称，微软正收紧对第三方项目的监督。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/682f2786f1e8518ea77c5e50e36d7803038e200f.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2300447831.jpg?w=1024",
+      "fulltext_status": "ok",
+      "read_minutes": 4
+    },
+    {
+      "id": "n6736945d4ac4",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "WIRED：黄仁勋承认婚外情，英伟达市值两日或蒸发超 4700 亿美元",
+      "original_title": "Jensen Huang’s $470 Billion Affair",
+      "summary": "《连线》播客称，黄仁勋已向员工承认与商界人士 Alice Huang 的婚外情；美国情报部门指其被中国国家安全部招募。节目称英伟达市值两日内或蒸发超 4700 亿美元。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+          "is_primary": false,
+          "published_at": "2026-11-13T02:59:58+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T02:59:58+08:00",
+      "updated_at": "2026-11-13T02:59:58+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "WIRED：黄仁勋承认婚外情，英伟达市值两日或蒸发超 4700 亿美元",
+      "lead_zh": "《连线》播客讨论英伟达首席执行官黄仁勋承认与商界人士 Alice Huang 的婚外情，并称公司市值在两天内可能蒸发超过 4700 亿美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "《连线》播客 Uncanny Valley 本期讨论英伟达首席执行官黄仁勋承认与商界人士 Alice Huang（同姓但无亲属关系）存在婚外情一事。主持人称，黄仁勋已在周日向员工发消息承认这段关系。",
+            "节目提到，美国情报部门称 Alice Huang 被中国国家安全部招募，目的是收集有关黄仁勋的信息，并指出《纽约时报》近几周已就此做过报道。英伟达董事会已对此事展开调查。",
+            "主持人还介绍，Alice Huang 负责的公司 Megaspeed 于 **2023** 年成立，是在美国开始限制先进芯片出口数月后，从一家中国游戏公司分拆而来；她曾是电视记者，并非计算机科学背景。**2024** 年黄仁勋开始与她一同公开露面并被拍照。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "节目怎么说",
+          "paras": [
+            "据节目称，黄仁勋目前仍继续主持公司运营，至少在调查进行期间如此。但主持人表示，此事已构成公关危机并可能涉及国家安全，英伟达市值在短短两天内可能蒸发超过 **4700 亿美元**。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/1ea9ad734b94e3c310cd94642614761815fbbc12.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6af4e95d91c3d23473376fc7/master/pass/Uncanny-Valley-Jensen-Spy-Business.jpg",
+      "fulltext_status": "ok",
+      "read_minutes": 19
+    },
+    {
+      "id": "nca80552a275a",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "软银预购燃气轮机减记超 30 亿美元",
+      "original_title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "summary": "据 TechCrunch 报道，软银公布单季亏损 71 亿美元，其中逾一半来自发电设备相关损失；公司为锁定燃气轮机支付的不可退还订金被大规模减记，金额超过 30 亿美元。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+          "is_primary": false,
+          "published_at": "2026-11-13T01:00:52+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T01:00:52+08:00",
+      "updated_at": "2026-11-13T01:00:52+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "软银预购燃气轮机减记超 30 亿美元",
+      "lead_zh": "软银公布季度亏损 71 亿美元，其中逾一半来自发电设备相关损失，为锁定燃气轮机而支付的不可退还订金被大规模减记。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "据 TechCrunch 报道，软银周二公布季度亏损 **71 亿美元**，其中逾一半来自发电设备相关损失。公司曾向轮机厂商支付不可退还订金以锁定订单，现在认为其中很大一部分已没有价值，相关减记超过 **30 亿美元**。",
+            "报道回顾，软银曾在 2025 年初对 OpenAI 下注 **300 亿美元**，并在今年 2 月宣布其子公司 SB Energy 将投入 **330 亿美元**建设 **9.2 吉瓦**的天然气发电厂。大约两年前起，软银据报为超过 **13 吉瓦**的轮机支付订金，数量比自身所需高出近 **50%**。当前轮机订单排队已延伸到 2030 年代初期。",
+            "Noreva 首席执行官 Peter Gardett 在发给 TechCrunch 的邮件中说，SB Energy 如果想马上拿到部分轮机，当时除了超前预订外别无选择，并认为这笔减记是“价格发现终于发生”。Ascend Analytics 市场与战略高级董事总经理 Brent Nelson 则在播客中表示，多数数据中心仍最好接入电网，再用大型电池弥补缺口、应对高峰或限电。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "文章怎么看",
+          "paras": [
+            "TechCrunch 认为，这笔超过 **30 亿美元**的错判，反映出人工智能行业对电力的狂热；但软银的天然气相关亏损不太可能引发发电项目大规模取消，因为电力需求仍然很大。报道称，目前天然气依旧走强，只是软银可能已经摸到了自己的天花板。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/2ff39205eb2831cf76ed99f323f695b10a8528a2.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
+      "fulltext_status": "ok",
+      "read_minutes": 3
+    },
+    {
+      "id": "nf84143626847",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "Anthropic 启动 IPO 路演，估值已缩水约 6000 亿美元",
+      "original_title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+      "summary": "量子位报道，Anthropic 已启动 IPO 路演，拟以每股 70 至 78 美元发行 8.25 亿股，计划 11 月 19 日在纳斯达克上市，完全摊薄估值约 1.4 万亿美元。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/509381.html",
+          "is_primary": false,
+          "published_at": "2026-11-12T18:11:29+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T18:11:29+08:00",
+      "updated_at": "2026-11-12T18:11:29+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Anthropic 启动 IPO 路演，估值已缩水约 6000 亿美元",
+      "lead_zh": "量子位报道，Anthropic 已启动 IPO 路演，拟以每股 70 至 78 美元发行 8.25 亿股，完全摊薄估值约 1.4 万亿美元，较此前市场讨论的 2 万亿美元明显下降。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "量子位报道，Claude 母公司 Anthropic 的 IPO 路演已经开始。按计划，公司拟以每股 **70 至 78 美元**发行 **8.25 亿股**，交易规模最高约 **643.5 亿美元**，并计划于 11 月 19 日在纳斯达克上市，股票代码为 ANT。发售股份中，约 8.01 亿股为新股，约 2365 万股为现有股东出售。",
+            "报道称，按发行价上限和发行后基本股本计算，股权价值约 1 万亿美元；按完全摊薄口径约为 **1.4 万亿美元**，较此前市场讨论的 2 万亿美元明显下降。路演资料还提到约 260 亿美元战略私募，其中谷歌、英伟达各 100 亿美元，AMD 25 亿美元，博通、美光、微软各 10 亿美元。",
+            "经营数据方面，量子位引述称，第三季度营收 **169.56 亿美元**，是去年同期的 12.27 倍，环比增长约 47%，但增速较第二季度放缓；截至 10 月 31 日的年化收入运行率约 **810 亿美元**。当季算力与基础设施费用占收入比例由上季 48% 升至 **58%**；按美国通用会计准则，当季营业亏损 **5.67 亿美元**。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么说",
+          "paras": [
+            "据量子位称，非创始人董事、高管及现任或前任员工和顾问，可从首个交易日起出售规定基准持股的最多 **10%**，对应最多约 3.16 亿股，上市首日早期股东有机会套现 221 亿至 246 亿美元。报道还称，公司已签下约 **9000 亿美元**的采购及租赁承诺，其中约 4516 亿美元预计在 2030 年底前发生。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "ok",
+      "read_minutes": 8
+    },
+    {
+      "id": "nec886a92fa12",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "AWS 发布 SGLang-Neuron，可在 Trainium 上部署前沿模型",
+      "original_title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+      "summary": "AWS 宣布 SGLang-Neuron 已通过深度学习容器公开可用，开发者可在 AWS Trainium 上使用 SGLang 提供模型推理，并生成强化学习所需的 rollout。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+          "is_primary": true,
+          "published_at": "2026-11-13T06:03:34+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T06:03:34+08:00",
+      "updated_at": "2026-11-13T06:03:34+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "AWS 发布 SGLang-Neuron，可在 Trainium 上部署前沿模型",
+      "lead_zh": "亚马逊云科技宣布，相关工具已通过深度学习容器公开可用，可在自研加速芯片上用 SGLang 提供模型推理，并生成强化学习所需的试运行数据。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "亚马逊云科技宣布，SGLang-Neuron 已通过 AWS 深度学习容器公开可用，由 RadixArk 与 Annapurna Labs 合作发布。开发者可以在 AWS 自研芯片 Trainium 上，用自己已经熟悉的 SGLang 接口提供模型推理，并生成强化学习所需的试运行数据，底层跑在原生 PyTorch 上。",
+            "SGLang-Neuron 是一个外部插件：安装后会注册 neuron 平台，启动服务时设置相应环境变量即可选用。SGLang 核心仍负责接口服务、请求生命周期和前缀缓存等，插件则实现面向 Trainium 的模型、注意力、混合专家和计算图执行。它使用标准 PyTorch 运算，并加入用 Neuron Kernel Interface 编写的内核，再通过 torch.compile 编译后由运行器在推理时执行。",
+            "该方案还支持把预填充与解码分开部署：预填充服务器计算提示词的键值缓存，再通过弹性结构适配器上的 NIXL 传输给解码服务器，由后者继续生成后续词元。官方文档提供了在 Trainium3 实例和专用容器中启动服务、发送请求的示例，并介绍了支持的模型和已验证配置。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/31551113ab29c5219a8f2710d74ed8706375c42e.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/12/ML-22453-featured-image.png",
+      "fulltext_status": "ok",
+      "read_minutes": 3
+    },
+    {
+      "id": "ncb86ca9a5a41",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "基因检测公司 Natera 打造实验室智能体系统",
+      "original_title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+      "summary": "基因检测公司 Natera 基于 Amazon Bedrock AgentCore 构建了名为 SWARM 的智能体系统，用来沉淀实验室运营中的制度性知识，并把它规模化部署到日常作业里。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
+          "is_primary": true,
+          "published_at": "2026-11-13T05:47:07+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T05:47:07+08:00",
+      "updated_at": "2026-11-13T05:47:07+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "基因检测公司 Natera 打造实验室智能体系统",
+      "lead_zh": "基因检测公司 Natera 基于 Amazon Bedrock AgentCore 构建名为 SWARM 的智能体系统，用于沉淀实验室运营经验并规模化部署。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "游离 DNA 检测公司 Natera 实验室工程团队在 Ariel Jirau 带领下，与亚马逊云科技合作，基于 Amazon Bedrock AgentCore 构建了实验室运营智能体系统 SWARM。文中称，实验室每天三个 Jira 队列会收到超过 **65** 张工单，平均首次响应时间为 **17.4** 小时。",
+            "AWS 博客称，SWARM 把制度性知识沉淀并规模化部署，首次响应时间约加快 **130** 倍，并在支持工单上实现 **96.2%** 的自动覆盖。系统采用无长期密钥的部署，用 OIDC 与临时凭证，并把流量放在私有子网和 VPC 端点内。技能库共有 **33** 项，其中 **24** 项针对仪器家族，**9** 项为跨流程技能。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据 Jirau 说，“诊断准确性首先是数据质量问题”。他称，为得分最低的仪器家族补上缺失的厂商手册后，准确率在未改模型的情况下从 **71%** 升至 **75%**。评估还显示，标注为高置信的工单在 **154** 个案例中准确率为 **74%**，中、低置信分别为 **65%**（样本 **78** 和 **37**）。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/10964368505a88efa83ddd1786a804e249113b2f.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21653-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n77dc6766a4b4",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "微软研究聚焦第 98 期：通用翻译与数学难题进展",
+      "original_title": "Microsoft Research Focus – Edition #98",
+      "summary": "微软研究博客第 98 期由 Anson Ho 介绍最新进展，内容包括人工智能驱动的通用翻译、一项有 31 年历史的数学难题突破，以及让人工智能更好编写代码的研究。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Microsoft Research Blog",
+          "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+          "is_primary": true,
+          "published_at": "2026-11-13T05:31:57+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T05:31:57+08:00",
+      "updated_at": "2026-11-13T05:31:57+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "微软研究聚焦第 98 期：通用翻译与数学难题进展",
+      "lead_zh": "微软研究博客第 98 期介绍最新进展，包括人工智能驱动的通用翻译、一项有 31 年历史的数学难题突破，以及提升编程能力的研究。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "微软研究博客于 **11** 月 **12** 日发布第 **98** 期“Microsoft Research Focus”，由主持人 Anson Ho 介绍近期进展，主题包括人工智能驱动的通用翻译、一项有 **31** 年历史的数学难题突破，以及让编程智能体更快、更省的研究。",
+            "数学方面，文中称高维几何中的核心未解问题 KLS 猜想已被新研究解决，从而去掉了理解科学与计算中随机算法效率的一项主要理论障碍。编程方面，一项新研究查看了 **1,350** 万次编程会话，发现需要做上下文压缩的不足 **8%**，但这些会话占全部人工智能处理成本的 **44%**。",
+            "此外，东京实验室研究实习生 Lilika Makabe 的成长经历也被提及；另有研究讨论在 **104** 种语言上改进分词，认为只追求压缩效率并不足够。"
+          ],
+          "sources": [
+            "Microsoft Research Blog"
+          ]
+        }
+      ],
+      "image_url": "img/a139251aa4194b606a092acb14349984b1b8e03b.jpg",
+      "image_source": "Microsoft Research Blog",
+      "image_origin_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/ResearchFocus-BlogHeroFeature-1400x788-1-scaled-1.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ne9b2308e4ac3",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "亚马逊盘点 Bedrock 推理中影响费用的四项选择",
+      "original_title": "Four Amazon Bedrock inference choices that affect cost",
+      "summary": "亚马逊指出，即便已经优化提示词和应用逻辑，Amazon Bedrock 的推理账单仍可能上升；缓存时长、服务等级、推理力度和 maxTokens 这四项请求级选择都会影响费用。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
+          "is_primary": true,
+          "published_at": "2026-11-13T04:51:55+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T04:51:55+08:00",
+      "updated_at": "2026-11-13T04:51:55+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "亚马逊盘点 Bedrock 推理中影响费用的四项选择",
+      "lead_zh": "亚马逊云科技指出，即便优化了提示词和应用逻辑，Bedrock 推理费用仍可能上升，缓存时长、服务等级、推理力度和 maxTokens 都会改变账单。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "文章讲了什么",
+          "paras": [
+            "亚马逊云科技发文指出，即便已经优化提示词和应用逻辑，Amazon Bedrock 的推理账单仍可能上升。缓存时长、服务等级、推理力度和 maxTokens 这四项请求级选择，会在不改模型或提示词的情况下改变处理的词元数量和计费费率。推理词元按输出词元计费，缓存读写则使用单独计数。",
+            "文中列举，受支持的 Anthropic 模型提示缓存存活期可为 **5** 分钟或 **1** 小时，受支持的 GPT-5.6 模型最短为 **30** 分钟。作者还在 Amazon Nova 2 Lite 上分别发送 **200** 次默认请求和 **200** 次 Flex 请求：二者处理的输入和输出词元数相同，全部 **400** 次请求都落到所请求的等级，中位延迟差异小到无法与噪声区分；撰文时 us-west-2 公布的 Flex 费率为标准费率的一半，账单也与此相符。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "作者建议",
+          "paras": [
+            "AWS 称，Claude Sonnet 5 和 Claude Opus 5 在未填写 thinking 字段时，默认仍会以高力度做自适应思考，maxTokens 会同时限制思考和回复文本。作者建议按任务观察输出词元分布后设定上限，并比较 P95 与 P99，再留出余量；有自适应思考时，校准也要打开思考。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/ec0690ebd23474b69d4b7ad9956a937d34875982.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21479-featured-image-1.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nc8c5dc29297d",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "用 CUR 2.0 和 AWS Budgets 按身份限制 Bedrock 花费",
+      "original_title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+      "summary": "亚马逊介绍如何只用云上原生功能，按 IAM 主体追踪并限制 Amazon Bedrock 花费：用身份标签归集成本，再结合 CUR 2.0 和 AWS Budgets 设置可执行的额度上限。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/",
+          "is_primary": true,
+          "published_at": "2026-11-13T03:29:55+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T03:29:55+08:00",
+      "updated_at": "2026-11-13T03:29:55+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "用 CUR 2.0 和 AWS Budgets 按身份限制 Bedrock 花费",
+      "lead_zh": "亚马逊介绍如何仅用原生功能、在常见情形下无需改应用代码，按 IAM 主体追踪并限制 Amazon Bedrock 花费，通过身份标签归集成本。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "文章讲了什么",
+          "paras": [
+            "亚马逊云科技发文介绍，如何只用原生功能，按身份看清并限制 Amazon Bedrock 花费，常见情况下不必另写应用代码。做法分成三步：用 IAM 主体归因、用 CUR 2.0 或 Cost Explorer 做报表，再用 AWS Budgets 的预算行动在超过阈值时施加拒绝策略。",
+            "文中称，Bedrock 会自动记录每次推理请求的 IAM 用户或角色，无需改调用代码。多人共用同一角色时，可在扮演角色时传入会话标签；若每人各有角色，角色上的主体标签即可。新标签键最多可能要 **24** 小时才出现在可激活列表，激活后再最多 **24** 小时才会进入账单数据。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "和此前方案的对比",
+          "paras": [
+            "作者回顾，此前介绍过 Jamf 基于 IAM Identity Center、Athena 查询调用日志和 Lambda 的近实时自定义管控，但需要自行运维代码。本文方案面向常见场景，强调先得到按人的费用报表，再设置自动护栏，在花费越过阈值时限制对该服务的访问。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/596ed509efcea772db46c0af53ed6abab2d52d99.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-21962-featured-image-2.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "na88bddb17214",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "IBM 在 Granite 4.1 中引入面向大模型的标记语言 LLMON",
+      "original_title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "Hugging Face 博客介绍，面向大模型的原生标记语言 LLMON 现已加入 IBM Granite 4.1 的 3B 和 8B 型号，用于更适合模型阅读和生成的结构化文本。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "is_primary": true,
+          "published_at": "2026-11-13T03:07:35+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T03:07:35+08:00",
+      "updated_at": "2026-11-13T03:07:35+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "IBM 在 Granite 4.1 中引入面向大模型的标记语言 LLMON",
+      "lead_zh": "一篇博客介绍，面向大模型的原生标记语言现已用于 IBM 新一代开源模型的 30 亿和 80 亿参数两个版本。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发布了什么",
+          "paras": [
+            "IBM 在 Hugging Face 博客宣布推出面向大模型的标记语言 LLMON（LLM Object Notation，读作 lemon），并发布两款基于 Granite 4.1 基座、经过训练以读写 LLMON 标记文本的实验预览模型：granite-4.1-3b-LLMON-preview 和 granite-4.1-8b-LLMON-preview，同时开源工具包与工作流示例。",
+            "LLMON 用带语义的标签和保留的特殊词元分隔符标明上下文中的指令、数据和约束，并为指令分配唯一编号，使其能绑定到所作用的数据。作者称，模型从 Granite 4.1 基座而非已发布的指令微调模型出发，因此相关行为是在后期训练中学到的，而不是叠在现有对话格式上。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "作者怎么评价",
+          "paras": [
+            "据 IBM 称，在把注入放进经典自然语言任务数据的 OPI 基准上，LLMON 比他们测试过的最佳前沿模型少中招 **47%**，比最佳开源模型少中招 **95%**；在部分基准上攻击成功率接近零。作者并称，在标准能力评测上，这些预览模型与 Granite 4.1 Instruct 相当。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/64c8934a3743a2bdaf3787031a8c763ea2a368aa.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n4e46e49750fb",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "如何在 Amazon Bedrock 上计算任务成本并证明智能体回报",
+      "original_title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+      "summary": "亚马逊指出，只比较每千词元价格会掩盖在云上运行模型的真实成本。文章介绍如何计算单项任务成本、用缓存降低开支，以及怎样证明智能体项目的投资回报，文章还列出了四项容易被忽略的成本因素。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
+          "is_primary": true,
+          "published_at": "2026-11-13T02:43:19+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T02:43:19+08:00",
+      "updated_at": "2026-11-13T02:43:19+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "如何在 Amazon Bedrock 上计算任务成本并证明智能体回报",
+      "lead_zh": "亚马逊指出，只比较每千词元价格会掩盖真实成本，文章介绍如何计算任务成本、利用缓存降低开支，并证明智能体的投资回报。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "文章讲了什么",
+          "paras": [
+            "亚马逊云科技在系列第二篇文章中提出，比较每词元标价会掩盖在 Amazon Bedrock 上跑通一项任务的真实成本。文中把“任务”定义为一次完整工作单元，可能包含多次模型调用，并讨论四项定价页上看不到的成本驱动因素，以及用缓存、路由和输出约束降低任务成本的方法。",
+            "作者还介绍如何用人类基线、留出实验和五维评分表衡量智能体回报。文中举例称，不同模型的分词器会把同一段文本切成不同词元数：若某模型标价低 **15%**，但在结构化数据上多用 **40%** 词元，实际可能更贵；非拉丁文脚本常被切成相当于英文的两到三倍词元。输出词元通常比输入贵 **3** 至 **5** 倍，推理词元也按输出计费。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "作者的建议",
+          "paras": [
+            "AWS 举例说，一个先读 **750** 词客户邮件、再抽实体、调接口并输出严格 JSON 的流程里，标价更高的模型按任务计算可能反便宜约 **65%**，因为额外轮次会反复发送不断变长的上下文。文中注明这些价格是示意数字，需按自身数据和当前定价重新测算；并建议先关闭扩展思考，只在基准显示质量差距足以覆盖成本时再打开。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/35fa0ccf6ef5e114c75987542aef427984139efb.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-21540-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n83054ecb029e",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "用 LiteLLM 和 Amazon Bedrock 搭建自助大模型网关",
+      "original_title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "summary": "亚马逊介绍如何在 AWS Fargate 上用 LiteLLM 搭建自助大模型网关，把 Amazon Bedrock 基础模型放到兼容 OpenAI 的接口后面，开发者凭一把密钥就能调用。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
+          "is_primary": true,
+          "published_at": "2026-11-13T02:41:12+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T02:41:12+08:00",
+      "updated_at": "2026-11-13T02:41:12+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "用 LiteLLM 和 Amazon Bedrock 搭建自助大模型网关",
+      "lead_zh": "亚马逊介绍如何在 AWS Fargate 上用 LiteLLM 搭建自助网关，把 Bedrock 基础模型放到兼容 OpenAI 的接口后面，开发者用一把密钥即可调用。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "文章讲了什么",
+          "paras": [
+            "亚马逊云科技发文介绍，如何用跑在 AWS Fargate 上的 LiteLLM，把 Amazon Bedrock 基础模型放到兼容 OpenAI 的接口后面，搭建自助大模型网关。开发者用一把专属密钥即可调用，平台侧则可做按人费用控制、配额隔离和可观测性。文中示例使用 Claude Sonnet 和 Claude Haiku。",
+            "生产拓扑上，兼容 OpenAI 的客户端经 Route 53、CloudFront 和负载均衡器到达网关，用每用户密钥向 Fargate 上的 LiteLLM 认证；后端用 RDS PostgreSQL 保存虚拟密钥和花费状态，用 ElastiCache 做缓存，用 Secrets Manager 存密钥，再以任务角色调用 Bedrock 应用推理配置。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "如何做花费控制",
+          "paras": [
+            "文中示例把花费上限设为 **250**、周期为 **7** 天，按密钥滚动执行；用户超限时 LiteLLM 返回 HTTP **429** 并说明预算已用尽。作者还建议把告警设在配额使用率 **60%** 至 **70%**，以便在发生限流前去提高 Bedrock 配额，并用 Langfuse 与 CloudWatch 一起排查提示词和词元消耗。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/296436ee5b0fddef4749b88d756e49183e50f98d.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-20816-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n85bacafff424",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "亚马逊发布新一代 AgentCore 运行时，强化安全与效率",
+      "original_title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "summary": "亚马逊介绍新一代 Amazon Bedrock AgentCore 运行时，面向需要连续运行数小时、并能代表用户执行多步任务的智能体，强调在安全性和可扩展计算方面的提升。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+          "is_primary": true,
+          "published_at": "2026-11-13T01:59:59+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T01:59:59+08:00",
+      "updated_at": "2026-11-13T01:59:59+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "亚马逊发布新一代 AgentCore 运行时，强化安全与效率",
+      "lead_zh": "亚马逊介绍新一代 Amazon Bedrock AgentCore 运行时，面向需要连续运行数小时、代表用户执行多步任务的智能体，强调更安全、可扩展的计算能力。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "亚马逊云科技宣布更新 Amazon Bedrock AgentCore 运行时。文中称，每个会话仍在独立的硬件隔离 Firecracker 微型虚拟机中运行，并拥有自己的身份、策略和审计轨迹。新版本称会话启动最多加快 **15** 倍，算力可扩展至原来的 **4** 倍，运行效率最多提高 **68%**。",
+            "具体规格方面，会话现可扩展到 **8** 个 vCPU 和 **32** GB 内存，并支持最大 **10** GB 的容器镜像；启动时间可在 **2** 秒以内，且与镜像大小和并发无关。运行时还称可在智能体释放内存后数分钟内回收，空闲会话可缩到零；对多轮、中间有停顿的智能体，单会话内存消耗最多可减少 **68%**。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "客户怎么说",
+          "paras": [
+            "文中转述，Mission 称同一工作负载下，推理请求冷启动加快 **35%**，健康检查启动加快 **77%**，测得的每次调用运行时成本下降 **17%**。Zuora 则称，在许多场景下每次调用的内存占用约下降 **60%**，同时能以稳定延迟处理更多流量。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/075540e0c7cb3d6ca9f7c637ca7d7429fdbd7825.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-22215-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6d29ea24a6e6",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "用编程代理把知识库迁到 Amazon Bedrock 托管知识库",
+      "original_title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+      "summary": "亚马逊发布迁移指南，帮助使用编程代理，把客户自行管理的知识库迁到托管知识库。代理会先做只读发现，再据此规划迁移步骤，以降低搬迁过程中的风险，该指南已放在相应的编程助手技能包中。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
+          "is_primary": true,
+          "published_at": "2026-11-13T00:16:45+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T00:16:45+08:00",
+      "updated_at": "2026-11-13T00:16:45+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "用编程代理把知识库迁到 Amazon Bedrock 托管知识库",
+      "lead_zh": "亚马逊发布迁移指南，帮助用编程代理把客户自管的 Bedrock 知识库迁到托管知识库，代理会先做只读发现再规划迁移。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "文章讲了什么",
+          "paras": [
+            "亚马逊云科技在 Agent Toolkit for AWS 的 amazon-bedrock 技能中加入知识库迁移指南，帮助把客户自管的 Amazon Bedrock 知识库迁到托管知识库。编程代理先做只读盘点并写出计划，经人工逐行确认后，再在原库旁创建新的托管知识库或写出基础设施即代码模板；摄入内容和改应用里的 Retrieve 调用仍由团队自己完成。",
+            "文中称，托管知识库由服务负责摄入、存储、索引和检索，并随内容自动扩容；混合检索默认开启，还包含托管嵌入模型、托管重排序器和多模态文件解析器。当前默认配额为每个知识库 **200** 个数据源，每个账户在每个区域可有 **10,000** 个知识库。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "迁移时怎么控风险",
+          "paras": [
+            "AWS 表示，发现、规划和整条基础设施即代码路径只需只读凭证；若要实际创建资源，指南会要求代理提出明确拒绝改动原库的范围策略，且不得索要管理员或完全访问权限。可选的成本分析会用 CloudWatch、对象大小和 Cost Explorer 等只读输入，把数字标成实测、用户提供或估算。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/abbaa8c7fd9a3af678c85daf550fd7d9b2f1dffb.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/03/ML-22176-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nd3206ea89ca2",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "在 AWS 上用 A2A 协议搭建可组合的多智能体系统",
+      "original_title": "Build composable, interoperable multi-agent systems with A2A on AWS",
+      "summary": "亚马逊介绍如何用 Agent-to-Agent（A2A）协议在 AWS 上构建可组合、可互操作的多智能体系统，例如用 ECS 上的 LangChain 编排器与 AgentCore 上的智能体通信。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
+          "is_primary": true,
+          "published_at": "2026-11-12T23:42:21+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T23:42:21+08:00",
+      "updated_at": "2026-11-12T23:42:21+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "在 AWS 上用 A2A 协议搭建可组合的多智能体系统",
+      "lead_zh": "亚马逊介绍如何用 Agent-to-Agent（A2A）协议在 AWS 上构建可组合、可互操作的多智能体系统，例如让编排器与 AgentCore 上的智能体通信。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "文章讲了什么",
+          "paras": [
+            "亚马逊云科技发文介绍，如何用智能体对智能体（A2A）协议在 AWS 上搭建可组合、可互操作的多智能体系统。参考架构里，企业侧用跑在 Amazon ECS 上的 LangChain 编排器，与另一账户中跑在 Amazon Bedrock AgentCore 上的 Strands 智能体通信，双方不依赖对方的框架或软件开发工具包，也不共享密钥。",
+            "文中称，A2A 现为 Linux 基金会项目，AWS 是支持方之一，并使用 OAuth 2.0 和 OpenID Connect 做跨边界认证。演示里共有三个智能体、两个账户，各用自己的 Amazon Cognito 用户池。企业编排器使用 Anthropic Claude Sonnet 4.6，内部上下文智能体使用 Amazon Nova Lite，并采用官方 a2a-sdk，版本固定为 a2a-sdk[http-server]==1.2.2。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "设计要点",
+          "paras": [
+            "作者强调，跨边界通信全部走 A2A，企业侧无法看到软件服务商智能体的内部工具、系统提示或模型选择。只要 Agent Card 和 A2A 接口保持兼容，服务商就可以改内部架构而不影响客户集成；服务商卡片只公布一项整理过的技能，而不暴露内部工具名。系统可用三份 Jupyter 笔记本部署并做端到端测试。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/bde8774e065b0478b807ffcabb5e9988a6377fa8.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21127-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n9ed2099ae485",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "为 Bedrock 托管知识库工具实现细粒度访问控制",
+      "original_title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "summary": "亚马逊介绍如何通过 AgentCore Gateway，把托管知识库以 MCP 工具形式提供给智能体，同时用请求拦截器注入身份信息，从而保持按用户的细粒度访问控制。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
+          "is_primary": true,
+          "published_at": "2026-11-12T23:40:24+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T23:40:24+08:00",
+      "updated_at": "2026-11-12T23:40:24+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "为 Bedrock 托管知识库工具实现细粒度访问控制",
+      "lead_zh": "亚马逊介绍如何通过 AgentCore Gateway 把托管知识库以 MCP 工具形式提供给智能体，并用请求拦截器注入身份信息，保持按用户的访问控制。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "文章讲了什么",
+          "paras": [
+            "亚马逊云科技发文介绍，如何把 Amazon Bedrock 托管知识库作为 MCP 工具，经 Amazon Bedrock AgentCore Gateway 提供给智能体，同时保持按用户的访问控制。核心原则是不让大模型决定“当前用户是谁”，而由受信任的代码根据身份提供方已验证的信息注入身份。",
+            "托管知识库的 ACL 感知功能会在请求带上用户上下文时，只返回该用户有权查看的文档。但经网关暴露为工具后，用户上下文会变成由模型填写的工具参数。为此，方案用请求拦截器写入已验证身份，再用 AgentCore 中的策略独立校验，并用基于资源的策略限制对知识库的直接访问。示例可用一份 CDK 堆栈部署，默认还包含 CloudFront 上的演示网页。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "落地时要注意",
+          "paras": [
+            "作者提醒，Amazon S3 数据源的访问控制在摄入时固化，搜索时不会实时复核，权限变更要等下一次同步才生效；没有 ACL 条目的文档不会被摄入，ACL 配置错误也不会报错，只是相关文档被静默排除。Cognito 访问令牌默认不含邮箱声明，示例用预发生令牌的 Lambda 在邮箱已验证时写入，并要求用户池为 Essentials 或 Plus 方案。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/e489582253b76e572d8673564e6b2a04c5e82541.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-21865-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n56dac742ff29",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Hugging Face 发布三维生成模型微调指南",
+      "original_title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "Hugging Face 博客发布题为《三维生成模型权威微调指南》的文章，系统介绍如何对三维生成模型进行微调，并提供可供开发者按步骤动手实践和复现的说明，适合需要把模型适配到特定三维任务的团队。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/3d-lora-finetuning",
+          "is_primary": true,
+          "published_at": "2026-11-12T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T08:00:00+08:00",
+      "updated_at": "2026-11-12T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Hugging Face 发布三维生成模型微调指南",
+      "lead_zh": "Hugging Face 博客发布《三维生成模型权威微调指南》，介绍如何对三维生成模型做微调。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发布了什么",
+          "paras": [
+            "Hugging Face 发布针对三维生成模型 TRELLIS.2 的微调指南，提供可在本地和 Hugging Face Jobs 上运行的脚本与容器，用于在自有三维资产上做 LoRA 微调。作者用 Google Scanned Objects 数据集中 **188** 件鞋类（该数据集共 **1,030** 件物体）做实验，称预训练模型生成的鞋子看起来往往正确，但鞋底不准确。",
+            "他们只给控制粗结构和细致几何的两个扩散变换器加适配器，冻结纹理阶段。两个适配器合计约训练 **930** 万个参数，分别使用秩 **8** 和秩 **16**。每段训练在 Hugging Face Jobs 上使用一张 **80** GB 的 A100，稀疏结构阶段耗时 **7.2** 小时，形状阶段耗时 **3.6** 小时。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "效果如何",
+          "paras": [
+            "作者在 **9** 个留出物体上比较称，基础模型的平均 F-score 为 **0.276**，加上鞋类适配器后为 **0.803**；Chamfer 距离从 **0.174** 降至 **0.033**，法线一致性从 **0.530** 升至 **0.804**，且全部 **9** 个物体的 F-score 都有提高。他们并称，在这些例子里，微调后的鞋底更接近扫描参考。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/7fde0bed37d6af2121c3068b4193f7cb554bc3a0.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf0f410038b7d",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "研究建议逐层逐模块探测 Transformer 表征，不必只看最后一层",
+      "original_title": "Probing Transformer Representations Layer by Layer, Module by Module",
+      "summary": "一篇预印本提出，在基于 Transformer 的基础模型中，只探测最后一层往往并非最优选择，中间层有时能够提供更有用的表征，因此有必要逐层、逐模块地检查，这对如何选择探测位置提出了新的问题。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.11531",
+          "is_primary": true,
+          "published_at": "2026-11-12T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T08:00:00+08:00",
+      "updated_at": "2026-11-12T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "研究建议逐层逐模块探测 Transformer 表征，不必只看最后一层",
+      "lead_zh": "一篇预印本指出，在基于 Transformer 的基础模型里，习惯性探测最后一层往往并非最优，中间层有时能提供更好的表征。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "论文说了什么",
+          "paras": [
+            "Ambroise Odonnat、Theo Gnassounou、Laetitia Chapel 等人发布预印本指出，在基于 Transformer 的基础模型里，习惯性探测最后一层往往并非最优，中间层有时能提供更好的特征；而且表征不应只按深度研究，还要把每个模块单独看待。预印本标注日期为 **2026** 年 **11** 月 **8** 日。",
+            "作者对视觉基础模型和大语言模型做了超过 **14.4** 万次线性探测评估，称层与模块应一并选择：最佳“层—模块”组合，比固定残差流只选最佳层，带来的增益明显更大；同一模块在不同层上的表现也可差很多。",
+            "据此，他们评估了简单固定策略：视觉用最后一层前馈激活（Act@100），语言用约 **60%** 深度处的第二层归一化（LN2@60）。这些策略在多数评估中优于探测基线，并平均分别收回最佳组合增益的 **42%** 和 **86%**。对视觉模型，预训练与下游数据迁移越难，增益越大。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/c79ec5f4ba2d0ff1758457f8032ac5c059448bd7.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.11531.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n7894e590aca2",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "ScrapeBench：评估智能体抓取网站时的合规性",
+      "original_title": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping",
+      "summary": "研究人员发布基准测试 ScrapeBench，用来评估部署在开放网络上的人工智能智能体在抓取网站时，是否可能违反合同条款，或触犯计算机安全相关法律，随着网络智能体能力增强，这一问题更加突出。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.11306",
+          "is_primary": true,
+          "published_at": "2026-11-12T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T08:00:00+08:00",
+      "updated_at": "2026-11-12T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "ScrapeBench：评估智能体抓取网站时的合规性",
+      "lead_zh": "研究人员发布基准 ScrapeBench，用于评估开放网络上的人工智能智能体在网站抓取中是否可能违反合同条款或计算机安全法律。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "论文说了什么",
+          "paras": [
+            "Joseph Marvin Imperial、Daniel Slate 和 Noam Kolt 发布基准 ScrapeBench，称这是首个用于实证评估智能体是否遵守网站抓取政策的智能体基准，覆盖服务条款和 robots 相关指令。预印本标注日期为 **2026** 年 **11** 月 **8** 日。",
+            "在明确禁止抓取的 **1,626** 个热门网站样本上，论文称多数开源与闭源智能体的合规率低于 **5%**；即便会主动查阅适用条款，合规率仍然偏低。在不禁止抓取的 **269** 个网站样本上，智能体有时仍会拒绝，其中 Claude Opus 4.6 的过度拒绝率为 **98.5%**。",
+            "作者还做了人类基线实验（**180** 名参与者），称人类的合规率与智能体相当，但过度拒绝的比例要高得多。论文同时指出，随着网络智能体能力增强，这一问题更加突出。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/8947727e52b72dda429173d4b2d8883ff0214d9e.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.11306.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nd6d136934535",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "FAME-QP：面向实时模型预测控制的 GPU 二次规划求解器",
+      "original_title": "FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control",
+      "summary": "研究人员发布一款图形处理器加速求解器，用于处理线性模型预测控制里出现的稠密二次规划问题，并结合了依赖约束的算子表示和融合后的计算方式，其目标是满足实时控制对计算速度的要求。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.13766",
+          "is_primary": true,
+          "published_at": "2026-11-12T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T08:00:00+08:00",
+      "updated_at": "2026-11-12T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "FAME-QP：面向实时模型预测控制的 GPU 二次规划求解器",
+      "lead_zh": "研究人员发布 GPU 加速求解器 FAME-QP，用于处理线性模型预测控制中的稠密二次规划问题，并融合约束相关的算子表示。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "论文说了什么",
+          "paras": [
+            "研究人员 Santosh Mohan Rajkumar、Debdipta Goswami 和 Stephanie Stockar 发布 GPU 加速求解器 FAME-QP，用于处理线性模型预测控制中出现的稠密二次规划问题。预印本标注日期为 **2026** 年 **11** 月 **10** 日。",
+            "该求解器把依赖约束的算子表示，与通过 CUDA graphs 回放的单核及双核融合迭代结合起来，并借助设备校准和针对具体问题的计时，自动选择执行配置。它会探查缓存的算子库以选择初始惩罚项，并在问题矩阵变化时延迟更新算子。",
+            "作者在数值基准，以及模拟的人形机器人和四旋翼控制实验中显示，相较其他 GPU 求解器，FAME-QP 在保持求解精度和控制性能的同时降低了延迟。摘要未给出具体加速倍数。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/dc79d63ffc5044e6cd4eed97ef119b33e142e756.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.13766.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n2c85c6d2a86c",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "论文提出可随智能体负载自适应调整的大模型推理系统",
+      "original_title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+      "summary": "一篇预印本指出，智能体工作负载已成为大模型推理的重要来源，而现有把预填充与解码分开的系统，很难在运行时灵活调整算力分配以及键值缓存策略，作者据此提出了一套可随负载调整的服务方案。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.12304",
+          "is_primary": true,
+          "published_at": "2026-11-12T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T08:00:00+08:00",
+      "updated_at": "2026-11-12T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "论文提出可随智能体负载自适应调整的大模型推理系统",
+      "lead_zh": "一篇预印本指出，智能体工作负载已成为大模型推理的重要来源，现有预填充与解码分离系统难以在运行时灵活调整算力和 KV 缓存。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "论文说了什么",
+          "paras": [
+            "Hao Kang、Weili Xu、Ziyang Li 等人发布预印本，提出面向智能体负载的大模型推理框架 Evolving Infra。作者指出，现有把预填充与解码分离的系统，难以在运行时灵活调整算力分配和键值缓存，容易造成节点负载不均，并逐出智能体仍会复用的缓存。",
+            "该框架把算力分配与键值缓存管理解耦，使节点能在预填充和解码之间切换。在此基础上，在线规划器会按负载构成匹配二者分工，智能体感知的分布式缓存管理则依据上下文管理信号指导逐出和迁移。",
+            "作者在编程、数学和计算机使用任务上，用 GLM-5.2 和 Kimi K2.6，最多在 **256** 张 GB300 GPU 上测试，称相较英伟达生产框架 Dynamo，平均端到端请求延迟和 P95 首字时间最多分别降低 **4.1** 倍和 **14** 倍。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/9627efeb3fc428d35f17b030a125a103295eb2da.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12304.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n194d71fff18f",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "CARTBench 用评分表评估购物助手的复杂请求处理",
+      "original_title": "CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines",
+      "summary": "研究人员发布新的评测基准，针对大模型购物助手在多轮对话中的商品推荐，用基于评分表的方法，评估其处理复杂、含糊而且带有时间线请求的能力，现有评测往往面临样本不足和标准不统一的问题。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.05862",
+          "is_primary": true,
+          "published_at": "2026-11-12T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-12T08:00:00+08:00",
+      "updated_at": "2026-11-12T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "CARTBench 用评分表评估购物助手的复杂请求处理",
+      "lead_zh": "研究人员发布 CARTBench，针对大模型购物助手在多轮对话中的推荐，用基于评分表的方法评估其处理复杂、含糊且带时间线请求的能力。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "论文说了什么",
+          "paras": [
+            "Yuqin Dai、Zhanwei Zhang、Honghui Yang 等人发布评测基准 CARTBench，针对大模型购物助手在多轮对话中的推荐，评估其处理复杂、含糊且带时间线请求的能力。预印本标注日期为 2026 年 11 月 4 日。",
+            "为缓解样本不足，作者从真实商业购物需求中整理了覆盖 **17** 个零售领域的案例，把带时间戳的对话与 **1,603** 条商品记录配对。评分标准方面，他们依据从成功完结订单中人工选出的优秀回复，提炼“理想回复原则”，并据此编写案例评分表。实验基准包含 **1,328** 条专家标注标准，分为核心、卓越和安全三类。",
+            "在首次完整评测中，作者测试了包括 GPT-6.1-Sol 和 Claude-Opus-5 在内的 **7** 个旗舰商业接口模型，以及参数量超过 350 亿的开源权重模型。**10** 个模型里有 **3** 个在核心项上超过 **90%**，但没有模型在卓越项上超过 **45%**。作者据此指出，模型在“理解该做什么”和“给出高质量购买建议”之间仍有差距。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/a6881639b79d8b2df8cb68cdf424762dc229c0e4.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.05862.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ne94b95796523",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "美国联邦航空局扩大用人工智能疏导全美空域拥堵",
+      "original_title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Ars Technica 报道，美国联邦航空局把用于疏导空中交通拥堵的人工智能建议工具扩大到全美空域；航空公司对此表示欢迎，但空中交通管制员所在工会并未参与其中。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "is_primary": false,
+          "published_at": "2026-11-13T06:28:47+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T06:28:47+08:00",
+      "updated_at": "2026-11-13T06:28:47+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "美国联邦航空局扩大用人工智能疏导全美空域拥堵",
+      "lead_zh": "Ars Technica 报道，美国联邦航空局把人工智能建议工具扩大到管理全美空域拥堵，航空公司表示欢迎，但空管员工会并未参与其中。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Ars Technica 报道，美国联邦航空局把名为 SMART 的人工智能建议系统，从华盛顿特区空域扩大到全国全部 **22** 个区域中心，用于协助管理空中交通拥堵。该机构称，这套价值 **8.75 亿美元**的系统自 9 月 21 日在华盛顿空域启用以来，已帮助改航 **180** 架次航班，平均每班节省约 **10** 分钟和近 **80** 加仑燃油。",
+            "据介绍，SMART 是一套云系统，会综合天气、航路、交通流量和管制员人力等数据来预测交通并给出调度、航线和着陆顺序建议。华盛顿的一组联邦航空局专家会先审核这些建议，再转给各地管制单位；地方管制员可以决定是否采纳。该局强调，系统不能取代管制员，也不能接管飞机。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "联邦航空局在 11 月 10 日的声明中称，将在全国使用该系统，以减少延误和油耗、改善旅客出行体验。达美航空首席执行官 Ed Bastian 和美国航空首席执行官 Robert Isom 此前曾公开表态支持。但代表逾 **1.5 万**名会员的美国全国空中交通管制员协会对《飞行》杂志表示，他们并未参与该系统的设计、测试或实施，因此无法评价其对管制队伍的影响。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/16a6f93cc77d04ee005b15b696ef9183abdac809.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n82d9be95873a",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Muse 可向美国商家拨出电话，但需付费使用",
+      "original_title": "Muse can now place calls to U.S. businesses — if you pay",
+      "summary": "科技媒体报道，Muse 的人工智能现在可以向美国商家拨打外呼电话，不过这项能力需要付费使用，并非对所有用户都免费开放，普通账户无法直接调用，该功能目前面向付费用户开放。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+          "is_primary": false,
+          "published_at": "2026-11-13T06:22:28+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T06:22:28+08:00",
+      "updated_at": "2026-11-13T06:22:28+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Muse 可向美国商家拨出电话，但需付费使用",
+      "lead_zh": "TechCrunch 报道，Muse 的人工智能现已可以向美国商家拨打外呼电话，不过这项能力不是免费功能。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch 报道，Meta 面向消费者的智能体 Muse 在 9 月小范围测试之后，现在已经可以向美国商家拨打外呼电话，但只有付费订阅用户才能使用。该公司上月曾表示，Muse 用户已超过 **1000 万**。目前订阅起步价为每月 **20 美元**，每周提供 5 亿个词元；用量更大的用户可以每月支付 **100 美元**，获得 30 亿个词元。",
+            "此前只有一部分早期用户在主动申请后才能试用这一功能，现在所有付费用户都可以提出此类请求。能够代用户给商家打电话的，并不只有 Muse，创业公司 Instinct 以及谷歌的 Gemini 也提供类似选项。Meta 首席人工智能官 Alexandr Wang 还表示，近期新增的 Muse 电子邮箱功能很快会向免费用户开放。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据 Alexandr Wang 介绍，这项功能可以用来代劳人们不太想打的电话，例如联系有线电视公司、车管所，或给不提供在线订位的餐厅打电话。报道同时指出，许多商家和前台一旦发现对方不是真人，就会挂断人工智能打来的电话，但随着合成语音更接近真人，分辨也会变得更困难。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/8e145d9fb51ccf4eda877b1b28d0287c2f1980fb.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ndce5e82d2a55",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "WIRED 特辑讨论黄仁勋离职后英伟达与对手走向",
+      "original_title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "summary": "《连线》播客推出一期特辑，讨论黄仁勋从英伟达辞职后公司将如何安排下一步，竞争对手会否从中获利，以及整个人工智能产业接下来可能走向何处，节目把讨论重点放在行业格局可能发生的变化上。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+          "is_primary": false,
+          "published_at": "2026-11-13T06:14:41+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T06:14:41+08:00",
+      "updated_at": "2026-11-13T06:14:41+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "WIRED 特辑讨论黄仁勋离职后英伟达与对手走向",
+      "lead_zh": "WIRED《Uncanny Valley》推出特辑，讨论黄仁勋从英伟达辞职后公司下一步安排，以及人工智能产业将如何演变。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "《连线》播客《Uncanny Valley》推出一期特辑，由执行主编 Brian Barrett 与 Zoë Schiffer、Leah Feiger 讨论黄仁勋从英伟达辞职后的局面。节目介绍称，黄仁勋在承认与一名被指为中方情报人员有婚外情后正式辞职，并面临至少另外两段与英伟达员工关系的报道。",
+            "特辑将拆解董事会如何转向对其创始人不利、临时首席执行官 Colette Kress 对公司意味着什么，以及这对英伟达竞争对手是否构成机会。页面还列出相关报道，包括介绍 Kress 的专文，以及另一篇标题称其在不到一个月内“烧掉”超过 **1** 万亿美元的文章。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "节目里怎么说",
+          "paras": [
+            "据节目中 Barrett 介绍，Kress 自 **2013** 年加入英伟达，此前曾在思科和微软任职，将被作为临时负责人；他也谈到，即便有人因丑闻想离开英伟达，眼下替代选择仍然有限。上述讨论出自自动转写，文中注明转写可能有误。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/dcd1e38820b6e2f3efd0c7fcf895cd9370e01ac9.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6af5ee2157e0a3ee177875cd/master/pass/Uncanny-Valley-Jensen-Emergency-Pod.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n8af226d2b9f4",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "谷歌称新 Gemini 模型更擅长理解复杂搜索问题",
+      "original_title": "Google’s new Gemini model is better at understanding complicated questions",
+      "summary": "The Verge 报道，谷歌称新模型 Gemini 4 Hydrogen 能对复杂问题给出更有帮助的回答，包括包含多个部分的问题、难以辨认的拼写错误，以及非常具体的请求。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "is_primary": false,
+          "published_at": "2026-11-13T05:55:32+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T05:55:32+08:00",
+      "updated_at": "2026-11-13T05:55:32+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌称新 Gemini 模型更擅长理解复杂搜索问题",
+      "lead_zh": "The Verge 报道，谷歌称 Gemini 4 Hydrogen 能对复杂问题给出更有帮助的回答，包括多部分问题、难辨拼写错误和非常具体的请求。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge 报道，谷歌新模型 Gemini 4 Hydrogen 即日起可用于搜索、Gemini 应用、Google AI Studio 的各个层级、Gemini 编程接口、面向企业的 Gemini，以及 Google AI Pro 和 Ultra 订阅用户的 Antigravity。谷歌搜索产品副总裁 Robby Stein 表示，它已成为 AI Mode 的默认模型，并被用于 AI Overviews 中较难的问题。",
+            "谷歌介绍，新模型可以把复杂问题拆开，并逐项作出回应，还能通过同时查询相关子主题，在答复中给出更广的链接，以及图片、对比表格、图表和地图等更丰富的可视化内容。它同样提供低、中、高和新增的最高思考档可选。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "谷歌怎么说",
+          "paras": [
+            "据谷歌称，Hydrogen 能对包含多个部分、难以辨认的拼写错误或非常具体的请求给出更有帮助的回答，并在其 AI Mode 目前支持的所有语言中提升了语言理解。谷歌还表示，相较上一款快速模型，它在速度和智力上都有明显提升，并且达到或超过同级别的部分竞品，报道中点名了 Claude Sonnet 5.5 和 GPT-6.1 Terra。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/709f3df39f7504a8e4b73b28ae4f4c408efa4b1f.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nef98f01e800c",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "TechCrunch 梳理黄仁勋风波时间线，称其已辞去英伟达职务",
+      "original_title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "科技媒体梳理英伟达首席执行官黄仁勋相关风波的时间线，并称他已在婚外情事件后辞职；报道认为此事可能对美中在人工智能基础设施上的竞争产生影响，报道把这一事件放在大国竞争的背景下来看。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "is_primary": false,
+          "published_at": "2026-11-13T05:35:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T05:35:00+08:00",
+      "updated_at": "2026-11-13T05:35:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "TechCrunch 梳理黄仁勋风波时间线，称其已辞去英伟达职务",
+      "lead_zh": "TechCrunch 梳理英伟达首席执行官黄仁勋相关风波的时间线，并称他已因此辞职，可能对美中人工智能基础设施竞争带来影响。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch 梳理黄仁勋风波时间线称，现年 **63** 岁的英伟达联合创始人已承认在与妻子 **40** 年的婚姻中出轨，并已辞去他执掌 **33** 年的首席执行官职务。文中称，美国官员认为其可能的恋爱对象、Megaspeed 高管 Alice Huang（中国公民，与黄仁勋无亲属关系）是向北京传递信息的间谍。",
+            "文章称，总部位于新加坡的 Megaspeed 据报过去两年采购了 **48** 亿美元英伟达芯片，美新两国都曾因涉嫌向中国非法分享芯片展开调查，美国司法部已接手对该公司的联邦调查。周三《纽约时报》援引 **5** 名英伟达工作人员报道，黄仁勋还与直接向他汇报的医疗健康副总裁 Kimberly Powell 有婚外关系；英伟达、黄仁勋和 Powell 均未证实。",
+            "周四上午他已不再担任首席执行官；下午路透社又报道称他还与另一名未具名的英伟达员工有婚外情。Harvey C. Jones 被任命为该公司首任董事长，他自 **1993** 年起担任董事。文章并称，黄仁勋已确认将在感恩节（**11** 月 **26** 日）前到国会作证。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/7cc778d1943ec29b7f10cc5e5947f0d34ffde5dd.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n53632fc1e891",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "WIRED：黄仁勋未将继任者列入科技界最有权势女性",
+      "original_title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "summary": "《连线》写道，该刊近期调查探讨了科技行业女性“权力”的复杂定义，而黄仁勋的相关表态显得有些盲区，因为他并未把自己的继任者列为最有权势的女性之一，文章认为这暴露出他对女性权力的理解仍有局限。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+          "is_primary": false,
+          "published_at": "2026-11-13T04:35:11+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T04:35:11+08:00",
+      "updated_at": "2026-11-13T04:35:11+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "WIRED：黄仁勋未将继任者列入科技界最有权势女性",
+      "lead_zh": "WIRED 写道，黄仁勋的表态反映出他对行业女性“权力”定义的盲区，并未把自己的继任者列为科技界最有权势的女性之一。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "WIRED 写道，英伟达新任临时首席执行官 Colette Kress，此刻已是科技行业最有权势的女性之一，但她的前任黄仁勋在不久前回应该刊提问时，并没有提到她。今年秋初，WIRED 曾刊发一篇关于科技行业女性“权力”的特稿，列举了 Lisa Su、Gwynne Shotwell、Laurene Powell Jobs 等多人，当时仍任首席财务官的 Kress 也在文中被提及。",
+            "作为报道的一部分，该刊直接发邮件询问黄仁勋的看法。他回复说，想到的是 Meta 的 Dina Powell 和谷歌的 Ruth Porat，因为“在华盛顿能见到她们”；经再追问后，他也认同 SpaceX 总裁兼首席运营官 Shotwell 十分出色。但他没有提到自己公司里职位最高的女性高管，而 Kress 几乎每次季度财报电话会都与他一同出席。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "文章怎么看",
+          "paras": [
+            "WIRED 认为，以任何标准衡量，作为全球最有价值公司之一的首席财务官，Kress 都已是科技界最有权势的女性之一；如今她在行业最动荡的时刻临时代理首席执行官，其决定会影响科技、地缘政治和更广泛的经济。报道还写道，无论这一任命是否转为长期，她此次被黄仁勋“遗漏”，只是一长串判断失误中的一次。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/89c3e6e99f63785acb109b8d2d08179ed3cc91dd.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6af5df9b506e35cfaae88b85/master/pass/111226-Jensen%20Power%20Women%20tech.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nc88537f3a56d",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic 推出可加入视频会议的 Claude 功能",
+      "original_title": "Claude Meetings lets Anthropic's AI join your video calls",
+      "summary": "The Decoder 报道，Anthropic 推出 Claude Meetings，可直接加入 Google Meet 会议，并实时生成文档、白板和会议记录；该功能先以测试版向 Team 用户开放。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+          "is_primary": false,
+          "published_at": "2026-11-13T04:26:50+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T04:26:50+08:00",
+      "updated_at": "2026-11-13T04:26:50+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Anthropic 推出可加入视频会议的 Claude 功能",
+      "lead_zh": "外媒报道，Anthropic 让其对话模型直接加入谷歌会议，能实时生成文档、白板和会议记录，该功能先向团队版用户开放测试。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder 报道，Anthropic 推出 Claude Meetings，让 Claude 以可见参与者的身份加入视频会议。通话过程中，它能回答问题、生成文档和白板，并记录笔记与待办事项；默认以文字回应，在获得许可后也可调用已连接的工具。",
+            "会议结束后，Claude 生成的笔记、转写和文档会放在 claude.ai 的专门页面上。默认的隐私设置会阻止它加入有外部参与者的通话。该功能目前以测试版向 Team 和 Enterprise 方案开放，眼下只支持 Google Meet，Anthropic 称后续还会接入更多平台。",
+            "采用 HIPAA 合规或由客户自行管理加密配置的机构，目前还不能使用这一功能。报道认为，它是对近期已经宣布的白板和数据看板等能力的延伸，使 Claude 应用进一步靠近一体化办公工具。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/1d1b0b9d3d907bdcf5259986d322d499f0e51a00.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n92467d3f16d5",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "路透社称黄仁勋还与英伟达另一名员工有第三段婚外情",
+      "original_title": "Jensen Huang was having a third affair, Reuters reports",
+      "summary": "科技媒体援引路透社报道称，黄仁勋还有第三段婚外情，对方是英伟达的一名员工；路透社目前暂未公布这名员工的姓名，只确认其在该公司任职，这已是公开报道中提到的又一段关系。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+          "is_primary": false,
+          "published_at": "2026-11-13T04:26:47+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T04:26:47+08:00",
+      "updated_at": "2026-11-13T04:26:47+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "路透社称黄仁勋还与英伟达另一名员工有第三段婚外情",
+      "lead_zh": "TechCrunch 援引路透社报道称，黄仁勋还有第三段婚外情，对方是英伟达员工，路透社暂未公布其姓名。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch 于 **11** 月 **12** 日援引路透社周四报道称，英伟达创始人黄仁勋还有一段此前未公开报道的婚外情，对象是该公司一名员工。路透社暂未公布这名员工的姓名，但确认对方在英伟达任职。",
+            "报道同时回顾，黄仁勋已于当天辞去首席执行官和董事职务。此前公开报道涉及被指为间谍的 Alice Huang，以及英伟达医疗健康副总裁 Kimberly Powell。首席财务官 Colette Kress 已出任临时首席执行官，永久继任者尚未公布。撰文者为 Russell Brandom。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道还提到",
+          "paras": [
+            "据该文称，黄仁勋已被要求在未来数周到国会就与 Alice Huang 关系的国家安全影响作证，但在听证举行前还会披露多少信息尚不清楚。文章并称，他的突然失势预计将给整个行业带来显著影响。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/89898000348029c9a4340d0b79dfe6bf7c79829f.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6e7f4ca7daf1",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "报道称英伟达曾私下确认可追踪芯片以打击走私",
+      "original_title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "《麻省理工科技评论》报道，英伟达曾向美国伊利诺伊州众议员 Bill Foster 表示，芯片安全法案所主张的反走私追踪措施在技术上是可行的，尽管业界公开场合曾质疑其可行性。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "is_primary": false,
+          "published_at": "2026-11-13T04:16:24+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T04:16:24+08:00",
+      "updated_at": "2026-11-13T04:16:24+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报道称英伟达曾私下确认可追踪芯片以打击走私",
+      "lead_zh": "《麻省理工科技评论》报道，英伟达向美国伊利诺伊州众议员 Bill Foster 表示，芯片安全法案主张的反走私追踪措施在技术上可行。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "《麻省理工科技评论》周四引述美国伊利诺伊州联邦众议员 Bill Foster 的话说，英伟达代表曾私下告诉他，芯片安全法案所主张的反走私追踪措施在技术上可行。该法案将要求对先进人工智能芯片做地理位置核验，以防被走私到中国，是正在考虑纳入参议院国防授权法案的三项芯片安全法案之一。",
+            "该法案于 2025 年 5 月提出时，立法者称相关技术已经存在，但英伟达并未公开确认。2026 年 3 月，英伟达也参加的半导体产业协会公开反对该法案，并写到其追踪要求“新、未经验证，而且可能不可行”。Foster 说，英伟达代表从未落成书面，但在技术讨论中的反应是“当然可以做到”。英伟达未回应置评请求，也未确认他的转述。",
+            "报道还提到，英伟达 2025 年 12 月曾推出名为 Fleet Intelligence 的工具，供客户监测不同数据中心中先进芯片的运行情况；英伟达曾向路透社确认，该工具可以显示芯片所在国家，但未说明能否用于防止走私。"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "议员怎么说",
+          "paras": [
+            "据 Foster 称，即便法案获通过，新的追踪机制也只能告诉调查人员芯片在哪里，并不能在确认被走私后将其断开。他计划在新的一年提出更严格的立法，要求先进图形处理器在联网前核验有效许可证。他认为，在英伟达近期风波之后，同僚会有更大的政治压力，要求公司切实做好芯片所在地核验。"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ]
+        }
+      ],
+      "image_url": "img/3b62cfe779d6861977915953dc19e25a38c422d6.jpg",
+      "image_source": "MIT Technology Review",
+      "image_origin_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nb5b1e8f149e4",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "Ars Technica 将直播讨论数据中心遇袭对云服务的影响",
+      "original_title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "summary": "Ars Technica 预告将在 11 月 17 日东部时间下午 1 点举行一场直播讨论，主题是针对数据中心的无人机袭击，可能对当代云服务和日常生活意味着什么。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+          "is_primary": false,
+          "published_at": "2026-11-13T03:59:59+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T03:59:59+08:00",
+      "updated_at": "2026-11-13T03:59:59+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Ars Technica 将直播讨论数据中心遇袭对云服务的影响",
+      "lead_zh": "Ars Technica 预告将在 11 月 17 日东部时间下午 1 点直播讨论，主题是无人机袭击数据中心对当代云生活意味着什么。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Ars Technica 预告将在 **11** 月 **17** 日东部时间下午 **1** 点举行直播讨论，标题为“无人机袭击与数据中心：科技巨头的新风险”，可在 YouTube 观看，并将接受部分观众提问。",
+            "文章称，今年针对东欧和中东数据中心的无人机与导弹袭击已造成前所未有的破坏，使数百万人的云服务中断，并导致部分亚马逊云科技客户数据被永久删除。主持者将与英国皇家联合军种研究所高级研究员 Joseph Jarnecki 对谈，对方负责该机构关于云服务如何进入国家安全、防务及技术主权议题的研究。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "讨论会谈什么",
+          "paras": [
+            "据该文介绍，Jarnecki 曾研究乌克兰如何在全面入侵初期面对网络与实体攻击时，借助西方伙伴加强云韧性，并撰文讨论伊朗对中东亚马逊数据中心的打击，以及俄乌互袭对方数据中心的影响。对话将探讨数据中心为何更常成为军事目标、加固是否可行，以及战时云韧性与选址选择。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/808d748d677beaa78e3883d30b7ad3d74926eace.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n4d9244537a20",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "外媒称谷歌新轻量模型基准已接近更大的同系列型号",
+      "original_title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+      "summary": "The Decoder 称，谷歌的 Gemini 4 Hydrogen 将取代 Flash 系列；在独立评测指数 Artificial Analysis Intelligence Index 上，它的表现已接近定价更高、规模更大的 Argon。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+          "is_primary": false,
+          "published_at": "2026-11-13T03:58:43+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T03:58:43+08:00",
+      "updated_at": "2026-11-13T03:58:43+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "外媒称谷歌新轻量模型基准已接近更大的同系列型号",
+      "lead_zh": "外媒称，谷歌新发布的轻量模型将取代此前的快速系列，独立评测指数显示其表现已接近定价更高的更大型号。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder 报道，谷歌发布面向开发者和日常用户的通用模型 Gemini 4 Hydrogen，用来快速、低成本地处理日常任务，相当于此前 Flash 系列的定位。它提供低、中、高（默认）和新增最高档四档思考深度，输入和输出上下文均可达到 **100 万** 词元，定价为输入每百万词元 **1.50 美元**、输出每百万词元 **7.50 美元**，缓存命中为 **0.075 美元**。",
+            "谷歌称，在独立评测指数 Artificial Analysis Intelligence Index 上，Hydrogen 默认高档得分为 **51**，超过更大的 Argon 的 **50**，最高档可达 **54**。The Decoder 据此认为，它可能既更强又更便宜，使谷歌两天前还建议日常编程继续使用 Argon 的说法很快过时。Hydrogen 已在全球多条产品线推出。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "评测怎么说",
+          "paras": [
+            "据独立机构 Artificial Analysis 的评测，Hydrogen 在最高档上大致与 Claude Sonnet 5.5 相当；默认高档 **51** 分略低于 GPT-6.1 Sol 和 Claude Opus 5.5 的 **52** 分。其知识评测编造率为 **8%**，但在终端智能体任务上较弱。按该机构估算，最高档每项任务成本约 **3.16 美元**，约为同智力水平下 Sonnet 5.5 的三分之一，但又大约是 GPT-6.1 Sol 的 **2.5 倍**。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/b3adc2f3cd6a183aaa029d09def2cdfc377eefce.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/gemini_hydrogen_AA.jpeg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n75e8b5158ffa",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "The Verge：人工智能智能体并未发现未知玛雅遗址",
+      "original_title": "No, AI agents did not discover a previously unknown Maya site",
+      "summary": "科技媒体报道，谷歌研究员 Pietro Miotti 本周声称带领智能体团队发现墨西哥一处可能未被标注的玛雅遗址，但该地点实际上早已为考古界所知，报道据此认为所谓新发现并不能成立。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+          "is_primary": false,
+          "published_at": "2026-11-13T03:42:40+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T03:42:40+08:00",
+      "updated_at": "2026-11-13T03:42:40+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "The Verge：人工智能智能体并未发现未知玛雅遗址",
+      "lead_zh": "The Verge 报道，谷歌研究员 Pietro Miotti 本周声称用智能体团队发现墨西哥一处可能未被标注的玛雅遗址，但该遗址其实早已为人所知。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge 报道，谷歌研究员 Pietro Miotti 本周声称，带领一组人工智能智能体，在墨西哥发现了一处可能未被标注的玛雅遗址。但该遗址其实已在去年的学术期刊中发表过。Miotti 说这是个人副业，没有使用谷歌的算力或资源；他让 **48** 个智能体检索美国航天局的激光雷达数据，并曾联系墨西哥国家人类学与历史研究所核对，对方称该位置没有登记遗址。",
+            "他强调自己不是考古学家，发现仍需田野调查核实。在考古学者指出疏漏后，他对 The Verge 表示，自己没有意识到“未登记”并不等于“未被测绘”，检查一处遗址是否已知，需要把图像与论文中的图对照，而不是只查数据库；发现被指出后，他已尽快更新博文并标注前人工作。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "学者怎么看",
+          "paras": [
+            "亚拉巴马大学伯明翰分校考古学教授 Sarah Parcak 说，这正说明需要同行评议，政府数据库里没有，并不意味着遗址未知或未被测绘。伦敦大学学院的 Elizabeth Graham 则表示，玛雅地区的研究者本来就知道大量尚未发掘或测绘的遗址，而且当地社区往往早已知晓；真正的障碍是研究经费不足，“只是发现了什么，对知识的增量并不大。”这篇遗址论文的共同作者 Ivan Šprajc 也担心，业余人士用人工智能申报新发现，可能让考古学者应接不暇。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/71510b445524240da48699bcaceee7d15f484d2b.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=2.4327168367347%2C0%2C95.134566326531%2C100&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n875637b2c34d",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "谷歌搜索升级：称能更好回答更复杂的问题",
+      "original_title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "summary": "TechCrunch 报道，由 Gemini 4 Hydrogen 驱动的谷歌搜索 AI Mode 正在升级，谷歌称它能更好理解复杂查询、呈现相关链接，并给出更丰富的可视化答复。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+          "is_primary": false,
+          "published_at": "2026-11-13T03:27:45+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T03:27:45+08:00",
+      "updated_at": "2026-11-13T03:27:45+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌搜索升级：称能更好回答更复杂的问题",
+      "lead_zh": "TechCrunch 报道，由 Gemini 4 Hydrogen 驱动的谷歌 AI Mode 在理解复杂查询、呈现相关链接和给出更丰富的可视化答复方面有所增强。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch 报道，由新发布的 Gemini 4 Hydrogen 驱动，谷歌搜索的 AI Mode 正在升级，以更好理解包含多个部分、非常具体或带有难辨拼写错误的复杂问题。谷歌称这是迄今对搜索模型的最大一次改进，并将向全球所有搜索用户推送。",
+            "除了搜索，Hydrogen 还将进入 Google AI Studio 的各个层级、Gemini 编程接口、Gemini 应用，以及付费的 AI Pro 和 Ultra 订阅用户所使用的 Antigravity 开发平台。该模型提供低、中、高（默认）和新增的最高思考档。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "谷歌怎么说",
+          "paras": [
+            "据谷歌称，Hydrogen 完成任务的速度比上一款快速模型快 **2.5 倍**，并在默认高思考档上，一项综合智力评测指数超过了定位更高的 Argon。在搜索中，它能更好地理解意图、给出更多有用链接和可视化答复，包括图片、结构化结果、对比表格和自定义工具；其推理也会改进把一条提问拆成多个子查询的 fan-out 技术，帮助用户发现原本可能错过的网站。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/0163c7ad5f4aec0625971fe9be11f2260b55348c.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/hydrogen-at-2.01.42-PM.jpg?resize=1200,589",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "na67e1509e9c0",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "谷歌上线 Gemini 轻量模型，用来接替上一代快速版本",
+      "original_title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "summary": "Ars Technica 报道，谷歌推出 Gemini 4 Hydrogen，用来接替 3.8 Flash；与 Carbon 和 Argon 相比，这次发布并没有采用那种缓慢、更偏重安全评估的节奏。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+          "is_primary": false,
+          "published_at": "2026-11-13T03:23:03+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T03:23:03+08:00",
+      "updated_at": "2026-11-13T03:23:03+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌上线 Gemini 轻量模型，用来接替上一代快速版本",
+      "lead_zh": "外媒报道，谷歌推出新的轻量模型用来接替上一代快速版本，其发布节奏不像另外两款更高定位的型号那样缓慢、更偏重安全评估。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Ars Technica 报道，谷歌推出 Gemini 4 Hydrogen，用来接替大多数用户日常使用的更快、更经济的 Flash 系列。与此前 Argon、Carbon 先向网络安全研究者开放、再限制在最昂贵订阅用户的节奏不同，Hydrogen 的限制更宽松，访问几乎立即开始，并已在谷歌产品中接替 Gemini 3.8 Flash。",
+            "不过，搜索中据称所有人都能用到 Hydrogen，但在 Gemini 应用和 AI Studio 里更受限制：AI Pro 和 Ultra 订阅用户已经可以用上，AI Plus 和免费用户仍停留在旧的 3.5 Flash-Lite。开发者通过编程接口调用的价格为输入每百万词元 **1.50 美元**、输出每百万词元 **7.50 美元**，与 3.8 Flash 相同。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "谷歌怎么说",
+          "paras": [
+            "据谷歌称，Hydrogen 即便在默认高思考档也比 3.8 Flash 快 **2.5 倍**，捏造内容减少 **5 倍**以上，终端编程基准得分提高到原来的三倍以上；在最高思考档上，一项独立智力评测指数得分为 **54**，而 Argon 为 **50**。谷歌还把这次搜索接入称为其人工智能搜索工具迄今最大的一次更新。报道提醒，谷歌此前也曾做过类似“会给出更多来源链接”的承诺。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/e17b2f1fed2f91484833bd831e96984a6d556f04.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nd3c21aad1252",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Nectar 推出智能体，帮品牌自动发现和联系创作者",
+      "original_title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary": "科技媒体报道，Nectar 新推出一款人工智能智能体，用于自动化红人营销：帮助品牌发现创作者、管理对外联系与合作，并跟踪整场营销活动的效果，该产品面向需要规模化做创作者营销的品牌。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+          "is_primary": false,
+          "published_at": "2026-11-13T03:11:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T03:11:00+08:00",
+      "updated_at": "2026-11-13T03:11:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Nectar 推出智能体，帮品牌自动发现和联系创作者",
+      "lead_zh": "TechCrunch 报道，Nectar 新推出的人工智能智能体可自动完成红人营销，帮助品牌发现创作者、管理触达与合作，并跟踪活动效果。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch 报道，营销操作系统公司 Nectar 周四推出名为 Creator Agent 的智能体，用于自动完成红人营销中的大量人工环节，包括寻找创作者、联系对方、管理合作并跟踪效果。该公司由曾在 Meta 任职的姐妹 Misbah 与 Farah Uraizee 创立，去年走出隐身期。该智能体即日起在全球可用，目前覆盖 Instagram 和 TikTok 创作者。",
+            "Nectar 称，它会在超过 **3 亿**个创作者档案中搜索潜在合作对象，包括粉丝量尚不大但正在上升的中小创作者；系统会分析视频内容、既有品牌合作，并结合上下文做品牌安全检查，而不只是搜索关键词。匹配后，智能体可以按品牌口吻起草并发送信息，生成收集创作者资料的落地页，并协助管理合同、寄样和物流。",
+            "美国互动广告局预计，2026 年美国创作者广告支出将达到 **440 亿美元**。Nectar 还计划通过模型上下文协议开放该智能体，让团队在 Claude、ChatGPT、Gemini 或自建智能体中调用。今年 5 月，该公司完成由 Menlo Ventures 及其与 Anthropic 联合发起的基金领投的 **3000 万美元** A 轮融资。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据首席执行官 Misbah Uraizee 对 TechCrunch 表示，品牌可以用任意形式提供声音和语气规范，系统会结合历史记录补全其余部分，并用自有护栏保证草稿语气和语境合适；它能区分在 X 上引用帖文和在 TikTok 评论区发言，避免品牌在不同场景里用同一套腔调。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/2550c34098f437cc3be6f514eeb1a28413580919.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n81bcb5c122b2",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "谷歌校园 Gemini 试点遭反对，有人呼吁学校暂停人工智能",
+      "original_title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "summary": "Ars Technica 报道，在一名青少年的诉讼将 Gemini 称为“自杀教练”后，有家庭要求谷歌不要把相关人工智能放到学校配发的 Chromebook 上，并出现暂停校内使用的呼声。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+          "is_primary": false,
+          "published_at": "2026-11-13T02:57:45+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T02:57:45+08:00",
+      "updated_at": "2026-11-13T02:57:45+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌校园 Gemini 试点遭反对，有人呼吁学校暂停人工智能",
+      "lead_zh": "Ars Technica 报道，有家庭在一名青少年诉讼将 Gemini 称为“自杀教练”后，要求不要把相关人工智能放到学校配发的 Chromebook 上。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Ars Technica 报道，周三全美 **7** 个城市有家庭参加抗议，反对谷歌把其人工智能模型更深地嵌入学校。芝加哥多家家庭在雨中走到谷歌市中心办公楼外，高峰时约有 **60** 人。组织者包括伊利诺伊州公立学校家庭组织 ILFPS。",
+            "背景是谷歌上周表态：将默认关闭搜索、Gemini 和 Gemini Notebook，但不会提供“无人工智能的搜索”；有家长担心，学生若要避开人工智能，只能记得在每次查询后加上“-ai”。今年 **8** 月，该组织曾施压芝加哥公立学校退出一项原计划覆盖全区高中生、且未咨询家长的 Gemini 试点。",
+            "报道还提到，北卡罗来纳州达勒姆一名 **13** 岁学生“Emma Doe”起诉谷歌，诉状将 Gemini 称为“自杀教练”，称她在学校配发的 Chromebook 上使用后情况恶化，并指谷歌“故意”不让家长知情。ILFPS 现要求在风险更清楚、学区能起草保护政策前，暂停校内人工智能。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/f984bf6a0525689365082d4fee462d5087d03ecd.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n3903c89c61e5",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "黄仁勋离职后，英伟达对开源的支持前景引关注",
+      "original_title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "summary": "TechCrunch 称，黄仁勋辞职后，外界开始追问英伟达是否还会坚持对开源人工智能的支持，范围包括对 Hugging Face 的收购、开放权重模型，以及反对相关限制的立场。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+          "is_primary": false,
+          "published_at": "2026-11-13T02:39:23+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T02:39:23+08:00",
+      "updated_at": "2026-11-13T02:39:23+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "黄仁勋离职后，英伟达对开源的支持前景引关注",
+      "lead_zh": "TechCrunch 称，黄仁勋辞职后，外界开始追问英伟达是否还会坚持对开源人工智能的支持，包括收购 Hugging Face、开放权重模型以及反对限制的立场。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch 报道，英伟达首席执行官黄仁勋周四辞职后，外界开始追问公司是否还会继续支持开源人工智能。黄仁勋一直公开主张开源有利于安全、创新、扩散和主权。与此同时，英伟达拟以 **130 亿美元**收购开源平台 Hugging Face 的交易尚未敲定；公司还同意支付 **60 亿美元**，获得开源编程创业公司 Poolside 技术的非独占许可。",
+            "在公司内部，黄仁勋推动了面向长程智能体和推理任务的开放权重模型系列 Nemotron。他今年还曾起草一封有微软、Meta、IBM、帕兰蒂尔等 **25** 家公司联署的公开信，呼吁美国政府不要过度限制开放权重模型。英伟达已任命首席财务官 Colette Kress 为临时首席执行官。TechCrunch 已向英伟达求证，但文中未给出公司回复。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "Hugging Face 首席执行官 Clem Delangue 在社交媒体上表示，无论接下来发生什么，公司都会继续为开源而努力。一名英伟达内部人士对 TechCrunch 说，不认为领导层更迭会影响 Nemotron 的研发。报道认为，对开源社区来说，担忧在于继任者会更加谨慎；但支持开源也越来越关乎英伟达的生意，因为部分大客户已在自研芯片，公司需要更广泛的开发者和客户生态。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/378d2750e001b484fb69d40f2be39ee04aa66b0a.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nd60d797cdcc1",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "IT之家：谷歌发布 Gemini 4 Hydrogen，百万词元输入 1.5 美元",
+      "original_title": "谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元",
+      "summary": "IT之家报道，谷歌推出 Gemini 4 Hydrogen，主打日常编程与智能体工作流；输入每百万词元 1.50 美元，输出每百万词元 7.50 美元，该定价覆盖全部 100 万词元上下文。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/026/446.htm",
+          "is_primary": false,
+          "published_at": "2026-11-13T02:17:17+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T02:17:17+08:00",
+      "updated_at": "2026-11-13T02:17:17+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "IT之家：谷歌发布 Gemini 4 Hydrogen，百万词元输入 1.5 美元",
+      "lead_zh": "IT之家报道，谷歌推出面向日常编程与智能体工作流的 Gemini 4 Hydrogen，输入每百万词元 1.50 美元，输出每百万词元 7.50 美元，覆盖 100 万词元上下文。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家 11 月 13 日报道，谷歌正式推出 Gemini 4 Hydrogen，面向日常编码和智能体工作流，强调快速执行，并把这一代能力开放给更多层级的用户。定价在整个 **100 万** 词元上下文窗口内统一：输入每百万词元 **1.50 美元**，输出每百万词元 **7.50 美元**，没有分段阶梯计价。",
+            "报道称，该模型提供低、中、高（默认）和最高档四档思考深度，并支持最高 100 万词元的原生输入与输出，可处理大型文档、表格、图表和音视频等内容。从发布当日起在全球陆续开放，开发者可通过编程接口和 AI Studio 等调用，普通用户可在 Gemini 应用中选择，谷歌搜索也同步接入。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道转述谷歌说法",
+          "paras": [
+            "据 IT之家转述，Hydrogen 在一项独立智力评测指数的默认高思考档得分为 **51**，高于同系列 Argon 的 **50**，最高档可达 **54**。相较上一款快速模型，默认高档完成任务速度快 **2.5 倍**，一项终端编程基准得分由 **18.2%** 升至 **57%**。谷歌还推出可在同一会话中切换模型的调度功能，相关测试中平均少消耗 **24%** 配额、完成速度快 **19%**。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/7f884918510cb91daa1ceb77541694a2143b92c2.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/5e5de735-d531-46d9-beb3-ba35a2c76c92.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n78397eaf147c",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "The Verge 评论帕兰蒂尔转向“进步”立场的表态",
+      "original_title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "summary": "科技媒体发表评论，质疑帕兰蒂尔首席执行官在选举后重新靠向左翼、宣称公司立场变得“进步”的表态，认为这与其近期政治站位并不相符，更像是一次面向舆论的策略调整，而不是突然改换了长期立场。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+          "is_primary": false,
+          "published_at": "2026-11-13T02:06:54+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T02:06:54+08:00",
+      "updated_at": "2026-11-13T02:13:39+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "The Verge 评论帕兰蒂尔转向“进步”立场的表态",
+      "lead_zh": "The Verge 发表评论，质疑帕兰蒂尔首席执行官 Alex Karp 在选举后重新靠向左翼的表态，认为与公司近期政治立场并不相符。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge 于 **11** 月 **12** 日发表 Elizabeth Lopatto 的评论文章，聚焦帕兰蒂尔首席执行官 Alex Karp 近日接受 Politico 采访时的表态。Karp 称自己“一辈子都是民主党人”，在极左环境中长大，并说“我绝对相信帕兰蒂尔——我们所有的产品本质上都是进步的”。",
+            "文章把它放在上周选举之后的舆论环境里讨论，并回溯了 Karp 近年来的公开言论，包括 **2024** 年 **8** 月对边境与特种作战的辩护，以及 **2025** 年 **2** 月致股东信中引用 Samuel Huntington 关于“有组织暴力”的表述。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "The Verge 认为，Karp 在选举后重新靠向左翼、宣称公司立场变得“进步”的说法，与其近三年公开言论并不相符，更像一次面向舆论的策略调整，而不是突然改换了长期立场。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/d4b6a63e4272c30c9e1f6efdc107c3c8be7e9cc5.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n01b2dea6cc20",
+      "category": "政策与安全",
+      "importance": 1,
+      "verified": false,
+      "title": "DeepMind 员工向英国政府求助，升级工会化抗争",
+      "original_title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "summary": "《连线》报道，谷歌 DeepMind 员工在与管理层的初期谈判停滞后，转而寻求绕过公司管理层，向英国政府求助，以继续推进他们成立工会的努力，此前他们已与公司进行过接触但未能取得进展。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+          "is_primary": false,
+          "published_at": "2026-11-13T02:05:41+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T02:05:41+08:00",
+      "updated_at": "2026-11-13T02:05:41+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "DeepMind 员工向英国政府求助，升级工会化抗争",
+      "lead_zh": "WIRED 报道，谷歌 DeepMind 员工在初期谈判停滞后再寻出路，试图绕过公司管理层，向英国政府求助以推进成立工会。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "WIRED 报道，谷歌 DeepMind 在英国的员工已请求政府介入，以推进成立工会。周四，通信工人工会与联合工会作为员工推举的共同代表，向负责处理雇主与工会争议的中央仲裁委员会提交申请，要求确认工会已获得足够支持，从而启动投票；若申请成功，公司须依法尊重投票结果，约 **1000** 名产品岗位员工将有资格加入工会。",
+            "这场行动始于 2025 年 2 月，当时谷歌母公司 Alphabet 从其伦理准则中删除了“不会把人工智能用于武器开发等用途”的承诺。推动成立工会的员工尤其反对公司与美国及以色列军方的协议，并打算在成功后要求公司退出这些合同。他们周四发给英国全体员工的邮件中写道，希望同事参与预计未来几个月举行的投票。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "通信工人工会负责科技事务的全国官员 John Chadfield 对 WIRED 说，员工觉得自己被忽视，问题被轻描淡写，管理层拒绝真正坐下来谈，只把事情交给人事和劳动关系部门当行政手续处理。谷歌 DeepMind 发言人 Tom Hewett 则声明，公司尊重员工就是否加入工会作出知情决定的权利，一直在听取支持和反对的声音，并会继续建设性参与这一过程。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/cad5fbc3aa48e7290d346222489101f924186faf.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6af50d1a5e386b9efd1b63f5/master/pass/Google-DeepMind-Staffers-Escalate-Unionization-Efforts-Business-2151467843.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf414a027de56",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "WIRED：黄仁勋风波后英伟达市值不到一个月蒸发超万亿美元",
+      "original_title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "summary": "《连线》称，自从涉及一名据称中国间谍的丑闻开始发酵以来，英伟达市值在不到一个月的时间里蒸发了超过 1 万亿美元，这一下跌规模令人瞠目，文章用这一数字说明风波对市场冲击之大。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+          "is_primary": false,
+          "published_at": "2026-11-13T01:59:15+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T01:59:15+08:00",
+      "updated_at": "2026-11-13T01:59:15+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "WIRED：黄仁勋风波后英伟达市值不到一个月蒸发超万亿美元",
+      "lead_zh": "WIRED 称，自涉及一名据称中国间谍的丑闻曝光以来，英伟达市值在不到一个月内蒸发了超过 1 万亿美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "WIRED 报道，周四上午英伟达宣布黄仁勋已辞职；不到一小时后市场开盘，该公司市值蒸发约 **5460 亿美元**。报道称，过去几周的风波——包括又有报道称他与一名英伟达员工有第二段婚外情——已使公司估值下跌超过 **1 万亿美元**。",
+            "风波始于 10 月下旬：《纽约时报》当时报道黄仁勋与新加坡芯片采购商 Megaspeed 前高管 Alice Huang 关系密切，并称对方被指是中国国家安全部人员；两人没有已知亲属关系。当时英伟达市值约 **5.2 万亿美元**。11 月 8 日，在黄仁勋公开承认这段关系后，英伟达宣布对其首席执行官展开调查；到次日上午，自风波开始以来蒸发的市值已约达 **1 万亿美元**。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么看",
+          "paras": [
+            "报道列举称，按 8 月监管文件，英伟达持有近 **300 亿美元**英特尔股票和约 **210 亿美元** SpaceX 股票；过去五天里，AMD 股价上涨 **28%**，博通上涨近 **16%**。智库 Foundation for American Innovation 高级研究员 Ryan Fedasiuk 上周对 WIRED 说，“黄仁勋难以被替代”，是他把公司做成了今天的巨头。按 3 月数据，黄仁勋持股约 **3.5%**，报道据此估算其个人持股已贬值超过 **500 亿美元**。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/8e7fe5c2615412a6678119e6ac0d67cc89b0c876.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6af5f0e82e74be76ab295bc3/master/pass/111226-nvidia-jensen-huang-dollar-destroyed.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n0a3a3741b20c",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "The Verge：黄仁勋风波尚未结束",
+      "original_title": "The Jensen Huang scandal is hardly over",
+      "summary": "科技媒体评论称，直到黄仁勋第二段婚外情曝光之前，他几乎看起来“免疫”于此类冲击；但现在看来，相关风波仍在持续，远远没有结束，作者认为后续仍可能出现新的进展和影响。",
+      "facts": [],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+          "is_primary": false,
+          "published_at": "2026-11-13T01:44:33+08:00"
+        }
+      ],
+      "published_at": "2026-11-13T01:44:33+08:00",
+      "updated_at": "2026-11-13T03:16:51+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "The Verge：黄仁勋风波尚未结束",
+      "lead_zh": "The Verge 评论称，在第二段婚外情曝光后，此前几乎“免疫”的黄仁勋已无法置身事外，相关风波仍在持续。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge 于 **11** 月 **12** 日发表评论称，周三几乎接连出现两则报道：一是指黄仁勋与下属 Kimberly Powell 有婚外情，二是董事会开会考虑将其免职；周四一早，英伟达宣布他已辞职。文章强调，他是该公司迄今唯一的首席执行官，此前也没有公开的继任计划。",
+            "评论还提到，今年 **5** 月黄仁勋曾称，受出口管制影响，英伟达在中国的市场份额为零；但同期做空机构 Culper Research 发布报告认为，英伟达 **2026** 财年计算业务收入中，实际仍有超过 **20%** 由中国贡献，并得到非法显卡转移和东南亚中介支持。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "作者 Elizabeth Lopatto 认为，第二段婚外情更像采取行动的借口，事件根源仍要回到此前关于黄仁勋被指遭到中方间谍色诱，以及 neocloud 公司 Megaspeed 商业登记指向马来西亚数据中心、新加坡近乎空置的办公室和吉隆坡外破败店面等已公开线索。她并称，相关风波远未结束。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/4c16904ceaa088b68147b939fa7b57ddfd7968bb.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    }
+  ]
+}

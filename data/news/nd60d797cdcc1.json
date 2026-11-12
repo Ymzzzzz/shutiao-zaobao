@@ -1,0 +1,55 @@
+{
+  "id": "nd60d797cdcc1",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "IT之家：谷歌发布 Gemini 4 Hydrogen，百万词元输入 1.5 美元",
+  "original_title": "谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元",
+  "summary": "IT之家报道，谷歌推出 Gemini 4 Hydrogen，主打日常编程与智能体工作流；输入每百万词元 1.50 美元，输出每百万词元 7.50 美元，该定价覆盖全部 100 万词元上下文。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/026/446.htm",
+      "is_primary": false,
+      "published_at": "2026-11-13T02:17:17+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T02:17:17+08:00",
+  "updated_at": "2026-11-13T02:17:17+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "IT之家：谷歌发布 Gemini 4 Hydrogen，百万词元输入 1.5 美元",
+  "lead_zh": "IT之家报道，谷歌推出面向日常编程与智能体工作流的 Gemini 4 Hydrogen，输入每百万词元 1.50 美元，输出每百万词元 7.50 美元，覆盖 100 万词元上下文。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家 11 月 13 日报道，谷歌正式推出 Gemini 4 Hydrogen，面向日常编码和智能体工作流，强调快速执行，并把这一代能力开放给更多层级的用户。定价在整个 **100 万** 词元上下文窗口内统一：输入每百万词元 **1.50 美元**，输出每百万词元 **7.50 美元**，没有分段阶梯计价。",
+        "报道称，该模型提供低、中、高（默认）和最高档四档思考深度，并支持最高 100 万词元的原生输入与输出，可处理大型文档、表格、图表和音视频等内容。从发布当日起在全球陆续开放，开发者可通过编程接口和 AI Studio 等调用，普通用户可在 Gemini 应用中选择，谷歌搜索也同步接入。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道转述谷歌说法",
+      "paras": [
+        "据 IT之家转述，Hydrogen 在一项独立智力评测指数的默认高思考档得分为 **51**，高于同系列 Argon 的 **50**，最高档可达 **54**。相较上一款快速模型，默认高档完成任务速度快 **2.5 倍**，一项终端编程基准得分由 **18.2%** 升至 **57%**。谷歌还推出可在同一会话中切换模型的调度功能，相关测试中平均少消耗 **24%** 配额、完成速度快 **19%**。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/7f884918510cb91daa1ceb77541694a2143b92c2.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/5e5de735-d531-46d9-beb3-ba35a2c76c92.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

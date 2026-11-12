@@ -1,0 +1,37 @@
+{
+  "id": "n372847c94994",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Amplitude 用 OpenAI 打造产品代理 Wave，一两天即可上线改进",
+  "original_title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "summary": "Amplitude 推出主要基于 OpenAI 模型的主动式产品代理 Wave，可判断该开发什么功能，并借助编程代理帮助团队在一到两天内完成上线改动，同时衡量效果。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/amplitude",
+      "is_primary": true,
+      "published_at": "2026-11-13T04:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T04:00:00+08:00",
+  "updated_at": "2026-11-13T04:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Amplitude 用 OpenAI 打造产品代理 Wave，一两天即可上线改进",
+  "lead_zh": "Amplitude 推出主要基于 OpenAI 模型的主动式产品代理 Wave，可识别该做什么、借助编程代理上线改动，并衡量效果。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "blocked",
+  "read_minutes": 0,
+  "fulltext": {
+    "status": "blocked",
+    "reason": "http_403",
+    "blocks": []
+  }
+}

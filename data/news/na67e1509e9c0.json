@@ -1,0 +1,55 @@
+{
+  "id": "na67e1509e9c0",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌上线 Gemini 轻量模型，用来接替上一代快速版本",
+  "original_title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+  "summary": "Ars Technica 报道，谷歌推出 Gemini 4 Hydrogen，用来接替 3.8 Flash；与 Carbon 和 Argon 相比，这次发布并没有采用那种缓慢、更偏重安全评估的节奏。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "is_primary": false,
+      "published_at": "2026-11-13T03:23:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T03:23:03+08:00",
+  "updated_at": "2026-11-13T03:23:03+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌上线 Gemini 轻量模型，用来接替上一代快速版本",
+  "lead_zh": "外媒报道，谷歌推出新的轻量模型用来接替上一代快速版本，其发布节奏不像另外两款更高定位的型号那样缓慢、更偏重安全评估。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Ars Technica 报道，谷歌推出 Gemini 4 Hydrogen，用来接替大多数用户日常使用的更快、更经济的 Flash 系列。与此前 Argon、Carbon 先向网络安全研究者开放、再限制在最昂贵订阅用户的节奏不同，Hydrogen 的限制更宽松，访问几乎立即开始，并已在谷歌产品中接替 Gemini 3.8 Flash。",
+        "不过，搜索中据称所有人都能用到 Hydrogen，但在 Gemini 应用和 AI Studio 里更受限制：AI Pro 和 Ultra 订阅用户已经可以用上，AI Plus 和免费用户仍停留在旧的 3.5 Flash-Lite。开发者通过编程接口调用的价格为输入每百万词元 **1.50 美元**、输出每百万词元 **7.50 美元**，与 3.8 Flash 相同。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "谷歌怎么说",
+      "paras": [
+        "据谷歌称，Hydrogen 即便在默认高思考档也比 3.8 Flash 快 **2.5 倍**，捏造内容减少 **5 倍**以上，终端编程基准得分提高到原来的三倍以上；在最高思考档上，一项独立智力评测指数得分为 **54**，而 Argon 为 **50**。谷歌还把这次搜索接入称为其人工智能搜索工具迄今最大的一次更新。报道提醒，谷歌此前也曾做过类似“会给出更多来源链接”的承诺。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/e17b2f1fed2f91484833bd831e96984a6d556f04.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

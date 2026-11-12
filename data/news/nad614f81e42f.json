@@ -1,0 +1,112 @@
+{
+  "id": "nad614f81e42f",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "谷歌搜索全球上线 Gemini 4 Hydrogen",
+  "original_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+  "summary": "谷歌搜索产品副总裁 Robby Stein 宣布，Gemini 4 Hydrogen 已在全球接入谷歌搜索，称能更好理解复杂、多部分的问题，并给出更直观、带表格和图片的可视化答复。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "is_primary": true,
+      "published_at": "2026-11-13T02:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T02:00:00+08:00",
+  "updated_at": "2026-11-13T02:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌搜索全球上线 Gemini 4 Hydrogen",
+  "lead_zh": "谷歌将 Gemini 4 Hydrogen 全面接入谷歌搜索，称能更好理解复杂多段问题，并给出更直观、可视化的答复。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌搜索产品副总裁 Robby Stein 撰文宣布，Gemini 4 Hydrogen 已在全球范围内接入谷歌搜索，旨在提供更直观、更可视、也更精确的答复。用户今天就可以在谷歌搜索中试用这些能力，去提出更细、更复杂的问题。",
+        "这次更新强调更好地理解用户真实意图。谷歌介绍，即使用户提出包含多个部分的复杂问题、出现较难辨认的拼写错误，或要求非常具体，搜索也能更准确地理解要找什么，并用自然语言处理旅行、购物、爱好等带具体条件的查询。",
+        "在呈现方式上，搜索会给出更具适应性、便于扫读的可视化结果，包括结构化信息、对比表格、图片，以及为用户生成的自定义工具。谷歌还表示将升级搜索中的 query fan-out 技术，提供比以往更广的相关链接，并在其人工智能模型目前支持的所有语言中给出更细致的答案。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "谷歌怎么说",
+      "paras": [
+        "据谷歌称，Hydrogen 能把用户以自然思路提出的问题理解得更准确，即使查询包含多个部分、难以辨认的拼写错误或非常具体的要求，也能抓住真实意图，并把用户连接到此前可能不容易发现的网站。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    }
+  ],
+  "image_url": "img/9bb76db4abd249ff61609e03f994e8321de70e26.jpg",
+  "image_source": "Google AI Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
+  "fulltext_status": "ok",
+  "read_minutes": 2,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Robby Stein",
+    "author_title_zh": "谷歌搜索产品副总裁",
+    "published_at": "2026-11-12",
+    "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "title_zh": "谷歌搜索借助 Gemini 4 Hydrogen 迎来重大升级",
+    "dek_en": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "dek_zh": "我们将在全球把 Gemini 4 Hydrogen 引入谷歌搜索，为你提供更有帮助、更直观、也更可视化的回复。",
+    "word_count_zh": 436,
+    "read_minutes": 2,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "我们将在全球把 Gemini 4 Hydrogen 引入谷歌搜索，为你提供更直观、更可视化、也更精确的答案。这次更新通过理解你的意图、同时执行查询，并展示表格和图片等结构化信息，帮助你应对复杂问题。你今天就可以打开谷歌搜索，用更细致的问题来试用这些改进后的能力。",
+        "en": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more intuitive, visual, and precise answers. This update helps you navigate complex questions by understanding your intent, conducting simultaneous queries, and displaying structured information like tables and images. You can try these improved capabilities by visiting Google Search today to ask your most nuanced questions."
+      },
+      {
+        "t": "p",
+        "zh": "• 我们正在引入 Gemini 4 Hydrogen，以便在谷歌搜索中提供更有帮助、更直观的回复。",
+        "en": "• We are introducing Gemini 4 Hydrogen to provide more helpful and intuitive responses in Google Search."
+      },
+      {
+        "t": "p",
+        "zh": "• 你现在可以提出复杂、由多个部分组成的问题，因为我们的模型能更精确地理解你的意图。",
+        "en": "• You can now ask complex, multi-part questions because our model understands your intent with greater precision."
+      },
+      {
+        "t": "p",
+        "zh": "• 我们改进后的推理能力，会把你连接到更广范围的相关网站和有用链接。",
+        "en": "• Our improved reasoning capabilities connect you to a wider range of relevant websites and helpful links."
+      },
+      {
+        "t": "p",
+        "zh": "• 你将看到更多可视化内容，包括结构化回复、比较表格，以及为你准备的定制工具。",
+        "en": "• You will see more visual content, including structured responses, comparison tables, and custom tools for you."
+      },
+      {
+        "t": "p",
+        "zh": "• 这些更新会在我们的人工智能模型目前支持的所有语言中，提供细致而准确的答案。",
+        "en": "• These updates provide nuanced and accurate answers in all languages supported by our AI models today."
+      },
+      {
+        "t": "p",
+        "zh": "我们把 Gemini 4 Hydrogen 引入谷歌搜索，是为了帮你准确找到所需内容。这次更新能理解复杂、由多个部分组成的问题，并给出带有有用图片、表格和链接的清晰答案。你现在可以用自己的自然语言，询问旅行、购物或爱好方面的具体要求。它会把你连接到更相关的网站和工具，为你在日常搜索中节省时间。",
+        "en": "We are bringing Gemini 4 Hydrogen to Google Search to help you find exactly what you need. This update understands complex, multi-part questions and provides clear answers with helpful images, tables, and links. You can now ask about specific requirements for travel, shopping, or hobbies in your own natural language. It connects you to more relevant websites and tools to save you time during your daily searches."
+      },
+      {
+        "t": "h",
+        "zh": "探索其他风格：",
+        "en": "Explore other styles:"
+      }
+    ]
+  }
+}

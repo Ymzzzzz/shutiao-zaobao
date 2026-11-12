@@ -1,0 +1,55 @@
+{
+  "id": "n56dac742ff29",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Hugging Face 发布三维生成模型微调指南",
+  "original_title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "summary": "Hugging Face 博客发布题为《三维生成模型权威微调指南》的文章，系统介绍如何对三维生成模型进行微调，并提供可供开发者按步骤动手实践和复现的说明，适合需要把模型适配到特定三维任务的团队。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "is_primary": true,
+      "published_at": "2026-11-12T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T08:00:00+08:00",
+  "updated_at": "2026-11-12T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Hugging Face 发布三维生成模型微调指南",
+  "lead_zh": "Hugging Face 博客发布《三维生成模型权威微调指南》，介绍如何对三维生成模型做微调。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发布了什么",
+      "paras": [
+        "Hugging Face 发布针对三维生成模型 TRELLIS.2 的微调指南，提供可在本地和 Hugging Face Jobs 上运行的脚本与容器，用于在自有三维资产上做 LoRA 微调。作者用 Google Scanned Objects 数据集中 **188** 件鞋类（该数据集共 **1,030** 件物体）做实验，称预训练模型生成的鞋子看起来往往正确，但鞋底不准确。",
+        "他们只给控制粗结构和细致几何的两个扩散变换器加适配器，冻结纹理阶段。两个适配器合计约训练 **930** 万个参数，分别使用秩 **8** 和秩 **16**。每段训练在 Hugging Face Jobs 上使用一张 **80** GB 的 A100，稀疏结构阶段耗时 **7.2** 小时，形状阶段耗时 **3.6** 小时。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "效果如何",
+      "paras": [
+        "作者在 **9** 个留出物体上比较称，基础模型的平均 F-score 为 **0.276**，加上鞋类适配器后为 **0.803**；Chamfer 距离从 **0.174** 降至 **0.033**，法线一致性从 **0.530** 升至 **0.804**，且全部 **9** 个物体的 F-score 都有提高。他们并称，在这些例子里，微调后的鞋底更接近扫描参考。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/7fde0bed37d6af2121c3068b4193f7cb554bc3a0.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

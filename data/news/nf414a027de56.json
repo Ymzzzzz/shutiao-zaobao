@@ -1,0 +1,55 @@
+{
+  "id": "nf414a027de56",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "WIRED：黄仁勋风波后英伟达市值不到一个月蒸发超万亿美元",
+  "original_title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+  "summary": "《连线》称，自从涉及一名据称中国间谍的丑闻开始发酵以来，英伟达市值在不到一个月的时间里蒸发了超过 1 万亿美元，这一下跌规模令人瞠目，文章用这一数字说明风波对市场冲击之大。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+      "is_primary": false,
+      "published_at": "2026-11-13T01:59:15+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T01:59:15+08:00",
+  "updated_at": "2026-11-13T01:59:15+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "WIRED：黄仁勋风波后英伟达市值不到一个月蒸发超万亿美元",
+  "lead_zh": "WIRED 称，自涉及一名据称中国间谍的丑闻曝光以来，英伟达市值在不到一个月内蒸发了超过 1 万亿美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED 报道，周四上午英伟达宣布黄仁勋已辞职；不到一小时后市场开盘，该公司市值蒸发约 **5460 亿美元**。报道称，过去几周的风波——包括又有报道称他与一名英伟达员工有第二段婚外情——已使公司估值下跌超过 **1 万亿美元**。",
+        "风波始于 10 月下旬：《纽约时报》当时报道黄仁勋与新加坡芯片采购商 Megaspeed 前高管 Alice Huang 关系密切，并称对方被指是中国国家安全部人员；两人没有已知亲属关系。当时英伟达市值约 **5.2 万亿美元**。11 月 8 日，在黄仁勋公开承认这段关系后，英伟达宣布对其首席执行官展开调查；到次日上午，自风波开始以来蒸发的市值已约达 **1 万亿美元**。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么看",
+      "paras": [
+        "报道列举称，按 8 月监管文件，英伟达持有近 **300 亿美元**英特尔股票和约 **210 亿美元** SpaceX 股票；过去五天里，AMD 股价上涨 **28%**，博通上涨近 **16%**。智库 Foundation for American Innovation 高级研究员 Ryan Fedasiuk 上周对 WIRED 说，“黄仁勋难以被替代”，是他把公司做成了今天的巨头。按 3 月数据，黄仁勋持股约 **3.5%**，报道据此估算其个人持股已贬值超过 **500 亿美元**。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/8e7fe5c2615412a6678119e6ac0d67cc89b0c876.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6af5f0e82e74be76ab295bc3/master/pass/111226-nvidia-jensen-huang-dollar-destroyed.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

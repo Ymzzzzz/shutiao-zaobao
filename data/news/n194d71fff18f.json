@@ -1,0 +1,46 @@
+{
+  "id": "n194d71fff18f",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "CARTBench 用评分表评估购物助手的复杂请求处理",
+  "original_title": "CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines",
+  "summary": "研究人员发布新的评测基准，针对大模型购物助手在多轮对话中的商品推荐，用基于评分表的方法，评估其处理复杂、含糊而且带有时间线请求的能力，现有评测往往面临样本不足和标准不统一的问题。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.05862",
+      "is_primary": true,
+      "published_at": "2026-11-12T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T08:00:00+08:00",
+  "updated_at": "2026-11-12T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "CARTBench 用评分表评估购物助手的复杂请求处理",
+  "lead_zh": "研究人员发布 CARTBench，针对大模型购物助手在多轮对话中的推荐，用基于评分表的方法评估其处理复杂、含糊且带时间线请求的能力。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文说了什么",
+      "paras": [
+        "Yuqin Dai、Zhanwei Zhang、Honghui Yang 等人发布评测基准 CARTBench，针对大模型购物助手在多轮对话中的推荐，评估其处理复杂、含糊且带时间线请求的能力。预印本标注日期为 2026 年 11 月 4 日。",
+        "为缓解样本不足，作者从真实商业购物需求中整理了覆盖 **17** 个零售领域的案例，把带时间戳的对话与 **1,603** 条商品记录配对。评分标准方面，他们依据从成功完结订单中人工选出的优秀回复，提炼“理想回复原则”，并据此编写案例评分表。实验基准包含 **1,328** 条专家标注标准，分为核心、卓越和安全三类。",
+        "在首次完整评测中，作者测试了包括 GPT-6.1-Sol 和 Claude-Opus-5 在内的 **7** 个旗舰商业接口模型，以及参数量超过 350 亿的开源权重模型。**10** 个模型里有 **3** 个在核心项上超过 **90%**，但没有模型在卓越项上超过 **45%**。作者据此指出，模型在“理解该做什么”和“给出高质量购买建议”之间仍有差距。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/a6881639b79d8b2df8cb68cdf424762dc229c0e4.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.05862.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "n6e7f4ca7daf1",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "报道称英伟达曾私下确认可追踪芯片以打击走私",
+  "original_title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+  "summary": "《麻省理工科技评论》报道，英伟达曾向美国伊利诺伊州众议员 Bill Foster 表示，芯片安全法案所主张的反走私追踪措施在技术上是可行的，尽管业界公开场合曾质疑其可行性。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "is_primary": false,
+      "published_at": "2026-11-13T04:16:24+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T04:16:24+08:00",
+  "updated_at": "2026-11-13T04:16:24+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称英伟达曾私下确认可追踪芯片以打击走私",
+  "lead_zh": "《麻省理工科技评论》报道，英伟达向美国伊利诺伊州众议员 Bill Foster 表示，芯片安全法案主张的反走私追踪措施在技术上可行。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《麻省理工科技评论》周四引述美国伊利诺伊州联邦众议员 Bill Foster 的话说，英伟达代表曾私下告诉他，芯片安全法案所主张的反走私追踪措施在技术上可行。该法案将要求对先进人工智能芯片做地理位置核验，以防被走私到中国，是正在考虑纳入参议院国防授权法案的三项芯片安全法案之一。",
+        "该法案于 2025 年 5 月提出时，立法者称相关技术已经存在，但英伟达并未公开确认。2026 年 3 月，英伟达也参加的半导体产业协会公开反对该法案，并写到其追踪要求“新、未经验证，而且可能不可行”。Foster 说，英伟达代表从未落成书面，但在技术讨论中的反应是“当然可以做到”。英伟达未回应置评请求，也未确认他的转述。",
+        "报道还提到，英伟达 2025 年 12 月曾推出名为 Fleet Intelligence 的工具，供客户监测不同数据中心中先进芯片的运行情况；英伟达曾向路透社确认，该工具可以显示芯片所在国家，但未说明能否用于防止走私。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "议员怎么说",
+      "paras": [
+        "据 Foster 称，即便法案获通过，新的追踪机制也只能告诉调查人员芯片在哪里，并不能在确认被走私后将其断开。他计划在新的一年提出更严格的立法，要求先进图形处理器在联网前核验有效许可证。他认为，在英伟达近期风波之后，同僚会有更大的政治压力，要求公司切实做好芯片所在地核验。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    }
+  ],
+  "image_url": "img/3b62cfe779d6861977915953dc19e25a38c422d6.jpg",
+  "image_source": "MIT Technology Review",
+  "image_origin_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

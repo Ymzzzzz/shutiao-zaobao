@@ -1,0 +1,55 @@
+{
+  "id": "n83054ecb029e",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "用 LiteLLM 和 Amazon Bedrock 搭建自助大模型网关",
+  "original_title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+  "summary": "亚马逊介绍如何在 AWS Fargate 上用 LiteLLM 搭建自助大模型网关，把 Amazon Bedrock 基础模型放到兼容 OpenAI 的接口后面，开发者凭一把密钥就能调用。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
+      "is_primary": true,
+      "published_at": "2026-11-13T02:41:12+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T02:41:12+08:00",
+  "updated_at": "2026-11-13T02:41:12+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "用 LiteLLM 和 Amazon Bedrock 搭建自助大模型网关",
+  "lead_zh": "亚马逊介绍如何在 AWS Fargate 上用 LiteLLM 搭建自助网关，把 Bedrock 基础模型放到兼容 OpenAI 的接口后面，开发者用一把密钥即可调用。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "文章讲了什么",
+      "paras": [
+        "亚马逊云科技发文介绍，如何用跑在 AWS Fargate 上的 LiteLLM，把 Amazon Bedrock 基础模型放到兼容 OpenAI 的接口后面，搭建自助大模型网关。开发者用一把专属密钥即可调用，平台侧则可做按人费用控制、配额隔离和可观测性。文中示例使用 Claude Sonnet 和 Claude Haiku。",
+        "生产拓扑上，兼容 OpenAI 的客户端经 Route 53、CloudFront 和负载均衡器到达网关，用每用户密钥向 Fargate 上的 LiteLLM 认证；后端用 RDS PostgreSQL 保存虚拟密钥和花费状态，用 ElastiCache 做缓存，用 Secrets Manager 存密钥，再以任务角色调用 Bedrock 应用推理配置。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "如何做花费控制",
+      "paras": [
+        "文中示例把花费上限设为 **250**、周期为 **7** 天，按密钥滚动执行；用户超限时 LiteLLM 返回 HTTP **429** 并说明预算已用尽。作者还建议把告警设在配额使用率 **60%** 至 **70%**，以便在发生限流前去提高 Bedrock 配额，并用 Langfuse 与 CloudWatch 一起排查提示词和词元消耗。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/296436ee5b0fddef4749b88d756e49183e50f98d.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-20816-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

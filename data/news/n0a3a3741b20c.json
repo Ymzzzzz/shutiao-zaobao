@@ -1,0 +1,55 @@
+{
+  "id": "n0a3a3741b20c",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "The Verge：黄仁勋风波尚未结束",
+  "original_title": "The Jensen Huang scandal is hardly over",
+  "summary": "科技媒体评论称，直到黄仁勋第二段婚外情曝光之前，他几乎看起来“免疫”于此类冲击；但现在看来，相关风波仍在持续，远远没有结束，作者认为后续仍可能出现新的进展和影响。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "is_primary": false,
+      "published_at": "2026-11-13T01:44:33+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T01:44:33+08:00",
+  "updated_at": "2026-11-13T03:16:51+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "The Verge：黄仁勋风波尚未结束",
+  "lead_zh": "The Verge 评论称，在第二段婚外情曝光后，此前几乎“免疫”的黄仁勋已无法置身事外，相关风波仍在持续。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge 于 **11** 月 **12** 日发表评论称，周三几乎接连出现两则报道：一是指黄仁勋与下属 Kimberly Powell 有婚外情，二是董事会开会考虑将其免职；周四一早，英伟达宣布他已辞职。文章强调，他是该公司迄今唯一的首席执行官，此前也没有公开的继任计划。",
+        "评论还提到，今年 **5** 月黄仁勋曾称，受出口管制影响，英伟达在中国的市场份额为零；但同期做空机构 Culper Research 发布报告认为，英伟达 **2026** 财年计算业务收入中，实际仍有超过 **20%** 由中国贡献，并得到非法显卡转移和东南亚中介支持。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "作者 Elizabeth Lopatto 认为，第二段婚外情更像采取行动的借口，事件根源仍要回到此前关于黄仁勋被指遭到中方间谍色诱，以及 neocloud 公司 Megaspeed 商业登记指向马来西亚数据中心、新加坡近乎空置的办公室和吉隆坡外破败店面等已公开线索。她并称，相关风波远未结束。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/4c16904ceaa088b68147b939fa7b57ddfd7968bb.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

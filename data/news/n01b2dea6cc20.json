@@ -1,0 +1,55 @@
+{
+  "id": "n01b2dea6cc20",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "DeepMind 员工向英国政府求助，升级工会化抗争",
+  "original_title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+  "summary": "《连线》报道，谷歌 DeepMind 员工在与管理层的初期谈判停滞后，转而寻求绕过公司管理层，向英国政府求助，以继续推进他们成立工会的努力，此前他们已与公司进行过接触但未能取得进展。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "is_primary": false,
+      "published_at": "2026-11-13T02:05:41+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T02:05:41+08:00",
+  "updated_at": "2026-11-13T02:05:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "DeepMind 员工向英国政府求助，升级工会化抗争",
+  "lead_zh": "WIRED 报道，谷歌 DeepMind 员工在初期谈判停滞后再寻出路，试图绕过公司管理层，向英国政府求助以推进成立工会。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED 报道，谷歌 DeepMind 在英国的员工已请求政府介入，以推进成立工会。周四，通信工人工会与联合工会作为员工推举的共同代表，向负责处理雇主与工会争议的中央仲裁委员会提交申请，要求确认工会已获得足够支持，从而启动投票；若申请成功，公司须依法尊重投票结果，约 **1000** 名产品岗位员工将有资格加入工会。",
+        "这场行动始于 2025 年 2 月，当时谷歌母公司 Alphabet 从其伦理准则中删除了“不会把人工智能用于武器开发等用途”的承诺。推动成立工会的员工尤其反对公司与美国及以色列军方的协议，并打算在成功后要求公司退出这些合同。他们周四发给英国全体员工的邮件中写道，希望同事参与预计未来几个月举行的投票。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "通信工人工会负责科技事务的全国官员 John Chadfield 对 WIRED 说，员工觉得自己被忽视，问题被轻描淡写，管理层拒绝真正坐下来谈，只把事情交给人事和劳动关系部门当行政手续处理。谷歌 DeepMind 发言人 Tom Hewett 则声明，公司尊重员工就是否加入工会作出知情决定的权利，一直在听取支持和反对的声音，并会继续建设性参与这一过程。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/cad5fbc3aa48e7290d346222489101f924186faf.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6af50d1a5e386b9efd1b63f5/master/pass/Google-DeepMind-Staffers-Escalate-Unionization-Efforts-Business-2151467843.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

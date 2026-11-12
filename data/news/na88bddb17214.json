@@ -1,0 +1,55 @@
+{
+  "id": "na88bddb17214",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "IBM 在 Granite 4.1 中引入面向大模型的标记语言 LLMON",
+  "original_title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "summary": "Hugging Face 博客介绍，面向大模型的原生标记语言 LLMON 现已加入 IBM Granite 4.1 的 3B 和 8B 型号，用于更适合模型阅读和生成的结构化文本。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "is_primary": true,
+      "published_at": "2026-11-13T03:07:35+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T03:07:35+08:00",
+  "updated_at": "2026-11-13T03:07:35+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "IBM 在 Granite 4.1 中引入面向大模型的标记语言 LLMON",
+  "lead_zh": "一篇博客介绍，面向大模型的原生标记语言现已用于 IBM 新一代开源模型的 30 亿和 80 亿参数两个版本。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发布了什么",
+      "paras": [
+        "IBM 在 Hugging Face 博客宣布推出面向大模型的标记语言 LLMON（LLM Object Notation，读作 lemon），并发布两款基于 Granite 4.1 基座、经过训练以读写 LLMON 标记文本的实验预览模型：granite-4.1-3b-LLMON-preview 和 granite-4.1-8b-LLMON-preview，同时开源工具包与工作流示例。",
+        "LLMON 用带语义的标签和保留的特殊词元分隔符标明上下文中的指令、数据和约束，并为指令分配唯一编号，使其能绑定到所作用的数据。作者称，模型从 Granite 4.1 基座而非已发布的指令微调模型出发，因此相关行为是在后期训练中学到的，而不是叠在现有对话格式上。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么评价",
+      "paras": [
+        "据 IBM 称，在把注入放进经典自然语言任务数据的 OPI 基准上，LLMON 比他们测试过的最佳前沿模型少中招 **47%**，比最佳开源模型少中招 **95%**；在部分基准上攻击成功率接近零。作者并称，在标准能力评测上，这些预览模型与 Granite 4.1 Instruct 相当。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/64c8934a3743a2bdaf3787031a8c763ea2a368aa.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

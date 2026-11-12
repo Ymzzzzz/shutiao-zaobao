@@ -1,0 +1,55 @@
+{
+  "id": "nd3206ea89ca2",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "在 AWS 上用 A2A 协议搭建可组合的多智能体系统",
+  "original_title": "Build composable, interoperable multi-agent systems with A2A on AWS",
+  "summary": "亚马逊介绍如何用 Agent-to-Agent（A2A）协议在 AWS 上构建可组合、可互操作的多智能体系统，例如用 ECS 上的 LangChain 编排器与 AgentCore 上的智能体通信。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
+      "is_primary": true,
+      "published_at": "2026-11-12T23:42:21+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T23:42:21+08:00",
+  "updated_at": "2026-11-12T23:42:21+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "在 AWS 上用 A2A 协议搭建可组合的多智能体系统",
+  "lead_zh": "亚马逊介绍如何用 Agent-to-Agent（A2A）协议在 AWS 上构建可组合、可互操作的多智能体系统，例如让编排器与 AgentCore 上的智能体通信。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "文章讲了什么",
+      "paras": [
+        "亚马逊云科技发文介绍，如何用智能体对智能体（A2A）协议在 AWS 上搭建可组合、可互操作的多智能体系统。参考架构里，企业侧用跑在 Amazon ECS 上的 LangChain 编排器，与另一账户中跑在 Amazon Bedrock AgentCore 上的 Strands 智能体通信，双方不依赖对方的框架或软件开发工具包，也不共享密钥。",
+        "文中称，A2A 现为 Linux 基金会项目，AWS 是支持方之一，并使用 OAuth 2.0 和 OpenID Connect 做跨边界认证。演示里共有三个智能体、两个账户，各用自己的 Amazon Cognito 用户池。企业编排器使用 Anthropic Claude Sonnet 4.6，内部上下文智能体使用 Amazon Nova Lite，并采用官方 a2a-sdk，版本固定为 a2a-sdk[http-server]==1.2.2。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "设计要点",
+      "paras": [
+        "作者强调，跨边界通信全部走 A2A，企业侧无法看到软件服务商智能体的内部工具、系统提示或模型选择。只要 Agent Card 和 A2A 接口保持兼容，服务商就可以改内部架构而不影响客户集成；服务商卡片只公布一项整理过的技能，而不暴露内部工具名。系统可用三份 Jupyter 笔记本部署并做端到端测试。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/bde8774e065b0478b807ffcabb5e9988a6377fa8.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21127-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

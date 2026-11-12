@@ -1,0 +1,46 @@
+{
+  "id": "n81bcb5c122b2",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌校园 Gemini 试点遭反对，有人呼吁学校暂停人工智能",
+  "original_title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+  "summary": "Ars Technica 报道，在一名青少年的诉讼将 Gemini 称为“自杀教练”后，有家庭要求谷歌不要把相关人工智能放到学校配发的 Chromebook 上，并出现暂停校内使用的呼声。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "is_primary": false,
+      "published_at": "2026-11-13T02:57:45+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T02:57:45+08:00",
+  "updated_at": "2026-11-13T02:57:45+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌校园 Gemini 试点遭反对，有人呼吁学校暂停人工智能",
+  "lead_zh": "Ars Technica 报道，有家庭在一名青少年诉讼将 Gemini 称为“自杀教练”后，要求不要把相关人工智能放到学校配发的 Chromebook 上。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Ars Technica 报道，周三全美 **7** 个城市有家庭参加抗议，反对谷歌把其人工智能模型更深地嵌入学校。芝加哥多家家庭在雨中走到谷歌市中心办公楼外，高峰时约有 **60** 人。组织者包括伊利诺伊州公立学校家庭组织 ILFPS。",
+        "背景是谷歌上周表态：将默认关闭搜索、Gemini 和 Gemini Notebook，但不会提供“无人工智能的搜索”；有家长担心，学生若要避开人工智能，只能记得在每次查询后加上“-ai”。今年 **8** 月，该组织曾施压芝加哥公立学校退出一项原计划覆盖全区高中生、且未咨询家长的 Gemini 试点。",
+        "报道还提到，北卡罗来纳州达勒姆一名 **13** 岁学生“Emma Doe”起诉谷歌，诉状将 Gemini 称为“自杀教练”，称她在学校配发的 Chromebook 上使用后情况恶化，并指谷歌“故意”不让家长知情。ILFPS 现要求在风险更清楚、学区能起草保护政策前，暂停校内人工智能。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/f984bf6a0525689365082d4fee462d5087d03ecd.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

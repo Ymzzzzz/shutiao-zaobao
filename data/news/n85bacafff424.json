@@ -1,0 +1,55 @@
+{
+  "id": "n85bacafff424",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊发布新一代 AgentCore 运行时，强化安全与效率",
+  "original_title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+  "summary": "亚马逊介绍新一代 Amazon Bedrock AgentCore 运行时，面向需要连续运行数小时、并能代表用户执行多步任务的智能体，强调在安全性和可扩展计算方面的提升。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+      "is_primary": true,
+      "published_at": "2026-11-13T01:59:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T01:59:59+08:00",
+  "updated_at": "2026-11-13T01:59:59+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊发布新一代 AgentCore 运行时，强化安全与效率",
+  "lead_zh": "亚马逊介绍新一代 Amazon Bedrock AgentCore 运行时，面向需要连续运行数小时、代表用户执行多步任务的智能体，强调更安全、可扩展的计算能力。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技宣布更新 Amazon Bedrock AgentCore 运行时。文中称，每个会话仍在独立的硬件隔离 Firecracker 微型虚拟机中运行，并拥有自己的身份、策略和审计轨迹。新版本称会话启动最多加快 **15** 倍，算力可扩展至原来的 **4** 倍，运行效率最多提高 **68%**。",
+        "具体规格方面，会话现可扩展到 **8** 个 vCPU 和 **32** GB 内存，并支持最大 **10** GB 的容器镜像；启动时间可在 **2** 秒以内，且与镜像大小和并发无关。运行时还称可在智能体释放内存后数分钟内回收，空闲会话可缩到零；对多轮、中间有停顿的智能体，单会话内存消耗最多可减少 **68%**。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "客户怎么说",
+      "paras": [
+        "文中转述，Mission 称同一工作负载下，推理请求冷启动加快 **35%**，健康检查启动加快 **77%**，测得的每次调用运行时成本下降 **17%**。Zuora 则称，在许多场景下每次调用的内存占用约下降 **60%**，同时能以稳定延迟处理更多流量。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/075540e0c7cb3d6ca9f7c637ca7d7429fdbd7825.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-22215-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

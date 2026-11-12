@@ -1,0 +1,46 @@
+{
+  "id": "n2c85c6d2a86c",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "论文提出可随智能体负载自适应调整的大模型推理系统",
+  "original_title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+  "summary": "一篇预印本指出，智能体工作负载已成为大模型推理的重要来源，而现有把预填充与解码分开的系统，很难在运行时灵活调整算力分配以及键值缓存策略，作者据此提出了一套可随负载调整的服务方案。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.12304",
+      "is_primary": true,
+      "published_at": "2026-11-12T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T08:00:00+08:00",
+  "updated_at": "2026-11-12T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "论文提出可随智能体负载自适应调整的大模型推理系统",
+  "lead_zh": "一篇预印本指出，智能体工作负载已成为大模型推理的重要来源，现有预填充与解码分离系统难以在运行时灵活调整算力和 KV 缓存。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文说了什么",
+      "paras": [
+        "Hao Kang、Weili Xu、Ziyang Li 等人发布预印本，提出面向智能体负载的大模型推理框架 Evolving Infra。作者指出，现有把预填充与解码分离的系统，难以在运行时灵活调整算力分配和键值缓存，容易造成节点负载不均，并逐出智能体仍会复用的缓存。",
+        "该框架把算力分配与键值缓存管理解耦，使节点能在预填充和解码之间切换。在此基础上，在线规划器会按负载构成匹配二者分工，智能体感知的分布式缓存管理则依据上下文管理信号指导逐出和迁移。",
+        "作者在编程、数学和计算机使用任务上，用 GLM-5.2 和 Kimi K2.6，最多在 **256** 张 GB300 GPU 上测试，称相较英伟达生产框架 Dynamo，平均端到端请求延迟和 P95 首字时间最多分别降低 **4.1** 倍和 **14** 倍。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/9627efeb3fc428d35f17b030a125a103295eb2da.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12304.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

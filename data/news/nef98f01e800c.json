@@ -1,0 +1,46 @@
+{
+  "id": "nef98f01e800c",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "TechCrunch 梳理黄仁勋风波时间线，称其已辞去英伟达职务",
+  "original_title": "The unfolding Jensen Huang scandal: a timeline",
+  "summary": "科技媒体梳理英伟达首席执行官黄仁勋相关风波的时间线，并称他已在婚外情事件后辞职；报道认为此事可能对美中在人工智能基础设施上的竞争产生影响，报道把这一事件放在大国竞争的背景下来看。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "is_primary": false,
+      "published_at": "2026-11-13T05:35:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T05:35:00+08:00",
+  "updated_at": "2026-11-13T05:35:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "TechCrunch 梳理黄仁勋风波时间线，称其已辞去英伟达职务",
+  "lead_zh": "TechCrunch 梳理英伟达首席执行官黄仁勋相关风波的时间线，并称他已因此辞职，可能对美中人工智能基础设施竞争带来影响。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 梳理黄仁勋风波时间线称，现年 **63** 岁的英伟达联合创始人已承认在与妻子 **40** 年的婚姻中出轨，并已辞去他执掌 **33** 年的首席执行官职务。文中称，美国官员认为其可能的恋爱对象、Megaspeed 高管 Alice Huang（中国公民，与黄仁勋无亲属关系）是向北京传递信息的间谍。",
+        "文章称，总部位于新加坡的 Megaspeed 据报过去两年采购了 **48** 亿美元英伟达芯片，美新两国都曾因涉嫌向中国非法分享芯片展开调查，美国司法部已接手对该公司的联邦调查。周三《纽约时报》援引 **5** 名英伟达工作人员报道，黄仁勋还与直接向他汇报的医疗健康副总裁 Kimberly Powell 有婚外关系；英伟达、黄仁勋和 Powell 均未证实。",
+        "周四上午他已不再担任首席执行官；下午路透社又报道称他还与另一名未具名的英伟达员工有婚外情。Harvey C. Jones 被任命为该公司首任董事长，他自 **1993** 年起担任董事。文章并称，黄仁勋已确认将在感恩节（**11** 月 **26** 日）前到国会作证。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/7cc778d1943ec29b7f10cc5e5947f0d34ffde5dd.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

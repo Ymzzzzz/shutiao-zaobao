@@ -1,0 +1,46 @@
+{
+  "id": "nf0f410038b7d",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "研究建议逐层逐模块探测 Transformer 表征，不必只看最后一层",
+  "original_title": "Probing Transformer Representations Layer by Layer, Module by Module",
+  "summary": "一篇预印本提出，在基于 Transformer 的基础模型中，只探测最后一层往往并非最优选择，中间层有时能够提供更有用的表征，因此有必要逐层、逐模块地检查，这对如何选择探测位置提出了新的问题。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.11531",
+      "is_primary": true,
+      "published_at": "2026-11-12T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T08:00:00+08:00",
+  "updated_at": "2026-11-12T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "研究建议逐层逐模块探测 Transformer 表征，不必只看最后一层",
+  "lead_zh": "一篇预印本指出，在基于 Transformer 的基础模型里，习惯性探测最后一层往往并非最优，中间层有时能提供更好的表征。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文说了什么",
+      "paras": [
+        "Ambroise Odonnat、Theo Gnassounou、Laetitia Chapel 等人发布预印本指出，在基于 Transformer 的基础模型里，习惯性探测最后一层往往并非最优，中间层有时能提供更好的特征；而且表征不应只按深度研究，还要把每个模块单独看待。预印本标注日期为 **2026** 年 **11** 月 **8** 日。",
+        "作者对视觉基础模型和大语言模型做了超过 **14.4** 万次线性探测评估，称层与模块应一并选择：最佳“层—模块”组合，比固定残差流只选最佳层，带来的增益明显更大；同一模块在不同层上的表现也可差很多。",
+        "据此，他们评估了简单固定策略：视觉用最后一层前馈激活（Act@100），语言用约 **60%** 深度处的第二层归一化（LN2@60）。这些策略在多数评估中优于探测基线，并平均分别收回最佳组合增益的 **42%** 和 **86%**。对视觉模型，预训练与下游数据迁移越难，增益越大。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/c79ec5f4ba2d0ff1758457f8032ac5c059448bd7.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.11531.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

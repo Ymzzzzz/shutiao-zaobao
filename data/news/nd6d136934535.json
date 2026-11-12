@@ -1,0 +1,46 @@
+{
+  "id": "nd6d136934535",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "FAME-QP：面向实时模型预测控制的 GPU 二次规划求解器",
+  "original_title": "FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control",
+  "summary": "研究人员发布一款图形处理器加速求解器，用于处理线性模型预测控制里出现的稠密二次规划问题，并结合了依赖约束的算子表示和融合后的计算方式，其目标是满足实时控制对计算速度的要求。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.13766",
+      "is_primary": true,
+      "published_at": "2026-11-12T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-12T08:00:00+08:00",
+  "updated_at": "2026-11-12T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "FAME-QP：面向实时模型预测控制的 GPU 二次规划求解器",
+  "lead_zh": "研究人员发布 GPU 加速求解器 FAME-QP，用于处理线性模型预测控制中的稠密二次规划问题，并融合约束相关的算子表示。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文说了什么",
+      "paras": [
+        "研究人员 Santosh Mohan Rajkumar、Debdipta Goswami 和 Stephanie Stockar 发布 GPU 加速求解器 FAME-QP，用于处理线性模型预测控制中出现的稠密二次规划问题。预印本标注日期为 **2026** 年 **11** 月 **10** 日。",
+        "该求解器把依赖约束的算子表示，与通过 CUDA graphs 回放的单核及双核融合迭代结合起来，并借助设备校准和针对具体问题的计时，自动选择执行配置。它会探查缓存的算子库以选择初始惩罚项，并在问题矩阵变化时延迟更新算子。",
+        "作者在数值基准，以及模拟的人形机器人和四旋翼控制实验中显示，相较其他 GPU 求解器，FAME-QP 在保持求解精度和控制性能的同时降低了延迟。摘要未给出具体加速倍数。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/dc79d63ffc5044e6cd4eed97ef119b33e142e756.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.13766.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

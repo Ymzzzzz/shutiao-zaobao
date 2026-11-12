@@ -1,0 +1,55 @@
+{
+  "id": "ndce5e82d2a55",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "WIRED 特辑讨论黄仁勋离职后英伟达与对手走向",
+  "original_title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+  "summary": "《连线》播客推出一期特辑，讨论黄仁勋从英伟达辞职后公司将如何安排下一步，竞争对手会否从中获利，以及整个人工智能产业接下来可能走向何处，节目把讨论重点放在行业格局可能发生的变化上。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+      "is_primary": false,
+      "published_at": "2026-11-13T06:14:41+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T06:14:41+08:00",
+  "updated_at": "2026-11-13T06:14:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "WIRED 特辑讨论黄仁勋离职后英伟达与对手走向",
+  "lead_zh": "WIRED《Uncanny Valley》推出特辑，讨论黄仁勋从英伟达辞职后公司下一步安排，以及人工智能产业将如何演变。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《连线》播客《Uncanny Valley》推出一期特辑，由执行主编 Brian Barrett 与 Zoë Schiffer、Leah Feiger 讨论黄仁勋从英伟达辞职后的局面。节目介绍称，黄仁勋在承认与一名被指为中方情报人员有婚外情后正式辞职，并面临至少另外两段与英伟达员工关系的报道。",
+        "特辑将拆解董事会如何转向对其创始人不利、临时首席执行官 Colette Kress 对公司意味着什么，以及这对英伟达竞争对手是否构成机会。页面还列出相关报道，包括介绍 Kress 的专文，以及另一篇标题称其在不到一个月内“烧掉”超过 **1** 万亿美元的文章。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "节目里怎么说",
+      "paras": [
+        "据节目中 Barrett 介绍，Kress 自 **2013** 年加入英伟达，此前曾在思科和微软任职，将被作为临时负责人；他也谈到，即便有人因丑闻想离开英伟达，眼下替代选择仍然有限。上述讨论出自自动转写，文中注明转写可能有误。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/dcd1e38820b6e2f3efd0c7fcf895cd9370e01ac9.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6af5ee2157e0a3ee177875cd/master/pass/Uncanny-Valley-Jensen-Emergency-Pod.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

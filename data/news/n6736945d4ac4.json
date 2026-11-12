@@ -1,0 +1,447 @@
+{
+  "id": "n6736945d4ac4",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "WIRED：黄仁勋承认婚外情，英伟达市值两日或蒸发超 4700 亿美元",
+  "original_title": "Jensen Huang’s $470 Billion Affair",
+  "summary": "《连线》播客称，黄仁勋已向员工承认与商界人士 Alice Huang 的婚外情；美国情报部门指其被中国国家安全部招募。节目称英伟达市值两日内或蒸发超 4700 亿美元。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+      "is_primary": false,
+      "published_at": "2026-11-13T02:59:58+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T02:59:58+08:00",
+  "updated_at": "2026-11-13T02:59:58+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "WIRED：黄仁勋承认婚外情，英伟达市值两日或蒸发超 4700 亿美元",
+  "lead_zh": "《连线》播客讨论英伟达首席执行官黄仁勋承认与商界人士 Alice Huang 的婚外情，并称公司市值在两天内可能蒸发超过 4700 亿美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《连线》播客 Uncanny Valley 本期讨论英伟达首席执行官黄仁勋承认与商界人士 Alice Huang（同姓但无亲属关系）存在婚外情一事。主持人称，黄仁勋已在周日向员工发消息承认这段关系。",
+        "节目提到，美国情报部门称 Alice Huang 被中国国家安全部招募，目的是收集有关黄仁勋的信息，并指出《纽约时报》近几周已就此做过报道。英伟达董事会已对此事展开调查。",
+        "主持人还介绍，Alice Huang 负责的公司 Megaspeed 于 **2023** 年成立，是在美国开始限制先进芯片出口数月后，从一家中国游戏公司分拆而来；她曾是电视记者，并非计算机科学背景。**2024** 年黄仁勋开始与她一同公开露面并被拍照。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "节目怎么说",
+      "paras": [
+        "据节目称，黄仁勋目前仍继续主持公司运营，至少在调查进行期间如此。但主持人表示，此事已构成公关危机并可能涉及国家安全，英伟达市值在短短两天内可能蒸发超过 **4700 亿美元**。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/1ea9ad734b94e3c310cd94642614761815fbbc12.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6af4e95d91c3d23473376fc7/master/pass/Uncanny-Valley-Jensen-Spy-Business.jpg",
+  "fulltext_status": "ok",
+  "read_minutes": 19,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Brian Barrett",
+    "author_title_zh": "",
+    "published_at": "2026-11-12",
+    "title_en": "Jensen Huang’s $470 Billion Affair",
+    "title_zh": "黄仁勋那桩价值 4700 亿美元（470 billion）的婚外情",
+    "dek_en": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+    "dek_zh": "本周在《Uncanny Valley》中，节目组拆解英伟达首席执行官与一名被指为中方间谍的婚外情，以及这对人工智能产业意味着什么。",
+    "word_count_zh": 7237,
+    "read_minutes": 19,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "本周，英伟达首席执行官黄仁勋承认与 Alice Huang 有婚外情；美国情报部门称，这名女商人是被中国国家安全部招募的。在《Uncanny Valley》中，Brian Barrett、Zoë Schiffer 和 Leah Feiger 拆解这对英伟达、对人工智能产业，以及对黄仁勋长期反对的芯片出口管制意味着什么。此外，在民主党横扫中期选举之后，白人民族主义者、基督教民族主义者以及骄傲男孩正在宣称 MAGA 运动已经死亡，并说共和党现在可以由他们接手。",
+        "en": "This week, Nvidia CEO Jensen Huang admitted to an affair with Alice Huang, a businesswoman US intelligence says was recruited by China’s Ministry of State Security. On Uncanny Valley, Brian Barrett, Zoë Schiffer, and Leah Feiger break down what this means for Nvidia, for the AI industry, and for the chip export controls Huang has long pushed back against. Plus, now that the Democrats have swept the midterms, white nationalists, Christian nationalists, and the Proud Boys are declaring the MAGA movement dead and saying the Republican Party is theirs for the taking."
+      },
+      {
+        "t": "p",
+        "zh": "本集提到的文章：",
+        "en": "Articles mentioned in this episode:"
+      },
+      {
+        "t": "p",
+        "zh": "• 黄仁勋去年聘请了一家以处理性丑闻著称的公关公司",
+        "en": "• Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year"
+      },
+      {
+        "t": "p",
+        "zh": "• 黄仁勋的麻烦让人工智能产业感到震撼",
+        "en": "• Jensen Huang’s Troubles Leave the AI Industry Reeling"
+      },
+      {
+        "t": "p",
+        "zh": "• “我们必须接管”：极右翼极端分子想夺取共和党的控制权",
+        "en": "• ‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP"
+      },
+      {
+        "t": "p",
+        "zh": "你可以在 Bluesky 上关注 Brian Barrett（@brbarrett）、Zoë Schiffer（@zoeschiffer）和 Leah Feiger（@leahfeiger）。来信请寄 [email protected]。",
+        "en": "You can follow Brian Barrett on Bluesky at @brbarrett, Zoë Schiffer on Bluesky at @zoeschiffer, and Leah Feiger on Bluesky at @leahfeiger. Write to us at [email protected]."
+      },
+      {
+        "t": "h",
+        "zh": "如何收听",
+        "en": "How to Listen"
+      },
+      {
+        "t": "p",
+        "zh": "你随时可以通过本页的音频播放器收听本周播客，但如果你想免费订阅、接收每一期，可以这样做：",
+        "en": "You can always listen to this week's podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here's how:"
+      },
+      {
+        "t": "p",
+        "zh": "如果你用的是 iPhone 或 iPad，打开名为 Podcasts 的应用，或直接点这个链接。你也可以下载 Overcast 或 Pocket Casts 之类的应用，搜索 “uncanny valley”。我们也在 Spotify 上。",
+        "en": "If you're on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts and search for “uncanny valley.” We’re on Spotify too."
+      },
+      {
+        "t": "h",
+        "zh": "转写",
+        "en": "Transcript"
+      },
+      {
+        "t": "p",
+        "zh": "注：这是自动转写，可能包含错误。",
+        "en": "Note: This is an automated transcript, which may contain errors."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：欢迎来到《连线》的 Uncanny Valley。我是执行主编 Brian Barrett。",
+        "en": "Brian Barrett: Welcome to WIRED's Uncanny Valley. I'm Brian Barrett, executive editor."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：我是特约编辑 Zoë Schiffer。",
+        "en": "Zoë Schiffer: I'm Zoë Schiffer, contributing editor."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：我是政治与科学主编 Leah Feiger。",
+        "en": "Leah Feiger: And I'm Leah Feiger, director of politics and science."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：本周我们要谈人人都在议论的这桩丑闻。周日，英伟达首席执行官黄仁勋承认，他与一名女商人有婚外情，美国情报部门称对方也是一名中方间谍。",
+        "en": "Zoë Schiffer: This week, we're getting into the scandal that has had everyone talking. On Sunday, Nvidia CEO, Jensen Huang admitted to having an affair with a businesswoman who US intelligence says is also a Chinese spy."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：这段婚外情引发了各种各样的问题，从可能有哪些信息被传到了中国，到白宫此前为何被警告过这段关系，却似乎没怎么处理。我们后退一步，讨论整件事对整个人工智能产业，以及对黄仁勋长期反对的芯片出口管制的未来意味着什么。",
+        "en": "Brian Barrett: The affair has brought up all kinds of questions from what information might have been linked to China to why the White House was previously warned about the relationship but didn't do much about it seemingly. We're taking a step back and discussing what this whole mess means for the AI industry at large and for the future of the chip export controls that Jensen Huang has pushed back against for so long."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：而在上周民主党横扫中期选举之后，你会以为极右翼会缩在角落里舔伤口。他们确实这样过了大约一周，但也仅此而已。相反，现在白人民族主义者、基督教民族主义者以及骄傲男孩已经宣称 MAGA 运动死了，共和党可以由他们接手。我们会谈谈这些群体在说什么，以及他们为什么把选举结果看成一次机会。",
+        "en": "Leah Feiger: And after last week's democratic sweep in the midterms, you would think that the far-right would be hiding in the corner, licking their wounds. And they did for about a week, but that's all. Instead, now white nationalists, Christian nationalists, and the Proud Boys have declared that the MAGA movement is dead and the Republican Party is theirs for the taking. We're going to get into what these groups are saying and why they see the election results as an opportunity."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：好。所以刚过去的这个周末，英伟达首席执行官黄仁勋给他的员工发了一封没有哪个首席执行官想写的信息。他基本上承认，自己一直在和这个叫 Alice Huang 的女人有婚外情。同一个姓，没有亲属关系。我老是忍不住笑。我心想，这桩丑闻要再离谱一点，除非他们是隔房表亲什么的，但其实不是。",
+        "en": "Zoë Schiffer: OK. So this past weekend, Nvidia CEO Jensen Huang sent a message to his employees that no CEO ever wants to write. He admitted basically that he has been having an affair with this woman, Alice Huang. Same last name, no relation. I keep laughing at that. I'm like, the only way this scandal could be more insane is if they were second cousins or something, but in fact, no."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：这未必是人们真正关心的事，但确实会让写这些报道稍微更麻烦一点，因为你得有一阵子改回用名字来区分。总之，是的，但那不是重点。",
+        "en": "Brian Barrett: And this is not something people care about necessarily, but it does make writing these stories a little bit trickier because you have to sort of switch back to first names for a while. Anyway, yes, but not the point."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：我觉得他们没有亲属关系是相当明显的。不过，对，我想你还是得把这句话说出来。《纽约时报》几周来一直在报道，美国情报部门认定她是被中国国家安全部招募的，基本上就是他们的中情局那一类机构，来收集他的信息。英伟达董事会现已对这件事展开调查，而黄仁勋至少在眼下事态发展期间绝对仍会继续掌权。但这整段经历既是一场非常难堪、并可能带来国家安全后果的公关噩梦，也让这家公司走上了仅两天就蒸发超过 4700 亿美元市值的轨道。",
+        "en": "Zoë Schiffer: I feel like it's fairly obvious that they're not related. However, yeah, I guess you do need to say it out loud. The New York Times has been reporting for weeks that US intelligence identified she was recruited by China's Ministry of State Security, basically they're like CIA, to gather information on him. Nvidia's board has now opened an investigation into this incident and Huang is absolutely staying in charge, at least for now while this all plays out. But this whole saga has been both a very embarrassing PR nightmare with potential national security consequences, and it has the company on track to lose more than $470 billion in market value over just two days."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：对一个同样令人难以置信的故事来说，这是一笔令人难以置信的钱。这个年代还在用美人计，真是精彩。Zoë，抱歉当这个人，但你能不能按年份带我们回顾一下，我们当时知道什么、什么时候知道的？因为整桩丑闻并不是这几天刚爆出来的。",
+        "en": "Leah Feiger: It's an unbelievable amount of money for an also unbelievable story. Honeypotting in this day and age, incredible stuff. Zoë, I'm sorry to be this person, but can you take us through year by year what we knew, when we knew it? Because this whole scandal didn't just break in the last couple of days."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：让我回到 2023 年。就在那时，Alice Huang 负责的公司 Megaspeed 成立，并从一家中国游戏公司分拆出来，时间就在美国开始限制向中国出口先进芯片几个月之后。这件事之所以重要，有几点。第一，这家公司运营所在的马来西亚，几乎在出口管制一出现时，就被认定为一个非常明显的漏洞。马来西亚并没有庞大的人工智能产业，所以如果你看到大型数据中心冒出来，而且里面装满英伟达芯片，几乎可以肯定这些芯片其实是要运往中国的。而事实上，看起来硅谷和特朗普政府里的大多数人都知道这一点，只是当时没把它当成多大的事。另一件值得说的是，Alice Huang 曾是电视记者。这不是一个有计算机科学背景的人。你不会指望由这样的人来掌管一家后来成为英伟达业务中非常大、非常重要一部分的公司。所以到了 2024 年，黄仁勋开始与 Alice Huang 一起公开露面。大约在这个时候，他们多次一起被拍到。他们的肢体语言有点奇怪。于是至少在公司内部开始有了窃窃私语。而 Megaspeed 也开始以数十亿美元的规模采购英伟达先进芯片，这看起来有点可疑。而且我认为很难很难很难，有人甚至会说不可能，去想象黄仁勋完全不知道这些芯片要去哪里。",
+        "en": "Zoë Schiffer: Let me go back to 2023. This is when Megaspeed, the company that Alice Huang is in charge of, was created and it splits off from a Chinese gaming company just a few months after the US began restricting advanced chip exports to China. And the reason that this is important is a couple things. Number one, Malaysia where this company is operating out of, almost immediately when the export controls become a thing is identified as a very obvious loophole. Malaysia doesn't have a big AI industry, so if you see big data centers cropping up and they're full of Nvidia chips, you can be sure that those chips are actually on their way to China. And in fact, it looks like most people in Silicon Valley and in the Trump administration were aware of this and it just wasn't a huge deal. The other thing that's worth saying is that Alice Huang was a former TV journalist. This is not someone with a computer science background. It's not the person you would expect to be in charge of a company that becomes a very big part, a very important part of Nvidia's business. So in 2024, Jensen begins appearing in public with Alice Huang. Around this time, they're photographed together multiple times. Their body language is a little bit funny. So there are whispers starting at least inside the company. And again, Megaspeed begins multi-billion dollar purchases of advanced Nvidia chips, which looks a little suss. And I think it's very, very, very difficult, some might say impossible to imagine that Jensen isn't fully aware of where the chips are headed."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：对。而且他也一直很明确地说：“我认为中国应该得到芯片。”他并不觉得……是的。",
+        "en": "Brian Barrett: Yeah. Well, and he also has been very vocal about saying, \"I think China should have chips.\" He doesn't feel any... Yeah."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：在人工智能和对华政策上，很少有人工智能高管像黄仁勋这样对特朗普的做法有这么大的影响力，而他已经多次把自己的立场说得非常清楚。",
+        "en": "Leah Feiger: Few AI executives have had as much sway over Trump's approach to AI and China as Huang, and he's made his position incredibly clear multiple times."
+      },
+      {
+        "t": "p",
+        "zh": "黄仁勋，资料音频：我已尽力告知美国的政策制定者，进入中国市场、并尽可能长时间服务那个市场有多么重要。我一直说得很清楚，尽管我们与中国竞争，他们并不是我们的敌人。如果我们真心关心人工智能给世界带来的安全问题，那我们当然必须开放对话。我们必须以一切可能的方式与他们合作。",
+        "en": "Jensen Huang, archival audio: I did my best to inform the policymakers in the United States of the importance of engaging the Chinese market and making sure that we serve that market for as long as we can. I've been very clear that even though although we compete against China, they're not our enemies. If we care deeply about the safety of the world with respect to artificial intelligence, then of course we must open dialogues. We must work with them in every possible way."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：在他和 Alice 认识之前，他就已经在公开谈论这些了。",
+        "en": "Zoë Schiffer: He was vocal about this before he and Alice knew each other."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：对，绝对是。",
+        "en": "Brian Barrett: Yeah, absolutely."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：这是他信念体系的核心部分。两种理论分别是：你把先进芯片卖给中国，从而让中国依赖美国芯片，也许他们就不会去建设自己的产业；或者你不卖，并希望短期内削弱他们，而你的人工智能产业能领先得足够远，以至于这不会成为大问题。但黄仁勋在这里有一个我认为非常站得住脚的论点。当然，现在他再也不被允许谈出口管制了，因为他看起来会——",
+        "en": "Zoë Schiffer: This is a core part of his belief system. The two theories are either you sell advanced chips to China and thus China becomes reliant on US chips and maybe they don't build their own industry or you don't and you hope that you kneecap them in the short term and your AI industry is able to stay far enough ahead that it's not a huge problem. But Jensen had a very legitimate, I think, argument here. Obviously now he's never allowed to talk about export controls ever again because he's going to look-"
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：我打赌他还是会谈。我打赌他会。",
+        "en": "Brian Barrett: I bet he will though. I bet he will."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：我是说，也许吧。对。但中国确实会这样做。他们经常做出有竞争力的硬件，然后压低价格，从而伤害美国产业。而且我认为，除了这是一笔非常好的生意——因为中国正在经历和美国一样的数据中心建设，英伟达本可以让业务翻倍——他还有一个并非完全牵强的国家安全论点。",
+        "en": "Zoë Schiffer: I mean, maybe. Yeah. But it's like China does do this. They make competitive hardware all the time and then underprice it, and so it harms US industry. And I think that in addition to this being a very good business play, Nvidia could have doubled its business because China is going through the same data center build out that the US is. He also had a national security argument that wasn't totally farfetched."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：我也这么想，而且我还听他提出过一个相关的观点：如果中国打造出自己有竞争力的芯片，他们就会建立起整套技术栈，你就会面对一整个人工智能世界，它大体上是开源的、开放权重的、广泛可获得的，而美国会被完全关在门外，因为那不只是英伟达的芯片，而是围绕它们的一切。先把对错放在一边，重点是，这并不是 Alice Huang 说：“嘿，黄仁勋，你听说过中国吗？”事情不是这样的。",
+        "en": "Brian Barrett: I think too, and I think he also, I've heard him argue, it's a related point, but I think if China builds their own competitive chips, then they'll build their own whole tech stack and you'll have this entire world of AI that is largely open source, open weight, broadly accessible that the US is totally shut out of because it's not just Nvidia chips, it's everything around them. Setting the merits of it aside, the point is it's not like Alice Huang said, \"Hey Jensen, have you heard about China?\" That's not what this is."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：当然不是。而且我认为这些论点有很多不同层面，但在开源这个角度上你常听到的一种说法是，中国将能够在全世界推广它的中国人工智能，并通过让许多其他国家依赖他们的技术而不是美国技术来扩大影响力。而这件事本身就会是一个重大威胁。",
+        "en": "Zoë Schiffer: Certainly not. And I think there's a lot of different facets of these arguments, but one that you hear with the open source angle a lot is China will be able to spread its Chinese AI around the world and gain influence by making a bunch of other countries dependent on their technology instead of US technology. And that in and of itself would be a big threat."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：我认为你怎么强调都不为过，黄仁勋在美国对华讨论中的重要性。他不仅是最主要的声音，我认为在硅谷首席执行官里，采取“我们应该与他们紧密合作”这种立场的突出声音，几乎也只有他。其他所有人都在拼命往相反的方向跑。再加上民主党上台，我真的很想知道这对我们与中国的关系将意味着什么。我猜不会有什么好事。我猜当你失去这样一个声音……特朗普大概仍可被说服，但还有谁去说服他？",
+        "en": "Brian Barrett: I think you really can't overstate the importance of Jensen Huang with the China conversation in the US. He is not only the leading voice, I think he's one of the only prominent voices among Silicon Valley CEOs who has taken this stance of, \"We should work closely with them.\" Everybody else is running the other direction as fast as they can. Between that and the Democrats coming in, I really do wonder what this is going to mean for our relationship with China. I assume nothing great. I assume when you lose a voice like that... Trump is still swayable probably, but who's there to sway him?"
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：对。而且需要说清楚，中国已经出面表示，Alice 不是中方间谍，谁敢那样说都是岂有此理。",
+        "en": "Zoë Schiffer: Yeah. And to be clear, China has already come out and said that Alice is not a Chinese spy, and how dare anyone suggest otherwise."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：我们能谈谈马可·卢比奥那一层吗？",
+        "en": "Leah Feiger: Can we talk about the Marco Rubio thing of it all?"
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：可以，这就是那个问题。所以在特朗普最近一次重返白宫期间，他和黄仁勋变得相当亲近。这对黄仁勋是一个转变，因为他此前并不政治。你有其他首席执行官，马克·扎克伯格、Sam Altman，他们以自由派、民主党人著称，然后随着特朗普重返白宫做了一次大转向。黄仁勋不是那样。他本来不问政治，后来决定全力押注特朗普，而且他们看起来变得相当亲近。在幕后，黄仁勋在为自己的观点游说。他希望得到特别豁免，以便把芯片卖给中国。他当然不希望特朗普打击马来西亚这一层，也就是出口管制里这个明显的漏洞。而这让马可·卢比奥和其他对华强硬派至少对黄仁勋很不满意。所以到了某个时点，政府意识到这段婚外情正在发生，马可·卢比奥起草了一份备忘录，开始在白宫流传，基本上是在说：“嘿，这件事正在发生，我们认为这是个问题。”我们不知道是谁，但有人抓住机会把这份备忘录泄露给媒体，让黄仁勋非常难看。时机至关重要，因为黄仁勋此刻比他近一段时间更加脆弱，我想，因为民主党刚刚拿下众议院。所以尽管此前 Elizabeth Warren 曾请他到参议院银行委员会作证，而他基本上说了“不，谢谢”，我认为可以想见，他不会再有那样的选择。",
+        "en": "Zoë Schiffer: Yeah, so this is the question. So during Trump's latest return to the White House, he and Jensen become quite close. And this is a switch for Jensen who previously wasn't political. You had other CEOs, Mark Zuckerberg, Sam Altman, who were known liberals, Democrats, and then made a big switch with Trump's return to the White House. Jensen wasn't like that. He was apolitical and then decided to go all in on Trump and they seemingly became quite close. And behind the scenes, Jensen is advocating for his point of view. He wants special exemptions so that he can sell chips to China. He certainly doesn't want Trump cracking down on the Malaysia of it all, this obvious loophole in the export controls. And this makes people like Marco Rubio and other China hawks not so happy with Jensen, to say the very least. And so at some point the government becomes aware that there is this affair going on and Marco Rubio drafts a memo that starts circulating around the White House basically saying, \"Hey, this is happening and we think that it's a problem.\" We don't know who, but someone takes that opportunity to leak the memo to the press and make Jensen look really bad. And the timing of this is crucial because Jensen is more vulnerable in this moment, I think, than he has been in recent past because Democrats just took the House. And so while previously Elizabeth Warren asked him to come testify before the Senate Banking Committee and he essentially said, \"No, thank you.\" I think it's fair to imagine that he's not going to have that option again."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：而且事实上，三位共和党众议院委员会主席已邀请他在 11 月 18 日参加一场闭门通报，所以那可能比人们想的来得更快。",
+        "en": "Brian Barrett: And in fact, he's been invited to a closed door briefing by three Republican house committee chairs on November 18th, so that may be coming sooner than later."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：我们来谈谈下一位首席执行官。有没有关于谁会接任的传闻或讨论？",
+        "en": "Leah Feiger: Let's talk next CEO. Have there been any rumors or conversations about who would take over?"
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：我想没有。",
+        "en": "Brian Barrett: I don't think so."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：没有，我想没有一个显而易见的名字。我是说，这周我和硅谷很多人谈过这件事，还没找到哪个首席执行官说：“他们应该把黄仁勋拿掉。”但是，几乎所有人都说：“这么明显的红旗他都没看见，这本身就是巨大的红旗：一个莫名其妙的电视记者，掌管着这家看起来像空壳、又明显在向中国卖芯片的公司。”整件事至少是极其不负责任的。而且我认为这一点还会被不断提起。",
+        "en": "Zoë Schiffer: No, I don't think there's an obvious name. I mean, I've been talking to a lot of people in Silicon Valley about this this week, and I have yet to find a CEO who's like, \"They should get rid of Jensen.\" But, almost everyone has been like, \"It is such a red flag that he didn't see the obvious red flags of this random TV journalist who's in charge of this seemingly shell company that is obviously selling chips to China.\" The whole thing is just incredibly irresponsible at the very, very least. And I think that that's going to continue to come up."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：我总是会回到一件也许略有关联的事：英伟达和五年前、四年前已经是完全不同的公司。在他谈到的那些年里，差不多有 30 年，他是在打造一门非常出色的游戏笔记本 GPU 生意。而只是在最近三年，他才登顶，因为那些芯片恰好对人工智能也非常好用。",
+        "en": "Brian Barrett: I think one thing I keep going back to, which is maybe slightly related, is that Nvidia, it is such a different company than it was five years ago, four years ago. For almost 30 of the years he's talking about, he was building a really great GPUs for gaming laptops business. And it's only in the last three years that he has ascended to the top of the mountain because those chips happen to also be very good for AI."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：对。而且他确实押注过，那会成为一门非常重要的生意，而那笔赌注得到了巨大回报。",
+        "en": "Zoë Schiffer: Well, yes. And he did make a bet that that was going to be a really important business and that bet enormously paid off."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：哦，确实如此。",
+        "en": "Brian Barrett: Oh, it did."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：但当你和10 年前在英伟达工作过的硅谷人士交谈时，他们会说：“我是在那个没劲的英伟达工作的。我是在股价还……的时候为英伟达工作的。”他们总会把为公司这个阶段工作的人区分开来，这个阶段是爆炸式增长、领先……它值多少？4 万亿美元。它在引领人工智能产业。直到这一刻之前，黄仁勋几乎不可能做错任何事。而在那之前的公司，就像 Brian 说的，是在做游戏芯片，然后人们会说：“什么？谁啊？”",
+        "en": "Zoë Schiffer: But when you talk to people in Silicon Valley who worked at Nvidia 10 years ago, they will be like, \"I worked for lame Nvidia. I worked for Nvidia when the stock was like... \" They always differentiate the people who work for this phase of the company, which is explosive growth, leading... It's worth what? $4 trillion. It's leading the AI industry. Jensen, until this moment, could do absolutely no wrong. And the company before that was, like Brian said, making gaming chips and was like, \"What? Who?\""
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：对。这并不是要抹杀他的任何功劳。他主动做出了那个押注，也对英伟达的成功负有责任。只是，我记得那个没劲的英伟达，而看到这一切发生在新的英伟达身上，实在让人难以置信。",
+        "en": "Brian Barrett: Yeah. Not taking away anything from him. He proactively made that bet and is responsible for Nvidia's success. It is just, I remember lame Nvidia, and to see all of this happening to new Nvidia boggles the mind."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：我们必须谈谈……我知道上周，再次向政治团队致敬。大家都过来了。我们把那一集从你们俩手里抢过来，讨论了各种各样的中期选举结果，包括这个国家看起来真的已经在疏远硅谷。过去一周里，看着每个人把自己对这一切的反应完完全全表现出来，有点奇妙。向帕兰蒂尔首席执行官 Alex Karp 致敬，他现在又一次成了民主党人。我只能说，每个人都在有感而发。但我还得加上，我最喜欢、而《连线》也一直在跟进的一条故事线，是白人民族主义者和极端分子把这看成一次巨大的机会。所以在上周选举日，白人民族主义者 Nick Fuentes——真不敢相信到了这个年代我们还在提他的名字——在 X 上敦促支持者，引用原话，“出去给民主党投票。”这条帖子获得了超过 1200 万次浏览，几小时后，当民主党表现得如此出色时，Fuentes 在 Telegram 上写下“我们又做到了”，把胜利归功于自己。他后来称之为 groyper 效应，指的是他的追随者的绰号。他把民主党获胜看成极右翼接管的更大战略的一部分。有这种感觉的不只是他。《连线》高级政治记者 David Gilbert 梳理了中期选举结果出来后，白人至上主义者、基督教民族主义者和其他极右翼团体的一批评论，显示的情况大体相同。这些团体基本上说，唐纳德·特朗普走得还不够远。所以他们才没赢。但既然没赢，这就是他们重新骑上马的办法。我知道这里的逻辑有点奇怪，但先听我说完。其中有一部分我会看着，然后说：“对，他们当然有机会。”在唐纳德·特朗普执政的过去一年半里，你并不真的需要骄傲男孩在街上恐吓移民。你有 ICE。你也不需要用各种方式剥夺跨性别者的权利。那是在司法部发生的。这些团体所主张的许多不同平台，实际上都被特朗普政府自己接手了，而他们实质上也曾向这些团体许诺过这些。所以所有这些人一直有点闲着，待在网上互相说话，没有太多事情可做，这理论上听起来不错，只除了一点：结果发现，白人至上主义者真正想要的，不过是被人需要。而现在，行动的号召来了。",
+        "en": "Leah Feiger: We have to talk about... I know that last week, again, shout out to the politics team. Everyone came on over. We wrenched the episode away from you two and discussed all sorts of midterms results, including how the country has really apparently turned away from Silicon Valley. It's been sort of amazing over the last week to watch everyone fully feel their reactions to all of this. Shout out to Palantir CEO Alex Karp, who is now a Democrat once more. Everyone's feeling things is all I have to say. But I would have to add that one of my favorite storylines that WIRED is staying on top of is white nationalists and extremists seeing this as a massive opportunity. So on election day last week, white nationalist Nick Fuentes, can't believe we're still saying his name in this day and age, he urged his supporters on X to quote, \"Get out and vote Democrat.\" The post racked up over 12 million views and hours later when the Democrats performed so well, Fuentes took credit for the victory writing, \"We did it again,\" on Telegram. And he later called it the groyper effect in reference to the nickname given to his followers. He sees the Democratic Party winning as part of a larger strategy for the far right to take over. He's not the only one that felt this way. David Gilbert, senior politics at WIRED, reviewed a number of comments from white supremacists, Christian nationalists, other far-right groups in the wake of the midterm results that shows much of the same. These groups basically said that Donald Trump did not go far enough. That's why they didn't win. But now that they didn't win, this is a way for them to get back in the saddle. I know that this logic is a little bit weird here, but stay with me. There is part of it that I look at and I go, \"Yeah, of course there's an opportunity for them.\" In the last year and a half of Donald Trump being in office, you didn't really need the Proud Boys terrorizing immigrants on the street. You had ICE. You did not need a variety of rights being taken away from trans people. That was happening in the DOJ. So many different platforms that these groups espouse were being taken over by the Trump administration themselves, which they had promised these groups in effect. So all of these folks have been sort of sitting idly by, hanging out, talking to each other online with not a whole lot to do, which in theory sounds nice except for the fact that all a white supremacist really wants is to be needed, it turns out. And now the call to action is here."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：Leah。",
+        "en": "Brian Barrett: Leah."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：说吧。",
+        "en": "Leah Feiger: Hit me."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：我的第一个问题是，你提到了机会，他们把这看成某种机会。这些人同时也……其中有多少是 Nick Fuentes 和他那一类人看到了他们运动的机会，又有多少是吸引注意力的机会，而后者往往才是这类事情的核心？你明白我的意思吗？我们怎么把这两者分开？",
+        "en": "Brian Barrett: My first question is you mentioned opportunity and they see this as an opportunity for whatever. These people are also... How much of it is Nick Fuentes and his ilk seeing an opportunity for their movement versus an opportunity to draw attention to themselves, which is what so often this is about? You know what I mean? How do we separate that out?"
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：当然。我是说，听着，我想我们一时半会儿还分不开，但你说得完全对，因为同样地，已经没有必要再去呼唤人们对他们那一套的注意。骄傲男孩会说：“伙计们，移民糟透了。”而整个特朗普政府会说：“我们站在你们这边。这不是什么新消息。”所以，吸引注意，也许再从因这场民主党横扫而深受打击的人那里拉来更多支持者，就是这套计划不可分割的一部分。",
+        "en": "Leah Feiger: For sure. I mean, look, I don't think we're going to be able to for a while, but you're absolutely right because there, again, has been no need to call attention to their play. The Proud Boys are like, \"Guys, immigrants suck.\" And the entire Trump administration is like, \"We're with you. This is not new info.\" So the idea of drawing attention, perhaps getting more supporters from people who are so devastated from this democratic sweep is part and parcel of the plan here."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：不过等一下，好让我理解这个“计划”，他们的理论是，他们会去帮助？？民主党当选，然后民主党会把掌权的体验搞砸，于是人们会更加幻灭。与此同时，他们会填补 MAGA 运动留下的真空。然后当人们再次转向右翼时，就会走向骄傲男孩。是这样吗……",
+        "en": "Zoë Schiffer: But wait, just so I understand the \"plan,\" their theory is that they're going to help?? Democrats get elected, then Democrats will screw up their experience of being in power and thus people will be more disillusioned. And in the meantime, they'll be taking over the void that was left by the MAGA movement. And so then when they go to the right again, they'll be going to the Proud Boys. Is that..."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：基本上就是这样，只是去掉开头他们“帮助民主党上台”的那部分。我不会把那样的功劳算给他们。这只是 Nick Fuentes 自己在说。",
+        "en": "Leah Feiger: That's basically it, minus the part at the beginning about them \"helping Democrats take over.\" I'm not giving them any sort of credit for that. This is just Nick Fuentes speaking."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：对。我只是想理解他们的逻辑。",
+        "en": "Zoë Schiffer: Right. I'm just trying to understand their logic."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：这逻辑挺完整的。",
+        "en": "Leah Feiger: It's solid."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：这要么是极度的自我安慰，要么是 5D 象棋，而我想我知道自己站在哪一边。对，显然如此。",
+        "en": "Brian Barrett: It's either tremendous cope or 5D chess, and I think I know what side I'm coming down on. Yeah, obviously."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：对。5D 象棋。这 100% 是真的，但我还想谈谈另一个数据，未来几周我会花一点时间去想它。而且我觉得我们都得稍微面对一下，那就是许多极端候选人仍然赢下了席位。尽管共和党的一些极端候选人被拒绝了，人权研究与教育研究所一直在追踪全州范围选举中的 535 名候选人，他们至少是一个极右翼 Facebook 小组的成员。所以我甚至不是在说只发过一次帖。不，不，不。他们是这些不同团体的成员。",
+        "en": "Leah Feiger: Yeah. 5D chess. It's 5D chess. And that's 100 percent true, but I do want to talk about this other stat that I'm going to spend a little bit of time thinking about in the coming weeks. And I think that we're all going to have to contend with it a little bit, which is that many extremist candidates still won their seats. While some of the Republican parties, extremist candidates were rejected, the Institute for Research and Education on Human Rights was tracking 535 candidates in statewide races who are members of at least one far right Facebook group. So I'm not even just talking about tweeted something one time. No, no, no. They are members of these various groups."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：而且还在用 Facebook。",
+        "en": "Brian Barrett: And still using Facebook."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：而且还在用 Facebook。",
+        "en": "Leah Feiger: And still using Facebook."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：这在某种程度上应该就能让人失格。",
+        "en": "Brian Barrett: Which should be disqualifying in some way."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：这是最大的红旗。",
+        "en": "Zoë Schiffer: The biggest red flag of all."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：在截至上周五已经计票完成的 476 场选举中——我们现在又有更多已经出结果了，只是大家要把所有东西汇总起来需要一点时间——这些候选人里有 338 人获胜，胜率为 71%。需要说清楚，这些选举中的绝大多数是共和党现任者保住了席位。这些都是共和党占优的赛场，而这一切只是想说，极端主义并不一定消失了，即便其中一部分或许会走上一条更迂回的方向。我认为这件事有意思、即使它是自我安慰或 5D 象棋我们也必须讨论的原因是，2028 年就在眼前。而如果这些团体中的任何一个能够以某种方式动员起来，与否认选举的人联手，并真正被 MAGA 重新激励——如果，很大的如果——2028 年的局面，可能会和民主党希望看到的有所不同。",
+        "en": "Leah Feiger: Of the 476 races that were called by last Friday, we now have more that have been called. It's just been taking everyone a while to kind of pull everything together. 338 of those candidates won, which is a 71 percent win rate. To be clear, the vast majority of these races saw GOP incumbents keep their seats. These were GOP-heavy arenas, which is all just to say though that extremism didn't necessarily go anywhere, even if part of this is perhaps going to be taking a little bit of a winding direction. The reason I think this is interesting, and we have to discuss it at all, even if it is cope or 5D chess, is 2028 is around the corner. And if any of these groups are able to mobilize in any sort of way, link up with election denial folks and actually get re-inspired by MAGA in general, if, big if, 2028 could look a little bit different than Democrats want it to."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：好。在结束这一段之前我只想说，天哪，我对选举中将会发生什么的判断是错的。每次我作为记者有一个大胆看法，结果对我都不好。我很高兴自己不是那种记者，但我只是……该承认还是要承认。那不是我的高光时刻。",
+        "en": "Zoë Schiffer: OK. I'm just going to say before we end this segment that, boy, was I wrong about what was going to happen during the election. Every time I have a hot take as a journalist, it turns out poorly for me. I'm so happy I'm not that kind of journalist, but I just... Credit where credit is due. That was not my moment."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：我想那也不是任何人的高光时刻，而这正是疯狂的地方。我们都说过民主党会表现得相当不错，但我不认为……很少有人预见到我们后来看到的那种多数优势。",
+        "en": "Leah Feiger: I don't think it was anyone's moment, and that's the wild part. We all said Dems are going to do pretty well, but I don't think that... There's very few who had any idea about the majorities that we were looking at."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：好。广告之后是特别版的本周 WIRED/TIRED。不要走开。",
+        "en": "Brian Barrett: All right. Coming up after the break, we have a special edition of WIRED/TIRED this week. Stay with us."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：好。现在是我们的 WIRED/TIRED 环节。凡是新的、酷的就是 WIRED。凡是旧的就是 TIRED，但我们这周做法稍有不同。我们不会分享个人认为本周新鲜、令人兴奋的选择，而是来看看在这个选举后的新格局里，什么似乎正在流行，什么正在过时。谁想先来？",
+        "en": "Leah Feiger: OK. It is time for our WIRED/TIRED segment. Whatever is new and cool is WIRED. Whatever is old is TIRED, but we're doing it a little bit differently this week. Instead of sharing our personal picks for what's new and exciting this week, we're actually going to take a look at what seems to be in and what is out in this new post-election landscape. Who wants to go first?"
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：我来一个。好。那我说正在流行的是海上立国，不过是为了数据中心；除了想把数据中心送上外太空，还有一股由 Peter Thiel 对一家名为 Panthalassa 的公司的大额投资所推动的潮流，想把数据中心放进海里，并用海浪供电。之所以会加速，当然是因为民主党现在掌管了得克萨斯，那是数据中心的热点，也掌管了整个国会。他们大概会通过各种各样的数据中心法案。国内数据中心建设会有一次大回撤，或至少人们在担心这一点。所以把目光投向没人能拦你的海洋。这就是正在流行的。",
+        "en": "Brian Barrett: I'll do one. OK. Well, I'm going to say in is seasteading, but for data centers, in addition to wanting to send data centers to outer space, there's a push led by a big Peter Thiel investment in a company called Panthalassa that wants to put data centers in the ocean and power them by waves. The reason there's an acceleration for this, of course, is that Democrats are now in charge of Texas, which is a data center hotspot, and also all of Congress. They're going to be passing all kinds of data center bills probably. There's going to be a big pullback, or at least people are worried about that, for domestic data center build out. So look to the oceans where no one can stop you. That's in."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：太精彩了。好。我的是 Woke 1 对上 Woke 2。这对你意味着什么吗？你是不是本来也想说这个？好。那我们可以谈谈。我觉得上一场选举有点……不，不。再上一场……等一下，Woke 1 的高峰是在哪？好。所以此前，我觉得 Woke 1 不是最幽默的。感觉右翼把“我们在对权力说真话，我们要拿一切开玩笑”这件事掌握得很熟，而左翼自由派更显得道貌岸然，我想我们可以这么说。选举后我立刻看到的一件事，我称之为 Woke 2 幽默。我想现在其他人也在这么说，这种兴起就像：“我们懂这个玩笑。我们要拿我们喜欢代词、包容和 DEI 来开玩笑，并以一种方式把这条叙事握在自己手里。”我不知道，那天晚上的 X，那天晚上的 Bluesky，我在笑，有一些很不错。",
+        "en": "Zoë Schiffer: Incredible. OK. Mine is Woke 1 versus Woke 2. Does this mean anything to you? Is that what you were going to say? OK. Well, we can talk about it. I feel like last election kind of... No, no. The one before... Wait, where was peak Woke 1? OK. So previously, I feel like Woke 1 was not the most humorous. It felt like the right had the, \"We're speaking truth to power, we're going to make fun of everything,\" thing handled and the left liberals were more sanctimonious, I think we can say. One thing that I saw immediately after the election was, I'm calling it Woke 2 humor. I think other people are saying that now, this rise of like, \"We're in on the joke. We're going to make jokes about how we love pronouns and inclusivity and DEI and own that storyline in a way.\" I don't know, X that night, Bluesky that night, I was laughing, were some good ones."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：太棒了。尽情做自由派正在流行。千禧一代的乐观主义回来了。",
+        "en": "Leah Feiger: So good. Libbing out is in. Millennial optimism is back."
+      },
+      {
+        "t": "p",
+        "zh": "Zoë Schiffer：哇。这真是一份持续送出的礼物。",
+        "en": "Zoë Schiffer: Wow. The gift that keeps on giving."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：所以正在流行的，这一点更偏预测。我觉得这更多是即将到来，而不是我们目前已经在经历的。正在流行的是责怪你的跛脚鸭总统。唐纳德·特朗普正式成了一位跛脚鸭总统，完全被他自己党内的成员、被那些曾团结在他身后、帮他当选的内容创作者群体，挡在了他所有的决策之外。他现在是一只跛脚鸭。我们已经报道过，在同一个内容创作者群体里，其他政客正开始把他推到车轮底下，而这是他们该做的。为了 2028 年，他们需要这样做。这里发生的事情已经毁掉了这么多人的职业生涯，每个人都得从里面爬出来。所以过去几年他没有经历过甩锅游戏，但现在轮到他了，我等不及看这会走向哪里。",
+        "en": "Leah Feiger: So what's in is this is a bit more predictive. I think this is more a to come than we're experiencing so far. What's in is blaming your lame duck president. Donald Trump is officially a lame duck president, entirely shielded from all of his decisions by members of his own party, by members of the content creator community that rallied behind him and helped get him elected. He is now a lame duck. We already reported that people in the same content creator community, that other politicians are starting to throw him under the bus as they should. They need to for 2028. What happened here has tanked so many people's careers and everyone just needs to claw right out of it. So he has spent the last few years not experiencing the blame game, but it's here for him and I can't wait to see where this goes."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：我来说说正在过时的，我要再加一条过时的：你在选举前作为一个首席执行官所持有的那些技术自由意志主义政治观点，大体上都过时了，宣言也过时了……",
+        "en": "Brian Barrett: I'll say what's out, I'm going to add out, is whatever technolibertarian political views you had as a CEO before the election are by and large out, manifestos are out..."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：宣言过时了。我不想再读另一篇 20,000 字的宣言，出自一个 22 岁的技术自由意志主义者，告诉我 Peter Thiel 其实才是应该掌管我周一、周二、周三的那个人。过时了。",
+        "en": "Leah Feiger: Manifestos are out. I don't want to read another 20,000 word manifesto from a technolibertarian 22-year-old that's telling me that Peter Thiel actually is the person who should be in charge of my Monday, Tuesday, Wednesday. Out."
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：它们过时了。取而代之的是，我们看到 Sam Altman 就在选举后发了一条令人愉快的推文，说：“未来应该始终由人来掌控。”我们还看到帕兰蒂尔首席执行官 Alex Karp 说，他一直都是……他认为帕兰蒂尔是进步的技术。",
+        "en": "Brian Barrett: They're out. And instead we have a delightful tweet from Sam Altman just after the election saying, \"People should always be in control of the future.\" And we have Palantir CEO Alex Karp saying that he's always been... He thinks of Palantir as progressive technology."
+      },
+      {
+        "t": "p",
+        "zh": "Leah Feiger：我觉得任何与 ICE 共事的人都很进步。这一向如此，对吧？",
+        "en": "Leah Feiger: I think of anyone that works with ICE as progressive. That's always been the case, right?"
+      },
+      {
+        "t": "p",
+        "zh": "Brian Barrett：对。他们正在朝某个方向进步。对。",
+        "en": "Brian Barrett: Yeah. They're progressing toward something. Yeah."
+      }
+    ]
+  }
+}

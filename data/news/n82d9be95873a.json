@@ -1,0 +1,55 @@
+{
+  "id": "n82d9be95873a",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Muse 可向美国商家拨出电话，但需付费使用",
+  "original_title": "Muse can now place calls to U.S. businesses — if you pay",
+  "summary": "科技媒体报道，Muse 的人工智能现在可以向美国商家拨打外呼电话，不过这项能力需要付费使用，并非对所有用户都免费开放，普通账户无法直接调用，该功能目前面向付费用户开放。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "is_primary": false,
+      "published_at": "2026-11-13T06:22:28+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T06:22:28+08:00",
+  "updated_at": "2026-11-13T06:22:28+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Muse 可向美国商家拨出电话，但需付费使用",
+  "lead_zh": "TechCrunch 报道，Muse 的人工智能现已可以向美国商家拨打外呼电话，不过这项能力不是免费功能。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 报道，Meta 面向消费者的智能体 Muse 在 9 月小范围测试之后，现在已经可以向美国商家拨打外呼电话，但只有付费订阅用户才能使用。该公司上月曾表示，Muse 用户已超过 **1000 万**。目前订阅起步价为每月 **20 美元**，每周提供 5 亿个词元；用量更大的用户可以每月支付 **100 美元**，获得 30 亿个词元。",
+        "此前只有一部分早期用户在主动申请后才能试用这一功能，现在所有付费用户都可以提出此类请求。能够代用户给商家打电话的，并不只有 Muse，创业公司 Instinct 以及谷歌的 Gemini 也提供类似选项。Meta 首席人工智能官 Alexandr Wang 还表示，近期新增的 Muse 电子邮箱功能很快会向免费用户开放。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据 Alexandr Wang 介绍，这项功能可以用来代劳人们不太想打的电话，例如联系有线电视公司、车管所，或给不提供在线订位的餐厅打电话。报道同时指出，许多商家和前台一旦发现对方不是真人，就会挂断人工智能打来的电话，但随着合成语音更接近真人，分辨也会变得更困难。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/8e145d9fb51ccf4eda877b1b28d0287c2f1980fb.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

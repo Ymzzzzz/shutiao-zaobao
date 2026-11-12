@@ -1,0 +1,55 @@
+{
+  "id": "nc8c5dc29297d",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "用 CUR 2.0 和 AWS Budgets 按身份限制 Bedrock 花费",
+  "original_title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+  "summary": "亚马逊介绍如何只用云上原生功能，按 IAM 主体追踪并限制 Amazon Bedrock 花费：用身份标签归集成本，再结合 CUR 2.0 和 AWS Budgets 设置可执行的额度上限。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/",
+      "is_primary": true,
+      "published_at": "2026-11-13T03:29:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T03:29:55+08:00",
+  "updated_at": "2026-11-13T03:29:55+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "用 CUR 2.0 和 AWS Budgets 按身份限制 Bedrock 花费",
+  "lead_zh": "亚马逊介绍如何仅用原生功能、在常见情形下无需改应用代码，按 IAM 主体追踪并限制 Amazon Bedrock 花费，通过身份标签归集成本。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "文章讲了什么",
+      "paras": [
+        "亚马逊云科技发文介绍，如何只用原生功能，按身份看清并限制 Amazon Bedrock 花费，常见情况下不必另写应用代码。做法分成三步：用 IAM 主体归因、用 CUR 2.0 或 Cost Explorer 做报表，再用 AWS Budgets 的预算行动在超过阈值时施加拒绝策略。",
+        "文中称，Bedrock 会自动记录每次推理请求的 IAM 用户或角色，无需改调用代码。多人共用同一角色时，可在扮演角色时传入会话标签；若每人各有角色，角色上的主体标签即可。新标签键最多可能要 **24** 小时才出现在可激活列表，激活后再最多 **24** 小时才会进入账单数据。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "和此前方案的对比",
+      "paras": [
+        "作者回顾，此前介绍过 Jamf 基于 IAM Identity Center、Athena 查询调用日志和 Lambda 的近实时自定义管控，但需要自行运维代码。本文方案面向常见场景，强调先得到按人的费用报表，再设置自动护栏，在花费越过阈值时限制对该服务的访问。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/596ed509efcea772db46c0af53ed6abab2d52d99.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-21962-featured-image-2.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "nb5b1e8f149e4",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "Ars Technica 将直播讨论数据中心遇袭对云服务的影响",
+  "original_title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+  "summary": "Ars Technica 预告将在 11 月 17 日东部时间下午 1 点举行一场直播讨论，主题是针对数据中心的无人机袭击，可能对当代云服务和日常生活意味着什么。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "is_primary": false,
+      "published_at": "2026-11-13T03:59:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T03:59:59+08:00",
+  "updated_at": "2026-11-13T03:59:59+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Ars Technica 将直播讨论数据中心遇袭对云服务的影响",
+  "lead_zh": "Ars Technica 预告将在 11 月 17 日东部时间下午 1 点直播讨论，主题是无人机袭击数据中心对当代云生活意味着什么。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Ars Technica 预告将在 **11** 月 **17** 日东部时间下午 **1** 点举行直播讨论，标题为“无人机袭击与数据中心：科技巨头的新风险”，可在 YouTube 观看，并将接受部分观众提问。",
+        "文章称，今年针对东欧和中东数据中心的无人机与导弹袭击已造成前所未有的破坏，使数百万人的云服务中断，并导致部分亚马逊云科技客户数据被永久删除。主持者将与英国皇家联合军种研究所高级研究员 Joseph Jarnecki 对谈，对方负责该机构关于云服务如何进入国家安全、防务及技术主权议题的研究。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "讨论会谈什么",
+      "paras": [
+        "据该文介绍，Jarnecki 曾研究乌克兰如何在全面入侵初期面对网络与实体攻击时，借助西方伙伴加强云韧性，并撰文讨论伊朗对中东亚马逊数据中心的打击，以及俄乌互袭对方数据中心的影响。对话将探讨数据中心为何更常成为军事目标、加固是否可行，以及战时云韧性与选址选择。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/808d748d677beaa78e3883d30b7ad3d74926eace.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

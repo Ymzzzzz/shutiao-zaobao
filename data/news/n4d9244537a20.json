@@ -1,0 +1,55 @@
+{
+  "id": "n4d9244537a20",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "外媒称谷歌新轻量模型基准已接近更大的同系列型号",
+  "original_title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+  "summary": "The Decoder 称，谷歌的 Gemini 4 Hydrogen 将取代 Flash 系列；在独立评测指数 Artificial Analysis Intelligence Index 上，它的表现已接近定价更高、规模更大的 Argon。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+      "is_primary": false,
+      "published_at": "2026-11-13T03:58:43+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T03:58:43+08:00",
+  "updated_at": "2026-11-13T03:58:43+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "外媒称谷歌新轻量模型基准已接近更大的同系列型号",
+  "lead_zh": "外媒称，谷歌新发布的轻量模型将取代此前的快速系列，独立评测指数显示其表现已接近定价更高的更大型号。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder 报道，谷歌发布面向开发者和日常用户的通用模型 Gemini 4 Hydrogen，用来快速、低成本地处理日常任务，相当于此前 Flash 系列的定位。它提供低、中、高（默认）和新增最高档四档思考深度，输入和输出上下文均可达到 **100 万** 词元，定价为输入每百万词元 **1.50 美元**、输出每百万词元 **7.50 美元**，缓存命中为 **0.075 美元**。",
+        "谷歌称，在独立评测指数 Artificial Analysis Intelligence Index 上，Hydrogen 默认高档得分为 **51**，超过更大的 Argon 的 **50**，最高档可达 **54**。The Decoder 据此认为，它可能既更强又更便宜，使谷歌两天前还建议日常编程继续使用 Argon 的说法很快过时。Hydrogen 已在全球多条产品线推出。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "评测怎么说",
+      "paras": [
+        "据独立机构 Artificial Analysis 的评测，Hydrogen 在最高档上大致与 Claude Sonnet 5.5 相当；默认高档 **51** 分略低于 GPT-6.1 Sol 和 Claude Opus 5.5 的 **52** 分。其知识评测编造率为 **8%**，但在终端智能体任务上较弱。按该机构估算，最高档每项任务成本约 **3.16 美元**，约为同智力水平下 Sonnet 5.5 的三分之一，但又大约是 GPT-6.1 Sol 的 **2.5 倍**。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/b3adc2f3cd6a183aaa029d09def2cdfc377eefce.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/gemini_hydrogen_AA.jpeg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

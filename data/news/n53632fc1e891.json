@@ -1,0 +1,55 @@
+{
+  "id": "n53632fc1e891",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "WIRED：黄仁勋未将继任者列入科技界最有权势女性",
+  "original_title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+  "summary": "《连线》写道，该刊近期调查探讨了科技行业女性“权力”的复杂定义，而黄仁勋的相关表态显得有些盲区，因为他并未把自己的继任者列为最有权势的女性之一，文章认为这暴露出他对女性权力的理解仍有局限。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+      "is_primary": false,
+      "published_at": "2026-11-13T04:35:11+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T04:35:11+08:00",
+  "updated_at": "2026-11-13T04:35:11+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "WIRED：黄仁勋未将继任者列入科技界最有权势女性",
+  "lead_zh": "WIRED 写道，黄仁勋的表态反映出他对行业女性“权力”定义的盲区，并未把自己的继任者列为科技界最有权势的女性之一。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED 写道，英伟达新任临时首席执行官 Colette Kress，此刻已是科技行业最有权势的女性之一，但她的前任黄仁勋在不久前回应该刊提问时，并没有提到她。今年秋初，WIRED 曾刊发一篇关于科技行业女性“权力”的特稿，列举了 Lisa Su、Gwynne Shotwell、Laurene Powell Jobs 等多人，当时仍任首席财务官的 Kress 也在文中被提及。",
+        "作为报道的一部分，该刊直接发邮件询问黄仁勋的看法。他回复说，想到的是 Meta 的 Dina Powell 和谷歌的 Ruth Porat，因为“在华盛顿能见到她们”；经再追问后，他也认同 SpaceX 总裁兼首席运营官 Shotwell 十分出色。但他没有提到自己公司里职位最高的女性高管，而 Kress 几乎每次季度财报电话会都与他一同出席。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "文章怎么看",
+      "paras": [
+        "WIRED 认为，以任何标准衡量，作为全球最有价值公司之一的首席财务官，Kress 都已是科技界最有权势的女性之一；如今她在行业最动荡的时刻临时代理首席执行官，其决定会影响科技、地缘政治和更广泛的经济。报道还写道，无论这一任命是否转为长期，她此次被黄仁勋“遗漏”，只是一长串判断失误中的一次。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/89c3e6e99f63785acb109b8d2d08179ed3cc91dd.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6af5df9b506e35cfaae88b85/master/pass/111226-Jensen%20Power%20Women%20tech.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

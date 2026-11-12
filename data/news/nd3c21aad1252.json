@@ -1,0 +1,56 @@
+{
+  "id": "nd3c21aad1252",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Nectar 推出智能体，帮品牌自动发现和联系创作者",
+  "original_title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+  "summary": "科技媒体报道，Nectar 新推出一款人工智能智能体，用于自动化红人营销：帮助品牌发现创作者、管理对外联系与合作，并跟踪整场营销活动的效果，该产品面向需要规模化做创作者营销的品牌。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "is_primary": false,
+      "published_at": "2026-11-13T03:11:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T03:11:00+08:00",
+  "updated_at": "2026-11-13T03:11:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Nectar 推出智能体，帮品牌自动发现和联系创作者",
+  "lead_zh": "TechCrunch 报道，Nectar 新推出的人工智能智能体可自动完成红人营销，帮助品牌发现创作者、管理触达与合作，并跟踪活动效果。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 报道，营销操作系统公司 Nectar 周四推出名为 Creator Agent 的智能体，用于自动完成红人营销中的大量人工环节，包括寻找创作者、联系对方、管理合作并跟踪效果。该公司由曾在 Meta 任职的姐妹 Misbah 与 Farah Uraizee 创立，去年走出隐身期。该智能体即日起在全球可用，目前覆盖 Instagram 和 TikTok 创作者。",
+        "Nectar 称，它会在超过 **3 亿**个创作者档案中搜索潜在合作对象，包括粉丝量尚不大但正在上升的中小创作者；系统会分析视频内容、既有品牌合作，并结合上下文做品牌安全检查，而不只是搜索关键词。匹配后，智能体可以按品牌口吻起草并发送信息，生成收集创作者资料的落地页，并协助管理合同、寄样和物流。",
+        "美国互动广告局预计，2026 年美国创作者广告支出将达到 **440 亿美元**。Nectar 还计划通过模型上下文协议开放该智能体，让团队在 Claude、ChatGPT、Gemini 或自建智能体中调用。今年 5 月，该公司完成由 Menlo Ventures 及其与 Anthropic 联合发起的基金领投的 **3000 万美元** A 轮融资。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据首席执行官 Misbah Uraizee 对 TechCrunch 表示，品牌可以用任意形式提供声音和语气规范，系统会结合历史记录补全其余部分，并用自有护栏保证草稿语气和语境合适；它能区分在 X 上引用帖文和在 TikTok 评论区发言，避免品牌在不同场景里用同一套腔调。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/2550c34098f437cc3be6f514eeb1a28413580919.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

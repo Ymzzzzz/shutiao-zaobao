@@ -1,0 +1,46 @@
+{
+  "id": "nc88537f3a56d",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic 推出可加入视频会议的 Claude 功能",
+  "original_title": "Claude Meetings lets Anthropic's AI join your video calls",
+  "summary": "The Decoder 报道，Anthropic 推出 Claude Meetings，可直接加入 Google Meet 会议，并实时生成文档、白板和会议记录；该功能先以测试版向 Team 用户开放。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+      "is_primary": false,
+      "published_at": "2026-11-13T04:26:50+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T04:26:50+08:00",
+  "updated_at": "2026-11-13T04:26:50+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic 推出可加入视频会议的 Claude 功能",
+  "lead_zh": "外媒报道，Anthropic 让其对话模型直接加入谷歌会议，能实时生成文档、白板和会议记录，该功能先向团队版用户开放测试。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder 报道，Anthropic 推出 Claude Meetings，让 Claude 以可见参与者的身份加入视频会议。通话过程中，它能回答问题、生成文档和白板，并记录笔记与待办事项；默认以文字回应，在获得许可后也可调用已连接的工具。",
+        "会议结束后，Claude 生成的笔记、转写和文档会放在 claude.ai 的专门页面上。默认的隐私设置会阻止它加入有外部参与者的通话。该功能目前以测试版向 Team 和 Enterprise 方案开放，眼下只支持 Google Meet，Anthropic 称后续还会接入更多平台。",
+        "采用 HIPAA 合规或由客户自行管理加密配置的机构，目前还不能使用这一功能。报道认为，它是对近期已经宣布的白板和数据看板等能力的延伸，使 Claude 应用进一步靠近一体化办公工具。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/1d1b0b9d3d907bdcf5259986d322d499f0e51a00.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

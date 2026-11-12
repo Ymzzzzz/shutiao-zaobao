@@ -1,0 +1,55 @@
+{
+  "id": "n8af226d2b9f4",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌称新 Gemini 模型更擅长理解复杂搜索问题",
+  "original_title": "Google’s new Gemini model is better at understanding complicated questions",
+  "summary": "The Verge 报道，谷歌称新模型 Gemini 4 Hydrogen 能对复杂问题给出更有帮助的回答，包括包含多个部分的问题、难以辨认的拼写错误，以及非常具体的请求。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "is_primary": false,
+      "published_at": "2026-11-13T05:55:32+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T05:55:32+08:00",
+  "updated_at": "2026-11-13T05:55:32+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌称新 Gemini 模型更擅长理解复杂搜索问题",
+  "lead_zh": "The Verge 报道，谷歌称 Gemini 4 Hydrogen 能对复杂问题给出更有帮助的回答，包括多部分问题、难辨拼写错误和非常具体的请求。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge 报道，谷歌新模型 Gemini 4 Hydrogen 即日起可用于搜索、Gemini 应用、Google AI Studio 的各个层级、Gemini 编程接口、面向企业的 Gemini，以及 Google AI Pro 和 Ultra 订阅用户的 Antigravity。谷歌搜索产品副总裁 Robby Stein 表示，它已成为 AI Mode 的默认模型，并被用于 AI Overviews 中较难的问题。",
+        "谷歌介绍，新模型可以把复杂问题拆开，并逐项作出回应，还能通过同时查询相关子主题，在答复中给出更广的链接，以及图片、对比表格、图表和地图等更丰富的可视化内容。它同样提供低、中、高和新增的最高思考档可选。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "谷歌怎么说",
+      "paras": [
+        "据谷歌称，Hydrogen 能对包含多个部分、难以辨认的拼写错误或非常具体的请求给出更有帮助的回答，并在其 AI Mode 目前支持的所有语言中提升了语言理解。谷歌还表示，相较上一款快速模型，它在速度和智力上都有明显提升，并且达到或超过同级别的部分竞品，报道中点名了 Claude Sonnet 5.5 和 GPT-6.1 Terra。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/709f3df39f7504a8e4b73b28ae4f4c408efa4b1f.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

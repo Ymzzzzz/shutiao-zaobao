@@ -1,0 +1,55 @@
+{
+  "id": "n3903c89c61e5",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋离职后，英伟达对开源的支持前景引关注",
+  "original_title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+  "summary": "TechCrunch 称，黄仁勋辞职后，外界开始追问英伟达是否还会坚持对开源人工智能的支持，范围包括对 Hugging Face 的收购、开放权重模型，以及反对相关限制的立场。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "is_primary": false,
+      "published_at": "2026-11-13T02:39:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-13T02:39:23+08:00",
+  "updated_at": "2026-11-13T02:39:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋离职后，英伟达对开源的支持前景引关注",
+  "lead_zh": "TechCrunch 称，黄仁勋辞职后，外界开始追问英伟达是否还会坚持对开源人工智能的支持，包括收购 Hugging Face、开放权重模型以及反对限制的立场。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch 报道，英伟达首席执行官黄仁勋周四辞职后，外界开始追问公司是否还会继续支持开源人工智能。黄仁勋一直公开主张开源有利于安全、创新、扩散和主权。与此同时，英伟达拟以 **130 亿美元**收购开源平台 Hugging Face 的交易尚未敲定；公司还同意支付 **60 亿美元**，获得开源编程创业公司 Poolside 技术的非独占许可。",
+        "在公司内部，黄仁勋推动了面向长程智能体和推理任务的开放权重模型系列 Nemotron。他今年还曾起草一封有微软、Meta、IBM、帕兰蒂尔等 **25** 家公司联署的公开信，呼吁美国政府不要过度限制开放权重模型。英伟达已任命首席财务官 Colette Kress 为临时首席执行官。TechCrunch 已向英伟达求证，但文中未给出公司回复。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "Hugging Face 首席执行官 Clem Delangue 在社交媒体上表示，无论接下来发生什么，公司都会继续为开源而努力。一名英伟达内部人士对 TechCrunch 说，不认为领导层更迭会影响 Nemotron 的研发。报道认为，对开源社区来说，担忧在于继任者会更加谨慎；但支持开源也越来越关乎英伟达的生意，因为部分大客户已在自研芯片，公司需要更广泛的开发者和客户生态。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/378d2750e001b484fb69d40f2be39ee04aa66b0a.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
