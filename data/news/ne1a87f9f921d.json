@@ -1,0 +1,71 @@
+{
+  "id": "ne1a87f9f921d",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI向北约和部分欧洲政府开放网络安全工具Daybreak",
+  "original_title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+  "summary": "据The Decoder报道，OpenAI向北约以及德国、法国、波兰等欧洲政府开放网络安全工具Daybreak。欧盟网络安全机构ENISA已经用它发现了真实漏洞。",
+  "facts": [
+    {
+      "text": "据The Decoder报道，OpenAI向北约以及德国、法国、波兰等欧洲政府开放网络安全工具Daybreak。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/"
+    },
+    {
+      "text": "报道称，欧盟网络安全机构ENISA已用相关模型发现欧盟机构所用软件中的真实漏洞。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据北约通信与信息局称，该机构已经在大量使用其底层模型。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+      "is_primary": false,
+      "published_at": "2026-11-17T23:02:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T23:02:03+08:00",
+  "updated_at": "2026-11-17T23:02:03+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI向北约和部分欧洲政府开放网络安全工具Daybreak",
+  "lead_zh": "据The Decoder报道，OpenAI向北约及德国、法国、波兰等欧洲政府开放网络安全工具Daybreak，欧盟网络机构ENISA已用它发现真实漏洞。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Decoder报道，OpenAI正向北约以及德国、法国、波兰等欧洲政府开放网络安全工具Daybreak，供网络防御团队用其模型审计软件、发现漏洞并修补安全缺口。报道称，欧盟网络安全机构ENISA已用相关模型，在欧盟机构使用的软件中发现**4**个漏洞；该机构与CERT-EU的联合报告检查了**27**个软件项目，所报告**88**个问题中有**95%**被确认为真实缺陷。波兰CERT Polska还在MikroTik路由器中发现**6**个正被利用的漏洞，乌克兰则用该工具保护民用基础设施。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "北约通信与信息局称，已经在大量使用其底层模型。该机构负责人Dylan Browne称之为网络防御的一代飞跃。报道还提到，在北约**2026**年「交叉剑」演习中，参演人员首次在人工监督下部署人工智能智能体开展网络行动。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/a5f47e91e6c711f105742a01b5b07c9afd438f64.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/10/russian_influence_campaigns.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

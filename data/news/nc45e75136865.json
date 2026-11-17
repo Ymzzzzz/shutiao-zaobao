@@ -1,0 +1,71 @@
+{
+  "id": "nc45e75136865",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "有报道称OpenAI希望用智能体代填医疗表单和保险申请",
+  "original_title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+  "summary": "据The Decoder报道，OpenAI希望通过能够操作现有诊所软件和保险门户的计算机使用智能体，用GPT-6 Astra和GPT-6 Luna自动处理美国医疗行政事务。",
+  "facts": [
+    {
+      "text": "据The Decoder报道，OpenAI希望用GPT-6 Astra和GPT-6 Luna，通过可操作现有诊所软件和保险门户的计算机使用智能体，自动处理美国医疗行政事务。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/"
+    },
+    {
+      "text": "报道称CVS Health和Cigna Healthcare已经在部署相关技术。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，GPT-6 Luna处理事前授权等行政任务的费用约为每项8.5美分，医生评审认为325项任务中99%在临床上是安全的。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
+      "is_primary": false,
+      "published_at": "2026-11-18T00:55:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T00:55:47+08:00",
+  "updated_at": "2026-11-18T00:55:47+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "有报道称OpenAI希望用智能体代填医疗表单和保险申请",
+  "lead_zh": "据The Decoder报道，OpenAI希望用可操作现有诊所软件和保险门户的计算机使用智能体，自动处理美国医疗行政事务。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Decoder报道，OpenAI希望用GPT-6 Astra和GPT-6 Luna，通过可像人一样点击、输入并操作现有诊所软件和保险门户的计算机使用智能体，自动处理美国医疗行政事务。相关智能体已于**9**月下旬接入Agents API，用于在电子病历和外部网页门户之间传递数据。报道称，CVS Health和Cigna Healthcare已经在部署这项技术。功能还可通过面向医疗和临床人员的ChatGPT提供。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI称，当患者主诉背痛时，智能体应检索既往发现，起草核磁共振申请和给患者的回复，并在保险公司门户准备事前授权，但草稿需由临床和行政人员审阅后再发出。GPT-6 Luna处理此类行政任务的费用约为每项**8.5**美分。在一项官方介绍的评测中，医生评审认为**325**项任务里**99%**在临床上是安全的，在**646**次审阅中有**93%**认为准备工作非常或极其有帮助。斯坦福研究者的HealthAdminBench基准上，Astra得到可能分数的**94.3%**，Luna为**91.8%**。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/d1951d482bceced91cbfd82301473b7d7ea1c6cf.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/openai_healthcare_agents.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "n48c463046560",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "Pedestal AI获得470万美元融资，用智能体改造供应链",
+  "original_title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+  "summary": "Pedestal AI获得470万美元融资。该公司表示，其利用智能体技术提升供应链的速度和可靠性，希望让相关流程更快、更稳定，减少延误和异常。公司希望据此拓展客户。",
+  "facts": [
+    {
+      "text": "Pedestal AI周二宣布完成470万美元种子轮融资，由Eclipse领投。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
+    },
+    {
+      "text": "公司称将利用智能体技术提升供应链速度和可靠性，并已与《财富》500强及大型航运公司合作。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该公司称，曾为一家大型家具企业部署智能体，使漏送率降低20%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "is_primary": false,
+      "published_at": "2026-11-18T02:04:16+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T02:04:16+08:00",
+  "updated_at": "2026-11-18T02:04:16+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Pedestal AI获得470万美元融资，用智能体改造供应链",
+  "lead_zh": "Pedestal AI获得470万美元融资，公司称其利用智能体技术提升供应链速度和可靠性。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch报道，Pedestal AI周二宣布结束隐匿期并完成**470**万美元种子轮融资，由Eclipse领投，RRE、Converge VC、Timescale Ventures和VitalStage参与。该公司希望用智能体提升供应链速度和可靠性，并称已与《财富》**500**强企业及一些全球大型航运公司合作。公司表示，资金将用于扩大产品和工程投入、壮大市场团队，并支持更多部署。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "该公司举例称，曾为一家大型家具企业部署智能体，分担司机原应完成的部分工作，使漏送率降低**20%**：系统会在送达前**30**分钟致电客户收集特殊说明，电话未接通则由另一系统发送短信，并沿途收集流程中的摩擦数据以便继续优化。首席执行官Raj Aggarwal对该媒体表示，相关数据既杂乱又不断变化，且分散在许多老旧系统中，这正是难点所在。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/d63b6c44309c2efd56544549bb7214f3f0e6c7e8.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Pedestal-Cofounders-Photo-November-2026.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

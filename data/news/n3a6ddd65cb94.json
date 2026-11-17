@@ -1,0 +1,71 @@
+{
+  "id": "n3a6ddd65cb94",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊云科技介绍Bedrock智能体对接Snowflake的三种登录方式",
+  "original_title": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+  "summary": "亚马逊云科技撰文测试了在Bedrock AgentCore上运行的智能体通过MCP调用Snowflake Cortex AI时的认证问题，并介绍了在AgentCore Identity上验证过的三种OAuth模式。",
+  "facts": [
+    {
+      "text": "亚马逊云科技撰文介绍，在Amazon Bedrock AgentCore上运行的智能体通过模型上下文协议调用Snowflake Cortex AI时，应如何完成认证。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/"
+    },
+    {
+      "text": "文章在AgentCore Identity上实际测试了三种OAuth模式。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊云科技称，三种模式分别是无需外部身份提供商的Snowflake OAuth、借助企业单点登录的三方授权，以及使用共享服务账号的两方授权。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/",
+      "is_primary": true,
+      "published_at": "2026-11-18T04:25:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T04:25:23+08:00",
+  "updated_at": "2026-11-18T04:25:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊云介绍Bedrock智能体对接Snowflake的登录方式",
+  "lead_zh": "亚马逊云科技撰文，测试了其智能体开发平台在调用外部数据服务时如何安全登录，并介绍了三种经过验证的授权模式。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技撰文讨论，当运行在Amazon Bedrock AgentCore上的智能体，通过模型上下文协议调用Snowflake托管的MCP服务器、使用Cortex AI相关能力时，应如何完成认证。文章以AgentCore Identity作为凭证中介，并实际测试了三种开放授权配置，供企业按身份、审计和合规需求选择。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据亚马逊云科技称，三种模式分别是：由Snowflake自身作为授权服务器、按用户认证且无需外部身份提供商的Snowflake OAuth；借助企业单点登录的三方授权；以及使用共享服务账号的两方授权。该公司还提到，该平台另支持代表用户授权，可在无人值守任务中传递按用户身份且不必弹出同意提示。测试使用了Okta和Microsoft Entra ID。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/940c89f39cc5c12c77619cf0aedf3ed7cc759c9f.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-21095-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

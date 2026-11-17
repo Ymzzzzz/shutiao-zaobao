@@ -1,0 +1,71 @@
+{
+  "id": "ne07c9a1525f2",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "论文提醒评估多智能体时不要把协调和算力混在一起",
+  "original_title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+  "summary": "一篇新论文指出，现有多智能体评估常把会相互沟通的架构与单次贪心推理对比，这种做法会把协调效果与采样次数、推理算力混在一起，难以单独看清真正起作用的因素。作者呼吁把这些因素分开衡量。",
+  "facts": [
+    {
+      "text": "一篇论文指出，现有多智能体评估常把会相互沟通的架构与单次贪心推理对比，从而把协调效果和采样次数、推理算力混在一起。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.17610"
+    },
+    {
+      "text": "作者综合了9项主要实证评估、516种多智能体配置。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.17610"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据论文称，在按样本数或资源预算对齐的对照中，多智能体系统的准确率平均低0.042，且74%的可比对照中不高于基线。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.17610"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.17610",
+      "is_primary": true,
+      "published_at": "2026-11-17T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T08:00:00+08:00",
+  "updated_at": "2026-11-17T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "论文提醒评估多智能体时不要把协调和算力混在一起",
+  "lead_zh": "一篇新论文指出，现有多智能体评估常把会沟通的架构与单次贪心推理对比，从而把协作效果和采样次数、推理算力混为一谈。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "一篇新论文指出，现有针对多智能体语言模型的评估，常常把会相互沟通的架构与单次贪心推理对比，这种做法会把协调效果与采样次数、推理算力混在一起。作者综合了**9**项主要实证评估，涵盖**516**种多智能体配置，并按一个六维资源向量和四类基线阶梯重新组织比较，呼吁把这些因素分开衡量。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据论文称，与单次推理的基线相比，多智能体的准确率差异总体为负；在按样本数或资源预算对齐的对照中，准确率平均低**0.042**，且有**74%**的可比对照中多智能体不高于基线。作者还发现，把基线从贪心一次改为带采样后，准确率差异平均再移动**-0.038**。他们认为，在智能体共享相同证据时，相互沟通并不会增加信息，要产生正收益，需要分割证据、引入外部校验，或让不同模型的错误具有多样性。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/2b6566df2fc6c0fb64ce8e65445f923d69c962a5.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.17610.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

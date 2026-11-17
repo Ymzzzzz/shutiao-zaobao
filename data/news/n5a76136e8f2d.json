@@ -1,0 +1,71 @@
+{
+  "id": "n5a76136e8f2d",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "美国拟堵住海外租用人工智能算力漏洞，中国已另建供应体系",
+  "original_title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+  "summary": "据The Decoder报道，美国正收紧芯片出口管制，新加坡和马来西亚等地数据中心购买英伟达芯片也将需要许可，以堵住中国企业在海外租用人工智能算力的漏洞。相关规则正在收紧。",
+  "facts": [
+    {
+      "text": "据The Decoder报道，美国商务部工业与安全局拟以临时规则收紧芯片出口管制，新加坡、马来西亚等地数据中心购买先进人工智能芯片也将需要美国许可。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/"
+    },
+    {
+      "text": "报道称，消息公布后英伟达股价一度下跌最多2.9%。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据The Decoder称，申请将逐案审查；美国总部公司的子公司，以及只运行商业推荐系统的数据中心可豁免许可。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
+      "is_primary": false,
+      "published_at": "2026-11-18T00:47:21+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T00:47:21+08:00",
+  "updated_at": "2026-11-18T00:47:21+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "美国拟堵住海外租用人工智能算力的漏洞",
+  "lead_zh": "据The Decoder报道，美国正收紧芯片出口管制，新加坡和马来西亚等地数据中心购买英伟达芯片也将需要许可，以堵住租用海外算力的漏洞。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Decoder报道，美国商务部工业与安全局拟以一项临时规则，把远程访问限制与已有的实物出口禁令对齐，以堵住中国企业在海外租用人工智能算力的漏洞。报道援引彭博社称，新加坡、马来西亚、泰国、印度尼西亚和巴西的数据中心运营商，今后向英伟达等美国厂商购买先进人工智能芯片将需要美国政府许可，申请将逐案审查。规则将在联邦公报公布后生效。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "报道称，美国总部公司的子公司可豁免许可，只运行面向电商或社交媒体商业推荐系统的数据中心也可豁免。消息公布后，英伟达股价一度下跌最多**2.9%**，费城半导体指数最多下跌**5.5%**。该媒体还提到，这一规则出台正值英伟达前首席执行官黄仁勋去职风波之后；特朗普周一曾表示，黄仁勋并未损害国家安全。报道并援引路透社调查称，中国还通过对美国人工智能模型进行工业规模的蒸馏，来弥补硬件短缺。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/ecdd7f8d5c943ad040b4b633257cd6ea5656c14f.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/03/Datacenter-Remote.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

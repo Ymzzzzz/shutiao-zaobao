@@ -1,0 +1,117 @@
+{
+  "id": "n6755813e5cbe",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "Science Corporation完成4亿美元D轮融资，估值达35亿美元",
+  "original_title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+  "summary": "前Neuralink总裁Max Hodak创立的脑机接口公司Science Corporation完成4亿美元D轮融资。知情人士向TechCrunch表示，投资方给出的估值为35亿美元，资金将用于扩大其助视业务。",
+  "facts": [
+    {
+      "text": "Science Corporation宣布完成4亿美元D轮融资，知情人士称估值为35亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    },
+    {
+      "text": "其首款产品PRIMA已在欧洲获批，并在德国上市，用于帮助部分黄斑变性患者恢复部分视力。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "is_primary": false,
+      "published_at": "2026-11-17T22:26:46+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T22:26:46+08:00",
+  "updated_at": "2026-11-17T22:26:46+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Science Corporation完成4亿美元D轮，估值35亿美元",
+  "lead_zh": "前脑机接口公司总裁创立的医疗科技企业完成4亿美元D轮融资，知情人士称投资方给出的估值为35亿美元，资金将用于扩大助视业务。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "前Neuralink总裁Max Hodak于2021年创立的医疗科技公司Science Corporation宣布完成**4**亿美元D轮融资。一位知情人士告诉TechCrunch，投资方给出的估值为**35**亿美元。参与方包括Khosla Ventures、Ackman Oxman Institute、Tenet Healthcare、885 Capital、Y Combinator和PLC Neurotech。",
+        "公司首款产品PRIMA是一套可穿戴并植入的芯片，帮助年龄相关性黄斑变性患者恢复部分视力，已在欧洲获批并在德国上市，同时仍在针对新适应症进行试验。Hodak在TechCrunch Disrupt上宣布，该设备已开始用于另一种致盲疾病Stargardt病的试验。公司还希望通过美国食品药品管理局的人道主义器械豁免，把该设备推向美国。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "公司创始人称，设立这家企业是为了利用新技术理解并与大脑交互。公司更长期的目标是用培养神经元与硅芯片组合的生物混合传感器直接连接人脑，目前正与耶鲁大学神经外科教授Murat Günel一起设计初步人体试验。该教授称，该装置可能为帕金森病以及其他脑损伤和疾病提供潜在治疗手段。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/41df7f03801cccd418dd6fa9ab88ad109dd95548.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+  "fulltext_status": "ok",
+  "read_minutes": 2,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Tim Fernholz",
+    "author_title_zh": "",
+    "published_at": "2026-11-17",
+    "title_en": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+    "title_zh": "Science Corporation的脑机技术在新一轮融资后估值达35亿美元",
+    "dek_en": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+    "dek_zh": "Science Corp.完成4亿美元D轮融资，以扩大其对抗失明的业务。",
+    "word_count_zh": 489,
+    "read_minutes": 2,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "由前Neuralink总裁Max Hodak于2021年创立的医疗科技创业公司Science Corporation在一篇博文中表示，已完成4亿美元D轮融资。",
+        "en": "Science Corporation, the medical technology startup founded by former Neuralink president Max Hodak in 2021, raised a $400 million Series D, the company said in a blog post."
+      },
+      {
+        "t": "p",
+        "zh": "一名知情人士告诉TechCrunch，本轮投资者对该公司的估值为35亿美元。这些出资方包括Khosla Ventures、Ackman Oxman Institute、Tenet Healthcare、885 Capital、Y Combinator和PLC Neurotech。",
+        "en": "Investors in the new round valued the company at $3.5 billion, a person familiar with the deal told TechCrunch. Those backers included Khosla Ventures, the Ackman Oxman Institute, Tenet Healthcare, 885 Capital, Y Combinator, and PLC Neurotech."
+      },
+      {
+        "t": "p",
+        "zh": "Hodak曾在大学时期说服别人让自己进入一个研究生神经科学实验室，此后一直致力于生物技术，他共同创办Science，是为了利用新技术来理解和与大脑互动。",
+        "en": "Hodak, who talked his way into a graduate neuroscience lab as a college student and has pursued biotechnology ever since, co-founded Science to leverage new technologies to understand and interact with the brain."
+      },
+      {
+        "t": "p",
+        "zh": "Science的首款产品是PRIMA，一种可穿戴并植入的芯片，帮助年龄相关性黄斑变性患者恢复部分视力。该设备已在欧洲获批，并在德国上市，同时也在就新的适应证进行试验。",
+        "en": "Science’s first product is PRIMA, a wearable and implantable chip that helps people with age-related macular degeneration recover some vision. The device is approved in Europe and available in Germany, as well as being trialed for new conditions."
+      },
+      {
+        "t": "p",
+        "zh": "Hodak在TechCrunch Disrupt的舞台上宣布，该设备现在也在针对另一种会导致失明的疾病Stargardt病患者进行试验。",
+        "en": "Hodak announced that the device is now being trialed for patients with another blindness-causing condition, Stargardt disease, while onstage at TechCrunch Disrupt."
+      },
+      {
+        "t": "p",
+        "zh": "借助这笔资金，公司希望通过FDA的人道主义器械豁免把该设备带到美国，该路径允许实验性医疗技术用于治疗罕见病。Science已说服FDA，双眼的晚期黄斑变性足够少见，因而可以申请批准在美国患者身上使用该设备。",
+        "en": "With the funding, the company aims to bring the device to the United States through the FDA’s Humanitarian Device Exemption, which lets experimental medical technology be used to treat rare conditions. Science has convinced the FDA that advanced macular degeneration in both eyes is uncommon enough to let them seek approval to use the device on people in the U.S."
+      },
+      {
+        "t": "p",
+        "zh": "不过，这家创业公司更大的抱负和创立初衷，是通过由培养的神经元与硅组合而成的生物混合传感器，直接连接人脑。公司目前正与耶鲁大学神经外科教授Murat Günel一起设计该设备的初始人体试验，Günel告诉TechCrunch，它可能为帕金森病以及其他脑损伤和疾病提供潜在治疗。",
+        "en": "Still, the startup’s big ambition and founding purpose is connecting directly to the human brain through a bio-hybrid sensor built from a combination of cultured neurons and silicon. The company is currently designing initial human trials of the device with Yale neurosurgery professor Murat Günel, who told TechCrunch it could offer potential treatments for Parkinson’s disease, among other brain injuries and illnesses."
+      }
+    ]
+  }
+}

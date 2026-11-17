@@ -1,0 +1,37 @@
+{
+  "id": "n0604bc2b50fc",
+  "category": "政策与安全",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI推出Astra for Law，称在法律评测中位列第一",
+  "original_title": "Astra for Law leads in legal intelligence",
+  "summary": "OpenAI称面向法律场景的Astra for Law，在覆盖24个法律领域的上线评测中排名第一，所有ChatGPT Enterprise客户现在都可以申请使用。由于官方页面目前无法打开，细节仍有待补充。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "is_primary": true,
+      "published_at": "2026-11-17T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T08:00:00+08:00",
+  "updated_at": "2026-11-17T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI推出Astra for Law，称在法律评测中位列第一",
+  "lead_zh": "OpenAI称其法律版模型在覆盖24个法律领域的上线评测中排名第一，所有企业版聊天产品的客户现在都可以申请使用。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "blocked",
+  "read_minutes": 0,
+  "fulltext": {
+    "status": "blocked",
+    "reason": "http_403",
+    "blocks": []
+  }
+}

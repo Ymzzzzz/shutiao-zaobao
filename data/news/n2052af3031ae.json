@@ -1,0 +1,71 @@
+{
+  "id": "n2052af3031ae",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "SageMaker新增人工智能数据准备能力，可合成与自动标注",
+  "original_title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+  "summary": "亚马逊云科技宣布，其机器学习平台新增数据准备功能，可用于生成合成样本、评估并改进数据集，还能大规模自动标注，以建设高质量的训练和评估数据，并缩短前期准备时间。现已上线。",
+  "facts": [
+    {
+      "text": "亚马逊云科技宣布，SageMaker AI新增数据准备功能，可用于生成合成样本、评估并改进数据集，以及大规模自动标注。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/"
+    },
+    {
+      "text": "这些能力通过Python软件开发套件和代理技能提供，可在笔记本或开发环境中使用。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊云科技称，自动标注支持分类、命名实体识别、抽取式问答、等级评分和摘要等内置任务类型，也可自定义任务。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/",
+      "is_primary": true,
+      "published_at": "2026-11-18T03:40:01+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T03:40:01+08:00",
+  "updated_at": "2026-11-18T03:40:01+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "SageMaker新增人工智能数据准备能力，可合成与自动标注",
+  "lead_zh": "亚马逊云科技宣布SageMaker AI新增数据准备功能，可生成合成样本、评估并改进数据集，还能大规模自动标注。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技宣布，SageMaker AI新增人工智能数据准备能力，用于建设高质量的训练和评估数据。用户可生成合成样本、评估并改进已有数据集、大规模自动标注，并通过Python软件开发套件接口以及AWS人工智能机器学习代理技能引入专家审阅。这些功能可在自己的笔记本或开发环境中使用，规范和代码均可查看和修改。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据官方介绍，自动标注可从无标注数据、少量种子标注甚至完全无标注起步，内置任务类型包括分类、命名实体识别、抽取式问答、等级评分和摘要，也可自定义。对于答案集合固定的任务，会由多个模型组成的评审组为每行标注，其一致程度作为该行的置信度；低于阈值的样本会进入SageMaker Studio中的审阅队列，该队列使用开源的Label Studio社区版。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/3142f0dfc8f6fa1297bb34ed634f78ced1f4d204.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/17/ML-22355-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

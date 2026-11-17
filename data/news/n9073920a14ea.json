@@ -1,0 +1,71 @@
+{
+  "id": "n9073920a14ea",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Daydream推出人工智能造型助手，可搭配衣服并代为下单",
+  "original_title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+  "summary": "Daydream发布新的购物智能体，能够记住用户风格、进行虚拟试穿、按现有衣橱搭配造型、跟踪折扣，并完成购买，定位为可代客下单的个人造型和购物助手。用户可把购物交给它完成。",
+  "facts": [
+    {
+      "text": "时尚创业公司Daydream周二发布购物智能体Daydream Agent，可搭配造型、虚拟试穿并完成购买。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
+    },
+    {
+      "text": "该公司由电子商务从业者Julie Bornstein创立，此前聊天机器人已能推荐搭配，但不能下单。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该公司称，新智能体可记住用户风格、版型和预算，并从超过1万个品牌的目录中获取实时价格和库存。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "is_primary": false,
+      "published_at": "2026-11-18T00:32:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T00:32:55+08:00",
+  "updated_at": "2026-11-18T00:32:55+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Daydream推出人工智能造型助手，可搭配并代为下单",
+  "lead_zh": "Daydream发布新的购物智能体，能够记住用户风格、虚拟试穿、按现有衣橱搭配、跟踪折扣并完成购买。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch报道，由电子商务从业者Julie Bornstein创立的时尚创业公司Daydream，周二发布了购物智能体Daydream Agent。公司把它定位为可放进每个人口袋里的个人造型师，能够规划穿搭、虚拟试穿，并按用户品味推荐单品。其此前推出的聊天机器人已经可以帮助找搭配和给建议，但不能完成购买；新智能体则增加了一键结账。用户还可以把衣橱和日历接入，围绕已有衣服和即将到来的活动做搭配。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据该公司称，新智能体可记住每位顾客的个人风格、版型偏好和预算，用户也可上传照片，让它用同一张图试穿已收藏的任何单品。智能体还能跟踪折扣、品牌上新、每周更新和流行趋势，并把感兴趣的单品放到持久的「衣架」里比较，而不必一直留在购物车中。技术上，它会从其超过**1**万个品牌的目录中拉取实时价格和库存，并结合时尚领域的模型；系统由经过微调的OpenAI、Gemini和Claude模型以及自研模型共同驱动。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/724ca560440146cdac45a1016b3c5050814d0fb4.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

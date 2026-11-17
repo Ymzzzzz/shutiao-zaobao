@@ -1,0 +1,71 @@
+{
+  "id": "n3aa0c6065ac0",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌扩大Gemini任务模式，可代为打电话和下单",
+  "original_title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+  "summary": "据TechCrunch报道，Gemini的任务模式可以帮助用户协调通话、登录网站，甚至代表用户完成购买，谷歌正在扩大这一功能的使用范围，让更多人用上代办助手。功能仍在继续铺开。",
+  "facts": [
+    {
+      "text": "据TechCrunch报道，谷歌正在扩大Gemini中Tasks功能的覆盖范围，使用户可以把对话助手切换成能代为办事的模式。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
+    },
+    {
+      "text": "该功能最初于5月以Gemini Spark面向部分测试用户推出。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌称，该功能可以代用户给商家打电话、预约，通过Google Pay完成购买，并在得到提示后安全登录网站。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "is_primary": false,
+      "published_at": "2026-11-18T03:02:20+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T03:02:20+08:00",
+  "updated_at": "2026-11-18T03:02:20+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌扩大Gemini任务模式，可代为打电话和下单",
+  "lead_zh": "据TechCrunch报道，Gemini的任务模式可以帮助用户协调通话、登录网站，甚至代表用户完成购买。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch报道，谷歌正在扩大Gemini中Tasks功能的覆盖范围。与只用于问答的聊天模式不同，用户打开这一开关后，可以把应用变成能完成基本秘书工作的助手。该功能最初在**5**月以Gemini Spark面向部分测试用户推出，后扩展到美国Google AI Ultra订阅用户，并更名为任务模式。报道称，谷歌现在正把它免费提供给数亿名使用新模型Gemini 4 Hydrogen的用户。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据谷歌称，该应用可以代用户给商家打电话并预约，通过Google Pay完成购买，还能在得到提示后安全登录网站。Gemini副总裁在博客中称，自己最近曾用它给当地汽车经销商打电话，为家里的小型货车预约维修，并分析电费账单。报道称，用户只需在应用里把开关从聊天拨到任务即可启用，也可以向Gemini发短信或打电话下达指令。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/8fb9ae5a0e7094b51d5b74458475e7417fb6debd.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

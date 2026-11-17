@@ -1,0 +1,71 @@
+{
+  "id": "nb4420b34b762",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "有报道称萨姆·奥特曼也难逃Instagram上的深度伪造视频",
+  "original_title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+  "summary": "据The Verge报道，Instagram上深度伪造内容增多，就连萨姆·奥特曼也未能幸免。Meta人工智能负责人Alexandr Wang在11月早些时候也曾分享过相关内容。",
+  "facts": [
+    {
+      "text": "据The Verge报道，Meta人工智能负责人Alexandr Wang在11月早些时候分享了一段推广Muse智能体的人工智能生成短片，其中出现了萨姆·奥特曼的形象。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+    },
+    {
+      "text": "Meta规定，描绘真人的人工智能生成视频须标注为人工智能生成，静态图片则没有这一要求。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Meta发言人Tracy Clayton称，王的帖子已标注为人工智能内容，并指出奥特曼曾把自己的形象开放给人工智能内容生成使用。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "is_primary": false,
+      "published_at": "2026-11-18T05:00:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T05:00:55+08:00",
+  "updated_at": "2026-11-18T05:00:55+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "有报道称萨姆·奥特曼也难逃Instagram上的深度伪造视频",
+  "lead_zh": "据The Verge报道，Instagram上深度伪造内容增多，就连萨姆·奥特曼也未能幸免；Meta人工智能负责人本月早些时候也曾分享过相关内容。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Verge报道，Instagram上深度伪造内容增多。Meta人工智能负责人Alexandr Wang在**11**月早些时候分享了一段推广该公司消费级智能体Muse的短片：片中他与马克·扎克伯格、OpenAI首席执行官萨姆·奥特曼以及Muse吉祥物Jolly在四人视频通话里，奥特曼出场时穿着类似Jolly的毛绒连帽装并化了妆。该媒体称，Meta要求描绘真人的人工智能生成视频必须标注来源，但静态图片没有这一要求。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Meta发言人Tracy Clayton回应称，王的帖子已标注为人工智能内容，并指出奥特曼曾把自己的形象开放给人工智能内容生成使用，例如OpenAI推出Sora应用后平台上很快出现大量伪造他的视频。OpenAI没有回应置评请求。报道还提到，**10**月女演员Mia Goth的一张人工智能生成图片在Instagram传播时没有披露标记，其代表曾对平台未保护公众人物肖像表示难以理解。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/9ecf71a6f797763b961a4aca1f0c779cc29f4f05.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&strip=all&crop=0%2C10.755339554057%2C100%2C78.489320891885&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

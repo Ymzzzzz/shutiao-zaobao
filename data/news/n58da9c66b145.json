@@ -1,0 +1,37 @@
+{
+  "id": "n58da9c66b145",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI与智利政府合作，推动负责任的人工智能应用",
+  "original_title": "Introducing OpenAI for Chile",
+  "summary": "OpenAI与智利政府达成合作，支持负责任地采用人工智能、培养公共部门相关技能，并帮助当地初创企业开发人工智能应用。由于官方页面目前无法打开，更多细节仍有待补充。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "is_primary": true,
+      "published_at": "2026-11-17T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T08:00:00+08:00",
+  "updated_at": "2026-11-17T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI与智利政府合作推动负责任的人工智能应用",
+  "lead_zh": "OpenAI与智利政府达成合作，支持负责任地采用人工智能、培养公共部门技能，并帮助当地初创企业开发应用。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "blocked",
+  "read_minutes": 0,
+  "fulltext": {
+    "status": "blocked",
+    "reason": "http_403",
+    "blocks": []
+  }
+}

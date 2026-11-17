@@ -1,0 +1,71 @@
+{
+  "id": "n6977c6b490bb",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "新方法用不同方向扫描提升临床脑部核磁分辨率",
+  "original_title": "Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader Evaluation in a Nigerian Cohort",
+  "summary": "研究者提出面向临床脑部核磁共振的柔性多栈超分辨率方法。文章指出，高分辨率影像对神经放射评估很重要，但常规临床方案在资源有限时常采用更快的二维扫描。新方法试图弥补这一差距。",
+  "facts": [
+    {
+      "text": "研究者提出面向临床脑部核磁共振的柔性多栈超分辨率方法MS-HVED。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.21412"
+    },
+    {
+      "text": "作者在尼日利亚队列的30例常规检查上做了外部临床验证，并纳入有7名神经放射科专家参与的盲法阅片研究。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.21412"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据论文称，在尼日利亚队列中，该方法在210组配对评估里有187组被评为整体图像质量优于监督基线。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.21412"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.21412",
+      "is_primary": true,
+      "published_at": "2026-11-17T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T08:00:00+08:00",
+  "updated_at": "2026-11-17T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "新方法用不同方向扫描提升临床脑部核磁分辨率",
+  "lead_zh": "研究者提出面向临床脑部核磁共振的柔性多栈超分辨率方法，希望在资源有限、常用快速二维扫描的场景中提高影像质量。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "研究者提出面向临床脑部核磁共振的柔性多栈超分辨率方法MS-HVED。文章指出，高分辨率影像对神经放射评估很重要，但常规临床方案在资源有限时常常采用更快的二维扫描，不同方向、对齐和覆盖范围的图像栈可能只有部分重叠。新方法可分别编码轴向、冠状和矢状栈，并按视野感知的方式融合，同时用物理信息域随机化模拟倾斜、部分覆盖和伪影等异构采集条件。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据论文称，该方法在合成基准上取得有竞争力或更好的重建精度，并改善了相对低分辨率输入的后续组织分割。为检验泛化能力，作者在尼日利亚队列的**30**例常规脑部检查上做了外部验证，这些检查也是一项涵盖**44**例真实病例、由**7**名神经放射科专家参与的盲法阅片研究的主要部分。在该队列中，新方法在**210**组配对评估里有**187**组被评为整体图像质量优于监督基线；在全部临床队列、使用全部可用输入时，整体质量评分也更高。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/64626b4db4f240d69cee67dceee1e9ce07916733.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21412.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "n0488c951c729",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌把Spark智能体改名为Tasks并免费开放",
+  "original_title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+  "summary": "据The Verge报道，谷歌将其Spark人工智能智能体改名为Tasks并免费开放。该功能由Gemini 4 Hydrogen模型驱动，可制定用餐计划、管理待办事项等。",
+  "facts": [
+    {
+      "text": "据The Verge报道，谷歌将其Spark人工智能智能体改名为Tasks并免费开放，该功能由Gemini 4 Hydrogen模型驱动。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    },
+    {
+      "text": "该功能最初于5月推出，当时仅向Google AI Pro和Ultra订阅用户开放。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌称，Gemini会在为用户账户单独配备、不与他人共享的硬件隔离虚拟机中执行任务，遇购买等敏感操作会先征求许可。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "is_primary": false,
+      "published_at": "2026-11-18T02:58:01+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T02:58:01+08:00",
+  "updated_at": "2026-11-18T02:58:54+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌把Spark智能体改名为Tasks并免费开放",
+  "lead_zh": "据The Verge报道，谷歌将Spark人工智能智能体改名为Tasks并免费开放，该功能由Gemini 4 Hydrogen驱动，可制定用餐计划等。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Verge报道，谷歌把它的Spark人工智能智能体改名为Tasks并免费开放。该功能由Gemini 4 Hydrogen模型驱动，可制定用餐计划、管理日历，并翻查邮件寻找可能不再需要的周期性开支。美国用户还可让它给商家打电话比较价格和库存、用Google Pay下单，以及登录支持谷歌密码管理器的账户；也可以发邮件或短信向Gemini布置任务。这一功能**5**月首次推出时，仅向Google AI Pro和Ultra订阅用户开放，现在已面向美国、加拿大、日本、韩国、澳大利亚和印度的所有用户。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据谷歌称，Gemini会在为用户账户单独配备、不与他人共享的硬件隔离虚拟机中执行任务，用户也可以在它执行过程中补充指令；遇到购买商品等更敏感的操作时，它会停下来先征求许可再继续。用户可在Gemini首页把开关从聊天拨到任务来找到该功能。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/8f6c1054cd446397a644b71ffbb28369cd914f2f.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

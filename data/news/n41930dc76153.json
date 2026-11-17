@@ -1,0 +1,71 @@
+{
+  "id": "n41930dc76153",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "IEEE纪念把伦理纳入人工智能系统十年",
+  "original_title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+  "summary": "IEEE撰文回顾十年来推动在人工智能系统中纳入伦理考量的工作，并提到政策制定者、技术界和公众对偏见、数据隐私以及可能的社会伤害等风险的持续担忧。该组织正纪念这一十年节点。",
+  "facts": [
+    {
+      "text": "IEEE撰文纪念将伦理纳入人工智能系统十年，回顾2016年启动的相关倡议和《伦理对齐设计》报告。",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems"
+    },
+    {
+      "text": "文章介绍，IEEE 7000系列标准目前有29个项目，其中11项已经发布。",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该倡议创始执行主任John C. Havens称，《伦理对齐设计》是当时少有的、不只罗列原则、又具有IEEE公信力的报告。",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
+      "is_primary": false,
+      "published_at": "2026-11-18T03:00:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T03:00:03+08:00",
+  "updated_at": "2026-11-18T03:00:03+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "IEEE纪念把伦理纳入人工智能系统十年",
+  "lead_zh": "IEEE撰文回顾十年来推动在人工智能系统中纳入伦理考量的工作，并提到政策制定者、技术界和公众对偏见、隐私等风险的担忧。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IEEE发文纪念把伦理纳入人工智能系统十年。文章称，政策制定者、技术界和公众对偏见、数据隐私、虚假信息传播以及可能失控的人工智能智能体等风险感到担忧。**2016**年，IEEE标准协会启动面向自主与智能系统伦理考量的全球倡议，并发布《伦理对齐设计》报告，提出包括人权、人类福祉和透明度在内的八项基础原则；**2017**年发布第二版，到**2019**年贡献者已超过**400**人。"
+      ],
+      "sources": [
+        "IEEE Spectrum"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "该倡议创始执行主任John C. Havens称，这份报告在当时是少有的、不只罗列原则、同时又具有IEEE公信力的成果。文章介绍，在此框架下形成的IEEE **7000**系列标准目前有**29**个项目，其中**11**项已经发布，并提供面向个人和产品的伦理认证。为纪念报告初稿十周年，IEEE标准协会近日还上线了网站、博客，以及**10**月**21**日推出的五集播客系列。"
+      ],
+      "sources": [
+        "IEEE Spectrum"
+      ]
+    }
+  ],
+  "image_url": "img/8320eb1da4aead0dea9eec8375112916d8716466.jpg",
+  "image_source": "IEEE Spectrum",
+  "image_origin_url": "https://spectrum.ieee.org/media-library/illustration-of-floating-hands-inspecting-the-use-of-ai-features-across-a-laptop-computer-academic-paper-and-the-world-wide-web.jpg?id=68699342&width=980",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

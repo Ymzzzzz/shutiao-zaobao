@@ -1,0 +1,228 @@
+{
+  "id": "ndec08682255b",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "英伟达在SC26发布科学智能体工具与Rubin HPC芯片",
+  "original_title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+  "summary": "英伟达高管Ian Buck在芝加哥SC26大会上发布Nemotron for Science等科学智能体工具，并介绍面向科学计算的Rubin HPC GPU，以及与IBM、费米实验室的量子计算合作。",
+  "facts": [
+    {
+      "text": "Ian Buck在芝加哥SC26上发布Nemotron for Science、Rubin HPC GPU，并介绍与IBM、费米实验室的量子计算合作。",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/"
+    },
+    {
+      "text": "Rubin HPC预计2028年推出，官方称其CUDA核心超过5万个，约为Hopper的三倍。",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Buck称，计算与科学栈的前沿仍将是模拟，但会与人工智能和量子计算结合。",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "is_primary": true,
+      "published_at": "2026-11-17T22:00:10+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T22:00:10+08:00",
+  "updated_at": "2026-11-17T22:00:10+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达在SC26发布科学智能体工具与Rubin HPC芯片",
+  "lead_zh": "英伟达超大规模计算副总裁周一在芝加哥超算大会上发布面向科学智能体的新工具，并介绍新的高性能计算芯片以及与IBM、费米实验室的量子计算合作。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英伟达超大规模与高性能计算副总裁Ian Buck周一在芝加哥SC26大会上，发布了可用于规划实验、运行代码并在研究人员自有系统上核查结果的科学智能体工具。他公布了Nemotron for Science、Rubin HPC GPU，以及扩展后的Vera CPU平台，并介绍了与IBM、费米国家加速器实验室在量子计算上的新合作。",
+        "Nemotron for Science把Nemotron 3.5 Super VL开源模型与新的开放化学数据集、生命科学和化学后训练方案组合在一起，可在DGX Spark、工作站或超级计算机上本地运行。Rubin HPC属于Vera Rubin平台，支持从FP64到FP4的精度，并连接第七代NVLink；官方称其CUDA核心超过**5万**个，约为Hopper的**3**倍，预计**2028**年推出。德国气候计算中心DKRZ已为预计2028年初投入使用的HLRE-5超算选用Vera CPU。"
+      ],
+      "sources": [
+        "NVIDIA Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Buck称，「计算与科学栈的前沿仍将是模拟，但会与人工智能和量子计算结合」。他举例说，阿贡国家实验室的一个智能体在一条提示下规划并验证假设、选择仿真，还找到了两个新的结合位点；KTH皇家理工学院的智能体在单台DGX Spark上通宵修复了**81%**的GROMACS测试案例；英伟达新的Nsight AI移植智能体把天气预报模式WRF中的一个程序迁到GPU上，速度提升超过**5**倍，大约使用了**1.5**亿个token。"
+      ],
+      "sources": [
+        "NVIDIA Blog"
+      ]
+    }
+  ],
+  "image_url": "img/0f42e9858806352908b2773628208b37a1a1196f.jpg",
+  "image_source": "NVIDIA Blog",
+  "image_origin_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg",
+  "fulltext_status": "ok",
+  "read_minutes": 4,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Brian Caulfield",
+    "author_title_zh": "",
+    "published_at": "2026-11-17",
+    "title_en": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+    "title_zh": "Ian Buck在SC26为英伟达一周活动揭幕，科学进入智能体时代",
+    "dek_en": "At SC26, NVIDIA’s VP of Hyperscale and HPC laid out how researchers can combine simulation, AI and agents to accelerate scientific discovery.",
+    "dek_zh": "在SC26上，英伟达超大规模与高性能计算副总裁阐述了研究者如何把仿真、人工智能和智能体结合起来，加快科学发现。",
+    "word_count_zh": 1284,
+    "read_minutes": 4,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "英伟达的Ian Buck周一在芝加哥的SC26上为公司本周活动揭幕，并推出面向人工智能智能体的新工具，这类软件可以在研究者自己的系统上规划实验、运行代码并检查结果。",
+        "en": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems."
+      },
+      {
+        "t": "p",
+        "zh": "在英伟达的特别演讲中，Buck宣布了Nemotron for Science、Rubin HPC GPU，以及面向高性能计算、经扩展的Vera CPU平台。他还详述了与IBM和费米国家加速器实验室在量子计算方面的新合作。",
+        "en": "In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance computing. He also detailed a new collaboration in quantum computing with IBM and Fermi National Accelerator Laboratory."
+      },
+      {
+        "t": "p",
+        "zh": "「计算的前沿和新的科学技术栈仍将是仿真，一如既往，但会与人工智能以及量子的未来结合在一起，」英伟达超大规模与高性能计算副总裁Buck说。",
+        "en": "“The frontier of computing and the new scientific stack is going to be simulation, as always, but combined with AI and the future of quantum,” said Buck, vice president of hyperscale and high-performance computing at NVIDIA."
+      },
+      {
+        "t": "p",
+        "zh": "Buck在开场时回顾了他第一次公开讲解CUDA的情形，那是20年前在佛罗里达州坦帕SC06上的一次教程。他表示，英伟达现在提供超过1000个CUDA-X库。",
+        "en": "Buck opened the talk by looking back to his first public talk on CUDA, at an SC06 tutorial in Tampa, Florida, 20 years ago. NVIDIA now offers more than 1,000 CUDA-X libraries, he said."
+      },
+      {
+        "t": "p",
+        "zh": "面向科学智能体的开放模型",
+        "en": "Open Models for Science Agents"
+      },
+      {
+        "t": "p",
+        "zh": "「【智能体】彻底改变了我们与超级计算机、设备、仪器交互以及开展研究的方式，」Buck说。",
+        "en": "“[Agents] have been just a game changer in how we interface with our supercomputers, with our devices, our instruments and how we can do the research,” Buck said."
+      },
+      {
+        "t": "p",
+        "zh": "仿真仍是科学计算的基础，「它将始终处于顶端，」Buck说，人工智能、量子以及现在的智能体与它并肩工作。",
+        "en": "Simulation remains the foundation of scientific computing, “which will always be on the top,” Buck said, with AI, quantum and now agents working alongside it."
+      },
+      {
+        "t": "p",
+        "zh": "Buck解释说，Nemotron for Science把Nemotron 3.5 Super VL开放模型，与新的开放化学数据集以及面向生命科学和化学的训练后配方结合在一起。研究者可以在DGX Spark、工作站或自己的超级计算机上本地运行它。",
+        "en": "Nemotron for Science combines the Nemotron 3.5 Super VL open model with a new open chemistry dataset and post-training recipes for life sciences and chemistry, Buck explained. Researchers can run it locally on a DGX Spark, a workstation or their own supercomputer."
+      },
+      {
+        "t": "p",
+        "zh": "Buck说，在阿贡国家实验室，一个用该工具包构建的智能体只根据一条提示，就规划并检验了假设、选择要运行的仿真，并识别出两个新的结合位点。",
+        "en": "At Argonne National Laboratory, Buck said, an agent built with the toolkit took a single prompt, planned and tested hypotheses, chose which simulations to run and identified two new binding sites."
+      },
+      {
+        "t": "p",
+        "zh": "「数据归你所有。模型归你所有，」Buck说。",
+        "en": "“You own your data. You own the model,” Buck said."
+      },
+      {
+        "t": "p",
+        "zh": "Buck还介绍了其他已经在使用的智能体：",
+        "en": "Buck highlighted other agents already in use:"
+      },
+      {
+        "t": "p",
+        "zh": "• GROMACS：来自KTH皇家理工学院的一个智能体能够自行修复损坏的GROMACS设置。在单台DGX Spark上一次通宵运行中，它修复了81%的测试用例。",
+        "en": "• GROMACS: An agent from KTH Royal Institute of Technology repairs broken GROMACS setups on its own. In one overnight run on a single DGX Spark, it fixed 81% of test cases."
+      },
+      {
+        "t": "p",
+        "zh": "• SETI研究所：在Allen Telescope Array，一个智能体根据一行提示绘制了甲醇谱线。Buck解释说，它随后自行根据多普勒频移重新调谐【NGC 869对比896，请核对该幻灯片】。",
+        "en": "• SETI Institute: At the Allen Telescope Array, an agent took a one-line prompt to plot a methanol line. Buck explained that it then retuned for Doppler shift on its own [NGC 869 vs. 896, check slide]."
+      },
+      {
+        "t": "p",
+        "zh": "• Nsight AI Porting Agent：Buck说，英伟达的新智能体把天气研究与预报（WRF）模型中的一个例程移植到了GPU上，使用约1.5亿个词元将其加速了超过5倍。",
+        "en": "• Nsight AI Porting Agent: NVIDIA’s new agent ported a routine from the Weather Research and Forecasting (WRF) model to GPUs, Buck said, speeding it up more than 5x using about 150 million tokens."
+      },
+      {
+        "t": "p",
+        "zh": "用于智能体循环的CPU",
+        "en": "CPUs for the Agent Loop"
+      },
+      {
+        "t": "p",
+        "zh": "Buck解释说，智能体依靠CPU在模型步骤之间运行工具调用。",
+        "en": "Agents lean on CPUs to run tool calls between model steps, Buck explained."
+      },
+      {
+        "t": "p",
+        "zh": "「这正是智能体所需要的，」他说。「它们需要一颗能够运行、评估、调用工具、执行操作并汇总结果的CPU。」",
+        "en": "“That’s exactly what agents need,” he said. “They need a CPU that can run, evaluate, run the tool, perform the operations, gather the results.”"
+      },
+      {
+        "t": "p",
+        "zh": "德国气候计算中心DKRZ已为其预计于2028年初投入使用的HLRE-5超级计算机选择了Vera CPU。Buck说，它加入了德克萨斯先进计算中心已经宣布的Vera系统行列。",
+        "en": "DKRZ, the German Climate Computing Center, has selected Vera CPUs for its HLRE-5 supercomputer, expected in early 2028. Buck said it joins Vera systems already announced at Texas Advanced Computing Center."
+      },
+      {
+        "t": "p",
+        "zh": "面向科学的新GPU",
+        "en": "A New GPU for Science"
+      },
+      {
+        "t": "p",
+        "zh": "Buck说，Rubin HPC是Vera Rubin平台中的一款新GPU，面向科学、工程、分析和人工智能打造。",
+        "en": "Rubin HPC is a new GPU in the Vera Rubin platform, built for science, engineering, analytics and AI, Buck said."
+      },
+      {
+        "t": "p",
+        "zh": "它支持从FP64到FP4的精度，增加了稀疏数据加速，并通过第七代NVIDIA NVLink连接。Buck说，它拥有超过50000个CUDA核心，大约是Hopper的三倍。预计将于2028年推出。",
+        "en": "It supports precisions from FP64 to FP4, adds sparse-data acceleration and connects over seventh-generation NVIDIA NVLink. With more than 50,000 CUDA cores, it has about three times as many as Hopper, Buck said. It is expected in 2028."
+      },
+      {
+        "t": "p",
+        "zh": "量子纠错",
+        "en": "Quantum Error Correction"
+      },
+      {
+        "t": "p",
+        "zh": "Buck说，在于利希的JUPITER超级计算机上的一次仿真显示，一种称为magic state cultivation的技术，可以把完成一个逻辑步骤所需的操作削减十倍。这项工作正在被加入CUDA-Q。",
+        "en": "Buck said a simulation on Jülich’s JUPITER supercomputer showed that a technique called magic state cultivation can cut the operations needed for one logical step tenfold. The work is being added to CUDA-Q."
+      },
+      {
+        "t": "p",
+        "zh": "英伟达、IBM和费米实验室今天宣布，计划打造一个量子计算协同设计平台，以支持纠错和应用研究。英伟达和IBM正在把NVIDIA DGX B200系统与IBM量子计算机配对，包括由IBM Quantum Nighthawk驱动的系统。",
+        "en": "NVIDIA, IBM and Fermilab announced plans today for a quantum computing co-design platform to support error-correction and applications research. NVIDIA and IBM are pairing NVIDIA DGX B200 systems with IBM quantum computers, including those powered by IBM Quantum Nighthawk."
+      },
+      {
+        "t": "p",
+        "zh": "Buck还介绍了量子解码方面的一项新突破。他解释说，目标是把解码延迟从约300微秒降到10微秒。一种新的CUDA-Q解码算法TCBP-JOBS，据他所说，把纠错研究的计算时间从12周缩短到45分钟。",
+        "en": "Buck also introduced a new breakthrough for quantum decoding. The goal, Buck explained, is to cut decoding latency from about 300 microseconds to 10. A new CUDA-Q decoding algorithm, TCBP-JOBS, cuts error-correction research computation from 12 weeks to 45 minutes, he said."
+      },
+      {
+        "t": "p",
+        "zh": "网络",
+        "en": "Networking"
+      },
+      {
+        "t": "p",
+        "zh": "Buck还展示了NVIDIA Photonics共封装光学交换机的首批部署之一，位于Lambda。他表示，它们在误码和链路抖动方面的可靠性提高了15倍。",
+        "en": "Buck also showed one of the first deployments of NVIDIA Photonics co-packaged optics switches, at Lambda. He said they are 15x more reliable on bit errors and link flaps."
+      },
+      {
+        "t": "p",
+        "zh": "请参阅有关软件产品信息的声明。",
+        "en": "See notice regarding software product information."
+      }
+    ]
+  }
+}

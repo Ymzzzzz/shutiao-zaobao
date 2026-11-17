@@ -1,0 +1,71 @@
+{
+  "id": "n027b06d66aa2",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Sqwish Labs推出可用自有数据训练的决策模型",
+  "original_title": "As decision model use skyrockets, is customization the next frontier?",
+  "summary": "据TechCrunch报道，随着决策模型使用量迅速上升，Sqwish Labs提出新做法：用企业自有数据训练决策模型，以尽量提高其能力，定制化或成为下一阶段重点。",
+  "facts": [
+    {
+      "text": "英国创业公司Sqwish宣布完成300万美元预种子轮融资，并推出可用企业自有数据继续训练的决策模型。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/"
+    },
+    {
+      "text": "共同创始人Ushnish Sengupta和Federica Freddi曾在剑桥大学读研究生时相识。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该公司称，其独特之处在于内置的训练后工具，能用客户自己的数据改进模型判断。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "is_primary": false,
+      "published_at": "2026-11-18T02:10:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T02:10:00+08:00",
+  "updated_at": "2026-11-18T02:10:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Sqwish Labs推出可用自有数据训练的决策模型",
+  "lead_zh": "据TechCrunch报道，Sqwish Labs为决策模型增加新做法，可用企业自有数据训练，以尽量提高模型能力。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch报道，决策模型正在快速进入实际使用：这类模型不生成输出词元，而是在预设选项中快速、低成本地做选择并给出置信度。该媒体称，**10**月在Vercel模型路由上，超过四分之一的请求流向了决策模型而非大语言模型，而这类模型一个月前才出现。英国创业公司Sqwish当天宣布完成**300**万美元预种子轮融资，其决策模型名为kettei fat，共同创始人Ushnish Sengupta和Federica Freddi在剑桥大学读研究生时相识。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Sqwish称，其独特之处在于内置的训练后工具，能用客户自己的生产数据持续改进模型判断。报道还提到，TypeSafe在推出Jev系列后成为估值**75**亿美元的公司，上周仅通过OpenRouter就处理了超过**15**亿次对该公司模型的查询；微软首席执行官萨蒂亚·纳德拉周二也表示，将立即在Azure上广泛推出Microsoft-Decision-1.1。TypeSafe首席执行官曾对该媒体表示，校准判断是其中最难的部分。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/f91b1206aa2625375596242aa60f6aecfa9fa828.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/attachment-1.jpeg?resize=1200,730",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

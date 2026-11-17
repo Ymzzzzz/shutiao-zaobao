@@ -1,0 +1,71 @@
+{
+  "id": "nfa2d79e8a491",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "LoanPro基于Bedrock搭建多智能体贷款服务助手",
+  "original_title": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+  "summary": "LoanPro与亚马逊云科技合作伙伴AllCloud及生成式人工智能创新中心合作，在Amazon Bedrock和Bedrock AgentCore上打造多智能体助手，为贷款服务人员提供支持。",
+  "facts": [
+    {
+      "text": "LoanPro与亚马逊云科技合作伙伴AllCloud及生成式人工智能创新中心合作，在Amazon Bedrock和Bedrock AgentCore上打造多智能体贷款服务助手。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "text": "LoanPro成立于2015年，自称服务超过450家贷款机构。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AllCloud发布的案例称，早期结果显示客户通话时间最多缩短15%。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/",
+      "is_primary": true,
+      "published_at": "2026-11-18T01:01:08+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T01:01:08+08:00",
+  "updated_at": "2026-11-18T01:01:08+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "LoanPro基于Bedrock搭建多智能体贷款服务助手",
+  "lead_zh": "LoanPro与亚马逊云科技合作伙伴AllCloud及生成式人工智能创新中心合作，在Bedrock和AgentCore上打造面向贷款服务人员的多智能体助手。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "贷款服务平台LoanPro与亚马逊云科技合作伙伴AllCloud及该公司生成式人工智能创新中心合作，在Amazon Bedrock和Bedrock AgentCore上打造多智能体助手，为贷款服务人员即时提供借款人背景和下一步建议。该公司成立于**2015**年，并非贷款机构本身，而是贷款机构使用的操作系统；据其介绍，平台服务超过**450**家贷款机构，所管理贷款大约覆盖美国**31%**的家庭。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AllCloud发布的案例研究，早期结果显示客户通话时间最多缩短**15%**。文章称，该助手运行Anthropic的Claude Sonnet **5.5**、Haiku **5.5**和Opus **5.5**，由专门负责数据检索与账户摘要、行动建议的智能体协作，并由编排智能体汇总回复。在早期上线合作机构的**800**多名服务人员中，过去每通通话约有**18%**至**20%**的时间花在查看账户上，现在可一次点击汇总这些信息。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/fbe2050943560bb3d6b72502681d4cd8b4a9a63a.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-21891-featured-image-1.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "n1e308b5aafc0",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊云科技派工程师驻场，协助企业把人工智能方案落地",
+  "original_title": "Getting AI out of the demo and into businesses globally",
+  "summary": "亚马逊云科技称，许多企业的人工智能方案只在演示阶段有效，却难以进入生产。其Forward Deployed Engineering团队会驻场与客户一起，把高价值流程推进到生产环境。",
+  "facts": [
+    {
+      "text": "亚马逊云科技介绍，其Forward Deployed Engineering团队会派工程师驻场，以45天冲刺协助客户把高价值流程推向生产。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/"
+    },
+    {
+      "text": "该服务已在15个国家向商业和公共部门客户推出。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊云科技称，该团队于6月成立，衡量标准是工程师离开后客户仍能自行掌握的基础、可持续运行的流程和可信任的治理。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/",
+      "is_primary": true,
+      "published_at": "2026-11-18T03:05:22+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T03:05:22+08:00",
+  "updated_at": "2026-11-18T03:05:22+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊云科技派工程师驻场，协助企业把方案落地",
+  "lead_zh": "亚马逊云科技称，许多企业的人工智能演示难以进入生产，其Forward Deployed Engineering团队会与客户一起把高价值流程落地。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技介绍，许多企业的人工智能方案能在演示阶段运行，却难以进入生产。其Forward Deployed Engineering团队会派工程师进驻客户团队，以**45**天冲刺把高价值流程推向生产，并留下由客户自行掌握的基础、流程和治理。官方称，该服务现已在美国、墨西哥、巴西、加拿大、澳大利亚、新加坡、印度、韩国、日本、英国、德国、荷兰、法国、瑞典和沙特阿拉伯等**15**个国家推出。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据亚马逊云科技称，该团队于今年**6**月成立，已与金融、医疗、体育、媒体和零售等行业的商业及公共部门客户合作。文章举例称，力拓铁矿在一套有**30**年历史、含**5000**多张数据表和**140**个应用的系统上，用智能体在数周内完成了原先需要数月的依赖梳理；保险经纪商Marsh的首个用例约在开工**2**个月后进入生产，针对领域的效率提升最多达**70%**。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/74975386019915827979ac52195159d675d2a8b6.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-22331-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

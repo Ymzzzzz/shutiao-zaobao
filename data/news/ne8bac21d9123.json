@@ -1,0 +1,66 @@
+{
+  "id": "ne8bac21d9123",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "论文介绍语音决策系统Marimba，基于冻结的Qwen3-ASR",
+  "original_title": "Marimba: A System One Model for Speech",
+  "summary": "研究者提出Marimba系统，用于在音频窗口内判断某个词是否出现、轮次是否结束以及语言种类。该系统建立在冻结的Qwen3-ASR之上，为类型化的语音决策提供接口。",
+  "facts": [
+    {
+      "text": "研究者提出语音决策系统Marimba，建立在冻结的Qwen3-ASR 0.6B特征之上，用于判断词语是否出现、轮次是否结束以及语言种类。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.18330"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据论文称，在私有对话测试集上解码器的AUROC为0.80至0.92，在公开朗读语音上为0.92至0.97。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.18330"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.18330",
+      "is_primary": true,
+      "published_at": "2026-11-17T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T08:00:00+08:00",
+  "updated_at": "2026-11-17T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "论文介绍语音决策系统Marimba，基于冻结的Qwen3-ASR",
+  "lead_zh": "研究者提出Marimba系统，用于在音频窗口内判断词语是否出现、轮次是否结束以及语言种类，并建立在冻结的Qwen3-ASR之上。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "研究者提出语音决策系统Marimba，为在一段音频窗口内判断某个词是否出现、轮次是否结束以及语言种类等类型化问题提供接口。该系统建立在冻结的Qwen3-ASR **0.6B**特征之上：词汇类问题对语音识别转写做零样本评分，非词汇类问题使用按问题条件化的输出头，并另设第**18**层的轮次结束读出；语种识别则直接使用该识别模型自带的语言分数。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据论文称，在私有对话测试集上，解码器的AUROC为**0.80**至**0.92**，在公开朗读语音上为**0.92**至**0.97**；在Speech Commands四分类任务上准确率为**0.93**。作者还报告，把贪心转写送入其个人信息检测流程后，在合成巴西葡萄牙语语音上的条目级F1为**0.904**；第12层说话人读出在AMI和VoxConverse上检测说话人切换的AUROC为**0.966**至**0.980**。轮次结束读出的AUROC为**0.930**，低于对照系统Smart Turn v3.2的**0.982**。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/8779b335c7c21856debae3bf0eb1b3d8c2722aa4.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18330.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "nb3867011bee4",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "华为Mate 90系列AI快捷栏被曝保持五个图标宽度",
+  "original_title": "华为 Mate 90 系列手机 AI 快捷栏全新交互体验曝光，与星芒 OSTA O1 Pro 风格完全不同",
+  "summary": "华为Mate 90系列已升级鸿蒙HarmonyOS 7.0.0.115 SP11，系统包约10.31GB，并带来AI快捷栏等功能。有用户反馈，该快捷栏会保持5个应用图标宽度，长按AI圆环可进入AI屏。",
+  "facts": [
+    {
+      "text": "IT之家报道，华为Mate 90系列已开启鸿蒙HarmonyOS 7.0.0.115 SP11升级，系统包约10.31GB，并带来AI快捷栏等功能。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/571.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据IT之家称，有用户反馈该系列AI快捷栏会保持5个应用图标宽度，长按AI圆环可进入AI屏。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/571.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/028/571.htm",
+      "is_primary": false,
+      "published_at": "2026-11-18T01:22:08+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T01:22:08+08:00",
+  "updated_at": "2026-11-18T01:22:08+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "华为Mate 90系列AI快捷栏被曝保持五个图标宽度",
+  "lead_zh": "华为Mate 90系列已升级鸿蒙HarmonyOS 7.0.0.115 SP11，有用户反馈其AI快捷栏会保持5个应用图标宽度，长按AI圆环可进入AI屏。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家**11**月**18**日报道，华为Mate 90系列手机已率先开启鸿蒙HarmonyOS **7.0.0.115** SP11版本升级，系统包大小约**10.31GB**，并带来AI快捷栏等功能。报道还把这一界面与华为新子品牌星芒OSTA O1 Pro的小艺AI屏作了对比，称两者设计风格完全不同：后者顶部是小星芒，中间是文字交互和互动卡片，Dock栏为小艺推荐应用，底部则是语音按钮等交互键。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "用户怎么说",
+      "paras": [
+        "据IT之家用户「秋叶寒」反馈，Mate 90系列的AI快捷栏会维持**5**个应用图标的宽度，不会缩小；长按AI圆环可进入AI屏，获取行业趋势解读、人工智能分析和智能记忆助手等更多服务。报道称，目前尚不清楚星芒新机上的小艺AI屏是否为该品牌独有特性。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/fd6a0605c104b5a8e310814043f98624fb03bbac.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/286c0b34-3d9e-4817-9da9-134cec985daf.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

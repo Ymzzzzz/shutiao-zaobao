@@ -1,0 +1,37 @@
+{
+  "id": "n590cb0b9c5dd",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI与北约合作，用人工智能加强盟友网络防御",
+  "original_title": "Strengthening NATO and allied cyber defenses with AI",
+  "summary": "OpenAI介绍其与北约及盟友网络机构的合作，协助受信任的防御方发现漏洞、验证修复方案，并保护关键系统。由于官方页面目前无法打开，更多细节仍有待补充。公开摘要仅有这些。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "is_primary": true,
+      "published_at": "2026-11-17T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T08:00:00+08:00",
+  "updated_at": "2026-11-17T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI与北约合作，用人工智能加强盟友网络防御",
+  "lead_zh": "OpenAI介绍其与北约及盟友网络机构的合作，协助受信任的防御方发现漏洞、验证修复并保护关键系统。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "blocked",
+  "read_minutes": 0,
+  "fulltext": {
+    "status": "blocked",
+    "reason": "http_403",
+    "blocks": []
+  }
+}

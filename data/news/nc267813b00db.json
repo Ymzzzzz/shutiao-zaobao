@@ -1,0 +1,142 @@
+{
+  "id": "nc267813b00db",
+  "category": "行业动态",
+  "importance": 3,
+  "verified": false,
+  "title": "科技界热议黄仁勋去职，多人联名要求其重回英伟达",
+  "original_title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+  "summary": "黄仁勋在执掌英伟达逾33年后辞职。科技界已有超过18.5万人签署联名信，要求恢复其首席执行官职务，并质疑相关间谍指控目前缺乏足够证据，呼吁查清事实。后再作判断。",
+  "facts": [
+    {
+      "text": "黄仁勋在执掌英伟达超过33年后辞职。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+    },
+    {
+      "text": "超过18.5万人签署了要求恢复其首席执行官职务的联名信。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据联名信称，目前尚未出示足以证实事件核心女性为间谍的证据。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "is_primary": false,
+      "published_at": "2026-11-17T07:17:34+08:00"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "is_primary": false,
+      "published_at": "2026-11-18T00:09:57+08:00"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "is_primary": false,
+      "published_at": "2026-11-18T00:44:15+08:00"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "is_primary": false,
+      "published_at": "2026-11-18T04:32:55+08:00"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "is_primary": false,
+      "published_at": "2026-11-18T05:40:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T07:17:34+08:00",
+  "updated_at": "2026-11-18T06:19:25+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "科技界热议黄仁勋去职并联名要求其回归",
+  "lead_zh": "黄仁勋在执掌英伟达逾33年后辞职，逾18.5万人签署联名信要求其回归，并质疑间谍指控目前证据不足。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "黄仁勋在执掌英伟达超过**33**年后辞职，事件在科技行业引发震动。据《纽约时报》报道，与他被指有染的前Megaspeed高管Alice Huang是一名中国间谍；美国有关机构尚未证实这一说法。报道还称，他被指与英伟达两名员工有婚外关系，其中一人是其直接下属，并引发外界对Megaspeed等客户是否绕过出口管制向中国输送芯片的追问。",
+        "超过**18.5万**人签署了「Stand with Jensen」联名信，要求恢复其首席执行官职务，联署者包括Epic Games首席执行官Tim Sweeney、Replit首席执行官Amjad Masad、埃隆·马斯克、Uber联合创始人Travis Kalanick、Y Combinator首席执行官Garry Tan和Shopify首席执行官Tobias Lütke。美国商务部周一发布了临时最终规则，试图填补通过云服务向受限国家出租英伟达芯片算力的漏洞。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据该联名信称，目前尚未出示足以证实事件核心女性为间谍的证据，并表示「怀疑或关联本身不足以作为终止黄仁勋领导职务的依据」。风险投资人、前白宫人工智能与加密货币顾问David Sacks援引CNN报道称，美国官员仍无法确认Alice Huang是间谍，并写道「间谍叙事已经开始崩塌」。Epic Games首席执行官Tim Sweeney则质疑，记者是否把来路不明的传言写成情报官员的事实，从而推动英伟达董事会撤换创始人。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/ab3a64aa46163e2f70174f65c43d324a1078a59e.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Emma Roth",
+    "author_title_zh": "",
+    "published_at": "2026-11-16",
+    "title_en": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "title_zh": "科技界人士认为黄仁勋去职是针对他的阴谋",
+    "dek_en": "Conspiracies are swirling about Huang’s resignation.",
+    "dek_zh": "围绕黄仁勋辞职的各种阴谋论正在流传。",
+    "word_count_zh": 1079,
+    "read_minutes": 3,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "黄仁勋在执掌英伟达超过33年后令人震惊地辞职，在整个科技行业引发震动。如今，多位知名人士呼吁恢复其职务，许多人还认同一个正在硅谷流传的说法：这起丑闻是针对这位前首席执行官的阴谋。",
+        "en": "Jensen Huang’s stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang’s reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO."
+      },
+      {
+        "t": "p",
+        "zh": "这一说法的核心，是《纽约时报》关于Megaspeed前高管Alice Huang是中国间谍的报道；她是黄仁勋被指有婚外关系的多名女性之一。美国有关机构尚未确认这一说法是否属实，总统唐纳德·特朗普则声称自己并不知道任何间谍指控。黄仁勋被指与Alice Huang的关系，引发了导致他辞职的一系列事件；随后的报道称，他还与英伟达的两名员工有婚外关系，其中一人是其直接下属。这一披露引发了新的疑问：包括Megaspeed在内的英伟达客户，是否在规避出口限制、向中国输送芯片。据彭博社报道，英伟达去年曾介入针对这家新加坡公司的芯片走私调查。",
+        "en": "At the center of this theory is the reporting from The New York Times that former Megaspeed executive Alice Huang, one of multiple women Huang is accused of having an affair with, is a Chinese spy. US agencies haven’t confirmed whether this is the case, and President Donald Trump claims he was unaware of any spy allegations. Jensen Huang’s alleged relationship with Alice Huang set off the events that led to his resignation; subsequent reporting suggested he had an affair with two employees at Nvidia, including one of his direct reports. The revelation raised new questions around whether Nvidia customers, including Megaspeed, were funneling chips to China in circumvention of export restrictions. Last year, Nvidia intervened in a chip-smuggling probe surrounding the Singapore-based company, according to Bloomberg."
+      },
+      {
+        "t": "p",
+        "zh": "风险投资人、前白宫人工智能与加密货币顾问David Sacks明确表示，他对《纽约时报》的报道持怀疑态度。在X上的一条帖子中，Sacks提到CNN的一篇文章，称美国官员仍无法确认Alice Huang是间谍。「间谍叙事已经在崩塌，」Sacks写道。周一，他在Semafor举办的「硅谷与世界」活动上继续质疑这些间谍指控，并说：「黄仁勋丢掉工作，就是因为这个耸人听闻的中国间谍指控。所以如果现在没有人愿意出来证实，那我再次质疑，整条事件链为什么会发生。」",
+        "en": "David Sacks, a venture capitalist and former White House AI crypto advisor, has made it clear that he’s skeptical about The New York Times’ reporting. In a post on X, Sacks points to an article from CNN, which says US officials still can’t confirm that Alice Huang was a spy. “The spy narrative is collapsing already,” Sacks writes. He continued to question the spy allegations during Semafor’s Silicon Valley & The World event on Monday, saying: “The reason why Jensen lost his job is because of this lurid Chinese spy allegation. So if no one’s willing to back that up now, then again, I question why this entire chain of events happened.”"
+      },
+      {
+        "t": "p",
+        "zh": "Epic Games首席执行官Tim Sweeney也对黄仁勋辞职的过程表示担忧。在回复Sacks关于CNN报道的帖子时，Sweeney说：「什么？！所以动机可疑的记者把来路不明（说客？）的传言，写成出自情报官员的事实，还误导英伟达董事会，把创始人、首席执行官、一代难遇的远见者赶下台？」人工智能应用和网站搭建工具Replit的首席执行官Amjad Masad称，黄仁勋辞职的时机「可疑」，并补充说，「如果黄仁勋这位开源模型的首要倡导者被拿下，那么任何希望人工智能封闭、集中且受控的人，都可能从中获益。」",
+        "en": "Epic Games CEO Tim Sweeney similarly expressed concern about how Huang’s resignation played out. In a reply to Sacks’ post about the CNN article, Sweeney said, “What?! So journalists with sketchy motives portrayed rumors from god-knows-who (lobbyists?) as facts sourced from intelligence officials and gaslit the NVIDIA board to push out the founder, CEO, and once-in-generation visionary?” Amjad Masad, the CEO of the AI app and website builder Replit, called the timing of Huang’s resignation “suspicious,” adding that “if Jensen, the premier champion of open models, is taken out then anyone who wants AI closed, centralized, and controlled might benefit.”"
+      },
+      {
+        "t": "p",
+        "zh": "半导体与人工智能行业研究咨询公司SemiAnalysis发布了「对该事件的阴谋论解读」，推测撤换黄仁勋是为了「消除对一项极为鹰派的对华出口管制法案的反对」，指的是《远程访问安全法》（RASA）。黄仁勋曾反对该法案，它会把人工智能出口管制扩展到云服务器，使受限制国家的公司能够租用英伟达人工智能芯片。美国商务部周一发布了一项临时最终规则，试图堵住这一漏洞。",
+        "en": "SemiAnalysis, a research and consulting firm for the semiconductor and AI industry, posted a “conspiracy theory take on the situation,” speculating that Huang’s removal is a way to “remove opposition to an extremely hawkish China export control bill,” referring to the Remote Access Security Act (RASA). The bill, which Huang opposed, would extend AI export controls to cloud servers that allow companies in restricted countries to rent access to Nvidia’s AI chips. The Department of Commerce released an interim final rule on Monday in an attempt to address this loophole."
+      },
+      {
+        "t": "p",
+        "zh": "包括Sweeney、Masad、埃隆·马斯克、优步联合创始人Travis Kalanick、Y Combinator首席执行官Garry Tan以及Shopify首席执行官Tobias Lütke在内，超过185000人签署了「与黄仁勋站在一起」的联名信，呼吁恢复其首席执行官职务。信中同样要求更仔细地审视黄仁勋辞职的相关情形。「我们尚未看到足以证实这场风波核心女性为间谍这一指控的证据，」信中写道。「仅凭怀疑或关联，并不足以作为结束黄仁勋领导职务的依据。调查必须查明事实，而不能只是为已经强加的结果辩护。」",
+        "en": "More than 185,000 people, including Sweeney, Masad, Elon Musk, Uber co-founder Travis Kalanick, Y Combinator CEO Garry Tan, and Shopify CEO Tobias Lütke, have signed a “Stand with Jensen” letter, calling for his reinstatement as CEO. The letter similarly calls for a closer look into the circumstances surrounding Huang’s resignation. “We have not been shown evidence substantiating the allegation that the woman at the center of this controversy was a spy,” the letter says. “Suspicion or association alone is not a sufficient basis for ending Jensen’s leadership. The inquiry must establish the facts, not merely justify an outcome already imposed.”"
+      }
+    ]
+  }
+}

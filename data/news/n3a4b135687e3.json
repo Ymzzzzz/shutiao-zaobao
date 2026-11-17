@@ -1,0 +1,71 @@
+{
+  "id": "n3a4b135687e3",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌将把Gemini对话保留期从72小时延长到两个月",
+  "original_title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+  "summary": "据TechCrunch报道，谷歌将把Gemini聊天记录的保留时间从72小时延长到两个月，并计划在未来数周内向全球推送这一更新，以改变原先较短的保存周期。具体生效时间仍以官方为准。",
+  "facts": [
+    {
+      "text": "据TechCrunch报道，谷歌将把临时Gemini对话以及关闭聊天记录后的对话保留时间延长到约两个月，并计划在未来数周内向全球推送。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+    },
+    {
+      "text": "此前谷歌隐私说明中的保留期为72小时。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌称，延长保留是为了改善安全和防护，临时对话不会被用于训练人工智能模型。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "is_primary": false,
+      "published_at": "2026-11-18T02:48:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T02:48:23+08:00",
+  "updated_at": "2026-11-18T02:48:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌将把Gemini对话保留期从72小时延长到两个月",
+  "lead_zh": "据TechCrunch报道，谷歌将把Gemini聊天记录保留时间从72小时延长到两个月，并计划在未来数周内向全球推送。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch报道，谷歌将把临时Gemini对话以及关闭聊天记录后的对话保留时间延长到约两个月，并计划在未来数周内通过Gemini应用向全球推送。该媒体对照**11**月**12**日的存档页面称，这较谷歌Gemini应用隐私中心此前写明的**72**小时保留期明显延长。报道还提到，OpenAI称临时对话最多可能保存**30**天，Anthropic对无痕对话的默认保留期也是**30**天。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "谷歌没有直接回答此次调整的原因，以及是否会影响对话被查阅或审查的方式，而是指向一篇博客，称延长保存是为了回应用户、处理反馈并保护其服务和用户。更新后的隐私说明还把潜在系统故障列为理由，并称临时对话不会被用于训练模型。与此同时，谷歌把聊天记录和训练授权拆成两项设置：此前关闭「保留活动」的用户，两项新开关默认都关闭；此前开着的用户将继续保留聊天记录，但可单独决定是否用于训练。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/84c01ab81ba57ba6a5515507f3b691d51b74a54c.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

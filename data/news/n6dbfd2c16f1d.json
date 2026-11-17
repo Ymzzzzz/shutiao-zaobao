@@ -1,0 +1,71 @@
+{
+  "id": "n6dbfd2c16f1d",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊云科技建议能用代码的环节就不要调用模型",
+  "original_title": "Cut generative AI costs: Code for rules, models for judgment",
+  "summary": "亚马逊云科技撰文指出，生成式人工智能系统最大的成本杠杆是是否调用模型，并介绍如何判断流程中的每一步是否需要模型，再把规则交给确定性代码、把判断交给模型。以降低调用开销。",
+  "facts": [
+    {
+      "text": "亚马逊云科技在机器学习博客发文指出，生成式人工智能系统最大的成本杠杆是某个步骤要不要调用模型。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/"
+    },
+    {
+      "text": "文章称，不少团队会把输入校验、格式整理和路由等步骤都交给大模型处理。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊云科技称，不必要的模型调用会推高费用、叠加数百毫秒延迟，并因输出不稳定加大测试和审计难度。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
+      "is_primary": true,
+      "published_at": "2026-11-18T05:14:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T05:14:55+08:00",
+  "updated_at": "2026-11-18T05:14:55+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊云科技建议能用代码的环节就不要调用模型",
+  "lead_zh": "亚马逊云科技撰文指出，生成式人工智能系统最大的成本杠杆是是否调用模型，并介绍如何把规则交给代码、把判断交给模型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技在机器学习博客发文指出，生成式人工智能系统最大的成本杠杆，是某个流程步骤要不要调用模型。文章观察到，不少团队会把输入校验、格式整理和路由等本可用规则完成的工作，全部交给大语言模型；单次调用费用不高，但到生产规模后，这些低价值步骤往往会成为架构中最大的开支之一。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据亚马逊云科技称，不必要的模型调用会在生产环境从三方面带来负担：费用随请求量上升；链路中每次调用都会叠加数百毫秒延迟；同一输入可能得到不同输出，使测试更难、审计更慢。文章还提到，把温度设为**0**只能降低输出变化的可能性，并不能保证结果完全一致，受监管的工作负载因此更倾向使用规则。该公司建议先判断该步骤是否必须用模型，再对应到确定性代码、受约束的决策调用，或在Amazon Bedrock上选用体量合适的模型。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/3eda3ead2a87a6959964c42faefbffff4e94eb62.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/17/ML-22259-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

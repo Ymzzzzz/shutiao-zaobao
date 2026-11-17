@@ -1,0 +1,71 @@
+{
+  "id": "n1796857b9a1b",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "AWS Agent Registry支持用统一元数据治理智能体记录",
+  "original_title": "Govern and discover records with common metadata in AWS Agent Registry",
+  "summary": "亚马逊云科技介绍，管理员可在智能体注册中心定义带类型校验的自定义元数据字段，并要求每个智能体、外部工具服务器和技能记录都携带这些字段，以便统一发现和治理。文章还给出了示例。",
+  "facts": [
+    {
+      "text": "亚马逊云科技介绍，AWS Agent Registry现已支持自定义元数据模式。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/"
+    },
+    {
+      "text": "管理员可定义带类型校验的字段，要求智能体、MCP服务器和技能记录都填写。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊云科技称，发布者提交记录时需按管理员设定的模式提供字段值，注册中心会进行校验，审批方和调用方可据此审查、发现和筛选记录。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/",
+      "is_primary": true,
+      "published_at": "2026-11-18T04:31:04+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T04:31:04+08:00",
+  "updated_at": "2026-11-18T04:31:04+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AWS Agent Registry支持用统一元数据治理智能体记录",
+  "lead_zh": "亚马逊云科技介绍，管理员可在AWS Agent Registry中定义带类型校验的自定义元数据字段，并要求智能体、MCP服务器和技能都填写。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技介绍，AWS Agent Registry现已支持自定义元数据模式。该注册中心用于登记、审批和发现智能体、模型上下文协议服务器、技能及其他自定义记录，每条记录原本带有名称、描述、协议说明和审批状态。企业还希望统一跟踪业务部门、资源负责人、风险分级和开发环境等自有属性，但此前无法在注册中心定义并写入这些字段。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据亚马逊云科技称，管理员定义模式并应用到注册中心后，其中所有记录都必须遵循该模式。发布者在创建或提交记录时需填写相应字段，系统会按管理员设定的规则校验取值。审批人员可依据校验后的信息审查记录，使用者和智能体也能用这些字段发现和筛选资源，从而在同一套事实基础上治理和理解智能体资源。文章还以发布模型上下文协议服务器为例，说明了从定义模式到发现记录的流程。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/b5c8c8c36651e0073f649e6d4b668a5f42cee852.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-22167-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

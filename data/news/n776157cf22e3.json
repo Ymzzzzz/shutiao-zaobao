@@ -1,0 +1,71 @@
+{
+  "id": "n776157cf22e3",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "Model ML融资2.5亿美元，用智能体自动处理投行重复劳动",
+  "original_title": "Model ML raises $250M to automate investment banking grunt work",
+  "summary": "Model ML融资2.5亿美元。该公司称，其智能体能够理解银行家和咨询顾问所跟进交易的完整背景，并在出现新进展时自动更新财务模型和演示文稿，减少重复劳动。面向投行和咨询场景。",
+  "facts": [
+    {
+      "text": "伦敦创业公司Model ML完成2.5亿美元B轮融资，估值为15亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+    },
+    {
+      "text": "本轮由General Atlantic和早期投资方QED Investors共同领投，距离其宣布7500万美元A轮约一年。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该公司称，其智能体能够理解银行家和咨询顾问所跟进交易的完整背景，并在出现新进展时自动更新财务模型和演示文稿。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "is_primary": false,
+      "published_at": "2026-11-18T03:32:11+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T03:32:11+08:00",
+  "updated_at": "2026-11-18T03:32:11+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Model ML融资2.5亿美元，用智能体处理投行重复劳动",
+  "lead_zh": "Model ML称其智能体能够理解银行家和咨询顾问所跟进交易的完整背景，并在出现新进展时自动更新财务模型和演示文稿。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch报道，总部位于伦敦的创业公司Model ML完成**2.5**亿美元B轮融资，估值**15**亿美元。本轮由General Atlantic和早期投资方QED Investors共同领投，距离其宣布**7500**万美元A轮约一年。这家成立三年的公司由Chaz与Arnie Englander兄弟创立，两人此前还共同创办过点对点租借平台Fat Llama，该平台在**2022**年被瑞典公司Hygglo以**4150**万美元收购。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "该公司称，其智能体用于自动处理初级银行家和咨询顾问的传统工作，包括搭建财务模型、准备路演材料和撰写尽职调查报告，并能接入客户的系统、数据和Excel、PowerPoint等工具。据其介绍，智能体能够理解所跟进交易的完整背景，在出现新进展时自动更新分析和演示。公司还称，自己运行开源模型，成本约为前沿模型的**2%**，同时能给出更快结果。报道并提到，同类公司还有Hebbia和Rogo，后者在**4**月以**20**亿美元估值融资**1.6**亿美元。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/f9e9ea2e1f628431bb1876c3dad2e4a54b39d1b8.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

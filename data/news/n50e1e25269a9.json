@@ -1,0 +1,71 @@
+{
+  "id": "n50e1e25269a9",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达董事会表示不打算让黄仁勋重返首席执行官职位",
+  "original_title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+  "summary": "据WIRED报道，尽管面临美国总统特朗普、马斯克以及硅谷高管的压力，英伟达董事会仍表示，不打算恢复已被免职的首席执行官黄仁勋的职务，目前没有相关安排。董事会态度目前没有松动。",
+  "facts": [
+    {
+      "text": "据WIRED报道，英伟达在周二公布第三季度财报的电话会议上，董事会主席Harvey Jones明确表示不打算让黄仁勋重返首席执行官职位。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/"
+    },
+    {
+      "text": "Jones称，11月12日董事会在披露相关个人行为后，一致接受了黄仁勋的辞呈。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Jones称，在披露黄仁勋个人行为不符合公司行为准则、标准和公司文化常规后，他自愿辞去职务，董事会不打算恢复其首席执行官职务。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "is_primary": false,
+      "published_at": "2026-11-18T06:19:19+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T06:19:19+08:00",
+  "updated_at": "2026-11-18T06:19:19+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达董事会表示不打算让黄仁勋重返首席执行官职位",
+  "lead_zh": "据WIRED报道，尽管面临美国总统特朗普、马斯克和硅谷高管的压力，英伟达董事会仍表示不打算恢复已被免职的首席执行官职务。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据WIRED报道，英伟达周二公布第三季度财报时，业绩本身被前任首席执行官去职风波盖过。董事会主席Harvey Jones在财报电话会议一开始先强调公司实力和所谓突破性技术，随即转向黄仁勋离职一事，并明确表示他不会回归。该媒体导语还称，尽管面临美国总统特朗普、马斯克以及硅谷高管的压力，董事会仍持这一立场。报道并在文末注明，这仍是一条正在发展、请读者稍后查看更新的新闻。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Jones在会上说，**11**月**12**日董事会宣布，在披露黄仁勋个人行为不符合公司行为准则、标准和公司文化常规后，他自愿辞去相关职务，董事会一致接受辞呈，并且不打算让其重返首席执行官职位。WIRED引述了这段开场说明，作为董事会目前没有安排让其回归的依据。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/4d47618fa907f21f09d487c4e67385d741972def.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6afccb299b8ae6ebe897d1d7/master/pass/2026-11-12T153402Z_941150596_RC2X6I9AZJQN_RTRMADP_3_NVIDIA-CEO-COLETTE-KRESS.JPG",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

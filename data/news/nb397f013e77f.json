@@ -1,0 +1,117 @@
+{
+  "id": "nb397f013e77f",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "亚马逊与谷歌上市后合计将持有Anthropic近三成股份",
+  "original_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+  "summary": "据TechCrunch报道，Anthropic上市后亚马逊持股将略低于15%，并保留进一步提升的空间；谷歌持股约14%，两家合计接近30%，且均为无投票权股份。",
+  "facts": [
+    {
+      "text": "上市后亚马逊将持股略低于15%，谷歌约13.7%，两家均为无投票权股份。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+    },
+    {
+      "text": "包括谷歌和英伟达在内的科技公司集团同意购买260亿美元无投票权股票，谷歌和英伟达各承诺购买100亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "is_primary": false,
+      "published_at": "2026-11-18T06:29:05+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T06:29:05+08:00",
+  "updated_at": "2026-11-18T06:29:05+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊与谷歌上市后合计将持有Anthropic近三成股份",
+  "lead_zh": "据TechCrunch报道，Anthropic上市后亚马逊持股将略低于15%，谷歌约14%，两家合计接近30%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch报道，Anthropic上市后，亚马逊持股将略低于**15%**，并有进一步提升的空间；谷歌以约**13.7%**紧随其后，两家合计接近**30%**，且均为无投票权股份。亚马逊在2023年和2024年对Anthropic的投资形成了可转股票据，转换价格约为每股**2.09**美元或**5.05**美元。",
+        "亚马逊选择在此次上市中把部分票据转成约**15%**的特殊无投票权股份，但仍持有价值数十亿美元的票据；若现在全部转换，持股将达到约**23.8%**。包括AMD、博通、谷歌、美光、微软、英伟达和台积电相关方在内的科技公司集团，同意购买**260**亿美元这种无投票权股票，其中谷歌和英伟达各承诺购买**100**亿美元。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "媒体怎么写",
+      "paras": [
+        "TechCrunch称，尽管许多投资者都可能在Anthropic上市中获得可观回报，亚马逊仍是最大赢家之一，而这还不包括亚马逊云科技可能从Anthropic承诺在未来十年支出超过**1000**亿美元云服务中获得的收入。该报道指出，这些无投票权股份可以领取股息，并在出售时转为有投票权的A类股。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/e9dbabed33b1d95e09acade6d159ffcc536918af.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+  "fulltext_status": "ok",
+  "read_minutes": 2,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Julie Bort",
+    "author_title_zh": "",
+    "published_at": "2026-11-17",
+    "title_en": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "title_zh": "亚马逊与谷歌上市后合计将持有Anthropic近30%股份",
+    "dek_en": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+    "dek_zh": "上市后亚马逊将持有略低于15%的股份，并有权提高到更高水平。谷歌以近14%的持股紧随其后。",
+    "word_count_zh": 558,
+    "read_minutes": 2,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "Anthropic周二披露了与主要云服务商亚马逊和谷歌之间最大投资协议的更多细节。",
+        "en": "Anthropic on Tuesday disclosed more details about the biggest investment agreements with major cloud providers Amazon and Google."
+      },
+      {
+        "t": "p",
+        "zh": "尽管我们已经知道亚马逊有望从其在Anthropic的投资中，在上市时大赚一笔，但Anthropic透露，亚马逊的总持股将略低于15%（精确为14.7%）。",
+        "en": "While we already knew that Amazon stood to make a killing on its Anthropic investments from the IPO, Anthropic revealed that Amazon’s total stake will come in at just shy of 15% (14.7% to be exact)."
+      },
+      {
+        "t": "p",
+        "zh": "更有意思的是，如果亚马逊愿意，它本可以持有该公司更大的股份。当亚马逊在2023年和2024年向Anthropic投入数十亿美元时（那是在Claude Code风靡企业界之前很久，当时Anthropic看起来将永远只是OpenAI阴影下的一个小点），这家云巨头获得了可转换为股权的本票。",
+        "en": "Even more interesting is that Amazon could have, if it wished, owned an even bigger share of the company. When Amazon invested billions in Anthropic in 2023 and 2024 (long before Claude Code took the enterprise world by storm, back in the day when Anthropic looked like it would forever be a speck in OpenAI’s shadow), the cloud giant obtained promissory notes that could convert into equity."
+      },
+      {
+        "t": "p",
+        "zh": "这些本票的转换价格约为每股2.09美元或5.05美元，取决于投资年份。亚马逊已选择在此次上市中转换其中一部分，变为将给予其约15%所有权的特殊类别无投票权股份。（文件称，这些股份可以获得股息，并在出售时转换为标准的有投票权A类股份。）",
+        "en": "These notes carry conversion prices of about $2.09 or $5.05 per share, depending on the year of investment. Amazon has opted to convert a chunk of them as part of the IPO into a special class of non-voting shares that will give it about 15% ownership. (The shares can receive dividends and convert to standard voting Class A shares when sold, the filing says)."
+      },
+      {
+        "t": "p",
+        "zh": "但它目前也选择继续持有价值数十亿美元的本票。如果现在全部转换，它将持有略低于24%的Anthropic股份（精确为23.8%）。",
+        "en": "But it has also opted to hold on to billions of dollars’ worth of the notes for now. If it converted them all right now, it would own just under 24% of Anthropic (23.8% to be precise)."
+      },
+      {
+        "t": "p",
+        "zh": "与此同时，谷歌将持有略低于14%（13.7%）的股份，同样是无投票权股份，来自本票转换以及此次上市中的「私募配售」售股。一组大型科技公司（AMD、Broadcom、谷歌、Micron、微软、英伟达和TSMC Partners）已同意购买价值260亿美元的这类无投票权股票。谷歌和英伟达各自同意购买价值100亿美元。",
+        "en": "Google, meanwhile, will own just under 14% (13.7%), also in non-voting shares, which come from the conversion of notes, as well as the “private placement” sale of shares as part of this IPO. A group of major tech companies (AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC Partners) have agreed to buy $26 billion worth of this non-voting stock. Google and Nvidia each agreed to buy $10 billion worth."
+      },
+      {
+        "t": "p",
+        "zh": "因此，尽管许多投资者有望在Anthropic上市中赚到数十亿美元，亚马逊仍是最大赢家之一，而这还没有计入AWS将因Anthropic承诺在未来十年在其云服务上花费超过1000亿美元而获得的收入。",
+        "en": "So while a lot of investors stand to make billions of dollars in Anthropic’s IPO, Amazon is one of the biggest winners, and that doesn’t even count that AWS stands to earn from Anthropic’s commitment to spend more than $100 billion on its cloud services over the next decade."
+      }
+    ]
+  }
+}

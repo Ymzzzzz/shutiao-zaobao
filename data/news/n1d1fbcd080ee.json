@@ -1,0 +1,71 @@
+{
+  "id": "n1d1fbcd080ee",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "论文提出约束机制，防止智能体被静默接口错误误导",
+  "original_title": "Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failures",
+  "summary": "一篇新论文指出，大模型智能体常调用接口并直接采信返回结果，但接口可能静默失败：部分请求被忽略，却仍返回成功状态码和看似合理却错误的结果，从而误导后续判断。论文提出相应约束机制。",
+  "facts": [
+    {
+      "text": "一篇论文提出约束机制SilentGuard，用于防止大模型智能体被静默接口错误误导。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.20595"
+    },
+    {
+      "text": "作者在15个公开研究接口中的11个发现了静默失败。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.20595"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据论文称，在7个开源模型上，该方法把目标故障上的错误答案比例从74.0%降到1.7%。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.20595"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.20595",
+      "is_primary": true,
+      "published_at": "2026-11-17T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T08:00:00+08:00",
+  "updated_at": "2026-11-17T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "论文提出约束机制，防止智能体被静默接口错误误导",
+  "lead_zh": "一篇新论文指出，大模型智能体调用接口时可能遇到静默失败：请求部分被忽略，却仍返回成功状态和看似合理的结果。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "一篇新论文提出约束机制SilentGuard。作者指出，大模型智能体常通过调用接口来回答问题并直接采信返回结果，但接口可能静默失败：例如错误命名的过滤条件被忽略，却仍返回成功状态码和看似合理却错误的结果。现有检查清单、审查模型或评判模型往往让模型自己发现错误，但模型即使看出问题也仍可能给出答案。新方法把判断从模型转到执行工具调用的运行层，用正确接口必须满足的不变量检验结果，并扣留违反规则的返回值。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据论文称，作者在**15**个公开研究接口中的**11**个发现了静默失败，计数最多被放大**691**倍；现有修补方法仍会使超过70%的答案出错。在**7**个开源模型上，该方法把目标故障上的错误答案比例从**74.0%**降到**1.7%**，且在无故障任务上没有损失；在三个前沿模型上则从**70.2%**降到**0.5%**。若只发出同样检查的警告，错误率仍有70.1%，因此关键在于强制执行。面对新的故障类型，仅运行层也可把错误答案从61.1%降到24.5%。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/45ea77f66c9879784527fe371338e0144fa54681.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.20595.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

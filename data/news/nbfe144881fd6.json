@@ -1,0 +1,71 @@
+{
+  "id": "nbfe144881fd6",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌将把Gemini的训练授权与聊天记录开关分开",
+  "original_title": "Google makes it easier to use Gemini without training AI on your data",
+  "summary": "据Ars Technica报道，谷歌将在Gemini活动设置中把人工智能训练授权和聊天记录保留做成两个独立开关，使用户不必为关闭训练授权而丢掉自己的历史记录。两项设置将不再捆绑。",
+  "facts": [
+    {
+      "text": "据Ars Technica报道，谷歌将在Gemini活动设置中把人工智能训练授权和聊天记录做成两个独立开关。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+    },
+    {
+      "text": "此前用户若要停止把对话用于训练，只能关闭历史记录。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌称，已用于训练的数据最多可能保留三年，以改进其模型。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "is_primary": false,
+      "published_at": "2026-11-18T00:50:10+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T00:50:10+08:00",
+  "updated_at": "2026-11-18T00:50:10+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌将把Gemini的训练授权与聊天记录开关分开",
+  "lead_zh": "据Ars Technica报道，谷歌将在Gemini活动设置中把训练授权和聊天记录做成两个独立开关，使用户不必为关闭训练而丢掉历史。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据Ars Technica报道，谷歌正在向Gemini应用推送新的活动设置，把模型训练授权和聊天记录拆成两个独立开关。此前，用户若要停止把对话内容及附件用于训练，只能关闭历史记录，因而无法再回到过去的对话。调整后，历史记录仍可设置保存期限，但不必再为关闭训练而清空历史。训练授权采用选择退出方式，相关开关位于Gemini设置的活动项中，也可从谷歌账号的数据和隐私页面进入。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "报道强调，这一变更只适用于今后与Gemini的互动；如果用户此前已经把输入、回复、上传文件、工具调用、位置或已连接应用中的数据提供给谷歌，这些内容可能已进入训练数据。谷歌称，为改进模型，这类数据最多可能保留**3**年。该公司此前表示会尝试从活动历史中过滤个人信息，但报道指出这并不能保证。无论设置如何，用户仍可在服务器上手动删除不想保存的内容。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/53448dac161820c3a9adcb13edf8e81ac3159be7.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

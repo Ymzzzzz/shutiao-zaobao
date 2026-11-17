@@ -1,0 +1,71 @@
+{
+  "id": "nf378d4ace0f3",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌罕见发声明称Gmail运行正常，并未出现故障",
+  "original_title": "Google joins the tech outage trend by announcing it’s not having one",
+  "summary": "据TechCrunch报道，在科技行业接连出现服务故障之际，谷歌一反常态地主动宣布，Gmail目前运行正常，并没有出现类似的服务中断，希望借此安抚用户。这一声明引发关注。",
+  "facts": [
+    {
+      "text": "据TechCrunch报道，谷歌周二在X上发声明称，目前没有看到Gmail出现大范围服务中断的证据，并提醒用户可在官方状态页查看实时情况。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
+    },
+    {
+      "text": "该声明出现在网上流传Gmail故障说法、同时苹果也出现已确认故障之际。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据美国国家情报总监Jay Clayton称，美方目前没有看到协同网络攻击或国家支持活动的迹象，并把近期故障更多归因于企业正在更大规模地打补丁。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "is_primary": false,
+      "published_at": "2026-11-18T05:34:50+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T05:34:50+08:00",
+  "updated_at": "2026-11-18T05:34:50+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌罕见发声明称Gmail运行正常，并未出现故障",
+  "lead_zh": "据TechCrunch报道，在科技行业接连出现服务故障之际，谷歌特意宣布Gmail目前运行正常，并未发生类似中断。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch报道，在科技行业接连出现服务故障之际，谷歌周二在X上发声明称，目前没有看到Gmail出现大范围服务中断的证据，并提醒用户可在官方状态页查看实时情况。该媒体称，这一少见的主动说明，是为了回应当天在同一平台上开始流传的Gmail故障说法，当时苹果也出现了多起已确认的服务中断；有人说遇到了问题，也有人表示并未受影响。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "报道称，相关担忧似乎源自故障汇总网站Downdetector上的帖子。该媒体同时提到，过去一周苹果和微软出现过故障，美国联邦航空局网络故障还导致全国范围的停飞，部分银行和航司也报告了中断。美国国家情报总监Jay Clayton当天在电视节目中称，美方目前没有看到协同网络攻击或国家支持活动的迹象，并把问题增多更多归因于企业正在更大规模地打补丁；他表示，有些系统因此未能如预期恢复。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

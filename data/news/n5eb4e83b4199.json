@@ -1,0 +1,66 @@
+{
+  "id": "n5eb4e83b4199",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "论文提出用能量模型改进循环推理网络",
+  "original_title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+  "summary": "一篇新论文认为，通过反复迭代循环模块来增加有效深度，是一种有力的推理归纳偏置，但现有循环推理器仍有不足，作者主张把这类推理器做成能量模型以改进效果。该论文已公开。",
+  "facts": [
+    {
+      "text": "一篇论文提出能量推理器，主张把循环推理器做成能量模型，通过能量函数衡量隐空间推理状态并指导迭代更新。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.08977"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据论文称，在四项算法推理基准上，该方法达到或超过已有循环推理模型，并在Sudoku-Extreme上取得99.9%准确率。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.08977"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.08977",
+      "is_primary": true,
+      "published_at": "2026-11-17T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T08:00:00+08:00",
+  "updated_at": "2026-11-17T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "论文提出用能量模型改进循环推理网络",
+  "lead_zh": "一篇新论文认为，循环推理块虽能增加有效深度，但现有做法仍有不足，并主张把循环推理器做成能量模型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "一篇新论文提出能量推理器，认为通过反复迭代循环模块来增加有效深度，是一种有力的推理归纳偏置，但现有循环模型往往缺少明确的进展度量，因而难以判断何时停止循环、如何改进当前状态。作者把循环更新写成对该能量函数的梯度下降：能量用于为隐状态打分，其梯度则指导 修正，并提供停止信号。为更好训练，他们还引入基于探索的训练，以发现更多模式并塑造更广的能量地形。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据论文称，在四项算法推理基准上，该方法达到或超过已有循环推理模型，在Sudoku-Extreme上取得**99.9%**准确率，推理计算量仅为次优模型的约**1/345**，训练计算量则大致相当。在所有多解基准上，作者称其在保持接近**100%**单次采样准确率的同时，对互不相同的有效解覆盖达到当时最优。他们认为，能量模型是提升推理表现的一条可行路径。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/15c0d120ae454c660b4ba4f8cb93782310cc55bd.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.08977.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

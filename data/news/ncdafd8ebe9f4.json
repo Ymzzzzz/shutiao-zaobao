@@ -1,0 +1,71 @@
+{
+  "id": "ncdafd8ebe9f4",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "美国司法部称正在调查新加坡数据中心公司Megaspeed",
+  "original_title": "The DOJ says it’s investigating Megaspeed",
+  "summary": "据The Verge报道，美国司法部和商务部表示，正在调查新加坡数据中心公司Megaspeed。该公司与英伟达前首席执行官黄仁勋的辞职事件存在关联，调查仍在进行。",
+  "facts": [
+    {
+      "text": "据The Verge报道，美国司法部和商务部周一晚间发表声明称，正在调查新加坡数据中心公司Megaspeed。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
+    },
+    {
+      "text": "声明列举，商务部于2024年启动调查，2025年6月司法部开始主导刑事调查。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据两部门称，发表声明是为了提供事实并回应公开报道中不准确的信息。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "is_primary": false,
+      "published_at": "2026-11-18T00:19:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T00:19:03+08:00",
+  "updated_at": "2026-11-18T00:19:03+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "美国司法部称正在调查新加坡数据中心公司Megaspeed",
+  "lead_zh": "据The Verge报道，美国司法部和商务部表示，正在调查与英伟达前首席执行官黄仁勋辞职事件有关的新加坡数据中心公司Megaspeed。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Verge报道，美国司法部和商务部周一晚间发表声明称，正在调查新加坡数据中心公司Megaspeed。声明出现在有报道称相关调查去年曾被叫停之后。两部门列出时间线：商务部在**2024**年因可疑的敏感半导体转移启动调查；**2025**年**5**月向英伟达调取与该公司有关的销售记录；同年**6**月英伟达将其列入禁售名单，商务部工业与安全局还与新加坡执法部门上门做最终用途检查。此后司法部开始主导对该公司的刑事调查。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "两部门称，虽然通常不对正在进行的调查发表评论，但鉴于公众高度关注，有必要提供事实并回应公开报道中不准确的信息，并将依法追究该公司可能存在的任何犯罪行为。报道同时回顾，黄仁勋上周辞去英伟达首席执行官职务，此前有报道称他与该公司前高管、被指为中国间谍的Alice Huang有婚外关系；Megaspeed称对方已于**2025**年**8**月离职。声明并未详细说明眼下案件的进展。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/6cbaa5b0cc25c6dc5d545ab6347dabe70b2974db.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "n6ab4eb3121ad",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Proton推出注重隐私的Lumo桌面应用，可自动处理跨软件任务",
+  "original_title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+  "summary": "Proton面向Windows、Mac和Linux发布Lumo桌面应用，可在文件和已连接应用之间自动执行任务，并让用户精细控制人工智能能够访问的范围，定位为注重隐私的助手。",
+  "facts": [
+    {
+      "text": "注重隐私的科技公司Proton周二面向Windows、macOS和Linux发布Lumo桌面应用，可在本地文件和已连接应用之间自动执行任务。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
+    },
+    {
+      "text": "应用支持文件系统、命令行、浏览器内容抓取，以及Proton邮箱、Confluence、Dropbox和Jira等连接器。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Proton称，用户可为每个连接器设定哪些操作自动执行、哪些需批准、哪些完全禁止，且相关对话和信息不会用于个性化广告或训练模型。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "is_primary": false,
+      "published_at": "2026-11-18T01:32:25+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T01:32:25+08:00",
+  "updated_at": "2026-11-18T01:32:25+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Proton推出注重隐私的Lumo桌面应用，可跨软件办事",
+  "lead_zh": "Proton面向Windows、Mac和Linux发布Lumo桌面应用，可在文件和已连接应用之间自动执行任务，并让用户精细控制访问范围。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch报道，注重隐私的科技公司Proton周二面向Windows、macOS和Linux发布Lumo桌面应用，让用户可在本地文件和已连接应用之间自动执行任务。该公司本已提供电子邮件、办公、密码管理和云存储等替代产品。新应用支持文件系统访问、命令行执行和浏览器内容抓取，也可连接Proton邮箱以及Confluence、Dropbox、Jira，并支持本地和远程的模型上下文协议服务器。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Proton称，用户可以自行选择哪些智能体操作需要先征得批准，并保证来自已连接应用和文件的对话与信息，不会用于投放个性化广告或训练人工智能模型。用户还可为每个连接器分别设定哪些操作自动执行、哪些需要批准、哪些完全禁止，也可以在对话的工具菜单里关闭单项工具。报道还提到，苹果本周正收紧对请求「完全磁盘访问」权限的应用的安全设置，而各类人工智能桌面应用通常会申请这一权限。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/ec568045d69f4a2c21cde1b6d11f60383c8f76c2.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

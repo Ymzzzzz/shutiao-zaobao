@@ -1,0 +1,263 @@
+{
+  "id": "n2adb42fb6372",
+  "category": "应用案例",
+  "importance": 2,
+  "verified": true,
+  "title": "微软与Salesforce宣布Copilotforce，把客户数据接入办公助手",
+  "original_title": "Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences",
+  "summary": "微软与Salesforce宣布推出Copilotforce合作，把客户数据、业务流程和操作接入微软Copilot、Teams和Fabric，并在公开预览中提供Salesforce插件及38项以上预置销售技能。",
+  "facts": [
+    {
+      "text": "微软与Salesforce于2026年11月17日宣布Copilotforce合作，并在Ignite上发布相关集成。",
+      "source": "Microsoft Source AI",
+      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences/"
+    },
+    {
+      "text": "Salesforce in Copilot插件进入公开预览，提供38项以上预置销售技能。",
+      "source": "Microsoft Source AI",
+      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据微软商业业务首席执行官Judson Althoff称，人工智能的能力取决于其所依据的数据和上下文。",
+      "source": "Microsoft Source AI",
+      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Microsoft Source AI",
+      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences/",
+      "is_primary": true,
+      "published_at": "2026-11-18T02:10:16+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T02:10:16+08:00",
+  "updated_at": "2026-11-18T02:10:16+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "微软与Salesforce合作推出Copilotforce接入客户数据",
+  "lead_zh": "微软与赛富时宣布推出面向销售场景的办公助手合作，把客户数据和销售流程接入其办公助手、会议软件和数据分析平台，并保持原有安全权限。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "微软与Salesforce于2026年**11月17日**宣布推出Copilotforce合作，把Salesforce中的客户上下文、业务流程和操作接入微软Copilot及其他人工智能办公体验，并在微软Ignite上公布。新集成覆盖Copilot、Teams和Fabric，其中包括进入公开预览的Salesforce in Copilot插件，提供**38**项以上预置销售技能。",
+        "双方还将在Salesforce Data 360与微软Fabric之间建立双向零拷贝集成，以便在不复制数据集的情况下查询和分析数据。埃森哲担任设计和实施伙伴，也是试点客户，将在其全球销售组织中部署这些集成。卖方可通过经过认证的Salesforce MCP访问，在现有权限内检索客户信息并执行受支持的业务操作。"
+      ],
+      "sources": [
+        "Microsoft Source AI"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "两家公司称，该合作让员工在已经使用的工具里完成更多工作，同时保持原有的安全、治理和权限。微软商业业务首席执行官Judson Althoff称，「人工智能的能力取决于其所依据的数据和上下文」，并把Salesforce客户数据与Copilot中的Work IQ工作上下文结合起来，帮助销售团队更快、更有把握地做决定。"
+      ],
+      "sources": [
+        "Microsoft Source AI"
+      ]
+    }
+  ],
+  "image_url": "img/ac4b0292ccc1ed752b2bb8db185e12cd41b3d203.jpg",
+  "image_source": "Microsoft Source AI",
+  "image_origin_url": "https://news.microsoft.com/source/wp-content/uploads/2026/11/Microsoft_salesforce_1024x576.png",
+  "fulltext_status": "ok",
+  "read_minutes": 8,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Microsoft Source",
+    "author_title_zh": "",
+    "published_at": "2026-11-17",
+    "title_en": "Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences",
+    "title_zh": "微软与Salesforce宣布推出Copilotforce，把可信的客户上下文与行动接入微软人工智能体验",
+    "dek_en": "",
+    "dek_zh": "",
+    "word_count_zh": 3061,
+    "read_minutes": 8,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "• 新的集成将Salesforce与Microsoft Copilot、Teams和Fabric连接起来，帮助企业在保持现有安全和权限的前提下，把Salesforce中的客户洞察转化为行动。",
+        "en": "• New integrations connect Salesforce with Microsoft Copilot, Teams and Fabric, helping enterprises turn Salesforce customer insights into action while maintaining existing security and permissions."
+      },
+      {
+        "t": "p",
+        "zh": "• Salesforce Data 360与Microsoft Fabric之间新的双向零拷贝集成，使组织能够在无需维护重复数据集的情况下，安全地跨两个平台查询和分析数据。",
+        "en": "• New two-way Zero Copy integrations between Salesforce Data 360 and Microsoft Fabric enable organizations to securely query and analyze data across both platforms without maintaining duplicate datasets."
+      },
+      {
+        "t": "p",
+        "zh": "• Accenture担任设计和实施合作伙伴及试点客户，在其自身的全球销售组织中部署这些集成。",
+        "en": "• Accenture is serving as design and implementation partner and pilot customer, deploying the integrations in its own global sales organization."
+      },
+      {
+        "t": "p",
+        "zh": "华盛顿州雷德蒙德与旧金山——2026年11月17日——微软公司（纳斯达克：MSFT）与Salesforce公司（纽约证券交易所：CRM）今天宣布推出Copilotforce。这一新合作伙伴关系把Salesforce的客户上下文、业务流程和行动带入Microsoft Copilot及其他人工智能生产力体验，帮助员工在已有工具中完成更多工作。",
+        "en": "REDMOND, Wash., and SAN FRANCISCO — Nov. 17, 2026 — Microsoft Corp. (NASDAQ: MSFT) and Salesforce Inc. (NYSE: CRM) today announced Copilotforce, a new partnership that helps employees get more done in the tools they already use by bringing Salesforce customer context, business processes and actions into Microsoft Copilot and other AI-powered productivity experiences."
+      },
+      {
+        "t": "p",
+        "zh": "该合作伙伴关系在Microsoft Ignite上公布，引入了跨越Microsoft Copilot、Microsoft Teams和Microsoft Fabric的新集成，包括Salesforce in Copilot，这是一款处于公开预览的插件，带有38多项预置销售技能。这些能力共同帮助企业行动更快、减少手工操作，并从现有技术投资中获得更多价值，同时维持他们已经依赖的安全、治理和权限。",
+        "en": "Unveiled at Microsoft Ignite, the partnership introduces new integrations across Microsoft Copilot, Microsoft Teams and Microsoft Fabric, including Salesforce in Copilot, a plugin available in public preview with 38+ prebuilt sales skills. Together, these capabilities help businesses move faster, reduce manual work and get more value from their existing technology investments — while maintaining the security, governance and permissions they already rely on."
+      },
+      {
+        "t": "p",
+        "zh": "把Salesforce工作流与Microsoft 365中的对话、会议和文档结合在一起，意味着花在系统之间来回切换的时间更少，把时间更多用在真正重要的工作上。Salesforce in Copilot把客户上下文与业务各处正在进行的工作连接起来，让员工能够做出更知情的决策并采取行动，而不必不断切换应用。",
+        "en": "Bringing Salesforce workflows together with conversations, meetings and documents in Microsoft 365 means less time spent moving between systems and more time on the work that matters. Salesforce in Copilot connects customer context with the work happening across the business so employees can make more informed decisions and take action without constantly switching applications."
+      },
+      {
+        "t": "p",
+        "zh": "为Copilot提供智能层的Microsoft Work IQ，可从Teams会议、Outlook电子邮件以及SharePoint和OneDrive中的文档提供相关上下文。Work IQ与Salesforce帮助销售人员不仅了解客户关系管理中记录了什么，还了解客户对话与协作中正在发生什么，以及接下来需要做什么。",
+        "en": "Microsoft Work IQ, the intelligence layer powering Copilot, provides relevant context from Teams meetings, Outlook emails and documents across SharePoint and OneDrive. Work IQ and Salesforce help sellers understand not only what’s recorded in CRM, but what’s happening across customer conversations and collaboration — and what needs to happen next."
+      },
+      {
+        "t": "p",
+        "zh": "通过经过认证的Salesforce MCP访问，销售人员可以在其现有Salesforce权限范围内，安全地检索客户信息并执行受支持的业务操作。Salesforce继续治理访问和业务操作，而微软则将其现有的企业合规控制应用于通信和文档。数据、上下文以及销售人员工作所用的应用，在销售周期的实际工作流中被激活，包括：",
+        "en": "Through authenticated Salesforce MCP access, sellers can securely retrieve customer information and take supported business actions within their existing Salesforce permissions. Salesforce continues to govern access and business actions, while Microsoft applies its existing enterprise compliance controls to communications and documents. Data, context and the apps where sellers work come to life in practical workflows across the sales cycle, including:"
+      },
+      {
+        "t": "p",
+        "zh": "• 促进收入。使用Pipeline Review和Close Planning技能，判断哪些商机值得关注，并制定通向签约的具体路径。客户优先级和交易上下文，为销售人员在Word和PowerPoint中撰写的提案和商业论证提供依据，并明确负责人、里程碑和下一步。",
+        "en": "• Grow Revenue. Use the Pipeline Review and Close Planning skills to decide which opportunities deserve attention and build a concrete path to signature. Customer priorities and deal context inform the proposals and business cases sellers develop in Word and PowerPoint, with clear owners, milestones and next steps."
+      },
+      {
+        "t": "p",
+        "zh": "• 管理风险。把Salesforce商机数据，与Outlook中提出的客户关切、Teams中讨论的升级事项以及尚未解决的承诺联系起来。Deal Review、Customer Health和Renewal Radar技能，能看到记录阶段或续约日期之外的内容：Outlook线程中的客户关切、Teams中讨论的升级，或导致交易停滞的未决承诺，帮助销售人员判断该在何处介入。",
+        "en": "• Manage Risk. Connect Salesforce opportunity data with customer concerns raised in Outlook, escalations discussed in Teams and unresolved commitments. The Deal Review, Customer Health and Renewal Radar skills see beyond the recorded stage or renewal date to the customer concern in an Outlook thread, the escalation discussed in Teams or the unresolved commitment behind a stalled deal, helping sellers identify where to intervene."
+      },
+      {
+        "t": "p",
+        "zh": "• 行动更快。使用Call Follow-Up技能，把客户对话转化为后续跟进草稿、内部纪要和建议的客户关系管理活动。销售人员可以审阅并确认下一步，而不必手工重建对话并更新多个系统。",
+        "en": "• Move faster. Turn customer conversations into follow-up drafts, internal recaps and proposed CRM activities using the Call Follow-Up skill. Sellers can review and confirm next steps instead of manually reconstructing conversations and updating multiple systems."
+      },
+      {
+        "t": "p",
+        "zh": "当Copilot成为业务流程的入口时，Salesforce in Copilot让组织能够通过Copilot开放且可互操作的平台，把他们已经依赖的系统中的Salesforce数据、工作流、智能体和预置技能汇集到一起。",
+        "en": "With Copilot as the front door to business process, Salesforce in Copilot allows organizations to bring together Salesforce data, workflows, agents and prebuilt skills from the systems they already rely on through Copilot’s open and interoperable platform."
+      },
+      {
+        "t": "p",
+        "zh": "「人工智能的能力，取决于支撑它的数据和上下文，」微软商业业务首席执行官Judson Althoff说。「把Salesforce的客户数据和销售技能，与Microsoft Copilot中由Work IQ提供的工作上下文结合在一起，能让我们的共同客户在核心业务应用中释放可执行的洞察。Copilotforce将为销售团队提供他们所需的智能，以便在维持企业所要求的治理和信任的同时，做出更快、更有把握的决策。」",
+        "en": "“AI is only as powerful as the data and context that grounds it,” said Judson Althoff, CEO, Microsoft Commercial Business. “Bringing Salesforce customer data and sales skills together with the work context delivered by Work IQ in Microsoft Copilot allows our joint customers to unlock actionable insights across their core business applications. Copilotforce will give sales teams the intelligence they need to make faster, higher-confidence decisions while maintaining the governance and trust enterprises demand.”"
+      },
+      {
+        "t": "p",
+        "zh": "「通过Copilotforce，我们把Salesforce带到当今企业软件中最大的界面上，把可信的Salesforce上下文和智能销售工作流，直接嵌入销售人员工作的地方，」Salesforce总裁兼首席运营官Miguel Milano说。「把排名第1的客户关系管理与排名第1的生产力界面结合在一起，我们正在把人工智能从独立工具，转变为推动生产力、更明智决策和客户成功的强大驱动力。」",
+        "en": "“Through Copilotforce, we’re bringing Salesforce to the largest surface in enterprise software today, embedding trusted Salesforce context and intelligent sales workflows directly where sellers work,” said Miguel Milano, President & Chief Operating Officer, Salesforce. “By bringing together the #1 CRM with the #1 productivity surface, we’re transforming AI from a standalone tool into a powerful driver of productivity, smarter decisions and customer success.”"
+      },
+      {
+        "t": "p",
+        "zh": "在人们工作的场所扩展连接",
+        "en": "Expanding connection in the places people work"
+      },
+      {
+        "t": "p",
+        "zh": "对许多组织来说，工作首先从Microsoft Teams开始，人们在那里共享文件、做出决策并把工作交接给他人。现已进入试点的Sales Cloud in Teams，把Salesforce客户上下文直接带入这些对话，让销售人员可以查看管道和配额进展、获得交易通知并找到简报材料，而无需离开已经在做决策的地方。",
+        "en": "For many organizations, the work first starts in Microsoft Teams, where people share files, make decisions and hand work to each other. Sales Cloud in Teams, now available in pilot, brings Salesforce customer context directly into those conversations, so sellers can see pipeline and quota progress, get deal notifications and find briefing materials without leaving the place where decisions are already being made."
+      },
+      {
+        "t": "p",
+        "zh": "在这些微软与Salesforce的集成中，客户数据在每一个边界都受到保护：Salesforce控制数据访问并治理受支持的业务操作，微软则确保通信和文档遵守现有的企业合规政策。向客户关系管理回写的受支持操作需要用户明确确认，并尊重现有校验规则，从而让团队可以有信心地行动，同时客户记录保持受治理和可审计。",
+        "en": "Across these Microsoft and Salesforce integrations, customer data remains protected at every boundary: Salesforce controls data access and governs supported business actions, while Microsoft ensures communications and documents adhere to existing enterprise compliance policies. Supported writeback actions to the CRM require explicit user confirmation and respect existing validation rules, so teams can act with confidence while customer records stay governed and auditable."
+      },
+      {
+        "t": "p",
+        "zh": "人工智能只有在能够触达上下文时才有用。对许多企业来说，客户数据位于Salesforce，而运营和财务数据位于Microsoft Fabric。微软与Salesforce正在Salesforce Data 360与Microsoft Fabric之间引入双向零拷贝连接，让团队可以在两个平台上使用更完整的上下文开展工作，而不必搭建数据管道或维护重复数据集。",
+        "en": "AI is only as useful as the context it can reach, and for many enterprises customer data lives in Salesforce while operational and financial data lives in Microsoft Fabric. Microsoft and Salesforce are bringing a two-way Zero Copy connection between Salesforce Data 360 and Microsoft Fabric, so teams can work with fuller context across both platforms without building pipelines or maintaining duplicate datasets."
+      },
+      {
+        "t": "p",
+        "zh": "借助现已正式可用的Data Federation，共同客户现在可以直接在Salesforce Data 360中查询和分析受支持的Microsoft Fabric OneLake数据。服务人员可以看到某位客户账户上的近期采购，营销人员可以根据消费行为构建细分群体，人工智能智能体可以从当前数据中回答问题，而无需把源数据移出Fabric。现处于公开预览的Salesforce Data 360快捷方式，则允许组织把经过整理的Data 360客户智能安全共享到OneLake，以便数据团队将其与企业数据集一起用于分析、报告和人工智能工作负载，而不复制数据。",
+        "en": "With Data Federation, now generally available, joint customers can now directly query and analyze supported Microsoft Fabric OneLake data within Salesforce Data 360. A service agent can see a customer’s recent purchases on their account, a marketer can build a segment from spending behavior and an AI agent can answer from current data, all without moving the source data out of Fabric. Salesforce Data 360 shortcut, now in public preview, allows organizations to securely share curated Data 360 customer intelligence into OneLake so data teams can analyze it alongside enterprise datasets for analytics, reporting and AI workloads without duplicating data."
+      },
+      {
+        "t": "p",
+        "zh": "从设计合作伙伴到试点客户",
+        "en": "From design partner to pilot customer"
+      },
+      {
+        "t": "p",
+        "zh": "Accenture正作为这些新集成的设计和实施合作伙伴，与微软和Salesforce合作，凭借其在全球13个行业中与双方合作、交付业务成果的深厚专长。此外，Accenture已将Copilot扩展到超过740000人，并且作为全球最大的Salesforce用户之一拥有55000名用户，它也是试点客户，在自己的全球销售组织内部署并验证这些集成，并分享经验，帮助客户把已经在Salesforce和微软上的投资，转化为更好的销售方式，从而更快增长并降低风险。",
+        "en": "Accenture is working with Microsoft and Salesforce as the design and implementation partner for the new integrations, bringing deep expertise across 13 industries globally in delivering business outcomes with both partners. In addition, having scaled Copilot to more than 740,000 people and as one of the largest Salesforce users globally with 55,000 users, Accenture is also a pilot customer, deploying and validating the integrations within its own global sales organization and sharing learnings to help clients turn investments they have already made in Salesforce and Microsoft into a better way to sell, driving faster growth and lowering risk."
+      },
+      {
+        "t": "p",
+        "zh": "「作为Salesforce和微软的年度全球合作伙伴，同时也是它们的顶级客户之一，我们具备独特优势，能够运用专长帮助设计和实施Copilotforce，使客户能够迅速从技术投资中获得更多价值，」Accenture董事长兼首席执行官Julie Sweet说。「我们三家公司的综合优势将用人工智能重塑销售，让销售人员有更多时间陪伴客户，同时可信的智能和智能体在他们已经使用的工具中与他们并肩工作。我们也高兴担任Copilotforce的零号客户。」",
+        "en": "“As a Global Partner of the Year for both Salesforce and Microsoft and one of their top customers, we are uniquely positioned to bring our expertise to help design and implement Copilotforce so that our clients can quickly get more value from their technology investments,” said Julie Sweet, Chair and CEO, Accenture. “The combined strengths of our three companies will reinvent sales with AI, giving sellers more time with customers while trusted intelligence and agents work alongside them in the tools they already use. We are also excited to serve as customer zero for Copilotforce.”"
+      },
+      {
+        "t": "p",
+        "zh": "上市情况*",
+        "en": "Availability*"
+      },
+      {
+        "t": "p",
+        "zh": "Salesforce in Copilot即日起进入公开预览（测试版）。从Microsoft OneLake到Salesforce Data 360的数据联邦现已正式可用，从Data 360向OneLake的数据共享处于公开预览。Sales Cloud in Teams正在与企业客户进行试点，公开测试版将于今年晚些时候推出。",
+        "en": "Salesforce in Copilot is available in public preview (beta) beginning today. Data federation from Microsoft OneLake into Salesforce Data 360 is generally available, and data sharing from Data 360 into OneLake is in public preview. Sales Cloud in Teams is in pilot with enterprise customers, with open beta coming later this year."
+      },
+      {
+        "t": "p",
+        "zh": "要了解Microsoft Ignite上Copilot的更多新内容，请访问 https://www.microsoft.com/en-us/copilot/blog/。",
+        "en": "To learn more about what’s new in Copilot at Microsoft Ignite, visit https://www.microsoft.com/en-us/copilot/blog/."
+      },
+      {
+        "t": "p",
+        "zh": "*有关微软和Salesforce未来方向与意图的陈述可能在不另行通知的情况下变更或撤回，仅代表目标和目的。地区可用性和客户访问权限受适用的客户协议约束。",
+        "en": "*Statements regarding Microsoft and Salesforce’s future direction and intent are subject to change or withdrawal without notice and represent goals and objectives only. Regional availability and customer access are governed by applicable customer agreements."
+      },
+      {
+        "t": "p",
+        "zh": "关于微软",
+        "en": "About Microsoft"
+      },
+      {
+        "t": "p",
+        "zh": "微软为智能云和智能边缘时代赋能数字化转型。其使命是予力全球每一人、每一组织成就不凡。微软提供云平台、人工智能能力、生产力工具和业务应用，帮助组织创新、提高敏捷性，并规模化地实现有意义的成果。",
+        "en": "Microsoft enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more. Microsoft delivers cloud platforms, AI capabilities, productivity tools and business applications that help organizations innovate, improve agility and drive meaningful outcomes at scale."
+      },
+      {
+        "t": "p",
+        "zh": "关于Salesforce",
+        "en": "About Salesforce"
+      },
+      {
+        "t": "p",
+        "zh": "Salesforce帮助各种规模的组织成为Agentic Enterprises——在可信、统一的平台上整合人员、智能体、应用和数据，以释放前所未有的增长与创新。更多信息请访问 www.salesforce.com。",
+        "en": "Salesforce helps organizations of any size become Agentic Enterprises — integrating humans, agents, apps, and data on a trusted, unified platform to unlock unprecedented growth and innovation. Visit www.salesforce.com for more information."
+      },
+      {
+        "t": "p",
+        "zh": "关于Accenture",
+        "en": "About Accenture"
+      },
+      {
+        "t": "p",
+        "zh": "Accenture是一家业务重塑与科技公司。我们的志向是成为客户首选的重塑合作伙伴，引领人工智能安全、广泛的采用，并成为全球最以客户为中心、由人工智能赋能、出色的工作场所。我们约814000名员工带来跨行业和职能的深刻洞察，能力覆盖战略、流程、运营模式、变革管理、人才、数据、技术和人工智能。我们通过咨询、托管服务、自有资产与平台，以及日益增多的软件来交付这些专长。我们凭借跨行业经验带来创新和新解决方案，从而能够把相邻领域的相关洞察、能力和领先实践，应用于新兴的业务挑战和机遇。我们服务超过9000家客户，在2026财年实现约74亿美元的收入。请访问 accenture.com 了解我们。",
+        "en": "Accenture is a business reinvention and technology company. Our ambition is to be the reinvention partner of choice for our clients and lead in the safe, widespread adoption of AI, and to be the most client-focused, AI-enabled, great place to work in the world. Our approximately 814,000 people bring deep insights across industries and functions, with capabilities spanning strategy, process, operating model, change management, talent, data, technology and AI. We deliver this expertise through consulting, managed services, proprietary assets and platforms, and increasingly, software. We bring innovation and new solutions informed by our experience across industries, enabling us to apply relevant insights, capabilities and leading practices from adjacent sectors to address emerging business challenges and opportunities. We serve more than 9,000 clients and generated revenues of approximately $74 billion in fiscal year 2026. Visit us at accenture.com."
+      },
+      {
+        "t": "p",
+        "zh": "仅供媒体垂询的更多信息：",
+        "en": "For more information, press only:"
+      },
+      {
+        "t": "p",
+        "zh": "微软媒体关系，为微软服务的We. Communications，（425）638-7777，[email protected]",
+        "en": "Microsoft Media Relations, We. Communications for Microsoft, (425) 638-7777, [email protected]"
+      },
+      {
+        "t": "p",
+        "zh": "致编辑：要获取来自微软的更多信息、新闻和观点，请访问Microsoft Source：https://news.microsoft.com/source。网页链接、电话号码和职务在发布时准确，但可能已有变化。如需额外协助，记者和分析师可联系微软快速响应团队，或查看 https://news.microsoft.com/microsoft-public-relations-contacts 上列出的其他适当联系人。",
+        "en": "Note to editors: For more information, news and perspectives from Microsoft, please visit Microsoft Source at https://news.microsoft.com/source. Web links, telephone numbers and titles were correct at time of publication but may have changed. For additional assistance, journalists and analysts may contact Microsoft’s Rapid Response Team or other appropriate contacts listed at https://news.microsoft.com/microsoft-public-relations-contacts."
+      }
+    ]
+  }
+}

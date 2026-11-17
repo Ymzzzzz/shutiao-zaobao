@@ -1,0 +1,71 @@
+{
+  "id": "n38c4a38bd619",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊云科技将在re:Invent 2026展示企业助手AWS Quick",
+  "original_title": "Your complete guide to AWS Quick at AWS re:Invent 2026",
+  "summary": "亚马逊云科技介绍企业助手AWS Quick，称其了解企业业务、遵守安全规则并能代为执行操作。安联、Cox Automotive等客户将在re:Invent 2026分享使用情况。",
+  "facts": [
+    {
+      "text": "亚马逊云科技介绍企业助手AWS Quick，并预告将在re:Invent 2026由安联、Cox Automotive等客户分享使用情况。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/"
+    },
+    {
+      "text": "re:Invent 2026将于11月30日至12月4日举行。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊云科技称，AWS Quick是专为工作打造的人工智能工作区，一个人创建的仪表盘、智能体和自动化可提供给团队其他成员使用。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/",
+      "is_primary": true,
+      "published_at": "2026-11-18T01:08:21+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T01:08:21+08:00",
+  "updated_at": "2026-11-18T01:08:21+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊云科技将在re:Invent 2026展示企业助手AWS Quick",
+  "lead_zh": "亚马逊云科技介绍企业助手AWS Quick，称其了解企业业务并遵守安全规则，安联、Cox Automotive等客户将在re:Invent 2026现身说法。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技发文介绍企业助手AWS Quick，并预告在**2026**年re:Invent期间，安联、Cox Automotive、亿滋、DXC和西南航空等客户将与该公司负责人一起，分享如何治理、扩展并在团队中规模化使用该产品。大会将于**11**月**30**日至**12**月**4**日举行。文章还整理了面向业务、技术、信息安全和数据分析等不同角色的相关议程。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据亚马逊云科技称，AWS Quick是专为工作打造的人工智能工作区，一个人创建的仪表盘、智能体和自动化可提供给团队其他成员使用，并从一开始便按企业安全与治理要求构建，可连接日常使用的数据和应用程序。官方还提到，未能前往拉斯维加斯的人可通过直播观看**50**多场包括主题演讲、论坛和实验在内的议程；首席执行官Matt Garman将于周二太平洋时间上午**8:30**至**10:30**发表主题演讲。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/4a01b3ba1572ffa9aea70548339cba1c32913867.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/13/ML-22359-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

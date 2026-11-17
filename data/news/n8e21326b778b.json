@@ -1,0 +1,71 @@
+{
+  "id": "n8e21326b778b",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "SageMaker实时端点支持按KV缓存匹配来路由请求",
+  "original_title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+  "summary": "亚马逊云科技宣布，SageMaker AI实时端点新增键值缓存感知路由，会把每条请求分到对提示缓存匹配最长的实例上，以提升缓存命中率和推理效率。官方同时介绍了其工作原理。",
+  "facts": [
+    {
+      "text": "亚马逊云科技宣布，SageMaker AI实时端点新增键值缓存感知路由。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/"
+    },
+    {
+      "text": "启用时需在模型容器中打开缓存事件，并在端点配置中将RoutingStrategy设为KV_AWARE。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊云科技称，在Llama 3.1 70B Instruct、7台ml.p5.48xlarge实例的测试中，该路由较随机路由可将中位首次出词时间最多降低97%，吞吐量最多提高234%。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
+      "is_primary": true,
+      "published_at": "2026-11-18T05:11:51+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T05:11:51+08:00",
+  "updated_at": "2026-11-18T05:11:51+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "SageMaker实时端点支持按KV缓存匹配来路由请求",
+  "lead_zh": "亚马逊云科技宣布SageMaker AI实时端点新增KV缓存感知路由，将请求分到对提示缓存匹配最长的实例上。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技宣布，SageMaker AI实时端点新增键值缓存感知路由。该策略会依据模型容器上报的缓存状态，把请求分到对提示缓存匹配较长、且负载不算过高的实例上，面向多轮对话、较长共享提示或高负载的大模型服务。启用需两处设置：在模型容器中打开缓存事件，并在端点配置里将RoutingStrategy设为KV_AWARE。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据官方基准测试，在Llama 3.1 70B Instruct、**7**台ml.p5.48xlarge实例上，以30分钟、20或100名模拟用户进行多轮对话和文档问答，提示最长约**64000**个词元。与随机路由相比，在长提示且负载较高时，该策略可将中位首次出词时间最多降低**97%**，吞吐量最多提高**234%**，并把缓存命中率从**3%**至**48%**提升到**80%**至**93%**。官方称，发布时该路由支持带vLLM 0.33.0或更高版本的 SageMaker AI 容器。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/79544ea906f5c0280d0a8d481171c379c75eb8d9.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/17/ML-22381-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,148 @@
+{
+  "id": "nc6ef76c2052d",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "前谷歌与苹果员工创立军工公司Tiberius并获8500万美元融资",
+  "original_title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+  "summary": "据WIRED报道，前谷歌和苹果员工Chad Steelberg与Andy Baynes创立的Tiberius Aerospace完成8500万美元A轮融资，公司估值超过10亿美元，业务聚焦进攻性武器制造。",
+  "facts": [
+    {
+      "text": "Tiberius Aerospace完成8500万美元A轮融资，由Lakestar和Rochefort Asset Management领投，估值超过10亿美元。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据创始人Chad Steelberg称，他们希望用硅谷的快速迭代方式打破俄乌战争中的僵局。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "is_primary": false,
+      "published_at": "2026-11-17T18:47:45+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T18:47:45+08:00",
+  "updated_at": "2026-11-17T18:47:45+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "前谷歌苹果员工创立军工公司并获8500万美元融资",
+  "lead_zh": "据WIRED报道，前谷歌与苹果员工创立的Tiberius Aerospace完成8500万美元A轮融资，公司估值超过10亿美元，业务聚焦进攻性武器制造。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据WIRED报道，曾在谷歌任职的企业家Chad Steelberg，与同为谷歌校友、前苹果高管Andy Baynes一起，把软件和消费电子经验用到了致命弹药制造上。他们的公司Tiberius Aerospace本周宣布完成**8500**万美元A轮融资，由欧洲科技投资机构Lakestar和获美国国防部许可的国家安全投资公司Rochefort Asset Management领投，乌克兰风险投资机构UA1也参与投资。公司估值已超过**10**亿美元。",
+        "Tiberius起步于Steelberg在2021年成立的私人研究室，团队分布在法国、英国和美国，早期研究方向涵盖无人机、电动垂直起降飞行器和量子计算等。乌克兰战争爆发后，实验室把人工智能和航空航天工程师转向分析战局，并计算何种技术更能打破僵局，随后把目标收窄到进攻性武器。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "创始人怎么说",
+      "paras": [
+        "两位创始人称，他们希望用硅谷快速迭代技术的方式，让西方武器制造跟上战场上的创新节奏，并打破Baynes所说的「消耗性猫鼠技术博弈」。Steelberg对WIRED表示：「我相信我真的能改变这场战争以及每一场战争的结局。」他同时补充，这并非纯粹利他，「我们当然也会靠这件事赚钱」。报道称，他在2022年初曾接待数百名乌克兰难民，此后开始寻求介入这场战争。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/7f51a0c265d7f4e9692d2c5f4f520098fbe3de47.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/master/pass/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png",
+  "fulltext_status": "ok",
+  "read_minutes": 6,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Isabella Ward",
+    "author_title_zh": "",
+    "published_at": "2026-11-17",
+    "title_en": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "title_zh": "人工智能告诉这些前谷歌员工如何打造十亿美元级武器生意",
+    "dek_en": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+    "dek_zh": "谷歌和苹果前员工Chad Steelberg与Andy Baynes，正把经营软件公司和设计iPhone的经验用于制造致命弹药。",
+    "word_count_zh": 2050,
+    "read_minutes": 6,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "当硅谷创业者Chad Steelberg决定要参与乌克兰战争时，他完全不知道从何入手。于是，当时还是企业人工智能公司Veritone首席执行官的他，做了自己最擅长的事：建立一个人工智能模型来帮助自己想明白。如今，他拥有专有的弹药和导弹设计、多项政府合作关系，以及一家估值超过10亿美元的防务即服务企业。",
+        "en": "When Silicon Valley entrepreneur Chad Steelberg decided he wanted to get involved in the war in Ukraine, he had no idea where to start. So the then CEO of enterprise AI company Veritone did what he knew best: built an artificial intelligence model to help him figure it out. Today, he has proprietary munition and missile designs, several government partnerships, and a defense-as-a-service business valued at more than $1 billion."
+      },
+      {
+        "t": "p",
+        "zh": "Steelberg与同为谷歌校友、前苹果高管的Andy Baynes表示，他们正试图以硅谷的方式打破俄乌战争的「僵局」。他们认为，自己快速构建并迭代技术的经验，可以帮助西方武器制造跟上战场上所见的快速创新周期，并在Baynes所形容的这场战争已变成的「消耗性猫鼠技术博弈」中取胜。",
+        "en": "Steelberg, alongside fellow Google alumnus and former Apple executive Andy Baynes, says they are trying to break the Russia-Ukraine war “stalemate,” Silicon Valley–style. They believe their experience building and iterating technology quickly can help bring Western weapon manufacturing in line with the rapid innovation cycles seen on the battlefield and beat the “attritional cat-and-mouse technology game” that the war, as Baynes describes it, has become."
+      },
+      {
+        "t": "p",
+        "zh": "来自加利福尼亚州纽波特比奇的Steelberg，在2022年初把几百名乌克兰难民接到自己位于法国的城堡后，开始渴望在战场上「有所作为」。他说，每当有关于留在家乡的丈夫、父亲或儿子的坏消息传来，那铺天盖地的哀痛总让他「心碎」。「我相信我真的能改变这场战争以及每一场战争的结局，」Steelberg对WIRED说。「我并不是说这完全是利他的，」他补充道。「我们做这件事当然也是要赚钱的。」",
+        "en": "Steelberg, originally from Newport Beach, California, started itching to “make a difference” on the battlefield after he took in a couple hundred Ukrainian refugees into his French chateau in early 2022. He says he was regularly “heartbroken” by the outpouring of grief whenever bad news arrived about a husband, father, or son back home. “I believe I could really change the outcome of this and every war,” Steelberg tells WIRED. \"I'm not saying this is purely altruistic,” he adds. “Of course we're going to be making money doing it.\""
+      },
+      {
+        "t": "p",
+        "zh": "本周，他们的公司Tiberius Aerospace表示，已获得8500万美元A轮融资，由欧洲科技投资公司Lakestar以及一家获得美国国防部许可、专注于国家安全的投资公司Rochefort Asset Management领投。乌克兰风险投资公司UA1也是投资方。",
+        "en": "This week, their firm, Tiberius Aerospace, said it had secured $85 million in Series A financing, led by European technology investment firm Lakestar and Rochefort Asset Management, a national-security-focused investment firm licensed under the US Defense Department. Ukrainian venture capital firm UA1 is also an investor."
+      },
+      {
+        "t": "p",
+        "zh": "Tiberius起步于Steelberg的私人研究实验室，于2021年注册成立，雇用了法国、英国和美国各地的人员，在无人机、电动垂直起降飞行器到量子计算等一系列技术上，试验偏门想法。入侵发生后，他把实验室的人工智能和航空航天工程师转向编写代码、制作电子表格，以客观分析战争的诸多因素，并计算什么能够真正起作用。他们创建的人工智能模型很快排除了打造更好防御技术的方案，因为那只会巩固僵局。",
+        "en": "Tiberius began as Steelberg’s private research lab, incorporated in 2021, which employed people across France, the UK, and US to experiment on left-field ideas across a range of technologies, from drones and electric vertical takeoff aircraft to quantum computing. After the invasion, he pivoted the lab’s AI and aerospace engineers into writing code and building spreadsheets to objectively analyze the war’s many factors and calculate what could move the needle. The AI model they created quickly ruled out building better defensive technology because that would just harden the stalemate."
+      },
+      {
+        "t": "p",
+        "zh": "在目标收窄为打造进攻性武器后，Steelberg制定了若干指标，以数值分析不同系统的杀伤力，包括成本效益，并用该人工智能引擎在不同条件下仿真武器，找出能够搅动市场的方案。它建议：不要再造另一架无人机，而是打造更远程的火炮弹药。由此产生的系统名为Sceptre，可以从155毫米榴弹炮发射——这是捐赠给乌克兰的最常见火炮。他们称，这些弹药不仅可以比现有炮弹打得更远，还能达到超音速，并进入干扰范围之外的高度。",
+        "en": "With his aim narrowed to building an offensive weapon, Steelberg developed several metrics to numerically analyze the lethality of different systems, including cost-effectiveness, and used the AI engine to simulate weapons under different conditions and identify what would disrupt the market. Don’t build another drone, it suggested, build longer-range artillery munitions. The resulting system, called Sceptre, can be fired from a 155-millimeter howitzer—the most common artillery weapon donated to Ukraine. As well as traveling farther than currently available rounds, they claim they can reach supersonic speeds and altitudes beyond jamming range."
+      },
+      {
+        "t": "p",
+        "zh": "英国国防智库皇家联合军种研究所的准研究员Sam Cranny-Evans告诉WIRED，为乌克兰的火炮增加射程很重要，因为这能让乌克兰炮手在俄罗斯无人机攻击范围之外作战。155毫米炮弹「可以对一群车辆或步兵造成巨大破坏，」他说。「任何能够帮助乌克兰延长榴弹炮射程、并使它们重新投入作战的技术，都将是有价值的。」",
+        "en": "Giving Ukraine’s guns extra range is important, Sam Cranny-Evans, an associate fellow at UK defense think tank the Royal United Services Institute, tells WIRED, because it would allow Ukrainian gunners to operate beyond the reach of Russian drone attacks. 155-mm shells “can cause massive damage to a group of vehicles or infantry,” he says. “Any technology that can help Ukraine extend the reach of its howitzers and return them to combat would be valuable.”"
+      },
+      {
+        "t": "p",
+        "zh": "带着一个在人工智能帮助下设计出的原型，Steelberg也开始扩大Tiberius团队，包括在2023年请来Baynes担任首席战略官。大约十年前，Baynes第一次前往乌克兰，调查当地创业公司Ring（现为亚马逊所有）如何胜过他当时正在参与、后来卖给谷歌的Nest。他爱上了基辅雄心勃勃的软件工程师和蓬勃的科技圈——Grammarly以及Snapchat的面部滤镜等全球成功的科技工具便出自这里。2016年，他收购了一家当地生命科技公司，目标是通过自动化临床试验和改进蛋白质建模来加速下一代药物。「吸引我进入基辅的，是工程社区的饥饿感和雄心，」他告诉WIRED。「很难不被深深吸引，并想看看这能否被用到真正关键的问题集合上，比如抗癌药物，或加快生命科技公司的临床试验。」",
+        "en": "With a prototype he’d designed with the help of AI, Steelberg also started to expand the Tiberius team, including bringing on board Baynes as chief strategy officer in 2023. Baynes had first traveled to Ukraine around a decade ago to investigate how local startup Ring, now owned by Amazon, had outdone Nest, which he’d been working on and eventually sold to Google. He fell in love with Kyiv’s ambitious software engineers and booming tech scene–responsible for globally successful tech tools like Grammarly and Snapchat’s face filters. In 2016, he bought a local life-science tech company with the aim of accelerating next-generation medicines through automating clinical trials and improving protein modeling. “What drew me into Kyiv was the hunger and ambition in the engineering community,” he tells WIRED. “It was difficult to not be enormously attracted to that and to see if it's something that could be put into really critical-mission problem sets like cancer drugs or speeding up clinical trials for life-science companies.”"
+      },
+      {
+        "t": "p",
+        "zh": "俄罗斯入侵后，Baynes在布达佩斯安顿了大约六个月，协助疏散妇女和儿童、并把设备运入该国的后勤工作。他向全球人脉求助，寻找医疗设备、车辆和难民住所——这也让他重新与Steelberg取得联系。Baynes认为西方对入侵的回应「不够充分」，乌克兰需要更好的进攻能力，才能把俄罗斯军队推回去。",
+        "en": "After the Russian invasion, Baynes set himself up in Budapest for around six months to help with the logistics of evacuating women and children and moving equipment into the country. He asked his global network for help finding medical equipment, vehicles, and accommodation for refugees—bringing him back in touch with Steelberg. Baynes believes the West’s response to the invasion has been “inadequate” and that Ukraine needs better offensive capabilities to push Russia’s army back."
+      },
+      {
+        "t": "p",
+        "zh": "今年4月，Tiberius宣布首次成功从符合北约标准的155毫米榴弹炮发射了一枚Sceptre炮弹。它现在正与美国陆军合作完善该系统，并宣布与英国合作伙伴达成一项5亿美元的技术合作合同，以制造、授权和分发这种弹药。它还在开发一枚导弹，并预计明年开始产生收入。",
+        "en": "In April, Tiberius announced it had successfully fired one of its Sceptre projectiles from a NATO-standard 155-mm howitzer for the first time. It is now working with the US Army to mature the system, and it has announced a $500 million technology collaboration contract with UK partners to manufacture, license, and distribute the munition. It is also developing a missile, which it expects to start generating revenue next year."
+      },
+      {
+        "t": "p",
+        "zh": "Tiberius已把它最初构建的人工智能系统做成一款名为GRAIL（Generative Real-Time Artificial Intelligence for Lethality，生成式实时杀伤力人工智能）的产品。Steelberg说他「对此最为兴奋」。他希望该平台能够通过分散制造，持续升级Tiberius授权的武器设计。Steelberg表示，除了自动化供应链管理和合规，该软件还会在一系列环境和天气条件下、针对不同目标仿真武器，例如在北极半岛。除了开源数据，团队还试图获取包括乌克兰在内、全球各地备受追捧的实战数据。其想法是，这一切能让用户更快地测试、迭代并针对特定用途设计武器。",
+        "en": "Tiberius has turned the AI system it initially built into a product called GRAIL (Generative Real-Time Artificial Intelligence for Lethality). Steelberg says he is “most excited about” this. He hopes the platform can enable continuous upgrades to the weapon designs Tiberius licenses by decentralizing manufacturing. Steelberg says that, as well as automating supply chain management and compliance, the software simulates weapons against different targets in a range of environments and weather conditions, such as an Arctic peninsula. In addition to open-sourced data, the team is trying to get hold of much sought-after active combat data from around the world, including Ukraine. The idea is that this all enables users to test, iterate, and design weapons for specific uses much quicker."
+      },
+      {
+        "t": "p",
+        "zh": "「在人工智能以及设计开发越来越快的世界里，西方或盟国集团不可否认的优势是什么？」Baynes问道。「如果你能把英国、法国、德国、北欧国家和美国各地的闲置产能和精密制造全部武装起来，」他说，「那是我们今天的对手永远无法匹敌的。」Tiberius希望通过复制「苹果模式」来实现这一点，曾向史蒂夫·乔布斯汇报工作四年的Baynes继续说道。他表示，把制造外包给许多第三方分包商，可以加快开发和部署，并在和平时期把昂贵的生产成本留在Tiberius的资产负债表之外。",
+        "en": "“In the world of AI and design and development getting faster and faster, what is it that the West or the group of allied nations have an undeniable advantage on?” Baynes asks. “If you can weaponize all of the spare capacity and precision manufacturing across the UK, France, Germany, the Nordic countries, the US,” he says, “that's something that our adversaries today can never ever match.” Tiberius aims to achieve this by copying “the Apple model,” continues Baynes, who reported to Steve Jobs for four years. He says outsourcing manufacturing to many third-party subcontractors can accelerate development and deployment and keeps expensive production costs off Tiberius’ balance sheet during peacetime."
+      },
+      {
+        "t": "p",
+        "zh": "「我们采取的是硅谷的方法，」Steelberg说。「当你遇到一个庞大、艰难、棘手的问题时，你不仅要跨过去，还要转身建一座桥——显然是一座收费桥——这样整个行业就能更快、更好、更强地跨过这个障碍。他们可能要付一点小费用，但总比死在沟里、过不去要好。」",
+        "en": "“We're taking the approach of Silicon Valley,” says Steelberg. “When you run into a big, hard, hairy problem, you not only cross that, but you turn around, you build a bridge—it’s a toll bridge, obviously—so the entire industry can cross that hurdle faster, better, stronger. They might pay a small fee, but it's better than dying in the ditch and not making it across it.”"
+      }
+    ]
+  }
+}

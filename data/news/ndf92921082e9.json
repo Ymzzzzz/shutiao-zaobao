@@ -1,0 +1,71 @@
+{
+  "id": "ndf92921082e9",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "Voyage Labs获得1200万美元融资，推出旅行助手Atlas",
+  "original_title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+  "summary": "Voyage Labs获得1200万美元融资。其主打产品Atlas定位为旅行规划私人助手，能够协助安排行程，目前已进入私人测试阶段，尚未向所有用户开放。产品目前仍需申请体验。",
+  "facts": [
+    {
+      "text": "Voyage Labs周二宣布完成1200万美元种子轮融资，由Kleiner Perkins领投，SignalFire和SV Angel参与。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    },
+    {
+      "text": "公司旗舰产品是旅行助手Atlas，目前处于私有测试阶段。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据首席执行官Manik Gupta称，用户可用它从萌生想法到返回家中，规划、预订并管理整段旅程。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "is_primary": false,
+      "published_at": "2026-11-17T23:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-17T23:00:00+08:00",
+  "updated_at": "2026-11-17T23:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Voyage Labs获得1200万美元融资，推出旅行助手Atlas",
+  "lead_zh": "Voyage Labs获得1200万美元融资，其主打产品Atlas定位为旅行规划私人助手，目前已进入私人测试。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch报道，由谷歌地图前产品管理负责人创立的创业公司Voyage Labs周二宣布完成**1200**万美元种子轮融资，由Kleiner Perkins领投，SignalFire和SV Angel参与。公司计划用这笔资金扩大供应商合作并扩充工程团队。其旗舰产品是旅行助手Atlas，目前处于私有测试。共同创始人兼首席执行官Manik Gupta曾负责谷歌地图产品，随后在优步担任四年首席产品官；共同创始人兼首席技术官是Yogesh Jain。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Gupta称，用户可以用它从萌生想法到返回家中，规划、预订并管理整段旅程。Atlas被设计成贯穿规划过程的持续助手，既能针对提出的每个想法做研究，也可依据数周对话调整建议，同时跟踪实时价格波动，并最终预订机票和酒店。Jain表示，旅行规划本身就是一个跨越数天乃至数周的项目，因此长周期智能体在技术上与这一场景很匹配。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/46a24aab5cba50931abd827e3b58e62f272cc1ac.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-12.32.41-PM.jpg?w=942",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

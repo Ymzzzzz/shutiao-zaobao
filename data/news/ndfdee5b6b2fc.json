@@ -1,0 +1,71 @@
+{
+  "id": "ndfdee5b6b2fc",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "开源工具SMART可一键在亚马逊云上部署WhatsApp智能体",
+  "original_title": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+  "summary": "亚马逊云科技介绍开源Python SDK和Terraform组合SMART，可用一条命令在账户中部署完整的WhatsApp通道层，并对接运行在Amazon Bedrock AgentCore上的智能体。",
+  "facts": [
+    {
+      "text": "亚马逊云科技介绍开源工具SMART，即Social Messaging Agent Runtime Toolkit，由Python软件开发套件和Terraform组合构成。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "text": "该工具可用一条命令在账户中部署完整的WhatsApp通道层，并对接运行在Amazon Bedrock AgentCore上的智能体。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊云科技称，SMART可处理 webhook 接收、媒体、会话记忆、日程安排以及Meta消息模板，客户Webmotors把原定两个月的交付压缩到了六周。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/",
+      "is_primary": true,
+      "published_at": "2026-11-18T02:48:50+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T02:48:50+08:00",
+  "updated_at": "2026-11-18T02:48:50+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "开源工具SMART可一键在亚马逊云上部署WhatsApp智能体",
+  "lead_zh": "亚马逊云科技介绍开源工具SMART，可用一条命令在账户中部署WhatsApp通道，并对接运行在Bedrock AgentCore上的智能体。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技介绍开源工具SMART，全称为Social Messaging Agent Runtime Toolkit，由Python软件开发套件和Terraform组合构成。用户只需提供运行在Amazon Bedrock AgentCore上的智能体，便可用一条命令在自己的账户中部署完整的WhatsApp通道层。官方称，在拉美、印度和东南亚等地，WhatsApp是用户与企业互动的常用方式，但通道对接往往比智能体本身更难。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据亚马逊云科技称，SMART可负责 webhook 接收、语音和图片等媒体处理、跨会话记忆、提醒日程，以及Meta消息模板。文章提到，用户最后一条消息结束**24**小时后再发送内容，必须使用预先批准的模板；若自行搭建，通常要配置**10**多个云服务。已有团队在该工具上运行，其中Webmotors把原定两个月的项目压缩到**6**周，并让内部团队在全面上线前进入受控生产。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/5d426d72e0819aa17612048381c4ddefdc26bddf.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/13/ML-21698-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

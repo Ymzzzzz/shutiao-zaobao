@@ -1,0 +1,71 @@
+{
+  "id": "n28fff23dec51",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "有报道称美国证交会开始调查英伟达及黄仁勋离职事件",
+  "original_title": "SEC reportedly investigating Nvidia amid Huang exit",
+  "summary": "据TechCrunch援引《华尔街日报》报道，美国证交会在黄仁勋离职后对英伟达展开调查。报道并提及他承认与一名被指为中国间谍的人士有婚外关系，事件持续发酵。相关指控尚未得到官方证实。",
+  "facts": [
+    {
+      "text": "据TechCrunch援引《华尔街日报》报道，美国证交会正对英伟达展开民事调查，关注公司信息披露是否误导投资者。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+    },
+    {
+      "text": "报道称，英伟达在黄仁勋离职后公布财报，当季营收1158亿美元，同比增长103%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据TechCrunch称，商务部自2024年底起调查新加坡数据公司Megaspeed，怀疑其将部分英伟达芯片转往中国。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "is_primary": false,
+      "published_at": "2026-11-18T05:48:07+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T05:48:07+08:00",
+  "updated_at": "2026-11-18T05:48:07+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "有报道称美国证交会开始调查英伟达及黄仁勋离职事件",
+  "lead_zh": "据TechCrunch援引《华尔街日报》报道，美国证交会在黄仁勋离职后对英伟达展开调查，报道并提及相关婚外关系与间谍指控。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch援引《华尔街日报》报道，美国证券交易委员会正对英伟达展开民事调查，关注公司信息披露是否误导投资者。这则消息正值英伟达公布财报，该媒体称其股价自黄仁勋离职以来已下跌超过**10%**；芯片制造商公布当季营收**1158**亿美元，较上年同期增长**103%**。报道并回顾，黄仁勋是在婚外关系消息传出后辞职的。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "TechCrunch称，相关风波涉及黄仁勋与新加坡数据公司Megaspeed一名高管的婚外关系，以及对方被指为中国间谍的说法。报道还称，美国商务部自**2024**年底起调查该公司，怀疑其将部分英伟达芯片转往中国，可能违反出口管制；国会要求黄仁勋说明此事是否影响了他主张放宽出口限制的立场。财政部长Scott Bessent上周末更直言，英伟达是在明知的情况下向中国出售高性能芯片，以推高营收和利润。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/89898000348029c9a4340d0b79dfe6bf7c79829f.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

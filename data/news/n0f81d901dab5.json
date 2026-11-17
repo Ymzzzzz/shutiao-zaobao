@@ -1,0 +1,71 @@
+{
+  "id": "n0f81d901dab5",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "开源时序模型OpenTSLM登陆SageMaker JumpStart",
+  "original_title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
+  "summary": "开源时序语言模型系列OpenTSLM现已可在Amazon SageMaker JumpStart上使用。文章介绍了Nexthink和Aionic Labs如何把它用于主动式信息技术支持，并说明了部署方法。",
+  "facts": [
+    {
+      "text": "开源时序语言模型系列OpenTSLM现已可在Amazon SageMaker JumpStart上使用。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/"
+    },
+    {
+      "text": "该系列由Aionic Labs开发，文章还介绍了Nexthink与其合作将其用于主动式信息技术支持。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊云科技称，这类模型可结合设备传感器读数、供需数据以及维修记录、市场新闻和工程师观察等上下文，帮助识别近期测量中出现的问题。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/",
+      "is_primary": true,
+      "published_at": "2026-11-18T02:06:44+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T02:06:44+08:00",
+  "updated_at": "2026-11-18T02:06:44+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "开源时序语言模型上线亚马逊云的模型中心",
+  "lead_zh": "开源时序语言模型系列现已可在亚马逊云的模型中心使用，文章还介绍了两家公司把它用于主动式信息技术支持的案例。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "开源时序语言模型系列OpenTSLM现已可在Amazon SageMaker JumpStart上部署到用户自己的云环境。该系列由Aionic Labs开发，属于其时序基础模型工作的一部分，用于解读设备传感器、供需变化等运行数据，并结合维修记录、市场新闻和工程师观察等上下文。文章还介绍了配套的数据基础设施TimeNet，以及如何将其部署到实时端点并用自有数据微调。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据亚马逊云科技称，通用语言模型虽可辅助分析，但把成百上千项运行指标的长历史当作文本或图片处理，会消耗大量词元并推高费用。时序语言模型则有助于系统识别近期测量中出现的问题，并让专家追问变化原因和应对方式。文章还介绍，Nexthink与Aionic Labs正把这一能力用于主动式信息技术支持，帮助团队在问题变得昂贵之前采取行动。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/27fd622d7a3472c75108d944056d5619be24e5bd.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-21774-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

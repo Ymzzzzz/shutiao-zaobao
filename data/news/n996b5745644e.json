@@ -1,0 +1,87 @@
+{
+  "id": "n996b5745644e",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "微软研究院讨论人工智能如何助力更健康的未来",
+  "original_title": "Can AI help build a healthier future?",
+  "summary": "微软研究院撰文讨论人工智能在医学中能够发挥什么作用、又该如何实现。参与者包括Doug Burger、首席研究经理Ava Amini、首席科学官Eric Horvitz以及多位医学界人士。",
+  "facts": [
+    {
+      "text": "微软研究院发布对谈，讨论人工智能在医学中能够发挥什么作用、又该如何实现。",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/"
+    },
+    {
+      "text": "参与者包括Doug Burger、Ava Amini、首席科学官Eric Horvitz，以及Scripps Research的医师科学家Eric Topol。",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据微软首席科学官Horvitz称，蛋白质结构和电子病历等内容的数字化，使生命科学和医疗更适合应用人工智能。",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/"
+    }
+  ],
+  "analysis": [
+    {
+      "text": "Scripps Research的Eric Topol认为，目前不少经同行评审甚至随机试验验证的成果仍停留在期刊中，尚未真正用于患者诊疗。",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+      "is_primary": true,
+      "published_at": "2026-11-18T00:52:17+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T00:52:17+08:00",
+  "updated_at": "2026-11-18T00:52:17+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "微软研究院讨论人工智能如何助力更健康的未来",
+  "lead_zh": "微软研究院撰文讨论人工智能在医学中的可能作用，参与者包括Doug Burger、Ava Amini、首席科学官Eric Horvitz等。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "微软研究院发布对谈，讨论人工智能在医学中能够发挥什么作用、又该如何实现。参与者包括微软研究院的Doug Burger、首席研究经理Ava Amini、首席科学官Eric Horvitz，以及Scripps Research的医师科学家Eric Topol。对谈从生命科学与医疗交汇处正在发生的变化谈起，并涉及诊断、实施落地等议题。"
+      ],
+      "sources": [
+        "Microsoft Research Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Horvitz称，蛋白质结构和电子病历等内容经过多年数字化，使生命科学和医疗更适合应用人工智能。他提到，过去五到八年里判别式和生成式模型进展迅速，AlphaFold只是开端，并介绍微软团队把评测从一次性给出完整病例、看诊断准确率，转向让系统像医生一样从主诉开始追问、权衡检查并在不确定时再给出诊断。"
+      ],
+      "sources": [
+        "Microsoft Research Blog"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "paras": [
+        "Topol认为，当前不少经过同行评审、甚至已有真实世界随机试验的成果，仍主要停留在期刊中，尚未真正用于患者诊疗。他把原因更多归结为行业采纳缓慢和医疗机构利润微薄、不愿投资自己还没有足够信心的系统，并提到美国绝大多数女性在乳腺钼靶检查中仍无法获得较先进的人工智能阅片。"
+      ],
+      "sources": [
+        "Microsoft Research Blog"
+      ]
+    }
+  ],
+  "image_url": "img/51ac6b51c49de839732ab1f6e5c10da115e958fd.jpg",
+  "image_source": "Microsoft Research Blog",
+  "image_origin_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/Episode3-Amini-Horvitz-Topol_TheShapeofThings_TW_LI_FB_1920x1080-1.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
