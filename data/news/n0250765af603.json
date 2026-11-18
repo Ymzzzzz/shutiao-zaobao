@@ -1,0 +1,55 @@
+{
+  "id": "n0250765af603",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "微软在自家产品中用自研模型替代外部模型",
+  "original_title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+  "summary": "据The Decoder报道，微软AI部门MAI在Ignite大会上发布七款新模型，涵盖代码、安全、图像、语言和路由。其中MAI Code 2以四成成本达到GPT-6.1 Sol九成八的表现，微软正用更便宜的自研模型替代外部模型。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
+      "is_primary": false,
+      "published_at": "2026-11-19T02:47:36+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T02:47:36+08:00",
+  "updated_at": "2026-11-19T02:47:36+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "微软用更便宜的自研模型替换外部模型",
+  "lead_zh": "微软人工智能部门在年度大会上发布七款新模型，其中编程模型以四成成本达到对手模型约九成八的性能，正逐步替换外部模型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Decoder报道，微软AI部门MAI在Ignite大会上一次性发布**7**款专用模型，覆盖代码、IT安全、图像编辑、语音和工作流决策，目标都是降低全天候运行的AI智能体的运营成本。微软主要以性价比为卖点，理由是希望全天候运行智能体的客户token支出增长迅速。",
+        "新模型把OpenAI和Anthropic的系统作为对标对象：编程模型MAI Code 2在内部基准上接近GPT-6.1 Sol和Claude Opus 5.5，成本却低得多；MAI Cyber 2 Flash在CyberGym-E2E漏洞测试中略胜GPT-6 Astra。此外还有图像模型MAI Image 2.7、语音模型MAI Realtime 1和基于谷歌Gemma的路由模型Decision 1.1，企业客户还可在Azure云上用自有数据微调部分模型权重。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据微软称，其代码模型面向日常企业编程任务，目前尚未针对基础研究或长周期智能体工作流等更难的任务进行优化。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

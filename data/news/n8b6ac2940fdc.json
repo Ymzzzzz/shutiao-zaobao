@@ -1,0 +1,55 @@
+{
+  "id": "n8b6ac2940fdc",
+  "category": "政策与安全",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI介绍从训练到部署的前沿风险管理",
+  "original_title": "Managing frontier AI risk: From training to deployment",
+  "summary": "OpenAI发文说明其如何在从训练到部署的全过程中管理前沿AI风险，手段包括模型对齐、沙箱隔离、拦截性防护措施以及持续监控，介绍公司在发布更强模型时采取的多层安全做法。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "is_primary": true,
+      "published_at": "2026-11-18T14:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T14:00:00+08:00",
+  "updated_at": "2026-11-18T14:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI说明从训练到部署的前沿风险管控",
+  "lead_zh": "OpenAI介绍其从训练到部署管理前沿AI风险的做法，包括模型对齐、沙箱隔离、拦截性防护和持续监控。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI于11月18日发文，介绍其从训练到部署各阶段管理前沿AI风险的方法。文章称，OpenAI会放缓模型开发和发布节奏，包括在需要更多时间满足安全标准时暂停内部训练，或推迟发布GPT-6.1 Astra等模型；公司还引入了安全论证等新流程，并要求在训练全程提供更有力的对齐证据。",
+        "OpenAI表示，自今年7月的Hugging Face事件以来，已加强训练、测试和部署模型的防护与对齐要求，并在每个阶段评估模型和防护措施，需通过安全审查才能进入下一阶段。各阶段分为研究、内部部署和外部部署：训练时更多依赖沙箱和监控，部署范围扩大后对齐和系统级管控更加重要，相关判断可能交由安全顾问小组审查。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI称，Hugging Face事件说明不能只靠沙箱来约束能力很强的模型，公司目前已在大多数内部和外部部署场景中监控前沿模型，包括所有使用工具的内部部署。OpenAI还称，有效监控取决于模型的可监控性，例如在思维链中说出作弊意图的模型比隐瞒的模型更易监控，公司会在训练和部署前评估这一点。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

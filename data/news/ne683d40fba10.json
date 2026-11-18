@@ -1,0 +1,55 @@
+{
+  "id": "ne683d40fba10",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI战略未来负责人谈AI如何重塑社会",
+  "original_title": "The Silent Consensus",
+  "summary": "OpenAI战略未来负责人Dean Ball发表题为《沉默的共识》的文章，探讨能力更强的AI可能如何重塑社会，以及人们怎样保持对自身制度和机构的控制权，属于OpenAI对AI社会影响的观点性文章。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "is_primary": true,
+      "published_at": "2026-11-18T18:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T18:00:00+08:00",
+  "updated_at": "2026-11-18T18:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI高管撰文谈更强AI如何重塑社会",
+  "lead_zh": "OpenAI战略未来负责人Dean Ball撰文，探讨更强大的AI可能如何重塑社会，以及人们如何保持对制度的控制。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI于11月18日在官网发布战略未来负责人Dean Ball的文章《沉默的共识》。文章改编自他近期在哈佛大学Vik-Bailey系列讲座上的演讲，文前注明内容仅代表作者个人观点，不一定代表OpenAI或其其他员工的看法。文章开头提到，当下正发生一组被称为「黑色十月」的重大安全漏洞披露，这些漏洞位于互联网核心基础设施中，由前沿AI系统发现。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Dean Ball称，软件漏洞挖掘只是AI系统眼下具备的一种两用能力，很快还会出现别的能力，各类紧急事项会相互叠加，许多所谓的「AI政策」将在这种喧嚣中制定。他认为，科技行业并不缺少对技术未来的正面愿景，缺少的是对制度未来的正面愿景，即这一切将如何运转。",
+        "他称，目前最常见的制度愿景往往只在私下低声谈及或被默认，他称之为「沉默的共识」：设想一家几乎不需要人力就能完成研发、谈判、配置资本和制造的公司，如果人的参与只会拖慢业务，管理者和所有者就会有强烈动机把人排除在外。文章由此讨论人们如何保持对自身制度的控制。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

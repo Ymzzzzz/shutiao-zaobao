@@ -1,0 +1,55 @@
+{
+  "id": "n54bca3b9a46d",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达推迟提交季度报告10-Q引发猜测",
+  "original_title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+  "summary": "英伟达意外宣布将推迟数周提交正式季度报告10-Q，引发市场猜测。TechCrunch报道称，一位华尔街分析师弄清了其中缘由，这份例行文件的延迟在英伟达高层变动期间格外引人关注。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "is_primary": false,
+      "published_at": "2026-11-19T05:57:40+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T05:57:40+08:00",
+  "updated_at": "2026-11-19T05:57:40+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达推迟提交季度报告10-Q引发猜测",
+  "lead_zh": "英伟达意外宣布将推迟数周提交季度报告10-Q，引发市场猜测，一位华尔街分析师解释了背后的原因。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "在周二的季度电话会上，由首席财务官转任临时首席执行官的Colette Kress表示，英伟达不会立即向美国证交会提交季度报告10-Q，而是「计划在未来几周内提交」，且未说明原因。英伟达过去通常在发布财报当天提交10-Q，这份文件比财报新闻稿详细得多，包含法律诉讼和风险因素等章节。",
+        "瑞银分析师Timothy Arcuri在电话会后询问此事，英伟达告诉他，推迟与公司对黄仁勋的持续调查有关，涉及是否需要在10-Q中披露更多信息或增加风险因素。Arcuri仍给予「买入」评级，但把目标价从**240美元**下调至**220美元**，英伟达股价目前约**150美元**。同日《华尔街日报》报道称，美国证交会正在调查英伟达的信息披露问题。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "这一推迟引发广泛关注，经济与投资分析师Edward Dowd在X上称其为「危险信号」。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/7cc778d1943ec29b7f10cc5e5947f0d34ffde5dd.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

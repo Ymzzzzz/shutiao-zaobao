@@ -1,0 +1,55 @@
+{
+  "id": "n727d955cd223",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "特朗普在菲律宾推动建设AI中心",
+  "original_title": "Trump’s latest land grab is an AI hub in the Philippines",
+  "summary": "据The Verge报道，美国总统特朗普周二抵达菲律宾，在当地推动一个人工智能中心项目。报道援引菲律宾媒体Rappler称，他落地时受到了五位选美皇后的迎接，The Verge称之为最新的圈地之举。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "is_primary": false,
+      "published_at": "2026-11-19T03:40:36+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T03:40:36+08:00",
+  "updated_at": "2026-11-19T05:44:01+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "特朗普访问菲律宾推动建设AI中心",
+  "lead_zh": "The Verge报道称，特朗普周二抵达菲律宾，推动建设一个人工智能中心，被该媒体称为最新的圈地之举。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Verge援引菲律宾媒体Rappler报道，特朗普总统周二抵达菲律宾时受到至少五位选美皇后迎接，乐队演奏了他集会上常用的《YMCA》。机场外，数百名抗议者举着「特朗普滚出去」的标语走上街头，还有人打出「拒绝Pax Silica」的口号，Pax Silica是美国主导的、旨在保障AI硬件所需芯片和关键矿产供应的国际倡议。",
+        "报道称，特朗普表示要「赢得AI」，这需要大量装满GPU的数据中心；在美国国内反对声渐增的情况下，他正把目光投向这个前美国殖民地，计划在当地建设芯片工厂和数据中心。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "The Verge认为，Pax Silica官网称「Pax」意为和平、稳定和长期繁荣，但「谁的和平与繁荣」这个没有说出口的问题，解释了菲律宾政府热情欢迎特朗普与街头民众愤怒之间的强烈反差。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/925d9b57a53850c6fa14f52bf99a3b2b63ea15ee.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "n881783ef802b",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Stretto用Amazon Nova 2 Sonic打造语音智能体",
+  "original_title": "How Stretto built an AI voice agent with Amazon Nova 2 Sonic",
+  "summary": "Stretto用基于Amazon Nova 2 Sonic的AI语音智能体Tara取代网页表单收集潜在客户，Tara通过电话进行破产申请前的接案访谈，并判断线索是否合格。AWS文章介绍了相关构建过程。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/",
+      "is_primary": true,
+      "published_at": "2026-11-19T02:58:42+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T02:58:42+08:00",
+  "updated_at": "2026-11-19T02:58:42+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Stretto用Nova 2 Sonic打造电话语音智能体",
+  "lead_zh": "Stretto用基于Amazon Nova 2 Sonic的语音智能体Tara取代网页表单，通过电话完成破产接案访谈并筛选线索。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技与Stretto、CI&T联合撰文介绍，Stretto在推出AI语音智能体之前，考虑申请破产的消费者会在其Bankruptcy.com网站上填写只有债务金额、是否已有律师和联系方式几个字段的网页表单，这类线索利润很薄。破产律师更看重包含债务、资产、车辆、房产、工作经历和过往申请等详细财务数据的线索，但表单越长，中途放弃的访客越多，组建人工接案团队做电话访谈成本又过高。",
+        "Stretto因此用基于Amazon Nova 2 Sonic的AI语音智能体取代网页表单，通过电话完成接案访谈：智能体以对话方式引导来电者完成完整的破产问卷，实时提取结构化数据，再按律师设定的规则对线索进行分类，辅助律师决策。文章认为，人们在对话中更愿意分享敏感的财务细节。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/1014a81509def664f837bc57ee2413e0868dc8ae.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-21890-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

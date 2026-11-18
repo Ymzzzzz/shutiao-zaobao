@@ -1,0 +1,55 @@
+{
+  "id": "n50e3ea47cbae",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "谷歌向Ultra订阅用户开放世界模型Genie 4",
+  "original_title": "Genie 4 is now available",
+  "summary": "谷歌DeepMind向符合条件的Google AI Ultra订阅用户推出新版Project Genie，首次开放Genie 4世界模型，可在探索中途用文字修改场景并配有实时原生音频，同时升级Genie 3，新增创作助手和社区画廊。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "is_primary": true,
+      "published_at": "2026-11-19T02:13:42+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T02:13:42+08:00",
+  "updated_at": "2026-11-19T02:13:42+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌开放Genie 4世界模型，可实时改写场景",
+  "lead_zh": "谷歌向Google AI Ultra订阅用户推出新版Project Genie，首次开放Genie 4，支持探索中途用文字改场景，并新增实时原生音频。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌DeepMind和Google Labs于11月18日宣布，向符合条件的Google AI Ultra订阅用户推出新版Project Genie。Project Genie是今年早些时候推出的实验性研究原型，可生成并探索交互式世界。此次更新首次开放Genie 4，同时升级Genie 3，新增Project Genie智能体和可浏览、探索、二次创作的社区画廊。",
+        "Genie 4支持在探索过程中输入新提示词实时修改世界，例如改变天气、加入角色或改变剧情走向，并首次配有随场景变化的实时原生音频。Genie 3仍可在模型选择中使用：单次生成可探索时长由**60秒**增至**3分钟**，支持把多个世界串联、用360度全景图生成新世界，以及用自然语言实时触发世界内事件。"
+      ],
+      "sources": [
+        "Google DeepMind Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据谷歌称，Genie 4是其迄今最逼真、交互性最强的世界模型。新的Project Genie智能体可以根据用户的自然语言描述，调用谷歌多种多模态模型生成世界的初始画面并配上背景音乐；用户还可以在探索时引入Gemini模型，让它观察画面、给出下一步去向的建议或自动触发事件。"
+      ],
+      "sources": [
+        "Google DeepMind Blog"
+      ]
+    }
+  ],
+  "image_url": "img/3fd36d2d29277f5aafccd18df9e6fcaeea0391f0.jpg",
+  "image_source": "Google DeepMind Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "n09b6248761ae",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "科技诉讼定义2026年，议员还想立更多法",
+  "original_title": "Tech lawsuits defined 2026 — and lawmakers want more",
+  "summary": "The Verge报道，2026年只剩几周，美国议员正设法在年底前通过新的网络伤害受害者保护措施，矛头指向深度伪造制作者，以及阻止用户起诉的网络平台，科技诉讼成为今年的主旋律之一。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "is_primary": false,
+      "published_at": "2026-11-19T03:07:29+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T03:07:29+08:00",
+  "updated_at": "2026-11-19T03:07:29+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "议员年底前推动网络伤害受害者保护立法",
+  "lead_zh": "The Verge报道，美国议员正试图在年底前通过网络伤害受害者保护法，针对深度伪造制作者和相关网络平台。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Verge报道，2026年只剩几周，美国议员正试图在年底前为网络伤害受害者通过新的保护措施，矛头指向深度伪造制作者，以及通过强制仲裁阻止用户起诉的网络平台。周二，参议院司法委员会一个小组委员会举行听证会，呼吁终结网络伤害案件中的强制仲裁。",
+        "听证会直接针对Roblox，议员指责该公司对在平台上疑遭诱骗的儿童相关投诉，援引用户未成年时同意的强制仲裁条款来规避诉讼，部分用户当时甚至不满**10岁**。另一边，众议员奥卡西奥-科尔特斯和Laurel Lee邀请帕丽斯·希尔顿到国会，为《Defiance法案》发声，该法案将允许非自愿亲密深度伪造内容的受害者起诉制作者。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "议员怎么说",
+      "paras": [
+        "据担任该小组委员会主席的参议员乔希·霍利称，「在执法方面我们能做的最好的事，就是打开法院的大门」，他还表示，越是看到这些公司规避监管，就越认为需要采取行动。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/34a3c1dc54ce5c6273487d82cd3e759768b8dfcf.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

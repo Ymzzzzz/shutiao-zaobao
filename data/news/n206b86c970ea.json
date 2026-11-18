@@ -1,0 +1,45 @@
+{
+  "id": "n206b86c970ea",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "SageMaker HyperPod推理支持托管NVIDIA Dynamo",
+  "original_title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+  "summary": "Amazon SageMaker HyperPod推理现已支持NVIDIA Dynamo分布式推理，提供多节点和分离式服务、感知KV缓存的路由以及自动故障恢复功能，可用于部署和服务大模型，降低企业自建推理集群的运维负担。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+      "is_primary": true,
+      "published_at": "2026-11-18T07:33:26+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T07:33:26+08:00",
+  "updated_at": "2026-11-18T07:33:26+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊大模型推理集群支持英伟达分布式推理",
+  "lead_zh": "亚马逊云科技的大模型推理集群服务现已支持英伟达分布式推理框架，提供多节点分离式部署、感知缓存的请求路由和自动故障恢复。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技宣布，SageMaker HyperPod推理现已支持NVIDIA Dynamo。文章指出，高效服务大语言模型需要足够的显存，并协调好提示词处理与token生成，例如GLM-5.3的FP8权重就超过单个ml.p5.48xlarge实例**640GB**的显存，还未计入KV缓存和运行开销；长提示词与生成共用同一批GPU时也会拖慢生成速度。",
+        "Dynamo是开源的分布式推理框架，支持多节点部署、预填充与解码分离，以及与vLLM、SGLang、TensorRT-LLM等引擎配合的KV感知路由。HyperPod则提供高性能弹性网络适配器、协调的GPU调度以及节点健康监控与恢复。文章通过部署示例演示多节点和分离式服务，分享基准测试结果，并给出优化建议。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/077d9b7bb28d84e3d28194413bc32cd9eb99da49.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/14/ML-22230-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

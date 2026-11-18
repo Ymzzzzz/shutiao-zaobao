@@ -1,0 +1,45 @@
+{
+  "id": "n75623b38e68b",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "为什么微调耗时总比FLOPs估算更长",
+  "original_title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "summary": "Dharma-AI基于272个生产环境的监督微调任务（约7382 GPU小时，NVIDIA H200）研究端到端微调耗时预测，指出常用的FLOP粗算往往严重低估实际时间，并预告即将在arXiv发布相关论文。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "is_primary": true,
+      "published_at": "2026-11-19T02:53:43+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T02:53:43+08:00",
+  "updated_at": "2026-11-19T02:53:43+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "微调为何总比FLOPs估算更慢",
+  "lead_zh": "Dharma-AI分析272个生产微调任务、约7382个GPU小时的数据，指出常用的FLOP粗算会严重低估实际耗时。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Dharma-AI在Hugging Face博客预告即将发布在arXiv上的论文，研究如何预测生成式语言模型端到端微调的耗时。团队从其NVIDIA H200 GPU生产资源池中选取**272**个真实的监督微调任务，共约**7382**个GPU小时，比较了理论估算和机器学习预测器的效果。",
+        "结果显示，常用的基于FLOP的估算对实际耗时的解释力很弱（R²为**0.31**，平均绝对误差**12.41**小时）；而一个只使用派发前可得信息的CatBoost回归模型，在五折交叉验证中R²达到**0.98**，平均绝对误差**1.71**小时，中位误差**0.51**小时。文章解释，FLOP估算只描述训练循环本身，且实际利用率通常只有峰值的**30%到60%**；而真实任务还包括环境准备、模型下载加载、分词、定期评测和保存检查点等环节，回归模型能从过往任务中学到这些因素之间的非线性关系。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/e0ea2abfd93c521dcf74fb2d7d20d78294d0fbe9.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

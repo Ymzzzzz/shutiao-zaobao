@@ -1,0 +1,55 @@
+{
+  "id": "n54287e141aa4",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "奥特曼称安德鲁·加菲尔德演自己并不算怪事",
+  "original_title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+  "summary": "OpenAI首席执行官萨姆·奥特曼表示，他的生活已经足够离奇，所以对安德鲁·加菲尔德将在即将上映的电影中饰演自己并不在意。他说，这件事在他生活中最奇怪的事情里排不进前十。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "is_primary": false,
+      "published_at": "2026-11-19T04:07:01+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T04:07:01+08:00",
+  "updated_at": "2026-11-19T04:07:01+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "奥特曼淡定回应加菲尔德将在电影中演自己",
+  "lead_zh": "奥特曼称自己的生活足够离奇，安德鲁·加菲尔德在新片中饰演他这件事，排不进他生活里最怪的前十件事。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "传记喜剧片《Artificial》将于圣诞节在影院上映，影片讲述OpenAI的崛起以及2023年萨姆·奥特曼短暂被赶下台时公司内部的动荡，演员安德鲁·加菲尔德在片中饰演奥特曼。加菲尔德以饰演蜘蛛侠闻名，2010年曾在《社交网络》中饰演Facebook联合创始人爱德华多·萨维林。",
+        "近年来好莱坞频繁取材硅谷丑闻和权力斗争：关于伊丽莎白·霍姆斯的纪录片票房超出预期，讲述萨姆·班克曼-弗里德和FTX覆灭的Netflix限定剧《The Altruists》也将于周四上线。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "当事人怎么说",
+      "paras": [
+        "据奥特曼周三在《纽约时报》DealBook峰会上称，如果20年前有人告诉他会有人拍一部关于他的电影，他会觉得非常奇怪，「但现在这件事在我生活中最奇怪的事情里，大概排不进前十」。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/6723c69f1c96eb947535c32dd0947d4bf0a86a26.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

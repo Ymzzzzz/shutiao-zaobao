@@ -1,0 +1,55 @@
+{
+  "id": "n6cab9c8cd383",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "费加罗集团与OpenAI合作，新闻内容接入ChatGPT",
+  "original_title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "summary": "法国费加罗集团与OpenAI达成合作，ChatGPT将以摘要和节选的形式呈现《费加罗报》的新闻内容，并附上指向原文报道的链接，这是OpenAI与欧洲新闻出版机构达成的又一项内容合作。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "is_primary": true,
+      "published_at": "2026-11-18T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T08:00:00+08:00",
+  "updated_at": "2026-11-18T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "费加罗集团与OpenAI合作把新闻接入ChatGPT",
+  "lead_zh": "法国费加罗集团与OpenAI合作，ChatGPT将以摘要和节选形式呈现《费加罗报》报道，并附原文链接。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "法国费加罗集团与OpenAI于11月18日宣布建立战略合作。合作涵盖《费加罗报》及其关联出版物的当前报道和存档内容，包括新闻、商业、文化和生活方式等领域，这些文章将以摘要和节选的形式在ChatGPT中呈现，并附有原始报道链接。",
+        "按照公告，《费加罗报》将保留对其新闻内容的完全编辑独立和控制权。费加罗集团还计划在多个团队中引入ChatGPT Enterprise辅助日常工作，并在其AI章程和编辑标准的指导下，探索在工作流程和读者服务中更多地使用OpenAI的技术。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据费加罗集团首席执行官Marc Feuillée称，这项合作体现了集团与AI领先企业建立有意义关系的愿望，集团拥有**600**多名记者，与OpenAI的技术和全球影响力结合，将为读者带来创新机会和长期价值。OpenAI媒体合作副总裁Varun Shetty则称，OpenAI希望借助AI让更多人发现《费加罗报》的报道，并致力于与出版方合作支持优质新闻。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

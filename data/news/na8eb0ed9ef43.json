@@ -1,0 +1,45 @@
+{
+  "id": "na8eb0ed9ef43",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "在Aurora PostgreSQL中设计负责任的AI管控",
+  "original_title": "Design responsible AI controls for Amazon Aurora PostgreSQL",
+  "summary": "AWS文章介绍如何利用Amazon Aurora PostgreSQL、pgvector和Amazon Bedrock Guardrails，让RAG聊天机器人的回答可追溯，并把来源、评分和防护栏触发记录都写入SQL日志，便于事后审计。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/",
+      "is_primary": true,
+      "published_at": "2026-11-19T05:38:22+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T05:38:22+08:00",
+  "updated_at": "2026-11-19T05:38:22+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊示范让检索增强问答结果可追溯",
+  "lead_zh": "亚马逊云科技介绍如何借助其关系型数据库、向量检索插件和防护栏功能，让检索增强聊天机器人的回答可追溯，并把来源和防护记录写入数据库。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技博客指出，客服聊天机器人如果查询存放在Aurora PostgreSQL兼容版中的历史工单和知识库文章，可以给出快速且贴合上下文的回答，但当底层数据包含敏感客户信息时，也会带来隐私、准确性、安全和治理方面的挑战。",
+        "文章把亚马逊云科技定义的**8**个负责任AI维度（公平性、可解释性、隐私与安全、安全性、可控性、真实性与鲁棒性、治理和透明度）对应到Aurora PostgreSQL的能力上，并以基于检索增强生成的客服聊天机器人为例，深入实现其中的可解释性维度，作为系列文章的第一部分。方案利用Aurora机器学习功能，直接在SQL中调用SageMaker端点和Bedrock基础模型生成向量嵌入，无需搬移数据或搭建复杂的数据管道，把嵌入流程留在数据库层内。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/db5102345059fc77011f92841256ea54c9c143a5.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-20463-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

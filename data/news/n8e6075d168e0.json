@@ -1,0 +1,45 @@
+{
+  "id": "n8e6075d168e0",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Gemini应用支持低内存安卓手机",
+  "original_title": "The Gemini app is now available on lower-memory Android devices.",
+  "summary": "谷歌宣布Gemini应用现已支持内存较低的安卓设备，这类手机用户也能使用Gemini Live实时对话和自定义图片生成等功能，谷歌鼓励用户下载应用体验，进一步扩大Gemini在中低端安卓手机上的覆盖面。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "is_primary": true,
+      "published_at": "2026-11-19T01:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T01:00:00+08:00",
+  "updated_at": "2026-11-19T01:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Gemini应用开始支持低内存安卓手机",
+  "lead_zh": "谷歌宣布Gemini应用现已支持低内存安卓设备，用户可在这类手机上使用Gemini Live和自定义图片生成功能。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌11月18日宣布，Gemini应用开始登陆符合条件的Android（Go版）设备。谷歌表示，对全球数以亿计的人来说，低内存安卓手机是他们接入互联网、教育和商业的日常工具，但此前受硬件限制，这类手机只有基本的语音命令功能。为此谷歌重新设计了应用架构，让Gemini的核心体验能在内存较小的硬件上流畅运行。",
+        "在这类手机上，用户可以通过Gemini Live用**45**种以上语言进行语音对话或练习面试，把摄像头对准笔记或表格进行学习和翻译，或用Nano Banana生成自定义图片，例如为周末烘焙义卖制作传单。用户可在Google Play下载应用，在受支持手机上长按电源键唤起，传音等合作伙伴即将推出的设备也会预装该应用。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    }
+  ],
+  "image_url": "img/693b0dc8eaeb01ebfd0522a4f0e6c3874f3280e5.jpg",
+  "image_source": "Google AI Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

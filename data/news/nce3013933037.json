@@ -1,0 +1,45 @@
+{
+  "id": "nce3013933037",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "WeightBench：评测语言模型操作权重的能力",
+  "original_title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+  "summary": "论文提出WeightBench基准。近期研究显示，大语言模型可以直接操作其他神经网络的参数，读出网络被训练来做什么、修复出错的网络等，该基准用于评测语言模型作为权重空间编程者的能力。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.18553",
+      "is_primary": true,
+      "published_at": "2026-11-18T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T08:00:00+08:00",
+  "updated_at": "2026-11-18T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "WeightBench评测大模型直接改写权重的能力",
+  "lead_zh": "论文提出WeightBench基准，评测大语言模型直接读取、修复和编写其他神经网络参数的能力。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "论文指出，近期研究显示大语言模型可以不经梯度下降，直接操作其他神经网络的参数：读出网络被训练来做什么、修复出错的网络，甚至从零写出可用的网络，这种能力被称为权重空间编程。为系统研究这一范式，作者提出基准WeightBench，包含**5**个方向的**42**项任务：读取、修复和编写权重，识别不可能实现的修改，以及无数据压缩，涉及的网络从**2000**参数的控制策略到**70亿**参数的语言模型不等。",
+        "实验结果显示，前沿智能体已经能读懂小型网络，并在不运行的情况下写出可用的控制策略，但还不能修补语言模型、在没有数据时压缩模型，也分不清不可能的修改和困难的修改。在全部42项任务上，Claude Opus 5.5的宏平均得分为**0.535**；在其参与的38项任务上，GPT-6.1-sol得分**0.568**，同一范围内Opus为**0.546**。代码、任务库、沙箱和排行榜均已公开。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/02e33b81bc5719c8c24494e329fe9dda2d532d47.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18553.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

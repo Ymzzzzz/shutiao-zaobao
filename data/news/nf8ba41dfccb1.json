@@ -1,0 +1,46 @@
+{
+  "id": "nf8ba41dfccb1",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "迪士尼新星战机器人用AI与游客互动",
+  "original_title": "Disney’s new Star Wars animatronics interact with guests using AI",
+  "summary": "迪士尼乐园的动画机器人通常只能按预设动作运行，或由幕后操作员协助互动。The Verge报道，迪士尼新推出的星球大战主题动画机器人借助AI与游客进行互动，让角色表现更加自然。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "is_primary": false,
+      "published_at": "2026-11-19T01:50:57+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T01:50:57+08:00",
+  "updated_at": "2026-11-19T01:53:48+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "迪士尼新星战动画机器人用AI与游客互动",
+  "lead_zh": "The Verge报道，迪士尼新的星球大战动画机器人借助AI与游客互动，不再只靠预设动作或幕后操作员。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Verge报道，迪士尼乐园的动画机器人虽然越来越逼真，但通常要么按预设动作运行，要么由幕后操作员协助。华特迪士尼幻想工程研发部门公布了三款新的音频动画机器人原型，借助亚马逊AWS云和AI能力，实时对游客互动作出独特回应。",
+        "这三个机器人名为Vilo Vele、Kado Bre'a和Jibu Bre'a，原型是今年上映的电影《曼达洛人与格鲁古》中的星球大战外星角色安泽兰人，各有不同性格，通过隐藏的摄像头和麦克风回应游客。它们将于本月晚些时候在拉斯维加斯AWS re:Invent大会上首次公开亮相，相关角色和技术今后可能进入星球大战主题园区「银河边缘」等迪士尼景点。",
+        "与此前亮相的雪宝机器人不同，这些机器人无需有人在暗处用Steam Deck操控。摄像头和麦克风捕捉的游客动作和话语由运行在AWS云端的多个AI模型处理：一个快速决策模型负责目光接触等即时反应，更大的模型规划较长的互动。不过，所有动作和台词都由迪士尼幻想工程师事先写好，AI只负责选择和触发，不会脱离剧本。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/c8339ffed15846b846ab3699fd82332837335644.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

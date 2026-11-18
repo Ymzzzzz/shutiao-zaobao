@@ -1,0 +1,55 @@
+{
+  "id": "n246fea28a789",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "帕尔默·拉奇呼吁让黄仁勋复职",
+  "original_title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+  "summary": "Anduril首席执行官帕尔默·拉奇认为中国乐见黄仁勋离开英伟达，因此希望这位被赶下台的英伟达首席执行官能够复职。他表示，把黄仁勋赶走会让美国变得更弱，这一表态引发科技圈讨论。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "is_primary": false,
+      "published_at": "2026-11-19T05:31:21+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T05:31:21+08:00",
+  "updated_at": "2026-11-19T05:31:21+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "帕尔默·拉奇呼吁黄仁勋重回英伟达",
+  "lead_zh": "Anduril首席执行官帕尔默·拉奇称赶走黄仁勋会让美国变弱，认为中国乐见其离开，希望他重回英伟达。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anduril首席执行官帕尔默·拉奇周三在《纽约时报》DealBook峰会上表示，英伟达董事会撤换黄仁勋正中中国下怀。执掌英伟达**33年**的黄仁勋上周在多起争议中卸任，其中包括他与一名涉嫌中国间谍者的婚外情，此人曾因可能走私英伟达芯片进入中国、规避美国出口管制而受到调查。",
+        "拉奇并不认同黄仁勋长期主张英伟达应获得更大对华出口空间的立场。英伟达此前表示，美国政府已批准其向部分中国客户出口部分H200芯片，但这些销售受到中国政府的限制。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "当事人怎么说",
+      "paras": [
+        "据拉奇称，「中国希望黄仁勋离开，所以我希望他留下」，中国「很高兴看到黄仁勋出局」，这也是英伟达市值蒸发约一万亿美元的原因，赶走他会让美国变弱。他还称，中国不希望英伟达向中国企业出售GPU，而是想建立不依赖美国的本土处理器产业，因此不给想买英伟达GPU的中国企业发放进口许可。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/b0f3f4853da2c6883223dbb1a7d41cc242295322.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

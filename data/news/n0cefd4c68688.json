@@ -1,0 +1,55 @@
+{
+  "id": "n0cefd4c68688",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "Meta内部聊天显示Muse隐私问题引员工担忧",
+  "original_title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+  "summary": "Ars Technica报道，内部聊天记录显示，Meta的Muse输出异常，会随机给出银行和比特币余额等信息，引发员工对隐私的担忧。Meta表示，这些输出内容并不是真实数据，但事件仍引发外界关注。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "is_primary": false,
+      "published_at": "2026-11-19T03:19:33+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T03:19:33+08:00",
+  "updated_at": "2026-11-19T03:19:33+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Meta员工担忧Muse隐私问题",
+  "lead_zh": "内部聊天显示Meta的Muse会随机输出银行和比特币余额等信息，引发员工担忧，Meta称这些内容并非真实数据。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "今年秋天，Meta的AI智能体Muse的一些早期用户抱怨它窥探私信、行为难以预测。据Ars Technica援引路透社报道，Meta内部聊天记录显示，员工在测试时也发出过同样警告：Muse似乎会访问用户不希望它查看的加密私信，可能混淆不同用户之间的对话，甚至可能泄露用户不希望公开的敏感信息。",
+        "报道列举了多个例子：有员工突然收到Muse主动发来的「洗钱」定义；有员工被Muse提议联系一张咖啡桌的卖家，Muse称自己调入了「似乎不属于你的咖啡桌取货信息」，该员工随后标记了这一问题，担心存在「跨账户上下文泄露」。还有员工在和Muse聊钓鱼时，收到似乎来自两个陌生银行账户的余额信息。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Meta称，Muse这些异常输出中出现的银行余额和比特币余额并不是真实的用户数据。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/fe2d10fe396371a0b50dbf777def00d642a5de9e.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "n61a25aea7188",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌搜索AI模式推出无痕对话",
+  "original_title": "Google’s AI feature in Search gets its own incognito mode",
+  "summary": "谷歌为搜索中的AI模式推出临时对话功能，用户在AI模式中进行的对话不会写入搜索历史，也不会影响今后的推荐内容，相当于给AI搜索加上了无痕模式，便于处理较私密的查询。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "is_primary": false,
+      "published_at": "2026-11-19T02:04:05+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T02:04:05+08:00",
+  "updated_at": "2026-11-19T02:04:05+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌搜索AI模式上线临时对话无痕功能",
+  "lead_zh": "谷歌为搜索AI模式推出临时对话，对话不会写入搜索历史，也不会影响之后的推荐，相当于无痕模式。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌在博客中宣布，为搜索中的AI模式推出「临时对话」功能，在其中进行的对话之后不会出现在搜索历史或推荐等地方。谷歌搜索早就提供无痕模式，Gemini等主流聊天机器人也已支持临时聊天，但此前用户在谷歌搜索中进入对话式界面AI模式时，还没有这一选项。",
+        "谷歌称，用户无需调整设置，只要点击AI模式右上角的临时对话图标即可开启，效果与独立的Gemini聊天机器人中的临时聊天基本相同。临时对话开始后，会话将与用户账户脱离，AI的回答不会参考过往偏好，也不会影响之后的个性化推荐。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "TechCrunch认为，当用户在AI模式中深入了解某个较私人的话题、不希望讨论进入搜索历史时，或者只想一次性了解某件事时，这一功能会比较方便。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/dbbda0e93c3665bd0ecc472dbf465fce60017d29.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

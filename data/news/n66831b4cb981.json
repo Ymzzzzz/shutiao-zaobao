@@ -1,0 +1,45 @@
+{
+  "id": "n66831b4cb981",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "从报表到推理：让企业数据为AI智能体做好准备",
+  "original_title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+  "summary": "AWS回顾了首届AWS Quick用户组华盛顿特区聚会，数据负责人们讨论如何让企业数据为AI智能体做好准备，内容涵盖AWS Quick的新功能以及Financial Independence Group的AI实践等。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/",
+      "is_primary": true,
+      "published_at": "2026-11-19T02:54:08+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T02:54:08+08:00",
+  "updated_at": "2026-11-19T02:54:08+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AWS用户会探讨企业数据如何为智能体就绪",
+  "lead_zh": "AWS回顾首届Quick用户组华盛顿聚会，数据负责人讨论企业数据如何为AI智能体做好准备及相关实践。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技发文回顾首届AWS Quick用户组华盛顿特区聚会。2026年10月7日，数据负责人、开发者和从业者在弗吉尼亚州阿灵顿的AWS技能中心参加了这次活动，与会者包括创业者、软件工程师和企业负责人，其中有来自Financial Independence Group的团队。",
+        "文章指出，许多组织都在思考如何超越静态报表仪表盘，开始使用生成式和智能体AI，但在AI智能体能够回答问题或帮助团队行动之前，需要可信的数据基础。与会者探讨了现代化改造旧有架构、为智能体工作流准备结构化数据，以及用无代码工具自动化日常任务的实用策略；会上还介绍了AWS Quick在智能体、技能和连接器方面的新功能，对许多与会者来说，这是第一次实际看到智能体AI在AWS Quick中的应用。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/b0e2617e48d3e9992dafe059fd69178a7ae82dda.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-22393-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

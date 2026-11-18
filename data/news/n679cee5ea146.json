@@ -1,0 +1,55 @@
+{
+  "id": "n679cee5ea146",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "开源0.5B语音识别模型Rumble-2-Flash",
+  "original_title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+  "summary": "Rumble-2-Flash以Apache 2.0许可开源，是一个5亿参数的语音识别模型，支持40多种语言并可自动识别语种，官方称可与规模大3到60倍的模型竞争，约半秒即可转写一小时音频。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "is_primary": true,
+      "published_at": "2026-11-18T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T08:00:00+08:00",
+  "updated_at": "2026-11-18T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "开源0.5B语音模型Rumble-2-Flash支持40多种语言",
+  "lead_zh": "5亿参数语音识别模型Rumble-2-Flash以Apache 2.0开源，支持40多种语言，官方称约半秒可转写一小时音频。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Reson8在Hugging Face博客宣布以Apache 2.0许可开源语音识别模型Rumble-2-Flash。该模型参数量为**5亿**，支持**40**多种语言并能自动识别语种，可控制数字输出为阿拉伯数字或文字、是否保留语气词和重复等。模型原生支持Transformers和vLLM，无需自定义代码。",
+        "技术上，Rumble-2-Flash采用Qwen3-ASR架构，通过同策略蒸馏从团队更大的生产模型Rumble-2中蒸馏而来：学生模型自己转写音频，再由教师模型逐个token给出概率进行纠正；由于两者分词器不同，团队用GOLD方法合并切分不一致的token，让两个模型能在同一文本上比较。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Reson8称，该模型可与规模大**3到60倍**的模型竞争，满批量时实时倍率超过**7000**，约半秒就能转写一小时音频；在一个**302**小时的呼叫中心基准上，其表现与参数量**300亿**的NVIDIA Nemotron 3.5 Transcribe相当。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/3344785f5a70241bc2f99b2bef087f396add75ed.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://huggingface.co/blog/assets/rumble-2-flash/thumbnail.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

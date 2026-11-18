@@ -1,0 +1,55 @@
+{
+  "id": "nb7121aa76176",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "报道称Anthropic IPO定价每股83美元",
+  "original_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+  "summary": "据TechCrunch援引报道，Anthropic将首次公开募股定价为每股83美元，高于此前预期区间。按完全摊薄计算，这次备受关注的上市对公司的估值约为1.5万亿美元，是今年最受瞩目的科技公司上市之一。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "is_primary": false,
+      "published_at": "2026-11-19T06:11:15+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T06:11:15+08:00",
+  "updated_at": "2026-11-19T06:11:15+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称Anthropic IPO定价每股83美元",
+  "lead_zh": "据报道，Anthropic将IPO定价为每股83美元，高于预期区间，按完全摊薄计算公司估值约1.5万亿美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据TechCrunch援引报道，Anthropic将首次公开募股定价为每股**83美元**，高于最初**70至78美元**的区间。按此价格，Anthropic在完全摊薄基础上估值约**1.5万亿美元**，高于今年5月融资**650亿美元**时的**9650亿美元**估值，但低于数月前据称瞄准的**2万亿美元**。公司将于周四在纳斯达克上市，股票代码为ANT。",
+        "报道称，Anthropic的风投投资方持股均不超过**5%**，红杉资本、前谷歌首席执行官埃里克·施密特和新加坡主权基金GIC各持股约**1%**。战略合作伙伴持股更多：亚马逊持股近**15%**，谷歌持股近**14%**。红杉、Iconiq、Lightspeed、Accel和Altimeter等现有投资方据称还计划在IPO中认购数十亿美元股票。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "为什么重要",
+      "paras": [
+        "TechCrunch认为，在英伟达首席执行官黄仁勋离职动摇行业信心之际，这一定价显示投资者对AI热潮核心公司的需求依然强劲；如果首日交易表现强劲，将表明投资者对AI普及仍然乐观，其表现也会影响包括OpenAI在内的私有AI公司的估值预期。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/7a4ffd5646d5f3d67508f67804ef0c6098610f93.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

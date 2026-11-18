@@ -1,0 +1,45 @@
+{
+  "id": "nbf1424b145e4",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "IBM时序模型原生登陆Confluent流处理平台",
+  "original_title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "summary": "IBM与Confluent合作，把下载量超5000万次的IBM时间序列基础模型原生接入Confluent，在云端和本地均可运行于CPU，借助Apache Flink用SQL对流数据做实时预测、异常检测和优化。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "is_primary": true,
+      "published_at": "2026-11-18T23:00:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T23:00:23+08:00",
+  "updated_at": "2026-11-18T23:00:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "IBM时序模型原生接入Confluent流数据平台",
+  "lead_zh": "IBM与Confluent合作，把下载超5000万次的时序基础模型接入Confluent，可用SQL对流数据做实时预测和异常检测。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IBM在Hugging Face博客宣布，其时间序列基础模型现已作为内置函数原生运行在Confluent中，云端和本地均可使用。这一模型家族共有**4**个模型，下载量超过**5000万**次。在Confluent Cloud中模型为全托管，无需部署；在本地可借助基于Apache Flink的Confluent平台在自有基础设施中运行，且只需CPU，无需GPU。",
+        "文章称，时间序列基础模型从多样的历史数据中学习通用规律，再应用到新的序列和任务上，团队无需为每个序列单独训练模型，也可以按需微调或结合其他数据和业务逻辑。借助Flink，团队可以用SQL对流式数据进行预测、异常检测和语义分析。适用场景包括保持生产线在规格范围内、发现门店异常活动、改进产品级规划、评估银行卡支付风险，以及预测交易量以辅助下大额订单，可用于制造、零售、银行和航空等行业。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/58e7014b3d5ebbe6ffdb0b5a8276879fb82f5032.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

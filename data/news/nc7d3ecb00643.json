@@ -1,0 +1,55 @@
+{
+  "id": "nc7d3ecb00643",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI称其模型助力芯片设计优化",
+  "original_title": "Advancing chip design with OpenAI models",
+  "summary": "OpenAI表示，其模型优化了Jalapeño芯片所用的电路，并改进了RISC-V处理器核心设计，展示了借助GPT-6 Astra进行AI辅助芯片设计的进展，显示大模型开始介入硬件研发环节。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "is_primary": true,
+      "published_at": "2026-11-18T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T08:00:00+08:00",
+  "updated_at": "2026-11-18T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI称其模型已用于优化芯片电路设计",
+  "lead_zh": "OpenAI称其模型优化了Jalapeño芯片所用电路并改进RISC-V核心设计，展示GPT-6 Astra在芯片设计上的进展。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI于11月18日发文，介绍其模型在芯片设计中的应用。OpenAI自2025年初开始用GPT-4o辅助设计首款自研推理芯片Jalapeño，在矩阵单元中，一项乘法器重新设计在综合中节省约**15%**的单元面积，同时把延迟从两个时钟周期降到一个；另一项加法器设计也减少约**15%**面积。",
+        "团队估计，模型提出的修改使Jalapeño向量单元的标准单元面积减少约**13%**、矩阵单元减少约**10%**，这些优化已在芯片点亮阶段得到实际硅片验证。OpenAI还与AMD合作，在其旗舰GPU IP上相对高度优化的基线取得最高**14%**的PPA提升，做法包括由模型改写描述电路的SystemVerilog RTL代码。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI称，与AMD合作取得的提升相当于约一年的进展，却在不到**5个月**内完成。OpenAI还称，正与Synopsys合作，把前沿模型能力整合进工程师已在使用的电子设计自动化工具中，并在两个开源处理器设计上评估了多代模型完成端到端芯片设计任务的能力。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

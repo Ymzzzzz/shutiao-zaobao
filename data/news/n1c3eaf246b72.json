@@ -1,0 +1,55 @@
+{
+  "id": "n1c3eaf246b72",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "英伟达RTX Spark小型台式机开售",
+  "original_title": "NVIDIA RTX Spark Compact Desktops Out Now",
+  "summary": "英伟达宣布，华硕、戴尔和微星推出的RTX Spark小型台式机今日开售，可在专用Windows电脑上本地运行AI智能体、图像和视频生成以及模型微调，把此前多依赖云端的AI工作负载搬到桌面上完成。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "is_primary": true,
+      "published_at": "2026-11-18T22:00:31+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T22:00:31+08:00",
+  "updated_at": "2026-11-18T22:00:31+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达RTX Spark小型台式机今日开售",
+  "lead_zh": "华硕、戴尔和微星推出的英伟达RTX Spark小型台式机今日开售，可在Windows电脑上本地运行AI智能体、生成图像视频和微调模型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英伟达11月18日宣布，华硕、戴尔和微星推出的RTX Spark小型台式机即日开售，宏碁、技嘉、惠普和微软的机型也将陆续推出。这类设备是专用的Windows电脑，可在本地运行AI智能体、图像和视频生成以及模型微调。",
+        "硬件上，RTX Spark台式机配备**20核**NVIDIA Grace CPU、拥有**6144**个CUDA核心的Blackwell RTX GPU，以及最高**128GB**统一内存，AI算力最高**1 petaflop**，并配备万兆以太网。英伟达列举的用途包括在本地运行**1200亿**参数的大语言模型、实时渲染**90GB**以上的3D场景等。"
+      ],
+      "sources": [
+        "NVIDIA Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据英伟达称，在本地运行受支持的模型可以让代码和文件留在电脑上，并免去这些任务按token计费的云端接口费用；独立台式机可以让智能体和定时任务全天候运行，笔记本则可以外出或处理其他工作。英伟达还称，Adobe原生Windows on Arm应用、Blender的DLSS光线重建和ComfyUI本地生成流程也扩展了RTX Spark的用途。"
+      ],
+      "sources": [
+        "NVIDIA Blog"
+      ]
+    }
+  ],
+  "image_url": "img/040886ecd0250431a1ffcd83bc35cbbc063c5972.jpg",
+  "image_source": "NVIDIA Blog",
+  "image_origin_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-2-1.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

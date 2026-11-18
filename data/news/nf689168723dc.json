@@ -1,0 +1,45 @@
+{
+  "id": "nf689168723dc",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "RadixArk发布首个模型DaisyRose-27B",
+  "original_title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "summary": "RadixArk发布首个模型DaisyRose-27B，基于Qwen3.8-27B，用强化学习在1200个精选长程智能体任务上训练，耗时18天、使用144块H200，Terminal-Bench 4.1通过率从5.6%提升到12.0%，以Apache 2.0开源。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "is_primary": true,
+      "published_at": "2026-11-19T03:54:56+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T03:54:56+08:00",
+  "updated_at": "2026-11-19T03:54:56+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "初创公司开源首个模型，智能体基准成绩翻倍",
+  "lead_zh": "初创公司RadixArk基于通义千问开源模型用强化学习训练出首个模型，在终端操作基准上的通过率由5.6%升至12.0%，并以宽松许可开源。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "RadixArk在Hugging Face博客发布其首个模型DaisyRose-27B。该模型基于Qwen3.8-27B，用Miles框架进行强化学习训练，训练任务是会话长达**100万**token的长程智能体任务，只用了1200个精选任务，在**144**块H200 GPU上训练18天。模型保留了原模型的架构、分词器、对话模板、图像理解能力和256K上下文窗口，权重以Apache 2.0许可开源，提供BF16、FP8和NVFP4三种格式。",
+        "在博客列出的基准中，DaisyRose-27B在每一项上都高于原版模型，提升最大的是Terminal Bench 4.1，单次通过率从**5.6%**升至**12.0%**；在DeepSWE v1.1上从42.2升至**46.2**，在IFBench上从79.5升至**82.4**。团队推荐用SGLang配合推测解码部署该模型，并称训练任务是与Eigent AI合作构建的。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/64aa97a5bad14f79724d6e2586410c5a1baf903d.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

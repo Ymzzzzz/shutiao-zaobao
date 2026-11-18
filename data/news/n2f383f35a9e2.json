@@ -1,0 +1,55 @@
+{
+  "id": "n2f383f35a9e2",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "图解英伟达的崛起",
+  "original_title": "Nvidia’s rise, visualized",
+  "summary": "The Verge用图表展示英伟达的崛起：该公司如今每秒净赚约8300美元，读完一段文字的时间里就能入账4.5万美元以上。文章以可视化方式梳理这家芯片公司利润和规模的急速扩张过程。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "is_primary": false,
+      "published_at": "2026-11-19T03:30:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T03:30:00+08:00",
+  "updated_at": "2026-11-19T06:18:53+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "图解英伟达崛起：每秒净赚约8300美元",
+  "lead_zh": "The Verge用图表梳理英伟达的崛起，称该公司如今每秒净赚约8300美元，利润和规模急速扩张。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge发布可视化文章，梳理英伟达的崛起过程。文章称，英伟达如今每秒净赚约**8300美元**，读完一段文字的时间里大概就能进账**4.5万美元**以上。文章用图表展示英伟达的营收增长和利润，并标注同期发生的世界大事，以此说明英伟达的上升速度之快、幅度之大，使AMD、英特尔和高通等竞争对手已经很难称得上是对手。",
+        "除了可以用鼠标悬停查看具体数额的点状图，文章还制作了一张横向柱状图，把英伟达的营收增长和巨额利润并列展示，并标出同期发生的世界大事，帮助读者直观理解其规模。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "作者Sean Hollister认为，刚刚因一连串丑闻失去创始人首席执行官的英伟达，容易让人觉得这家公司乃至整个AI行业都陷入了大麻烦；但英伟达并不是一家需要新任首席执行官去修修补补的普通公司，而是成功到令人难以置信，涉及的钱太多，因此它会尽一切努力避免动摇现状。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/4df5fda4267b7b9ec3a8f65b6abf7e1d1ecfbf75.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nvidia-leaves-rival-chipmakers-in-the-dust.png?quality=90&strip=all&crop=0%2C5.9688214860629%2C100%2C70.971495055265&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

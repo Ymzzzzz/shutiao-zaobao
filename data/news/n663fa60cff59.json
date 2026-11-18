@@ -1,0 +1,45 @@
+{
+  "id": "n663fa60cff59",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊SageMaker推出模型排行榜",
+  "original_title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
+  "summary": "亚马逊在SageMaker JumpStart中推出模型排行榜，可在SageMaker Studio里从质量、速度和成本三方面并排比较70多个基础模型，帮助用户选择合适的模型。文章介绍了排行榜展示的内容以及AWS的评测方法。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
+      "is_primary": true,
+      "published_at": "2026-11-19T06:31:04+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T06:31:04+08:00",
+  "updated_at": "2026-11-19T06:31:04+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "SageMaker推出模型排行榜，可比较70多个模型",
+  "lead_zh": "亚马逊SageMaker JumpStart推出模型排行榜，可在Studio中按质量、速度和成本并排比较70多个基础模型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技11月18日宣布推出SageMaker JumpStart模型排行榜。JumpStart提供数以百计可快速部署的开源权重基础模型，但用户过去比较模型时，往往要逐个阅读模型卡，并搜集在不同条件下发布的基准分数，仍难以判断模型在自身场景下的效果和成本。新排行榜可直接在SageMaker Studio中，从质量、速度和成本三方面并排比较模型。",
+        "排行榜是Studio中JumpStart基础模型页面的一个新视图，与分类视图和全部模型视图并列，沿用原有的搜索栏和筛选器，打开后直接显示大语言模型排名，无需先回答设置问题。每个模型展示两类信息：一是由亚马逊云科技用统一评测设置自行运行的三项公开基准的质量分数，确保数字可比；二是向各模型端点发送标准化测试负载测得的性能与成本指标。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/21d53a8fcf506290020cfc90b90f25b128176b0a.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22496-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

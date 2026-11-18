@@ -1,0 +1,55 @@
+{
+  "id": "n42159eae923c",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI称其模型为AMD带来一年量级的芯片优化",
+  "original_title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+  "summary": "据The Decoder报道，OpenAI与AMD合作，在不到五个月内让AMD旗舰GPU IP的PPA指标最高提升14%。OpenAI称这大约相当于一年的优化进展，并且是在AMD自身工程优化基础上取得的。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/",
+      "is_primary": false,
+      "published_at": "2026-11-19T02:00:33+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T02:00:33+08:00",
+  "updated_at": "2026-11-19T02:00:33+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI称其模型为AMD GPU带来14%优化",
+  "lead_zh": "OpenAI称与AMD合作不到五个月，让AMD旗舰GPU IP的PPA最高提升14%，约相当于一年的优化进展。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Decoder报道，OpenAI与AMD合作，在不到**5个月**内让AMD旗舰GPU IP的PPA（功耗、性能和芯片面积）最高提升**14%**。同样的方法也用于OpenAI首款自研推理芯片Jalapeño。在开源RISC-V处理器核心测试中，新的GPT-6.2 Astra模型在各代模型中取得最佳结果。OpenAI还在与Synopsys合作开发GPT-Synopsys，借助其EDA工具让AI辅助芯片设计更易普及。",
+        "报道还提到，Anthropic也在芯片工作中使用AI：其Mythos模型只用**3天**就完成了一个模型在AMD MI355X GPU上的提示词处理工作，而Anthropic称这项任务通常需要**6到12个月**。Anthropic目前在**4**个芯片系列上运行Claude，以优化成本和每美元性能。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI称，这一提升相当于在AMD工程师已优化多年的设计基础上又取得约一年的进展，AMD已把其中部分改动纳入一款送去制造的设计。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

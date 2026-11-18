@@ -1,0 +1,45 @@
+{
+  "id": "n2ab4deb8d869",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Salesforce借助SageMaker跨区域推理路由扩展模型服务",
+  "original_title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
+  "summary": "AWS文章介绍，Salesforce使用Amazon SageMaker AI的跨区域推理路由器，把分散在各区域的算力整合成可靠的模型服务能力，并在多个区域间安全地增加容量，以支撑全球规模的模型推理。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+      "is_primary": true,
+      "published_at": "2026-11-19T04:13:18+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T04:13:18+08:00",
+  "updated_at": "2026-11-19T04:13:18+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Salesforce用跨区域推理路由扩展模型服务",
+  "lead_zh": "Salesforce借助SageMaker AI跨区域推理路由，把分散在各区域的算力整合起来，实现更可靠的全球模型服务。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技博客介绍，Salesforce的Agentforce基础团队在全球**30**多个区域，为Agentforce和Salesforce信任层等产品提供多种模型服务，既有自研模型也有开源模型。过去在每个区域单独托管模型，会把算力分散开，难以吸收流量高峰，使算力不足演变为可用性问题。",
+        "文章介绍了Salesforce如何在SageMaker AI中启用跨区域推理路由：应用只需一个调用入口，就能访问分布在多个区域和账户中的SageMaker AI端点，路由器会把每个请求发往能够处理它的端点，而这些端点都是Salesforce自己已经部署好的。借助这一方式，团队可以在遵守数据驻留承诺的前提下安全地增加算力，并能查看每个请求在哪里处理以及原因。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/6e58719e7ceaf082d45e124e0f91df2d922984a2.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/Building-highly-available-Oracle-databases-with-Amazon-FSx.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "n0582429b02b0",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "CONGA：编译高斯纤维几何用于结构化贝叶斯推断",
+  "original_title": "CONGA: Compiling Gaussian Fiber Geometry for Structured Bayesian Inference",
+  "summary": "这篇论文关注结构化贝叶斯模型：其中较大的潜变量块在给定较少参数时常呈条件高斯分布，但通用推断方法会在预热阶段重新学习这种几何结构。作者研究如何利用这一结构提升推断效率。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.20995",
+      "is_primary": true,
+      "published_at": "2026-11-18T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T08:00:00+08:00",
+  "updated_at": "2026-11-18T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "CONGA论文：利用高斯结构加速贝叶斯推断",
+  "lead_zh": "论文研究结构化贝叶斯模型中条件高斯潜变量的几何结构，避免通用推断方法在预热阶段重复学习这一结构。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "这篇论文指出，在结构化贝叶斯模型中，较大的潜变量块在给定较少参数时往往服从条件高斯分布，但通用推断方法会在预热阶段重新学习这种几何结构。作者研究如何利用这一结构构造用于后验推断的传输映射：条件均值和精度可以确定精确的仿射映射，把标准正态块与其余非高斯核心分开，相应的优化目标也随之简化为只针对这个核心。",
+        "作者提出编译器CONGA，它能识别候选的高斯块，并根据其结构和计算成本选择时间、频谱或稀疏实现；若检查不通过，模型保持不变。在通胀模型实验中，CONGA让NUTS采样器每秒最小有效样本量提升**12.5倍**；在一个**6760**维的电力负荷模型上，它把问题缩减到**34**个核心坐标，使原本无法收敛的采样恢复收敛。代码已开源。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/51a788a8ef4516609e7dc0077a9c49d400c4c8b0.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.20995.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

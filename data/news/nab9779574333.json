@@ -1,0 +1,55 @@
+{
+  "id": "nab9779574333",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "威尔·赖特新模拟游戏将用AI挖掘你的记忆",
+  "original_title": "Will Wright's next simulation will use AI to mine content from your memories",
+  "summary": "《模拟人生》之父威尔·赖特正在开发新作MyMems，计划借助AI从玩家的记忆中提取内容来构建模拟体验。赖特表示，他希望这一次把模拟转向内心，让玩家自己的经历成为游戏素材。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "is_primary": false,
+      "published_at": "2026-11-19T02:10:33+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T02:10:33+08:00",
+  "updated_at": "2026-11-19T02:10:33+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "威尔·赖特新作MyMems要用AI挖掘记忆",
+  "lead_zh": "《模拟人生》之父威尔·赖特开发新作MyMems，计划用AI从玩家记忆中提取内容，他称要把模拟转向内心。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据Ars Technica报道，《模拟城市》《模拟人生》的设计者威尔·赖特自2008年《孢子》反响平平并离开EA后鲜有新作，如今他开始推广下一款数字模拟作品MyMems，计划明年发布。该作由他的Gallium Studios与合作方Artificial Agency开发，将利用生成式AI，根据玩家提供的记忆打造类似游戏的体验。",
+        "游戏会从玩家提供的记忆中提取内容，生成数字人物，这些人物可以组队在游戏世界中解谜。赖特在新闻稿中举例：如果我奶奶和小威廉姆斯打一场大满贯比赛，谁会赢？如果要在一道窄峡谷上架桥，我会从生活中选哪三个人帮忙？"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "当事人怎么说",
+      "paras": [
+        "据赖特称，他希望这一次「把模拟转向内心」。他在宣传视频中表示，《模拟人生》这类游戏中的「合理行为」仍无法真正捕捉现实中人的细微之处，「它们远远无法理解我的幽闭恐惧症，或者我和姐姐为什么总吵架」。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/101884424695f0272c5fbea30fba9cee533b94c6.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

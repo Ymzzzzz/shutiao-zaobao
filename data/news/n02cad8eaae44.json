@@ -1,0 +1,45 @@
+{
+  "id": "n02cad8eaae44",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌Project Genie更新：Genie 4与可串联世界",
+  "original_title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+  "summary": "据The Decoder报道，谷歌DeepMind向Google AI Ultra订阅用户推出迄今最逼真的世界模型Genie 4，可生成交互式3D世界并通过文字实时修改，此次更新还带来可串联的世界和供用户二次创作的社区画廊。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
+      "is_primary": false,
+      "published_at": "2026-11-19T03:26:25+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T03:26:25+08:00",
+  "updated_at": "2026-11-19T03:26:25+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Project Genie更新：Genie 4和社区画廊上线",
+  "lead_zh": "The Decoder报道，谷歌向Ultra订阅用户推出Genie 4，可生成能实时用文字修改的3D世界，并上线社区画廊。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据The Decoder报道，谷歌DeepMind发布用于生成交互式3D世界的最先进世界模型Genie 4。新版本此前只作为研究预览提供，现作为Project Genie重大更新的一部分向Google AI Ultra订阅用户开放。Genie 4允许用户通过文字输入实时改变世界，例如天气、角色或故事情节，并能生成随场景变化的实时原生声音。",
+        "旧版Genie 3也获得更新：单次会话最长可达**3分钟**，支持360度全景图和可串联的世界。新的AI智能体可以根据口述描述帮助用户构建世界，社区画廊让用户分享和二次创作彼此的作品。所有生成内容都带有SynthID水印并经过安全检查，Google AI Pro会员目前可以加入候补名单等待开放。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/c4567c0a0f76d1f913c02cf6a60d481b0b2a8ea0.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/10/Genie-4-Google-title.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "n53f2a14376dd",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI详解Codex沙箱机制",
+  "original_title": "Inside the Codex sandbox",
+  "summary": "OpenAI发文介绍Codex沙箱的工作方式：Codex在用户电脑上执行命令时，会按用户设定的文件系统和网络访问限制运行，覆盖macOS、Linux和Windows三大平台，帮助用户控制编程智能体的操作范围和风险。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "is_primary": true,
+      "published_at": "2026-11-18T16:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T16:00:00+08:00",
+  "updated_at": "2026-11-18T16:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI详解Codex沙箱如何限制本机操作",
+  "lead_zh": "OpenAI介绍Codex在用户电脑上执行命令时，如何在macOS、Linux和Windows上落实用户设定的文件和网络限制。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI技术人员Michael Bolin于11月18日发文介绍Codex沙箱。Codex最常见、也可能最有风险的操作之一是在用户电脑上执行命令，因此OpenAI构建了沙箱，让Codex在用户现有环境中、按用户可控的文件系统和网络限制工作。用户通过权限配置文件设定一次会话的限制，例如整理照片时只允许读写图片目录并禁止联网。",
+        "以Git仓库为工作区时，内置的workspace配置允许在工作区内写入，但.git和.codex等目录保持只读，防止直接修改配置文件或Git钩子；允许较宽的文件读取，以免编译器和构建工具无法运行，代价是机器上其他位置的敏感文件也可能被读取；默认禁用网络，以阻止向外部服务上传数据，但也会影响下载依赖等正常操作。文章还介绍了在macOS、Linux和Windows上的具体实现。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI称，公司在保护智能体方面采取纵深防御思路，训练和对齐是根本，沙箱等工具层面的功能提供额外保护。OpenAI也承认，这些限制能防止一大类不良行为，但仍不能杜绝所有有害操作，例如智能体仍可能向本地代码注入恶意内容。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

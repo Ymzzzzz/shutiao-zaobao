@@ -1,0 +1,45 @@
+{
+  "id": "naf1852b4c46d",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "32GB内存跑1800亿参数MoE模型的实验",
+  "original_title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+  "summary": "Hugging Face博客作者Tarek Ziadé分享在32GB内存设备上用Transformers运行1800亿参数MoE模型的实验，通过直接从SSD流式加载专家，生成速度与推理引擎Strata相差不到6%。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "is_primary": true,
+      "published_at": "2026-11-18T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T08:00:00+08:00",
+  "updated_at": "2026-11-18T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "32GB内存跑1800亿参数MoE模型的实验",
+  "lead_zh": "抱抱脸博客作者分享在32GB内存设备上运行1800亿参数混合专家模型的实验，从固态硬盘流式加载专家，生成速度与专用引擎相差不到6%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Hugging Face工程师Tarek Ziadé在博客中分享了在有限内存下运行大型混合专家模型的实验。他在家用两块RTX 4090的电脑，工作中使用**32GB**统一内存的MacBook M5，希望少依赖在线模型、在本地运行更大的模型。社交网络上有人建议他使用专为混合专家模型设计的推理引擎Strata，它只把常用专家留在显存中，其余放在内存甚至硬盘上。",
+        "文章称，专家权重占混合专家模型权重的**90%**以上，因此像这样的**1800亿**参数模型可以在显存小得多的GPU上运行。作者比较了llama.cpp、vLLM和Transformers在模型装不下时如何卸载专家，并在Transformers中实现了直接从固态硬盘流式加载专家的方法，token生成速度与Strata相差不到**6%**。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/93b06b96a213e64d107325b4ee6d0ed77e6cc5f2.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://huggingface.co/blog/assets/moe-expert-streaming/thumbnail.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

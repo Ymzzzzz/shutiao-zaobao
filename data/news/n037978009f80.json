@@ -1,0 +1,45 @@
+{
+  "id": "n037978009f80",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "将Bedrock AgentCore Gateway接入集中检查的私有API",
+  "original_title": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
+  "summary": "许多企业采用集中式网络架构，由一个账户管理全部VPC，并用中央防火墙检查所有流量。AWS文章介绍了一套经过测试的方案，把Amazon Bedrock AgentCore Gateway连接到这种中心辐射型网络中的私有API。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/",
+      "is_primary": true,
+      "published_at": "2026-11-19T03:05:45+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T03:05:45+08:00",
+  "updated_at": "2026-11-19T03:05:45+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AgentCore Gateway接入集中检查的私有网络",
+  "lead_zh": "AWS给出经过测试的方案，把Bedrock AgentCore Gateway接入由中央防火墙统一检查流量的中心辐射型网络中的私有API。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技博客指出，许多企业由中央网络团队掌管所有虚拟私有云和子网，各私有云之间的流量往返都必须经过中央防火墙。通过Bedrock AgentCore Gateway调用内部接口和模型上下文协议服务器的智能体，同样要满足这两项要求。AgentCore是用于大规模构建、连接和优化智能体的平台，支持任意框架和模型。",
+        "文章给出一套满足上述要求的方案：网络团队保留每个子网的所有权，网关与私有接口及服务器之间的双向流量都经过中央防火墙。文章说明了网关访问私有目标所用的VPC Lattice资源网关应放在哪里、各组件归谁负责、**6**项配置决策以及验证方案可行的检查步骤。该方案在美国东部（弗吉尼亚北部）区域、由**3**个成员账户和**1**个管理账户组成的实验环境中搭建测试，相关模板和测试脚本一并公开。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/d962046487ec7d0ee56c89a1dde153602735473d.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/17/ML-22132-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "n61c2a4f6ef68",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "GameRealm：在交互游戏中训练视觉模型",
+  "original_title": "GameRealm: Grounding Visual Learning in Interactive Games",
+  "summary": "论文指出，视觉基础模型是物理智能的核心，但其发展受制于零散的训练数据集、参差不齐的标注质量和有限的多模态监督。作者提出GameRealm，借助交互式游戏为视觉学习提供训练基础。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.23140",
+      "is_primary": true,
+      "published_at": "2026-11-18T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T08:00:00+08:00",
+  "updated_at": "2026-11-18T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "GameRealm论文：借交互游戏训练视觉模型",
+  "lead_zh": "论文提出GameRealm，借助交互式游戏缓解视觉基础模型训练数据零散、标注质量参差和多模态监督不足的问题。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "论文指出，视觉基础模型是物理智能的核心，但其发展受制于零散的训练数据集、参差不齐的标注质量和有限的多模态监督。为此，作者提出GameRealm，这是一个大规模、标注丰富的数据集，把视觉观测与游戏原生的同步监督信号对应起来。",
+        "GameRealm包含超过**1.2亿**帧RGB图像和**1000**小时的游戏画面，提供度量深度、相机参数、同步音频、操作输入和三维点轨迹等多模态监督，视角配置涵盖单视角、双目、多视角和全景录制。为了在多种游戏环境中规模化采集数据，作者开发了统一的采集流程，结合人工操作与智能体自动探索。论文称，在多种视觉学习任务上的大量实验表明，GameRealm能持续增强视觉基础模型在视觉生成和几何学习方面的能力。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/77ff992e9e278c66e0d8e446cfbb786f9a1d3e31.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.23140.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

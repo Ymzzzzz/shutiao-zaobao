@@ -1,0 +1,55 @@
+{
+  "id": "n2f277485244a",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Snapchat支持用Claude Code和Cursor制作AR滤镜",
+  "original_title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+  "summary": "Snapchat宣布，开发者现在可以借助Claude Code、Cursor等AI助手制作AR滤镜。创作者只需用自然语言描述想要的滤镜效果，AI助手就能从头到尾完成制作流程，降低AR内容的创作门槛。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "is_primary": false,
+      "published_at": "2026-11-19T03:56:39+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T03:56:39+08:00",
+  "updated_at": "2026-11-19T03:56:39+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Snapchat支持用AI编程助手制作AR滤镜",
+  "lead_zh": "Snapchat称，创作者用自然语言描述想要的AR滤镜，Claude Code和Cursor等AI助手即可从头到尾完成制作。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Snapchat周三宣布，滤镜创作者可以使用自己已在用的AI编程助手制作AR滤镜，包括Claude Code、Cursor和Codex。Snapchat滤镜是该平台的核心功能之一，用户可以通过摄像头改变外观、在周围环境中添加数字物体或参与动画互动。",
+        "公司推出Easy Lens CLI，它基于现有的Easy Lens工具，后者允许创作者在网页和手机上用一句提示词生成滤镜。Easy Lens CLI把这一思路带入开发者现有的工作流程，由AI助手处理技术工作。参与Lens+ Payouts计划的开发者可以通过用Easy Lens CLI制作的滤镜获得收入，Snapchat称上个月向Lens+社区创作者支付了**180万美元**。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "TechCrunch认为，此举表明Snapchat希望降低AR内容创作门槛，让越来越多使用AI编程助手的开发者更容易为其平台开发，从而扩大为Snapchat创作内容的人群。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/4a757661685868a63386badfce519690e18a96d7.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

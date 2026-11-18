@@ -1,0 +1,45 @@
+{
+  "id": "n44013fe75393",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "爱彼迎用单任务成本管理编程智能体",
+  "original_title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
+  "summary": "AWS文章介绍，爱彼迎在真实工程任务上运行评测，并借助Amazon Bedrock的可观测性功能为编程智能体选择模型、控制生产成本。文章展示了如何以单个任务成本为依据来选择模型，平衡效果与开销。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
+      "is_primary": true,
+      "published_at": "2026-11-19T05:48:19+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T05:48:19+08:00",
+  "updated_at": "2026-11-19T05:48:19+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "爱彼迎按单任务成本为编程智能体选模型",
+  "lead_zh": "爱彼迎在真实工程任务上做评测，借助Amazon Bedrock可观测性按单个任务成本为编程智能体选模型、控成本。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技博客介绍了爱彼迎如何评估编程智能体所用的模型，并在Amazon Bedrock上监控使用情况。爱彼迎每周有数以千计的工程师及相关人员使用内部工具AirChat运行编程智能体，这些智能体的模型请求都经由运行在Bedrock上的大模型网关转发。",
+        "文章称，大约**5周**内就出现了**8**款新模型，到10月中旬，工程师通过编程智能体发出的请求中约有**三分之二**流向了这些新模型。每次新模型发布都可能同时改变输出token数量、成本、延迟和容量。爱彼迎因此在一组有代表性的真实工程任务上运行评测，以单个任务的成本作为选择模型的依据，并根据生产数据随用量变化重新审视选择；同时借助CloudWatch中的运行时指标排查延迟上升、限流和token消耗变化。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/76048d7df4fdf4a301793a01afd5ef25711b2f1d.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22452-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

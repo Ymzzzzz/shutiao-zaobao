@@ -1,0 +1,67 @@
+{
+  "id": "nb898a1b2127c",
+  "category": "大模型与产品",
+  "importance": 3,
+  "verified": true,
+  "title": "谷歌发布Gemini 4 Neon，主打快速完成复杂任务",
+  "original_title": "Introducing Gemini 4 Neon",
+  "summary": "谷歌DeepMind发布Gemini 4 Neon，面向软件工程、知识工作和科研流程，在Artificial Analysis智能指数上得分61、总排名第3。定价为每百万输入token 3美元、输出15美元，支持100万token上下文，已在Gemini API和Gemini应用上线。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "is_primary": true,
+      "published_at": "2026-11-19T05:35:43+08:00"
+    },
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510922.html",
+      "is_primary": false,
+      "published_at": "2026-11-18T17:41:55+08:00"
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+      "is_primary": false,
+      "published_at": "2026-11-19T05:03:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T05:35:43+08:00",
+  "updated_at": "2026-11-19T05:35:43+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌发布Gemini 4 Neon，定价每百万输入3美元",
+  "lead_zh": "谷歌推出新模型双子座4 Neon，在第三方智能指数中总排名第三，支持百万级上下文，今日起在开发接口和双子座应用上线。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌DeepMind于11月18日发布Gemini 4 Neon，定位为在软件工程、知识工作和科研流程中快速端到端完成任务的前沿模型。在第三方机构的综合智能指数上，Neon在最高思考档位得分**61**，总排名第**3**，仅次于更大、更慢的模型；在另一项企业任务综合指数上排名第**2**（**70.9%**），并在法律检索和税务智能体两项基准上排名第一。",
+        "定价方面，Neon每百万输入token **3美元**，缓存输入每百万**0.15美元**（折扣**95%**），每百万输出token **15美元**，上下文窗口为**100万**token。模型即日起在Google AI Studio的Gemini API、Gemini企业版、Google Antigravity付费订阅以及Gemini应用的Pro和Ultra订阅中陆续上线。"
+      ],
+      "sources": [
+        "Google DeepMind Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据谷歌称，Neon在科学与数学推理上表现突出，在三项科研与数学基准上分别取得**70.5%**、**84.0%**和**71.3%**，在编程智能体综合指数上以**58.6**分排名第一。谷歌还称，Neon适合长时间运行的智能体流程，可在自家开发平台中担任调度者指挥并行子智能体，减少重复读取文件，并在内部测试中录得迄今最低的编造率。"
+      ],
+      "sources": [
+        "Google DeepMind Blog"
+      ]
+    }
+  ],
+  "image_url": "img/95cef7e1e09cd6cfb91af80024560e0eade88a22.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_argon.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

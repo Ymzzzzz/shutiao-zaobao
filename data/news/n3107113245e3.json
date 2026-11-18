@@ -1,0 +1,45 @@
+{
+  "id": "n3107113245e3",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "Social Department打造懂文化的视频检索",
+  "original_title": "How Social Department built culture-aware video discovery",
+  "summary": "娱乐营销AI平台Social Department与TrackIt和AWS合作打造QuickSearch，用户只需一次查询，就能找到可分享的片段、可引用的台词和适合做梗的画面，帮助营销团队更快找到素材。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery/",
+      "is_primary": true,
+      "published_at": "2026-11-19T03:27:56+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T03:27:56+08:00",
+  "updated_at": "2026-11-19T03:27:56+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Social Department打造懂流行文化的视频检索",
+  "lead_zh": "娱乐营销平台Social Department与合作伙伴及亚马逊云科技打造视频检索工具，一次查询即可找到可分享的片段、金句和适合做梗的画面。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技与娱乐营销AI平台Social Department联合撰文指出，娱乐营销团队需要管理分布在制片公司、电视网和流媒体应用中的数万个视频素材，大多数营销活动都从同一个难题开始：在海量素材中找到最能引起观众共鸣的那个瞬间。",
+        "文章认为，单纯的语义搜索有上限，只能回答能说清楚的问题，比如找出所有拿咖啡杯的角色；但真正推动营销的问题是判断题：哪个片段会传播、哪句台词值得引用、哪一帧适合做梗。回答这些问题需要对「可引用」「可做梗」的编辑定义，以及对素材库之外热点的持续更新，过去往往要靠熟悉节目的人花一周看片。Social Department为此与TrackIt和亚马逊云科技合作打造QuickSearch，实现一次查询就找到这类素材。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/7eccc997945cffdc15611eeeb420cdb2a71b37a2.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-21816-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

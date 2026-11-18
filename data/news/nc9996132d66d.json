@@ -1,0 +1,55 @@
+{
+  "id": "nc9996132d66d",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "官员认为特朗普访华难推动AI议题进展",
+  "original_title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+  "summary": "据《连线》报道，连特朗普政府内部官员也认为，此次中国之行难以在人工智能议题上取得进展。官员表示，英伟达丑闻带来的余波让围绕AI的任何谈判都变得困难，相关磋商前景并不乐观。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+      "is_primary": false,
+      "published_at": "2026-11-19T06:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T06:00:00+08:00",
+  "updated_at": "2026-11-19T06:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "官员称特朗普访华难在AI议题取得进展",
+  "lead_zh": "据《连线》报道，特朗普政府官员认为访华难以推动AI议题，英伟达丑闻的余波让相关谈判变得困难。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据《连线》旗下栏目Inner Loop报道，在特朗普总统周四与中国国家主席会晤前，多名政府官员私下表示，在缓解AI安全和间谍担忧方面几乎没有取得进展的空间。特朗普离开白宫时没有明确是否会在会晤中提及中国在AI领域的干预或英伟达丑闻，官员称这是为了避免在峰会期间激化矛盾。",
+        "报道称，英伟达前首席执行官黄仁勋与涉嫌中国情报人员的Megaspeed高管Alice Huang的婚外情风波，让两国围绕AI发展的任何谈判都变得棘手。今年9月，特朗普政府曾提出在财政部长贝森特与中国副总理何立峰之间设立AI事件热线，但这一沟通渠道目前仍停留在概念阶段，尚未投入运作。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "官员怎么说",
+      "paras": [
+        "据报道，国务卿鲁比奥上周对记者称，热线宣布以来两国政府已在「技术层面」进行AI安全对话，但承认这「仍在推进中」。报道还称，特朗普政府官员此前讨论过制定框架，规定两国何时有义务相互通报以及相应的执行措施；进展缓慢的部分原因是双方对AI最大风险的看法存在分歧。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/06fa3ca486bf7cadfdfa25b25a158b366c10d2a1.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6afcfe9d821bf3ffcbf308a8/master/pass/politics_trump_adventures_china.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

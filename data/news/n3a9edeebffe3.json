@@ -1,0 +1,55 @@
+{
+  "id": "n3a9edeebffe3",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "美国AI芯片战以荒唐方式升温",
+  "original_title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+  "summary": "特朗普政府宣布计划收紧中国获取AI芯片的渠道。《连线》评论称，这场被称为世纪丑闻的事件似乎正是推动这一举措的契机，美国的AI芯片战正以最荒唐的方式升温，相关政策走向值得关注。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "is_primary": false,
+      "published_at": "2026-11-19T05:15:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T05:15:00+08:00",
+  "updated_at": "2026-11-19T05:15:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "《连线》：美国AI芯片战以荒唐方式升温",
+  "lead_zh": "特朗普政府宣布将收紧中国获取AI芯片的渠道，《连线》评论称英伟达丑闻成了推动这一举措的契机。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "特朗普政府本周大幅收紧中国企业获取先进AI芯片的渠道。多年来，阿里巴巴、字节跳动等公司可以从海外数据中心租用算力，使用通常被禁止进口到中国的英伟达芯片，这被称为远程访问。按照周一公布的新计划，希望向中国提供大量算力的海外数据中心必须申请特别许可，并面临新的审批要求。",
+        "白宫还对向新加坡、马来西亚等**5**个国家出口先进芯片实施更严格的规定，美国官员怀疑这些地方可能存在大量走私。黄仁勋上周在承认与被指与中国情报部门有关联的商人Alice Huang有婚外情后辞去首席执行官职务，Alice Huang曾任职于提供远程访问服务、涉嫌走私芯片的新加坡数据中心公司Megaspeed。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "《连线》认为，这些政策思路并不新，类似提议在华盛顿已讨论多时，但周一宣布的时机耐人寻味，丑闻可能让白宫十分难堪，以至于官员觉得必须表现出有所作为。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/ca25a0d9790defd7789cc27ccce13fd79007408a.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6afcdd342972080ddb9f0499/master/pass/AI-Lab-US-Chip-War-Business.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

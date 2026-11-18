@@ -1,0 +1,55 @@
+{
+  "id": "n34e1928465b4",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达临时CEO克雷斯反复称一切尽在掌控",
+  "original_title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+  "summary": "《连线》杂志统计英伟达临时首席执行官Colette Kress已多少次向外界保证公司一切尽在掌控之中，反映出黄仁勋离职风波后，市场和外界对英伟达管理层稳定性的持续关注。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/guys-really-we-got-this/",
+      "is_primary": false,
+      "published_at": "2026-11-19T06:16:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T06:16:23+08:00",
+  "updated_at": "2026-11-19T06:16:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达临时CEO克雷斯反复称一切可控",
+  "lead_zh": "《连线》统计英伟达临时CEO Colette Kress向外界保证公司一切尽在掌控的次数，折射外界对管理层的关注。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英伟达创始人黄仁勋因一桩国际丑闻辞职后，公司股价受挫，仍兼任首席财务官的Colette Kress出任临时首席执行官，负责稳定局面。她目前的公开工作包括主持英伟达第三季度财报电话会，以及召开全员大会。",
+        "《连线》统计，Kress在过去**24小时**内公开说了**3**次「我们能搞定」。在周二的财报电话会上，她称公司势头真实、需求加速、供应增长，客户、合作伙伴和员工都与公司站在一起；在周三的全员大会上，她表示公司的雄心、创新热情和对客户及股东的承诺都不会改变，并在会议结尾把英伟达员工比作挤满佛罗里达大学橄榄球赛现场一起高唱的**9万**名观众。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "《连线》认为，英伟达正处在艰难时期，在努力维持AI时代主导地位的同时处境不稳，Kress反复使用这句口号是其安抚外界行动的一部分，而这句话听起来像是直接从2024年夏天民主党竞选策略稿里搬来的。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/bdeb075a4d4637dd57ec2bd2232c30c9ab1d572c.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6afe216b809613f3f77a2770/master/pass/Does-NVIDIA-Got-This-Business.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

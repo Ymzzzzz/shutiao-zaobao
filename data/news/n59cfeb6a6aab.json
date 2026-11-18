@@ -1,0 +1,45 @@
+{
+  "id": "n59cfeb6a6aab",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "Bedrock AgentCore Identity支持私有证书颁发机构",
+  "original_title": "Private certificate authority support in Amazon Bedrock AgentCore Identity",
+  "summary": "亚马逊Bedrock AgentCore Identity现已支持私有证书颁发机构，智能体可以连接使用私有CA的自建身份提供方。AWS文章演示了如何签发证书并完成相关配置，方便企业在内网环境中部署智能体。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity/",
+      "is_primary": true,
+      "published_at": "2026-11-19T04:53:41+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T04:53:41+08:00",
+  "updated_at": "2026-11-19T04:53:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AgentCore Identity支持私有证书颁发机构",
+  "lead_zh": "亚马逊Bedrock AgentCore Identity现支持私有证书颁发机构，智能体可连接使用私有CA的自建身份提供方。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技宣布，Bedrock AgentCore的身份服务AgentCore Identity现已支持私有证书颁发机构。许多团队在内网中自建Keycloak或PingFederate等身份提供方，这些服务通常使用私有证书颁发机构签发的服务器证书。新功能让智能体可以在信任企业现有私有证书颁发机构的前提下连接这些身份提供方。",
+        "使用方式是把PEM编码的证书颁发机构证书存放在Secrets Manager或S3中，并在凭证提供方中引用。该证书只包含公钥证书而不含私钥，必须是根证书或中间证书，用于校验身份提供方的发现、密钥集和令牌端点出示的服务器证书。文章演示了如何用AWS私有证书颁发机构为身份提供方签发证书、配置凭证提供方信任该证书、在尽量减少停机的情况下轮换证书，以及限制只有身份团队才能修改该证书。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/f3d624615f5a2846bacd1c6a961b909f464a42a1.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22407-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

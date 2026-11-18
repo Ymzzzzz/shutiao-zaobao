@@ -1,0 +1,45 @@
+{
+  "id": "n0e099ccd2a2f",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "消息称Anthropic考虑扩大IPO规模",
+  "original_title": "消息称 Anthropic 考虑扩大 IPO 规模，散户认购意向接近千亿美元",
+  "summary": "据CNBC援引知情人士称，Anthropic考虑扩大IPO发行规模，发行价可能远高于80美元。Anthropic已于17日结束认购意向征集，为登陆纳斯达克做准备，知情人士称散户认购意向接近千亿美元。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/029/121.htm",
+      "is_primary": false,
+      "published_at": "2026-11-18T23:35:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T23:35:59+08:00",
+  "updated_at": "2026-11-18T23:35:59+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "消息称Anthropic考虑扩大IPO发行规模",
+  "lead_zh": "据CNBC援引知情人士称，Anthropic考虑扩大IPO规模，发行价可能远高于80美元，散户认购意向接近千亿美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据IT之家援引CNBC报道，知情人士称Anthropic考虑扩大IPO发行规模，并可能把发行价定在远高于**80美元**的水平。Anthropic已于当地时间17日结束认购意向征集，机构投资者认购意向总额约**4000亿美元**，散户认购意向接近**1000亿美元**。不过这些意向不具约束力，发行方案仍可能调整，最终价格预计在18日美股收盘后敲定。",
+        "Anthropic上周公布的方案显示，计划发行**8.25亿**股，每股定价**70至78美元**，按上限计算募资最高可达**643.5亿美元**。报道称，此次认购需求超过今年6月上市、募资**857亿美元**创全球纪录的SpaceX。亚马逊和谷歌所持Anthropic股份价值均超过**1000亿美元**，谷歌、微软、英伟达和AMD等公司同意合计投入**260亿美元**认购此次IPO。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

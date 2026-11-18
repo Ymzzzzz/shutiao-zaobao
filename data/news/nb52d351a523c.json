@@ -1,0 +1,45 @@
+{
+  "id": "nb52d351a523c",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "40份开源权重大模型技术报告的新意检验",
+  "original_title": "The novelty exposed: ablation, reproducibility and transparency in 40 technical reports of open-weight large language models (LLMs)",
+  "summary": "论文指出，仅2025年就有48种新的大模型架构加入Hugging Face transformers库，许多都附带技术报告把模型称为新架构。作者检视40份开源权重大模型技术报告的消融实验、可复现性和透明度。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.20003",
+      "is_primary": true,
+      "published_at": "2026-11-18T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-18T08:00:00+08:00",
+  "updated_at": "2026-11-18T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "论文检视40份开源大模型技术报告的新意",
+  "lead_zh": "论文检视40份开源权重大模型技术报告的消融实验、可复现性和透明度，追问这些模型究竟新在哪里。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "论文指出，仅2025年就有**48**种新的大语言模型架构加入Hugging Face的transformers库，其中许多都附带把模型称为新架构的技术报告。作者考察三件事：参考代码显示的新架构与旧架构的差别；随机抽取的**40**份技术报告宣称了哪些新意、是否有消融实验支撑；以及报告在可复现性和透明度方面披露了什么。",
+        "结果显示，2025年加入的48种架构中有**39**种至少有两个核心模块取自其他模型，最常见的是Llama，但这在一定程度上与库的代码写法有关。在报告中，**73**项架构或训练新意声明里只有**19**项提供了有无对照的比较；40份报告中只有**4**份说明进行了不止一次训练，**8**份在统一设置下重跑了对比模型，只有**1**份同时披露了数据配比、token数量和算力。作者提出**7**条发布报告规则，并说明论文不评判模型质量，未经检验的声明也可能是对的。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/a143a9794a90163df5bf315365dac9029df7c4e7.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.20003.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

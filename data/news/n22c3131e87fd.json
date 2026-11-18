@@ -1,0 +1,55 @@
+{
+  "id": "n22c3131e87fd",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "帕尔默·拉奇警告AI网络攻击已跑在防御前面",
+  "original_title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+  "summary": "Anduril联合创始人帕尔默·拉奇表示，陈旧的技术让各类系统在新一波AI驱动的网络攻击面前十分脆弱，攻击能力的发展已经超过防御能力，他用“是时候开始跑了”来形容形势的紧迫。",
+  "facts": [],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "is_primary": false,
+      "published_at": "2026-11-19T05:34:13+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T05:34:13+08:00",
+  "updated_at": "2026-11-19T05:34:13+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "拉奇警告AI网络攻击已跑在防御前面",
+  "lead_zh": "Anduril联合创始人帕尔默·拉奇称，陈旧技术让系统在AI驱动的网络攻击面前很脆弱，攻击正超过防御。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Oculus创始人、Anduril联合创始人帕尔默·拉奇周三在《纽约时报》DealBook峰会上警告，AI驱动的网络攻击发展速度已经超过陈旧技术系统的防御能力。针对近期一系列科技服务中断事件，政府官员大多将其归因于企业为防范AI发现的新漏洞而仓促打补丁，拉奇则更关注使用陈旧技术的组织所面临的底层安全挑战。",
+        "主持人Andrew Ross Sorkin提到，美国副总统万斯因近期的科技故障取消了出席本次会议，称需要参加相关会议。被问及外界应有多担心时，拉奇回答「这取决于你准备得有多充分」，并表示「你们很快就会知道发生了什么」。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "当事人怎么说",
+      "paras": [
+        "据拉奇称，「我们正在看到这些先进AI工具让各种漏洞利用得以被制造出来的自然后果」。他还称，美国的对手正在利用新的攻击能力与防御能力之间的落差，出于战略和经济目的发动攻击，朝鲜尤其活跃，因此是时候加快加固防御的步伐了。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/a02d4a490c861f480c3ea5b7d4d335370f46df2c.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305757563-Medium.jpeg?w=594",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
