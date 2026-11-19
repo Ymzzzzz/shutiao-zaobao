@@ -1,0 +1,67 @@
+{
+  "id": "n6d268a6234bb",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋离职风波中英伟达股价与季报形成反差",
+  "original_title": "A brief history of Nvidia’s recent stock fluctuations",
+  "summary": "The Verge梳理英伟达近期股价：周二季报后曾短暂上涨，周四徘徊在约150美元，较10月6日历史高点下跌近40%；第三季度营收1158亿美元，同比翻倍以上。",
+  "facts": [
+    {
+      "text": "The Verge报道，英伟达股价周四徘徊在约150美元，较10月6日历史高点下跌近40%，并吐回周二晚间财报后的短暂上涨。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据英伟达临时CEO Colette Kress称，第三季度数据中心营收增长110%，其中Vera Rubin平台贡献近200亿美元，成为公司史上爬坡最快的产品。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "is_primary": false,
+      "published_at": "2026-11-20T05:59:35+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T05:59:35+08:00",
+  "updated_at": "2026-11-20T05:59:35+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋离职风波中英伟达股价与季报形成反差",
+  "lead_zh": "The Verge梳理英伟达近期股价：周四约报150美元，较10月6日高点下跌近40%；而第三季度营收达1158亿美元，同比翻倍以上。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge回顾英伟达近期股价波动。临时CEO Colette Kress在周二晚结束第三季度财报会时说“我们能应对”。到周四，股价徘徊在约**150美元**，较**10月6日**历史高点下跌近**40%**，并吐回周二晚间财报后的短暂上涨。同期，华尔街为英伟达的大客户之一Anthropic上市开出**111.50美元**，较预期高约**34%**。",
+        "仅看财报，第三季度营收同比翻倍以上，达到**1158亿美元**，其中数据中心营收增长**110%**，超出华尔街预期。近**200亿美元**来自当季出货的Vera Rubin平台。文章称，股价近日先受芯片股对AI泡沫担忧的拖累，又在黄仁勋辞职相关消息后进一步承压。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Kress对投资者称，Vera Rubin是“公司历史上爬坡最快的产品”。她还说：“我们的势头是真实的。凭借领先的多年路线图、延伸至十年末的供应协议和可持续的需求，我们有条件加快英伟达的领先地位。”报道认为，投资者仍在把强劲业绩与对公司前景的担忧放在一起权衡。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/96d7f7cec91f15f1027385829eccb8f6b1f925f1.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

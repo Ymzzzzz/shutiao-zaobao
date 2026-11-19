@@ -1,0 +1,67 @@
+{
+  "id": "n9499b87e092a",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "RICoT用交错思维链做页面流文档切分",
+  "original_title": "RICoT: Recurrent Interleaved Chain-of-Thought for Page Stream Segmentation",
+  "summary": "一篇arXiv论文提出RICoT提示框架，按阅读顺序在滑动窗口内对每页做出边界判断并带走压缩记录，同时将发布含205份金融页面流的基准FinancePSS-205。",
+  "facts": [
+    {
+      "text": "论文提出RICoT（Recurrent Interleaved Chain-of-Thought），将页面流切分重新定义为覆盖整段文档流的顺序过程，并发布含205份真实金融页面流的FinancePSS-205基准。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.22382"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据作者称，在FinancePSS-205上，RICoT对三种开权重大模型均达到或超过同样骨干的成对及窗口提示；在TABME测试子集上，配GLM-5的文档F1为0.847、边界F1为0.915。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.22382"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.22382",
+      "is_primary": true,
+      "published_at": "2026-11-19T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T08:00:00+08:00",
+  "updated_at": "2026-11-19T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "RICoT用交错思维链做页面流文档切分",
+  "lead_zh": "一篇arXiv论文提出RICoT提示框架，把页面流切分看成整段顺序阅读：在滑动窗口内对每页做出边界判断，并在窗口之间带走压缩记录以控制每次调用成本。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文写了什么",
+      "paras": [
+        "这篇arXiv论文关注页面流切分（PSS），即把多页文件拆回组成它的各份文档。作者认为，已发表的大模型方法仍多把任务做成对相邻一两页的边界分类，商业拆分接口也不公开方法。他们提出RICoT（Recurrent Interleaved Chain-of-Thought），把切分重新定义为覆盖整段文档流的顺序过程：在滑动窗口内像读者一样处理每一页，先做出边界判断再继续，并在窗口之间带走已读内容的压缩记录，以控制单次调用成本。",
+        "作者还介绍将公开的基准FinancePSS-205，包含**205**份经过去标识的真实世界金融页面流。他们并用更大教师模型的决策训练了一个**20亿**参数的学生模型，比较带或不带页级推理的两种模式。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据作者称，在FinancePSS-205上，RICoT对三种开权重大模型均达到或超过同样骨干下的成对提示和窗口提示；在TABME测试子集上，RICoT配GLM-5的文档F1为**0.847**、边界F1为**0.915**，高于已发表的零样本结果。该20亿参数学生在两种模式下表现接近，并在FinancePSS-205上与最强提示模型的文档F1相差不到**0.05**。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/11aaab16ea781fdb738b9028eada0474dc598115.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22382.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

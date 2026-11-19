@@ -1,0 +1,67 @@
+{
+  "id": "nd9d2fba47fd3",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "路透社：员工称Muse会串话并可能暴露私人数据",
+  "original_title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+  "summary": "科技博客TechCrunch引路透社报道，Meta员工在内部发帖称Muse会把不同账户的对话混在一起，有人看到不属于自己的银行余额。Meta回应称员工测试版本与公开版不同。",
+  "facts": [
+    {
+      "text": "TechCrunch引路透社对Meta内部帖文的梳理称，员工担心Muse会把不同账户的对话混在一起，并暴露用户私人数据。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Meta发言人对TechCrunch称，员工测试是产品开发的核心环节，且员工使用的Muse版本往往包含尚未对公众开放的功能与行为。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "is_primary": false,
+      "published_at": "2026-11-20T01:38:40+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T01:38:40+08:00",
+  "updated_at": "2026-11-20T01:38:40+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "路透社：员工称Muse会串话并可能暴露私人数据",
+  "lead_zh": "科技博客TechCrunch引路透社报道，Meta员工称AI智能体Muse会把不同账户的对话混在一起，甚至出现不属于自己的银行余额；公司称员工测试版本与公开版不同。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "科技博客TechCrunch引路透社对新近内部帖文的梳理报道，Meta员工担心公司的AI智能体Muse会把不同账户的对话混在一起，从而暴露私人数据。有员工称，Muse曾弹出自己从未提出的托儿请求、从未询问的职业建议、从未下过的商品订单，以及不属于自己的银行余额。",
+        "一名员工称，Muse在有关天气和潮汐的聊天里额外发来一句：“顺便说，两条银行更新，你的Capital One余额是**2722.58美元**，Charles Schwab余额是**5899.57美元**。”另一名员工在个人手机上使用该智能体时，收到了回复妹妹在端到端加密应用Signal上消息的提醒，她在帖子中称“这像是严重的隐私侵犯”，并说自己并不记得授权过访问其他应用。Muse于9月上线，报道称下载量已超过**1000万**。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Meta发言人在给TechCrunch的邮件中称：“员工测试是产品开发流程的核心，目的就是收集反馈，以便落实安全和隐私保护、改进产品。重要的是，员工使用的Muse版本与公众不同，他们常常在审阅尚未在其他地方提供的功能、特性和行为。”该报道于11月19日更新，补入了这一回应。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/7081252d3036a48db254eb680733997c82ca97c8.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

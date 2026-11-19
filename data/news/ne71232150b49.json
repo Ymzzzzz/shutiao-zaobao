@@ -1,0 +1,67 @@
+{
+  "id": "ne71232150b49",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "Anthropic上市开盘报111.50美元，较发行价高约33%",
+  "original_title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+  "summary": "Anthropic股票已在纳斯达克交易，开盘初期报111.50美元，较83美元发行价溢价约33%。此次发行将募资超过810亿美元，公司预计现金储备约2200亿美元。",
+  "facts": [
+    {
+      "text": "Anthropic股票开始在纳斯达克交易，开盘初期报111.50美元，较83美元发行价高约33%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Anthropic CEO达里奥·阿莫代伊称，上市让公司财务更稳固，也更坚定做正确的事，并称希望证明在安全上做对选择仍能做成非常成功的公司。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "is_primary": false,
+      "published_at": "2026-11-20T00:59:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T00:59:23+08:00",
+  "updated_at": "2026-11-20T00:59:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic开盘报111.50美元，较发行价高约33%",
+  "lead_zh": "Anthropic股票已在纳斯达克交易，开盘初期报111.50美元，较83美元发行价溢价约33%，此次发行将募资超过810亿美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anthropic股票已在纳斯达克交易。开盘初期报**111.50美元**，较**83美元**发行价溢价约**33%**。发行价于周三确定，已高于公司此前预期的**70至78美元**区间。此次发行将募资超过**810亿美元**，资金将进入员工与公司。",
+        "报道称，加上原有融资和随上市同步的新一轮私募，Anthropic预计将持有约**2200亿美元**现金储备。按开盘价估算，公司市值将超过**2万亿美元**，高于Meta、特斯拉或沃尔玛；当时市值更高的公司只剩苹果、亚马逊、Alphabet、英伟达和微软五家。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "开市铃前，Anthropic CEO达里奥·阿莫代伊强调安全承诺。他称：“今天的上市让公司的财务基础更加稳固，也因此更加坚定了做正确事情的决心。如果我们能证明，在安全上做出正确选择仍然能建成一家极其成功的公司，行业里的其他人也会受到鼓舞。我们称之为‘向上竞赛’。”一名分析师对TechCrunch称，Anthropic将拥有“任何公司从未有过的最多现金”。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/d9e5be2ec4dbac5d20b2df7a6818f7bfa7e913b7.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

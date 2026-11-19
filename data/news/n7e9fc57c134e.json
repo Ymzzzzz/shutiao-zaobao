@@ -1,0 +1,67 @@
+{
+  "id": "n7e9fc57c134e",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "用Skyflow与AgentCore Gateway保护智能体工具调用中的敏感数据",
+  "original_title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+  "summary": "AWS介绍将Skyflow Detect作为Amazon Bedrock AgentCore Gateway的请求与响应拦截器，在数据到达工具、模型或日志前做去标识，并在授权调用方读取结果前恢复，智能体代码无需修改。",
+  "facts": [
+    {
+      "text": "AWS发文介绍将Skyflow Detect作为Amazon Bedrock AgentCore Gateway的请求与响应拦截器，在工具调用前后对敏感数据去标识和恢复。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，该拦截器可在数据到达任何工具、模型或日志之前去标识，并在授权调用方读取结果前恢复，也可在智能体打开文档前换成干净副本。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/",
+      "is_primary": true,
+      "published_at": "2026-11-20T02:14:36+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T02:14:36+08:00",
+  "updated_at": "2026-11-20T02:14:36+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "用Skyflow与Gateway保护智能体工具调用中的敏感数据",
+  "lead_zh": "AWS介绍把Skyflow加入Bedrock智能体网关，在数据到达工具、模型或日志前做去标识，并在授权方读取结果前恢复，代码无需修改。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS发文介绍如何将Skyflow与Amazon Bedrock AgentCore Gateway配合，避免敏感数据进入智能体所调用的工具，以及这些工具再喂给模型的上下文。做法是把Skyflow Detect加为网关的请求与响应拦截器：在数据到达工具前去标识，在智能体读取结果前恢复，并在打开文档前换成干净副本。智能体和工具本身不必改动。",
+        "Skyflow可在AWS Marketplace获取，该拦截器以开源形式发布在GitHub。文章提醒，智能体通过MCP服务器、SaaS接口、文档库和网页搜索等工具采取行动，每一次工具调用都是一次数据流动；多数企业控制覆盖进出模型的内容，却较少覆盖智能体发给工具、以及工具返回的数据。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "文章怎么说",
+      "paras": [
+        "据该文称，缺口会以三种方式出现：敏感数据随工具参数流出，模型可能把工具并不需要的姓名、账号或邮箱写入第三方查询；工具结果中的网页、客户记录和案例笔记又进入模型上下文、记忆、追踪和日志；文档也会把多余信息带回来。拦截器的目标是在不改智能体代码的前提下堵住这些出口。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/d8fb896c4a91eb1f0425a3d9d06f47f4a94ad6e8.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22128-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

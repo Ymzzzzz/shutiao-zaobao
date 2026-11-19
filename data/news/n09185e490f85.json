@@ -1,0 +1,67 @@
+{
+  "id": "n09185e490f85",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "论文提出视觉任务统一法则与世界快照模型",
+  "original_title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+  "summary": "一篇arXiv论文提出视觉任务的统一法则，并可再分为“计算机视觉四法则”，主张把视觉任务改写为生成任务，用世界快照模型统一处理，作者称已在1000多项视觉任务上做了验证。",
+  "facts": [
+    {
+      "text": "论文提出视觉任务统一法则，并可再分为“计算机视觉四法则”，目标是用单一框架或方法统一训练并执行几乎所有视觉任务。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.24917"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据作者称，若世界信息被编码进图像（其称为世界快照），则图像处理即世界处理、图像生成即世界快照生成；他们在1000多项不同输入输出映射的视觉任务上验证了这些法则。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.24917"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.24917",
+      "is_primary": true,
+      "published_at": "2026-11-19T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T08:00:00+08:00",
+  "updated_at": "2026-11-19T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "论文提出视觉任务统一法则与世界快照模型",
+  "lead_zh": "一篇arXiv论文提出视觉任务的统一法则，并可再分为“计算机视觉四法则”，主张把各类视觉任务改写为生成任务，用世界快照模型来统一训练和执行。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文写了什么",
+      "paras": [
+        "这篇arXiv论文提出视觉任务的统一法则，并称其可再分为“计算机视觉四法则”，目标是让单一框架或方法能够统一训练并执行几乎所有视觉任务。作者的出发点是：若世界信息被编码进图像——他们称之为世界快照（World Snapshots）——那么图像处理就是世界处理，图像生成就是世界快照生成。",
+        "由此进一步假设：若所有视觉和可视化任务都能改写为生成任务，则统一方法世界快照模型（World Snapshot Models，WSMs）可以完成绝大多数视觉任务，就像大语言模型在很大程度上统一了自然语言处理。论文还给出面向未来视觉任务研究与应用的统一训练框架。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据作者称，他们在**1000**多项已训练并评估的视觉任务上验证了这些法则，这些任务按不同的输入输出映射来定义。文章希望该框架能像语言模型统一文本任务那样，为后续视觉任务研究和应用提供可复用的训练方法。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/21a753a25d0fbde107f84e063fcaa7c06ea8cb97.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.24917.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

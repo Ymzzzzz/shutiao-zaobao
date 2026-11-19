@@ -1,0 +1,67 @@
+{
+  "id": "n880dd6c194cf",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "ChatGPT上线实时听写，取消10分钟录音上限",
+  "original_title": "ChatGPT can transcribe as you speak now with Live Dictation",
+  "summary": "The Verge报道，ChatGPT的实时听写可在说话同时转写，并正在向全球所有套餐的网页、桌面和移动应用推送；OpenAI同时取消10分钟录音上限，并称转写更可靠。",
+  "facts": [
+    {
+      "text": "The Verge报道，ChatGPT现在可用实时听写在用户说话的同时转写麦克风输入，不必等录音结束，并正在向全球所有套餐的网页、桌面和iOS、Android应用推送。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，该功能在加快转写的同时取消了语音听写原有的10分钟录音限制，并且“更可靠”。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "is_primary": false,
+      "published_at": "2026-11-19T23:16:45+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T23:16:45+08:00",
+  "updated_at": "2026-11-19T23:16:45+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "ChatGPT上线实时听写，取消10分钟录音上限",
+  "lead_zh": "The Verge报道，ChatGPT新增实时听写，可在说话同时转写文字，正在向全球所有套餐推送，并取消原有的10分钟录音上限。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge报道，ChatGPT现在可用名为Live Dictation的实时听写，在用户对着麦克风说话的同时转写文字，而不必等录音结束，从而更快接收语音指令。该功能正在向全球所有ChatGPT套餐推送，覆盖网页、桌面应用以及iOS和Android应用。使用听写时，可点按音频波形查看正在生成的文字，完成后再到输入框里编辑。",
+        "OpenAI去年还宣布过用于转写语音笔记和会议的“录制模式”，该功能仍处于测试，仅限Plus、Enterprise、Edu、Business和Pro工作区；用户也可以用输入框听写来转写语音消息或整理成要点。今年早些时候，ChatGPT的双向语音对话模式刚做过改版。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI称，此次更新在加快转写的同时，取消了语音听写原有的**10分钟**录音限制，并且该功能变得“更可靠”。导语将其概括为“更快的转写、而且没有时长上限”。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/a5b89b366269d7ebfe279458b87d04cfe80ca731.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&strip=all&crop=8.4734375%2C20.737347294939%2C85.1578125%2C79.262652705061&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

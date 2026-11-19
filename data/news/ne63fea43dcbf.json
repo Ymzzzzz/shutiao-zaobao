@@ -1,0 +1,67 @@
+{
+  "id": "ne63fea43dcbf",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "学生起诉学校和警方：玉米片袋触发AI枪支警报",
+  "original_title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+  "summary": "Ars Technica报道，2025年10月巴尔的摩县四名高中生被AI枪支检测把玉米片袋误判为枪支，随后仍有警察持枪到场并下手铐。诉讼称该系统逾99%的警报为误报。",
+  "facts": [
+    {
+      "text": "诉讼称，2025年10月，巴尔的摩县四名黑人高中生在足球训练后分享Cool Ranch玉米片时，学校的AI枪支检测系统把其中一人手中的袋子标成潜在持枪者。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Omnilert市场营销副总裁Blake Mitchell称，公司正在审阅诉状，并提到这四名学生在2025年10月20日的遭遇。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "is_primary": false,
+      "published_at": "2026-11-20T04:19:28+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T04:19:28+08:00",
+  "updated_at": "2026-11-20T04:19:28+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "学生起诉学校和警方：玉米片袋触发AI枪支警报",
+  "lead_zh": "Ars Technica报道，2025年10月巴尔的摩县四名高中生被AI枪支检测把玉米片袋误判为枪支，随后仍有警察到场并下手铐。诉讼称该系统逾99%的警报为误报。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Ars Technica报道，2025年10月，巴尔的摩县四名黑人高中生在足球训练后分享Cool Ranch口味玉米片时，学校的AI枪支检测系统把其中一人手中的袋子标成潜在持枪者。县公立学校人员在约**两分钟**内查看关联监控后，确认并无实际威胁并取消警报，该取消通知也发给了巴尔的摩县警察局。",
+        "但Taki Allen、Yui-Osa Ogbeide、Devon Thompson Jr.和Keith Winfield III提起的诉讼称，由于“技术和人为错误”，校方仍叫来了警察。至少六辆巡逻车亮着警灯抵达，部分警员拔枪。诉状说，没有人告知学生涉嫌何事，警员把他们分开、命令跪在水泥地上、戴上手铐并搜查人身和物品。诉讼还引监察报告称，该学区OGD警报中**99%**为无需警方响应的误报，并请求在员工和警察得到充分培训前禁止使用Omnilert。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "巴尔的摩县公立学校拒就诉讼置评，并指向事发后发给家长的声明。该声明未直接向学生道歉，但表示将提供“持续心理辅导和情绪支持”，并承诺采取措施防止再发。Omnilert市场营销副总裁Blake Mitchell对Ars表示，公司正在审阅诉状，并提到这四名学生在**2025年10月20日**的遭遇。诉讼称，到场警员都未先看监控录像，得知警报已取消的人也未加制止。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/c4cf0ddcbcf6cd5097270a1fc40031843d6afc59.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

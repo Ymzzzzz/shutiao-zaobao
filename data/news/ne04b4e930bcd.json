@@ -1,0 +1,67 @@
+{
+  "id": "ne04b4e930bcd",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "思科1200名工程师参加AWS AI League学习智能体开发",
+  "original_title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+  "summary": "AWS介绍与思科合作，通过Transformation Fest和AWS AI League把动手练习变成竞赛。2025年一名思科工程师夺得全球冠军，2026年有1200人参赛。",
+  "facts": [
+    {
+      "text": "2026年，1200名思科工程师在Cisco Transformation Fest 4.0的AWS AI League锦标赛中参赛，获胜者Nishanth Aluhonnu获得re:Invent 2026全场通行证。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，工程师通过定制模型、在AWS上构建智能体、在实时排行榜上获得反馈，并在类似游戏节目的决赛中竞技，能比看演示和幻灯片更快学会动手。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/",
+      "is_primary": true,
+      "published_at": "2026-11-20T02:26:22+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T02:26:22+08:00",
+  "updated_at": "2026-11-20T02:26:22+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "思科1200名工程师参加AWS AI League学习智能体",
+  "lead_zh": "AWS介绍与思科合作，通过Transformation Fest和AWS AI League把动手练习变成竞赛：2025年一名思科工程师夺得全球冠军，2026年有1200人参赛。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS发文介绍与思科合作，借助Cisco Transformation Fest和AWS AI League，把动手学习AI变成一种持续的建设文化。2025年，思科软件工程师Hemanth V从内部活动走到AWS re:Invent 2025，获得首届AWS AI League全球冠军。2026年，有**1200**名思科工程师参加Cisco Transformation Fest 4.0上的锦标赛，获胜者Nishanth Aluhonnu获得AWS re:Invent 2026拉斯维加斯全场通行证。",
+        "AWS AI League把学习设计成竞赛：参与者在AWS上定制模型和构建智能体，在实时排行榜上获得即时反馈，并进入类似游戏节目的决赛。文章还回顾了2026年获胜智能体在Amazon Bedrock AgentCore上的技术要点，并说明其他组织如何自办联赛。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AWS称，对大型工程组织来说，难处已不再是能否用上生成式和智能体AI，而是如何让数千名工程师从“看演示”走到“有信心动手构建”。录像和幻灯片往往补不上这一步，工程师在真实构建、看到失败、修复再重试时学得最快。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/7df7c7d029b754571342f9abdf75a47a3436e2a4.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-22161-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n79725b582e3c",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "Anthropic以813亿美元IPO募资额打破SpaceX纪录",
+  "original_title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
+  "summary": "The Decoder报道，Anthropic发行价定为83美元，约出售9.8亿股A类普通股，募资813亿美元，超过SpaceX今年6月750亿美元的纪录，完全稀释市值约1.5万亿美元。",
+  "facts": [
+    {
+      "text": "Anthropic将发行价定为每股83美元，高于原定70至78美元区间，约出售9.8亿股A类普通股，募资813亿美元。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据早期投资人达斯汀·莫斯科维茨称，他正与公司保持距离，并警告自己早期提供的资金可能是“终结世界的举动”。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
+      "is_primary": false,
+      "published_at": "2026-11-19T22:02:22+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T22:02:22+08:00",
+  "updated_at": "2026-11-19T22:02:22+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic以813亿美元IPO募资额打破SpaceX纪录",
+  "lead_zh": "The Decoder报道，Anthropic发行价定为83美元并约出售9.8亿股，募资813亿美元，超过SpaceX今年6月750亿美元的纪录，股票代码为ANT。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，Anthropic将发行价定为每股**83美元**，高于原定**70至78美元**区间；需求旺盛使这家公益公司及其七名联合创始人约出售**9.8亿**股A类普通股，高于原计划的**8.25亿**股。据CNBC，募资额达**813亿美元**，超过埃隆·马斯克的SpaceX今年6月**750亿美元**的纪录。报道引《华尔街日报》称，完全稀释市值约**1.5万亿美元**，不含期权则更接近**1万亿美元**。",
+        "股票周四起在纳斯达克以代码ANT交易。承销团包括高盛和摩根士丹利，并获得**30天**内追加购买**1.47亿**股的选择权。七名联合创始人各出售338万股，合计约19.6亿美元，这笔钱不进入公司。前九个月营收约332.4亿美元，年增约1200%；截至10月底年化营收约810亿美元。同期净亏损由上年251亿美元扩大至1040亿美元，主要来自可转债和衍生负债的重估。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "投资人怎么说",
+      "paras": [
+        "报道称，早期投资人达斯汀·莫斯科维茨公开与公司保持距离，并警告自己早期提供的资金可能是“终结世界的举动”。亚马逊和谷歌均为最大股东之列，各自持股价值超过**1000亿美元**；它们与微软、英伟达和AMD还按发行价再投资**260亿美元**，同时也向Anthropic出售昂贵硬件。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

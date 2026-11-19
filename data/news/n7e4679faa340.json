@@ -1,0 +1,67 @@
+{
+  "id": "n7e4679faa340",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "埃森哲分享在Bedrock上优化AI Token开支的顺序方法",
+  "original_title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
+  "summary": "AWS与埃森哲撰文介绍六项可组合的优化杠杆，并称在电信、保险、矿业和一个大型企业项目中，凡能测得节省的案例，Token开支下降约40%至85%，结果因工作负载而异。",
+  "facts": [
+    {
+      "text": "AWS博客介绍在Amazon Bedrock上优化Token开支的六项杠杆，并展示埃森哲在电信、保险、矿业和一个大型企业部署中的应用。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该文称，在能够测得节省的案例中，Token开支下降约40%至85%，结果取决于各客户工作负载，客户名称被隐去。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/",
+      "is_primary": true,
+      "published_at": "2026-11-20T02:48:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T02:48:55+08:00",
+  "updated_at": "2026-11-20T02:48:55+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "埃森哲分享在Bedrock上优化AI Token开支的方法",
+  "lead_zh": "AWS与埃森哲撰文介绍六项可组合的优化杠杆，并称在四个客户项目中，凡能测得节省的案例，Token开支下降约40%至85%，结果因工作负载而异。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS机器学习博客发文指出，企业在Amazon Bedrock上扩大AI应用时，即使单价下降，Token总开支仍可能上升：更便宜的Token会扩大采用，智能体工作负载会成倍增加调用。若未做好成本分配标签，账单往往只显示一笔AI开支，而不是按团队、工作负载、智能体或模型拆分。Linux基金会已发起Tokenomics Foundation，推动AI成本经济学的开放标准。",
+        "文章介绍六项可组合的优化杠杆，并展示埃森哲如何将其用于电信、保险、矿业和一个大型企业部署等四个客户项目。这些杠杆也可在Bedrock上原生使用。文章称，在能够测得节省的案例中，Token开支下降约**40%至85%**，结果因工作负载而异，客户名称被隐去。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "文章建议",
+      "paras": [
+        "据该文称，优化之前先要看清消耗发生在何处、由谁负责、以及产生了何种业务价值。按团队、工作负载和智能体做成本分配标签，是把消耗与问责、业务价值连起来的前提。随后再按顺序使用各项杠杆，而不是一上来就降价或换模型。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/9b967d3fd9fb69c305e6be0b00aca1ccd44065e7.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22007-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

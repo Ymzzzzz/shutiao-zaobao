@@ -1,0 +1,61 @@
+{
+  "id": "ndb48b20db167",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "IEEE介绍用于约束失控AI智能体的元智能体Shepherd",
+  "original_title": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
+  "summary": "IEEE Spectrum介绍名为Shepherd的元智能体，称其用版本控制和沙箱来从AI失误中恢复并“管理”其他智能体。目前原文页几乎未抽出正文，细节仍待补充。",
+  "facts": [
+    {
+      "text": "IEEE Spectrum刊发介绍Shepherd的文章，副题称该工具使用版本控制和沙箱来从AI失误中恢复并“管理”智能体。",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ai-agent-manager"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ai-agent-manager",
+      "is_primary": false,
+      "published_at": "2026-11-19T23:00:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T23:00:03+08:00",
+  "updated_at": "2026-11-19T23:00:03+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "IEEE介绍用于约束失控AI智能体的元智能体Shepherd",
+  "lead_zh": "IEEE Spectrum介绍名为Shepherd的元智能体，称其借助版本控制和沙箱，从AI失误中恢复并管理其他智能体。目前原文页可用正文很少，细节仍不完整。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IEEE Spectrum介绍了东北大学助理教授Weiyan Shi与斯坦福大学等合作者开发的元智能体框架Shepherd，相关论文将在**2026**年12月的NeurIPS会议上发表。该框架用Python写成，借鉴软件版本控制：智能体的每一步动作及其状态、所处环境都会存成一次提交，元智能体可沿提交图观察、拦截出错动作、回退到上一步，或分叉改走另一方向。",
+        "向外发送邮件等操作会被Shepherd沙箱截住，再由元智能体或人工决定是否真正执行。为验证可行性，团队给出三种用例：监督型元智能体在并行编程智能体发生冲突时介入，提高了结对编程基准通过率；优化型元智能体针对已完成工作流提出修改并只重放受影响部分；训练型元智能体在强化学习中选择分叉点，引导工作者走更好的路径。Shepherd已开源，目前仍在从测试版走向可投产，并属于Chong与Shi共同发起、东北大学、斯坦福和加州大学伯克利分校参与的智能体科学研究倡议（ASRI）。"
+      ],
+      "sources": [
+        "IEEE Spectrum"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究者怎么说",
+      "paras": [
+        "据Weiyan Shi称，智能体可能长时间运行并出现错误或危险操作，因此需要一层中间管理；她把工作智能体比作四处走动的羊，把元智能体比作把它们带回正轨的牧羊人。斯坦福大学自然语言处理组研究员Derek Chong称，沙箱起着护栏或治理作用，若能把智能体管理能力普及开来，将有助于人类构建支持自身发展的AI系统。"
+      ],
+      "sources": [
+        "IEEE Spectrum"
+      ]
+    }
+  ],
+  "image_url": "img/0a3420fdf24dfef6332ba0762392e258096b9522.jpg",
+  "image_source": "IEEE Spectrum",
+  "image_origin_url": "https://spectrum.ieee.org/media-library/illustration-of-an-ai-agent-supervising-and-designating-tasks-to-smaller-ai-agents.jpg?id=68511562&width=980",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

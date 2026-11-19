@@ -1,0 +1,67 @@
+{
+  "id": "nb1f5ad126afd",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌为测试Chrome智能体搭建可隔离的“镜像互联网”",
+  "original_title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+  "summary": "《连线》报道，Chrome团队为训练基于Gemini的浏览智能体搭建了名为“镜像维度”的隔离网络，内含社交、购物和银行等仿真实网站，并加入隐藏的提示注入等抗压测试。",
+  "facts": [
+    {
+      "text": "《连线》报道，谷歌Chrome团队为训练基于Gemini的浏览智能体，搭建了名为“镜像维度”的、由团队完全控制的隔离网络生态系统，并在博客中首次详细介绍。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Chrome AI安全团队软件工程师Charles Qian称，智能体不是被逐条编程的，无法预知它可能遇到的每一种情况，而“网络是充满敌意的”。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "is_primary": false,
+      "published_at": "2026-11-20T01:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T01:00:00+08:00",
+  "updated_at": "2026-11-20T01:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌为测试Chrome智能体搭建可隔离的“镜像互联网”",
+  "lead_zh": "《连线》报道，谷歌Chrome团队为安全训练浏览智能体，搭建了名为“镜像维度”的隔离网络，内含仿真实的社交、购物和银行等网站，并加入提示注入等抗压测试。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《连线》报道，谷歌Chrome团队在用Gemini模型开发浏览类AI功能时，认为有限测试环境不够，又不能把未成熟的智能体直接放到公网，于是搭建了一个由团队完全控制的“平行宇宙”互联网。谷歌今天在博客中首次详细介绍这一名为“镜像维度”（Mirror Dimension）的隔离生态系统。",
+        "其中包含大量网站和平台，涵盖社交媒体、购物和银行看板等，具备真实网站的组成与属性。浏览助手必须在Chrome里像面对真实互联网一样完成任务，并会遇到隐藏的提示注入等抗压测试，以检验防御能力。这样做也是为了降低模型产生“评测觉察”、在测试环境中表现与真实使用不同的风险。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "工程师怎么说",
+      "paras": [
+        "据Chrome AI安全团队软件工程师Charles Qian称：“智能体不是被逐条编程的，所以你无法预知它可能看到的每一种情况；我们要面对的探索空间非常大，而网络是充满敌意的。任何用户都可能提出任何提示。”文章强调，网页使用类智能体既要熟悉开放互联网和真实站点，也要能抵御网络攻击。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/a34eb5e42926d8ebef2826e30bdfd854a59262e8.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

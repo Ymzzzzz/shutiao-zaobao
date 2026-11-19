@@ -1,0 +1,67 @@
+{
+  "id": "n5590d4d47ed2",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Amazon Polly语音克隆正式推出，支持七种语言",
+  "original_title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+  "summary": "AWS宣布Amazon Polly语音克隆以受限方式正式可用：在说话人同意后，用数分钟录音生成定制声音，运行在生成式引擎上，支持英西德法意葡印地语，构建克隆声音免费。",
+  "facts": [
+    {
+      "text": "Amazon Polly语音克隆以受限发布方式正式可用，克隆声音运行在生成式引擎上，支持七种语言，并在生成式引擎所覆盖的各区域提供，包括GovCloud（美国）。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，为Polly客户构建克隆声音免费，使用则按量计费；克隆声音自动加密并做访问控制，只有创建者可以访问。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
+      "is_primary": true,
+      "published_at": "2026-11-20T03:53:32+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T03:53:32+08:00",
+  "updated_at": "2026-11-20T03:53:32+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Amazon Polly语音克隆正式推出，支持七种语言",
+  "lead_zh": "AWS宣布Amazon Polly语音克隆以受限方式正式可用，可在说话人同意后用数分钟录音生成定制声音，支持英语、西班牙语、德语、法语、意大利语、葡萄牙语和印地语。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS宣布，Amazon Polly的语音克隆以受限发布（gated release）方式正式可用。用户向Polly提供经说话人同意的数分钟录音后，即可生成该说话人音色的定制声音。克隆声音运行在Polly生成式引擎上，文章称自然度和准确度与其他生成式声音相近，并支持七种语言：英语、西班牙语、德语、法语、意大利语、葡萄牙语和印地语，且只说录音所用语言。",
+        "该功能在Polly生成式引擎所支持的各AWS区域提供，包括AWS GovCloud（美国）。部分客户已开通访问，其他客户可联系账户团队或申请开通。文章还提供试听：前几秒为说话人真实录音，随后由克隆声音朗读其从未录过的句子。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AWS称，构建克隆声音对Polly客户免费，使用则按量计费，具体见定价页。克隆声音会自动加密并做访问控制，只有创建者可以访问。该能力也可嵌入AWS应用，把克隆生命周期接入现有业务流程。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/ee85fb8e4d46fbc0a07d640d75ecab759044105e.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22432-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

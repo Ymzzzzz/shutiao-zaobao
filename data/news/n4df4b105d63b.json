@@ -1,0 +1,73 @@
+{
+  "id": "n4df4b105d63b",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Ramp指数：AI用量创新高，但Token开支增速在放缓",
+  "original_title": "AI industry growth remains strong, but the pace is slowing",
+  "summary": "The Decoder引Ramp AI指数称，六周内模型Token价格下跌21%，用量创纪录；截至11月15日当周Anthropic占Token开支58.7%。OpenRouter数据也显示用量增速快于支出。",
+  "facts": [
+    {
+      "text": "The Decoder引Ramp AI指数称，AI模型Token价格在六周内下跌21%，用量创下新高；Token开支较两周前的峰值下降6.3%。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Ramp称，OpenAI与Anthropic合计的每百万Token均价降至0.45美元，其中OpenAI为0.38美元，Anthropic为0.50美元。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/"
+    }
+  ],
+  "analysis": [
+    {
+      "text": "文章认为，Ramp与OpenRouter都显示10月出现开支峰值、随后支出下降而用量上升，说明行业仍在增长，但收入动能在降温。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+      "is_primary": false,
+      "published_at": "2026-11-20T03:28:19+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T03:28:19+08:00",
+  "updated_at": "2026-11-20T03:28:19+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Ramp指数：AI用量创新高，但Token开支增速在放缓",
+  "lead_zh": "The Decoder引Ramp指数称，六周内Token价格下跌21%、用量创新高，但开支增速慢于用量；截至11月15日当周，Anthropic约占开支的58.7%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder引Ramp AI指数称，AI模型Token价格在六周内下跌**21%**，用量创下新高，但企业实际支付的Token开支较两周前的峰值下降**6.3%**。以截至**11月15日**的一周对比截至**10月18日**的一周，总开支仍上升**12%**，Token用量则跳增**27.2%**，用量与收入之间的缺口继续扩大。Ramp统计的OpenAI与Anthropic合计每百万Token均价降至**0.45美元**，较上月再降**11.2%**；其中OpenAI为**0.38美元**，Anthropic为**0.50美元**。",
+        "API路由平台OpenRouter也呈现类似走势。Peter Walker在X上的分析称，自2026年初以来，OpenAI、Anthropic和谷歌闭源模型的周Token用量增长1215%，周开支只增长455%。OpenRouter数据（至11月9日当周）显示，开支峰值出现在10月5日那一周，此后下降。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "文章认为，Ramp与OpenRouter都显示10月出现开支峰值、随后支出下降而用量上升，说明行业仍在增长，但收入动能在降温；同时也提醒两家都不足以代表整个市场。在截至11月15日的一周，Anthropic占全部Token开支的**58.7%**，较上月再升**1.7**个百分点，且正值公司上市之日。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/98431e66c908f83e587f7a60211faea3d7537288.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

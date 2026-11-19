@@ -1,0 +1,67 @@
+{
+  "id": "n1f6e59d24f33",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "TabBioMed发布94个生物医学表格数据集基准",
+  "original_title": "TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning",
+  "summary": "一篇arXiv论文发布TabBioMed基准，收录94个公开生物医学表格数据集，覆盖电子病历、药物发现和多组学等，并评测23种模型，称基础模型总体最强但优势随数据条件变化。",
+  "facts": [
+    {
+      "text": "论文发布TabBioMed，收录94个经过整理的公开生物医学表格数据集，覆盖电子病历、药物发现、基因组、转录组、蛋白组、代谢组、单细胞组学和系统生物学。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.23779"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据作者称，在23种模型的评测中，表格基础模型在家族层面预测表现最强，但提升取决于数据条件，树模型和调参后的多层感知机在推理时间或训练成本受限时仍常占优。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.23779"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.23779",
+      "is_primary": true,
+      "published_at": "2026-11-19T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T08:00:00+08:00",
+  "updated_at": "2026-11-19T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "TabBioMed发布94个生物医学表格数据集基准",
+  "lead_zh": "一篇arXiv论文发布TabBioMed基准，收录94个公开生物医学表格数据集，覆盖电子病历、药物发现和多组学等，并在统一流程下评测了23种模型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文写了什么",
+      "paras": [
+        "这篇arXiv论文认为，机器学习加快了生物医学预测，但对结构化生物医学数据的评估仍然分散，尤其是在高维、大样本、缺失值和类别不平衡的数据集上。作者发布TabBioMed基准，收录**94**个经过整理的公开生物医学表格数据集，覆盖电子病历、药物发现、基因组、转录组、蛋白组、代谢组、单细胞组学和系统生物学。",
+        "该基准用统一且考虑数据集差异的预处理与评估框架整理这些数据，以便在分类、回归和多目标任务上做可复现比较。作者评测了**23**种模型，涵盖经典基线、梯度提升树、神经表格架构和表格基础模型，并计划公开整理后的数据、划分、预处理代码、基线和结果。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据作者称，基础模型在家族层面的预测表现最强，但提升取决于数据条件：树模型和经过调参的多层感知机仍然很有竞争力，在推理时间或训练成本受限时往往更优。总体来看，生物医学表格学习高度依赖具体情境，最优模型选择随数据机制、任务类型和计算预算而变化。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/968f9965e7e59814b70dfe599ff542b9a3c159f9.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.23779.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

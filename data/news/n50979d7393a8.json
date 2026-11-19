@@ -1,0 +1,67 @@
+{
+  "id": "n50979d7393a8",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "宝马集团如何治理数千名开发者使用的大量智能体",
+  "original_title": "How the BMW Group governs hundreds of agents across thousands of developers",
+  "summary": "AWS博客介绍，宝马研发侧约有1.25万名开发者、约5亿行车载软件代码，并需为2400万辆在网车辆的1300多个微服务提供支持，文章分享其规模化治理智能体的做法。",
+  "facts": [
+    {
+      "text": "宝马集团在AWS博客发文称，其研发侧有超过1.25万名开发者，维护约5亿行车载软件代码，并运营含1300多个微服务、服务2400万辆在网车辆的后端。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据宝马称，规模化智能体不能靠孤立团队，而需要局部试验与跨企业知识共享，并在创新速度与安全、合规、成本标准之间取得平衡。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
+      "is_primary": true,
+      "published_at": "2026-11-20T06:20:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T06:20:23+08:00",
+  "updated_at": "2026-11-20T06:20:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "宝马集团如何治理数千名开发者使用的大量智能体",
+  "lead_zh": "AWS博客介绍，宝马研发侧约有1.25万名开发者和约5亿行车载软件代码，文章分享其在企业规模下建设、治理和运营AI智能体的做法。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "宝马集团在AWS机器学习博客发文，介绍其研发团队如何在企业规模下建设、治理和运营AI智能体。文中称，宝马研发侧有超过**1.25万**名开发者，维护约**5亿**行车载软件代码；其互联车辆后端是云上系统，包含**1300**多个微服务，为实地**2400万**辆车提供数字服务。在受监管行业，对软件质量、稳定性和治理合规的要求很高。",
+        "文章指出，虽然已有框架和指南降低了“做出智能体”的门槛，但要高效、可扩展地工业化和运营高质量智能体仍是难题。全球分散的成百上千个团队都在做智能体，若缺少统一标准，容易出现碎片化的“AI孤岛”和重复投入。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据宝马称，规模化智能体不能靠孤立团队完成，而需要集体努力、局部试验和跨企业知识共享。其核心矛盾是：开发团队要快速创新，企业又必须执行安全、可组合和成本效率等标准。文章的前提是建设能够相互协作的智能体，并在不牺牲速度、质量和合规的前提下给出可复用的实践与模式。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/26998669301862cabe48928802b29fe2ca63ec1d.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-20698-featured-image-1.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

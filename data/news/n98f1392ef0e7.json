@@ -1,0 +1,39 @@
+{
+  "id": "n98f1392ef0e7",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌与蓝色起源合作，计划2029年发射AI服务器卫星",
+  "original_title": "谷歌与蓝色起源合作，计划 2029 年发射 AI 服务器卫星",
+  "summary": "IT之家报道，蓝色起源新格伦火箭计划于2029年第一季度发射搭载谷歌TPU的卫星，算力约相当于一个数据中心机架，属“太阳捕手计划”。今年10月谷歌已部署首颗AI服务器卫星。",
+  "facts": [
+    {
+      "text": "IT之家报道，谷歌与蓝色起源达成合作，计划将AI服务器卫星送上太空；新格伦火箭拟于2029年第一季度发射搭载谷歌TPU的卫星。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/695.htm"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/029/695.htm",
+      "is_primary": false,
+      "published_at": "2026-11-19T22:26:06+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T22:26:06+08:00",
+  "updated_at": "2026-11-19T22:26:06+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌与蓝色起源合作，计划2029年发射AI服务器卫星",
+  "lead_zh": "IT之家报道，谷歌与蓝色起源计划在2029年第一季度用新格伦火箭发射搭载谷歌TPU的卫星，算力约相当于一个数据中心机架，属“太阳捕手计划”。",
+  "body_zh": [],
+  "image_url": "img/99be2349134a77c05f7891f46cbb65dbe971e642.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/4ae864bc-8bb5-486b-8176-8ea55d698488.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

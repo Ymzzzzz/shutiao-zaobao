@@ -1,0 +1,67 @@
+{
+  "id": "ne397ef7ae853",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "ChatGPT新增实时听写，说话时可同步转成文字",
+  "original_title": "ChatGPT 新增“实时听写”功能：对着麦克风说话，语音能即时变文字",
+  "summary": "IT之家报道，ChatGPT新增实时听写，用户对着麦克风说话时可同步转成文字，功能将向全球所有用户开放，覆盖网页、桌面和移动应用，并取消原有的10分钟时长限制。",
+  "facts": [
+    {
+      "text": "IT之家11月19日报道，ChatGPT宣布新增“实时听写”功能，用户对着麦克风说话时，语音可同步转成文字，不必等录音结束后再转写。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/707.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，该功能将取消ChatGPT语音听写原有的10分钟时长限制，并进一步提高转写的可靠性。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/707.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/029/707.htm",
+      "is_primary": false,
+      "published_at": "2026-11-19T23:28:10+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T23:28:10+08:00",
+  "updated_at": "2026-11-19T23:28:10+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "ChatGPT新增实时听写，说话时可同步转成文字",
+  "lead_zh": "IT之家报道，ChatGPT新增实时听写功能，用户对着麦克风说话时可同步转成文字，将向全球所有用户开放，并取消原有的10分钟时长限制。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月19日报道，ChatGPT宣布新增“实时听写”功能：用户对着麦克风说话时，语音可同步转成文字，不必等录音结束后再转写，从而让ChatGPT更快接收语音指令。该功能将陆续向全球所有ChatGPT用户开放，覆盖网页版、桌面客户端以及iOS和Android应用。",
+        "使用时，用户点击音频波形即可查看实时转写的文字，录音结束后还可以直接在输入框中编辑。今年早些时候，ChatGPT的双向语音对话模式曾迎来全面改版。OpenAI去年还推出用于转写语音笔记和会议内容的“录制模式”，不过仍处于测试阶段，仅面向Plus、Enterprise、Edu、Business和Pro工作区开放。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI宣布，公司取消了ChatGPT语音听写原有的**10分钟**时长限制，并进一步提高转写的可靠性。IT之家还称，用户也可以利用输入框里的语音听写功能，让ChatGPT把语音消息转成文字，或整理成条列式要点。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/3d86a92f915769ecb6f57072eade8e705098f0e9.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/b1d4021e-6b5a-4391-a263-c2697929d090.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

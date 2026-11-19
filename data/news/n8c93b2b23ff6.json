@@ -1,0 +1,67 @@
+{
+  "id": "n8c93b2b23ff6",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "研究按文件体积和每题能耗为量化代码模型做选择指南",
+  "original_title": "Choosing Quantized Code LLMs by File Size and Energy per Solved Task",
+  "summary": "一篇arXiv论文在无风扇的MacBook Air M2上测试24个Qwen2.5-Coder的GGUF文件，用542道EvalPlus题目衡量每解一题的能耗，并按Ollama标称体积给出选择建议。",
+  "facts": [
+    {
+      "text": "研究在无风扇MacBook Air M2上对Qwen2.5-Coder四个规模的24个GGUF文件做本地推理，并在542道EvalPlus题目上计算每解一题的能耗。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.17605"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据作者称，在标称1GB和2GB时，1.5B与3B模型的q4_K_M文件同时处于正确率和能耗前沿；标称3GB的7B-q2_K并不更值。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.17605"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.17605",
+      "is_primary": true,
+      "published_at": "2026-11-19T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T08:00:00+08:00",
+  "updated_at": "2026-11-19T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "研究按文件体积和每题能耗为量化代码模型做选择指南",
+  "lead_zh": "一篇论文在无风扇MacBook Air上测试24个量化代码模型文件，用542道题目比较每解一题的能耗，并按文件体积给出选择建议。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文写了什么",
+      "paras": [
+        "这篇arXiv论文关注在笔记本电脑上运行代码助手时的选择：开发者通常只下载一个模型文件，之后每次请求的能耗都落在这台机器上。常见说法是，更大模型用更低精度，往往好过更小模型用更高精度。作者在无风扇的MacBook Air M2上，对Qwen2.5-Coder四个规模的**24**个GGUF文件做了测试，并用**542**道EvalPlus题目计算每解一题的能耗，按Ollama标称文件体积给出带证据标签的选择指南。",
+        "在标称**1GB**和**2GB**时，指南选出1.5B和3B模型的q4_K_M文件，二者在各种核算下都位于正确率与能耗前沿。标称**3GB**时，按“更大模型”规则会选唯一能放下的7B-q2_K，但该文件相对**2GB**的3B-q4_K_M没有显著更高的解题量，90%置信区间把3B可能的落后限制在**2.4**分以内，能耗却达到其**2.03**倍（CPU、GPU和内存轨道）或**1.66至1.81**倍（整机功耗）。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据作者称，到标称**8GB**时，7B-q6_K相对2GB选项有显著解题提升，但能耗更高。从1.5B起，q4_K_M相对同规模下测到的最高精度，落后不到**3**分（90%置信区间）。他们同时公开了逐题结果、功耗日志和分析脚本。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/f253d6843313c589413d93bb91013f46854c2022.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.17605.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

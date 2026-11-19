@@ -1,0 +1,67 @@
+{
+  "id": "n460d6bf61b21",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "论文提出用专家训练日志回放来合并长程强化学习模型",
+  "original_title": "Replay, Don't Resample: Off-Policy Consolidation of Long-Horizon RL Experts",
+  "summary": "一篇arXiv论文提出MRPD方法，按各领域强化学习专家的训练日志顺序回放轨迹来合并到一个学生模型，称无需再采样环境，合并计算大约只需训练这些专家时所用算力的七分之一。",
+  "facts": [
+    {
+      "text": "论文提出multi-expert replay policy distillation（MRPD），用各专家强化学习过程中已有的轨迹、采样概率和奖励，按专家学习顺序回放并合并到一个学生模型。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.24059"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据作者称，在推理、搜索和SQL三个长程智能体领域，MRPD得到的学生模型优于在线强化学习基线，并以远低于MOPD的成本超过由同一批专家做的在线蒸馏。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.24059"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.24059",
+      "is_primary": true,
+      "published_at": "2026-11-19T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T08:00:00+08:00",
+  "updated_at": "2026-11-19T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "论文提出用专家训练日志回放来合并长程强化学习模型",
+  "lead_zh": "一篇arXiv论文提出MRPD方法，按各领域强化学习专家的训练日志顺序回放轨迹来合并模型，称无需再采样环境，计算量约为训练这些专家的七分之一。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文写了什么",
+      "paras": [
+        "这篇arXiv论文指出，前沿模型后期训练常见做法是：先为每个领域用强化学习训练一名专家，再通过多教师在线蒸馏（MOPD）合并成一个模型。这样合并成本很高，学生要在各环境中重新采样，专家还要为每个token打分，并且会继承最终专家的漂移。",
+        "作者提出MRPD（multi-expert replay policy distillation）：直接回放专家训练日志中已有的轨迹、采样概率和奖励，并按专家当时的学习顺序交给学生。每一步在这些已打分轨迹上重算策略梯度，同时在已记录的前缀上蒸馏最终专家的分布。该方法不再采样，也不再调用环境或奖励模型，训练器是唯一进程。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据作者称，跟着专家自己的轨迹走，可减少训练与推理不一致，并使学生保持在裁剪范围内，因而这些回放虽来自离线数据，在合并过程中却接近在线。合并这些专家的计算大约只需训练它们时的**七分之一**。在推理、搜索和SQL三个长程智能体领域，MRPD得到的学生模型最好，明显优于在线强化学习基线，并以远低于MOPD的成本超过由同一批专家做的蒸馏。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/b3a45764312d343ba96c7906dde50c94d70e175d.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.24059.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

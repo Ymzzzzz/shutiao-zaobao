@@ -1,0 +1,67 @@
+{
+  "id": "n872af0c71812",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "WIRED播客讨论一周内多起数字服务中断",
+  "original_title": "What’s With All These Outages?",
+  "summary": "《连线》播客《Uncanny Valley》讨论过去一周微软、美国联邦航空局、大通、联航、美国国家安全局和苹果等机构出现的服务中断，官方称并非网络攻击，节目还谈及Anthropic上市与英伟达财报。",
+  "facts": [
+    {
+      "text": "《连线》介绍本周《Uncanny Valley》节目讨论过去一周微软、美国联邦航空局、大通、联航、美国国家安全局和苹果等出现的服务中断。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据节目介绍称，官方表示这些中断都不是网络攻击，但网上仍有人迅速归咎于黑客和人工智能。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "is_primary": false,
+      "published_at": "2026-11-20T05:57:01+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T05:57:01+08:00",
+  "updated_at": "2026-11-20T05:57:01+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "WIRED播客讨论一周内多起数字服务中断",
+  "lead_zh": "《连线》播客讨论过去一周微软、美国联邦航空局、大通、联航、美国国家安全局和苹果等出现的服务中断，官方称并非网络攻击，节目还谈及Anthropic上市。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《连线》介绍本周播客《Uncanny Valley》的议题：在过去一周内，微软、美国联邦航空局、大通、美国联合航空、美国国家安全局和苹果都出现了服务中断。高级商业编辑Sophie Kleeman与Brian Barrett、Leah Feiger一起讨论实际故障原因，以及人们为何会立刻联想到黑客和人工智能。",
+        "节目单还列出将讨论Anthropic据报估值约**1.5万亿美元**的历史性IPO、黄仁勋辞职后英伟达的首份财报，以及在特朗普与习近平会面之前、限制中国企业租用AI芯片的新规则。页面并链向《连线》关于Anthropic上市、联邦航空局停飞、微软故障和如何区分网络攻击与普通中断等报道。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "节目怎么说",
+      "paras": [
+        "据节目介绍称，官方表示这些中断都不是网络攻击，但互联网上仍有人不相信这一说法。主持人将梳理“到底出了什么问题”，以及公众为何会迅速把责任推给黑客或AI。该期也可通过页面播放器收听，并提供在播客应用中订阅的方式。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/a936fb4421935a6275cf26d27fc4b8e92bba8435.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/master/pass/Uncanny-Valley-FAA-Outage-Business.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

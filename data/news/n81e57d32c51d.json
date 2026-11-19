@@ -1,0 +1,67 @@
+{
+  "id": "n81e57d32c51d",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋风波波及他常去的台湾小吃店",
+  "original_title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+  "summary": "《连线》采访台北夜市摊商：英伟达前CEO黄仁勋上周因被曝多段婚外情辞职后，有人担心其光顾还能否带来客流；冰世界店主涂长春仍保留两人合影，并称“他又不是杀人放火”。",
+  "facts": [
+    {
+      "text": "《连线》报道，黄仁勋上周在被曝多段婚外情后辞职，其常去的部分台湾餐饮摊商开始讨论，这位最著名的客人是否仍有利于生意。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据台北冰世界店主涂长春称，他对黄仁勋的印象并未因与被指控为中方从事间谍活动的商人Alice Huang的传闻而改变，并说“他又不是杀人放火”。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "is_primary": false,
+      "published_at": "2026-11-20T04:34:17+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T04:34:17+08:00",
+  "updated_at": "2026-11-20T04:34:17+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋风波波及他常去的台湾小吃店",
+  "lead_zh": "《连线》报道，英伟达前CEO黄仁勋上周辞职后，他常去的部分台湾摊商开始权衡这份知名度；也有店主选择继续展示合影并为其辩护。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《连线》报道，黄仁勋近年常在亚洲街头市场和小面馆用餐，所到之处会引来大批粉丝和摄影。上周他在被曝多段婚外情后辞去英伟达CEO职务，一些曾因他到访而提高知名度的摊商开始讨论，这位最著名的客人现在是否仍有利于生意。文章称，在黄仁勋出生地台湾，他的用餐习惯长期是公众话题，许多人并不急于与这位“家乡英雄”切割。",
+        "台北临江街夜市冰品店“冰世界”店主涂长春仍在门口展示他与黄仁勋夫妇的合影。报道提到，其中一名被指相关的对象是商人Alice Huang，她被指控为中方从事间谍活动；文章同时写明，店主表示自己对黄仁勋为人的印象并未因此改变。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "店主怎么说",
+      "paras": [
+        "据涂长春周一晚上在摊位下称，黄仁勋待人友善，能让周围的人放松，“他又不是杀人放火，何必闹得这么大？”他还说，现在常有外国人路过看到招牌就笑，“大家都爱在人倒下时再踩一脚”，并仍然认为对方“温暖、容易接近”，不理解外界如此对待他。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/c60f5246234b464b90f181262978bf36ea9023df.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

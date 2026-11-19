@@ -1,0 +1,67 @@
+{
+  "id": "nb24c1081da70",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "苹果招聘工程师打造自有AI智能体助手",
+  "original_title": "Apple is hiring engineers to build its own AI agent",
+  "summary": "The Verge引彭博报道称，苹果正招聘工程师牵头打造可浏览网页、跨应用操作、写代码并调用服务的智能体助手，该职位将与Siri、界面框架以及基础模型团队合作。",
+  "facts": [
+    {
+      "text": "The Verge引彭博发现的招聘启事称，苹果正在寻找工程师，牵头打造可浏览网页、跨应用工作、写代码并调用服务的智能体AI助手。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该招聘启事称，公司正在构建能够像人一样在浏览器、文档、终端、编辑器和各类服务之间计划并执行多步任务的AI智能体。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "is_primary": false,
+      "published_at": "2026-11-20T06:31:41+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T06:31:41+08:00",
+  "updated_at": "2026-11-20T06:31:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "苹果招聘工程师打造自有AI智能体助手",
+  "lead_zh": "The Verge引彭博报道称，苹果正招聘工程师牵头打造可浏览网页、跨应用操作、写代码并调用服务的智能体助手，相关职位将与Siri等团队合作。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge报道，彭博发现的一则招聘启事显示，苹果正在寻找工程师，牵头打造智能体式AI助手，使其能够浏览网页、在不同应用间工作、编写代码并调用服务。文章认为，这将使苹果与Meta的Muse、OpenAI的Dots、Anthropic的Duet以及谷歌的Tasks等同场竞争；Muse、ChatGPT和Perplexity已能通过Mac应用控制电脑，谷歌也刚让Gemini具备类似能力。",
+        "苹果已于9月开始推送升级后的AI版Siri，可用于询问屏幕上的内容，并跨应用执行操作。彭博另一篇报道称，公司还可能为Siri增加在照片中旋转裁剪、或整理Safari标签页等能力，这与新职位将与Siri、UI框架和Apple Foundation Models团队合作的描述相符。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "招聘启事怎么说",
+      "paras": [
+        "据该招聘启事称：“人们已经习惯在浏览器、文档、终端、编辑器和各类服务之间流畅切换，完成最有价值的工作。我们正在构建也能这样做的AI智能体……这些智能体能够规划并执行跨应用、浏览器、命令行、代码和API的多步任务，并且可以相互协作。”"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/f6318794fb183d80938d0b0ca9eaa02853310ba1.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

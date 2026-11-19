@@ -1,0 +1,67 @@
+{
+  "id": "nebd75882b3d9",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊智能体运行框架改用开源Strands默认配置",
+  "original_title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+  "summary": "AWS宣布Amazon Bedrock AgentCore harness改用开源Strands harness，加入推荐模型、任务导向默认项、自动提示缓存、主动上下文管理、内置工具和生命周期钩子。",
+  "facts": [
+    {
+      "text": "AWS宣布将Amazon Bedrock AgentCore harness升级为使用今年早些时候以Apache 2.0许可发布的开源Strands harness，并新增生命周期钩子。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，采用托管默认配置的智能体将自动获得推荐模型、任务导向系统提示、自动提示缓存（起初面向Bedrock上的Anthropic模型）以及主动上下文管理。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
+      "is_primary": true,
+      "published_at": "2026-11-20T04:01:06+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T04:01:06+08:00",
+  "updated_at": "2026-11-20T04:01:06+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊智能体运行框架改用开源Strands默认配置",
+  "lead_zh": "亚马逊云科技宣布，其智能体运行框架改用开源Strands方案，加入推荐模型、任务默认项、提示缓存、内置工具和可插入的生命周期钩子。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS宣布升级Amazon Bedrock AgentCore harness，改用今年早些时候以Apache 2.0许可发布的开源Strands harness，并新增生命周期钩子，以便在智能体循环的既定点执行确定性的允许或拒绝检查及通知。用户无需采用新的资源类型或集成，已在使用的harness会自动获得这些更新。",
+        "升级后，采用托管默认配置的智能体可获得推荐模型、任务导向系统提示、自动提示缓存（文章称起初面向Amazon Bedrock上的Anthropic模型）以及主动上下文管理，并新增用于规划、网页检索、文件系统访问、上下文卸载和任务委派的内置工具，以便在长任务中跟踪子任务、降低上下文占用并委派工作。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AWS称，选择模型只是第一步，智能体还需要工具、完成任务的指令、管理长会话上下文增长的方法，以及在执行退款等重要动作前的护栏。钩子可在特定生命周期检查点运行确定性代码，从而把非确定性的模型行为纳入可预测、可治理的流程。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/311ab163d0cc315c6db5a6be185875ea463948a6.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22098-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n0f531b5b0f64",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "SageMaker AI推出跨区域推理路由应对产能短缺",
+  "original_title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+  "summary": "AWS宣布在SageMaker AI中推出推理路由器，应用只需一个调用入口，即可在已有的多区域、多账户端点之间分发请求，优先使用本区域，仅在本地无法可靠服务时转向其他目的地。",
+  "facts": [
+    {
+      "text": "AWS宣布在Amazon SageMaker AI中推出跨区域推理路由，新增推理路由器资源，把已有端点和推理组件收拢到一个调用路径下。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，路由器在本地目的地健康时把请求留在本区域，无法可靠服务时再把新请求转到已注册的其他目的地，并在恢复后逐步把流量切回。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+      "is_primary": true,
+      "published_at": "2026-11-20T02:20:54+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T02:20:54+08:00",
+  "updated_at": "2026-11-20T02:20:54+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "SageMaker AI推出跨区域推理路由应对产能短缺",
+  "lead_zh": "AWS宣布在SageMaker AI中推出推理路由器，应用只需一个调用入口，即可在已运行的多区域、多账户端点之间分发请求，并优先留在本区域。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS宣布在Amazon SageMaker AI中推出跨区域推理路由。新的推理路由器资源把应用的调用收拢到一条路径上，覆盖你已在运行的端点和推理组件，这些资源可以位于一个或多个AWS区域和账户。此前，若使用SageMaker AI托管端点，跨区域路由仍需自行搭建。",
+        "使用方式是注册用于承载同一模型的各项目的地，应用改为调用路由器而非某个具体端点。文章还将结合一个模型部署在两个区域的例子，说明路由如何决定请求落点，并介绍监控、限制和计费；跨账户、多模型部署则指向Salesforce的实践案例。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AWS称，路由器会在本地目的地健康时把请求留在本区域；当本地无法可靠服务时，再把新请求转到已注册的其他目的地，并在恢复后逐步把流量切回。其背景是：单个SageMaker端点位于一个区域和一个账户，一旦自动扩缩加不到所需实例，即使其他区域还有余量，请求仍可能被限流或超时。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/02470ea275726ac579900e0d76c3662d65f0354c.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/17/ML-22377-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

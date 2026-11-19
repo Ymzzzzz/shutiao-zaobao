@@ -1,0 +1,67 @@
+{
+  "id": "n2fc66815c5be",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": true,
+  "title": "SageMaker AI可检测推理端点延迟漂移和闲置GPU",
+  "original_title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+  "summary": "亚马逊云科技宣布，SageMaker AI默认监控生成式AI推理端点的延迟、GPU利用率和服务配置，并经AWS Health给出可改进性能或降低成本的发现，无需额外开通。",
+  "facts": [
+    {
+      "text": "Amazon SageMaker AI现默认监控使用vLLM容器和GPU实例的生成式AI推理端点，跟踪延迟、GPU利用率和服务配置，经AWS Health发送发现。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，该监控只看运营信号，不读取请求或响应内容，并可在SageMaker Studio中一键对比替代配置后再应用更改。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
+      "is_primary": true,
+      "published_at": "2026-11-20T05:28:18+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T05:28:18+08:00",
+  "updated_at": "2026-11-20T05:28:18+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "SageMaker AI可检测推理端点延迟漂移和闲置GPU",
+  "lead_zh": "亚马逊云科技宣布，SageMaker AI现在默认监控生成式AI推理端点的延迟、GPU利用率和服务配置，并提示可能改进性能或降低成本的变更。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技宣布，SageMaker AI现在会默认监控生成式AI推理端点，并在变更可能改进性能或降低成本时发出提示。监控面向使用vLLM服务容器和GPU实例的SageMaker AI推理端点，无需额外开通，也可对特定端点退出。系统经AWS Health发送发现，并可在SageMaker Studio中一键走性能测试后再应用更改。",
+        "文章举例称，上线时合适的实例类型、服务配置和扩缩设置，会随流量变化、提示变长、vLLM新版本、新优化手段或新微调权重而逐渐偏离。延迟和首token时间可能缓慢上升，为并未出现的需求预留的GPU也可能一周周闲置，却因没有“故障”而不触发告警。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AWS称，该功能只查看运营信号：延迟、GPU利用率和端点的服务配置，不读取请求或响应内容。由此可给出三类发现，包括延迟漂移，以及闲置GPU、错过可用优化等情形，帮助团队在用户感知或账单体现之前发现配置偏离。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/38212f114edbb8724229d9f69bd27d2c39bb0403.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/17/ML-22416-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

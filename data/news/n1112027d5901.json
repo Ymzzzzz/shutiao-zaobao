@@ -1,0 +1,67 @@
+{
+  "id": "n1112027d5901",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "开发者用前沿AI智能体搭建Omniverse仿真",
+  "original_title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+  "summary": "英伟达介绍开发者如何把前沿模型与Omniverse库结合，用自然语言指挥智能体组装资产、连接物理与渲染，并检查场景是否按预期运行，还可用于数字孪生和机器人仿真。",
+  "facts": [
+    {
+      "text": "英伟达发文介绍开发者将前沿模型与Omniverse库结合，用于搭建仿真应用、测试物理行为并改进设计。",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据英伟达称，开发者可用自然语言指挥智能体，Omniverse库则提供GPU加速的物理、渲染和传感器仿真能力。",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "is_primary": true,
+      "published_at": "2026-11-20T01:00:35+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T01:00:35+08:00",
+  "updated_at": "2026-11-20T01:00:35+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "开发者用前沿AI智能体搭建Omniverse仿真",
+  "lead_zh": "英伟达介绍开发者如何把前沿模型与Omniverse库结合，用自然语言指挥智能体组装资产、连接物理与渲染，并检查仿真场景是否按预期运行。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英伟达发文介绍，开发者正把前沿模型与NVIDIA Omniverse库结合，把仿真想法做成可运行的应用：组装资产、连接物理与渲染，并检查场景是否按预期表现。开发者可用自然语言指挥智能体、查看结果并指导修改；Omniverse库提供GPU加速的物理、渲染和传感器仿真能力。文中举例提到前沿模型GPT-6 Astra。",
+        "KONGSBERG旗下Falkor的Falkor Surface平台，让客户借助GPT-6 Astra，把计算机辅助设计与工程数据转成设施级数字孪生，并在微软Azure上使用Omniverse库和NVIDIA RTX PRO 6000 Server Edition GPU做物理仿真。工程师可在到现场前先在仿真中制定和测试方案，也可在共享视图中检查设备与净空。"
+      ],
+      "sources": [
+        "NVIDIA Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据英伟达称，这类由前沿模型驱动的智能体，可使用工业工具和工程数据，帮助工程师构建数字孪生、测试计划与流程并评估运营决策。英伟达开发者Dillon Bailey和Rishabh Chadha还用SimReady Central库中的三维资产，搭建机器人抓取与放置仿真，展示从导入模型到组装部件、加入控制并验证任务能否完成的流程。"
+      ],
+      "sources": [
+        "NVIDIA Blog"
+      ]
+    }
+  ],
+  "image_url": "img/69d5b05943cabdf84d60ad83aefb0a283ea3e16b.jpg",
+  "image_source": "NVIDIA Blog",
+  "image_origin_url": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

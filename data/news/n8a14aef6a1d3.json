@@ -1,0 +1,67 @@
+{
+  "id": "n8a14aef6a1d3",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "Amazon Connect Talent用结构化方法做AI面试",
+  "original_title": "Inside Amazon Connect Talent: The science of structured AI interviews",
+  "summary": "AWS介绍Amazon Connect Talent如何把结构化行为面试做成可规模化的AI面试：使用岗位相关问题、适应性追问和循证评分，并结合内部研究与独立专家审阅。",
+  "facts": [
+    {
+      "text": "AWS发文介绍Amazon Connect Talent，称其把结构化行为面试用于规模化的AI主持面试，并围绕岗位相关证据、适应性追问和循证评分设计。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，该服务通过内部研究和独立专家审阅评估了三项核心设计原则的落实情况。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
+      "is_primary": true,
+      "published_at": "2026-11-20T05:23:20+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T05:23:20+08:00",
+  "updated_at": "2026-11-20T05:23:20+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Amazon Connect Talent用结构化方法做AI面试",
+  "lead_zh": "AWS介绍Amazon Connect Talent如何把结构化行为面试做成可规模化的AI面试，使用岗位相关问题、适应性追问和循证评分来收集一致的用人证据。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS发文介绍Amazon Connect Talent，讨论企业在大规模招聘时如何让候选人获得一致的展示机会，并收集足以做出录用决策的证据。结构化行为面试使用与岗位相关的固定问题和明确评分标准；文章引用工业与组织心理学数十年研究称，这类面试有助于评估候选人并预测工作表现。",
+        "但要在规模上实施，需要投入大量时间去沉淀能力项、编写问题、培训面试官并一致地评估回答。Connect Talent把上述方法用于由AI主持的面试，结合结构化问题、适应性追问和循证评分，以便在给予更多候选人展示空间的同时，收集一致、与岗位相关的信息。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AWS称，该服务围绕三项核心设计原则构建，其中第一项是“围绕与岗位相关的证据来设计面试”，并通过内部研究和独立专家审阅评估落实情况。文章称，这些发现有助于看清Connect Talent所采用的招聘科学，以及AI主持、结构化面试背后的具体设计。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/460230a1d13b4fff8398f78bd1f6831b4b5d48e9.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/Inside-Amazon-Connect-Talent-The-science-of-structured-AI-interviews-.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

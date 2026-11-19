@@ -1,0 +1,67 @@
+{
+  "id": "nb00f82b6db94",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Gemini API推出工具按需检索预览",
+  "original_title": "Introducing Tool Retrieval in the Gemini API",
+  "summary": "谷歌在Gemini Interactions API中推出工具检索预览：智能体可保留完整工具库，仅在当前任务需要时加载参数模式，以降低输入token并维持选工具准确度。",
+  "facts": [
+    {
+      "text": "谷歌宣布在Gemini API的Interactions API中推出工具检索（Tool Retrieval）预览，可按需加载工具参数模式。",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌称，开启该功能只需在请求中加入tool_search工具，并对希望暂缓加载的工具设置defer_loading为true。",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "is_primary": true,
+      "published_at": "2026-11-20T02:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T02:00:00+08:00",
+  "updated_at": "2026-11-20T02:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Gemini API推出工具按需检索预览",
+  "lead_zh": "谷歌在Gemini Interactions API中推出工具检索预览，让智能体不必每次请求都发送全部工具参数模式，只需按需加载，以降低输入token并保持选工具准确度。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌宣布在Gemini API中推出工具检索（Tool Retrieval），目前以预览形式在Interactions API中提供。当智能体连接数十甚至上百个工具时，若每次请求都发送完整参数模式，会推高输入token、增加延迟，并随候选列表变长降低选工具准确度。",
+        "新能力让智能体把完整工具库留在待命状态，只在当前任务需要时加载参数模式。模型仍能看到每个被暂缓工具的名称和描述；需要某工具时，由接口在同一次请求内加载完整模式并完成函数调用。谷歌称无需自建或托管索引，搜索由服务端完成。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据谷歌称，开启方式是在请求中加入tool_search工具，并对希望暂缓加载的工具设置defer_loading为true。该机制可与前缀缓存配合：被暂缓的模式不会进入提示词开头，有助于跨轮次保持缓存前缀稳定；也可对远程MCP服务器设置该标志，按需加载其所暴露的全部工具。若维护自有工具注册表或权限过滤，还可将tool_search的execution设为client，由客户端检索。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    }
+  ],
+  "image_url": "img/66682dd752ff4ab8c9545d0fb00ace6dc66697b5.jpg",
+  "image_source": "Google AI Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

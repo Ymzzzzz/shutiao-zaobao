@@ -1,0 +1,67 @@
+{
+  "id": "n2fc737ddb995",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "科技博客梳理黄仁勋辞职及相关传闻时间线",
+  "original_title": "The unfolding Jensen Huang scandal: a timeline",
+  "summary": "科技博客TechCrunch梳理称，63岁的英伟达联合创始人黄仁勋近日承认对结婚40年的妻子不忠，并已辞去CEO职务；美国官员认为其中一名相关对象、Megaspeed高管Alice Huang是为中国提供信息的间谍。",
+  "facts": [
+    {
+      "text": "TechCrunch称，英伟达联合创始人、现已离任的CEO黄仁勋近日承认对结婚40年的妻子不忠，并已辞去CEO职务。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据美国官员称，黄仁勋的可能交往对象之一、Megaspeed高管Alice Huang是一名向北京回传信息的中国间谍；Alice Huang为中国公民，与黄仁勋没有亲属关系。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "is_primary": false,
+      "published_at": "2026-11-20T04:18:49+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T04:18:49+08:00",
+  "updated_at": "2026-11-20T04:18:49+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "科技博客梳理黄仁勋辞职及相关传闻时间线",
+  "lead_zh": "科技博客TechCrunch梳理称，英伟达联合创始人黄仁勋近日承认婚外情并已辞职；美国官员认为其中一名相关对象、Megaspeed高管Alice Huang是为中国提供信息的间谍。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "科技博客TechCrunch以时间线梳理相关事件称，63岁的英伟达联合创始人、现已离任的CEO黄仁勋近日承认对结婚40年的妻子不忠。总部位于新加坡的AI基础设施公司Megaspeed据报在过去两年采购了价值**48亿美元**的英伟达芯片；美国和新加坡都曾调查该公司是否非法向中国转移芯片，美国司法部已接手对它的联邦调查，《纽约时报》有相关报道。",
+        "周三，《纽约时报》引五名曾在英伟达工作的人士报道，黄仁勋还与直接向他汇报的医疗健康副总裁Kimberly Powell有婚外关系。英伟达、黄仁勋和Powell均未确认这一报道。记者联系黄仁勋时，对方据报称“我觉得你不该直接跟我谈”，随后挂断。到周四清晨，他已不再担任这家他参与创办**33年**的公司的CEO。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据美国官员的判断，黄仁勋的可能交往对象之一、Megaspeed高管Alice Huang是一名向北京回传信息的中国间谍；报道写明，Alice Huang为中国公民，与黄仁勋没有亲属关系。文章认为，这些事件可能超出个人生活，并触及美中竞逐先进AI基础设施时的国家安全议题。上述涉及间谍和职场关系的说法目前主要来自官员判断与媒体引述，相关方并未全部确认。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/7cc778d1943ec29b7f10cc5e5947f0d34ffde5dd.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

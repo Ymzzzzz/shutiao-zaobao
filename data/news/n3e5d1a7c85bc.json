@@ -1,0 +1,67 @@
+{
+  "id": "n3e5d1a7c85bc",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "阿莫代伊在开市铃前重申将按安全需要把握AI研发节奏",
+  "original_title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+  "summary": "科技博客TechCrunch报道，Anthropic CEO达里奥·阿莫代伊在纳斯达克开市铃前发表讲话，重申不会向商业或政治压力让步，并让系统“保持在人类控制之下”，讲话从父亲病逝谈起。",
+  "facts": [
+    {
+      "text": "在Anthropic于周四以史上最大规模IPO登陆华尔街之际，CEO达里奥·阿莫代伊在纳斯达克开市铃前发表讲话，重申负责任地发展AI。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据阿莫代伊称，公司不会向商业或政治压力让步，并将让系统“保持在人类控制之下”。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "is_primary": false,
+      "published_at": "2026-11-20T00:19:41+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T00:19:41+08:00",
+  "updated_at": "2026-11-20T00:19:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "阿莫代伊在开市铃前重申将按安全需要把握AI节奏",
+  "lead_zh": "科技博客TechCrunch报道，Anthropic CEO达里奥·阿莫代伊在纳斯达克开市铃前重申，公司不会向商业或政治压力让步，并将让系统“保持在人类控制之下”。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "科技博客TechCrunch报道，在Anthropic于周四以史上最大规模IPO登陆华尔街之际，CEO达里奥·阿莫代伊在纳斯达克开市铃前再次承诺负责任地发展AI。他照着打印稿开始讲话，先谈到公司创立是为了建设有助于人类的强大技术，并说这一想法受到父亲死于一种几年后才变得可治愈的疾病的启发。",
+        "他提到，人类智能已使瘟疫、天花和脊髓灰质炎在世界大部分地区成为历史，但在其他疾病领域，科学家仍然太少、时间不够。他认为AI可以与人类一起推动医学进展。今年9月，阿莫代伊曾公布把握研发节奏的计划，包括与其他领先公司协调安全标准，并引入第三方评估方核验承诺履行情况。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据阿莫代伊称，公司不会向商业或政治压力让步，并将让系统“保持在人类控制之下”。报道认为，他选择以可能拯救生命的应用开场，与他多次警告“推进过快有风险”的立场形成对照。文章并提及OpenAI的萨姆·奥特曼、Google DeepMind的德米斯·哈萨比斯以及xAI的埃隆·马斯克等行业人物同场比较的背景。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/b8bb064ce22d6460bf5712a674603fc5923210a1.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

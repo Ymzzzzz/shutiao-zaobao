@@ -1,0 +1,67 @@
+{
+  "id": "n44d231d9ee48",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "谷歌用超导量子处理器演示魔方博弈超越经典极限",
+  "original_title": "A game you cannot win unless you have a quantum computer",
+  "summary": "谷歌研究博客介绍发表于《科学》的工作：在Willow处理器上让量子比特以98.30%的胜率完成“魔方博弈”，超过经典策略至多88.89%的上限，并在最多105个量子比特的任务中胜过经典方法。",
+  "facts": [
+    {
+      "text": "谷歌团队在《科学》发表论文，于Willow超导量子处理器上演示并测量量子语境性，魔方博弈胜率为98.30%。",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌研究团队称，当九种博弈各进行10万次时，量子比特约每60次输掉1次，胜率为0.9830±0.0001，显著优于任何预先写好的表格。",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google Research Blog",
+      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+      "is_primary": true,
+      "published_at": "2026-11-20T04:03:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T04:03:00+08:00",
+  "updated_at": "2026-11-20T04:03:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌用量子处理器演示魔方博弈超越经典极限",
+  "lead_zh": "谷歌研究团队在《科学》发表论文，称其超导量子处理器在“魔方博弈”中胜率达98.30%，超过经典策略至多88.89%的上限，并在最多105个量子比特的任务中胜过经典方法。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌研究博客用一个3×3格子谜题引入“魔方博弈”：每行乘积须为+1、每列乘积须为-1，这样的表并不存在。博弈中，Alice拿到一行、Bob拿到一列，互不交流却要在交叉格填出相同数字；任何预先写好的表最多赢**9局中的8局**。若使用量子计算机，则原则上可以每局都赢，关键资源是量子语境性，而非通常更受关注的纠缠。",
+        "团队在发表于《科学》的论文中，于自家超导量子处理器上演示并测量语境性。在Willow处理器上，Alice与Bob各持两个量子比特、共享两对纠缠Bell对，量子比特赢下该博弈的比例为**98.3%**；九种版本各进行**10万**次后，胜率为**0.9830±0.0001**，约每**60**次输掉1次，超过经典策略至多**88.89%**的上限，并在最多**105**个量子比特的任务中胜过经典方法。"
+      ],
+      "sources": [
+        "Google Research Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究团队怎么说",
+      "paras": [
+        "据谷歌研究团队称，差距具有统计显著性：答案并非事先写在隐表里，而是在与同行或同列一起测量时才形成，共享纠缠使交叉格的答案能够一致。他们还表示，这类任务可成为对量子硬件更敏感的新基准，能发现随机线路测试不易察觉的细微错误。"
+      ],
+      "sources": [
+        "Google Research Blog"
+      ]
+    }
+  ],
+  "image_url": "img/3f4efbbb2b7182c47480264d6f1ed05b5b344d6f.jpg",
+  "image_source": "Google Research Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/QuantumContextuality1-MagicSquareGame.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

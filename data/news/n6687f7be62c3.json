@@ -1,0 +1,45 @@
+{
+  "id": "n6687f7be62c3",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI介绍如何用Performance Factory保持ChatGPT速度",
+  "original_title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "summary": "OpenAI发文介绍其Performance Factory，称这是一套由Codex驱动的工作流系统，用于发现并修复性能问题，以帮助保持ChatGPT的响应速度。原文页目前无法打开。",
+  "facts": [
+    {
+      "text": "OpenAI发文介绍Performance Factory，称其为由Codex驱动、用于发现并修复性能问题的工作流系统，以帮助保持ChatGPT速度。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，Performance Factory是一套由Codex驱动的工作流，用于发现并修复性能问题，以帮助保持ChatGPT速度。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "is_primary": true,
+      "published_at": "2026-11-19T16:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T16:00:00+08:00",
+  "updated_at": "2026-11-19T16:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI介绍如何保持ChatGPT速度",
+  "lead_zh": "OpenAI发文介绍其Performance Factory，称这是一套由Codex驱动的工作流，用于发现并修复性能问题，以帮助保持ChatGPT的速度。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

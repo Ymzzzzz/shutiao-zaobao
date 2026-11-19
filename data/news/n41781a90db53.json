@@ -1,0 +1,67 @@
+{
+  "id": "n41781a90db53",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "报道称美国出口管制同时冲击芯片出货与海外云租用",
+  "original_title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
+  "summary": "The Decoder报道，更严的美国AI芯片出口管制迅速产生影响：月之暗面取消在印尼约1.5亿美元的云协议，台积电和三星近日暂停向部分中国客户发货，等待商务部许可。",
+  "facts": [
+    {
+      "text": "The Decoder报道，北京创业公司月之暗面取消了与印尼一家东南亚云服务商约1.5亿美元的合同，并暂停其他洽谈。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据律师事务所Sidley Austin称，许可要求的门槛大约相当于300颗现代AI芯片，而中国实验室通常需要数千颗处理器。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
+      "is_primary": false,
+      "published_at": "2026-11-20T01:02:41+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T01:02:41+08:00",
+  "updated_at": "2026-11-20T01:02:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称美国出口管制同时冲击芯片出货与海外云租用",
+  "lead_zh": "The Decoder报道，更严的美国AI芯片出口管制正在同时冲击实物出货和海外云租用，月之暗面取消了在印尼约1.5亿美元的协议，台积电和三星也暂停向部分中国客户发货。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，更严格的美国AI芯片出口管制正在迅速产生影响。据《信息报》，总部位于北京的创业公司月之暗面（Moonshot AI）取消了与印尼一家东南亚云服务商约**1.5亿美元**的合同，并暂停其他洽谈。公司原计划明年在当地租用大批英伟达Blackwell Ultra B300，以训练下一代语言模型Kimi K4，并因算力需求同意预付约**50%**，高于行业常见的**15%**。",
+        "彭博社称，五家银行正考虑退出向新加坡云服务商Aolani提供的**4.8亿美元**贷款，该项目本计划在马来西亚为字节跳动提供英伟达芯片。《金融时报》则报道，台积电和三星近日暂停向部分中国客户发运某些处理器，以便申请商务部许可。文章还引《纽约时报》调查称，阿里巴巴曾通过一系列前线公司，把英伟达芯片转给中国军事研究人员。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据律师事务所Sidley Austin称，许可要求的门槛大约相当于**300**颗现代AI芯片，而中国实验室通常需要数千颗处理器。《信息报》还称，海外Blackwell芯片对月之暗面前作K3已很关键，该模型在7月曾追上美国顶尖模型，并触发美国商务部工业与安全局调查。伯恩斯坦分析师林清源等人则警告训练成本上升。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/26151a20ac204daba7d1f7c4f2293a78b517ab09.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

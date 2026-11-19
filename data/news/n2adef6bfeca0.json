@@ -1,0 +1,39 @@
+{
+  "id": "n2adef6bfeca0",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "艾萨克森对谈AI时代的好奇心与创造力",
+  "original_title": "Walter Isaacson on curiosity and creativity in the AI age.",
+  "summary": "传记作家沃尔特·艾萨克森做客谷歌节目《科技与社会对话》，与Kent Walker讨论达·芬奇、富兰克林和洛夫莱斯等历史创新者，如何启发AI时代的创造力与人类判断。",
+  "facts": [
+    {
+      "text": "谷歌在《科技与社会对话》新一期节目中，由Kent Walker与传记作家沃尔特·艾萨克森对谈AI时代的好奇心、创造力与人类判断。",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "is_primary": true,
+      "published_at": "2026-11-20T01:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T01:00:00+08:00",
+  "updated_at": "2026-11-20T01:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "艾萨克森对谈AI时代的好奇心与创造力",
+  "lead_zh": "传记作家沃尔特·艾萨克森做客谷歌节目《科技与社会对话》，与Kent Walker讨论达·芬奇、富兰克林和洛夫莱斯等历史创新者对AI时代创造力的启发。",
+  "body_zh": [],
+  "image_url": "img/72fb07e469d71b1e026f6466e06f06ceecd883a3.jpg",
+  "image_source": "Google AI Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

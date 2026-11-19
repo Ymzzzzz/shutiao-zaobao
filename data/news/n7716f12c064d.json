@@ -1,0 +1,67 @@
+{
+  "id": "n7716f12c064d",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌在首页加入可展开的AI对话侧栏",
+  "original_title": "Google is putting AI chats right on the homepage",
+  "summary": "谷歌产品副总裁Robby Stein在X上展示，用户可从首页打开可折叠侧栏，查看并继续AI模式搜索对话，也可发起新线程、搜索历史或连接Gemini Notebook，该功能正在全球桌面端推送。",
+  "facts": [
+    {
+      "text": "谷歌正在更新首页，使用户可以直接在首页发起和继续AI搜索对话。产品副总裁Robby Stein在X上展示了可折叠侧栏。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Stein称，人们来到搜索时提出的问题越来越不是“问一次就结束”，测试中这个侧栏对“继续推进并探索网络”有很大帮助。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "is_primary": false,
+      "published_at": "2026-11-20T04:05:06+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T04:05:06+08:00",
+  "updated_at": "2026-11-20T04:14:34+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌在首页加入可展开的AI对话侧栏",
+  "lead_zh": "谷歌正在更新首页，用户可打开可折叠侧栏查看并继续AI模式搜索对话，也可发起新线程或连接Gemini Notebook，该功能正在全球桌面端推送。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge报道，谷歌正在更新首页，把AI搜索对话直接放进这一长期只有一条搜索框的页面。产品副总裁Robby Stein在X上发帖展示：用户可打开可折叠侧栏，查看并继续自己的AI对话。根据他分享的动图，点击屏幕左侧灰色条即可展开侧栏，其中列出用AI模式做过的搜索，并可发起新线程、搜索已有线程，或连接Gemini Notebook。",
+        "谷歌去年已在搜索框加入AI模式按钮，可在站内打开类似聊天机器人的搜索体验；今年5月又调整搜索框以容纳更长查询，并加入AI自动补全。新的首页形态正在全球桌面端推送。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Stein称，谷歌推出这一选项，是因为“人们来到搜索时提出的问题，越来越不是问一次就结束”，并说“在测试中，这个侧栏对继续推进并探索网络有很大帮助”。报道把它视为谷歌首页近年来的又一次显著改动。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/13e97b270d856258836f0a2c5fd02a6aa85a2cd8.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

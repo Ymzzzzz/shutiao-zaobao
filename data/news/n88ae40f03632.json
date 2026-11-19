@@ -1,0 +1,67 @@
+{
+  "id": "n88ae40f03632",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "前阿里高管创立的Everful完成4850万美元融资",
+  "original_title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+  "summary": "科技博客TechCrunch报道，连接中小零售商与中国工厂的Everful完成4850万美元A轮融资，由Vertex Ventures东南亚及印度和January Capital领投，联合创始人宋思思称年底年化营收有望达1亿美元。",
+  "facts": [
+    {
+      "text": "总部位于旧金山和新加坡的Everful完成4850万美元A轮融资，由Vertex Ventures东南亚及印度和January Capital领投，Square Peg与Lightspeed跟投。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据联合创始人宋思思称，公司有望在年底达到1亿美元年化营收，每月向60多个国家运送超过500万件商品，并与超过3万家工厂合作。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "is_primary": false,
+      "published_at": "2026-11-20T01:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T01:00:00+08:00",
+  "updated_at": "2026-11-20T01:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "前阿里高管创立的Everful完成4850万美元融资",
+  "lead_zh": "科技博客TechCrunch报道，连接中小零售商与中国工厂的Everful完成4850万美元A轮融资，联合创始人宋思思称公司有望在年底达到1亿美元年化营收。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "科技博客TechCrunch报道，总部位于旧金山和新加坡、帮助较小零售商和品牌对接中国工厂、并管理从下单到交付流程的创业公司Everful，完成**4850万美元**A轮融资。本轮由Vertex Ventures东南亚及印度和January Capital领投，既有投资方Square Peg与Lightspeed跟投。",
+        "联合创始人是前阿里巴巴高管宋思思（Sisi Song）和曾把上一家公司卖给亚马逊的连续创业者Kevin Han，公司于**2024年**成立，先做珠宝批发，后扩展为多品类工厂直采平台。宋思思曾在Bessemer Venture Partners做跨境采购方向的投资。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "创始人怎么说",
+      "paras": [
+        "据宋思思称，公司有望在年底前达到**1亿美元**年化营收，距上线约两年半；每月向**60**多个国家运送超过**500万**件商品，合作工厂超过**3万**家，在线批发目录有逾**2000万**种产品。她认为，传统批发中间环节多、起订量高、周期长，容易在趋势尚未明朗时占用库存资金，Everful希望用启用AI的平台简化工厂直采。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/974022f6236fac8e82bcabeea723110f8404a0e7.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

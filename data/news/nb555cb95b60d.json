@@ -1,0 +1,67 @@
+{
+  "id": "nb555cb95b60d",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊卖家可在AWS Quick中管理整盘销售业务",
+  "original_title": "Run your whole selling business in AWS Quick",
+  "summary": "AWS宣布在Quick中上线Selling Partner插件测试版，可把销售、库存和市场信息集中到一处。全球主卖家账户在2026年12月31日前可领取12个月Quick Plus及10个附加用户。",
+  "facts": [
+    {
+      "text": "亚马逊在2026年9月23日的Amazon Accelerate大会上宣布Selling Partner插件，并在AWS Quick中以测试版上线。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，全球每位主卖家账户持有人可在2026年12月31日前领取12个月免费的AWS Quick Plus，并可授权10名额外用户。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
+      "is_primary": true,
+      "published_at": "2026-11-20T06:16:22+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T06:16:22+08:00",
+  "updated_at": "2026-11-20T06:16:22+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊卖家可在AWS Quick中管理整盘销售业务",
+  "lead_zh": "AWS宣布在Quick中上线Selling Partner插件测试版，把销售、库存和市场信息集中到一处；全球主卖家账户可在年底前领取一年免费Quick Plus。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS发文介绍，Quick与亚马逊Selling Partner插件把卖家的销售数据、库存信号和市场信息集中到一处，使问题能变成答案、答案能变成行动。该组合运行在AWS上，也是亚马逊运营自有商城所使用的同一类基础设施。亚马逊在**2026年9月23日**的Amazon Accelerate大会上宣布该插件，并在AWS Quick中以测试版上线。",
+        "文章还给出限时优惠：全球每位主卖家账户持有人可在**2026年12月31日**前领取**12个月**免费的AWS Quick Plus，并可为**10名**额外授权用户开通访问。文中称，Quick会连接库存源、销售数据和运营文档，形成对目录结构、利润阈值、季节性和竞争位置的持续理解，而不必在每次对话中重新解释业务背景。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AWS称，多数卖家并不需要再学一款AI产品，而是要把已经在用的工具和信息收拢到一起，以便看清业务并采取行动。它列举了四项适配点：了解业务而不只是提示词、能力可延伸到亚马逊店铺之外、把数据变成决策，以及在卖家已信任的基础设施上保护数据。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/c57be9cb3718e49d5190da1f933d1d1154e59195.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22255-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "n6d6821f501bb",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": false,
+  "title": "谷歌为Mac版Gemini加入电脑操控能力",
+  "original_title": "Google gives Gemini the ability to use your Mac for you",
+  "summary": "谷歌宣布在macOS版Gemini桌面应用中加入电脑操控功能，可代为整理文件、填写表格并完成后台多步操作，目前仅面向美国英语用户，并需订阅Google AI相应套餐。",
+  "facts": [
+    {
+      "text": "谷歌周四宣布，在macOS版Gemini桌面应用中加入电脑操控功能，可在原生Mac应用中操作并在后台浏览网页。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌称，该功能可用于填写表格、批量重复处理文件、按条件整理文件夹，以及根据文件或在线看板生成幻灯片等。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "is_primary": false,
+      "published_at": "2026-11-20T02:09:11+08:00"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "is_primary": false,
+      "published_at": "2026-11-20T02:21:13+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T02:09:11+08:00",
+  "updated_at": "2026-11-20T03:07:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌为Mac版Gemini加入电脑操控能力",
+  "lead_zh": "谷歌宣布在macOS版Gemini桌面应用中加入电脑操控功能，可代为整理文件、填写表格并完成后台多步工作流，目前仅面向美国英语用户。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌周四宣布，在macOS版Gemini桌面应用中加入电脑操控（computer use）功能，使其能够代用户完成任务：在原生Mac应用中操作，并在后台浏览网站。用户发出指令后，可在对话里看到智能体的实时预览，同时屏幕和光标仍可继续处理其他工作。",
+        "与其他电脑操控类智能体一样，用户可在操作发生前暂停、停止或批准Gemini的动作。该功能起步仅在美国以英语提供，需安装Mac版Gemini应用，并订阅Google AI Plus、Pro或Ultra。谷歌未说明何时扩展到其他市场或平台。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据谷歌称，该功能适合处理繁琐流程，例如填写表格、对一批文件重复同一操作、按特定条件把文件归入文件夹，以及根据文件或在线看板中的信息制作幻灯片。谷歌还于本周扩大推送应用内“Tasks”智能体功能，并在近日向早期测试者开放今年9月宣布的“CC”家庭组织智能体。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/1ee9183abe74ada753de2197fd6a3c87c0fffcfd.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

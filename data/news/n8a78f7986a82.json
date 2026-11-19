@@ -1,0 +1,73 @@
+{
+  "id": "n8a78f7986a82",
+  "category": "行业动态",
+  "importance": 2,
+  "verified": false,
+  "title": "消息称 Meta Muse Charm 售价约300美元",
+  "original_title": "Meta’s Muse Charm might cost $300",
+  "summary": "据《信息报》报道，Meta计划将可与Muse智能体对话的小屏配件Muse Charm定价为300美元，并搭配威瑞森一年免费5G流量，手表发布时间则推迟至2027年。",
+  "facts": [
+    {
+      "text": "据《信息报》报道，Meta计划将带屏幕、可与Muse智能体对话的配件Muse Charm定价为300美元。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Meta发言人Tyler Yee称，公司对外界关注其AI设备感到高兴，稍后会分享更多信息。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "is_primary": false,
+      "published_at": "2026-11-20T04:22:17+08:00"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "is_primary": false,
+      "published_at": "2026-11-20T05:58:06+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T04:22:17+08:00",
+  "updated_at": "2026-11-20T05:58:06+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "消息称 Meta Muse Charm 售价约300美元",
+  "lead_zh": "据《信息报》报道，Meta计划将可与Muse智能体对话的小屏配件Muse Charm定价为300美元，并搭配威瑞森一年免费5G流量。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据《信息报》报道，Meta计划将带屏幕、可与Muse智能体对话的配件Muse Charm定价为**300美元**。CEO马克·扎克伯格今年早些时候公布该设备，并表示公司期望“赶上12月假日季”发货，但当时未公布售价。",
+        "报道称，该设备带有指纹传感器，轻触即可与Muse智能体对话，无需解锁手机或打开应用；还将附带威瑞森（Verizon）**12个月**免费5G流量套餐。同篇报道提到，Meta也在开发智能手表，但为优先推出Charm，手表发布时间已推迟至**2027年**。Meta还开源了可自制Muse设备的代码。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Meta发言人Tyler Yee向《信息报》和The Verge称：“我们对外界关注我们的AI设备感到高兴，稍后会分享更多信息。”"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/85deb9dafad63c6dcfc4209b1bf8b9e2eb589135.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "nb5d53d2b7f78",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "Anthropic完成史上最大规模IPO，完全稀释估值约1.5万亿美元",
+  "original_title": "Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元",
+  "summary": "IT之家报道，Anthropic以813亿美元募资额登陆美股，打破SpaceX今年6月750亿美元的IPO纪录；发行价为每股83美元，完全稀释后市值约1.5万亿美元。",
+  "facts": [
+    {
+      "text": "IT之家报道，Anthropic以813亿美元募资额登陆美股，发行价每股83美元，完全稀释后市值约1.5万亿美元，打破SpaceX今年6月募资750亿美元的纪录。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/708.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Anthropic CEO达里奥·阿莫代伊称，今天的上市让公司的财务基础更加稳固，也让我们更加坚定了做正确事情的决心。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/029/708.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/029/708.htm",
+      "is_primary": false,
+      "published_at": "2026-11-19T23:50:53+08:00"
+    }
+  ],
+  "published_at": "2026-11-19T23:50:53+08:00",
+  "updated_at": "2026-11-19T23:50:53+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic完成史上最大规模IPO，估值约1.5万亿美元",
+  "lead_zh": "IT之家报道，Anthropic以813亿美元募资额登陆美股，打破SpaceX今年6月750亿美元的纪录，发行价每股83美元，完全稀释后市值约1.5万亿美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月19日报道，北京时间当晚，Anthropic登陆美股，以**813亿美元**募资额创下IPO历史纪录。当地时间18日，公司向承销商出售**9.8亿**股，扩大后的发行规模使募资总额达到这一水平，打破SpaceX今年6月IPO募资**750亿美元**的纪录。发行价为每股**83美元**，完全稀释后市值约**1.5万亿美元**。",
+        "招股书显示，2026年上半年营收达**162亿美元**，高于2025年全年的**46亿美元**；同期亏损**800亿美元**，主要来自一笔一次性费用，前九个月累计亏损扩大至**1040亿美元**，其中算力支出约**188亿美元**。彭博社和路透社称，预计开盘后股价还可能上涨约20%，达到每股100美元左右。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "公司CEO达里奥·阿莫代伊在纳斯达克敲响开市钟，称：“今天的上市让公司的财务基础更加稳固，也让我们更加坚定了做正确事情的决心。”招股书还写道，开发前沿模型需要大量算力、资金和人力，大规模训练可能持续数周甚至数月，每次费用可能高达数百万美元，并披露了模型可能被用于开发生物武器等风险。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
