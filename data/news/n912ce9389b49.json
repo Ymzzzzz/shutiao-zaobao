@@ -1,0 +1,66 @@
+{
+  "id": "n912ce9389b49",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "科技媒体推荐六款用于家庭办公的人工智能设备",
+  "original_title": "Six AI-powered gadgets that could make your home office smarter",
+  "summary": "TechCrunch介绍了六款面向家庭办公的人工智能设备，包括售价159美元的智能录音笔和胸针、99美元的快捷键盘、479美元的彩色电纸本、249美元的追踪摄像头，以及499美元的智能升降桌。",
+  "facts": [
+    {
+      "text": "TechCrunch盘点了六款家用办公人工智能设备，价格从99美元的键盘到499美元的升降桌不等。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+    },
+    {
+      "text": "其中包括可录音转写的Flowtica笔和Anker胸针、罗技AI快捷键盘、带整理笔记功能的彩色Kindle Scribe，以及可自动取景的Insta360摄像头和能提醒变换姿势的桌子。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "is_primary": false,
+      "published_at": "2026-11-20T22:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T22:00:00+08:00",
+  "updated_at": "2026-11-20T22:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "媒体推荐六款用于家庭办公的人工智能设备",
+  "lead_zh": "科技媒体介绍了六款家用办公设备，包括智能录音笔、快捷键盘、彩色电纸本、自动追踪摄像头和能提醒变换姿势的升降桌，售价从99美元到499美元不等。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch盘点了六款面向家庭办公的人工智能设备：Flowtica Scribe Pen售**159美元**，可手写并录音，内置32GB存储，能识别最多15名说话人、支持92种语言；Anker Soundcore Work胸针同样标价**159美元**（报道称促销价**99美元**），单次充电可录约8小时，配合充电盒可达32小时，并提供每月**300分钟**免费转写。",
+        "其余四款为：罗技MX Keypad售**99美元**，可给GitHub Copilot、Claude Code等设置快捷键；亚马逊Kindle Scribe Colorsoft起售**479美元**，可用人工智能整理手写笔记；Insta360 Link 2 Pro摄像头售**249美元**，支持4K和自动追踪；Autonomous Desk Pro升降桌售**499美元**，能监测坐站时间并提醒活动，还可查询室内二氧化碳等信息。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "附加说明",
+      "paras": [
+        "Anker还提供可选订阅，报道列出的方案包括每年**99美元**的Pro和每年**239美元**的Unlimited。这是一份产品推荐稿，所列价格和促销信息以商家当时标价为准，文中没有提供独立评测数据。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/720829db157296de4ab746e7341a16ac35c55862.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

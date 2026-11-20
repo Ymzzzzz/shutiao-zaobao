@@ -1,0 +1,72 @@
+{
+  "id": "n9c1a23941867",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "华为星芒首发功能确认，Mate系列暂不支持AI屏和小星芒",
+  "original_title": "独占特性确认：华为 Mate 系列旗舰机“无缘”OSTA 小星芒、AI 屏等功能",
+  "summary": "华为星芒OSTA O1 Pro已发布，叠加国补后4999元起，最受欢迎的16G版本据称已在全平台售罄。品牌总经理刘赫表示，Mate旗舰没有AI屏和小星芒等星芒首发功能。",
+  "facts": [
+    {
+      "text": "华为星芒OSTA O1 Pro已于11月20日发布，叠加国补后4999元起；品牌总经理刘赫称最受欢迎的16G版本已在全平台售罄。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/284.htm"
+    },
+    {
+      "text": "刘赫在微博评论区表示，Mate系列没有AI屏和小星芒；新图标有望后续向其他系列开放，但这两项功能暂无相关计划。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/284.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据刘赫称，Mate旗舰没有AI屏和小星芒。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/284.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/284.htm",
+      "is_primary": false,
+      "published_at": "2026-11-21T03:20:43+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T03:20:43+08:00",
+  "updated_at": "2026-11-21T03:20:43+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "华为确认Mate系列暂不支持星芒AI屏等功能",
+  "lead_zh": "华为星芒OSTA O1 Pro已发布，叠加国补后4999元起。品牌总经理刘赫表示，Mate旗舰没有AI屏和小星芒等星芒首发功能。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月21日消息，首款为人工智能打造的鸿蒙手机华为星芒OSTA O1 Pro已于昨日下午发布，叠加国补后**4999元**起。华为星芒品牌总经理刘赫开通微博，并称最受欢迎的**16G**版本已经在全平台售罄。",
+        "针对星芒首发新功能能否通过系统更新提供给华为Mate系列，刘赫在评论区回应：不会把默认图标放给Mate系列；并开玩笑后补充，他的AI屏和星芒他们是没有的。IT之家据此写道，全新设计图标、AI屏和小星芒为独占特性，新图标有望后续开放给其他系列，但AI屏和小星芒暂时没有相关计划。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "和其他机型的差别",
+      "paras": [
+        "IT之家称，华为Mate 90系列和Pura X View已推送鸿蒙HarmonyOS **7.0.0.115**升级，带来了AI快捷栏，但与星芒手机的功能有所差异，外观设计思路也不同。刘赫还称，16G版本销量远超预期。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/ab3986562fd17192f8d11ccf0f266bde04019a88.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/3ce098ae-82ff-4444-8dc9-6dc462026b7c.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

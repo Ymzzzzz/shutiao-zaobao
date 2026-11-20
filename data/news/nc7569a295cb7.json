@@ -1,0 +1,66 @@
+{
+  "id": "nc7569a295cb7",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "月之暗面编程智能体新版可用AWS凭证连接Bedrock",
+  "original_title": "Use Kimi Code CLI with models on Amazon Bedrock",
+  "summary": "月之暗面开源编程智能体Kimi Code CLI在2.7.0中加入原生Amazon Bedrock提供方，可用AWS标准凭证链连接Kimi K3.1 Pro等模型，不必再单独管理API密钥。",
+  "facts": [
+    {
+      "text": "月之暗面开源编程智能体Kimi Code CLI在v2.7.0中加入原生Amazon Bedrock提供方，可通过AWS标准凭证链连接Kimi K3.1 Pro等模型。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/"
+    },
+    {
+      "text": "AWS博文以Kimi K3.1 Pro Highspeed为例，说明该模型支持流式输出、可配置推理、图像输入和客户端工具调用，并可通过全球推理配置访问。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+      "is_primary": true,
+      "published_at": "2026-11-20T08:33:30+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T08:33:30+08:00",
+  "updated_at": "2026-11-20T08:33:30+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "月之暗面编程智能体可用云凭证直连Bedrock",
+  "lead_zh": "月之暗面开源编程智能体最新版加入亚马逊云原生接口，可用标准云凭证连接其大模型，不必再单独管理密钥。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS博文介绍，月之暗面推出的开源编程智能体Kimi Code CLI在**v2.7.0**中增加了原生的Amazon Bedrock提供方。此前要把该智能体连到Bedrock上的模型，需要配置通用提供方并单独使用Bedrock API密钥；现在可以用AWS标准凭证链，包括命名配置文件和单点登录，而不必再管理额外密钥。",
+        "文章以Kimi K3.1 Pro Highspeed为例演示配置和首次请求，并写明该模型支持流式输出、可配置推理、图像输入和客户端工具调用。示例使用全球推理配置global.moonshotai.kimi-k3.1，由AWS_REGION决定接收请求的区域端点。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "平台怎么说",
+      "paras": [
+        "AWS称，Bedrock按token计费提供多种开放和专有模型，处理留在AWS数据边界内，具体能力以各模型卡片为准。博文建议在使用前查阅Bedrock定价，以了解预期成本。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/587d4b1e5ab7e606bd944500166736a784e19a8c.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22481-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

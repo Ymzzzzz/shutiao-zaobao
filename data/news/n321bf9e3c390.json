@@ -1,0 +1,72 @@
+{
+  "id": "n321bf9e3c390",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "黎曼猜想出现人工智能与人工两份声称证明",
+  "original_title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+  "summary": "TechCrunch报道，Anthropic数学家莱文特·阿尔波格称与Claude一起找到可在Lean中编译的黎曼猜想证明；与此同时，斯坦福博士后马苏洛也交出一份据称完全由人工完成的广义黎曼猜想证明草稿。",
+  "facts": [
+    {
+      "text": "Anthropic数学家莱文特·阿尔波格宣布，他找到了可在Lean中编译的黎曼猜想证明，并描述了与Claude共同完成论证的过程。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    },
+    {
+      "text": "斯坦福教授、美国数学协会会长Ravi Vakil同时公布了斯坦福博士后Alessandro Masullo撰写的广义黎曼猜想证明，并称该稿没有使用人工智能。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据报道称，Zulip讨论中包括麻省理工学院数学家Andrew Sutherland在内的多人表示，已成功确认阿尔波格的证明可以编译通过。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "is_primary": false,
+      "published_at": "2026-11-21T03:32:08+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T03:32:08+08:00",
+  "updated_at": "2026-11-21T03:32:08+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黎曼猜想出现人工智能与人工两份声称证明",
+  "lead_zh": "Anthropic数学家宣称与Claude完成可在Lean中编译的黎曼猜想证明；同时有斯坦福博士后交出一份据称完全由人工完成的广义黎曼猜想证明草稿。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch报道，Anthropic数学家莱文特·阿尔波格在公司上市同一周宣布，他找到了可在Lean中编译的黎曼猜想证明。该猜想提出于**1859年**，是千禧年大奖难题之一。他写道，上周日晚曾向首席执行官达里奥·阿莫代伊询问如何公布这一结果，并形容与Claude一起找齐论证各部分的过程。",
+        "与此同时，斯坦福教授、美国数学协会会长Ravi Vakil公布了斯坦福博士后Alessandro Masullo撰写的广义黎曼猜想证明，并注明“完全由人工完成，没有使用人工智能”。马苏洛称这是**12年**工作的成果。该稿尚未写成Lean，因此还不能判断是否成立。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "进展如何",
+      "paras": [
+        "报道称，数学界要完全把握这份证明仍需时日，但多数人看起来对形式化的Lean结果有信心。Zulip讨论中，包括麻省理工学院数学家Andrew Sutherland在内的多人表示，已成功确认阿尔波格的证明可以编译通过。稿件已更新，以写明该Lean证明已由独立来源检查。阿尔波格还与纽约大学的特里斯坦·巴克马斯特公布了另一项与纳维-斯托克斯方程相关的证明。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/43de2bcadf99bee22a6dfe78a10516c97e73489a.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

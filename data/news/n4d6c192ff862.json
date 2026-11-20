@@ -1,0 +1,72 @@
+{
+  "id": "n4d6c192ff862",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌搜索首页改版：增加AI入口并去掉搜索按钮",
+  "original_title": "Google rolls out new search homepage with AI chat history and no search button",
+  "summary": "Ars Technica报道，谷歌桌面搜索首页改版已正式推开。搜索栏下方新增图像生成、分析文件和与Gemini头脑风暴等按钮，保留“手气不错”，但去掉了专门的搜索按钮。",
+  "facts": [
+    {
+      "text": "谷歌桌面搜索首页改版在测试数周后正式推出，搜索栏下方增加与AI功能相关的按钮，并去掉了原来的搜索按钮。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+    },
+    {
+      "text": "谷歌搜索副总裁Robby Stein在X上确认正在部署新页面；“手气不错”按钮保留，新增图像生成、分析文件和与Gemini头脑风暴等入口。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+    }
+  ],
+  "claims": [],
+  "analysis": [
+    {
+      "text": "Ars Technica认为，搜索按钮在现代界面里并不好用，因为自动补全会挡住它，用户必须先点出输入框才能点到，比直接按回车还多一步。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "is_primary": false,
+      "published_at": "2026-11-21T05:58:29+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T05:58:29+08:00",
+  "updated_at": "2026-11-21T05:58:29+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌搜索首页改版：增加AI入口并去掉搜索按钮",
+  "lead_zh": "谷歌桌面搜索首页改版正式推开，搜索栏下方新增图像生成、分析文件和与Gemini讨论等按钮，同时去掉了专门的搜索按钮。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Ars Technica报道，谷歌桌面版搜索首页的改版在测试数周后已正式推出。新页面让用户更容易进入人工智能对话，并彻底去掉了专门的搜索按钮。谷歌搜索副总裁Robby Stein在X上确认，测试成功后正在部署新的桌面搜索页。",
+        "搜索栏下方将出现更多按钮，均与人工智能功能相关，包括图像生成、分析文件，以及与Gemini一起头脑风暴。“手气不错”按钮仍然保留，但原先与它并排的搜索按钮已经取消。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "Ars Technica写道，搜索按钮虽然长期存在，但在现代界面里并不好用：一旦开始输入，自动补全会挡住该按钮，用户必须先点出输入框才能点到它，比直接按回车搜索还多一步。报道认为，谷歌旗舰搜索正在迅速变成一种人工智能体验。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

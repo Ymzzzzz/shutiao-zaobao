@@ -1,0 +1,72 @@
+{
+  "id": "ndc26abff6344",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "标准银行与AWS合作为生成式AI自动做风险评估",
+  "original_title": "How Standard Bank Group automates AI risk assessment for generative AI",
+  "summary": "南非标准银行集团与AWS专业服务合作，在自有账户内部署自动评估，用云上大模型评审为生成式AI用例打分。该行称审评由约两周缩短到约两小时，整改后评分改善了14%。",
+  "facts": [
+    {
+      "text": "标准银行集团与AWS专业服务合作，在自有AWS账户内部署自动评估，按国际AI标准和自身政策为每个生成式AI用例打分。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/"
+    },
+    {
+      "text": "银行称，在六次评估中，传统约两周的人工审评缩短为约两小时生成综合风险报告，整改后用例风险评分改善14%。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据标准银行集团称，该评估把审查时间从传统约两周缩短到约两小时，并在整改后使用例风险评分改善14%。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+      "is_primary": true,
+      "published_at": "2026-11-21T04:37:31+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T04:37:31+08:00",
+  "updated_at": "2026-11-21T04:37:31+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "标准银行与AWS合作为生成式AI自动评估风险",
+  "lead_zh": "标准银行集团与AWS专业服务合作，在自有账户内部署自动评估，称已把生成式AI用例审评从约两周缩短到约两小时。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "标准银行集团与AWS专业服务合作，在该行自有云账户内部署了一套自动评估：按国际人工智能标准及银行自身政策，为每个生成式人工智能用例打分，并向风险委员会提供可追溯的证据、报告和仪表盘，用于显示已具备的能力、运行良好的部分以及仍需整改的问题。",
+        "评估使用Amazon Bedrock上的“LLM作为评委”。每项检查会映射到国际AI管理、风险或安全标准中的控制项，银行还加入依据自身标准编写的评委问题，检查总数超过**300**项，并覆盖AWS负责任AI的八个维度。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "效果如何",
+      "paras": [
+        "标准银行集团称，在**六**次评估中，传统约两周的人工审评被缩短为约**两小时**即可生成综合风险报告，整改后用例风险评分改善了**14%**。该博文由AWS的Tala Qraitem与标准银行集团的Jörg Fischer共同撰写。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/0b5aed301ec3d060d13a67161827c559248ff2ee.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22493-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

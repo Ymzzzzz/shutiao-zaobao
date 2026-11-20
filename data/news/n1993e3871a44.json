@@ -1,0 +1,66 @@
+{
+  "id": "n1993e3871a44",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "SageMaker HyperPod增强可观测性，便于诊断GPU训练问题",
+  "original_title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+  "summary": "AWS为SageMaker HyperPod推出增强可观测性，面向EKS和Slurm上的训练任务，汇总诊断与分析能力，默认指标每30秒采集一次，CPU开销约1%至2%。",
+  "facts": [
+    {
+      "text": "Amazon SageMaker HyperPod新增增强可观测性，把EKS和Slurm上训练任务的诊断与分析能力整合在一起，用于更快定位GPU、网络和主机层问题。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/"
+    },
+    {
+      "text": "默认指标每30秒采集一次，AWS称CPU开销约1%至2%，内存占用约250至300MB。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+      "is_primary": true,
+      "published_at": "2026-11-21T02:24:06+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T02:24:06+08:00",
+  "updated_at": "2026-11-21T02:24:06+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "SageMaker HyperPod增强可观测性以诊断训练故障",
+  "lead_zh": "AWS为SageMaker HyperPod推出增强可观测性，面向EKS和Slurm上的训练任务，默认指标每30秒采集一次，称CPU开销约1%至2%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS宣布Amazon SageMaker HyperPod新增增强可观测性，把运行在Amazon EKS和Slurm上的训练任务的诊断与分析能力整合在一起，用于更快定位GPU、网络和主机层的问题。AWS写道，大规模训练中单个不健康加速器就可能让整场分布式作业停滞。",
+        "诊断摘要使用Amazon CloudWatch的DetectGroupOutliers接口，比较同一训练任务中各GPU的利用率、内存、温度、功耗和SM时钟，标记偏离同伴的GPU。静态诊断规则可揭示XID错误、ECC内存错误、EFA吞吐下降、热节流和过热等常见故障模式。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "开销如何",
+      "paras": [
+        "AWS称，默认指标会自动启用，覆盖集群健康、CPU与磁盘及操作系统用量、GPU利用率和温度，以及按作业的资源使用情况。这些指标每**30秒**采集一次，并发送到用户选择的指标存储，CPU开销约**1%至2%**，内存约**250至300MB**。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/ba2b1f413067f233a633905558935a74df01debd.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22438-featured-image-1.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

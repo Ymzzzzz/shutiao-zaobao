@@ -1,0 +1,66 @@
+{
+  "id": "n211fbe8009a4",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Hugging Face介绍harness适配器，用强化学习提升智能体表现",
+  "original_title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "summary": "Hugging Face介绍为智能体运行框架训练LoRA适配器的方法。以Qwen3.8-27B为例，在pi框架上通过率由39%升至55%，平均每任务token由2.9K降至1.5K。",
+  "facts": [
+    {
+      "text": "Hugging Face介绍在冻结基座模型权重后，针对特定智能体运行框架用强化学习训练LoRA适配器，以提升该框架和任务上的准确率并降低token用量。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+    },
+    {
+      "text": "以Qwen3.8-27B为例，在pi框架上基准通过率为39%、平均每任务约2.9K token；加上强化学习训练的LoRA后，pass@1达到55%，平均token降至约1.5K。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "is_primary": true,
+      "published_at": "2026-11-20T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T08:00:00+08:00",
+  "updated_at": "2026-11-20T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Hugging Face介绍为智能体框架训练适配器的方法",
+  "lead_zh": "Hugging Face介绍用强化学习为特定运行框架训练适配器。以27B模型为例，在pi框架上通过率由39%升至55%，平均token用量约降一半。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Hugging Face发文介绍“harness适配器”：模型并非针对每一种智能体运行框架都做了充分优化。研究者在冻结基座权重后，用强化学习训练定制的LoRA适配器，使模型在特定框架和任务分布上更准、更省token。",
+        "文章举例，Qwen3.8-27B在pi框架上的Terminal-Bench 2.1得分为**39%**，平均每任务约**2.9K** token；加上强化学习训练的LoRA后，pass@1达到**55%**，平均token用量降至**1.5K**。作者将其主要归因于模型减少推理和工具调用，并提高一次做对的比例。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "实验范围",
+      "paras": [
+        "作者称，他们为Qwen3.8-27B分别在pi、Hermes Agent和OpenCode三种框架内用强化学习各训练了一个LoRA适配器，任务来自Hugging Face Hub以及Repo2RLEnv中的Tasksmith流水线，每道题都经过开放环境校验，并用同一基座模型做难度筛选。文章还提供了可复用的训练配方。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/01150b48195ab5a41893f6396c974afd6224a7b4.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

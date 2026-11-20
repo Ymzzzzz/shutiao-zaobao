@@ -1,0 +1,72 @@
+{
+  "id": "n08401912b13f",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI称提取最新模型内部推理的成功率大幅下降",
+  "original_title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+  "summary": "The Decoder报道，OpenAI加强对GPT-6.2 Astra和Sol内部推理的防护。内部测试显示，提取先前请求受保护推理的成功率由54.0%降至0.2%，进行中请求则由22.9%降至0.9%。",
+  "facts": [
+    {
+      "text": "The Decoder报道，OpenAI加强对GPT-6.2 Astra和GPT-6.2 Sol内部推理的防护，内部测试显示提取先前请求受保护推理的成功率由54.0%降至0.2%。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/"
+    },
+    {
+      "text": "对进行中请求的攻击成功率由22.9%降至0.9%；公司还称每周因协同蒸馏行动暂停数千到数万个账户。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/"
+    }
+  ],
+  "claims": [],
+  "analysis": [
+    {
+      "text": "报道称Anthropic也在打击系统性蒸馏，每周封禁数万个账户，并据称在90%到99%的情况下取得成功。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+      "is_primary": false,
+      "published_at": "2026-11-21T04:31:50+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T04:31:50+08:00",
+  "updated_at": "2026-11-21T04:31:50+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称OpenAI大幅降低内部推理被提取成功率",
+  "lead_zh": "The Decoder报道，OpenAI加强对最新模型内部推理的防护，内部测试显示提取先前请求受保护推理的成功率由54.0%降至0.2%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder根据OpenAI的说明报道，公司已显著加强对GPT-6.2 Astra和GPT-6.2 Sol内部推理的防护。在内部自动化测试中，从先前请求中提取受保护推理的攻击成功率，由GPT-6 Astra上的**54.0%**降至GPT-6.2 Astra上的**0.2%**；对进行中请求的攻击成功率则由**22.9%**降至**0.9%**。公司还表示，部分改进也将用于GPT-6 Astra。",
+        "防护分两层：对单次请求，结合针对性训练、对消息和工具调用的输入输出过滤，以及阻止旧模型读取受保护推理的接口限制；对协同行动，OpenAI每周封禁数千到数万个账户。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "业界对照",
+      "paras": [
+        "报道称，Anthropic也在打击系统性蒸馏攻击，同样会封禁数万个账户以遏制内部推理被窃，并据称在**90%到99%**的情况下取得成功。Anthropic还呼吁行业和政策制定者采取协调应对。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/82d4cb7845ff2c7819aec359d3e2bf052ee854ef.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/02/ai_model_distill.jpeg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

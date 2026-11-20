@@ -1,0 +1,72 @@
+{
+  "id": "n8bc8fed2fbe6",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "Meta重估2030净零目标，2025年排放量约增四成",
+  "original_title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+  "summary": "Meta在2026年可持续发展报告中称将重新评估2030年净零排放时间表。报告显示公司总排放量由2024年的1560万吨二氧化碳当量增至2025年逾2170万吨，约增40%。",
+  "facts": [
+    {
+      "text": "Meta在11月19日发布的2026年可持续发展报告中表示，将重新评估包括2030年净零排放目标在内的时间表和阶段性目标。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    },
+    {
+      "text": "报告称总排放量由2024年的1560万吨二氧化碳当量增至2025年逾2170万吨，同比约增40%，为美国四大科技公司中最高增幅。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Meta数据中心副总裁和净零事务负责人在报告中称，长期愿景未变，但运行环境已变，人工智能基础设施需求增长快于几乎所有人的预期。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "is_primary": false,
+      "published_at": "2026-11-21T05:47:10+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T05:47:10+08:00",
+  "updated_at": "2026-11-21T05:47:10+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Meta重估2030净零目标，去年排放量约增四成",
+  "lead_zh": "Meta在最新可持续发展报告中称将重新评估2030年净零时间表。报告显示总排放量由2024年1560万吨增至2025年逾2170万吨二氧化碳当量。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Ars Technica报道，Meta在2026年11月19日发布的可持续发展报告中表示，将重新评估时间表、顺序和阶段性目标，包括**2030年**实现净零排放的时间范围及近期强度目标。报道称，亚马逊、谷歌和微软迄今仍坚持原有可持续目标。",
+        "报告描述，公司总排放量由2024年的**1560万**吨二氧化碳当量增至2025年逾**2170万**吨，同比增幅近**40%**，为美国四大科技公司中最高的年度增幅。同期微软、谷歌和亚马逊分别报告了**25%**、**18%**和**16%**的增幅。计入碳移除等努力后，Meta的净排放仍由逾**810万**吨增至逾**1180万**吨，增幅**45%**。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Meta数据中心副总裁Rachel Peterson与全球净零和可持续发展负责人Blair Swedeen在报告引言中称，“长期愿景没有改变，但运行环境已经改变”，并将需求归因为人工智能基础设施增长快于几乎所有人的预期。设施用水量由2024年的**8.25亿**加仑降至2025年的**7.90亿**加仑，但缺水地区用水量由**1.98亿**加仑升至**2.46亿**加仑。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/350e9eacdd15646791b4250738ca0b98e8462fe1.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

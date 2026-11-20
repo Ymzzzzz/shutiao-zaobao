@@ -1,0 +1,72 @@
+{
+  "id": "nff3559dcabff",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Signal限制手机截屏，阻止Gemini和Siri等读取聊天内容",
+  "original_title": "Signal is blocking Gemini and Siri AI from reading your screen",
+  "summary": "Signal总裁梅雷迪思·惠特克在博客中表示，操作系统里会分析屏幕内容的智能体正在削弱该应用独立保障隐私的能力。Signal因此在iOS 27和安卓上限制截屏，用户仍可在设置中恢复，但会带来暴露风险。",
+  "facts": [
+    {
+      "text": "Signal开始在安卓和iOS上限制截屏，以阻止操作系统中的人工智能智能体读取用户消息和其他数据。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+    },
+    {
+      "text": "在iOS 27和安卓上，这一限制应可阻止Siri、Gemini等助手读取屏幕内容；用户可在应用设置中恢复截屏，但会被警告存在暴露风险。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Signal总裁梅雷迪思·惠特克称，操作系统级智能体正在削弱该应用独立保障隐私的能力，构成对应用层隐私的生存威胁。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "is_primary": false,
+      "published_at": "2026-11-20T20:30:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T20:30:47+08:00",
+  "updated_at": "2026-11-20T22:36:42+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Signal限制手机截屏，阻止系统智能体读取聊天",
+  "lead_zh": "Signal在iOS 27和安卓上限制截屏，以阻止Siri、Gemini等系统智能体读取聊天。其总裁称，这类能力正在削弱应用独立保障隐私的能力。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge报道，Signal开始限制在安卓和iOS设备上截屏，以防止人工智能智能体读取用户的消息和其他数据。该应用在iOS **27**和安卓上封锁截屏，从而应能阻止Siri、Gemini以及其他安卓人工智能助手读取屏幕内容。用户仍可在应用设置中恢复截屏功能，但会被警告这样做可能把你和联系人的内容暴露给这些智能体。",
+        "Signal去年曾用类似方法阻止微软有争议的Recall功能捕获加密聊天。文章写道，由于缺乏关于智能体如何访问应用数据的可用信息，该应用表示很难找到更好的方案，并呼吁苹果、谷歌和微软提供简单的技术工具。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Signal总裁梅雷迪思·惠特克在博客中称，操作系统里会分析屏幕信息以了解用户的智能体能力，正在“削弱Signal独立保障隐私的能力”。她还说，即便能够检测并阻断访问，这些系统厂商也没有让开发者可以在不严重损害核心体验的前提下轻松限制访问的方法，并称Signal是矿井里的金丝雀，但整个生态系统都会受到影响。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/2839d8575870291d9bacc77bc3fccb31bfa5a540.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0%2C3.8035109331691%2C100%2C92.392978133662&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

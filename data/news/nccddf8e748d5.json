@@ -1,0 +1,72 @@
+{
+  "id": "nccddf8e748d5",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "三星高管称新兴云服务风险有限，人工智能投资基于实际需求",
+  "original_title": "三星电子高管：Neocloud 风险有限，AI 投资基于实际需求",
+  "summary": "据路透社报道，三星电子两位高管在摩根士丹利会议上表示，新兴人工智能云服务企业的不确定性对整体市场影响有限，本轮投资基于实际需求而非投机，芯片短缺在可预见的未来仍将持续。",
+  "facts": [
+    {
+      "text": "三星电子两位高管在摩根士丹利会议上表示，新兴人工智能云服务企业（Neocloud）的不确定性对整体市场影响有限，本轮投资基于实际需求而非投机。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/247.htm"
+    },
+    {
+      "text": "半导体部门负责人称此类企业市场份额约8%；晶圆代工销售主管称芯片短缺在可预见的未来仍将持续。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/247.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据三星高管称，对Neocloud的担忧不会对人工智能整体发展轨迹构成重大威胁。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/247.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/247.htm",
+      "is_primary": false,
+      "published_at": "2026-11-20T22:09:40+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T22:09:40+08:00",
+  "updated_at": "2026-11-20T22:09:40+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "三星高管称新兴云服务风险有限、投资基于需求",
+  "lead_zh": "三星电子高管在投资会议上表示，新兴人工智能云服务企业的不确定性对整体市场影响有限，本轮投资基于实际需求，芯片短缺短期内仍将持续。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月20日消息，据路透社当地时间**18日**报道，三星电子两位高管在本周举行的摩根士丹利会议上表示，新兴人工智能云服务企业（Neocloud）面临的不确定性对整体市场的影响有限，这轮人工智能投资基于实际需求而非投机。",
+        "三星设备解决方案部门经营战略总管负责人Kim Yong-kwan表示，Neocloud的市场份额仅约为**8%**，对此类企业的担忧不会对人工智能整体发展轨迹构成重大威胁。报道指出，这位高管并未详述作为市占计算基础的“市场”具体指什么。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "供需怎么看",
+      "paras": [
+        "三星晶圆代工销售营销主管Kang Suk-chae则认为，当前的人工智能投资热潮是结构性的，源自实在的需求而非投机冲动。他称，芯片短缺的局面“在可预见的未来仍将持续”，长期合同使供需双方之间的关系更加明朗。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/6ad3f3b8cff92c66a17d29705d7a0ad629a320ea.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/2abf7320-5af3-4bf1-8092-631a0123b87a.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

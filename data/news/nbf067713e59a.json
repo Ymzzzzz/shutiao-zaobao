@@ -1,0 +1,44 @@
+{
+  "id": "nbf067713e59a",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "AMD的XDNA2处理器率先获得Unsloth桌面软件适配",
+  "original_title": "AMD XDNA2 NPU 率先获得 Unsloth Desktop 适配，支持超百款智能体",
+  "summary": "AMD宣布，锐龙AI处理器上的XDNA 2神经处理单元成为首款获得Unsloth Desktop本地界面支持的NPU，从而可让超百款智能体在该单元上本地运行，并把相关负载从CPU和GPU上卸下。",
+  "facts": [
+    {
+      "text": "AMD宣布，锐龙AI处理器上的XDNA 2神经处理单元成为首款获得Unsloth Desktop本地界面支持的NPU。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/131.htm"
+    },
+    {
+      "text": "兼容应用通过该接口发出模型请求，由Lemonade和FastFlowLM在该NPU上处理推理，从而可运行超百款智能体。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/131.htm"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/131.htm",
+      "is_primary": false,
+      "published_at": "2026-11-20T17:13:35+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T17:13:35+08:00",
+  "updated_at": "2026-11-20T17:13:35+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AMD的专用处理器率先获得本地智能体软件适配",
+  "lead_zh": "AMD宣布，其锐龙人工智能处理器上的专用神经处理单元成为首款获得Unsloth桌面软件支持的产品，可让超百款智能体在本地运行并减轻处理器负担。",
+  "body_zh": [],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

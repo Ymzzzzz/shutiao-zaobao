@@ -1,0 +1,66 @@
+{
+  "id": "ncef6939d7b31",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "The Verge回顾本周大规模故障，并讨论黄仁勋事件后续",
+  "original_title": "The week everything fell apart",
+  "summary": "The Verge播客梳理了本周Outlook长时间故障、25年来第二次全国范围地面停飞、银行和iCloud服务中断等事件，并认为实际情况通常比阴谋论所说更温和，但问题叠加仍值得警惕。",
+  "facts": [
+    {
+      "text": "The Verge播客回顾本周出现的Outlook多日故障、25年来第二次全国范围地面停飞，以及银行和iCloud等服务中断。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+    },
+    {
+      "text": "主持人认为各起事件通常比阴谋论所说更温和，但在人工智能增多、人力减少的环境里，新问题可能更难修复。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "is_primary": false,
+      "published_at": "2026-11-20T22:06:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T22:06:59+08:00",
+  "updated_at": "2026-11-20T22:06:59+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "媒体回顾本周多项技术故障并讨论其影响",
+  "lead_zh": "The Verge播客梳理了本周电子邮件服务多日故障、25年来第二次全国范围地面停飞以及云服务中断等事件，并认为实际情况通常比传言更温和。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge在其Vergecast节目中回顾了“一切都出问题的一周”：Outlook出现持续数日的故障，航空方面出现**25年**来第二次全国范围地面停飞，银行系统一度像是停止运转，就连iCloud也未能保持稳定。主持人Nilay和David逐一讨论这些故障，试图说明每起事件实际发生了什么。",
+        "节目还谈到黄仁勋与英伟达风波的最新进展，称关注点正越来越少地停留在私生活指控上，而更多地转向据称向中国非法走私芯片的大生意。稿件写明，无论社交平台上有多少人呼吁，黄仁勋短期内都不会回到英伟达首席执行官的位置。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "主持人怎么看",
+      "paras": [
+        "主持人认为，这些事件通常比阴谋论所描绘的要温和得多，但许多小问题叠加起来仍值得担心。他们写道，在一个人工智能更多、人力更少的世界里，人们会看到新的问题类型，并且常常更难找到修复办法。该期为播客综述，并未在可见原文中给出各起故障的损失数字。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/03e365c1aa36e2b4ffeda6ccabf736fb8a922a08.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

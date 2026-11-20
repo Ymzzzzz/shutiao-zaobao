@@ -1,0 +1,72 @@
+{
+  "id": "n583b7a1c7413",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "METR更新时间跨度图：模型在需判断的任务上仍落后",
+  "original_title": "The most misunderstood graph in AI just got a major update",
+  "summary": "评估非营利组织METR更新了其时间跨度图。报告称，部分人工智能能力仍沿指数轨迹提升，但模型在需要判断、难以自动验证的任务上表现不如编程，设计新评测时仍达不到可用标准。",
+  "facts": [
+    {
+      "text": "评估组织METR更新了时间跨度图，加入耗时更长和更开放的任务，并发现模型在需要判断、难以自动验证的任务上表现不如编程。",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+    },
+    {
+      "text": "在让模型设计新评测并由METR员工打分的任务中，没有一项被员工认为可用于其研究；部分最新模型刚进入“勉强过线但尚不可用”的区间。",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+    }
+  ],
+  "claims": [],
+  "analysis": [
+    {
+      "text": "计算机科学家Sayash Kapoor认为，把评测扩展到开放式任务是受欢迎的变化，但要更完整地理解仍有大量工作要做。",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "is_primary": false,
+      "published_at": "2026-11-21T02:15:15+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T02:15:15+08:00",
+  "updated_at": "2026-11-21T02:15:15+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "METR更新能力曲线：模型在需判断的任务上仍落后",
+  "lead_zh": "评估组织METR更新时间跨度图，称部分能力仍快速提升，但模型在需要判断、难以自动验证的任务上表现不如编程，设计新评测时仍达不到可用标准。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《麻省理工科技评论》报道，评估非营利组织METR更新了广为流传的时间跨度图。原先的图按人类完成任务所需时间来衡量难度，并显示前沿模型能成功完成的任务时长大约每**四个月**翻一番。新版本加入了估计耗时更长、也更开放的任务，以观察在可自动验证任务上的进步，能在多大程度上迁移到成败更难测量的任务上。",
+        "在一项任务中，模型要设计可供METR使用的新评测，再由该组织员工打分。尽管最先进模型在软件工程上已胜过几乎所有人类，但没有一项人工智能设计的评测被员工认为对其研究有用。在给哲学论证打分的任务上，模型同样未达到人类表现。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "如何理解",
+      "paras": [
+        "报道称，部分最新模型如Opus 5.5在设计评测上达到METR所说的“勉强过线”：还不能直接用于研究，但已有苗头；一年前所有模型都还在“明显低于标准”一档。计算机科学家Sayash Kapoor认为，把评测扩展到开放式任务是受欢迎的变化。METR技术人员Matt Putz则表示，这类难以验证、依赖判断的任务本质上更难量化，恐怕无法得到像易规定任务那样清晰稳健的趋势。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    }
+  ],
+  "image_url": "img/e11a1c9a933b1f706ab69832a7cf606a360922e4.jpg",
+  "image_source": "MIT Technology Review",
+  "image_origin_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

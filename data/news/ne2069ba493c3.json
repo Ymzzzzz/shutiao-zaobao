@@ -1,0 +1,66 @@
+{
+  "id": "ne2069ba493c3",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Bedrock智能体可在Marketplace用美元账单购买x402产品",
+  "original_title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+  "summary": "AWS宣布Amazon Bedrock AgentCore支付能力已支持Marketplace：智能体可发现并购买支持x402的产品，以美元记入开发者账单，无需稳定币钱包或额外密钥。",
+  "facts": [
+    {
+      "text": "Amazon Bedrock AgentCore支付能力现已支持AWS Marketplace，智能体可发现并购买支持x402的软件、接口、数据与内容，以美元记入开发者账单。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/"
+    },
+    {
+      "text": "该支付能力于2026年8月正式可用，此次扩展到Marketplace；开发者可设置支出限额和认可卖家，交易可在CloudTrail和Cost Explorer中审计。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+      "is_primary": true,
+      "published_at": "2026-11-20T07:02:16+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T07:02:16+08:00",
+  "updated_at": "2026-11-20T07:02:16+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Bedrock智能体可在应用商店用美元账单付款",
+  "lead_zh": "AWS宣布其智能体支付能力已支持Marketplace，智能体可购买支持x402的产品并以美元记入开发者账单，无需稳定币钱包或额外密钥。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS宣布，Amazon Bedrock AgentCore的支付能力现已支持AWS Marketplace。智能体可以发现并购买支持x402协议的软件、接口、数据和内容，以美元记在智能体开发者的AWS账单上，从而不必再使用稳定币钱包或额外的API密钥。",
+        "该支付能力于**2026年8月**正式可用，当时已允许智能体通过x402和MPP等开放协议为付费接口、MCP服务器和网页内容自主付费。此次把这一能力扩展到Marketplace。开发者还可通过AgentCore Gateway中的Marketplace连接器配置自动发现。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "如何管控",
+      "paras": [
+        "AWS称，既有护栏仍然适用：开发者可用AgentCore策略设置支出限额和认可卖家，支付会话上限由支付服务强制执行，防止超支。交易可在AWS CloudTrail和Cost Explorer中审计。搜索服务商Tavily是Marketplace上x402目录中的卖家之一。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/d16a526dbba4c42e46f31e9fb01b721f9860a412.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22459-featured-image-2.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

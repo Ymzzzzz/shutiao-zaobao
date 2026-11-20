@@ -1,0 +1,226 @@
+{
+  "id": "nd15c45643214",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Hebbia测试称GPT-6 Astra提升金融研究覆盖与演示质量",
+  "original_title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "summary": "Hebbia用GPT-6 Astra做金融研究预发布评测，称在需引用的来源类型上比最佳对照高13.6个百分点，所引片段相关性达99.5%，演示要求满足率为97.9%。",
+  "facts": [
+    {
+      "text": "Hebbia在其Matrix产品中测试GPT-6 Astra，用于查找问题所需来源，并生成符合银行家要求的演示文稿。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/hebbia"
+    },
+    {
+      "text": "预发布评测显示，GPT-6 Astra在引用所需来源类型上比最佳对照高13.6个百分点，所引片段相关性为99.5%，演示要求满足率为97.9%。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/hebbia"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Hebbia称，GPT-6 Astra是他们测试过的首个在遵循简报与演示质量两项上都排第一的模型。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/hebbia"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "is_primary": true,
+      "published_at": "2026-11-20T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T08:00:00+08:00",
+  "updated_at": "2026-11-20T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Hebbia测试称GPT-6 Astra提升金融研究质量",
+  "lead_zh": "Hebbia用GPT-6 Astra做金融研究预发布评测，称在需引用的来源类型上比最佳对照高13.6个百分点，所引片段相关性达99.5%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "金融研究平台Hebbia在Matrix工作流中测试OpenAI的GPT-6 Astra，用于两项任务：找到问题所需来源，以及按银行家简报生成演示文稿。测试使用2026年8月至9月的预发布版本，并由领域专家按源文件撰写或审核评分标准。",
+        "在Hebbia的测试中，GPT-6 Astra在引用所需来源类型上比所测最佳对照高出**13.6个百分点**，其所引片段有**99.5%**与问题相关。在演示方面，它满足了**97.9%**的适用要求，该项比最佳对照高出**14.4个百分点**。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Hebbia方面表示，可追溯性对用户很重要，因为他们会依据模型结果做出涉及大量资金的决策。一位名为Kavita的人士称，GPT-6 Astra是他们测试过的首个在遵循简报与演示完成度上都排第一的模型。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "img/a73493e5138b05a533f5dfea2473f25f09cf96bc.jpg",
+  "image_source": "OpenAI News",
+  "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
+  "fulltext_status": "ok",
+  "read_minutes": 4,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-08-10",
+    "title_en": "Hebbia sees improvements in financial research with GPT‑6 Astra",
+    "title_zh": "Hebbia 测试显示 GPT-6 Astra 可提升金融研究质量",
+    "dek_en": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "dek_zh": "Hebbia 针对金融研究测试了 GPT-6 Astra。预发布评估发现，它在来源覆盖、引文相关性和演示文稿质量上均有提升。",
+    "word_count_zh": 1417,
+    "read_minutes": 4,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "银行家在向客户推荐收购之前，需要理清财务报表、客户合同和管理层汇报材料。Hebbia 的 Matrix 帮助把这些研究汇总起来，并把答案与其背后的文档关联起来。",
+        "en": "Before a banker can recommend an acquisition to their client, they need to make sense of financial statements, customer contracts and management presentations. Hebbia’s Matrix helps bring that research together, linking answers to the documents behind them."
+      },
+      {
+        "t": "p",
+        "zh": "Hebbia 测试了 OpenAI 的 GPT-6 Astra，以改进这项工作的两个环节：找到问题所需的来源，以及按银行家的要求制作演示文稿。",
+        "en": "Hebbia tested OpenAI’s GPT‑6 Astra to improve two parts of that work: finding the sources a question requires and building a presentation that follows the banker’s brief."
+      },
+      {
+        "t": "p",
+        "zh": "“在 Hebbia 发展历程中，我们一直是 OpenAI 的紧密合作伙伴，GPT-6 Astra 在输出质量和准确性上的飞跃确实令人惊讶。在这两个方面，GPT-6 Astra 比我们此前测试过的任何其他模型都更加出色。”",
+        "en": "“We’ve been strong partners with OpenAI over the course of Hebbia’s lifetime, and the leaps GPT-6 Astra has made in terms of quality outputs and accuracy have truly been surprising. GPT-6 Astra shines compared to any other model we’ve tested before on these two fronts.”"
+      },
+      {
+        "t": "h",
+        "zh": "从来源文档到演示文稿",
+        "en": "From source documents to presentations"
+      },
+      {
+        "t": "p",
+        "zh": "过程可以是这样的：一位银行家正在帮助客户评估对一家工业软件公司的战略性收购，大约有 2,000 份文件需要审阅。其收入为何具有持续性？与同行相比表现如何？在 Hebbia 的假设示例中，银行家可以把资料室载入 Matrix，并在带引用的单元格中考察客户集中度、合同条款和流失情况。Matrix 可以引入同行申报文件和行业新闻来帮助形成交易论点，再把这些研究转化成尽职调查摘要，以及符合公司模板的估值材料。",
+        "en": "It could work like this: a banker is helping their client assess a strategic acquisition of an industrial-software company, with roughly 2,000 files to review. What makes its revenue durable? How does it compare with peers? In Hebbia’s hypothetical example, the banker could load the data room into Matrix and examine customer concentration, contract terms and churn in cited cells. Matrix could bring in peer filings and industry news to help develop the deal thesis, then turn that research into a diligence summary and valuation deck in the firm’s template."
+      },
+      {
+        "t": "p",
+        "zh": "在这一工作流程中，GPT-6 Astra 会选择文档或 Matrix 单元格来支持答案，再把分析做成符合用户结构和指引的原生 PowerPoint 幻灯片。",
+        "en": "In that workflow, GPT‑6 Astra selects documents or Matrix cells to support an answer, then turns the analysis into native PowerPoint slides that follow the user’s structure and guidelines."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/3bbabb256fceed2b8b1d4a8d7856ab9057be15c3.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/3I47jibmRIaesj0H0Gc5OH/70f4bf13077e5b8c09b322a8e2ab8d41/hebbia-example-01-smoked-depth.png?w=3840&q=90&fm=webp",
+        "caption_zh": "Hebbia 根据用户提示生成 Fastmart 公司简介演示文稿，其中包含财务表格和图表。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "t": "p",
+        "zh": "Kavita 说：“可追溯性对我们的用户非常重要，因为他们要把价值数百万美元的决策建立在人工智能实际返回的结果上。”“引用既有助于追溯，也能让用户确信人工智能找到了正确答案。”",
+        "en": "“Traceability is really important to our users because they’re basing millions of dollars of decisions on what the AI actually comes back with,” Kavita says. “Citations help with traceability as well as giving users confidence that the AI found the right answer.”"
+      },
+      {
+        "t": "p",
+        "zh": "在 Hebbia 的测试中，GPT-6 Astra 将更广的来源覆盖与高度相关的引文结合在一起。在引用所需类型来源这一项上，它比测试中表现最好的对照模型高出 13.6 个百分点，而其引用的摘录中有 99.5% 与问题相关。",
+        "en": "In Hebbia’s tests, GPT‑6 Astra combined broader source coverage with highly relevant citations. It scored 13.6 percentage points above the best alternative tested on citing the required types of sources, while 99.5% of the excerpts it cited were relevant to the question."
+      },
+      {
+        "t": "p",
+        "zh": "Hebbia 在 2026 年 8 月至 9 月测试了预发布版本，对每个模型使用相同的金融研究案例和评分标准。领域专家依据来源文档编写或审核了这些标准。",
+        "en": "Hebbia tested a prerelease build in August-September 2026, using the same financial research cases and grading criteria for each model. Domain experts wrote or audited the criteria against source documents."
+      },
+      {
+        "t": "p",
+        "zh": "Kavita 说：“当你面对一个有数千份文档的资料室时，这一点极其重要。哪怕只提高一个百分点，也能带来很大的边际收益。”",
+        "en": "“When you’re looking at a data room with thousands of documents, that’s extremely important. Even a single percentage-point gain can yield a lot of marginal benefit,” Kavita says."
+      },
+      {
+        "t": "p",
+        "zh": "演示文稿还必须看起来像银行家会发给客户的成品。",
+        "en": "A presentation also has to look like work the banker would send to a client."
+      },
+      {
+        "t": "p",
+        "zh": "Kavita 说：“我不想做一份看起来像人工智能生成的材料，再把它发给合伙人。我希望它采用我们公司的品牌风格，而且看起来像是人工制作的幻灯片。”",
+        "en": "“I don’t want to create a deck and send that to my partner that looks like AI made it,” Kavita says. “I want it to be made in my firm’s branding, and I want it to look like a human-made slide.”"
+      },
+      {
+        "t": "p",
+        "zh": "GPT-6 Astra 在遵循要求和演示文稿质量两项上都领先。在 Hebbia 的测试中，它满足了 97.9% 的适用演示要求，在该项上比表现最好的对照模型高出 14.4 个百分点。其他模型往往在完成度和是否遵循要求之间顾此失彼；GPT-6 Astra 在这两方面都排在第一。",
+        "en": "GPT‑6 Astra led on both following the brief and presentation quality. In Hebbia’s tests, it met 97.9% of the applicable presentation requirements, putting it 14.4 percentage points ahead of the best alternative tested on that measure. Other models traded off polish and adherence to the brief; GPT‑6 Astra ranked first on both."
+      },
+      {
+        "t": "p",
+        "zh": "Kavita 说：“过去我们见过一些模型在其中一个维度上表现出色，它们可能很擅长呈现，但遵循指令和准则并不强，或者正好相反。GPT-6 Astra 是我们见过的第一款在这两方面都排名第一的模型。”",
+        "en": "“In the past, we’ve seen models that really shine on one or the other of these dimensions where they’re really good at craft, but the instruction following and adhering to guidelines is not strong, or vice versa. GPT‑6 Astra is the first model we’ve seen where it’s number one on both of those fronts,” Kavita says."
+      },
+      {
+        "t": "p",
+        "zh": "在 Hebbia 中，用户可以打开一处引用，查看底层文档和突出显示的段落；幻灯片脚注也会指向源材料。审校可以细致到：对照来源表格核对客户集中度数字，并在材料提交投资委员会之前修正报告期。",
+        "en": "In Hebbia, users can open a citation to see the underlying document and highlighted passage; slide footnotes lead back to the source material, too. A review could be as specific as checking a customer-concentration figure against the source table and correcting the reporting period before the deck goes to the investment committee."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/dd462b4a87fe1c1fb63f0adff3e187f14fe8f8e4.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/7IwIf5YpXjsfb6CscupJjO/7aa15b85fcce3df8e25248178d42250a/hebbia-example-02-smoked-depth.png?w=3840&q=90&fm=webp",
+        "caption_zh": "Hebbia 在 Fastmart 公司简介演示文稿旁显示引文面板，其中包含来源数据和文档。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "t": "p",
+        "zh": "Hebbia 希望银行家少花时间在重新排版材料和核对来源上，而把更多时间用于评估交易。Kavita 描述了更好的初稿可能带来的变化：",
+        "en": "Hebbia wants bankers to spend less time reformatting decks and checking sources, and more time assessing a deal. Kavita describes what a better first draft could make possible:"
+      },
+      {
+        "t": "p",
+        "zh": "“GPT-6 Astra 的出色之处在于，它能够生成非常精确、并且遵循用户指引的成果和材料。你可以想象，当拿到的演示文稿更接近最终成品时，这将为专业人士节省多少时间。那些必须熬的夜，会缩短成几分钟审阅 GPT-6 Astra 输出的时间。”",
+        "en": "“What’s amazing about GPT-6 Astra is its ability to create really precise outputs and artifacts that adhere to user guidelines. You can imagine the hours this will save professionals when you get a deck that is closer to your final output. The overnighters that you have to pull get reduced to a few minutes of reviewing GPT-6 Astra’s output.”"
+      },
+      {
+        "t": "h",
+        "zh": "智能体的未来角色",
+        "en": "A future role for agents"
+      },
+      {
+        "t": "p",
+        "zh": "Kavita 认为，未来智能体可以在后台监测信息，并把信号呈现给金融专业人士评估。",
+        "en": "Kavita sees a future role for agents that monitor information in the background and surface signals for finance professionals to assess."
+      },
+      {
+        "t": "p",
+        "zh": "她说：“想象一下，能比竞争对手早几个小时得到一个重要信号。你可以先开始思考，并发现和处理更多并非由人工主动搜寻到的机会。这能为我们的用户释放很多价值。”",
+        "en": "“Imagine getting an important signal a few hours before your competitors,” she says. “You can get started thinking about it and see and process more opportunities that a human is not manually hunting. It can unlock a lot of value for our users.”"
+      },
+      {
+        "t": "p",
+        "zh": "Hebbia 希望在这些结果的基础上，帮助金融专业人士用可追溯到来源的研究来评估交易。",
+        "en": "Hebbia wants to build on these results to help finance professionals assess deals with research they can trace back to its sources."
+      },
+      {
+        "t": "h",
+        "zh": "OpenAI <3 初创公司",
+        "en": "OpenAI <3 startups"
+      },
+      {
+        "t": "h",
+        "zh": "获取 OpenAI for Business 更新",
+        "en": "Get OpenAI for Business updates"
+      },
+      {
+        "t": "p",
+        "zh": "产品更新、实用指南、即将举行的活动，以及更多内容。",
+        "en": "Product updates, practical guides, upcoming events, and more."
+      }
+    ]
+  }
+}

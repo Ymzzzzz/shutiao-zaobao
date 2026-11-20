@@ -1,0 +1,153 @@
+{
+  "id": "n4aacf31011a3",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "Anthropic上市：七位创始人合计套现近20亿美元",
+  "original_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "summary": "TechCrunch报道，Anthropic周四上市，发行价83美元。七位创始人各出售约340万股，税前各约套现2.80亿美元；报道称公司筹资规模约1048亿美元。",
+  "facts": [
+    {
+      "text": "Anthropic于周四成为上市公司。按每股83美元的上调发行价计算，七位创始人各出售约340万股，税前约各得2.80亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+    },
+    {
+      "text": "报道称公司自身筹资约1048亿美元；英伟达与谷歌各购买100亿美元无投票权N类股，谷歌持股13.4%，亚马逊持股14.6%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Anthropic称，各位创始人已承诺将个人所持公司股权的80%用于慈善，但该承诺是自愿且可撤销的，不构成法律约束。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "is_primary": false,
+      "published_at": "2026-11-20T08:43:50+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T08:43:50+08:00",
+  "updated_at": "2026-11-20T08:43:50+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic上市，七位创始人合计套现近20亿美元",
+  "lead_zh": "TechCrunch报道，Anthropic按每股83美元上市，七位创始人各约套现2.80亿美元；报道称公司筹资约1048亿美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch报道，Anthropic于周四成为上市公司。按上调后的每股**83美元**发行价计算，七位创始人各出售约**340万股**，在扣除承销费用和税前约各得**2.80亿美元**。报道还提到，筹资总额数字中包括创始人侧的约**19.5亿美元**。",
+        "报道称，公司金库筹资额约为**1048亿美元**，若银行全部行使配售权则可能达1170亿美元。除普通股外，公司还出售此前宣布的**260亿美元**无投票权N类股：英伟达和谷歌各买**100亿美元**，其余由AMD、博通、美光、微软和台积电分购。按更高发行价计算，谷歌持股**13.4%**，亚马逊持股**14.6%**，合计**28%**。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Anthropic在上市文件中表示，各位创始人已承诺将个人所持公司股权的**80%**用于慈善，但公司指出这些承诺是“自愿、可撤销的意向表达，不构成法律约束”。报道还写道，公司已披露未来基础设施承诺大约在**1.05万亿至1.08万亿美元**之间。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/a4149b601c24112c6bb74a2a6595481a20ab73b8.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Julie Bort",
+    "author_title_zh": "",
+    "published_at": "2026-11-20",
+    "title_en": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "title_zh": "Anthropic 的 7 位创始人在破纪录 IPO 中套现近 2B 美元",
+    "dek_en": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "dek_zh": "按上调后每股 83 美元的发行价，Anthropic 的七位创始人每人套现 2.80 亿美元，公司则募得近 1050 亿美元。",
+    "word_count_zh": 889,
+    "read_minutes": 3,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "周四，Anthropic 成为上市公司，总共募资 813 亿美元，其中 19.5 亿美元归其七位创始人。正如我们此前报道的，他们每人拿出约 340 万股在 IPO 中出售。",
+        "en": "Anthropic became a public company on Thursday, raising a total of $81.3 billion, including $1.95 billion for its seven founders. As we previously reported, each of them ponied up about 3.4 million shares apiece to sell in the IPO."
+      },
+      {
+        "t": "p",
+        "zh": "按上调后每股 83 美元的发行价，这意味着在扣除承销费用和税费之前，他们每人套现约 2.80 亿美元。看起来他们是按每股 74 美元（Anthropic 原定发行价区间的中值）测算拟售股数，以便每人大约拿到 2.50 亿美元。因此，每人大约多进账了 30 million 美元。",
+        "en": "At the upgraded IPO price of $83 per share, that means they each pocketed about $280 million before underwriting fees and taxes. It looked like they had calculated the number of shares they planned to sell to give them each around $250 million if shares hit $74. That was the midpoint price from Anthropic’s original price range. So that’s a cool $30-ish million more for each of them than perhaps they were gunning for."
+      },
+      {
+        "t": "p",
+        "zh": "Anthropic 在 IPO 文件中暗示，创始人并非完全为了钱。公司表示，每位创始人都已承诺将个人所持公司股权的 80% 用于慈善。",
+        "en": "Anthropic implied in its IPO filings that the founders aren’t entirely in this for the money though. The company said that each of the founders has pledged to dedicate 80% of their personal equity in the company to philanthropy."
+      },
+      {
+        "t": "p",
+        "zh": "不过，如果他们中有人靠这 2.5 亿美元难以维持生活，也可以缩减慈善承诺。公司指出，这些承诺是“每位联合创始人慈善意向的自愿、可撤销的表达，并不构成具有法律约束力的义务。”",
+        "en": "However, if any of them struggle to live on their quarter of a billion, they can scale back their charitable commitments. The company points out that these commitments are “voluntary, revocable expressions of each co-founder’s philanthropic intent and do not constitute legally binding obligations.”"
+      },
+      {
+        "t": "p",
+        "zh": "随着 IPO 已成定局，还有几个值得关注的数字。",
+        "en": "With the IPO in the record books, there were a few other interesting numbers worth highlighting."
+      },
+      {
+        "t": "p",
+        "zh": "1048 亿美元。这才是 Anthropic 为自己募得的金额（如果承销商全部行使配售权，有可能达到 1170 亿美元）。除了出售 A 类普通股，公司还向几家科技巨头出售了此前已宣布的 260 亿美元特殊无投票权 N 类股票。",
+        "en": "$104.8 billion. That’s really the amount Anthropic raised for its coffers (with a possibility of $117 billion, if the bankers buy all of their allotment of shares). In addition to selling its Class A common stock, it also sold a previously announced $26 billion worth of a special non-voting Class N stock to some of the biggest tech names in the industry."
+      },
+      {
+        "t": "p",
+        "zh": "英伟达买下了其中 100 亿美元的 N 类股份，谷歌也买了 100 亿美元，其余则由 AMD、Broadcom、Micron、微软和台积电分摊。",
+        "en": "Nvidia bought $10 billion of these Class N shares, Google bought $10 billion, and AMD, Broadcom, Micron, Microsoft, and TSMC divvied up the rest."
+      },
+      {
+        "t": "p",
+        "zh": "仅作对比：Facebook 在 2012 年进行当时破纪录的 IPO 时，上市当日募资 160 亿美元。",
+        "en": "Just for comparison: When Facebook had its then record-breaking IPO in 2012, it raised $16 billion on IPO day."
+      },
+      {
+        "t": "p",
+        "zh": "亚马逊与谷歌合计持股 28%。按更高的 IPO 股价计算，谷歌最终持有该公司 13.4% 的股份。亚马逊现在也持有 Anthropic 的可观股份，因为此前在这家人工智能实验室还是初创公司时，亚马逊的投资获得了可转股权的本票。它在 IPO 中只转换了其中一小部分，最终持股 14.6%。如果全部转换，亚马逊本可持有近 24%。",
+        "en": "28% stake to Amazon and Google combined. All told, at the higher IPO share price, Google wound up owning 13.4% of the company. Amazon also now has a big stake in Anthropic because when it previously invested in the AI lab as a startup, it was granted promissory notes that could be converted to equity. It converted a small percentage of them as part of the IPO, leaving it with a 14.6% stake. Had it converted all of them, Amazon could have owned nearly 24%."
+      },
+      {
+        "t": "p",
+        "zh": "这家人工智能实验室表示，这两家大型云服务商现在合计持有 Anthropic 28% 的股份。",
+        "en": "The two large cloud providers now own 28% of Anthropic, the AI lab says."
+      },
+      {
+        "t": "p",
+        "zh": "超过 1 万亿美元。尽管募得近 1050 亿美元令人惊叹，这让 Anthropic 可供使用的营运资金达到近 2300 亿美元（含已有资金），但公司未来的资金需求仍大得多。",
+        "en": "More than $1 trillion. As mind-blowing as it is to raise nearly $105 billion, giving Anthropic nearly $230 billion of working capital available (along with capital it already had on hand), the company’s need for future capital is still far greater."
+      },
+      {
+        "t": "p",
+        "zh": "截至 2026 年 9 月 30 日结束的季度，Anthropic 在未来 12 个月内仅支付算力和基础设施支出承诺就大约需要 707 亿美元。它需要 4516 亿美元来覆盖这些承诺至 2030 年底。此外，公司还累积了数千亿美元的其他承诺，这些承诺或是附有条件（可能不会发生），或是尚未定价。",
+        "en": "Anthropic needs about $70.7 billion just to cover its compute and infrastructure spending commitments in the next 12 months as of the quarter ended September 30, 2026. It needs $451.6 billion to cover these commitments before the end of 2030. And it has racked up hundreds of billions of other commitments that are either conditional (and may not happen) or haven’t been priced yet."
+      },
+      {
+        "t": "p",
+        "zh": "综合来看，公司披露在可预见的未来，基础设施承诺大约在 1.05 万亿美元至 1.08 万亿美元之间。这是一场规模巨大的 IPO，但这门生意的运营成本也极其高昂。",
+        "en": "All told, the company has disclosed a ballpark of $1.05 trillion to $1.08 trillion in infrastructure commitments in its foreseeable future. This was a huge IPO. But it is a pricey business to run."
+      }
+    ]
+  }
+}

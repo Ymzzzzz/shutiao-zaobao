@@ -1,0 +1,72 @@
+{
+  "id": "ncbb45597e6dc",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "彭博分析称中国受AI冲击岗位招聘降幅更大",
+  "original_title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+  "summary": "The Decoder援引彭博社对近1000万条招聘信息的分析称，2021年7月至2025年6月，高度暴露于人工智能的岗位招聘，降幅比受影响较小的岗位大约高出10个百分点。",
+  "facts": [
+    {
+      "text": "彭博社分析了2021年7月至2025年6月近1000万条在线招聘信息，发现高度暴露于人工智能的岗位招聘降幅比受影响较小的岗位大约高出10个百分点。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/"
+    },
+    {
+      "text": "报道称，入门级员工和创意产业感受尤为明显，并提到中国超过90%的微短剧现已使用人工智能制作。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据前央行顾问蔡昉称，更大的人工智能冲击仍在前面。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+      "is_primary": false,
+      "published_at": "2026-11-20T23:56:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T23:56:03+08:00",
+  "updated_at": "2026-11-20T23:56:03+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "彭博分析称中国受AI冲击岗位招聘降幅更大",
+  "lead_zh": "彭博社分析近1000万条招聘信息后称，2021年7月至2025年6月，高度暴露于人工智能的岗位招聘降幅比其他岗位大约高出10个百分点。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，彭博社对近**1000万**条在线招聘信息的分析显示，人工智能正在给本已疲弱的中国劳动力市场叠加压力。分析覆盖**2021年7月至2025年6月**，结果是：高度暴露于人工智能的岗位招聘，降幅比受影响较小的岗位大约高出**10个百分点**。",
+        "报道称，入门级员工和创意产业已经尤为明显地感受到这一变化，并写到中国超过**90%**的微短剧现在使用人工智能制作。可见转述还提到，这一压力是叠加在已经疲弱的劳动力市场之上。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "还有哪些判断",
+      "paras": [
+        "文章指出，中国劳动力市场多年来已受经济放缓困扰，人工智能现在似乎使情况变得更糟。前央行顾问蔡昉警告，更大的人工智能冲击仍在前面。由于这篇转述报道可见正文较短，更细的行业拆分、统计口径和地区差异并未在原文中展开。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/73cb82d33908352fcb4c0d99a0b1f75b7ecbdd53.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

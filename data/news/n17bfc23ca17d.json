@@ -1,0 +1,72 @@
+{
+  "id": "n17bfc23ca17d",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "苹果也在开发设备操控智能体，同时提高第三方接入门槛",
+  "original_title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+  "summary": "The Decoder援引招聘信息和彭博社报道称，苹果正在开发可操控设备的人工智能智能体，预计最早明年年底推出；同时在macOS 27.3中，授权第三方智能体控制电脑的步骤由4步增至14步。",
+  "facts": [
+    {
+      "text": "苹果正招聘高级工程师，主导开发可与Muse、Dots、Duet和Grok Bots竞争的设备操控智能体，并强调权限模型和沙箱。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/"
+    },
+    {
+      "text": "彭博社称该智能体仍处早期，最早可能于明年年底推出；macOS 27.3把授权第三方智能体控制电脑的步骤由4步增至14步。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据苹果称，增加步骤是为了保护用户；但彭博社称，一些人工智能公司和用户认为这是在拖慢竞争对手。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+      "is_primary": false,
+      "published_at": "2026-11-20T23:03:25+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T23:03:25+08:00",
+  "updated_at": "2026-11-20T23:03:25+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "苹果开发设备操控智能体，同时提高第三方门槛",
+  "lead_zh": "报道称苹果正在开发可操控设备的人工智能智能体，最早可能于明年年底推出；同时将授权第三方智能体控制电脑的步骤由4步增至14步。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，在Meta、OpenAI、Anthropic和谷歌相继推出可操控设备的智能体后，苹果也在跟进，同时提高对手访问其设备的难度。一份招聘信息显示，苹果正在招聘高级工程师来主导这一项目，对标Muse、Dots、Duet和Grok Bots，并预计将把隐私放在核心位置，采用权限模型和沙箱。",
+        "据彭博社报道，该智能体仍处早期，最早可能于明年年底推出。苹果新任首席执行官John Ternus正推动软件负责人Craig Federighi采取更大胆的人工智能策略。在多次推迟后，公司最近才推出面向Siri的生成式人工智能功能。与此同时，macOS **27.3**把用户授权ChatGPT等第三方智能体控制Mac的步骤，由**4步**增加到**14步**。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么看",
+      "paras": [
+        "苹果称这一改动是为了保护用户。彭博社则报道，一些人工智能公司和用户将其视为拖慢竞争对手的举措。报道还提到，通往Siri生成式功能上线的过程中，公司内部出现过分歧和人员离职。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

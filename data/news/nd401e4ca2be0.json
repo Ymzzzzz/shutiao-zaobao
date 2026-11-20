@@ -1,0 +1,72 @@
+{
+  "id": "nd401e4ca2be0",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic数学家宣称与Claude合作完成黎曼猜想证明",
+  "original_title": "AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明",
+  "summary": "据《科学美国人》报道，Anthropic数学家莱文特·阿尔波格宣称与Claude合作找到了黎曼猜想的证明，并写成Lean代码。他还称该证明覆盖范围更广的广义黎曼猜想。",
+  "facts": [
+    {
+      "text": "据《科学美国人》报道，Anthropic数学家莱文特·阿尔波格宣称与Claude合作找到了黎曼猜想的证明，并将其编写为可逐步验证推理的Lean代码。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/278.htm"
+    },
+    {
+      "text": "阿尔波格称，该证明还覆盖了范围更广的广义黎曼猜想。黎曼猜想由黎曼于1859年提出。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/278.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据阿尔波格称，他相信自己与Claude合作找到了黎曼猜想的证明。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/278.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/278.htm",
+      "is_primary": false,
+      "published_at": "2026-11-20T23:37:46+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T23:37:46+08:00",
+  "updated_at": "2026-11-20T23:37:46+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称Anthropic数学家与Claude合作证明黎曼猜想",
+  "lead_zh": "据《科学美国人》报道，Anthropic数学家莱文特·阿尔波格宣称与Claude合作找到了黎曼猜想的证明，并写成可验证的Lean代码，还称覆盖了广义黎曼猜想。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月20日消息，据《科学美国人》报道，当地时间20日，Anthropic数学家莱文特·阿尔波格宣称，自己与人工智能模型Claude合作，攻克了黎曼猜想，并在个人网站发表声明。该猜想由德国数学家伯恩哈德·黎曼于**1859年**提出，是数论领域的重要未解问题。",
+        "阿尔波格公布了与Claude合作完成的证明，并将其编写为Lean代码。Lean是一种能够逐步验证数学推理是否正确的编程语言。他又称，该证明不仅解决了黎曼猜想，还证明了范围更广的“广义黎曼猜想”。IT之家还提到，今年**10月**OpenAI公布的数学成果中，有一项在揭示质数分布规律方面取得进展。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "阿尔波格称：“我相信，我与Claude合作找到了黎曼猜想的证明。”他在声明中写道，觉得这一切意味着某种终结是很自然的，但对他而言更像是失去一盏指路明灯；同时他认为科学界正在迎来更伟大事物的曙光，并希望这一证明让人一窥未来的奇迹。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

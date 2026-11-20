@@ -1,0 +1,66 @@
+{
+  "id": "n0dd62c461aec",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋风波后，更多科技从业者担心约会中的色情间谍",
+  "original_title": "Regular Tech Bros Are Worried About Honeypots",
+  "summary": "WIRED报道，在黄仁勋与据称情报人员的外遇成为新闻后，婚恋顾问称更多普通科技从业者也开始担心约会对象别有目的。有婚介把背景调查和保密协议列入最高超50万美元的套餐。",
+  "facts": [
+    {
+      "text": "婚恋顾问对WIRED表示，在黄仁勋相关报道之后，更多并非高管的科技从业者也开始担心约会对象想获取公司机密。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/"
+    },
+    {
+      "text": "硅谷婚介Linx Dating把背景调查、审查和保密协议列入定制套餐，价格从7.5万美元到超过50万美元不等；有公司还推出号称“零间谍”的人工智能伴侣产品。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+      "is_primary": false,
+      "published_at": "2026-11-20T19:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T19:00:00+08:00",
+  "updated_at": "2026-11-20T19:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋风波后更多科技从业者担心约会中的间谍风险",
+  "lead_zh": "婚恋顾问称，在黄仁勋相关报道之后，更多普通科技从业者也开始担心约会对象别有目的。有婚介把背景调查列入最高超过50万美元的套餐。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED报道，黄仁勋与一名据称属于中国国家安全部资产的外遇成为新闻后，人工智能公司据报提醒员工提防“蜂蜜陷阱”。婚恋顾问称，这种担忧已从高管扩散到生活更普通的从业者。布鲁克林婚介Simone Grossman说，即便不是首席执行官或大公司员工，这类恐惧也传导到了普通专业人士。一名要求匿名的科技从业者把他对间谍活动的焦虑打了**7分**（满分10分）。",
+        "硅谷婚介Linx Dating创始人Amy Andersen表示，对担心伴侣意图的客户，她提供背景调查、当面审查和保密协议，这些安全服务包含在售价**7.5万美元**至超过**50万美元**的定制套餐中。一篇报道还提到，关系平台Joi AI在事件后推出号称“零间谍”的高管人工智能伴侣产品。一名Palantir员工则对媒人说，不会与中国或俄罗斯籍对象约会。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "专家怎么看",
+      "paras": [
+        "安全顾问Ira Winkler等人士对WIRED表示，大多数所谓蜂蜜陷阱并非酒吧里的偶遇，而往往要经过数月甚至数年培养关系。法律顾问Greg Rinckey也说，受害者通常是被慢慢接近的。文章同时写明，绝大多数科技员工未必会成为浪漫间谍的目标，这种焦虑也已被一些产品用来做营销。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/a0180b752ccc606a2662415a50c4680df4fdd568.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/master/pass/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

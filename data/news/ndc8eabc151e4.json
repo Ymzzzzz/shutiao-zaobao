@@ -1,0 +1,66 @@
+{
+  "id": "ndc8eabc151e4",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "开发者把樱井政博游戏教程整理成可供智能体调用的技能",
+  "original_title": "开发者将櫻井政博游戏制作教程整合为 Skill 技能，可供各类 AI 智能体调用",
+  "summary": "日本开发者kociden在GitHub公开非官方项目sakurai-skill，把樱井政博游戏制作频道257集视频字幕整理成约2.7万字、14个章节的技能文件，供人工智能智能体按需调用。",
+  "facts": [
+    {
+      "text": "开发者kociden在GitHub公开非官方项目sakurai-skill，把樱井政博游戏制作频道视频字幕整理成约2.7万字、分14章的技能文件，供智能体按需调用。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/228.htm"
+    },
+    {
+      "text": "该频道于2024年10月22日结束更新；开发者强调内容由自动字幕总结而来，可能有识别或理解偏差，与樱井本人无关。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/228.htm"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/228.htm",
+      "is_primary": false,
+      "published_at": "2026-11-20T19:55:46+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T19:55:46+08:00",
+  "updated_at": "2026-11-20T19:55:46+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "开发者把樱井政博游戏教程整理成智能体技能",
+  "lead_zh": "日本开发者在代码托管平台公开非官方项目，把樱井政博游戏制作频道视频字幕整理成约2.7万字、14个章节的技能文件，供智能体按需调用。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月20日消息，日本开发者kociden在GitHub公开了名为sakurai-skill的非官方项目，将游戏制作人樱井政博YouTube频道《樱井政博的游戏制作》的视频字幕，整理为可供人工智能智能体调用的技能文件。公开信息显示，该频道于**2024年10月22日**结束更新，主要分享其在《星之卡比》和《任天堂明星大乱斗》等作品中积累的开发经验。",
+        "开发者把**257**集视频的字幕整理成一份约**2.7万字**的主文件，涵盖**14**个章节，涉及游戏性、企划、动作、特效、界面和音效等。智能体可按当前需求读取对应类别，而不必一次加载全部内容。kociden还公开了用这套技能、在Godot **4.6.3**引擎中从零开发的演示游戏《ハジキ》，重点展示操作手感设计。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "项目如何定位",
+      "paras": [
+        "开发者希望这套技能能帮助处理企划、难度、奖励、新手引导和打击感调整等，例如直接问“樱井先生会怎么做”。他同时强调，这是非官方同人项目，与樱井政博本人没有关联；内容由自动生成字幕总结而来，并非逐字原话，因此可能存在语音识别错误或理解偏差。公开资料还写到频道共有256集正片及3集特别合作视频。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/73006e9af2bc42980c2eed30edfa81c151f4c499.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/8f75f7d1-0ef8-4973-8aab-0070f1825303.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

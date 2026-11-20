@@ -1,0 +1,66 @@
+{
+  "id": "ne9ec780811f7",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": true,
+  "title": "Amazon Textract Insights正式上线，可用自然语言抽取字段",
+  "original_title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+  "summary": "AWS宣布Amazon Textract Insights正式可用：用自然语言描述所需字段并提交文档或混合文件包，即可得到带置信度和页级定位的结构化结果，无需训练模型。",
+  "facts": [
+    {
+      "text": "AWS宣布Amazon Textract Insights正式可用，用户可用自然语言描述所需字段并提交文档或混合文件包，得到带置信度和页级定位的结构化结果，无需训练模型。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/"
+    },
+    {
+      "text": "同期更新的Textract Core将DetectDocumentText和AnalyzeDocument的语言覆盖扩至40种，并新增东京和苏黎世区域，区域内处理达到18个AWS区域；Insights尚未在这两个新区域提供。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+      "is_primary": true,
+      "published_at": "2026-11-21T04:22:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T04:22:00+08:00",
+  "updated_at": "2026-11-21T04:22:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Amazon Textract Insights上线，可用自然语言抽字段",
+  "lead_zh": "AWS宣布Amazon Textract Insights正式可用，用户可用自然语言描述所需字段并提交文档，得到带置信度和页级定位的结果，无需训练模型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS宣布Amazon Textract Insights正式可用。这是Textract的一项新生成式AI功能，通过新的API提供：用户用自然语言描述所需字段，提交一份文档或混合的多文档文件包，即可得到结构化结果，每个值都带有置信度和页级定位，且无需训练模型。",
+        "AWS还更新了读取引擎Amazon Textract Core，称改进了精度、加强对密集表格和手写的处理，并将DetectDocumentText与AnalyzeDocument接口的语言覆盖扩大到**40**种语言。现有接口保持不变。Core还在亚太（东京）和欧洲（苏黎世）两个区域正式提供，使区域内处理达到共**18**个AWS区域；AWS写明Insights尚未在这两个新区域提供。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "如何使用",
+      "paras": [
+        "AWS称，用户可以从Amazon S3存储桶用一次API调用提交单份文档或混合文件包。该公司把这一功能面向金融服务、保险、医疗和公共部门等依赖文档处理的组织。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/02d4b93330d8f654020395e31a58448d215b2480.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22308-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

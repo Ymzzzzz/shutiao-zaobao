@@ -1,0 +1,72 @@
+{
+  "id": "n80d31a6dee29",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Inkling 2 Mini发布：约260亿参数、面向本地部署的循环模型",
+  "original_title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "summary": "Hugging Face介绍Inkling 2 Mini：这是由Thinking Machines Lab推出的多模态混合专家模型，总参数约260亿、每token激活30亿，支持100万token上下文，面向本地部署。",
+  "facts": [
+    {
+      "text": "Inkling 2 Mini是面向本地部署的多模态混合专家模型，总参数约260亿，每token激活约30亿，支持100万token上下文，可接受图像和文本输入。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/inkling2mini"
+    },
+    {
+      "text": "该模型有24层解码器，中间12层循环执行3次，相当于48个逻辑层；并提供Transformers、llama.cpp、MLX和SGLang支持。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/inkling2mini"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据介绍方称，在非正式体验测试中，该模型至少可与Qwen 3.8 27B相比，并在FrontierCode v2.0上领先。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/inkling2mini"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "is_primary": true,
+      "published_at": "2026-11-20T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T08:00:00+08:00",
+  "updated_at": "2026-11-20T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "面向本地部署的Inkling 2 Mini发布，约260亿参数",
+  "lead_zh": "实验室推出面向本地使用的新多模态混合专家模型，总参数约260亿、每次生成约激活30亿参数，并支持百万级上下文窗口。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Hugging Face博客介绍，Thinking Machines Lab推出Inkling 2 Mini。这是一种循环变压器结构的多模态混合专家模型，物理总参数约**260亿**，每个token激活约**30亿**参数，支持**100万**token上下文，可接受图像和文本输入，并采用NVFP4与MXFP8混合精度专家权重，还附带DSpark草稿模型以换取少量内存换取加速。",
+        "该模型有**24**层解码器，但中间**12**层会循环执行**3**次，因而相当于**48**个逻辑层（6+3×12+6）。文本解码器宽度为**2304**，每个专家的中间宽度为**1152**。它比Inkling 2 Small小得多，面向本地部署，并提供Transformers、llama.cpp（Llama App）、MLX以及SGLang的首日推理支持。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "表现如何",
+      "paras": [
+        "介绍方称，在非正式体验测试中，该模型至少可与Qwen 3.8 27B相比，但仍需更多验证。文章还写道，它在FrontierCode v2.0上领先，在Terminal-Bench 4.0上与Qwen3.8-27B打平，在AutomationBench-AA v1.0.6上落后于Qwen。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/a268c8529924870d1568cc5062ad69c63bc59cd8.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

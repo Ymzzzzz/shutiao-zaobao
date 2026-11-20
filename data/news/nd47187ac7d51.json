@@ -1,0 +1,72 @@
+{
+  "id": "nd47187ac7d51",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "AWS回顾SageMaker推理2026年另13项更新，全年共26项",
+  "original_title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+  "summary": "AWS发布SageMaker推理服务2026年回顾第二篇，再介绍13项更新，使全年合计达到26项，覆盖配置建议、单卡多模型、跨区域路由和发布后调优，并提到缓存感知路由等。",
+  "facts": [
+    {
+      "text": "AWS发布SageMaker推理2026年回顾第二篇，再介绍13项更新，使全年总数达到26项，覆盖配置建议、提高单卡模型密度、跨区域路由和上线后调优等。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/"
+    },
+    {
+      "text": "其中包括7月在SageMaker AI Studio提供推理建议，10月支持NVIDIA MIG每GPU最多七个分区，以及11月的KV缓存感知路由等。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，与轮询路由相比，其推理网关可将混合GPU代际和突发流量下的P99首token时间最多降低97%和98%。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+      "is_primary": true,
+      "published_at": "2026-11-20T08:34:07+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T08:34:07+08:00",
+  "updated_at": "2026-11-20T08:34:07+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AWS回顾SageMaker推理2026年再推13项更新",
+  "lead_zh": "AWS发布SageMaker推理2026年回顾第二篇，再介绍13项更新，使全年总数达到26项，覆盖配置建议、单卡多模型和跨区域路由等。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS发布Amazon SageMaker推理2026年回顾第二篇，在9月已介绍的**13**项更新之后，再盘点随后的**13**项，使全年总数达到**26**项。这篇侧重模型上线之后的问题：如何选择配置、提高已有GPU上的模型密度、服务单机放不下的大模型、跨区域分流，以及延迟升高后的调优。",
+        "文中列出的更新包括：7月在SageMaker AI Studio提供推理建议；8月在SageMaker Python SDK v3中加入建议能力；9月增加LoRA适配器支持与基于SLA的并发搜索；10月推出推理组件控制台、NVIDIA MIG每GPU最多**七**个隔离分区，以及面向智能体的推理技能；11月则有托管NVIDIA Dynamo、KV缓存感知路由和就地滚动模型更新等。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "AWS称，HyperPod的推理网关可提供集群级统一入口和感知GPU的路由；与轮询相比，在混合GPU代际上最多将P99首token时间降低**97%**，在突发流量下最多降低**98%**。公司还表示，计划在2027年初为托管端点扩展“先缩容再更新”，以减少更新时额外实例的需求。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/d1796dba76d81eed2bb0ff5788fb140fed78b6a0.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22497-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,72 @@
+{
+  "id": "n86d3aeca06e8",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "报道称英伟达董事会因黄仁勋“不够坦诚”而将其免职",
+  "original_title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+  "summary": "WIRED援引知情人士称，英伟达前首席执行官黄仁勋在外遇等相关指控中被免职，但最终推动董事会作出决定的，是其“不够坦诚”和“撒谎”等问题。中国外交部已否认相关间谍指控。",
+  "facts": [
+    {
+      "text": "WIRED援引两名熟悉董事讨论的人士称，黄仁勋在外遇等相关指控中被免去英伟达首席执行官职务，但董事会最在意的是其“不够坦诚”和“撒谎”。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+    },
+    {
+      "text": "黄仁勋于11月8日承认与Alice Huang有外遇；同日董事会宣布独立调查。中国外交部已否认Alice Huang是间谍的说法。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据一名接近董事会的人士称，在更多外遇指控出现后，能够确定的是黄仁勋的撒谎，时间跨度从2025年10月一直到近期事件。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "is_primary": false,
+      "published_at": "2026-11-21T03:52:21+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T03:52:21+08:00",
+  "updated_at": "2026-11-21T03:52:21+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称英伟达董事会因不够坦诚而免去黄仁勋职务",
+  "lead_zh": "WIRED援引知情人士称，英伟达前首席执行官黄仁勋在外遇等相关指控中被免职，但最终推动董事会决定的是其“不够坦诚”和“撒谎”。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED报道，黄仁勋在外遇等相关指控中被免去英伟达首席执行官职务，相关指控制包括与一名直接下属，以及与一名据称是中国情报人员的关系。但两名熟悉董事会主席及其他成员私下讨论的人士告诉该刊，最终推动董事会的，是与黄仁勋“不够坦诚”和“撒谎”有关的“多个问题”。",
+        "报道称，黄仁勋于**11月8日**承认与Alice Huang有外遇，但董事会当时无法判定她是否为中国情报人员。同日，董事会宣布启动独立调查，理由是有报道称首席执行官“成为外国情报活动的目标”。中国外交部已否认Alice Huang是间谍的说法。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "知情人士怎么说",
+      "paras": [
+        "一名接近董事会、因未经授权不能公开讲话而要求匿名的人士告诉WIRED，在随后几天又出现其他外遇指控、其中包括据报与一名直接下属的关系后，“当时能够确定的是他的撒谎，时间跨度从**2025年10月**一直到近期事件”。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/c0e9ccd72073c69ee1c131d654741b4a207fc8cc.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b007b4f6873ef9746910ee1/master/pass/GettyImages-2298479100.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

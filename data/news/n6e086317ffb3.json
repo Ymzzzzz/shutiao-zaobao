@@ -1,0 +1,72 @@
+{
+  "id": "n6e086317ffb3",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "研究者向AI供应链投放200万枚金丝雀，发现多起数据泄漏",
+  "original_title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+  "summary": "安全公司Dragos的首席研究官Moore向多家AI服务发送近200万条带唯一可追踪密钥的提示。研究发现至少三家提供商被入侵，还有转售商记录提示、部分平台未遵守零数据保留设置。",
+  "facts": [
+    {
+      "text": "安全公司Dragos的首席研究官Moore向人工智能服务发送近200万条含唯一可追踪密钥的提示，以观察这些密钥随后在何处出现。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+    },
+    {
+      "text": "研究发现至少三家AI提供商遭入侵，入侵者试探所获AWS密钥；还有转售商记录提示，以及部分提供商未遵守零数据保留或“不收集数据”设置。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Moore称，他们发现了安全漏洞、提示被窃，以及未能保护客户数据的普遍问题。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "is_primary": false,
+      "published_at": "2026-11-21T04:59:08+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T04:59:08+08:00",
+  "updated_at": "2026-11-21T04:59:08+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "研究者向AI供应链投放200万枚金丝雀发现泄漏",
+  "lead_zh": "安全公司研究者向多家AI服务发送近200万条带唯一密钥的提示，发现至少三家提供商被入侵，还有转售商记录提示、部分平台未遵守零数据保留。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Ars Technica报道，安全公司Dragos首席研究官Moore向一套庞大的人工智能服务网络发送了近**200万**条含唯一、可追踪密钥的提示，以观察这些密钥随后出现在何处。研究发现，这个生态系统会像筛子一样漏出高敏感数据。",
+        "具体发现包括：至少**三家**人工智能提供商遭攻击者入侵并抽走收到的提示；推理市场中有多家转售商记录提示并使其流入他人之手；还有多家提供商未遵守嵌入在请求中的零数据保留或“不收集数据”等隐私设置。被盗的诱饵密钥在AWS接口中被使用了“数万”次，其中有“一两百个”AWS密钥被重复利用。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "还有哪些发现",
+      "paras": [
+        "Moore写道，最清楚的例子涉及一家中国人工智能实验室：在7月至10月发往其模型的提示中，该实验室的系统抓取了半数以上的秘密网址，其中约三分之二请求已标明“不收集数据”或零数据保留，抓取通常出现在请求后的两三天。他还发现一家美国托管商在单次推理调用两个多月后仍访问秘密网址。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/16154cf78f9577afceda1455b268fb15a313c7d8.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,251 @@
+{
+  "id": "nf4784c304003",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI发布MedChemBench，评估模型辅助早期药物发现",
+  "original_title": "Can AI help scientists identify promising drug candidates?",
+  "summary": "OpenAI推出医药化学基准MedChemBench，含99道题、117篇论文与专利、761个分子结构。在xhigh设定下，GPT-6.2 Astra获得84.5%的可用分数。",
+  "facts": [
+    {
+      "text": "OpenAI发布MedChemBench，用99道来自已发表研究的题目，评估模型能否结合分子结构与实验证据解释结果、比较化合物并预测性质。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-medchembench"
+    },
+    {
+      "text": "该基准涵盖117篇论文与专利、761个不同分子结构。在xhigh推理设定下，GPT-6.2 Astra获得84.5%的可用分数，GPT-6 Astra为83.3%。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-medchembench"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，这些结果并不能证明模型可以发现新药或改善实验室决策，也不能排除模型事先接触过已发表文献。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-medchembench"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "is_primary": true,
+      "published_at": "2026-11-20T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T08:00:00+08:00",
+  "updated_at": "2026-11-20T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI推出医药化学基准评估药物发现推理",
+  "lead_zh": "OpenAI推出医药化学评测基准，共99道题，取材117篇论文与专利。在最高推理档位下，其最新模型获得84.5%的可用分数。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI发布基准MedChemBench，用**99**道来自已发表研究的题目，评估模型能否把分子结构与实验证据联系起来，以解释结果、比较化合物并预测性质。基准取材于**117**篇论文与专利，包含**761**个不同分子结构。",
+        "在xhigh推理设定下，GPT-6.2 Astra获得**84.5%**的可用分数，对照为GPT-6 Astra的**83.3%**、GPT-6.1 Sol的**82.0%**、GPT-5.6 Sol的**58.2%**。GPT-6 Astra在结构重建一项上获得**95.4%**的可用分数，但在选择化合物和预测数值性质上大约只拿到一半分数。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "OpenAI称，这些结果并不能证明模型可以发现新药或改善实验室决策；也不能排除模型事先接触过已发表来源。每道题只允许单次作答，且不提供工具、反馈或新实验。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "img/cef593286663340ce095dfd3f1210381e6fc4563.jpg",
+  "image_source": "OpenAI News",
+  "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
+  "fulltext_status": "ok",
+  "read_minutes": 5,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-18",
+    "title_en": "Can AI help scientists identify promising drug candidates?",
+    "title_zh": "人工智能能否帮助科学家识别有前景的药物候选物？",
+    "dek_en": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "dek_zh": "MedChemBench 评估人工智能模型在早期药物发现中解读分子结构、依据实验证据进行推理以及选择化合物的能力。",
+    "word_count_zh": 1902,
+    "read_minutes": 5,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "我们推出 MedChemBench，这是一项针对药物化学研究中的推理任务来评估人工智能模型的基准。它测试模型能否把分子结构与实验证据联系起来，以解释结果、比较化合物并预测其性质。打造能够可靠支持这项工作的人工智能，是帮助科学家开发更好药物的一步。",
+        "en": "We’re introducing MedChemBench, a benchmark that evaluates AI models on reasoning tasks drawn from medicinal chemistry research. It tests whether models can connect a molecule’s structure with experimental evidence to explain results, compare compounds, and predict their properties. Building AI that can reliably support this work is one step towards helping scientists develop better medicines."
+      },
+      {
+        "t": "p",
+        "zh": "这项工作最困难的部分之一在于，改善分子的某一性质可能会让另一性质变差。一种化合物可能对疾病相关蛋白有很强的作用，但吸收较差，或在体内分解过快。药物化学家通过设计、制备和测试相关化合物，再决定下一步尝试什么，来处理这些权衡。人工智能要提供帮助，就需要把分子结构的变化与实验证据联系起来，并判断哪些化合物值得继续推进。",
+        "en": "One of the hardest parts of this work is that improving one property of a molecule can make another worse. A compound might act strongly against a disease related protein but be poorly absorbed or break down too quickly in the body. Medicinal chemists work through these tradeoffs by designing, making, and testing related compounds, then deciding what to try next. For AI to help, it needs to connect changes in molecular structure with experimental evidence and reason about what compounds are worth pursuing."
+      },
+      {
+        "t": "p",
+        "zh": "MedChemBench 通过来自已发表研究的 99 道题目来衡量这些能力。在 xhigh 推理设置下，GPT-6.2 Astra 获得了 84.5% 的可用分数，GPT-6 Astra 为 83.3%，GPT-6.1 Sol 为 82.0%，GPT-5.6 Sol 为 58.2%。GPT-6 Astra 在重建分子结构和解释实验证据方面表现最强。选择化合物以及预测其数值性质对该模型来说更困难。",
+        "en": "MedChemBench measures these abilities through 99 problems drawn from published research. At the xhigh reasoning setting, GPT‑6.2 Astra earned 84.5% of the available credit, compared with 83.3% for GPT‑6 Astra, 82.0% for GPT‑6.1 Sol, and 58.2% for GPT‑5.6 Sol. GPT‑6 Astra was strongest at reconstructing molecular structures and explaining experimental evidence. Selecting compounds and predicting their numerical properties proved harder for that model."
+      },
+      {
+        "t": "h",
+        "zh": "MedChemBench 评什么",
+        "en": "What MedChemBench grades"
+      },
+      {
+        "t": "p",
+        "zh": "MedChemBench 依据 117 篇论文和专利，包含 761 个不同的分子结构。对大多数题目，模型会获得研究项目某一选定时点可用的背景信息：生物学靶点、研究者的目标、迄今研究过的化合物，以及选定的实验发现。",
+        "en": "MedChemBench draws on 117 papers and patents and includes 761 distinct molecular structures. For most problems, models receive the context available at a chosen point in a research program: the biological target, the researchers’ goals, the compounds studied so far, and selected experimental findings."
+      },
+      {
+        "t": "p",
+        "zh": "该基准评估四个组成部分：",
+        "en": "The benchmark evaluates four components:"
+      },
+      {
+        "t": "p",
+        "zh": "• 分子结构。根据所提供的绘图和化学基团组装分子时，正确的原子连接和指定的立体化学。",
+        "en": "• Molecular structures. Correct atom connections and specified stereochemistry in molecules assembled from the drawings and chemical groups provided."
+      },
+      {
+        "t": "p",
+        "zh": "• 科学推理。以所提供证据为依据的解释，例如选择一种化合物而非另一种的理由。",
+        "en": "• Scientific reasoning. Explanations supported by the supplied evidence, such as the reasons for choosing one compound over another."
+      },
+      {
+        "t": "p",
+        "zh": "• 排序与选择。符合既定要求的化合物排序和选择。",
+        "en": "• Ranking and selection. Compound rankings and choices that meet the stated requirements."
+      },
+      {
+        "t": "p",
+        "zh": "• 性质预测。与源材料中报告的数值和类别相一致，包括测定的和计算的分子性质。",
+        "en": "• Property predictions. Agreement with the numerical values and categories reported in the source material, including measured and calculated molecular properties."
+      },
+      {
+        "t": "h",
+        "zh": "在相互制约的性质之间做预测",
+        "en": "Prediction across competing properties"
+      },
+      {
+        "t": "p",
+        "zh": "一道 MedChemBench 题目来自对 PRMT5 抑制剂的研究，PRMT5 是癌症药物发现中研究的一种蛋白。模型会获得分子结构以及早期实验的结果。它必须预测三种相关化合物的表现：它们在细胞中抑制 PRMT5 的强度、穿过细胞膜屏障的难易程度，以及肝脏酶在实验室检测中分解它们的速度。后来的实验对模型是保密的，结果显示出一种权衡。化合物 23 在更低浓度下就能在细胞中抑制 PRMT5，而化合物 24 更容易穿过细胞膜屏障，并且在肝脏酶检测中分解得更慢。",
+        "en": "One MedChemBench problem draws on research into inhibitors of PRMT5, a protein studied in cancer drug discovery. The model receives molecular structures and results from earlier experiments. It must predict how three related compounds will behave: how strongly they block PRMT5 in cells, how readily they cross a cell barrier, and how quickly liver enzymes break them down in a laboratory assay.Later experiments, withheld from the model, showed a tradeoff. Compound 23 blocked PRMT5 in cells at a lower concentration, while compound 24 crossed the cell barrier more readily and broke down more slowly in the liver-enzyme assay."
+      },
+      {
+        "t": "p",
+        "zh": "把这些性质放在一起预测，是为了检验模型能否把分子结构与化合物行为的多个方面联系起来。这反映了药物化学的一项核心挑战：对靶点更强的活性，并不一定伴随着更好的通透性或更慢的分解。该基准会检查模型是否正确重建了分子结构，以及其预测与实验测定值的接近程度。预测会根据与测定值的接近程度获得部分分数。提示中已经给出的测定值也必须被正确复现。",
+        "en": "Predicting these properties together tests whether a model can connect molecular structures with several aspects of compound behavior. This reflects a central challenge in medicinal chemistry: stronger activity against a target does not necessarily come with better permeability or slower breakdown.The benchmark checks whether the model reconstructs the molecular structures correctly and how closely its predictions match experimental measurements. Predictions receive partial credit based on their closeness to the measured values. Measurements already supplied in the prompt must also be reproduced correctly."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/45d5b586e8e6c14b65ba4ed034629a54ec1e44f4.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/6EY1OYOVnL6SZTDp6zttc8/e2c458548218cb5cd764b05f627f573c/introducing-medchembench-prmt5-poster-4k.png?w=3840&q=50&fm=webp",
+        "caption_zh": "细微的化学变化可以产生不同的性质特征。该任务要求模型把结构与有关其行为的证据联系起来。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "t": "h",
+        "zh": "测试药物化学中的空间推理",
+        "en": "Testing spatial reasoning in medicinal chemistry"
+      },
+      {
+        "t": "p",
+        "zh": "模型要推理化合物的性质，首先需要正确识别该分子。化学绘图编码了原子连接、环结构和立体化学。",
+        "en": "Before a model can reason about a compound’s properties, it needs to identify the molecule correctly. Chemical drawings encode atom connections, ring structures, and stereochemistry."
+      },
+      {
+        "t": "p",
+        "zh": "MedChemBench 测试模型在根据所提供的绘图和化学基团重建分子时，能否保留这些信息。",
+        "en": "MedChemBench tests whether models preserve this information when reconstructing molecules from the drawings and chemical groups provided."
+      },
+      {
+        "t": "p",
+        "zh": "有一道题要求模型由一个中心结构和两个连接基团组装分子，同时保持一个 18 原子环。在全部十一个模型共用的最高推理设置（xhigh）下，GPT-6 Astra 在全部十次回答中都正确重建了该化合物。GPT-5.6 Sol 和 GPT-5.6 Luna 在全部十次回答中均失败。",
+        "en": "One problem asks models to assemble a molecule from a central structure and two attached groups while preserving an 18-atom ring. At the highest reasoning setting shared by all eleven models (xhigh), GPT‑6 Astra reconstructed this compound correctly in all ten responses. GPT‑5.6 Sol and GPT‑5.6 Luna failed across all ten responses."
+      },
+      {
+        "t": "p",
+        "zh": "在图示回答中，GPT-5.6 Sol 生成了一个 15 原子环，而 GPT-5.6 Luna 把分子拆成了两个互不连接的片段。",
+        "en": "In the illustrated answers, GPT‑5.6 Sol produced a 15-atom ring, while GPT‑5.6 Luna split the molecule into two disconnected fragments."
+      },
+      {
+        "t": "p",
+        "zh": "这些错误会改变所分析分子的身份。这个例子测试的是药物化学推理的基础：模型能否在解释化合物行为之前，先准确地表示该化合物。",
+        "en": "These errors change the identity of the molecule being analyzed. This example tests a foundation of medicinal chemistry reasoning: whether the model can accurately represent the compound before interpreting its behavior."
+      },
+      {
+        "t": "p",
+        "zh": "图 1. 相同输入，不同分子",
+        "en": "Figure 1. The same input, different molecules"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/2e236576659264d1830516b07c21b95518f71ea5.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/1VTqzHLMhkmIYnsS9nSqau/bff555251736290c430519e004502198/introducing-medchembench-structure-comparison.png?w=3840&q=90&fm=webp",
+        "caption_zh": "这些针对化合物 17 的选定回答展示了正确重建、更小的环，以及互不连接的片段。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 562
+      },
+      {
+        "t": "p",
+        "zh": "在衡量基准的结构部分时，Astra 在 xhigh 设置下获得了 95.4% 的可用分数。这一结果表明，模型在重建任务所提供的分子结构上表现强劲。",
+        "en": "While measuring the benchmark for structure components, Astra earned 95.4% of the available credit at xhigh. This result shows strong performance on reconstructing the molecular structures supplied in the tasks."
+      },
+      {
+        "t": "p",
+        "zh": "我们在不同推理力度设置下评估了十一个 GPT 模型。在全部基准上，Astra 在共用的 xhigh 设置下获得了 83.3% 的可用分数，GPT-6.1 Sol 为 82.0%，GPT-6.1 Terra 为 75.1%，GPT-5.6 Sol 为 58.2%。在 max 力度下，GPT-6 Astra 达到了 83.8%。更高的推理设置提高了分数，但模型之间仍存在很大差距。下图绘制了性能与输出 token 的关系。",
+        "en": "We evaluated eleven GPT models at different reasoning-effort settings. Across the full benchmark, Astra earned 83.3% of the available credit at the shared xhigh setting, compared with 82.0% for GPT‑6.1 Sol, 75.1% for GPT‑6.1 Terra, and 58.2% for GPT‑5.6 Sol. At max effort, GPT‑6 Astra reached 83.8%. Higher reasoning settings improved scores, while large differences between models remained. The figure below plots performance against output tokens."
+      },
+      {
+        "t": "p",
+        "zh": "图 2. 性能与 token 用量的关系",
+        "en": "Figure 2. Performance versus token usage"
+      },
+      {
+        "t": "p",
+        "zh": "分项结果区分了四种能力：重建分子、解释发现、选择化合物，以及预测测定值。这显示了模型在哪些方面最强，以及错误仍出现在何处。",
+        "en": "The component results separate four abilities: reconstructing molecules, explaining findings, selecting compounds, and predicting measurements. This shows where models are strongest and where errors remain."
+      },
+      {
+        "t": "p",
+        "zh": "图 3. 分项性能与 token 用量的关系",
+        "en": "Figure 3. Component performance versus token usage"
+      },
+      {
+        "t": "p",
+        "zh": "Astra 最明显的优势在于重建分子结构和解释科学证据。在我们预印本的选定推理例子中，Astra 正确识别了结构变化，并权衡了它们对蛋白结合、吸收和代谢可能产生的影响。",
+        "en": "Astra’s clearest strengths were in reconstructing molecular structures and explaining the scientific evidence. In selected reasoning examples from our preprint, Astra correctly identified structural changes and weighed their possible effects on protein binding, absorption, and metabolism."
+      },
+      {
+        "t": "p",
+        "zh": "在选择和预测仍然困难的方面，Astra 在 xhigh 设置下获得了 95.4% 的结构分数，但在选择化合物和预测数值性质上大约只得到一半的分数。这些类别使用不同的任务和评分规则，但结果表明，预测和化合物选择仍有很大改进空间。",
+        "en": "Where selection and prediction remain difficult, Astra earned 95.4% of the available structure credit at xhigh, but only about half the credit for selecting compounds and predicting numerical properties. These categories use different tasks and scoring rules, but the results show substantial room to improve predictions and compound choices."
+      },
+      {
+        "t": "h",
+        "zh": "接下来怎么走",
+        "en": "Where we go from here"
+      },
+      {
+        "t": "p",
+        "zh": "这些结果并不能证明模型能够发现新药或改善实验室决策。不能排除模型此前接触过这些已发表来源的可能性，而且每次回答都是在没有工具、反馈或新实验的情况下进行的单次尝试。虽然该基准评估的是基于历史证据的推理，而非真实世界的药物发现，但其结果有助于识别模型在哪些方面正在进步、哪些挑战仍然存在。我们相信 MedChemBench 将支持持续进展，并期待在我们的模型不断进步、服务该领域时分享更新。",
+        "en": "These results do not establish whether models can discover new drugs or improve laboratory decisions. Prior exposure to the published sources cannot be ruled out, and each response was a single attempt without tools, feedback, or new experiments. While the benchmark evaluates reasoning from historical evidence rather than real-world drug discovery, its results help identify where models are advancing and where challenges remain. We believe MedChemBench will support continued progress and look forward to sharing updates as our models advance to serve the field."
+      }
+    ]
+  }
+}

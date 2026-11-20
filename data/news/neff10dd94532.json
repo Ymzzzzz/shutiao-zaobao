@@ -1,0 +1,72 @@
+{
+  "id": "neff10dd94532",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "开源Hermes智能体将进入Teams，并可把个人技巧共享给全组",
+  "original_title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+  "summary": "Nous Research称，开源的Hermes Agent即将可在Microsoft Teams中运行，并能把成功工作流自动变成可复用技能。新功能Collective Wisdom允许员工在审核后把技能分享给团队，且不会进入外部训练数据。",
+  "facts": [
+    {
+      "text": "开源Hermes Agent即将可在Microsoft Teams中运行，桌面应用也已上架Microsoft Store，智能体在Azure隔离的微型虚拟机中执行。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
+    },
+    {
+      "text": "新功能Collective Wisdom允许员工在审核后把成功工作流转化成的技能分享给团队，这些知识留在公司内部，不进入外部模型训练数据。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Nous Research称，Hermes Agent是OpenRouter上使用最广泛的开源智能体，每天处理近两兆token。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+      "is_primary": false,
+      "published_at": "2026-11-20T17:59:51+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T17:59:51+08:00",
+  "updated_at": "2026-11-20T17:59:51+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "开源智能体将进入办公软件，并可把个人技巧共享给全组",
+  "lead_zh": "开源的Hermes智能体即将可在微软办公软件中运行，并能把成功工作流变成可复用技能，经审核后分享给团队，且不会进入外部训练数据。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，企业即将可以在Microsoft Teams中直接运行Nous Research的开源Hermes Agent。据该公司介绍，员工可以把财务分析、起草文件或整理收件箱等任务交给它，并在同一聊天中查看结果。桌面应用也已在Microsoft Store上架，智能体运行在Azure Container Apps的沙箱中，也就是隔离的微型虚拟机里。",
+        "Hermes会把成功的工作流自动变成由描述和代码组成的可复用技能。新功能Collective Wisdom允许员工在审核后把这些技能分享给团队。收集到的知识留在公司内部，不会进入任何人工智能提供商的训练数据。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Nous Research是微软风险投资基金M12的投资组合公司。该公司称，Hermes Agent是OpenRouter上使用最广泛的开源智能体，每天处理近**两兆**token。报道还提到，微软今年早些时候开始支持另一款用于Windows电脑本地运行的开源智能体OpenClaw。Nous近期还以所谓“西方价值观”微调了阿里巴巴的Qwen3.8-27B，得到Arete-27B。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/8a18cb520491a90b9f3bbcb55c78cac68a53bb19.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/06/hermes-og-image-blue.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

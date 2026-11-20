@@ -1,0 +1,72 @@
+{
+  "id": "n38136cf0c416",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Signal在iOS 27和安卓上限制截屏，以防AI智能体读取聊天",
+  "original_title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+  "summary": "The Decoder报道，Signal开始限制截屏，以阻止苹果Siri AI、谷歌Gemini Intelligence和Meta的Muse等智能体读取私人聊天。该应用称这是对隐私的“生存威胁”，但承认在macOS上防护仍不完整。",
+  "facts": [
+    {
+      "text": "Signal在iOS 27上阻止截屏，并在受支持的安卓版本上于人工智能助手试图访问屏幕时触发保护，以阻止智能体读取私人聊天。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/"
+    },
+    {
+      "text": "Signal已在Windows上阻止微软Recall，但承认在macOS上无法可靠阻止截屏，文件系统和通知仍可能被访问。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Signal称，操作系统级智能体从屏幕读取已解密的消息，对端到端加密构成“生存威胁”。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+      "is_primary": false,
+      "published_at": "2026-11-21T03:50:27+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T03:50:27+08:00",
+  "updated_at": "2026-11-21T03:50:27+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Signal在新系统上限制截屏以防智能体读取聊天",
+  "lead_zh": "Signal开始在iOS 27和受支持的安卓系统上限制截屏，以阻止系统级人工智能智能体读取私人聊天，并称这是对隐私的“生存威胁”。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，Signal开始限制截屏，以阻止人工智能智能体读取私人聊天。该应用在iOS **27**上阻止截屏，并在受支持的安卓版本上，当人工智能助手试图访问屏幕时触发保护。Signal已在Windows上阻止微软Recall，但承认防护并不完整：macOS截屏无法被可靠阻止，智能体仍可能访问文件系统和通知。",
+        "报道列举了苹果Siri AI、谷歌Gemini Intelligence等可抓取屏幕内容以完成用户任务的系统级能力，以及Meta智能体Muse近期在安卓和macOS上通过广泛的设置权限捕获Signal内容的情况。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "Signal向路透社警告，这是对隐私的“生存威胁”，因为智能体可以直接从屏幕提取已解密的消息并送到外部处理，从而削弱端到端加密。Meta则表示，Muse相关情况只在用户明确授权时发生。Signal还呼吁苹果、谷歌和微软让用户能够彻底阻止智能体访问应用。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/98ca93b324e9db02c230a0570001099bbcec9ddf.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/signal_ai_agents.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

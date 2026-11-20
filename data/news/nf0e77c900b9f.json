@@ -1,0 +1,66 @@
+{
+  "id": "nf0e77c900b9f",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达在黄仁勋去职后公布财报，并停止向中国销售H200",
+  "original_title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+  "summary": "TechCrunch的播客提到，英伟达在免去黄仁勋职务后，于本周仍公布了显示稳健增长的最新财报，同时宣布停止在中国销售H200芯片，并回绝了让黄仁勋回归担任首席执行官的呼声。",
+  "facts": [
+    {
+      "text": "英伟达在免去首席执行官黄仁勋职务后公布了最新财报，报道称增长稳健，并表示这一势头将持续。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+    },
+    {
+      "text": "该公司同时宣布停止在中国销售H200芯片，并回绝了让黄仁勋回归担任首席执行官的呼声。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "is_primary": false,
+      "published_at": "2026-11-20T22:55:44+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T22:55:44+08:00",
+  "updated_at": "2026-11-20T22:55:44+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达在黄仁勋去职后发财报并停售对华H200",
+  "lead_zh": "科技媒体的播客提到，英伟达在免去黄仁勋职务后仍公布了显示稳健增长的财报，同时宣布停止在中国销售H200芯片，并回绝了让其回归的呼声。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch在其Equity播客中提到，英伟达在免去首席执行官黄仁勋职务、处理相关风波的同时，于本周公布了最新财报。报道称公司仍实现稳健增长，并表示这一势头还将持续。与此同时，英伟达宣布将停止在中国销售H200芯片，并回绝了让黄仁勋回归担任首席执行官的呼声。",
+        "主持该期节目的是Kirsten Korosec、Anthony Ha和Tim De Chant，讨论重点还包括英伟达及更广泛人工智能行业的前景，尤其是在Anthropic上市、从而把业界循环融资模式推向检验之际。稿件未给出具体营收或利润数字。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "节目还谈了什么",
+      "paras": [
+        "节目简介还列出了同周其他话题：Waymo决定在全国范围内暂停高速公路载客、特斯拉开放Cybercab个人订单但附有严格附加条款，以及电池初创公司Our Next Energy在经历困境后走向上市。这些是同一期播客中的其他条目，并非英伟达财报本身的内容。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/4825d998e5561ccba583c3bf2da35bee54e9600d.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

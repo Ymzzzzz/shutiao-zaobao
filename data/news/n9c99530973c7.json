@@ -1,0 +1,66 @@
+{
+  "id": "n9c99530973c7",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "有人用Meta的Muse批量取关Instagram上不回关的账号",
+  "original_title": "Muse Is Unleashing a World of Pettiness on Instagram",
+  "summary": "WIRED报道，有用户利用Meta人工智能助手Muse找出并批量取关Instagram上不回关的账号。一名拥有7600多名粉丝的用户一次就得到151个账号的名单，并在社交平台分享了操作方法。",
+  "facts": [
+    {
+      "text": "有Instagram用户使用Meta的人工智能助手Muse列出并批量取关不回关的非名人账号，随后在X上分享操作方法。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
+    },
+    {
+      "text": "纽约一名拥有7600多名粉丝的用户一次就得到151个账号的分类名单；另有拥有3.32万粉丝的用户也公开了类似用法。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "is_primary": false,
+      "published_at": "2026-11-20T20:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T20:00:00+08:00",
+  "updated_at": "2026-11-20T20:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "有人用Meta助手批量取关Instagram上不回关的账号",
+  "lead_zh": "有用户利用Meta人工智能助手找出并批量取关Instagram上不回关的账号。一名拥有7600多名粉丝的用户一次就得到151个账号的名单。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED报道，Meta的人工智能助手Muse可以追踪并取关Instagram上不回关的用户，已有人把它用于批量清理关注列表。31岁的纽约用户Khalil Roberts此前听说用第三方应用清理粉丝可能被封号，但在看到有人说Muse可以批量取关后开始尝试。他当时拥有超过**7600**名粉丝，向Muse提出列出不回关的非名人账号并代为取关。",
+        "几分钟内，Muse找出了**151**个账号，并附上一份按用户名、真实姓名、分类和主页链接整理的表格，询问是否继续。其中一些名字是他曾视为朋友的人。他在**11月7日**完成清理后把方法发到X上。过去数周，类似做法在X、Instagram和Facebook上流传。拥有**33200**名粉丝的科技从业者Kimberly Munoz也说，她用这一功能查看现实中认识、却取关了自己的人。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "当事人怎么说",
+      "paras": [
+        "Roberts对WIRED表示，人们正更有意识地处理数字关系，以及让谁进入自己的网络生活，但他不打算再让Muse为自己的社交生活做更多决定。报道并未说明Meta是否调整了这一能力，也未给出平台官方回应。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/fbd2d63e6ab2b9e1009813ddb0bc4362dad6dca3.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

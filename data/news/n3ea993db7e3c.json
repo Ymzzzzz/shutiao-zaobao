@@ -1,0 +1,337 @@
+{
+  "id": "n3ea993db7e3c",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI加强对抗性蒸馏防护，降低推理轨迹被提取风险",
+  "original_title": "Combatting adversarial distillation",
+  "summary": "OpenAI介绍对抗性蒸馏的分层防护，称在内部适应性红队评估中，GPT-6.2 Astra受保护推理被提取的平均攻击成功率由54.0%降至0.2%，并说明请求层与行动层如何配合。",
+  "facts": [
+    {
+      "text": "OpenAI发布博文，介绍如何检测和阻断对抗性蒸馏，即未经授权用前沿模型输出训练另一模型，使其获得相近能力却不必继承原模型防护。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "text": "在内部适应性红队评估中，针对GPT-6.2 Astra提取受保护推理的平均攻击成功率，由GPT-6 Astra原防护下的54.0%降至更新防护后的0.2%。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，其方法把对抗测试、模型训练、分类器和API层保护，与针对协同提取行为的调查结合起来，并与生物、网络安全领域的防护更为一致。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "is_primary": true,
+      "published_at": "2026-11-20T18:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-20T18:00:00+08:00",
+  "updated_at": "2026-11-20T18:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI加强防护，遏制对抗性蒸馏窃取能力",
+  "lead_zh": "OpenAI介绍分层防护对抗性蒸馏，称在内部评估中，GPT-6.2 Astra受保护推理被提取的平均攻击成功率由54.0%降至0.2%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI发布博文，介绍如何检测和阻断对抗性蒸馏：攻击者可未经授权用前沿模型输出训练另一模型，使其获得相近能力却不必继承原有防护，例如把网络能力转移到会协助攻击的模型上。",
+        "公司尤其强调保护“受保护推理”，即模型为得出答案而生成的思维链中间步骤。在内部适应性红队评估中，针对GPT-6.2 Astra、用于恢复先前提示所生成受保护推理的平均攻击成功率，由GPT-6 Astra原防护下的**54.0%**降至更新防护后的**0.2%**。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "OpenAI称，其方法把对抗测试、模型训练、分类器和API层保护，与针对协同提取行为的调查结合起来，并与生物、网络安全领域的防护更为一致。请求层限制推理轨迹外泄，行动层则寻找协同提取迹象。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "img/5f346b2783c1e33efe2ba5fa29d08da95d511e69.jpg",
+  "image_source": "OpenAI News",
+  "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
+  "fulltext_status": "ok",
+  "read_minutes": 10,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-20",
+    "title_en": "Combatting adversarial distillation",
+    "title_zh": "遏制对抗性蒸馏",
+    "dek_en": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "dek_zh": "OpenAI 针对对抗性蒸馏的多层方法结合了模型训练、安全防护、检测和执行措施，以防止能力被提取。",
+    "word_count_zh": 3903,
+    "read_minutes": 10,
+    "omitted_note": "原文另有 1 个表格，未收录",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "随着前沿人工智能模型能力不断增强，安全防护在如何负责任地使用它们方面扮演着越来越重要的角色。对抗性蒸馏为不良行为者提供了一条途径，使其能够在没有适当防护的情况下复现这些能力。行为者可能未经授权使用前沿模型的输出，训练出具有相似能力的另一模型，然后在没有相当防护的情况下部署它。例如，对手可能蒸馏出模型的网络能力，并用得到的模型协助实施网络攻击——而这些攻击是原模型本会拒绝协助、或其防护本会阻止的。",
+        "en": "As frontier AI models become more capable, safeguards play an increasingly important role in how they can be used responsibly. Adversarial distillation creates a path for bad actors to reproduce these capabilities without appropriate safeguards. An actor may use a frontier model’s outputs without authorization to train another model with similar capabilities, then deploy it without comparable protections. For instance, an adversary might distill a model’s cyber capabilities and use the resulting model to help carry out cyberattacks that the original model would have refused to assist with or that its safeguards would have blocked."
+      },
+      {
+        "t": "p",
+        "zh": "我们分享 OpenAI 如何检测和阻断对抗性蒸馏，我们如何加强了对模型受保护推理的防护，以及我们学到的、有助于在全行业强化防御的经验。",
+        "en": "We’re sharing how OpenAI detects and disrupts adversarial distillation, how we’ve strengthened protections for our models’ protected reasoning, and what we’ve learned that can help strengthen defenses across the industry."
+      },
+      {
+        "t": "p",
+        "zh": "我们应对对抗性蒸馏的方法，把对抗性测试、模型训练、分类器和 API 层面的防护，与针对协同提取模型能力行为的调查结合起来。这些更新后的防护与我们用于生物学和网络安全的措施更加一致。",
+        "en": "Our approach to adversarial distillation combines adversarial testing, model training, classifiers, and API-level protections with investigations into coordinated attempts to extract model capabilities. These updated safeguards align more closely with those we use for biology and cybersecurity."
+      },
+      {
+        "t": "p",
+        "zh": "我们特别重视防止攻击者提取我们模型的受保护推理：即模型在得出答案过程中在内部生成的中间步骤，也称为思维链。这些轨迹可能包含最终答案中没有的信息，因此作为训练另一模型的数据尤其有价值。",
+        "en": "We place particular emphasis on preventing attackers from extracting our models’ protected reasoning: the intermediate steps a model generates internally while working toward an answer, known as its chain-of-thought. These traces can contain information the final answer leaves out, making them especially valuable training data for another model."
+      },
+      {
+        "t": "p",
+        "zh": "我们加强了 GPT-6.2 Astra 和 GPT-6.2 Sol 对受保护推理提取的防御。在一项使用强力自动化红队测试的内部自适应评估中，我们测试了攻击者能否恢复模型在回答先前提示时生成的受保护推理。平均攻击成功率从针对采用原有防护的 GPT-6 Astra 的 54.0%，降至针对采用更新防护的 GPT-6.2 Astra 的 0.2%。",
+        "en": "We’ve strengthened our defenses against protected reasoning extraction in GPT‑6.2 Astra and GPT‑6.2 Sol. In an internal adaptive evaluation using strong automated red-teaming, we tested whether attackers could recover protected reasoning the model had generated while answering an earlier prompt. The average attack success rate fell from 54.0% against GPT‑6 Astra with its original safeguards to 0.2% against GPT‑6.2 Astra with its updated safeguards."
+      },
+      {
+        "t": "h",
+        "zh": "为什么蒸馏是一个安全问题",
+        "en": "Why distillation is a safety issue"
+      },
+      {
+        "t": "p",
+        "zh": "蒸馏是一种常见的机器学习技术，其中一个模型从另一个模型产生的数据中学习。例如，一个模型可以从另一模型的答案、推理，或其关于哪些答案更好以及原因的判断中学习。除知识产权问题外，未经授权的蒸馏还会带来严重的安全风险。通过对抗性蒸馏，第二个模型可以学到先进的前沿能力，却不会继承约束原模型如何使用这些能力的防护措施。",
+        "en": "Distillation is a common machine-learning technique in which one model learns from data produced by another. For example, a model can learn from another model’s answers, its reasoning, or its judgments about which answers are better and why. Beyond intellectual property concerns, unauthorized distillation poses serious safety risks. Through adversarial distillation, a second model can learn advanced frontier capabilities without inheriting the safeguards that govern how the original model can use them."
+      },
+      {
+        "t": "p",
+        "zh": "这种担忧在网络安全和生物学等两用领域尤为明显。一个帮助防御者发现软件漏洞的模型，也可能帮助攻击者利用这些漏洞；一个协助生物学研究的模型，也可能帮助某人研制有害病原体。如果这些能力被转移到防护更弱的模型上，它可能提供原模型本会拒绝、或原有防护本会阻止的协助。",
+        "en": "The concern is especially clear in dual-use domains like cybersecurity and biology. A model that helps defenders find vulnerabilities in software could also help an attacker exploit them; a model that assists with biological research could also help someone develop a harmful pathogen. If such capabilities were transferred to a model with weaker safeguards, it may provide assistance that the original model would have refused, or that the original safeguards would have blocked."
+      },
+      {
+        "t": "h",
+        "zh": "保护精确推理轨迹对网络安全的重要性",
+        "en": "The importance of protecting exact reasoning traces for cyber safety"
+      },
+      {
+        "t": "p",
+        "zh": "我们的模型帮助用户完成编程和防御性网络安全任务。第二个模型如果在大量这类良性输出上训练，可能会学到同样适用于进攻性网络安全任务的技能。为了更好地理解这一点，我们研究蒸馏——尤其是涉及推理轨迹的蒸馏——可能如何转移有风险的网络能力。",
+        "en": "Our models help users with coding and defensive cybersecurity tasks. A second model trained on many of those benign outputs may learn skills that also apply to offensive cybersecurity tasks. To better understand this, we study how distillation, especially involving reasoning traces, may transfer risky cyber capabilities."
+      },
+      {
+        "t": "p",
+        "zh": "在这一设定中，产生训练数据的模型称为教师模型，从中学习的模型称为学生模型。在一项关于网络能力如何转移的内部研究中，我们将通常对用户可见的内容——最终回复、推理摘要和工具交互——作为蒸馏的基线，并测试当学生能够获得教师的精确推理轨迹时，还会额外转移多少网络能力。",
+        "en": "In this setting, the model that produces the training data is called the teacher, and the model that learns from it is called the student. In an internal study on how cyber capabilities transfer, we used the content normally visible to users—final responses, reasoning summaries, and tool interactions—as our baseline for distillation, and tested how much additional cyber capability transfers when the student has access to the teacher’s exact reasoning traces."
+      },
+      {
+        "t": "p",
+        "zh": "每次训练都从同一个预训练学生模型开始。我们创建了一个监督微调数据集，主要由 Astra 级别教师模型在编程和防御性网络安全任务上的轨迹组成。每条轨迹包括模型完成任务时采取的全部步骤，包括任何工具交互及其最终回复。我们在微调之后评估每个学生，并在网络安全和编程环境中经过一轮轻量强化学习后再评估一次。",
+        "en": "We started each training run from the same pretrained student model. We created a supervised fine-tuning dataset consisting primarily of trajectories from Astra-level teacher models working on coding and defensive cybersecurity tasks. Each trajectory includes all of the steps a model takes as it works through a task, including any tool interactions and its final response. We evaluated each student after fine-tuning and again after a lightweight round of reinforcement learning in cybersecurity and coding environments."
+      },
+      {
+        "t": "p",
+        "zh": "监督微调之后，在精确推理轨迹上训练的学生通常优于在推理摘要上训练的学生。经过强化学习后，在所测试的最大推理预算下，精确轨迹学生在所示的两项基准上得分仍然更高，而在较低预算下，摘要训练的学生得分更高。",
+        "en": "After supervised fine-tuning, the student trained on exact reasoning traces generally outperformed the student trained on reasoning summaries. After reinforcement learning, the exact-trace student still scored higher at the largest inference budget tested on both benchmarks shown, while the summary-trained student scored higher at lower budgets."
+      },
+      {
+        "t": "p",
+        "zh": "我们的网络蒸馏结果表明，即使底层任务是使用政策允许的，保护推理轨迹也可以限制网络能力的转移。在大量此类交互中，精确推理轨迹可以教给学生超越教师原先所执行任务的技能。我们将继续研究，在不同学生模型和蒸馏训练方法下，还会额外转移多少能力。",
+        "en": "Our cyber distillation results suggest that protecting reasoning traces can limit cyber capability transfer, even when the underlying task is one allowed under our usage policies. Across many such interactions, exact reasoning traces can teach a student skills that generalize beyond the tasks the teacher originally performed. We will continue studying how much additional capability transfers across different student models and distillation training recipes."
+      },
+      {
+        "t": "h",
+        "zh": "相互加强的防御",
+        "en": "Defenses that reinforce one another"
+      },
+      {
+        "t": "p",
+        "zh": "我们在防护体系的两个互补层面防御对抗性蒸馏。在请求层面，模型行为、分类器检查和 API 控制限制推理轨迹被提取。在活动层面，我们寻找请求级和账户级信号中的模式，以揭示协同提取企图。反过来，调查中发现的攻击会成为训练和测试防护措施的示例。",
+        "en": "We defend against adversarial distillation at two complementary levels of our safeguard stack. At the request level, model behavior, classifier checks, and API controls limit reasoning trace extraction. At the campaign level, we look for patterns in request-level and account-level signals that can reveal coordinated extraction attempts. In turn, attacks uncovered in investigations become examples for training and testing our safeguards."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/cdcdf29fc196362288d56ef321d2c3d36395dd3f.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/v3SwlCju2INrQ6LXdq8eB/d0aca54aed53ede3aee7ffc0c40b0646/combatting-adversarial-distillation-diagram-light.png?w=3840&q=90&fm=webp",
+        "caption_zh": "我们针对对抗性蒸馏的防御，把针对单个请求的防护与活动检测和执行措施结合起来。调查和自动化红队测试的发现有助于加强这些防护。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "t": "h",
+        "zh": "保护单个请求和响应",
+        "en": "Protecting individual requests and responses"
+      },
+      {
+        "t": "h",
+        "zh": "针对模型行为的防御性训练",
+        "en": "Defensive training for model behavior"
+      },
+      {
+        "t": "p",
+        "zh": "对抗训练教模型识别推理提取企图并拒绝披露受保护推理，同时保留对正当解释和协助请求的回复。对抗训练样本来自内部自动化红队测试、调查，以及外部研究人员或行业合作伙伴对潜在安全弱点的负责任披露中发现的成功攻击。",
+        "en": "Adversarial training teaches models to recognize reasoning extraction attempts and refuse to disclose protected reasoning, while preserving responses to legitimate requests for explanations and assistance. Adversarial training examples come from successful attacks identified through internal automated red-teaming, investigations, and responsible disclosures of potential security weaknesses from outside researchers or industry partners."
+      },
+      {
+        "t": "h",
+        "zh": "分类器防护",
+        "en": "Classifier safeguards"
+      },
+      {
+        "t": "p",
+        "zh": "我们使用输入分类器来检测提取受保护推理的企图，并使用输出分类器来检测助手消息和工具调用参数中的受保护推理泄露。这些防护同时适用于流式和非流式响应。",
+        "en": "We use input classifiers to detect attempts to extract protected reasoning, and output classifiers to detect leaks of protected reasoning in assistant messages and tool-call arguments. These safeguards apply to both streaming and non-streaming responses."
+      },
+      {
+        "t": "p",
+        "zh": "覆盖工具调用很重要，因为模型可能在工具参数中暴露受保护推理，而不把它写进最终答案。输出分类器可以在这类内容到达调用方之前阻止可疑泄露。",
+        "en": "Tool-call coverage is important because a model can expose protected reasoning in a tool’s arguments without including it in its final answer. Output classifiers can block suspected leaks before that content reaches the caller."
+      },
+      {
+        "t": "h",
+        "zh": "API 层面的防护",
+        "en": "API-level protections"
+      },
+      {
+        "t": "p",
+        "zh": "API 层面的防护限制受保护推理在不同交互和模型之间被重复使用。我们在 9 月的披露中描述了这样的攻击：把加密推理从一次对话转移到另一次对话，并要求模型以用户可读的形式揭示该推理。我们加强了跨越用户、工作区、组织和模型系列边界的防护，包括关闭一条可能暴露另一用户加密推理的路径。",
+        "en": "API-level protections restrict how protected reasoning can be reused across interactions and models. Our September disclosure described attacks that moved encrypted reasoning from one conversation into another and asked the model to reveal the reasoning in user-readable form. We strengthened protections across user, workspace, organization, and model-family boundaries, including closing a pathway that could expose another user’s encrypted reasoning."
+      },
+      {
+        "t": "p",
+        "zh": "在 GPT-6.2 Astra 和 GPT-6.2 Sol 上，我们把模型的受保护推理与产生它的对话历史绑定。随着新消息加入，模型可以基于先前的推理继续推进。如果更早的一条消息被改写，我们的 API 会丢弃其后产生的推理。我们还防止防护较弱的较旧模型系列读取 GPT-6.2 Astra 和 Sol 的受保护推理。",
+        "en": "With GPT‑6.2 Astra and GPT‑6.2 Sol, we tie a model’s protected reasoning to the conversation history that produced it. As new messages are added, the model can build on its earlier reasoning. If an earlier message is rewritten, our API drops the reasoning that followed it⁠(opens in a new window). We also prevent older model families with weaker safeguards from reading GPT‑6.2 Astra and Sol’s protected reasoning."
+      },
+      {
+        "t": "h",
+        "zh": "调查并阻断协同活动",
+        "en": "Investigating and disrupting coordinated campaigns"
+      },
+      {
+        "t": "p",
+        "zh": "当我们的系统检测到未经授权的对抗性蒸馏活动（其中往往包括协同提取我们模型推理的企图）时，我们会调查相关账户。一旦确认违规，我们会根据政策和用户条款对该账户网络采取执行措施。通过对每项活动的调查，我们形成见解，以便升级防御，更好地检测类似行为。我们还会与其他模型提供方分享入侵指标，以便它们调查自己服务上的相关滥用。",
+        "en": "When our systems detect unauthorized adversarial distillation campaigns, which often include coordinated attempts to extract our models’ reasoning, we investigate the accounts responsible. When we identify violations, we enforce against the network of accounts, consistent with our policies and terms of service. Through investigations of each campaign, we generate insights that allow us to upgrade our defenses in order to better detect similar activity. We also share indicators of compromise with other model providers so they can investigate related abuse on their own services."
+      },
+      {
+        "t": "p",
+        "zh": "这项工作超出了我们自己的平台。我们的一致标准政策为提供我们模型的各方确立了防护和协同执行的共同标准。我们在适当情况下与合作伙伴密切合作，以维护这些标准并加强各部署环境中的防护。",
+        "en": "This work extends beyond our own platform. Our consistent-standards policy establishes shared standards for safeguards and coordinated enforcement across providers offering our models. We work closely with partners where appropriate to uphold these standards and strengthen protections across deployments."
+      },
+      {
+        "t": "p",
+        "zh": "在适当情况下，在行业和政府之间分享相关发现，有助于阻断此类活动，并使模型开发者和提供方能更好地识别和防御蒸馏前沿模型的企图。",
+        "en": "Sharing relevant findings across industry and government where appropriate can help disrupt campaigns and enable model developers and providers to better identify and defend against attempts to distill frontier models."
+      },
+      {
+        "t": "h",
+        "zh": "衡量进展",
+        "en": "Measuring progress"
+      },
+      {
+        "t": "h",
+        "zh": "对推理提取的抵抗力",
+        "en": "Resistance to reasoning extraction"
+      },
+      {
+        "t": "p",
+        "zh": "为了衡量请求级防护如何协同发挥作用，我们在一个尽量接近模型和防护生产部署的环境中，测试攻击者是否仍能提取受保护推理。在静态评估中，我们重放一组此前成功的攻击，看哪些仍能暴露受保护推理。在自适应评估中，自动化人工智能红队会根据系统的反应调整方法，这可能发现静态测试遗漏的弱点。",
+        "en": "To measure how well our request-level safeguards work together, we test whether attackers can still extract protected reasoning in a setup that closely mirrors production deployments of our models and safeguards. In static evaluations, we replay a fixed set of previously successful attacks to see which still expose protected reasoning. In adaptive evaluations, automated AI red-teamers adjust their approach based on how the system responds, which can uncover weaknesses the static tests miss."
+      },
+      {
+        "t": "p",
+        "zh": "我们还会改变测试者所能看到的信息。黑盒测试给他们的视野与外部用户相同，白盒测试则提供关于系统的额外信息，以帮助他们发展更强的攻击。在自适应黑盒评估中，我们测试了攻击者能否恢复模型在回答先前请求或当前请求时生成的受保护推理。在采用更新防护的 GPT-6.2 Astra 上，每种攻击类型的平均攻击成功率都低于 1%。这两个比率都显著低于采用原有防护的 GPT-6 Astra。我们现在也正在把选定的防护改进应用到 GPT-6 Astra 上。",
+        "en": "We also vary what testers can see. Black-box testing gives them the same view an external user would have, while white-box testing gives them additional information about the system to help them develop stronger attacks. In our adaptive black-box evaluation, we tested whether attackers could recover protected reasoning the model had generated while answering an earlier request or the current one. On GPT‑6.2 Astra with its updated safeguards, the average attack success rate was below 1% for each attack type. Both rates were substantially lower than on GPT‑6 Astra with its original safeguards. We’re now applying selected safeguard improvements to GPT‑6 Astra as well."
+      },
+      {
+        "t": "p",
+        "zh": "针对 GPT-6 Astra 和 GPT-6.2 Astra 的自适应黑盒红队测试中的攻击成功率（ASR），在六个攻击者模型上汇总。ASR 越低越好。",
+        "en": "Attack success rate (ASR) in adaptive black-box red-teaming against GPT‑6 Astra and GPT‑6.2 Astra, aggregated across six attacker models. Lower ASR is better."
+      },
+      {
+        "t": "h",
+        "zh": "活动检测与执行",
+        "en": "Campaign detection and enforcement"
+      },
+      {
+        "t": "p",
+        "zh": "今年我们在平台上发现了多起未经授权的对抗性蒸馏活动，并在 9 月的报告中分享了初步发现。我们针对这些活动的每周执行行动规模从数千个账户到数万个账户不等，且这一比率在刚过去的夏季显著上升。",
+        "en": "We have seen multiple unauthorized adversarial distillation campaigns on our platform this year, and shared initial findings in our September report. Our weekly enforcement actions against these campaigns have ranged in scale from thousands to tens of thousands of accounts, with the rate increasing significantly this past summer."
+      },
+      {
+        "t": "p",
+        "zh": "为了衡量我们工作的效果，我们还跟踪蒸馏滥用的普遍程度，以及从检测到执行之间的时间。我们的目标是限制蒸馏者能够获得的数据量和价值，提高蒸馏活动的成本，并缩短应对新攻击所需的时间。我们继续通过对抗性测试和调查来改进这些防御。",
+        "en": "In order to measure the effectiveness of our efforts, we also track the prevalence of distillation abuse, as well as the time between detection and enforcement. Our objective is to constrain the volume and value of the data distillers are able to obtain, to increase the cost of distillation campaigns, and to shorten the time needed to respond to new attacks. We continue to improve these defenses through adversarial testing and investigations."
+      },
+      {
+        "t": "h",
+        "zh": "对抗性蒸馏的国家安全影响",
+        "en": "The national security implications of adversarial distillation"
+      },
+      {
+        "t": "p",
+        "zh": "对抗性蒸馏也构成国家安全风险。外国行为者如果从美国模型复现先进能力，就可以在没有开发者所设防护的情况下部署它们。今年 2 月，我们就有迹象表明 DeepSeek 试图蒸馏美国前沿模型一事向国会做了通报。9 月，我们报告阻断了一场提取我们模型受保护推理的活动，并将其中核心部分归因于与 Moonshot AI（Kimi 的开发者）有关联的个人。我们计划很快分享更多关于近期已阻断活动的信息。",
+        "en": "Adversarial distillation also poses a national security risk. A foreign actor that reproduces advanced capabilities from a U.S. model can deploy them without the protections its developer put in place. In February, we briefed⁠(opens in a new window) Congress on activity indicating that DeepSeek was attempting to distill U.S. frontier models. In September, we reported disrupting a campaign to extract our models’ protected reasoning and attributed a core part of that activity to individuals associated with Moonshot AI, the developer of Kimi. We plan to share more soon about recent campaigns we’ve disrupted."
+      },
+      {
+        "t": "p",
+        "zh": "我们支持赋予美国政府更多工具、以识别和制裁非法提取美国人工智能模型能力的外国行为者的立法。我们还向国会表示，支持《芯片安全法案》（Chip Security Act）、《人工智能 OVERWATCH 法案》（AI OVERWATCH Act）和《MATCH 法案》。更严格的出口管制可以限制对手获得训练前沿模型所需的硬件。蒸馏防御则使从已经训练好的模型获取部分相同能力变得更难。这两方面的努力都有助于保持美国在前沿人工智能上的领先，让开发者在需要时间测试防护时有更大空间放缓发布。",
+        "en": "We support legislation that would give the U.S. government more tools to identify and sanction foreign actors that illicitly extract capabilities from American AI models. We’ve also told Congress we support the Chip Security Act, the AI OVERWATCH Act, and the MATCH Act. Stronger export controls can limit adversaries’ access to the hardware needed to train frontier models. Distillation defenses make it harder to acquire some of the same capabilities from models already trained. Both efforts help maintain a U.S. lead in frontier AI, giving developers more room to slow a release when they need time to test safeguards."
+      },
+      {
+        "t": "h",
+        "zh": "其他人如何借鉴这项工作",
+        "en": "How others can build on this work"
+      },
+      {
+        "t": "p",
+        "zh": "支持前沿能力的安全扩散，是我们反蒸馏工作的一个重要目标。迄今的经验表明，其他模型开发者和平台可以采取若干有用步骤：",
+        "en": "Supporting the safe proliferation of frontier capabilities is an important goal of our anti-distillation work. Our experience so far suggests several useful steps that other model developers and platforms can take:"
+      },
+      {
+        "t": "p",
+        "zh": "• 在完整交互过程中保护私有推理。检查助手消息和工具调用参数中的泄露，并限制加密推理在不同对话和模型之间被重复使用。",
+        "en": "• Protect private reasoning across the full interaction. Check assistant messages and tool-call arguments for leaks, and restrict how encrypted reasoning can be reused across conversations and models."
+      },
+      {
+        "t": "p",
+        "zh": "• 把通过红队测试、生产监测或负责任披露发现的成功提取攻击日志保留为回归测试。在适当情况下，并符合适用的隐私政策，用这些例子改进模型训练和分类器。在评估更新后的防御时，重放原先的攻击，并测试自适应红队是否仍能找到突破这些防御的方法。",
+        "en": "• Keep successful extraction attack logs found through red-teaming, production monitoring, or responsible disclosure as regression tests. Where appropriate, and consistent with applicable privacy policies, use those examples to improve model training and classifiers. When evaluating updated defenses, replay the original attacks and test whether an adaptive red-teamer can still find a way through those defenses."
+      },
+      {
+        "t": "p",
+        "zh": "• 把请求级缓解措施与活动级调查和执行结合起来。",
+        "en": "• Combine request-level mitigations with campaign-level investigation and enforcement."
+      },
+      {
+        "t": "p",
+        "zh": "• 与部署合作伙伴协调防护要求和执行，并与其他人工智能模型开发者分享专业知识，以确保全行业的蒸馏防护保持高门槛。",
+        "en": "• Coordinate safeguard requirements and enforcement with deployment partners, and share expertise with other AI model developers, to ensure a high floor of distillation safeguards across the industry."
+      },
+      {
+        "t": "p",
+        "zh": "我们此前还通过前沿模型论坛（Frontier Model Forum）以及适当的政府信息共享渠道分享发现，以帮助其他开发者加强防御，同时不公开攻击者可能利用的细节。我们将继续与研究人员、开发者和合作伙伴合作，分享我们了解到的新出现的攻击和有效防御。",
+        "en": "We have previously also shared findings through the Frontier Model Forum⁠(opens in a new window) and appropriate government information-sharing channels to help other developers strengthen their defenses while keeping the details attackers could exploit private. We’ll continue working with researchers, developers, and partners to share what we learn about emerging attacks and effective defenses."
+      },
+      {
+        "t": "p",
+        "zh": "在我们让前沿人工智能广泛可用的同时，针对对抗性蒸馏的防御旨在降低其能力在缺乏充分防护的情况下被复现的风险，从而支持我们的使命：确保人工通用智能得到安全部署，并惠及全人类。",
+        "en": "As we make frontier AI broadly available, our defenses against adversarial distillation aim to reduce the risk that its capabilities are reproduced without adequate safeguards, supporting our mission to ensure that artificial general intelligence is deployed safely and benefits all of humanity."
+      }
+    ]
+  }
+}

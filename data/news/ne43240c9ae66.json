@@ -1,0 +1,66 @@
+{
+  "id": "ne43240c9ae66",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "报道称太空数据中心融资遇阻，贷款机构不愿芯片被送入轨道",
+  "original_title": "Chips can survive the space environment — can their financing?",
+  "summary": "TechCrunch报道，数据中心常以芯片作贷款抵押。英国《金融时报》称，为SpaceX约400亿美元芯片融资提供贷款的机构要求，所购芯片不得用于该公司的轨道数据中心计划。",
+  "facts": [
+    {
+      "text": "数据中心建设通常依赖债务融资，并以芯片作为抵押，以便贷款机构在违约时收回并转售芯片。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    },
+    {
+      "text": "英国《金融时报》报道，为SpaceX约400亿美元芯片融资提供贷款的机构要求，所购芯片不得用于该公司的轨道数据中心计划。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "is_primary": false,
+      "published_at": "2026-11-21T01:40:01+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T01:40:01+08:00",
+  "updated_at": "2026-11-21T01:40:01+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称贷款机构不愿抵押芯片被送入轨道",
+  "lead_zh": "科技媒体援引《金融时报》称，为SpaceX约400亿美元芯片融资提供贷款的机构要求，所购芯片不得用于该公司的轨道数据中心计划。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch写道，在太空建设数据中心除了工程和运力难题，还面临融资问题。地面数据中心通常靠借贷扩建，并以芯片作为抵押：一旦违约，贷款机构可以收回芯片再转售，从而降低融资成本。Compute Credit Index Research的数据显示，部分H100仍能卖到2023年成本基础的约一半，部分H200配置的售价与2024年推出时相当。",
+        "但安装在轨道卫星上的芯片难以被收回。英国《金融时报》报道，为SpaceX约**400亿美元**芯片融资提供贷款的机构要求，所购芯片不得用于该公司的轨道数据中心计划。目前尚不清楚SpaceX是否同意这一条款。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "近期影响",
+      "paras": [
+        "报道认为，这在短期内未必影响该公司，因为SpaceX在地面站部署算力已被证明有利可图。文章还以轨道高度约**300英里**、时速约**17500英里**来说明，贷款机构为何难以把作为抵押的芯片从太空中收回。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/c478e019fd24323c24235d8cd8c603fb5fb9bf24.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

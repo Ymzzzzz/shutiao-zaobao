@@ -1,0 +1,72 @@
+{
+  "id": "n08b074f7bce0",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "特朗普扬言对把人工智能数据中心建在海外的企业征收重税",
+  "original_title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+  "summary": "特朗普周五在与中俄领导人会晤后的记者会上表示，不会允许美国公司把数据中心建在海外，并扬言要对相关企业征收“巨额税收”。他承认这个想法甚至还没有先跟自己的团队说过。",
+  "facts": [
+    {
+      "text": "美国总统特朗普周五在记者会上表示，不会允许美国公司把数据中心建在海外，并扬言要对此征收“巨额税收”。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    },
+    {
+      "text": "他承认尚未把这一想法告诉自己的团队，是在记者会上首次公开提出。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据特朗普称，如果允许数据中心建在海外，就会重演芯片等产业外流并对国家造成破坏。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "is_primary": false,
+      "published_at": "2026-11-21T02:50:19+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T02:50:19+08:00",
+  "updated_at": "2026-11-21T02:50:19+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "特朗普扬言对海外建设人工智能数据中心征重税",
+  "lead_zh": "特朗普在记者会上表示，不会允许美国公司把数据中心建在海外，并扬言要征收“巨额税收”，同时承认这一想法还没有先跟团队说过。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge报道，美国总统唐纳德·特朗普承诺，要对在美国以外建设数据中心的公司征收“巨额税收”。他是在周五与中国国家主席习近平、俄罗斯总统弗拉基米尔·普京会晤后的记者会上作出上述表示的。现场还有副总统JD·万斯和国务卿马尔科·鲁比奥。",
+        "特朗普说：“我们不会允许我们的公司把数据中心建在国外。”他同时承认细节很少，并且是第一次公开提出这一设想：“我还没有对我的人说过这话……但我现在告诉他们。他们在场，他们很多人在场。”报道还指出，与此同时美国各地已有州和城市在限制新建数据中心的申请。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么解释",
+      "paras": [
+        "特朗普称，过去允许芯片等产业外流“对我们的国家非常具有破坏性”，并警告若再允许数据中心建在海外，美国就会再次落后。报道写明，他没有给出这项税收的具体税率或实施方式。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/06aa11d406978f33cea33db8550131033784bcab.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

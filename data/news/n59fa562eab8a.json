@@ -1,0 +1,66 @@
+{
+  "id": "n59fa562eab8a",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "Spotify创始人埃克投资人工智能研究者创办的核聚变公司",
+  "original_title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+  "summary": "TechCrunch报道，Spotify创始人丹尼尔·埃克正在支持英国初创公司Europa Fusion。该公司由曾任职于DeepMind、并担任Pacific Fusion机器学习负责人的研究者南塔斯·纳尔代利于今年2月创办。",
+  "facts": [
+    {
+      "text": "Spotify创始人丹尼尔·埃克正在支持英国核聚变初创公司Europa Fusion，该公司由人工智能研究者南塔斯·纳尔代利于今年2月创办。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    },
+    {
+      "text": "纳尔代利曾在谷歌DeepMind、Facebook人工智能研究院和微软剑桥研究院工作，近曾任加州弗里蒙特Pacific Fusion的机器学习负责人。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "is_primary": false,
+      "published_at": "2026-11-21T03:53:41+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T03:53:41+08:00",
+  "updated_at": "2026-11-21T03:53:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Spotify创始人投资人工智能研究者的核聚变公司",
+  "lead_zh": "科技媒体报道，音乐流媒体公司创始人投资一家英国核聚变初创公司，创始人是曾在大模型实验室和核聚变企业任职的研究者。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch报道，Spotify创始人丹尼尔·埃克正在支持一家尚处隐秘阶段的核聚变初创公司Europa Fusion。彭博社率先报道了埃克的这一投资。该公司总部位于英国，于今年**2月**创办，创始人是人工智能研究者南塔斯·纳尔代利（Nantas Nardelli）。知情人士告诉TechCrunch，他为这个想法准备的时间更长。",
+        "纳尔代利曾在谷歌DeepMind、Facebook人工智能研究院和微软剑桥研究院工作，近曾任加州弗里蒙特核聚变公司Pacific Fusion的机器学习负责人。Pacific Fusion最近已在新墨西哥州破土建设示范设施。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道还写了什么",
+      "paras": [
+        "TechCrunch写道，纳尔代利采取了与不少同行不同的路径来发展核聚变电站。报道并未给出本轮投资金额。文章还提到，与多数同等规模的核聚变初创公司一样，Pacific Fusion在很大程度上依靠实体装置来验证理论并改进模拟。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/33ecf6ccf3997b21060d5d4781ddecdf02991fed.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

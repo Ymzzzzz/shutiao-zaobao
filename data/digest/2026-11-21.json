@@ -1,0 +1,3444 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T07:27:02+08:00",
+  "summary_mode": "ai",
+  "top_items": [
+    "n3ea993db7e3c",
+    "nd15c45643214",
+    "nf4784c304003"
+  ],
+  "items": [
+    {
+      "id": "n3ea993db7e3c",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "OpenAI加强对抗性蒸馏防护，降低推理轨迹被提取风险",
+      "original_title": "Combatting adversarial distillation",
+      "summary": "OpenAI介绍对抗性蒸馏的分层防护，称在内部适应性红队评估中，GPT-6.2 Astra受保护推理被提取的平均攻击成功率由54.0%降至0.2%，并说明请求层与行动层如何配合。",
+      "facts": [
+        {
+          "text": "OpenAI发布博文，介绍如何检测和阻断对抗性蒸馏，即未经授权用前沿模型输出训练另一模型，使其获得相近能力却不必继承原模型防护。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/combatting-adversarial-distillation"
+        },
+        {
+          "text": "在内部适应性红队评估中，针对GPT-6.2 Astra提取受保护推理的平均攻击成功率，由GPT-6 Astra原防护下的54.0%降至更新防护后的0.2%。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/combatting-adversarial-distillation"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据OpenAI称，其方法把对抗测试、模型训练、分类器和API层保护，与针对协同提取行为的调查结合起来，并与生物、网络安全领域的防护更为一致。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/combatting-adversarial-distillation"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "is_primary": true,
+          "published_at": "2026-11-20T18:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T18:00:00+08:00",
+      "updated_at": "2026-11-20T18:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "OpenAI加强防护，遏制对抗性蒸馏窃取能力",
+      "lead_zh": "OpenAI介绍分层防护对抗性蒸馏，称在内部评估中，GPT-6.2 Astra受保护推理被提取的平均攻击成功率由54.0%降至0.2%。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "OpenAI发布博文，介绍如何检测和阻断对抗性蒸馏：攻击者可未经授权用前沿模型输出训练另一模型，使其获得相近能力却不必继承原有防护，例如把网络能力转移到会协助攻击的模型上。",
+            "公司尤其强调保护“受保护推理”，即模型为得出答案而生成的思维链中间步骤。在内部适应性红队评估中，针对GPT-6.2 Astra、用于恢复先前提示所生成受保护推理的平均攻击成功率，由GPT-6 Astra原防护下的**54.0%**降至更新防护后的**0.2%**。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "OpenAI称，其方法把对抗测试、模型训练、分类器和API层保护，与针对协同提取行为的调查结合起来，并与生物、网络安全领域的防护更为一致。请求层限制推理轨迹外泄，行动层则寻找协同提取迹象。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        }
+      ],
+      "image_url": "img/5f346b2783c1e33efe2ba5fa29d08da95d511e69.jpg",
+      "image_source": "OpenAI News",
+      "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
+      "fulltext_status": "ok",
+      "read_minutes": 10
+    },
+    {
+      "id": "nd15c45643214",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "Hebbia测试称GPT-6 Astra提升金融研究覆盖与演示质量",
+      "original_title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia用GPT-6 Astra做金融研究预发布评测，称在需引用的来源类型上比最佳对照高13.6个百分点，所引片段相关性达99.5%，演示要求满足率为97.9%。",
+      "facts": [
+        {
+          "text": "Hebbia在其Matrix产品中测试GPT-6 Astra，用于查找问题所需来源，并生成符合银行家要求的演示文稿。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/hebbia"
+        },
+        {
+          "text": "预发布评测显示，GPT-6 Astra在引用所需来源类型上比最佳对照高13.6个百分点，所引片段相关性为99.5%，演示要求满足率为97.9%。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/hebbia"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Hebbia称，GPT-6 Astra是他们测试过的首个在遵循简报与演示质量两项上都排第一的模型。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/hebbia"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "is_primary": true,
+          "published_at": "2026-11-20T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T08:00:00+08:00",
+      "updated_at": "2026-11-20T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Hebbia测试称GPT-6 Astra提升金融研究质量",
+      "lead_zh": "Hebbia用GPT-6 Astra做金融研究预发布评测，称在需引用的来源类型上比最佳对照高13.6个百分点，所引片段相关性达99.5%。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "金融研究平台Hebbia在Matrix工作流中测试OpenAI的GPT-6 Astra，用于两项任务：找到问题所需来源，以及按银行家简报生成演示文稿。测试使用2026年8月至9月的预发布版本，并由领域专家按源文件撰写或审核评分标准。",
+            "在Hebbia的测试中，GPT-6 Astra在引用所需来源类型上比所测最佳对照高出**13.6个百分点**，其所引片段有**99.5%**与问题相关。在演示方面，它满足了**97.9%**的适用要求，该项比最佳对照高出**14.4个百分点**。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "Hebbia方面表示，可追溯性对用户很重要，因为他们会依据模型结果做出涉及大量资金的决策。一位名为Kavita的人士称，GPT-6 Astra是他们测试过的首个在遵循简报与演示完成度上都排第一的模型。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        }
+      ],
+      "image_url": "img/a73493e5138b05a533f5dfea2473f25f09cf96bc.jpg",
+      "image_source": "OpenAI News",
+      "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
+      "fulltext_status": "ok",
+      "read_minutes": 4
+    },
+    {
+      "id": "nf4784c304003",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "OpenAI发布MedChemBench，评估模型辅助早期药物发现",
+      "original_title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "OpenAI推出医药化学基准MedChemBench，含99道题、117篇论文与专利、761个分子结构。在xhigh设定下，GPT-6.2 Astra获得84.5%的可用分数。",
+      "facts": [
+        {
+          "text": "OpenAI发布MedChemBench，用99道来自已发表研究的题目，评估模型能否结合分子结构与实验证据解释结果、比较化合物并预测性质。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-medchembench"
+        },
+        {
+          "text": "该基准涵盖117篇论文与专利、761个不同分子结构。在xhigh推理设定下，GPT-6.2 Astra获得84.5%的可用分数，GPT-6 Astra为83.3%。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-medchembench"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据OpenAI称，这些结果并不能证明模型可以发现新药或改善实验室决策，也不能排除模型事先接触过已发表文献。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-medchembench"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "is_primary": true,
+          "published_at": "2026-11-20T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T08:00:00+08:00",
+      "updated_at": "2026-11-20T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "OpenAI推出医药化学基准评估药物发现推理",
+      "lead_zh": "OpenAI推出医药化学评测基准，共99道题，取材117篇论文与专利。在最高推理档位下，其最新模型获得84.5%的可用分数。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "OpenAI发布基准MedChemBench，用**99**道来自已发表研究的题目，评估模型能否把分子结构与实验证据联系起来，以解释结果、比较化合物并预测性质。基准取材于**117**篇论文与专利，包含**761**个不同分子结构。",
+            "在xhigh推理设定下，GPT-6.2 Astra获得**84.5%**的可用分数，对照为GPT-6 Astra的**83.3%**、GPT-6.1 Sol的**82.0%**、GPT-5.6 Sol的**58.2%**。GPT-6 Astra在结构重建一项上获得**95.4%**的可用分数，但在选择化合物和预测数值性质上大约只拿到一半分数。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "OpenAI称，这些结果并不能证明模型可以发现新药或改善实验室决策；也不能排除模型事先接触过已发表来源。每道题只允许单次作答，且不提供工具、反馈或新实验。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        }
+      ],
+      "image_url": "img/cef593286663340ce095dfd3f1210381e6fc4563.jpg",
+      "image_source": "OpenAI News",
+      "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
+      "fulltext_status": "ok",
+      "read_minutes": 5
+    },
+    {
+      "id": "n10b4b43a15f3",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "消息称语用科技完成新一轮融资，估值达50亿美元",
+      "original_title": "消息称林俊旸从阿里离职后创办的 AI 公司语用科技完成新一轮融资，估值达 50 亿美元",
+      "summary": "据彭博社报道，林俊旸创办的语用科技Pragmatik Labs完成新一轮融资，估值达50亿美元；知情人士称本轮筹资数千万美元，新投资者包括华业天成、鼎晖和吉利。",
+      "facts": [
+        {
+          "text": "据彭博社报道，林俊旸今年夏天创办的语用科技Pragmatik Labs已完成新一轮融资，估值达50亿美元。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/176.htm"
+        },
+        {
+          "text": "知情人士称本轮筹资数千万美元；今年8月首轮融资后估值20亿美元，由高榕创投和红杉中国共同领投。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/176.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据知情人士称，新晋投资方包括华业天成资本、鼎晖投资以及吉利汽车控股有限公司。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/176.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/176.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T17:59:30+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T17:59:30+08:00",
+      "updated_at": "2026-11-20T17:59:30+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "消息称语用科技新一轮融资后估值50亿美元",
+      "lead_zh": "据彭博社报道，林俊旸创办的语用科技Pragmatik Labs完成新一轮融资，估值达50亿美元，知情人士称本轮筹资数千万美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，据彭博社报道，林俊旸从阿里离职后于今年夏天创立的语用科技Pragmatik Labs已完成新一轮融资，估值达**50亿美元**。知情人士透露，公司在本轮融资中筹集了数千万美元。",
+            "今年**8月**，该公司在数亿美元的首轮融资中获得**20亿美元**估值。IT之家此前报道，林俊旸曾透露首轮由高榕创投和红杉中国共同领投，腾讯和上海未来产业基金提供支持。公开资料显示，出生于**1993年**的林俊旸，曾是阿里最年轻的P10级技术专家，与智谱AI创始人唐杰、月之暗面创始人杨植麟、腾讯首席AI科学家姚顺雨并称为“基模四杰”，并于今年**3月**宣布从阿里离职。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "投资方有哪些",
+          "paras": [
+            "知情人士称，新晋投资方包括华业天成资本、鼎晖投资以及汽车制造商吉利汽车控股有限公司。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "ok",
+      "read_minutes": 1
+    },
+    {
+      "id": "n4aacf31011a3",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "Anthropic上市：七位创始人合计套现近20亿美元",
+      "original_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "TechCrunch报道，Anthropic周四上市，发行价83美元。七位创始人各出售约340万股，税前各约套现2.80亿美元；报道称公司筹资规模约1048亿美元。",
+      "facts": [
+        {
+          "text": "Anthropic于周四成为上市公司。按每股83美元的上调发行价计算，七位创始人各出售约340万股，税前约各得2.80亿美元。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+        },
+        {
+          "text": "报道称公司自身筹资约1048亿美元；英伟达与谷歌各购买100亿美元无投票权N类股，谷歌持股13.4%，亚马逊持股14.6%。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Anthropic称，各位创始人已承诺将个人所持公司股权的80%用于慈善，但该承诺是自愿且可撤销的，不构成法律约束。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "is_primary": false,
+          "published_at": "2026-11-20T08:43:50+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T08:43:50+08:00",
+      "updated_at": "2026-11-20T08:43:50+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Anthropic上市，七位创始人合计套现近20亿美元",
+      "lead_zh": "TechCrunch报道，Anthropic按每股83美元上市，七位创始人各约套现2.80亿美元；报道称公司筹资约1048亿美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch报道，Anthropic于周四成为上市公司。按上调后的每股**83美元**发行价计算，七位创始人各出售约**340万股**，在扣除承销费用和税前约各得**2.80亿美元**。报道还提到，筹资总额数字中包括创始人侧的约**19.5亿美元**。",
+            "报道称，公司金库筹资额约为**1048亿美元**，若银行全部行使配售权则可能达1170亿美元。除普通股外，公司还出售此前宣布的**260亿美元**无投票权N类股：英伟达和谷歌各买**100亿美元**，其余由AMD、博通、美光、微软和台积电分购。按更高发行价计算，谷歌持股**13.4%**，亚马逊持股**14.6%**，合计**28%**。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "Anthropic在上市文件中表示，各位创始人已承诺将个人所持公司股权的**80%**用于慈善，但公司指出这些承诺是“自愿、可撤销的意向表达，不构成法律约束”。报道还写道，公司已披露未来基础设施承诺大约在**1.05万亿至1.08万亿美元**之间。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/a4149b601c24112c6bb74a2a6595481a20ab73b8.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+      "fulltext_status": "ok",
+      "read_minutes": 3
+    },
+    {
+      "id": "ndc26abff6344",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "标准银行与AWS合作为生成式AI自动做风险评估",
+      "original_title": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "summary": "南非标准银行集团与AWS专业服务合作，在自有账户内部署自动评估，用云上大模型评审为生成式AI用例打分。该行称审评由约两周缩短到约两小时，整改后评分改善了14%。",
+      "facts": [
+        {
+          "text": "标准银行集团与AWS专业服务合作，在自有AWS账户内部署自动评估，按国际AI标准和自身政策为每个生成式AI用例打分。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/"
+        },
+        {
+          "text": "银行称，在六次评估中，传统约两周的人工审评缩短为约两小时生成综合风险报告，整改后用例风险评分改善14%。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据标准银行集团称，该评估把审查时间从传统约两周缩短到约两小时，并在整改后使用例风险评分改善14%。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+          "is_primary": true,
+          "published_at": "2026-11-21T04:37:31+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T04:37:31+08:00",
+      "updated_at": "2026-11-21T04:37:31+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "标准银行与AWS合作为生成式AI自动评估风险",
+      "lead_zh": "标准银行集团与AWS专业服务合作，在自有账户内部署自动评估，称已把生成式AI用例审评从约两周缩短到约两小时。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "标准银行集团与AWS专业服务合作，在该行自有云账户内部署了一套自动评估：按国际人工智能标准及银行自身政策，为每个生成式人工智能用例打分，并向风险委员会提供可追溯的证据、报告和仪表盘，用于显示已具备的能力、运行良好的部分以及仍需整改的问题。",
+            "评估使用Amazon Bedrock上的“LLM作为评委”。每项检查会映射到国际AI管理、风险或安全标准中的控制项，银行还加入依据自身标准编写的评委问题，检查总数超过**300**项，并覆盖AWS负责任AI的八个维度。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "效果如何",
+          "paras": [
+            "标准银行集团称，在**六**次评估中，传统约两周的人工审评被缩短为约**两小时**即可生成综合风险报告，整改后用例风险评分改善了**14%**。该博文由AWS的Tala Qraitem与标准银行集团的Jörg Fischer共同撰写。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/0b5aed301ec3d060d13a67161827c559248ff2ee.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22493-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ne9ec780811f7",
+      "category": "应用案例",
+      "importance": 1,
+      "verified": true,
+      "title": "Amazon Textract Insights正式上线，可用自然语言抽取字段",
+      "original_title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "summary": "AWS宣布Amazon Textract Insights正式可用：用自然语言描述所需字段并提交文档或混合文件包，即可得到带置信度和页级定位的结构化结果，无需训练模型。",
+      "facts": [
+        {
+          "text": "AWS宣布Amazon Textract Insights正式可用，用户可用自然语言描述所需字段并提交文档或混合文件包，得到带置信度和页级定位的结构化结果，无需训练模型。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/"
+        },
+        {
+          "text": "同期更新的Textract Core将DetectDocumentText和AnalyzeDocument的语言覆盖扩至40种，并新增东京和苏黎世区域，区域内处理达到18个AWS区域；Insights尚未在这两个新区域提供。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+          "is_primary": true,
+          "published_at": "2026-11-21T04:22:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T04:22:00+08:00",
+      "updated_at": "2026-11-21T04:22:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Amazon Textract Insights上线，可用自然语言抽字段",
+      "lead_zh": "AWS宣布Amazon Textract Insights正式可用，用户可用自然语言描述所需字段并提交文档，得到带置信度和页级定位的结果，无需训练模型。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS宣布Amazon Textract Insights正式可用。这是Textract的一项新生成式AI功能，通过新的API提供：用户用自然语言描述所需字段，提交一份文档或混合的多文档文件包，即可得到结构化结果，每个值都带有置信度和页级定位，且无需训练模型。",
+            "AWS还更新了读取引擎Amazon Textract Core，称改进了精度、加强对密集表格和手写的处理，并将DetectDocumentText与AnalyzeDocument接口的语言覆盖扩大到**40**种语言。现有接口保持不变。Core还在亚太（东京）和欧洲（苏黎世）两个区域正式提供，使区域内处理达到共**18**个AWS区域；AWS写明Insights尚未在这两个新区域提供。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "如何使用",
+          "paras": [
+            "AWS称，用户可以从Amazon S3存储桶用一次API调用提交单份文档或混合文件包。该公司把这一功能面向金融服务、保险、医疗和公共部门等依赖文档处理的组织。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/02d4b93330d8f654020395e31a58448d215b2480.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22308-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n1993e3871a44",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "SageMaker HyperPod增强可观测性，便于诊断GPU训练问题",
+      "original_title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "summary": "AWS为SageMaker HyperPod推出增强可观测性，面向EKS和Slurm上的训练任务，汇总诊断与分析能力，默认指标每30秒采集一次，CPU开销约1%至2%。",
+      "facts": [
+        {
+          "text": "Amazon SageMaker HyperPod新增增强可观测性，把EKS和Slurm上训练任务的诊断与分析能力整合在一起，用于更快定位GPU、网络和主机层问题。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/"
+        },
+        {
+          "text": "默认指标每30秒采集一次，AWS称CPU开销约1%至2%，内存占用约250至300MB。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+          "is_primary": true,
+          "published_at": "2026-11-21T02:24:06+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T02:24:06+08:00",
+      "updated_at": "2026-11-21T02:24:06+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "SageMaker HyperPod增强可观测性以诊断训练故障",
+      "lead_zh": "AWS为SageMaker HyperPod推出增强可观测性，面向EKS和Slurm上的训练任务，默认指标每30秒采集一次，称CPU开销约1%至2%。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS宣布Amazon SageMaker HyperPod新增增强可观测性，把运行在Amazon EKS和Slurm上的训练任务的诊断与分析能力整合在一起，用于更快定位GPU、网络和主机层的问题。AWS写道，大规模训练中单个不健康加速器就可能让整场分布式作业停滞。",
+            "诊断摘要使用Amazon CloudWatch的DetectGroupOutliers接口，比较同一训练任务中各GPU的利用率、内存、温度、功耗和SM时钟，标记偏离同伴的GPU。静态诊断规则可揭示XID错误、ECC内存错误、EFA吞吐下降、热节流和过热等常见故障模式。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "开销如何",
+          "paras": [
+            "AWS称，默认指标会自动启用，覆盖集群健康、CPU与磁盘及操作系统用量、GPU利用率和温度，以及按作业的资源使用情况。这些指标每**30秒**采集一次，并发送到用户选择的指标存储，CPU开销约**1%至2%**，内存约**250至300MB**。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/ba2b1f413067f233a633905558935a74df01debd.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22438-featured-image-1.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nd47187ac7d51",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "AWS回顾SageMaker推理2026年另13项更新，全年共26项",
+      "original_title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+      "summary": "AWS发布SageMaker推理服务2026年回顾第二篇，再介绍13项更新，使全年合计达到26项，覆盖配置建议、单卡多模型、跨区域路由和发布后调优，并提到缓存感知路由等。",
+      "facts": [
+        {
+          "text": "AWS发布SageMaker推理2026年回顾第二篇，再介绍13项更新，使全年总数达到26项，覆盖配置建议、提高单卡模型密度、跨区域路由和上线后调优等。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/"
+        },
+        {
+          "text": "其中包括7月在SageMaker AI Studio提供推理建议，10月支持NVIDIA MIG每GPU最多七个分区，以及11月的KV缓存感知路由等。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据AWS称，与轮询路由相比，其推理网关可将混合GPU代际和突发流量下的P99首token时间最多降低97%和98%。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+          "is_primary": true,
+          "published_at": "2026-11-20T08:34:07+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T08:34:07+08:00",
+      "updated_at": "2026-11-20T08:34:07+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "AWS回顾SageMaker推理2026年再推13项更新",
+      "lead_zh": "AWS发布SageMaker推理2026年回顾第二篇，再介绍13项更新，使全年总数达到26项，覆盖配置建议、单卡多模型和跨区域路由等。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS发布Amazon SageMaker推理2026年回顾第二篇，在9月已介绍的**13**项更新之后，再盘点随后的**13**项，使全年总数达到**26**项。这篇侧重模型上线之后的问题：如何选择配置、提高已有GPU上的模型密度、服务单机放不下的大模型、跨区域分流，以及延迟升高后的调优。",
+            "文中列出的更新包括：7月在SageMaker AI Studio提供推理建议；8月在SageMaker Python SDK v3中加入建议能力；9月增加LoRA适配器支持与基于SLA的并发搜索；10月推出推理组件控制台、NVIDIA MIG每GPU最多**七**个隔离分区，以及面向智能体的推理技能；11月则有托管NVIDIA Dynamo、KV缓存感知路由和就地滚动模型更新等。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "AWS称，HyperPod的推理网关可提供集群级统一入口和感知GPU的路由；与轮询相比，在混合GPU代际上最多将P99首token时间降低**97%**，在突发流量下最多降低**98%**。公司还表示，计划在2027年初为托管端点扩展“先缩容再更新”，以减少更新时额外实例的需求。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/d1796dba76d81eed2bb0ff5788fb140fed78b6a0.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22497-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nc7569a295cb7",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "月之暗面编程智能体新版可用AWS凭证连接Bedrock",
+      "original_title": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "summary": "月之暗面开源编程智能体Kimi Code CLI在2.7.0中加入原生Amazon Bedrock提供方，可用AWS标准凭证链连接Kimi K3.1 Pro等模型，不必再单独管理API密钥。",
+      "facts": [
+        {
+          "text": "月之暗面开源编程智能体Kimi Code CLI在v2.7.0中加入原生Amazon Bedrock提供方，可通过AWS标准凭证链连接Kimi K3.1 Pro等模型。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/"
+        },
+        {
+          "text": "AWS博文以Kimi K3.1 Pro Highspeed为例，说明该模型支持流式输出、可配置推理、图像输入和客户端工具调用，并可通过全球推理配置访问。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+          "is_primary": true,
+          "published_at": "2026-11-20T08:33:30+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T08:33:30+08:00",
+      "updated_at": "2026-11-20T08:33:30+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "月之暗面编程智能体可用云凭证直连Bedrock",
+      "lead_zh": "月之暗面开源编程智能体最新版加入亚马逊云原生接口，可用标准云凭证连接其大模型，不必再单独管理密钥。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS博文介绍，月之暗面推出的开源编程智能体Kimi Code CLI在**v2.7.0**中增加了原生的Amazon Bedrock提供方。此前要把该智能体连到Bedrock上的模型，需要配置通用提供方并单独使用Bedrock API密钥；现在可以用AWS标准凭证链，包括命名配置文件和单点登录，而不必再管理额外密钥。",
+            "文章以Kimi K3.1 Pro Highspeed为例演示配置和首次请求，并写明该模型支持流式输出、可配置推理、图像输入和客户端工具调用。示例使用全球推理配置global.moonshotai.kimi-k3.1，由AWS_REGION决定接收请求的区域端点。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "平台怎么说",
+          "paras": [
+            "AWS称，Bedrock按token计费提供多种开放和专有模型，处理留在AWS数据边界内，具体能力以各模型卡片为准。博文建议在使用前查阅Bedrock定价，以了解预期成本。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/587d4b1e5ab7e606bd944500166736a784e19a8c.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22481-featured-image.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n80d31a6dee29",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Inkling 2 Mini发布：约260亿参数、面向本地部署的循环模型",
+      "original_title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary": "Hugging Face介绍Inkling 2 Mini：这是由Thinking Machines Lab推出的多模态混合专家模型，总参数约260亿、每token激活30亿，支持100万token上下文，面向本地部署。",
+      "facts": [
+        {
+          "text": "Inkling 2 Mini是面向本地部署的多模态混合专家模型，总参数约260亿，每token激活约30亿，支持100万token上下文，可接受图像和文本输入。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/inkling2mini"
+        },
+        {
+          "text": "该模型有24层解码器，中间12层循环执行3次，相当于48个逻辑层；并提供Transformers、llama.cpp、MLX和SGLang支持。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/inkling2mini"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据介绍方称，在非正式体验测试中，该模型至少可与Qwen 3.8 27B相比，并在FrontierCode v2.0上领先。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/inkling2mini"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "is_primary": true,
+          "published_at": "2026-11-20T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T08:00:00+08:00",
+      "updated_at": "2026-11-20T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "面向本地部署的Inkling 2 Mini发布，约260亿参数",
+      "lead_zh": "实验室推出面向本地使用的新多模态混合专家模型，总参数约260亿、每次生成约激活30亿参数，并支持百万级上下文窗口。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Hugging Face博客介绍，Thinking Machines Lab推出Inkling 2 Mini。这是一种循环变压器结构的多模态混合专家模型，物理总参数约**260亿**，每个token激活约**30亿**参数，支持**100万**token上下文，可接受图像和文本输入，并采用NVFP4与MXFP8混合精度专家权重，还附带DSpark草稿模型以换取少量内存换取加速。",
+            "该模型有**24**层解码器，但中间**12**层会循环执行**3**次，因而相当于**48**个逻辑层（6+3×12+6）。文本解码器宽度为**2304**，每个专家的中间宽度为**1152**。它比Inkling 2 Small小得多，面向本地部署，并提供Transformers、llama.cpp（Llama App）、MLX以及SGLang的首日推理支持。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "表现如何",
+          "paras": [
+            "介绍方称，在非正式体验测试中，该模型至少可与Qwen 3.8 27B相比，但仍需更多验证。文章还写道，它在FrontierCode v2.0上领先，在Terminal-Bench 4.0上与Qwen3.8-27B打平，在AutomationBench-AA v1.0.6上落后于Qwen。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/a268c8529924870d1568cc5062ad69c63bc59cd8.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n211fbe8009a4",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Hugging Face介绍harness适配器，用强化学习提升智能体表现",
+      "original_title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "Hugging Face介绍为智能体运行框架训练LoRA适配器的方法。以Qwen3.8-27B为例，在pi框架上通过率由39%升至55%，平均每任务token由2.9K降至1.5K。",
+      "facts": [
+        {
+          "text": "Hugging Face介绍在冻结基座模型权重后，针对特定智能体运行框架用强化学习训练LoRA适配器，以提升该框架和任务上的准确率并降低token用量。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+        },
+        {
+          "text": "以Qwen3.8-27B为例，在pi框架上基准通过率为39%、平均每任务约2.9K token；加上强化学习训练的LoRA后，pass@1达到55%，平均token降至约1.5K。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "is_primary": true,
+          "published_at": "2026-11-20T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T08:00:00+08:00",
+      "updated_at": "2026-11-20T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Hugging Face介绍为智能体框架训练适配器的方法",
+      "lead_zh": "Hugging Face介绍用强化学习为特定运行框架训练适配器。以27B模型为例，在pi框架上通过率由39%升至55%，平均token用量约降一半。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Hugging Face发文介绍“harness适配器”：模型并非针对每一种智能体运行框架都做了充分优化。研究者在冻结基座权重后，用强化学习训练定制的LoRA适配器，使模型在特定框架和任务分布上更准、更省token。",
+            "文章举例，Qwen3.8-27B在pi框架上的Terminal-Bench 2.1得分为**39%**，平均每任务约**2.9K** token；加上强化学习训练的LoRA后，pass@1达到**55%**，平均token用量降至**1.5K**。作者将其主要归因于模型减少推理和工具调用，并提高一次做对的比例。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "实验范围",
+          "paras": [
+            "作者称，他们为Qwen3.8-27B分别在pi、Hermes Agent和OpenCode三种框架内用强化学习各训练了一个LoRA适配器，任务来自Hugging Face Hub以及Repo2RLEnv中的Tasksmith流水线，每道题都经过开放环境校验，并用同一基座模型做难度筛选。文章还提供了可复用的训练配方。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/01150b48195ab5a41893f6396c974afd6224a7b4.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ne2069ba493c3",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Bedrock智能体可在Marketplace用美元账单购买x402产品",
+      "original_title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+      "summary": "AWS宣布Amazon Bedrock AgentCore支付能力已支持Marketplace：智能体可发现并购买支持x402的产品，以美元记入开发者账单，无需稳定币钱包或额外密钥。",
+      "facts": [
+        {
+          "text": "Amazon Bedrock AgentCore支付能力现已支持AWS Marketplace，智能体可发现并购买支持x402的软件、接口、数据与内容，以美元记入开发者账单。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/"
+        },
+        {
+          "text": "该支付能力于2026年8月正式可用，此次扩展到Marketplace；开发者可设置支出限额和认可卖家，交易可在CloudTrail和Cost Explorer中审计。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+          "is_primary": true,
+          "published_at": "2026-11-20T07:02:16+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T07:02:16+08:00",
+      "updated_at": "2026-11-20T07:02:16+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Bedrock智能体可在应用商店用美元账单付款",
+      "lead_zh": "AWS宣布其智能体支付能力已支持Marketplace，智能体可购买支持x402的产品并以美元记入开发者账单，无需稳定币钱包或额外密钥。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AWS宣布，Amazon Bedrock AgentCore的支付能力现已支持AWS Marketplace。智能体可以发现并购买支持x402协议的软件、接口、数据和内容，以美元记在智能体开发者的AWS账单上，从而不必再使用稳定币钱包或额外的API密钥。",
+            "该支付能力于**2026年8月**正式可用，当时已允许智能体通过x402和MPP等开放协议为付费接口、MCP服务器和网页内容自主付费。此次把这一能力扩展到Marketplace。开发者还可通过AgentCore Gateway中的Marketplace连接器配置自动发现。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "如何管控",
+          "paras": [
+            "AWS称，既有护栏仍然适用：开发者可用AgentCore策略设置支出限额和认可卖家，支付会话上限由支付服务强制执行，防止超支。交易可在AWS CloudTrail和Cost Explorer中审计。搜索服务商Tavily是Marketplace上x402目录中的卖家之一。"
+          ],
+          "sources": [
+            "AWS Machine Learning Blog"
+          ]
+        }
+      ],
+      "image_url": "img/d16a526dbba4c42e46f31e9fb01b721f9860a412.jpg",
+      "image_source": "AWS Machine Learning Blog",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22459-featured-image-2.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n4d6c192ff862",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "谷歌搜索首页改版：增加AI入口并去掉搜索按钮",
+      "original_title": "Google rolls out new search homepage with AI chat history and no search button",
+      "summary": "Ars Technica报道，谷歌桌面搜索首页改版已正式推开。搜索栏下方新增图像生成、分析文件和与Gemini头脑风暴等按钮，保留“手气不错”，但去掉了专门的搜索按钮。",
+      "facts": [
+        {
+          "text": "谷歌桌面搜索首页改版在测试数周后正式推出，搜索栏下方增加与AI功能相关的按钮，并去掉了原来的搜索按钮。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+        },
+        {
+          "text": "谷歌搜索副总裁Robby Stein在X上确认正在部署新页面；“手气不错”按钮保留，新增图像生成、分析文件和与Gemini头脑风暴等入口。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+        }
+      ],
+      "claims": [],
+      "analysis": [
+        {
+          "text": "Ars Technica认为，搜索按钮在现代界面里并不好用，因为自动补全会挡住它，用户必须先点出输入框才能点到，比直接按回车还多一步。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+          "is_primary": false,
+          "published_at": "2026-11-21T05:58:29+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T05:58:29+08:00",
+      "updated_at": "2026-11-21T05:58:29+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌搜索首页改版：增加AI入口并去掉搜索按钮",
+      "lead_zh": "谷歌桌面搜索首页改版正式推开，搜索栏下方新增图像生成、分析文件和与Gemini讨论等按钮，同时去掉了专门的搜索按钮。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Ars Technica报道，谷歌桌面版搜索首页的改版在测试数周后已正式推出。新页面让用户更容易进入人工智能对话，并彻底去掉了专门的搜索按钮。谷歌搜索副总裁Robby Stein在X上确认，测试成功后正在部署新的桌面搜索页。",
+            "搜索栏下方将出现更多按钮，均与人工智能功能相关，包括图像生成、分析文件，以及与Gemini一起头脑风暴。“手气不错”按钮仍然保留，但原先与它并排的搜索按钮已经取消。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "Ars Technica写道，搜索按钮虽然长期存在，但在现代界面里并不好用：一旦开始输入，自动补全会挡住该按钮，用户必须先点出输入框才能点到它，比直接按回车搜索还多一步。报道认为，谷歌旗舰搜索正在迅速变成一种人工智能体验。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n8bc8fed2fbe6",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "Meta重估2030净零目标，2025年排放量约增四成",
+      "original_title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "summary": "Meta在2026年可持续发展报告中称将重新评估2030年净零排放时间表。报告显示公司总排放量由2024年的1560万吨二氧化碳当量增至2025年逾2170万吨，约增40%。",
+      "facts": [
+        {
+          "text": "Meta在11月19日发布的2026年可持续发展报告中表示，将重新评估包括2030年净零排放目标在内的时间表和阶段性目标。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+        },
+        {
+          "text": "报告称总排放量由2024年的1560万吨二氧化碳当量增至2025年逾2170万吨，同比约增40%，为美国四大科技公司中最高增幅。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Meta数据中心副总裁和净零事务负责人在报告中称，长期愿景未变，但运行环境已变，人工智能基础设施需求增长快于几乎所有人的预期。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "is_primary": false,
+          "published_at": "2026-11-21T05:47:10+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T05:47:10+08:00",
+      "updated_at": "2026-11-21T05:47:10+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Meta重估2030净零目标，去年排放量约增四成",
+      "lead_zh": "Meta在最新可持续发展报告中称将重新评估2030年净零时间表。报告显示总排放量由2024年1560万吨增至2025年逾2170万吨二氧化碳当量。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Ars Technica报道，Meta在2026年11月19日发布的可持续发展报告中表示，将重新评估时间表、顺序和阶段性目标，包括**2030年**实现净零排放的时间范围及近期强度目标。报道称，亚马逊、谷歌和微软迄今仍坚持原有可持续目标。",
+            "报告描述，公司总排放量由2024年的**1560万**吨二氧化碳当量增至2025年逾**2170万**吨，同比增幅近**40%**，为美国四大科技公司中最高的年度增幅。同期微软、谷歌和亚马逊分别报告了**25%**、**18%**和**16%**的增幅。计入碳移除等努力后，Meta的净排放仍由逾**810万**吨增至逾**1180万**吨，增幅**45%**。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "Meta数据中心副总裁Rachel Peterson与全球净零和可持续发展负责人Blair Swedeen在报告引言中称，“长期愿景没有改变，但运行环境已经改变”，并将需求归因为人工智能基础设施增长快于几乎所有人的预期。设施用水量由2024年的**8.25亿**加仑降至2025年的**7.90亿**加仑，但缺水地区用水量由**1.98亿**加仑升至**2.46亿**加仑。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/350e9eacdd15646791b4250738ca0b98e8462fe1.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6e086317ffb3",
+      "category": "政策与安全",
+      "importance": 1,
+      "verified": false,
+      "title": "研究者向AI供应链投放200万枚金丝雀，发现多起数据泄漏",
+      "original_title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "summary": "安全公司Dragos的首席研究官Moore向多家AI服务发送近200万条带唯一可追踪密钥的提示。研究发现至少三家提供商被入侵，还有转售商记录提示、部分平台未遵守零数据保留设置。",
+      "facts": [
+        {
+          "text": "安全公司Dragos的首席研究官Moore向人工智能服务发送近200万条含唯一可追踪密钥的提示，以观察这些密钥随后在何处出现。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+        },
+        {
+          "text": "研究发现至少三家AI提供商遭入侵，入侵者试探所获AWS密钥；还有转售商记录提示，以及部分提供商未遵守零数据保留或“不收集数据”设置。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Moore称，他们发现了安全漏洞、提示被窃，以及未能保护客户数据的普遍问题。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "is_primary": false,
+          "published_at": "2026-11-21T04:59:08+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T04:59:08+08:00",
+      "updated_at": "2026-11-21T04:59:08+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "研究者向AI供应链投放200万枚金丝雀发现泄漏",
+      "lead_zh": "安全公司研究者向多家AI服务发送近200万条带唯一密钥的提示，发现至少三家提供商被入侵，还有转售商记录提示、部分平台未遵守零数据保留。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Ars Technica报道，安全公司Dragos首席研究官Moore向一套庞大的人工智能服务网络发送了近**200万**条含唯一、可追踪密钥的提示，以观察这些密钥随后出现在何处。研究发现，这个生态系统会像筛子一样漏出高敏感数据。",
+            "具体发现包括：至少**三家**人工智能提供商遭攻击者入侵并抽走收到的提示；推理市场中有多家转售商记录提示并使其流入他人之手；还有多家提供商未遵守嵌入在请求中的零数据保留或“不收集数据”等隐私设置。被盗的诱饵密钥在AWS接口中被使用了“数万”次，其中有“一两百个”AWS密钥被重复利用。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "还有哪些发现",
+          "paras": [
+            "Moore写道，最清楚的例子涉及一家中国人工智能实验室：在7月至10月发往其模型的提示中，该实验室的系统抓取了半数以上的秘密网址，其中约三分之二请求已标明“不收集数据”或零数据保留，抓取通常出现在请求后的两三天。他还发现一家美国托管商在单次推理调用两个多月后仍访问秘密网址。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/16154cf78f9577afceda1455b268fb15a313c7d8.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n08401912b13f",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "OpenAI称提取最新模型内部推理的成功率大幅下降",
+      "original_title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+      "summary": "The Decoder报道，OpenAI加强对GPT-6.2 Astra和Sol内部推理的防护。内部测试显示，提取先前请求受保护推理的成功率由54.0%降至0.2%，进行中请求则由22.9%降至0.9%。",
+      "facts": [
+        {
+          "text": "The Decoder报道，OpenAI加强对GPT-6.2 Astra和GPT-6.2 Sol内部推理的防护，内部测试显示提取先前请求受保护推理的成功率由54.0%降至0.2%。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/"
+        },
+        {
+          "text": "对进行中请求的攻击成功率由22.9%降至0.9%；公司还称每周因协同蒸馏行动暂停数千到数万个账户。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/"
+        }
+      ],
+      "claims": [],
+      "analysis": [
+        {
+          "text": "报道称Anthropic也在打击系统性蒸馏，每周封禁数万个账户，并据称在90%到99%的情况下取得成功。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+          "is_primary": false,
+          "published_at": "2026-11-21T04:31:50+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T04:31:50+08:00",
+      "updated_at": "2026-11-21T04:31:50+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报道称OpenAI大幅降低内部推理被提取成功率",
+      "lead_zh": "The Decoder报道，OpenAI加强对最新模型内部推理的防护，内部测试显示提取先前请求受保护推理的成功率由54.0%降至0.2%。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder根据OpenAI的说明报道，公司已显著加强对GPT-6.2 Astra和GPT-6.2 Sol内部推理的防护。在内部自动化测试中，从先前请求中提取受保护推理的攻击成功率，由GPT-6 Astra上的**54.0%**降至GPT-6.2 Astra上的**0.2%**；对进行中请求的攻击成功率则由**22.9%**降至**0.9%**。公司还表示，部分改进也将用于GPT-6 Astra。",
+            "防护分两层：对单次请求，结合针对性训练、对消息和工具调用的输入输出过滤，以及阻止旧模型读取受保护推理的接口限制；对协同行动，OpenAI每周封禁数千到数万个账户。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "业界对照",
+          "paras": [
+            "报道称，Anthropic也在打击系统性蒸馏攻击，同样会封禁数万个账户以遏制内部推理被窃，并据称在**90%到99%**的情况下取得成功。Anthropic还呼吁行业和政策制定者采取协调应对。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/82d4cb7845ff2c7819aec359d3e2bf052ee854ef.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/02/ai_model_distill.jpeg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n59fa562eab8a",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "Spotify创始人埃克投资人工智能研究者创办的核聚变公司",
+      "original_title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "TechCrunch报道，Spotify创始人丹尼尔·埃克正在支持英国初创公司Europa Fusion。该公司由曾任职于DeepMind、并担任Pacific Fusion机器学习负责人的研究者南塔斯·纳尔代利于今年2月创办。",
+      "facts": [
+        {
+          "text": "Spotify创始人丹尼尔·埃克正在支持英国核聚变初创公司Europa Fusion，该公司由人工智能研究者南塔斯·纳尔代利于今年2月创办。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+        },
+        {
+          "text": "纳尔代利曾在谷歌DeepMind、Facebook人工智能研究院和微软剑桥研究院工作，近曾任加州弗里蒙特Pacific Fusion的机器学习负责人。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "is_primary": false,
+          "published_at": "2026-11-21T03:53:41+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T03:53:41+08:00",
+      "updated_at": "2026-11-21T03:53:41+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Spotify创始人投资人工智能研究者的核聚变公司",
+      "lead_zh": "科技媒体报道，音乐流媒体公司创始人投资一家英国核聚变初创公司，创始人是曾在大模型实验室和核聚变企业任职的研究者。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch报道，Spotify创始人丹尼尔·埃克正在支持一家尚处隐秘阶段的核聚变初创公司Europa Fusion。彭博社率先报道了埃克的这一投资。该公司总部位于英国，于今年**2月**创办，创始人是人工智能研究者南塔斯·纳尔代利（Nantas Nardelli）。知情人士告诉TechCrunch，他为这个想法准备的时间更长。",
+            "纳尔代利曾在谷歌DeepMind、Facebook人工智能研究院和微软剑桥研究院工作，近曾任加州弗里蒙特核聚变公司Pacific Fusion的机器学习负责人。Pacific Fusion最近已在新墨西哥州破土建设示范设施。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道还写了什么",
+          "paras": [
+            "TechCrunch写道，纳尔代利采取了与不少同行不同的路径来发展核聚变电站。报道并未给出本轮投资金额。文章还提到，与多数同等规模的核聚变初创公司一样，Pacific Fusion在很大程度上依靠实体装置来验证理论并改进模拟。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/33ecf6ccf3997b21060d5d4781ddecdf02991fed.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n86d3aeca06e8",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "报道称英伟达董事会因黄仁勋“不够坦诚”而将其免职",
+      "original_title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "summary": "WIRED援引知情人士称，英伟达前首席执行官黄仁勋在外遇等相关指控中被免职，但最终推动董事会作出决定的，是其“不够坦诚”和“撒谎”等问题。中国外交部已否认相关间谍指控。",
+      "facts": [
+        {
+          "text": "WIRED援引两名熟悉董事讨论的人士称，黄仁勋在外遇等相关指控中被免去英伟达首席执行官职务，但董事会最在意的是其“不够坦诚”和“撒谎”。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+        },
+        {
+          "text": "黄仁勋于11月8日承认与Alice Huang有外遇；同日董事会宣布独立调查。中国外交部已否认Alice Huang是间谍的说法。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据一名接近董事会的人士称，在更多外遇指控出现后，能够确定的是黄仁勋的撒谎，时间跨度从2025年10月一直到近期事件。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+          "is_primary": false,
+          "published_at": "2026-11-21T03:52:21+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T03:52:21+08:00",
+      "updated_at": "2026-11-21T03:52:21+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报道称英伟达董事会因不够坦诚而免去黄仁勋职务",
+      "lead_zh": "WIRED援引知情人士称，英伟达前首席执行官黄仁勋在外遇等相关指控中被免职，但最终推动董事会决定的是其“不够坦诚”和“撒谎”。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "WIRED报道，黄仁勋在外遇等相关指控中被免去英伟达首席执行官职务，相关指控制包括与一名直接下属，以及与一名据称是中国情报人员的关系。但两名熟悉董事会主席及其他成员私下讨论的人士告诉该刊，最终推动董事会的，是与黄仁勋“不够坦诚”和“撒谎”有关的“多个问题”。",
+            "报道称，黄仁勋于**11月8日**承认与Alice Huang有外遇，但董事会当时无法判定她是否为中国情报人员。同日，董事会宣布启动独立调查，理由是有报道称首席执行官“成为外国情报活动的目标”。中国外交部已否认Alice Huang是间谍的说法。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "知情人士怎么说",
+          "paras": [
+            "一名接近董事会、因未经授权不能公开讲话而要求匿名的人士告诉WIRED，在随后几天又出现其他外遇指控、其中包括据报与一名直接下属的关系后，“当时能够确定的是他的撒谎，时间跨度从**2025年10月**一直到近期事件”。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/c0e9ccd72073c69ee1c131d654741b4a207fc8cc.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6b007b4f6873ef9746910ee1/master/pass/GettyImages-2298479100.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n38136cf0c416",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Signal在iOS 27和安卓上限制截屏，以防AI智能体读取聊天",
+      "original_title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+      "summary": "The Decoder报道，Signal开始限制截屏，以阻止苹果Siri AI、谷歌Gemini Intelligence和Meta的Muse等智能体读取私人聊天。该应用称这是对隐私的“生存威胁”，但承认在macOS上防护仍不完整。",
+      "facts": [
+        {
+          "text": "Signal在iOS 27上阻止截屏，并在受支持的安卓版本上于人工智能助手试图访问屏幕时触发保护，以阻止智能体读取私人聊天。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/"
+        },
+        {
+          "text": "Signal已在Windows上阻止微软Recall，但承认在macOS上无法可靠阻止截屏，文件系统和通知仍可能被访问。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Signal称，操作系统级智能体从屏幕读取已解密的消息，对端到端加密构成“生存威胁”。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+          "is_primary": false,
+          "published_at": "2026-11-21T03:50:27+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T03:50:27+08:00",
+      "updated_at": "2026-11-21T03:50:27+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Signal在新系统上限制截屏以防智能体读取聊天",
+      "lead_zh": "Signal开始在iOS 27和受支持的安卓系统上限制截屏，以阻止系统级人工智能智能体读取私人聊天，并称这是对隐私的“生存威胁”。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder报道，Signal开始限制截屏，以阻止人工智能智能体读取私人聊天。该应用在iOS **27**上阻止截屏，并在受支持的安卓版本上，当人工智能助手试图访问屏幕时触发保护。Signal已在Windows上阻止微软Recall，但承认防护并不完整：macOS截屏无法被可靠阻止，智能体仍可能访问文件系统和通知。",
+            "报道列举了苹果Siri AI、谷歌Gemini Intelligence等可抓取屏幕内容以完成用户任务的系统级能力，以及Meta智能体Muse近期在安卓和macOS上通过广泛的设置权限捕获Signal内容的情况。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "Signal向路透社警告，这是对隐私的“生存威胁”，因为智能体可以直接从屏幕提取已解密的消息并送到外部处理，从而削弱端到端加密。Meta则表示，Muse相关情况只在用户明确授权时发生。Signal还呼吁苹果、谷歌和微软让用户能够彻底阻止智能体访问应用。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/98ca93b324e9db02c230a0570001099bbcec9ddf.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/signal_ai_agents.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n321bf9e3c390",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "黎曼猜想出现人工智能与人工两份声称证明",
+      "original_title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "summary": "TechCrunch报道，Anthropic数学家莱文特·阿尔波格称与Claude一起找到可在Lean中编译的黎曼猜想证明；与此同时，斯坦福博士后马苏洛也交出一份据称完全由人工完成的广义黎曼猜想证明草稿。",
+      "facts": [
+        {
+          "text": "Anthropic数学家莱文特·阿尔波格宣布，他找到了可在Lean中编译的黎曼猜想证明，并描述了与Claude共同完成论证的过程。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+        },
+        {
+          "text": "斯坦福教授、美国数学协会会长Ravi Vakil同时公布了斯坦福博士后Alessandro Masullo撰写的广义黎曼猜想证明，并称该稿没有使用人工智能。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据报道称，Zulip讨论中包括麻省理工学院数学家Andrew Sutherland在内的多人表示，已成功确认阿尔波格的证明可以编译通过。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+          "is_primary": false,
+          "published_at": "2026-11-21T03:32:08+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T03:32:08+08:00",
+      "updated_at": "2026-11-21T03:32:08+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "黎曼猜想出现人工智能与人工两份声称证明",
+      "lead_zh": "Anthropic数学家宣称与Claude完成可在Lean中编译的黎曼猜想证明；同时有斯坦福博士后交出一份据称完全由人工完成的广义黎曼猜想证明草稿。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch报道，Anthropic数学家莱文特·阿尔波格在公司上市同一周宣布，他找到了可在Lean中编译的黎曼猜想证明。该猜想提出于**1859年**，是千禧年大奖难题之一。他写道，上周日晚曾向首席执行官达里奥·阿莫代伊询问如何公布这一结果，并形容与Claude一起找齐论证各部分的过程。",
+            "与此同时，斯坦福教授、美国数学协会会长Ravi Vakil公布了斯坦福博士后Alessandro Masullo撰写的广义黎曼猜想证明，并注明“完全由人工完成，没有使用人工智能”。马苏洛称这是**12年**工作的成果。该稿尚未写成Lean，因此还不能判断是否成立。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "进展如何",
+          "paras": [
+            "报道称，数学界要完全把握这份证明仍需时日，但多数人看起来对形式化的Lean结果有信心。Zulip讨论中，包括麻省理工学院数学家Andrew Sutherland在内的多人表示，已成功确认阿尔波格的证明可以编译通过。稿件已更新，以写明该Lean证明已由独立来源检查。阿尔波格还与纽约大学的特里斯坦·巴克马斯特公布了另一项与纳维-斯托克斯方程相关的证明。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/43de2bcadf99bee22a6dfe78a10516c97e73489a.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n9c1a23941867",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "华为星芒首发功能确认，Mate系列暂不支持AI屏和小星芒",
+      "original_title": "独占特性确认：华为 Mate 系列旗舰机“无缘”OSTA 小星芒、AI 屏等功能",
+      "summary": "华为星芒OSTA O1 Pro已发布，叠加国补后4999元起，最受欢迎的16G版本据称已在全平台售罄。品牌总经理刘赫表示，Mate旗舰没有AI屏和小星芒等星芒首发功能。",
+      "facts": [
+        {
+          "text": "华为星芒OSTA O1 Pro已于11月20日发布，叠加国补后4999元起；品牌总经理刘赫称最受欢迎的16G版本已在全平台售罄。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/284.htm"
+        },
+        {
+          "text": "刘赫在微博评论区表示，Mate系列没有AI屏和小星芒；新图标有望后续向其他系列开放，但这两项功能暂无相关计划。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/284.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据刘赫称，Mate旗舰没有AI屏和小星芒。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/284.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/284.htm",
+          "is_primary": false,
+          "published_at": "2026-11-21T03:20:43+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T03:20:43+08:00",
+      "updated_at": "2026-11-21T03:20:43+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "华为确认Mate系列暂不支持星芒AI屏等功能",
+      "lead_zh": "华为星芒OSTA O1 Pro已发布，叠加国补后4999元起。品牌总经理刘赫表示，Mate旗舰没有AI屏和小星芒等星芒首发功能。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月21日消息，首款为人工智能打造的鸿蒙手机华为星芒OSTA O1 Pro已于昨日下午发布，叠加国补后**4999元**起。华为星芒品牌总经理刘赫开通微博，并称最受欢迎的**16G**版本已经在全平台售罄。",
+            "针对星芒首发新功能能否通过系统更新提供给华为Mate系列，刘赫在评论区回应：不会把默认图标放给Mate系列；并开玩笑后补充，他的AI屏和星芒他们是没有的。IT之家据此写道，全新设计图标、AI屏和小星芒为独占特性，新图标有望后续开放给其他系列，但AI屏和小星芒暂时没有相关计划。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "和其他机型的差别",
+          "paras": [
+            "IT之家称，华为Mate 90系列和Pura X View已推送鸿蒙HarmonyOS **7.0.0.115**升级，带来了AI快捷栏，但与星芒手机的功能有所差异，外观设计思路也不同。刘赫还称，16G版本销量远超预期。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/ab3986562fd17192f8d11ccf0f266bde04019a88.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/3ce098ae-82ff-4444-8dc9-6dc462026b7c.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nbc5933ad429c",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Gemini Mac应用新增电脑操控，可在后台完成多步桌面任务",
+      "original_title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+      "summary": "谷歌为Gemini的Mac应用加入“Computer Use”功能，可在隔离的后台窗口中操作本地文件、桌面应用和网站，并提供实时预览。该功能今日起在美国以英语推出。",
+      "facts": [
+        {
+          "text": "谷歌在Gemini的Mac应用中加入Computer Use功能，可在隔离的后台窗口中操作本地文件、桌面应用和网站，并提供实时预览。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/"
+        },
+        {
+          "text": "该功能今日起在美国以英语推出；用户可选择授权应用、随时暂停，并预先批准关键操作。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据谷歌称，用户只需描述目标，Gemini就会点击、输入并在菜单和表单中导航。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+          "is_primary": false,
+          "published_at": "2026-11-21T02:50:31+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T02:50:31+08:00",
+      "updated_at": "2026-11-21T02:50:31+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Gemini的Mac应用可在后台操作桌面完成任务",
+      "lead_zh": "谷歌为Gemini的Mac应用加入电脑操控功能，可在隔离的后台窗口中操作本地文件、桌面应用和网站，该功能今日起在美国以英语推出。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder报道，谷歌让Gemini可以在后台处理Mac上的任务。Gemini Mac应用中的新功能“Computer Use”能够跨本地文件、桌面应用和网站完成多步骤任务。一切在隔离的后台窗口中运行，并带有实时对话预览，从而不占用用户正在使用的屏幕和光标。",
+            "用户可以自行选择允许Gemini访问哪些应用，实时观看每一步，随时暂停，并预先批准关键操作。谷歌给出的例子包括批量编辑照片和三维场景、根据本地PDF填写货运表单，以及制作演示文稿。该功能今日起在美国以英语推出，Gemini Mac应用可供下载。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "背景",
+          "paras": [
+            "报道写道，谷歌称用户只需描述目标，Gemini就会点击、输入并在菜单和表单中导航。文章还提到，OpenAI近期也在发力电脑操控，并凭借Astra模型处于领先位置。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/346ecf5410e6d8ac6e10258c8fe93665350592ea.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n08b074f7bce0",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "特朗普扬言对把人工智能数据中心建在海外的企业征收重税",
+      "original_title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "summary": "特朗普周五在与中俄领导人会晤后的记者会上表示，不会允许美国公司把数据中心建在海外，并扬言要对相关企业征收“巨额税收”。他承认这个想法甚至还没有先跟自己的团队说过。",
+      "facts": [
+        {
+          "text": "美国总统特朗普周五在记者会上表示，不会允许美国公司把数据中心建在海外，并扬言要对此征收“巨额税收”。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+        },
+        {
+          "text": "他承认尚未把这一想法告诉自己的团队，是在记者会上首次公开提出。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据特朗普称，如果允许数据中心建在海外，就会重演芯片等产业外流并对国家造成破坏。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+          "is_primary": false,
+          "published_at": "2026-11-21T02:50:19+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T02:50:19+08:00",
+      "updated_at": "2026-11-21T02:50:19+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "特朗普扬言对海外建设人工智能数据中心征重税",
+      "lead_zh": "特朗普在记者会上表示，不会允许美国公司把数据中心建在海外，并扬言要征收“巨额税收”，同时承认这一想法还没有先跟团队说过。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge报道，美国总统唐纳德·特朗普承诺，要对在美国以外建设数据中心的公司征收“巨额税收”。他是在周五与中国国家主席习近平、俄罗斯总统弗拉基米尔·普京会晤后的记者会上作出上述表示的。现场还有副总统JD·万斯和国务卿马尔科·鲁比奥。",
+            "特朗普说：“我们不会允许我们的公司把数据中心建在国外。”他同时承认细节很少，并且是第一次公开提出这一设想：“我还没有对我的人说过这话……但我现在告诉他们。他们在场，他们很多人在场。”报道还指出，与此同时美国各地已有州和城市在限制新建数据中心的申请。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他怎么解释",
+          "paras": [
+            "特朗普称，过去允许芯片等产业外流“对我们的国家非常具有破坏性”，并警告若再允许数据中心建在海外，美国就会再次落后。报道写明，他没有给出这项税收的具体税率或实施方式。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/06aa11d406978f33cea33db8550131033784bcab.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n583b7a1c7413",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "METR更新时间跨度图：模型在需判断的任务上仍落后",
+      "original_title": "The most misunderstood graph in AI just got a major update",
+      "summary": "评估非营利组织METR更新了其时间跨度图。报告称，部分人工智能能力仍沿指数轨迹提升，但模型在需要判断、难以自动验证的任务上表现不如编程，设计新评测时仍达不到可用标准。",
+      "facts": [
+        {
+          "text": "评估组织METR更新了时间跨度图，加入耗时更长和更开放的任务，并发现模型在需要判断、难以自动验证的任务上表现不如编程。",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+        },
+        {
+          "text": "在让模型设计新评测并由METR员工打分的任务中，没有一项被员工认为可用于其研究；部分最新模型刚进入“勉强过线但尚不可用”的区间。",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+        }
+      ],
+      "claims": [],
+      "analysis": [
+        {
+          "text": "计算机科学家Sayash Kapoor认为，把评测扩展到开放式任务是受欢迎的变化，但要更完整地理解仍有大量工作要做。",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "is_primary": false,
+          "published_at": "2026-11-21T02:15:15+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T02:15:15+08:00",
+      "updated_at": "2026-11-21T02:15:15+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "METR更新能力曲线：模型在需判断的任务上仍落后",
+      "lead_zh": "评估组织METR更新时间跨度图，称部分能力仍快速提升，但模型在需要判断、难以自动验证的任务上表现不如编程，设计新评测时仍达不到可用标准。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "《麻省理工科技评论》报道，评估非营利组织METR更新了广为流传的时间跨度图。原先的图按人类完成任务所需时间来衡量难度，并显示前沿模型能成功完成的任务时长大约每**四个月**翻一番。新版本加入了估计耗时更长、也更开放的任务，以观察在可自动验证任务上的进步，能在多大程度上迁移到成败更难测量的任务上。",
+            "在一项任务中，模型要设计可供METR使用的新评测，再由该组织员工打分。尽管最先进模型在软件工程上已胜过几乎所有人类，但没有一项人工智能设计的评测被员工认为对其研究有用。在给哲学论证打分的任务上，模型同样未达到人类表现。"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "如何理解",
+          "paras": [
+            "报道称，部分最新模型如Opus 5.5在设计评测上达到METR所说的“勉强过线”：还不能直接用于研究，但已有苗头；一年前所有模型都还在“明显低于标准”一档。计算机科学家Sayash Kapoor认为，把评测扩展到开放式任务是受欢迎的变化。METR技术人员Matt Putz则表示，这类难以验证、依赖判断的任务本质上更难量化，恐怕无法得到像易规定任务那样清晰稳健的趋势。"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ]
+        }
+      ],
+      "image_url": "img/e11a1c9a933b1f706ab69832a7cf606a360922e4.jpg",
+      "image_source": "MIT Technology Review",
+      "image_origin_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ne43240c9ae66",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "报道称太空数据中心融资遇阻，贷款机构不愿芯片被送入轨道",
+      "original_title": "Chips can survive the space environment — can their financing?",
+      "summary": "TechCrunch报道，数据中心常以芯片作贷款抵押。英国《金融时报》称，为SpaceX约400亿美元芯片融资提供贷款的机构要求，所购芯片不得用于该公司的轨道数据中心计划。",
+      "facts": [
+        {
+          "text": "数据中心建设通常依赖债务融资，并以芯片作为抵押，以便贷款机构在违约时收回并转售芯片。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+        },
+        {
+          "text": "英国《金融时报》报道，为SpaceX约400亿美元芯片融资提供贷款的机构要求，所购芯片不得用于该公司的轨道数据中心计划。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+          "is_primary": false,
+          "published_at": "2026-11-21T01:40:01+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T01:40:01+08:00",
+      "updated_at": "2026-11-21T01:40:01+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报道称贷款机构不愿抵押芯片被送入轨道",
+      "lead_zh": "科技媒体援引《金融时报》称，为SpaceX约400亿美元芯片融资提供贷款的机构要求，所购芯片不得用于该公司的轨道数据中心计划。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch写道，在太空建设数据中心除了工程和运力难题，还面临融资问题。地面数据中心通常靠借贷扩建，并以芯片作为抵押：一旦违约，贷款机构可以收回芯片再转售，从而降低融资成本。Compute Credit Index Research的数据显示，部分H100仍能卖到2023年成本基础的约一半，部分H200配置的售价与2024年推出时相当。",
+            "但安装在轨道卫星上的芯片难以被收回。英国《金融时报》报道，为SpaceX约**400亿美元**芯片融资提供贷款的机构要求，所购芯片不得用于该公司的轨道数据中心计划。目前尚不清楚SpaceX是否同意这一条款。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "近期影响",
+          "paras": [
+            "报道认为，这在短期内未必影响该公司，因为SpaceX在地面站部署算力已被证明有利可图。文章还以轨道高度约**300英里**、时速约**17500英里**来说明，贷款机构为何难以把作为抵押的芯片从太空中收回。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/c478e019fd24323c24235d8cd8c603fb5fb9bf24.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf1b7c64ada91",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic数学家宣称借助Claude证明了黎曼猜想",
+      "original_title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summary": "The Verge报道，Anthropic数学家莱文特·阿尔波格宣称借助Claude证明了黎曼猜想。该结果尚未经过独立验证，Anthropic也未就此发表评论或介入他的宣布。",
+      "facts": [
+        {
+          "text": "Anthropic数学家莱文特·阿尔波格宣称，他借助Claude证明了黎曼猜想。该结果尚未经过独立验证。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        },
+        {
+          "text": "他在个人网站的文件中称，上周日晚曾向首席执行官达里奥·阿莫代伊通报，并暗示等到公司周四上市后再公布。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据阿尔波格称，他与Claude合作找到了黎曼猜想的证明。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "is_primary": false,
+          "published_at": "2026-11-21T00:34:13+08:00"
+        }
+      ],
+      "published_at": "2026-11-21T00:34:13+08:00",
+      "updated_at": "2026-11-21T00:57:47+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Anthropic数学家宣称借助Claude证明黎曼猜想",
+      "lead_zh": "Anthropic数学家莱文特·阿尔波格宣称借助Claude证明了黎曼猜想。该结果尚未经过独立验证，公司也未就此发表评论或介入宣布。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge报道，Anthropic数学家莱文特·阿尔波格宣称，他在Claude的帮助下证明了黎曼猜想。该猜想由黎曼于**1859年**提出，是七个千禧年大奖难题之一，关乎质数的分布。报道写明，这一解决方案尚未经过独立验证，Anthropic也没有发表评论，或介入阿尔波格的宣布。",
+            "阿尔波格在个人网站的文件中称，他在“上周日晚”向首席执行官达里奥·阿莫代伊发送了关于该证明的消息，并暗示自己等到公司周四上市后再公布。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "意味着什么",
+          "paras": [
+            "报道认为，若得到验证，这将成为人工智能在数学领域的又一项重大成果，并叠加OpenAI此前在该领域往往并不优雅的探索所带来的冲击。文章还强调，黎曼猜想长期被视为数学中最重要的未解问题之一，几十年来让一些最优秀的数学家无从入手。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/b9a082c4b78fbb088e89e7ff5562d7fbee69024a.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ncbb45597e6dc",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "彭博分析称中国受AI冲击岗位招聘降幅更大",
+      "original_title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+      "summary": "The Decoder援引彭博社对近1000万条招聘信息的分析称，2021年7月至2025年6月，高度暴露于人工智能的岗位招聘，降幅比受影响较小的岗位大约高出10个百分点。",
+      "facts": [
+        {
+          "text": "彭博社分析了2021年7月至2025年6月近1000万条在线招聘信息，发现高度暴露于人工智能的岗位招聘降幅比受影响较小的岗位大约高出10个百分点。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/"
+        },
+        {
+          "text": "报道称，入门级员工和创意产业感受尤为明显，并提到中国超过90%的微短剧现已使用人工智能制作。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据前央行顾问蔡昉称，更大的人工智能冲击仍在前面。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+          "is_primary": false,
+          "published_at": "2026-11-20T23:56:03+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T23:56:03+08:00",
+      "updated_at": "2026-11-20T23:56:03+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "彭博分析称中国受AI冲击岗位招聘降幅更大",
+      "lead_zh": "彭博社分析近1000万条招聘信息后称，2021年7月至2025年6月，高度暴露于人工智能的岗位招聘降幅比其他岗位大约高出10个百分点。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder报道，彭博社对近**1000万**条在线招聘信息的分析显示，人工智能正在给本已疲弱的中国劳动力市场叠加压力。分析覆盖**2021年7月至2025年6月**，结果是：高度暴露于人工智能的岗位招聘，降幅比受影响较小的岗位大约高出**10个百分点**。",
+            "报道称，入门级员工和创意产业已经尤为明显地感受到这一变化，并写到中国超过**90%**的微短剧现在使用人工智能制作。可见转述还提到，这一压力是叠加在已经疲弱的劳动力市场之上。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "还有哪些判断",
+          "paras": [
+            "文章指出，中国劳动力市场多年来已受经济放缓困扰，人工智能现在似乎使情况变得更糟。前央行顾问蔡昉警告，更大的人工智能冲击仍在前面。由于这篇转述报道可见正文较短，更细的行业拆分、统计口径和地区差异并未在原文中展开。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/73cb82d33908352fcb4c0d99a0b1f75b7ecbdd53.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nd401e4ca2be0",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic数学家宣称与Claude合作完成黎曼猜想证明",
+      "original_title": "AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明",
+      "summary": "据《科学美国人》报道，Anthropic数学家莱文特·阿尔波格宣称与Claude合作找到了黎曼猜想的证明，并写成Lean代码。他还称该证明覆盖范围更广的广义黎曼猜想。",
+      "facts": [
+        {
+          "text": "据《科学美国人》报道，Anthropic数学家莱文特·阿尔波格宣称与Claude合作找到了黎曼猜想的证明，并将其编写为可逐步验证推理的Lean代码。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/278.htm"
+        },
+        {
+          "text": "阿尔波格称，该证明还覆盖了范围更广的广义黎曼猜想。黎曼猜想由黎曼于1859年提出。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/278.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据阿尔波格称，他相信自己与Claude合作找到了黎曼猜想的证明。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/278.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/278.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T23:37:46+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T23:37:46+08:00",
+      "updated_at": "2026-11-20T23:37:46+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报道称Anthropic数学家与Claude合作证明黎曼猜想",
+      "lead_zh": "据《科学美国人》报道，Anthropic数学家莱文特·阿尔波格宣称与Claude合作找到了黎曼猜想的证明，并写成可验证的Lean代码，还称覆盖了广义黎曼猜想。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，据《科学美国人》报道，当地时间20日，Anthropic数学家莱文特·阿尔波格宣称，自己与人工智能模型Claude合作，攻克了黎曼猜想，并在个人网站发表声明。该猜想由德国数学家伯恩哈德·黎曼于**1859年**提出，是数论领域的重要未解问题。",
+            "阿尔波格公布了与Claude合作完成的证明，并将其编写为Lean代码。Lean是一种能够逐步验证数学推理是否正确的编程语言。他又称，该证明不仅解决了黎曼猜想，还证明了范围更广的“广义黎曼猜想”。IT之家还提到，今年**10月**OpenAI公布的数学成果中，有一项在揭示质数分布规律方面取得进展。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他怎么说",
+          "paras": [
+            "阿尔波格称：“我相信，我与Claude合作找到了黎曼猜想的证明。”他在声明中写道，觉得这一切意味着某种终结是很自然的，但对他而言更像是失去一盏指路明灯；同时他认为科学界正在迎来更伟大事物的曙光，并希望这一证明让人一窥未来的奇迹。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n43bbb6f03fa0",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "明基AI高尔夫投影机AK900ST开售，售价52999元",
+      "original_title": "明基 AK900ST AI 高尔夫投影机发售：6000lm 亮度、短焦镜头设计，52999 元",
+      "summary": "明基AK900ST“AI高尔夫投影机”已在京东发售，售价52999元。该机为激光光源、4K分辨率、6000流明亮度，短焦镜头可在5.3米处投影出300英寸画面。",
+      "facts": [
+        {
+          "text": "明基AK900ST人工智能高尔夫投影机已在京东发售，售价52999元，面向高尔夫模拟及多场景娱乐。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/277.htm"
+        },
+        {
+          "text": "该机为激光光源，正常寿命2万小时，具备4K分辨率、6000流明亮度和短焦镜头，可在5.3米处投影300英寸画面。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/277.htm"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/277.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T23:37:26+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T23:37:26+08:00",
+      "updated_at": "2026-11-20T23:37:26+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "明基AI高尔夫投影机开售，标价52999元",
+      "lead_zh": "明基AK900ST人工智能高尔夫投影机已在京东发售，售价52999元，为激光光源、4K分辨率和6000流明亮度，短焦可在5.3米处投影300英寸画面。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，明基旗下AK900ST“AI高尔夫投影机”已在京东发售，定价**52999元**，面向高尔夫模拟及多场景娱乐。该机搭载激光光源，正常寿命达**20000小时**（节能模式为**30000小时**），具备4K分辨率、MEMC **240Hz**刷新率、**3000000:1**对比度和**6000**流明亮度。",
+            "它内置独立高尔夫球模式，并具备人工智能画质、智能对比度增强、降噪和超分辨率重建等功能。机身采用短焦镜头，支持电动光学变焦，在**5.3米**处即可投影**300英寸**画面，还支持四向镜头位移（垂直±**60%**、水平±**23%**）和3D校正，内置10W扬声器。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "定位如何",
+          "paras": [
+            "IT之家称，该产品专为高尔夫模拟及多场景娱乐打造，并通过人工智能画质处理来还原纹理与球场暗部细节，同时可灵活适配多样环境。报道未提供第三方实测数据。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/6af97ffe123c91249ade1988299763e0aca8a7f7.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img14.360buyimg.com/pop/jfs/t1/582945/8/9668/109162/6afd6d82Ffcde0a6e/0083320320e0e28f.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n17bfc23ca17d",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "苹果也在开发设备操控智能体，同时提高第三方接入门槛",
+      "original_title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+      "summary": "The Decoder援引招聘信息和彭博社报道称，苹果正在开发可操控设备的人工智能智能体，预计最早明年年底推出；同时在macOS 27.3中，授权第三方智能体控制电脑的步骤由4步增至14步。",
+      "facts": [
+        {
+          "text": "苹果正招聘高级工程师，主导开发可与Muse、Dots、Duet和Grok Bots竞争的设备操控智能体，并强调权限模型和沙箱。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/"
+        },
+        {
+          "text": "彭博社称该智能体仍处早期，最早可能于明年年底推出；macOS 27.3把授权第三方智能体控制电脑的步骤由4步增至14步。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据苹果称，增加步骤是为了保护用户；但彭博社称，一些人工智能公司和用户认为这是在拖慢竞争对手。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+          "is_primary": false,
+          "published_at": "2026-11-20T23:03:25+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T23:03:25+08:00",
+      "updated_at": "2026-11-20T23:03:25+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "苹果开发设备操控智能体，同时提高第三方门槛",
+      "lead_zh": "报道称苹果正在开发可操控设备的人工智能智能体，最早可能于明年年底推出；同时将授权第三方智能体控制电脑的步骤由4步增至14步。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder报道，在Meta、OpenAI、Anthropic和谷歌相继推出可操控设备的智能体后，苹果也在跟进，同时提高对手访问其设备的难度。一份招聘信息显示，苹果正在招聘高级工程师来主导这一项目，对标Muse、Dots、Duet和Grok Bots，并预计将把隐私放在核心位置，采用权限模型和沙箱。",
+            "据彭博社报道，该智能体仍处早期，最早可能于明年年底推出。苹果新任首席执行官John Ternus正推动软件负责人Craig Federighi采取更大胆的人工智能策略。在多次推迟后，公司最近才推出面向Siri的生成式人工智能功能。与此同时，macOS **27.3**把用户授权ChatGPT等第三方智能体控制Mac的步骤，由**4步**增加到**14步**。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么看",
+          "paras": [
+            "苹果称这一改动是为了保护用户。彭博社则报道，一些人工智能公司和用户将其视为拖慢竞争对手的举措。报道还提到，通往Siri生成式功能上线的过程中，公司内部出现过分歧和人员离职。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf0e77c900b9f",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "英伟达在黄仁勋去职后公布财报，并停止向中国销售H200",
+      "original_title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "summary": "TechCrunch的播客提到，英伟达在免去黄仁勋职务后，于本周仍公布了显示稳健增长的最新财报，同时宣布停止在中国销售H200芯片，并回绝了让黄仁勋回归担任首席执行官的呼声。",
+      "facts": [
+        {
+          "text": "英伟达在免去首席执行官黄仁勋职务后公布了最新财报，报道称增长稳健，并表示这一势头将持续。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+        },
+        {
+          "text": "该公司同时宣布停止在中国销售H200芯片，并回绝了让黄仁勋回归担任首席执行官的呼声。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+          "is_primary": false,
+          "published_at": "2026-11-20T22:55:44+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:55:44+08:00",
+      "updated_at": "2026-11-20T22:55:44+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "英伟达在黄仁勋去职后发财报并停售对华H200",
+      "lead_zh": "科技媒体的播客提到，英伟达在免去黄仁勋职务后仍公布了显示稳健增长的财报，同时宣布停止在中国销售H200芯片，并回绝了让其回归的呼声。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch在其Equity播客中提到，英伟达在免去首席执行官黄仁勋职务、处理相关风波的同时，于本周公布了最新财报。报道称公司仍实现稳健增长，并表示这一势头还将持续。与此同时，英伟达宣布将停止在中国销售H200芯片，并回绝了让黄仁勋回归担任首席执行官的呼声。",
+            "主持该期节目的是Kirsten Korosec、Anthony Ha和Tim De Chant，讨论重点还包括英伟达及更广泛人工智能行业的前景，尤其是在Anthropic上市、从而把业界循环融资模式推向检验之际。稿件未给出具体营收或利润数字。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "节目还谈了什么",
+          "paras": [
+            "节目简介还列出了同周其他话题：Waymo决定在全国范围内暂停高速公路载客、特斯拉开放Cybercab个人订单但附有严格附加条款，以及电池初创公司Our Next Energy在经历困境后走向上市。这些是同一期播客中的其他条目，并非英伟达财报本身的内容。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/4825d998e5561ccba583c3bf2da35bee54e9600d.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n05d97431e50b",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "消息称英伟达接近以至少5亿美元收购扩散模型公司Inception",
+      "original_title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+      "summary": "The Decoder援引The Information报道，英伟达接近以至少5亿美元收购两岁的人工智能初创公司Inception。该公司做扩散式语言模型，最新产品为Mercury 3，交易还包括对30多名员工的绩效奖金。",
+      "facts": [
+        {
+          "text": "知情人士对The Information表示，英伟达接近以至少5亿美元收购旧金山湾区初创公司Inception，交易还包括对30多名员工的绩效奖金。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/"
+        },
+        {
+          "text": "Inception用扩散过程构建语言模型，逐步完善整段回答，而非逐个token生成，最新发布了Mercury 3。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+          "is_primary": false,
+          "published_at": "2026-11-20T22:53:50+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:53:50+08:00",
+      "updated_at": "2026-11-20T22:53:50+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "消息称英伟达接近以至少5亿美元收购Inception",
+      "lead_zh": "知情人士称，英伟达接近以至少5亿美元收购两岁的初创公司Inception。该公司做扩散式语言模型，交易还包括对30多名员工的绩效奖金。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder援引The Information报道，三名知情人士称，英伟达接近以至少**5亿美元**收购人工智能初创公司Inception。这家位于旧金山湾区的公司成立仅两年，交易还包括向**30**多名员工发放绩效奖金。Inception采用源自图像生成的扩散过程来构建语言模型，不是像ChatGPT、Claude那样逐个token生成，而是逐步完善整段回答，最新发布的是Mercury 3。",
+            "报道称，此次收购旨在加强英伟达开源的Nemotron模型以及面向机器人的物理模型，以应对OpenAI和Anthropic自研推理芯片的竞争。Palantir和美国政府机构已把Nemotron当作中国模型的替代。谈判在黄仁勋辞职前就开始，且是在微软表达兴趣之后。联合创始人兼教授Stefano Ermon、Aditya Grover和Volodymyr Kuleshov预计将全职加入英伟达。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "双方态度",
+          "paras": [
+            "报道写明，两家公司最初都没有置评。由于消息来自知情人士转述，交易对价、交割时间和最终条款仍可能变化。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/01fc289279e2622cb3068ab23fa42afca548d221.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/10/inception.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nccddf8e748d5",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "三星高管称新兴云服务风险有限，人工智能投资基于实际需求",
+      "original_title": "三星电子高管：Neocloud 风险有限，AI 投资基于实际需求",
+      "summary": "据路透社报道，三星电子两位高管在摩根士丹利会议上表示，新兴人工智能云服务企业的不确定性对整体市场影响有限，本轮投资基于实际需求而非投机，芯片短缺在可预见的未来仍将持续。",
+      "facts": [
+        {
+          "text": "三星电子两位高管在摩根士丹利会议上表示，新兴人工智能云服务企业（Neocloud）的不确定性对整体市场影响有限，本轮投资基于实际需求而非投机。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/247.htm"
+        },
+        {
+          "text": "半导体部门负责人称此类企业市场份额约8%；晶圆代工销售主管称芯片短缺在可预见的未来仍将持续。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/247.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据三星高管称，对Neocloud的担忧不会对人工智能整体发展轨迹构成重大威胁。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/247.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/247.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T22:09:40+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:09:40+08:00",
+      "updated_at": "2026-11-20T22:09:40+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "三星高管称新兴云服务风险有限、投资基于需求",
+      "lead_zh": "三星电子高管在投资会议上表示，新兴人工智能云服务企业的不确定性对整体市场影响有限，本轮投资基于实际需求，芯片短缺短期内仍将持续。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，据路透社当地时间**18日**报道，三星电子两位高管在本周举行的摩根士丹利会议上表示，新兴人工智能云服务企业（Neocloud）面临的不确定性对整体市场的影响有限，这轮人工智能投资基于实际需求而非投机。",
+            "三星设备解决方案部门经营战略总管负责人Kim Yong-kwan表示，Neocloud的市场份额仅约为**8%**，对此类企业的担忧不会对人工智能整体发展轨迹构成重大威胁。报道指出，这位高管并未详述作为市占计算基础的“市场”具体指什么。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "供需怎么看",
+          "paras": [
+            "三星晶圆代工销售营销主管Kang Suk-chae则认为，当前的人工智能投资热潮是结构性的，源自实在的需求而非投机冲动。他称，芯片短缺的局面“在可预见的未来仍将持续”，长期合同使供需双方之间的关系更加明朗。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/6ad3f3b8cff92c66a17d29705d7a0ad629a320ea.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/2abf7320-5af3-4bf1-8092-631a0123b87a.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ncef6939d7b31",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "The Verge回顾本周大规模故障，并讨论黄仁勋事件后续",
+      "original_title": "The week everything fell apart",
+      "summary": "The Verge播客梳理了本周Outlook长时间故障、25年来第二次全国范围地面停飞、银行和iCloud服务中断等事件，并认为实际情况通常比阴谋论所说更温和，但问题叠加仍值得警惕。",
+      "facts": [
+        {
+          "text": "The Verge播客回顾本周出现的Outlook多日故障、25年来第二次全国范围地面停飞，以及银行和iCloud等服务中断。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+        },
+        {
+          "text": "主持人认为各起事件通常比阴谋论所说更温和，但在人工智能增多、人力减少的环境里，新问题可能更难修复。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+          "is_primary": false,
+          "published_at": "2026-11-20T22:06:59+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:06:59+08:00",
+      "updated_at": "2026-11-20T22:06:59+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "媒体回顾本周多项技术故障并讨论其影响",
+      "lead_zh": "The Verge播客梳理了本周电子邮件服务多日故障、25年来第二次全国范围地面停飞以及云服务中断等事件，并认为实际情况通常比传言更温和。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge在其Vergecast节目中回顾了“一切都出问题的一周”：Outlook出现持续数日的故障，航空方面出现**25年**来第二次全国范围地面停飞，银行系统一度像是停止运转，就连iCloud也未能保持稳定。主持人Nilay和David逐一讨论这些故障，试图说明每起事件实际发生了什么。",
+            "节目还谈到黄仁勋与英伟达风波的最新进展，称关注点正越来越少地停留在私生活指控上，而更多地转向据称向中国非法走私芯片的大生意。稿件写明，无论社交平台上有多少人呼吁，黄仁勋短期内都不会回到英伟达首席执行官的位置。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "主持人怎么看",
+          "paras": [
+            "主持人认为，这些事件通常比阴谋论所描绘的要温和得多，但许多小问题叠加起来仍值得担心。他们写道，在一个人工智能更多、人力更少的世界里，人们会看到新的问题类型，并且常常更难找到修复办法。该期为播客综述，并未在可见原文中给出各起故障的损失数字。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/03e365c1aa36e2b4ffeda6ccabf736fb8a922a08.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf571789a1d3c",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic上市次日跌约9%，未能提振人工智能板块",
+      "original_title": "Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜",
+      "summary": "据路透社报道，Anthropic上市次日股价报88.25美元，较首日收盘价下跌约9%。按完全稀释计算估值约1.6万亿美元，投资者开始审视其约相当于过去12个月营收40倍的估值。",
+      "facts": [
+        {
+          "text": "Anthropic上市次日股价报88.25美元，较上市首日收盘价下跌约9%；完全稀释后估值约1.6万亿美元，按已发行股份计约1.2万亿美元。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/246.htm"
+        },
+        {
+          "text": "投资者开始审视其约相当于过去12个月营收40倍的估值；19日散户交易额约7.72亿美元，创相关统计自2012年以来IPO首日散户交易额最高纪录。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/246.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据美国合众银行资产管理部门私人市场投资主管考希·阿明称，他们倾向于保持耐心，等公司公布上市后的业绩再评估。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/246.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/246.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T22:05:13+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:05:13+08:00",
+      "updated_at": "2026-11-20T22:05:13+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Anthropic上市次日跌约9%，未能提振板块",
+      "lead_zh": "据路透社报道，Anthropic上市次日股价报88.25美元，较首日收盘价下跌约9%，按完全稀释计算估值约1.6万亿美元，未能重新点燃投资者热情。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，据路透社报道，当地时间20日，Anthropic上市次日股价报**88.25美元**，较上市首日收盘价下跌约**9%**。公司完全稀释后的估值约为**1.6万亿美元**，按已发行股份计算的市值约为**1.2万亿美元**。作为被寄予厚望的融资风向标，这场上市未能重新点燃投资者对人工智能板块的热情。",
+            "报道称，投资者开始审视其约相当于过去12个月营收**40倍**的估值是否合理。散户在19日买卖该公司股票的交易额约为**7.72亿美元**，创下研究机构Vanda Research自2012年开始统计以来，IPO首日散户交易额的最高纪录。美股科技股中，英伟达和Meta盘前跌幅均超过**3%**，亚马逊和微软超过**2%**，AMD和闪迪超过**6%**，英特尔超过**4%**。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "市场怎么看",
+          "paras": [
+            "美国合众银行资产管理部门私人市场投资主管考希·阿明建议，倾向于对Anthropic保持耐心，等公司陆续公布上市后的业绩再评估。在他看来，当前估值意味着市场预期公司未来多年都能保持快速增长。报道还提到，市场接下来会关注OpenAI可能于明年进行的上市。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n912ce9389b49",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "科技媒体推荐六款用于家庭办公的人工智能设备",
+      "original_title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "TechCrunch介绍了六款面向家庭办公的人工智能设备，包括售价159美元的智能录音笔和胸针、99美元的快捷键盘、479美元的彩色电纸本、249美元的追踪摄像头，以及499美元的智能升降桌。",
+      "facts": [
+        {
+          "text": "TechCrunch盘点了六款家用办公人工智能设备，价格从99美元的键盘到499美元的升降桌不等。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+        },
+        {
+          "text": "其中包括可录音转写的Flowtica笔和Anker胸针、罗技AI快捷键盘、带整理笔记功能的彩色Kindle Scribe，以及可自动取景的Insta360摄像头和能提醒变换姿势的桌子。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+          "is_primary": false,
+          "published_at": "2026-11-20T22:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:00:00+08:00",
+      "updated_at": "2026-11-20T22:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "媒体推荐六款用于家庭办公的人工智能设备",
+      "lead_zh": "科技媒体介绍了六款家用办公设备，包括智能录音笔、快捷键盘、彩色电纸本、自动追踪摄像头和能提醒变换姿势的升降桌，售价从99美元到499美元不等。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch盘点了六款面向家庭办公的人工智能设备：Flowtica Scribe Pen售**159美元**，可手写并录音，内置32GB存储，能识别最多15名说话人、支持92种语言；Anker Soundcore Work胸针同样标价**159美元**（报道称促销价**99美元**），单次充电可录约8小时，配合充电盒可达32小时，并提供每月**300分钟**免费转写。",
+            "其余四款为：罗技MX Keypad售**99美元**，可给GitHub Copilot、Claude Code等设置快捷键；亚马逊Kindle Scribe Colorsoft起售**479美元**，可用人工智能整理手写笔记；Insta360 Link 2 Pro摄像头售**249美元**，支持4K和自动追踪；Autonomous Desk Pro升降桌售**499美元**，能监测坐站时间并提醒活动，还可查询室内二氧化碳等信息。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "附加说明",
+          "paras": [
+            "Anker还提供可选订阅，报道列出的方案包括每年**99美元**的Pro和每年**239美元**的Unlimited。这是一份产品推荐稿，所列价格和促销信息以商家当时标价为准，文中没有提供独立评测数据。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/720829db157296de4ab746e7341a16ac35c55862.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nfd3deff74668",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "谷歌桌面搜索首页全球上线可折叠侧栏，方便继续人工智能检索",
+      "original_title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+      "summary": "谷歌正在向全球桌面搜索首页推开可折叠侧栏，便于用户在人工智能模式下重新打开近期检索、搜索已有对话线程并创建笔记本。公司同时在全球推出不会写入历史记录的临时对话线程。",
+      "facts": [
+        {
+          "text": "谷歌正在桌面搜索首页全球推开可折叠侧栏，可在人工智能模式下重新打开近期检索、搜索已有线程并创建笔记本。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/"
+        },
+        {
+          "text": "谷歌同时在全球推出临时线程：不使用先前上下文、不写入历史，也不影响未来推荐，关闭后即消失。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据谷歌搜索副总裁Robby Stein称，这一功能应让用户更容易继续更长时间的网页研究。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+          "is_primary": false,
+          "published_at": "2026-11-20T21:19:31+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T21:19:31+08:00",
+      "updated_at": "2026-11-20T21:19:31+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌搜索首页全球上线侧栏，方便继续AI检索",
+      "lead_zh": "谷歌正在桌面搜索首页全球推开可折叠侧栏，便于重新打开近期人工智能检索并创建笔记本，同时推出不会写入历史记录的临时线程。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder报道，谷歌正在其桌面搜索首页全球推开可折叠侧栏，使用户更容易进入人工智能搜索。谷歌搜索副总裁Robby Stein在X上宣布了这一功能。它位于人工智能模式界面左侧，用户可以开始新线程、搜索已有线程、创建笔记本，并打开近期查询和设置。",
+            "谷歌还在全球推出人工智能模式下的临时线程。这类检索不使用先前上下文，不会被保存到历史记录中，也不影响未来推荐；Stein表示，一旦关闭，它们就会消失。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "Stein称，人们越来越多地向谷歌搜索提出单次查询无法回答的问题。在测试中，侧栏明显帮助用户取得进展，并让他们更容易从上次停下的地方继续在网上研究。报道认为，这次更新也推动谷歌进一步转向人工智能答疑引擎。该报道与另一篇关于去掉搜索按钮的改版报道属同一轮首页调整。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/14b7595722598fd94a95d1f8aaceb06d177cab3c.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n53cdce7221a5",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "Take-Two前首席执行官认为《GTA6》将是传统3A的最后高峰",
+      "original_title": "Take-Two 前 CEO 费德：《GTA 6》将是 AI 时代前夜最后的“传统”3A 大作",
+      "summary": "Take-Two前首席执行官本·费德在《财富》撰文称，《GTA6》将成为人工智能时代全面到来前，最后一部采用传统开发模式打造的3A大作，因为它代表一种即将被人工智能改变的创作模式的巅峰。",
+      "facts": [
+        {
+          "text": "Take-Two前首席执行官本·费德在《财富》杂志撰文称，《GTA6》将成为人工智能时代到来前最后一部采用传统开发模式打造的3A大作。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/238.htm"
+        },
+        {
+          "text": "他认为原因并非质量下降或开发会更快更省钱，而是这部作品代表一种即将被人工智能颠覆的创作模式的巅峰。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/238.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据费德称，《GTA6》的发布会成为文化盛事和杰作，但也会是同类作品中的最后一部。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/238.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/238.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T21:01:44+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T21:01:44+08:00",
+      "updated_at": "2026-11-20T21:01:44+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "前游戏公司高管认为《GTA6》将是传统3A的最后高峰",
+      "lead_zh": "Take-Two前首席执行官本·费德撰文称，《GTA6》将成为人工智能时代到来前最后一部传统开发的3A大作，因为它代表一种即将被改变的创作模式的巅峰。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，Take-Two前首席执行官本·费德认为，《GTA 6》将成为人工智能时代全面到来前，最后一部采用传统开发模式打造的3A大作，游戏行业也将由此告别一个时代。他在《财富》杂志撰文阐述了这一判断。",
+            "IT之家写道，费德认为原因并非Rockstar的质量把控能力下降，也不是人工智能能让游戏开发更快、更省钱，而是《GTA 6》代表着一种即将被人工智能颠覆的创作模式的巅峰。他指出，开发过程中改变方向甚至放弃原有创意可能耗费大量时间和技术资源，而人工智能可以大幅降低改变主意的成本。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他怎么比喻",
+          "paras": [
+            "费德称：“《GTA 6》的发布将成为一场文化盛事，带来史诗般的游戏体验。我相信它会是一部杰作，但也会是同类作品中的最后一部。”他把人工智能对游戏业的影响比作摄影术对绘画的冲击，并猜想未来的文化史学家看待《GTA 6》，会像艺术史学家看待最后一批伟大的写实主义画家一样。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/0cbd75685e546b9190512189fd3bbc195b8220ec.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/e134880b-f600-4e2c-9410-625626edcf19.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nff3559dcabff",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Signal限制手机截屏，阻止Gemini和Siri等读取聊天内容",
+      "original_title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "summary": "Signal总裁梅雷迪思·惠特克在博客中表示，操作系统里会分析屏幕内容的智能体正在削弱该应用独立保障隐私的能力。Signal因此在iOS 27和安卓上限制截屏，用户仍可在设置中恢复，但会带来暴露风险。",
+      "facts": [
+        {
+          "text": "Signal开始在安卓和iOS上限制截屏，以阻止操作系统中的人工智能智能体读取用户消息和其他数据。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+        },
+        {
+          "text": "在iOS 27和安卓上，这一限制应可阻止Siri、Gemini等助手读取屏幕内容；用户可在应用设置中恢复截屏，但会被警告存在暴露风险。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Signal总裁梅雷迪思·惠特克称，操作系统级智能体正在削弱该应用独立保障隐私的能力，构成对应用层隐私的生存威胁。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+          "is_primary": false,
+          "published_at": "2026-11-20T20:30:47+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T20:30:47+08:00",
+      "updated_at": "2026-11-20T22:36:42+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Signal限制手机截屏，阻止系统智能体读取聊天",
+      "lead_zh": "Signal在iOS 27和安卓上限制截屏，以阻止Siri、Gemini等系统智能体读取聊天。其总裁称，这类能力正在削弱应用独立保障隐私的能力。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge报道，Signal开始限制在安卓和iOS设备上截屏，以防止人工智能智能体读取用户的消息和其他数据。该应用在iOS **27**和安卓上封锁截屏，从而应能阻止Siri、Gemini以及其他安卓人工智能助手读取屏幕内容。用户仍可在应用设置中恢复截屏功能，但会被警告这样做可能把你和联系人的内容暴露给这些智能体。",
+            "Signal去年曾用类似方法阻止微软有争议的Recall功能捕获加密聊天。文章写道，由于缺乏关于智能体如何访问应用数据的可用信息，该应用表示很难找到更好的方案，并呼吁苹果、谷歌和微软提供简单的技术工具。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "Signal总裁梅雷迪思·惠特克在博客中称，操作系统里会分析屏幕信息以了解用户的智能体能力，正在“削弱Signal独立保障隐私的能力”。她还说，即便能够检测并阻断访问，这些系统厂商也没有让开发者可以在不严重损害核心体验的前提下轻松限制访问的方法，并称Signal是矿井里的金丝雀，但整个生态系统都会受到影响。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/2839d8575870291d9bacc77bc3fccb31bfa5a540.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0%2C3.8035109331691%2C100%2C92.392978133662&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n0ff7d1e0353e",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "玩家在《地平线6》中偶遇已故好友的AI车手并再次同路",
+      "original_title": "玩家在《极限竞速：地平线 6》中偶遇已故好友 Drivatar AI 车手，得以再次“并肩驾车”重温昨日时光",
+      "summary": "《极限竞速：地平线6》玩家Samohteht分享视频称，他在游戏中遇见四个月前离世好友留下的Drivatar人工智能车手，两人再次并排巡航。该视频在Instagram上获超177.7万个赞。",
+      "facts": [
+        {
+          "text": "玩家Samohteht在《极限竞速：地平线6》中遇见四个月前离世好友留下的Drivatar车手，并拍下两人并排巡航的视频，在Instagram上获超177.7万个赞。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/231.htm"
+        },
+        {
+          "text": "Drivatar会学习真实玩家的驾驶风格并出现在他人游戏中，该系统2005年首次登场，2013年加入在线分享。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/231.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据这名玩家称，有那么一小段时间他们又能一起兜风，而这已是他最接近再次见到好友的方式。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/231.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/231.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T20:14:02+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T20:14:02+08:00",
+      "updated_at": "2026-11-20T20:14:02+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "玩家在竞速游戏中偶遇已故好友的AI车手",
+      "lead_zh": "一名玩家在《极限竞速：地平线6》中遇见四个月前离世好友留下的人工智能车手，两人再次并排巡航，相关视频获得大量关注。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，《极限竞速：地平线6》玩家Samohteht分享了一段游戏经历：他在游戏中意外遇见四个月前离世的好友Mabel1411留在游戏里的Drivatar人工智能车手，两辆车并排行驶。这段视频在Instagram上累计获得超过**177.7万**个赞。",
+            "公开信息显示，该系列中的Drivatar会分析真实玩家的驾驶习惯并建立相应的人工智能驾驶数据，之后可能随机出现在其他人的游戏中。这套系统最早于**2005年**的《极限竞速》中登场，并在**2013年**的《极限竞速5》中加入在线分享功能，因此即使原玩家已经离世，其Drivatar仍可能继续出现。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "玩家怎么说",
+          "paras": [
+            "Samohteht称：“我最好的朋友在4个月前离开了。每隔一段时间，我就会在游戏里遇见他的Drivatar。有那么一小段时间，我们又能一起兜风了，不需要言语，没有告别，也没有悲伤。”他还说，自己知道这只是一款游戏，但有时这已经是他最接近再次见到对方的方式，并向好友送上生日祝福。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/e9a70c2a70877e639343357bef95c5563f47edff.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/2b2d6dd9-5971-467d-ab67-0cabc22d6a2f.png?x-bce-process=image/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n9c99530973c7",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "有人用Meta的Muse批量取关Instagram上不回关的账号",
+      "original_title": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "summary": "WIRED报道，有用户利用Meta人工智能助手Muse找出并批量取关Instagram上不回关的账号。一名拥有7600多名粉丝的用户一次就得到151个账号的名单，并在社交平台分享了操作方法。",
+      "facts": [
+        {
+          "text": "有Instagram用户使用Meta的人工智能助手Muse列出并批量取关不回关的非名人账号，随后在X上分享操作方法。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
+        },
+        {
+          "text": "纽约一名拥有7600多名粉丝的用户一次就得到151个账号的分类名单；另有拥有3.32万粉丝的用户也公开了类似用法。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+          "is_primary": false,
+          "published_at": "2026-11-20T20:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T20:00:00+08:00",
+      "updated_at": "2026-11-20T20:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "有人用Meta助手批量取关Instagram上不回关的账号",
+      "lead_zh": "有用户利用Meta人工智能助手找出并批量取关Instagram上不回关的账号。一名拥有7600多名粉丝的用户一次就得到151个账号的名单。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "WIRED报道，Meta的人工智能助手Muse可以追踪并取关Instagram上不回关的用户，已有人把它用于批量清理关注列表。31岁的纽约用户Khalil Roberts此前听说用第三方应用清理粉丝可能被封号，但在看到有人说Muse可以批量取关后开始尝试。他当时拥有超过**7600**名粉丝，向Muse提出列出不回关的非名人账号并代为取关。",
+            "几分钟内，Muse找出了**151**个账号，并附上一份按用户名、真实姓名、分类和主页链接整理的表格，询问是否继续。其中一些名字是他曾视为朋友的人。他在**11月7日**完成清理后把方法发到X上。过去数周，类似做法在X、Instagram和Facebook上流传。拥有**33200**名粉丝的科技从业者Kimberly Munoz也说，她用这一功能查看现实中认识、却取关了自己的人。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "当事人怎么说",
+          "paras": [
+            "Roberts对WIRED表示，人们正更有意识地处理数字关系，以及让谁进入自己的网络生活，但他不打算再让Muse为自己的社交生活做更多决定。报道并未说明Meta是否调整了这一能力，也未给出平台官方回应。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/fbd2d63e6ab2b9e1009813ddb0bc4362dad6dca3.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ndc8eabc151e4",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "开发者把樱井政博游戏教程整理成可供智能体调用的技能",
+      "original_title": "开发者将櫻井政博游戏制作教程整合为 Skill 技能，可供各类 AI 智能体调用",
+      "summary": "日本开发者kociden在GitHub公开非官方项目sakurai-skill，把樱井政博游戏制作频道257集视频字幕整理成约2.7万字、14个章节的技能文件，供人工智能智能体按需调用。",
+      "facts": [
+        {
+          "text": "开发者kociden在GitHub公开非官方项目sakurai-skill，把樱井政博游戏制作频道视频字幕整理成约2.7万字、分14章的技能文件，供智能体按需调用。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/228.htm"
+        },
+        {
+          "text": "该频道于2024年10月22日结束更新；开发者强调内容由自动字幕总结而来，可能有识别或理解偏差，与樱井本人无关。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/228.htm"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/228.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T19:55:46+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T19:55:46+08:00",
+      "updated_at": "2026-11-20T19:55:46+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "开发者把樱井政博游戏教程整理成智能体技能",
+      "lead_zh": "日本开发者在代码托管平台公开非官方项目，把樱井政博游戏制作频道视频字幕整理成约2.7万字、14个章节的技能文件，供智能体按需调用。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，日本开发者kociden在GitHub公开了名为sakurai-skill的非官方项目，将游戏制作人樱井政博YouTube频道《樱井政博的游戏制作》的视频字幕，整理为可供人工智能智能体调用的技能文件。公开信息显示，该频道于**2024年10月22日**结束更新，主要分享其在《星之卡比》和《任天堂明星大乱斗》等作品中积累的开发经验。",
+            "开发者把**257**集视频的字幕整理成一份约**2.7万字**的主文件，涵盖**14**个章节，涉及游戏性、企划、动作、特效、界面和音效等。智能体可按当前需求读取对应类别，而不必一次加载全部内容。kociden还公开了用这套技能、在Godot **4.6.3**引擎中从零开发的演示游戏《ハジキ》，重点展示操作手感设计。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "项目如何定位",
+          "paras": [
+            "开发者希望这套技能能帮助处理企划、难度、奖励、新手引导和打击感调整等，例如直接问“樱井先生会怎么做”。他同时强调，这是非官方同人项目，与樱井政博本人没有关联；内容由自动生成字幕总结而来，并非逐字原话，因此可能存在语音识别错误或理解偏差。公开资料还写到频道共有256集正片及3集特别合作视频。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/73006e9af2bc42980c2eed30edfa81c151f4c499.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/8f75f7d1-0ef8-4973-8aab-0070f1825303.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n0dd62c461aec",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "黄仁勋风波后，更多科技从业者担心约会中的色情间谍",
+      "original_title": "Regular Tech Bros Are Worried About Honeypots",
+      "summary": "WIRED报道，在黄仁勋与据称情报人员的外遇成为新闻后，婚恋顾问称更多普通科技从业者也开始担心约会对象别有目的。有婚介把背景调查和保密协议列入最高超50万美元的套餐。",
+      "facts": [
+        {
+          "text": "婚恋顾问对WIRED表示，在黄仁勋相关报道之后，更多并非高管的科技从业者也开始担心约会对象想获取公司机密。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/"
+        },
+        {
+          "text": "硅谷婚介Linx Dating把背景调查、审查和保密协议列入定制套餐，价格从7.5万美元到超过50万美元不等；有公司还推出号称“零间谍”的人工智能伴侣产品。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+          "is_primary": false,
+          "published_at": "2026-11-20T19:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T19:00:00+08:00",
+      "updated_at": "2026-11-20T19:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "黄仁勋风波后更多科技从业者担心约会中的间谍风险",
+      "lead_zh": "婚恋顾问称，在黄仁勋相关报道之后，更多普通科技从业者也开始担心约会对象别有目的。有婚介把背景调查列入最高超过50万美元的套餐。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "WIRED报道，黄仁勋与一名据称属于中国国家安全部资产的外遇成为新闻后，人工智能公司据报提醒员工提防“蜂蜜陷阱”。婚恋顾问称，这种担忧已从高管扩散到生活更普通的从业者。布鲁克林婚介Simone Grossman说，即便不是首席执行官或大公司员工，这类恐惧也传导到了普通专业人士。一名要求匿名的科技从业者把他对间谍活动的焦虑打了**7分**（满分10分）。",
+            "硅谷婚介Linx Dating创始人Amy Andersen表示，对担心伴侣意图的客户，她提供背景调查、当面审查和保密协议，这些安全服务包含在售价**7.5万美元**至超过**50万美元**的定制套餐中。一篇报道还提到，关系平台Joi AI在事件后推出号称“零间谍”的高管人工智能伴侣产品。一名Palantir员工则对媒人说，不会与中国或俄罗斯籍对象约会。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "专家怎么看",
+          "paras": [
+            "安全顾问Ira Winkler等人士对WIRED表示，大多数所谓蜂蜜陷阱并非酒吧里的偶遇，而往往要经过数月甚至数年培养关系。法律顾问Greg Rinckey也说，受害者通常是被慢慢接近的。文章同时写明，绝大多数科技员工未必会成为浪漫间谍的目标，这种焦虑也已被一些产品用来做营销。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/a0180b752ccc606a2662415a50c4680df4fdd568.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/master/pass/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "na3af7e460c9c",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "DeepSeek新一轮融资落地，消息称募资约千亿、创始人仍绝对控股",
+      "original_title": "DeepSeek 新一轮千亿级融资落地，梁文锋保留绝对控制权",
+      "summary": "工商信息显示DeepSeek运营主体新增股东，注册资本增约21.1%。证券时报援引知情人士称，本轮募资约1000亿至1055亿元，投后估值约6155亿元，梁文锋直接及间接持股约67.42%。",
+      "facts": [
+        {
+          "text": "DeepSeek运营主体杭州深度求索新增股东杭州程砚，注册资本由1644.7496万元增至1991.8707万元，增幅约21.1%。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/199.htm"
+        },
+        {
+          "text": "证券时报援引知情人士称，本轮募资约1000亿至1055亿元，投后估值约6155亿元；测算梁文锋直接及间接持股约67.42%。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/199.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据证券时报援引知情交易人士称，本轮融资募资规模在1000亿元至1055亿元，投后估值约6155亿元。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/199.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/199.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T18:47:45+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T18:47:45+08:00",
+      "updated_at": "2026-11-20T18:47:45+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "DeepSeek新一轮融资落地，创始人仍保留绝对控制权",
+      "lead_zh": "工商信息显示DeepSeek运营主体新增股东。知情人士称本轮募资约1000亿至1055亿元、投后估值约6155亿元，梁文锋直接及间接持股约67.42%。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，工商信息显示，DeepSeek运营主体杭州深度求索人工智能基础技术研究有限公司近日完成变更，新增股东杭州程砚企业管理咨询合伙企业。国家企业信用信息公示系统显示，其注册资本由**1644.7496万元**增至**1991.8707万元**，增加**347.1211万元**，增幅约**21.1%**。",
+            "据证券时报援引知情交易人士消息，本轮融资募资规模在**1000亿元至1055亿元**，投后估值约**6155亿元**。叠加**2026年6月**首轮约**510亿元**融资，市场测算两轮累计吸纳资金将超**1500亿元**。据测算，梁文锋直接及间接持股比例合计约**67.42%**。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "股东结构",
+          "paras": [
+            "作为新增股东的持股平台，杭州程砚登记出资额增至**343897.9万元**，目前有**32**名合伙人，并新增大批来自互联网、运营商、芯片和产业资本的合伙人。出资并列居前的是腾讯体系与宁德时代体系，各约**9.5653%**。梁文锋持有执行事务合伙人杭州程策**99%**股权，外部股东通过平台享有经济收益，控制权留在创始人一侧。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/f47ead69cbc1c3ee77925b6ea1fd05c48ede2e44.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/ce4c28ef-69c5-4b9e-8c2f-43b0ed1c307b.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n20fffc625fcc",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "逾500名谷歌员工请愿，要求允许中小学使用不含AI的搜索",
+      "original_title": "自家人都看不下去了？数百谷歌员工要求公司允许中小学使用不含 AI 的谷歌搜索",
+      "summary": "据彭博社报道，超过500名谷歌员工和合同工联名请愿，要求公司允许中小学继续使用不含人工智能功能的谷歌搜索。请愿由Alphabet员工工会发起，致信首席执行官皮查伊等负责人。",
+      "facts": [
+        {
+          "text": "超过500名谷歌员工和合同工联名请愿，要求公司允许中小学继续使用不含人工智能功能的谷歌搜索，活动由Alphabet员工工会发起。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/197.htm"
+        },
+        {
+          "text": "谷歌计划默认关闭面向学生的人工智能功能，但学校若想继续使用搜索，可能仍须接受内置该功能的版本。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/197.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据谷歌称，公司理解家长和教师担心学生走捷径，目标是帮助学生学习；管理层还认为若自己不提供相关功能，其他公司也可能以更不负责的方式抢先。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/197.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/197.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T18:42:22+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T18:42:22+08:00",
+      "updated_at": "2026-11-20T18:42:22+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "逾500名谷歌员工请愿允许学校使用不含AI的搜索",
+      "lead_zh": "据彭博社报道，超过500名谷歌员工和合同工联名请愿，要求公司允许中小学继续使用不含人工智能功能的谷歌搜索。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，据彭博社报道，当地时间**19日**，超过**500**名谷歌员工和合同工联名请愿，要求公司允许中小学继续使用不含人工智能功能的谷歌搜索。请愿书致谷歌首席执行官桑达尔·皮查伊、搜索业务负责人伊丽莎白·里德和教育业务负责人克里斯·菲利普斯，活动由代表全职员工、临时工、供应商人员和合同工的Alphabet员工工会发起。",
+            "此前，谷歌决定扩大校园人工智能服务覆盖，让许多中小学生能够使用Gemini，引发教育工作者、家长和政策制定者质疑，担心这会削弱学生的批判性思维。为打消顾虑，谷歌计划默认关闭面向学生的人工智能功能，但学校如果想继续使用谷歌搜索，可能仍然必须接受内置该功能的版本。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司与员工怎么说",
+          "paras": [
+            "谷歌回应称，公司与学校保持密切合作，理解家长和教师担心学生走捷径，目标是帮助学生和教师学习。管理层认为，如果不向学生提供人工智能功能，其他公司也会抢先，且可能更加“不负责任”。部分员工并不认同这一理由，也有人质疑推出不带生成式功能的搜索版本在技术上是否真的做不到。请愿书还警告，若学校不愿使用人工智能就不让它们使用搜索，可能让学校彻底弃用谷歌产品。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/23277b57ceab444a15313f9f8d826e3d73bc8ac4.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/2b2d8833-8636-4167-999b-514c358bae30.png?x-bce-process=image/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nc74de7dc4855",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "欧洲央行行长拉加德称人工智能加剧网络攻击令其难安",
+      "original_title": "欧洲央行行长拉加德：AI 加剧网络攻击威胁，使我夜不能寐",
+      "summary": "据路透社报道，欧洲央行行长克里斯蒂娜·拉加德在银行业大会上警告，随着人工智能智能体日益先进，网络攻击威胁加剧，可能成为全球金融业当前面临的最大挑战。她说这让她夜不能寐。",
+      "facts": [
+        {
+          "text": "欧洲央行行长拉加德在法兰克福举行的欧洲银行业大会上警告，人工智能智能体日益先进使网络攻击威胁加剧，可能成为全球金融业当前最大挑战。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/191.htm"
+        },
+        {
+          "text": "欧盟委员会于前一日证实遭受了利用人工智能工具进行的网络攻击，有关调查尚未结束。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/191.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据拉加德称，真正让她和在座许多人夜不能寐的，就是人工智能与网络威胁的结合，政策制定者尚未充分重视这一威胁。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/191.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/191.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T18:06:09+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T18:06:09+08:00",
+      "updated_at": "2026-11-20T18:06:09+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "欧洲央行行长称人工智能加剧网络攻击令其难安",
+      "lead_zh": "欧洲央行行长拉加德警告，随着人工智能智能体日益先进，网络攻击威胁加剧，可能成为全球金融业当前面临的最大挑战，并称这让她夜不能寐。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，据路透社报道，当地时间20日，欧洲央行行长克里斯蒂娜·拉加德在法兰克福举行的欧洲银行业大会上发出警告：随着人工智能智能体日益先进，网络攻击的威胁也随之加剧，可能成为全球金融业当前面临的最大挑战。综合IT之家此前报道，当地时间**19日**，欧盟委员会证实遭受了利用人工智能工具进行的网络攻击，有关调查尚未结束，事态规模暂难判断。",
+            "报道还回顾了近期多起事件：今年**10月**，法国数百家超市的商用冷藏柜和冷冻柜因黑客攻击停运；驶往美国的船只、美国的水处理厂和洛杉矶的公共交通系统，也分别在**8月**、**7月**和**3月**因黑客攻击中断运行。此外，全美范围的航班一度暂停起飞数小时，银行和微软的应用程序也出现无法使用的情况。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "她怎么说",
+          "paras": [
+            "拉加德坦言，政策制定者尚未充分重视这一威胁。“真正让我和在座许多人夜不能寐的，就是人工智能与网络威胁的结合。”报道同时转述，技术专家认为，部分服务中断是紧急修补新发现的软件漏洞所致，并不都可直接归因于同一次攻击。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "neff10dd94532",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "开源Hermes智能体将进入Teams，并可把个人技巧共享给全组",
+      "original_title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+      "summary": "Nous Research称，开源的Hermes Agent即将可在Microsoft Teams中运行，并能把成功工作流自动变成可复用技能。新功能Collective Wisdom允许员工在审核后把技能分享给团队，且不会进入外部训练数据。",
+      "facts": [
+        {
+          "text": "开源Hermes Agent即将可在Microsoft Teams中运行，桌面应用也已上架Microsoft Store，智能体在Azure隔离的微型虚拟机中执行。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
+        },
+        {
+          "text": "新功能Collective Wisdom允许员工在审核后把成功工作流转化成的技能分享给团队，这些知识留在公司内部，不进入外部模型训练数据。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Nous Research称，Hermes Agent是OpenRouter上使用最广泛的开源智能体，每天处理近两兆token。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+          "is_primary": false,
+          "published_at": "2026-11-20T17:59:51+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T17:59:51+08:00",
+      "updated_at": "2026-11-20T17:59:51+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "开源智能体将进入办公软件，并可把个人技巧共享给全组",
+      "lead_zh": "开源的Hermes智能体即将可在微软办公软件中运行，并能把成功工作流变成可复用技能，经审核后分享给团队，且不会进入外部训练数据。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder报道，企业即将可以在Microsoft Teams中直接运行Nous Research的开源Hermes Agent。据该公司介绍，员工可以把财务分析、起草文件或整理收件箱等任务交给它，并在同一聊天中查看结果。桌面应用也已在Microsoft Store上架，智能体运行在Azure Container Apps的沙箱中，也就是隔离的微型虚拟机里。",
+            "Hermes会把成功的工作流自动变成由描述和代码组成的可复用技能。新功能Collective Wisdom允许员工在审核后把这些技能分享给团队。收集到的知识留在公司内部，不会进入任何人工智能提供商的训练数据。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "Nous Research是微软风险投资基金M12的投资组合公司。该公司称，Hermes Agent是OpenRouter上使用最广泛的开源智能体，每天处理近**两兆**token。报道还提到，微软今年早些时候开始支持另一款用于Windows电脑本地运行的开源智能体OpenClaw。Nous近期还以所谓“西方价值观”微调了阿里巴巴的Qwen3.8-27B，得到Arete-27B。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/8a18cb520491a90b9f3bbcb55c78cac68a53bb19.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/06/hermes-og-image-blue.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nbf067713e59a",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "AMD的XDNA2处理器率先获得Unsloth桌面软件适配",
+      "original_title": "AMD XDNA2 NPU 率先获得 Unsloth Desktop 适配，支持超百款智能体",
+      "summary": "AMD宣布，锐龙AI处理器上的XDNA 2神经处理单元成为首款获得Unsloth Desktop本地界面支持的NPU，从而可让超百款智能体在该单元上本地运行，并把相关负载从CPU和GPU上卸下。",
+      "facts": [
+        {
+          "text": "AMD宣布，锐龙AI处理器上的XDNA 2神经处理单元成为首款获得Unsloth Desktop本地界面支持的NPU。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/131.htm"
+        },
+        {
+          "text": "兼容应用通过该接口发出模型请求，由Lemonade和FastFlowLM在该NPU上处理推理，从而可运行超百款智能体。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/131.htm"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/131.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T17:13:35+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T17:13:35+08:00",
+      "updated_at": "2026-11-20T17:13:35+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "AMD的专用处理器率先获得本地智能体软件适配",
+      "lead_zh": "AMD宣布，其锐龙人工智能处理器上的专用神经处理单元成为首款获得Unsloth桌面软件支持的产品，可让超百款智能体在本地运行并减轻处理器负担。",
+      "body_zh": [],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n2a7086c75d5d",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic上市日，前研究员在总部外呼吁禁止递归自我改进",
+      "original_title": "Anthropic 上市当天，离职研究员考克森在其总部外呼吁禁止 AI 递归自我改进",
+      "summary": "据《商业内幕》报道，Anthropic前研究员雅各布·考克森在公司上市交易当天，与数十名抗议者聚集在旧金山总部外，要求禁止人工智能递归自我改进。他称买不买股票并不重要，必须阻止这一技术。",
+      "facts": [
+        {
+          "text": "Anthropic前研究员雅各布·考克森在公司股票上市交易当天，与数十名抗议者聚集在旧金山总部外，要求禁止递归自我改进。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/127.htm"
+        },
+        {
+          "text": "现场还有前OpenAI研究员丹尼尔·科科塔伊洛等人演讲，随后赶到的组织成员封堵了办公楼入口。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/127.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据考克森称，买不买股票根本不重要，必须阻止递归自我改进，并呼吁公司游说政府、与其他企业合作推动全面禁止。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/127.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/127.htm",
+          "is_primary": false,
+          "published_at": "2026-11-20T17:06:53+08:00"
+        }
+      ],
+      "published_at": "2026-11-20T17:06:53+08:00",
+      "updated_at": "2026-11-20T17:06:53+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Anthropic上市日，前研究员在总部外呼吁禁止自我改进",
+      "lead_zh": "Anthropic前研究员考克森在公司上市交易当天，与数十名抗议者聚集在旧金山总部外，要求禁止人工智能递归自我改进，并称买不买股票并不重要。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月20日消息，据《商业内幕》报道，今年**9月**因担忧人工智能发展而离职的Anthropic前研究员雅各布·考克森，在当地时间**19日**该公司股票首次上市交易当天，再次公开呼吁关注安全问题。他与数十名抗议者聚集在旧金山总部外，要求禁止递归自我改进，也就是让先进系统参与训练下一代模型、从而推动能力持续提升。",
+            "抗议者举标语、喊口号，现场还有考克森、OpenAI前研究员丹尼尔·科科塔伊洛和YouTube博主罗布·迈尔斯发表演讲，随后赶到的Stop AI组织成员则封堵了办公楼入口。IT之家还提到，评估机构METR近期的独立报告发现，人工智能正在帮助Anthropic加快研发；该公司也在招股说明书中承认，在缺乏监督的情况下让人工智能完全自主设计下一代模型并不安全。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他们怎么说",
+          "paras": [
+            "考克森强调：“他们买不买股票根本不重要。我们必须阻止递归自我改进。”他认为现有措施还不够，并呼吁Anthropic游说政府、与其他企业合作，推动全面禁止。他还说，到了**2027年**，全球只有少数几个地方能够实现这一能力，而这里就是其中之一。科科塔伊洛则形容，私下里常听到研究人员表达担忧。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    }
+  ]
+}
