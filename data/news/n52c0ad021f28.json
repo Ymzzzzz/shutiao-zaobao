@@ -1,0 +1,67 @@
+{
+  "id": "n52c0ad021f28",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "伯里称早已提醒英伟达等AI股风险",
+  "original_title": "“大空头”迈克尔 · 伯里谈 AI 股暴跌：我早就提醒过你们了",
+  "summary": "“大空头”迈克尔·伯里在X上说，他曾提醒市场注意CoreWeave、Nebius、英伟达和半导体股。当地时间20日英伟达开盘跌约4%、盘中最多跌14%，自10月6日高点以来已下跌约42%。",
+  "facts": [
+    {
+      "text": "迈克尔·伯里在X发文称已提醒市场注意CoreWeave、Nebius、英伟达和半导体股。当地时间20日英伟达开盘跌约4%、盘中最多跌14%，CoreWeave和Nebius跌幅约7%。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/378.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据伯里称，他没有让人们去做空，但提供的信息足以让人决定卖出；他还说，若只把下跌看成婚外情或政治问题，就说明想得还不够深。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/378.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/378.htm",
+      "is_primary": false,
+      "published_at": "2026-11-21T15:28:24+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T15:28:24+08:00",
+  "updated_at": "2026-11-21T15:28:24+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "伯里称早已提醒英伟达等AI股风险",
+  "lead_zh": "“大空头”迈克尔·伯里在X上说，他曾提醒市场注意CoreWeave、Nebius、英伟达和半导体股。当地时间20日英伟达开盘跌约4%，自10月高点以来已下跌约42%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家报道，迈克尔·伯里在X发文点名CoreWeave、Nebius、英伟达和半导体股。当地时间20日开盘，英伟达下跌约**4%**，盘中最高跌幅达**14%**，CoreWeave和Nebius跌幅均在**7%**左右。据《商业内幕》，自10月6日盘中高点以来，这三只股票分别下跌约**42%**、**55%**和**65%**；本轮回调始于10月**7**日，同期纽约证券交易所半导体指数累计下跌约**30%**。",
+        "11月11日，也就是黄仁勋辞去CEO前一天，伯里在Substack呼吁股东卖出英伟达，认为其离任后增长将放缓、利润率也会收窄。次日他又把警告扩大到Nebius和CoreWeave等“新云服务商”。早在8月12日，他就曾称“Nebius就是繁荣行情见顶的写照”；当年他还做过空英伟达、CoreWeave和半导体指数。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据伯里称，他没有让人们去做空，但提供的信息足以让人决定卖出。他还强调，对英伟达及其合作伙伴的担忧远不止黄仁勋相关传闻，以及民主党掌控国会后可能出现的政策逆风；“如果你还觉得这一切只是婚外情和政治问题，那就说明你想得还不够深。”"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

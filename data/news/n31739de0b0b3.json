@@ -1,0 +1,67 @@
+{
+  "id": "n31739de0b0b3",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "纳斯达克100创疫情以来最差周跌幅",
+  "original_title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+  "summary": "纳斯达克100周五下跌5.6%，全周跌10.4%，创新冠疫情以来最差周表现，较10月高点回落20%，进入熊市。英伟达在SEC审查其会计的报道出台后当天下跌14%，Anthropic上市次日跌9.1%。",
+  "facts": [
+    {
+      "text": "纳斯达克100周五下跌5.6%，全周跌10.4%，为新冠危机以来最差一周，较10月高点回落20%。英伟达周五下跌14%，美国半导体指数下跌10.7%，Anthropic上市次日跌9.1%。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据《金融时报》称，该指数已较10月高点下跌20%，进入熊市区间。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+      "is_primary": false,
+      "published_at": "2026-11-21T18:27:44+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T18:27:44+08:00",
+  "updated_at": "2026-11-21T18:27:44+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "纳斯达克100创疫情以来最差周跌幅",
+  "lead_zh": "纳斯达克100周五下跌5.6%，全周跌10.4%，创新冠疫情以来最差周表现，并较10月高点回落20%。英伟达当天跌14%，Anthropic上市次日跌9.1%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，偏重科技股的纳斯达克100周五下跌**5.6%**，全周跌**10.4%**，为新冠危机以来最差一周。据《金融时报》，该指数已较**10**月高点下跌**20%**，进入熊市区间。文章把抛售归因于对规模庞大的AI建设支出的疑虑、英伟达相关丑闻及对华交易疑问，以及民主党在中期选举胜选后的政治压力，同时高油价和通胀也使利率维持在高位。",
+        "英伟达周五跌幅最大，在有报道称SEC正在审查其会计问题后下跌**14%**。美国半导体指数同日跌**10.7%**，闪迪、美光和博通等存储与芯片股均下跌。Anthropic在创纪录的IPO次日下跌**9.1%**，几乎吐回上市后的涨幅。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据The Decoder称，投资者也在争论芯片和存储股的高估值在周期性行业里是否仍然成立；对多轮耗资巨大的AI扩建、英伟达相关争议以及政治逆风叠加在一起，正在冲击一度过热的估值。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/d31790a0423166244ca57899d58beabe9d03b8dd.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/tech_crash_synth-1200x675.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "nc6d77569c174",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "WIRED称AI加速漏洞发现或加剧宕机",
+  "original_title": "The Outages Are Just Getting Started",
+  "summary": "WIRED指出，过去一周Outlook、苹果、多家美国银行、美联航乃至NSA内网接连出现故障，但并无协同AI攻击证据。分析认为AI加快了漏洞发现和利用，迫使机构在来不及验证的情况下打补丁。",
+  "facts": [
+    {
+      "text": "过去一周Outlook、苹果、多家美国银行、美联航和NSA内网等接连出现故障。WIRED称没有证据表明这是协同AI攻击，微软365宕机被归因于有缺陷的基础设施更新。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Cloudflare首席执行官Matthew Prince称，未来两年会有天要塌下来的感觉，但AI最终也可能帮助防守方更好地修补常见漏洞。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "is_primary": false,
+      "published_at": "2026-11-21T21:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T21:00:00+08:00",
+  "updated_at": "2026-11-21T21:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "WIRED称AI加速漏洞发现或加剧宕机",
+  "lead_zh": "WIRED指出，过去一周从Outlook、苹果到多家银行、美联航乃至NSA内网接连出现故障，但并无协同AI攻击证据。分析认为AI加快了漏洞发现，迫使机构仓促打补丁。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED在安全通讯Kernel Panic中写道，过去一周Outlook、苹果、大约六家美国银行、美联航乃至NSA分类网络都出现干扰性故障。文章明确说，没有证据表明这是协同的AI黑客行动，各起事件单独看也多有常规解释：微软365大规模宕机被归因于基础设施更新缺陷并叠加其他网络故障；官员称NSA内部通信中断是因为**10**月关键PHP补丁打坏；苹果则称相关故障与内部更新有关。",
+        "文章同时列出一组数字：2026年已发现的漏洞总数超过**10**万个，而大模型普及前的2022年约为**2.5**万个；在年底前一个多月，这一数字已相当于2024年和2025年合计的两倍。近日还有研究团队称用AI在PHP、NGINX和Java中发现严重漏洞，Forbes则报道研究人员用AI在苹果产品中发现**35**个漏洞。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "分析怎么说",
+      "paras": [
+        "据Dataminr威胁研究与网络工程总监Joe Slowik称，过去厂商发布补丁后通常还有时间验证再部署，现在周转时间可能已无法完成验证。据Cloudflare首席执行官Matthew Prince称，未来**两年**会有“天要塌下来”的感觉，但AI加速最终也可能帮助防守方更好地控制常见漏洞。CISPA的Lea Schönherr则表示，AI可以辅助，但仍需人来理解根因并检查补丁是否对症。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/67ae13f2c9cd67a2798f2aa4545af3be0ab385c7.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

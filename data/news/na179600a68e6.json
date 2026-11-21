@@ -1,0 +1,67 @@
+{
+  "id": "na179600a68e6",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Nothing首款AI原生硬件定档12月8日",
+  "original_title": "Nothing 首款 AI 原生硬件设备定档 12 月 8 日亮相：无屏幕设计、预计主打会议记录用途",
+  "summary": "Nothing预热首款AI原生硬件将于12月8日亮相，采用无屏幕拉丝金属矩形机身，配有Talk按键、录音键和红绿指示灯，预计主打会议记录等办公场景。CEO裴宇称它不是一款软件应用。",
+  "facts": [
+    {
+      "text": "Nothing发文预热首款AI原生硬件将于12月8日亮相，产品为无屏幕设计，预热图显示拉丝金属矩形机身，配有Talk按键、录音标识和红绿LED指示灯。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/379.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Nothing首席执行官裴宇称，当前AI缺乏对用户日常生活的理解，希望通过专门硬件让会议和交谈中的信息成为可用上下文；他还说这款产品没有屏幕，也不是软件应用。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/379.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/379.htm",
+      "is_primary": false,
+      "published_at": "2026-11-21T15:28:50+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T15:28:50+08:00",
+  "updated_at": "2026-11-21T15:28:50+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Nothing首款AI原生硬件定档12月8日",
+  "lead_zh": "Nothing预热首款AI原生硬件将于12月8日亮相，采用无屏幕拉丝金属矩形机身，并配有Talk按键和录音键，预计主打会议记录等办公场景。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家报道，Nothing发文预热旗下首款AI原生硬件设备将于**12**月**8**日正式亮相。产品采用无屏幕设计，定位为面向日常办公与生产力场景的AI工具。此前公布的预热图片显示，设备为小巧的矩形机身，表面使用拉丝金属，并配有实体按键：较大的按键标有“Talk”，另一枚带有录音标识，机身还有红色与绿色LED状态指示灯，外界据此预计其主打会议记录用途。",
+        "Nothing尚未公布完整规格和定价，此次只是定档预热。结合外观上的通话和录音按键，产品更像一款可随身携带的会议与语音助手硬件，而不是带屏幕的手机或耳机配件。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Nothing首席执行官裴宇称，当前AI面临的一大问题是缺乏对用户日常生活的理解，会议、交谈中产生的信息往往无法及时成为模型可用的上下文，因此希望通过专门硬件让AI更自然地融入日常工作。他还透露，相应产品没有屏幕，也不是一款软件应用。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/93cf86a0f6023594907e1a2bfeb5daf59ac77c59.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/77fb1ff2-cba8-423e-8a7e-f8867024a131.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n101fc3518e5f",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "开源循环模型Inkling 2 Mini可在笔记本运行",
+  "original_title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+  "summary": "Thinking Machines发布开源循环变换器Inkling 2 Mini：24层中有12层会对每个token循环三次，总参数264亿。它在Artificial Analysis智力指数上与Qwen3.8 27B打平，成本约为其六分之一。",
+  "facts": [
+    {
+      "text": "Thinking Machines发布开源MoE模型Inkling 2 Mini，总参数264亿，24层中有12层会对每个token连续运行三次，上下文窗口为100万token，采用Apache 2.0许可。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该公司称，循环使模型能在内部推理更久而不多生成文本；它在Artificial Analysis智力指数上得到20分，与Qwen3.8 27B打平，成本约为其六分之一、速度约为四倍。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+      "is_primary": false,
+      "published_at": "2026-11-21T18:33:02+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T18:33:02+08:00",
+  "updated_at": "2026-11-21T18:33:02+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "开源循环模型Inkling 2 Mini可在笔记本运行",
+  "lead_zh": "Thinking Machines发布开源循环模型Inkling 2 Mini，24层中有12层会对每个token循环三次。它与Qwen3.8 27B在智力指数上打平，成本约为其六分之一。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Thinking Machines发布开源循环变换器Inkling 2 Mini：在**24**层里，有**12**层会对每个token连续运行三次，从而延长内部推理、减少向外生成的文字。这是混合专家模型，总参数**264**亿，因循环设计每个token激活**54**亿参数；它能处理文本和图像，上下文窗口为**100**万token，采用Apache 2.0许可。",
+        "在代理式编程测试中，该模型在不到1000亿参数的开源模型里领先，DeepSWE v1.1得分为**48.2%**，Vals Index v2.2为46.5%。Artificial Analysis给它的智力指数是**20**分，与Qwen3.8 27B打平，成本约为其**六**分之一，速度约为**四**倍。它可在至少**32**GB内存的Mac以及英伟达DGX Spark上本地运行，权重和可变循环的研究版已在Hugging Face提供，也可在Tinker Playground试用。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Thinking Machines称，这种循环设计能让模型在内部思考更久，从而用更少的token找到正确答案。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/85af9e16282f97e208b20d9f1e161fd36ea1f89b.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2025/09/thinking_machines_ca_illustration.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

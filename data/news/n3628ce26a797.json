@@ -1,0 +1,323 @@
+{
+  "id": "n3628ce26a797",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "AWS Quick升级流程编排与多代理协作",
+  "original_title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+  "summary": "AWS更新工作场景AI工作区Quick：可在对话中搭建业务流程，升级网页端工作台，并让多个专业代理并行处理同一请求后合并答复，同时新接入Meta广告与Amplitude。",
+  "facts": [
+    {
+      "text": "AWS为Quick增加在对话中生成并改进业务流程、升级网页应用、多代理编排，以及Meta广告和Amplitude连接器，并新支持日语、德语、简体和繁体中文及越南语。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Pomelo数据负责人Rodrigo Marini称，在团队规模未扩大的情况下，每月使用数据的人数接近此前四倍，仅一个用例每月就节省80小时。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+      "is_primary": true,
+      "published_at": "2026-11-21T09:06:42+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T09:06:42+08:00",
+  "updated_at": "2026-11-21T09:06:42+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AWS Quick升级流程编排与多代理协作",
+  "lead_zh": "AWS更新工作场景AI工作区Quick，支持在对话中搭建业务流程、升级网页端工作台，并可让多个专业代理并行处理同一请求后合并答复，同时新接入Meta广告与Amplitude。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS宣布更新面向工作场景的AI工作区Quick。用户可在对话中描述业务流程，由Quick生成流程来编排代理、技能和工具，并新增确定性步骤，以支持更长流程和更大规模数据。更新后的网页应用会在首页展示待处理事项和每日简报，关闭标签页后任务仍可继续运行。",
+        "此次还加入多代理编排：多个专业代理可同时处理同一请求，再把结果合并为一条答复。新连接器可接入Meta广告和Amplitude，用自然语言查询并与其他数据源结合；对广告账户的创建活动、修改预算等写入操作会先征求用户许可。Quick网页端也可管理可复用技能，并新支持日语、德语、简体中文、繁体中文和越南语。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "客户怎么说",
+      "paras": [
+        "据拉丁美洲金融科技公司Pomelo数据负责人Rodrigo Marini称，以往分析和自动化都依赖数据团队，如今各部门可在统一且受治理的环境中自行探索数据和搭建代理、流程；在团队规模未扩大的情况下，每月使用数据的人数接近此前的**四倍**，仅一个用例每月就节省**80**小时。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/ad63503b82ec339377c3aa1f3a2424fcd73d7f65.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/20/ML-22322-featured-image.png",
+  "fulltext_status": "ok",
+  "read_minutes": 10,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-20",
+    "title_en": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+    "title_zh": "AWS Quick 新功能：更强的流程、更新的网页体验，以及可协同工作的代理",
+    "dek_en": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads and Amplitude.",
+    "dek_zh": "AWS Quick 是专为工作打造的 AI 工作空间。我们今天发布的更新能帮助团队完成更多工作：在对话中构建并运行业务流程、在更新后的网页应用中安排一天的任务、同时从多个代理获得更完整的回答，以及接入 Meta 广告和 Amplitude 等新数据源。",
+    "word_count_zh": 3620,
+    "read_minutes": 10,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "把一个人的流程变成团队的流程，在 Quick 网页应用中完成更多工作，并通过协同工作的代理获得更完整的回答。",
+        "en": "Turn one person’s process into your team’s process, get more done in the Quick web app, and get more complete answers from agents working together."
+      },
+      {
+        "t": "p",
+        "zh": "AWS Quick 是专为工作打造的 AI 工作空间。今天，我们发布的更新能帮助团队完成更多日常工作：",
+        "en": "AWS Quick is the AI workspace built only for work. Today, we are releasing updates that help your team get more of its everyday work done:"
+      },
+      {
+        "t": "p",
+        "zh": "• 通过对话构建、查看并改进业务流程。在聊天中描述一个流程，Quick 就会构建一个流程来编排代理、技能和工具，并访问结构化数据、知识和应用。新的确定性步骤有助于让工作流保持一致且可验证，现在还支持更长时间运行的工作流以及大数据量。",
+        "en": "• Build, see, and improve business processes, all through conversation. Describe a process in chat and Quick builds a flow to orchestrate agents, skills, and tools with access to structured data, knowledge, and apps. New deterministic steps help make your workflows consistent and verifiable, now with longer-running workflows and support for large data volumes."
+      },
+      {
+        "t": "p",
+        "zh": "• 在 Quick 网页应用中安排一天的任务，并让代理持续工作。更新后的网页应用把需要你关注的事项和每日简报放在主屏幕上，加入你在桌面端使用的代理和技能，并在你关闭标签页后继续运行你的工作。",
+        "en": "• Triage your day and keep agents working in the Quick web app. The updated web app puts what needs your attention and a daily briefing on your home screen, adds the agents and skills you use on desktop, and keeps your work running after you close the tab."
+      },
+      {
+        "t": "p",
+        "zh": "• 用一次提示完成跨越多个代理的工作。借助多代理编排，若干专业代理会同时处理你的请求，Quick 再把它们的发现合并成一份回答。",
+        "en": "• Complete work spanning multiple agents through a single prompt. With multi-agent orchestration, several specialized agents work on your request at the same time, and Quick combines what they find into one response."
+      },
+      {
+        "t": "p",
+        "zh": "• 把更多数据带入 Quick。接入 Meta 广告和 Amplitude，然后用自然语言提问，并把答案与你的其他来源合并。",
+        "en": "• Bring more of your data into Quick. Connect to Meta ads and Amplitude, then ask in natural language and combine the answers with your other sources."
+      },
+      {
+        "t": "p",
+        "zh": "• 网页端技能、安全与治理改进，以及更多语言：把你完成某项任务的方式变成 Quick 可复用的技能，现在可在 Quick 网页应用中使用。为用户提示设置可配置的内容安全和敏感信息控制。支持日语、德语、中文（简体和繁体）以及越南语。",
+        "en": "• Skills on web, security and governance improvements, and more languages: Turn the way you do a task into a skill Quick can reuse, now in the Quick web app. Set configurable content safety and sensitive-information controls for user prompts. Support for Japanese, German, Chinese (Simplified and Traditional), and Vietnamese."
+      },
+      {
+        "t": "p",
+        "zh": "AI 助手能让个人变得更快，但这些收益往往只留在一个人身上。某位分析师做月报的方法，很少会变成团队做月报的方法，而且工作会等到有人回到工位才继续。这次发布帮助团队把一个人所掌握的方法变成人人可以依赖的流程，并在你离开时让工作继续推进。",
+        "en": "AI assistants make individuals faster, but the gains often stay with one person. The way one analyst builds the monthly report rarely becomes the way the team builds it, and work waits until someone is back at their desk. This release helps your team turn what one person knows into a process everyone can rely on, and keeps work moving when you step away."
+      },
+      {
+        "t": "h",
+        "zh": "把一个人的流程变成团队的流程",
+        "en": "Turn one person’s process into your team’s process"
+      },
+      {
+        "t": "p",
+        "zh": "AWS Quick Flows 已经在帮助团队自动化并标准化业务流程，好让人们专注于最重要的工作。现在，你可以完全在对话中构建、运行并改进流程。而且无论你是从网页、桌面还是移动应用启动，你的流程都能承担更多艰难的工作。",
+        "en": "AWS Quick Flows already helps teams automate and standardize business processes so people can focus on their most important work. Now you can build, run, and refine flows entirely in chat. And your flows can take on more of your tough work, whether you start it from the web, desktop, or mobile app."
+      },
+      {
+        "t": "p",
+        "zh": "例如，下面是流程可以如何支持一个财务团队。Maya 是一家零售商的财务规划与分析经理。每个月，她都要为财务副总裁准备一份报告，解释成本和利润率的变化。针对每个地区，她会拉取上个月的结果，与电子表格中的计划进行比较，就最大的变化撰写评述，然后发出报告。这个流程存在于她的记忆和个人清单里。当她不在时，同事只好从头重做报告，而且每次看起来都不一样。",
+        "en": "For example, here is how flows could support a finance team. Maya is a financial planning and analysis manager at a retailer. Each month, she prepares a report for her VP of Finance that explains changes to costs and margins. For each region, she pulls last month’s results, compares them to the plan in a spreadsheet, writes commentary on the biggest changes, and sends the report. The process lives in her memory and a personal checklist. When she is out, a teammate has to rebuild the report from scratch, and it looks different every time."
+      },
+      {
+        "t": "p",
+        "zh": "有了 Quick，Maya 可以标准化这个流程、将其自动化，并提供给她的团队。她在聊天中描述自己的流程，就像向新员工解释一样。Quick 根据她的描述构建流程，她在同一段对话中测试并改进它。聊天旁边的示意图会显示每一步，便于她确认这与她的工作方式相符。",
+        "en": "With Quick, Maya can standardize the process, automate it, and make it available to her team. She describes her process in chat, the way she would explain it to a new employee. Quick builds the flow from her description and she tests and refines it in the same conversation. A diagram beside the chat shows each step, so she can confirm it matches how she works."
+      },
+      {
+        "t": "p",
+        "zh": "图 1：Maya 在聊天中描述她的月报，Quick 构建出流程，并在旁边配上示意图。此处为便于查看而放大了两个视图，它们在同一个 Quick 窗口中并排显示",
+        "en": "Figure 1: Maya describes her monthly report in chat, and Quick builds the flow with a diagram beside it. Both views, enlarged here for visibility, appear side by side in the same Quick window"
+      },
+      {
+        "t": "p",
+        "zh": "一个流程现在可以把代理、技能、工具和数据整合在一起，并处理更长、数据量更大的过程。固定的计算和检查让结果保持一致，代理负责起草和分析，Maya 决定最终报告里写什么。每次运行时，她的流程会：",
+        "en": "A flow can now bring together agents, skills, tools, and data, and handle longer processes with more data. Fixed calculations and checks keep the results consistent, agents draft and analyze, and Maya decides what goes in the final report. On each run, her flow:"
+      },
+      {
+        "t": "p",
+        "zh": "• 从 Quick 中团队的月度结果仪表盘拉取上个月的结果，因此她从团队已经在汇报的数字开始。",
+        "en": "• Pulls last month’s results from the team’s monthly results dashboard in Quick, so she starts from the numbers her team already reports on."
+      },
+      {
+        "t": "p",
+        "zh": "• 同时处理多个地区，因此即使公司增加地区，报告也能更快就绪。",
+        "en": "• Works through several regions at the same time, so the report is ready sooner, even as the company adds regions."
+      },
+      {
+        "t": "p",
+        "zh": "• 将每个地区与团队预算电子表格中的年度计划进行比较，使用既定公式，以便数字每月都以同样的方式计算。",
+        "en": "• Compares each region to the annual plan in the team’s budget spreadsheet, using set formulas so the numbers are calculated the same way each month."
+      },
+      {
+        "t": "p",
+        "zh": "• 根据 Maya 设定的阈值，标出相对计划变动显著的地区，并使用团队的评述技能为每个地区起草评述。",
+        "en": "• Flags regions that moved significantly from plan, based on thresholds Maya set, and drafts commentary on each using the team’s commentary skill."
+      },
+      {
+        "t": "p",
+        "zh": "• 把一份 Microsoft Excel 摘要草稿发到团队的共享 Space 和报告邮件，供 Maya 审阅，并在 Slack 中通知团队草稿已就绪。",
+        "en": "• Drafts a Microsoft Excel summary to the team’s shared Space and report email for Maya to review, and tells the team in Slack that the draft is ready."
+      },
+      {
+        "t": "p",
+        "zh": "Maya 把这个流程发布给她的团队。到了下一个月末，她正在参加规划会议，于是她团队里的分析师 Jordan 从 Quick 桌面应用的聊天中运行它。在那里，该流程可以使用保存在他电脑上的一份地区调整电子表格。在报告发出之前，Jordan 审阅草稿，包括每个地区被标出的原因，在聊天中要求做几处修改，然后批准给财务副总裁。当 Priya 加入团队后，她在第一个月末运行同一个流程，报告以同样的方式生成。",
+        "en": "Maya publishes the flow for her team. At the next month-end, she is at a planning meeting, so Jordan, an analyst on her team, runs it from chat in the Quick desktop app. There, the flow can use a spreadsheet of regional adjustments saved on his computer. Before the report goes out, Jordan reviews the draft, including why each region was flagged, asks for a few changes in chat, and approves it for the VP of Finance. When Priya joins the team, she runs the same flow at her first month-end, and the report is built the same way."
+      },
+      {
+        "t": "p",
+        "zh": "虽然这是一个虚构的例子，但真实客户告诉我们，他们正在把复杂的业务流程自动化，使其更加一致和可重复。这让他们的员工腾出宝贵时间，专注于更具战略性的工作。以 Pomelo 为例，这家拉丁美洲金融科技公司为客户提供发卡、处理和支付运营服务：",
+        "en": "While this is a fictional example, real customers tell us they’re automating complex business processes to make them more consistent and repeatable. This gives their people back valuable time to focus on more strategic work. Take Pomelo, a Latin American fintech provider powering card issuance, processing, and payment operations for customers:"
+      },
+      {
+        "t": "p",
+        "zh": "“在 Pomelo，AWS Quick 改变了谁能够构建解决方案。以前，每一次分析或自动化都要依赖数据团队。如今，各个领域的人都可以在统一、受治理的环境中探索信息、做出决策，并构建自己的代理和流程。在没有扩大团队的情况下，现在每个月使用数据的人几乎是以前的四倍，因此我们的数据团队可以专注于最复杂、影响最大的工作。仅一个用例每月就为我们节省 80 小时的工作。但真正的转变并不是节省的小时数。Quick 正在改变我们的数据与创新文化：我们从少数人给多数人构建解决方案，变成一个人人都可以创造、试验并改变工作方式的组织。而我们才刚刚开始。”",
+        "en": "“At Pomelo, AWS Quick changed who gets to build solutions. Before, every analysis or automation depended on the data team. Today, people across every area explore information, make decisions, and build their own agents and flows within a unified, governed environment. Without growing our team, nearly four times as many people now work with data each month, so our data team can focus on its most complex, high-impact work. A single use case already saves us 80 hours of work per month. But the real transformation isn’t the hours we save. Quick is transforming our data and innovation culture: we’ve gone from a few people building solutions for many to an organization where everyone can create, experiment, and change the way they work. And we’re just getting started.”"
+      },
+      {
+        "t": "p",
+        "zh": "— Rodrigo Marini，Pomelo Fintech Services S.A.S. 数据负责人",
+        "en": "— Rodrigo Marini, Head of Data, Pomelo Fintech Services S.A.S."
+      },
+      {
+        "t": "h",
+        "zh": "在更新后的 Quick 网页应用中完成更多工作",
+        "en": "Get more done in the updated Quick web app"
+      },
+      {
+        "t": "p",
+        "zh": "如果你已经在浏览器中使用 Quick，更新后的网页应用会在你登录后立刻把需要关注的事项放在主屏幕上。重新组织的左侧导航把代理、流程、技能、知识和连接器集中到 Customize 之下。其中包含你在桌面端构建的代理和技能，以及他人与你共享的内容。你现有的仪表盘、主题和空间照常工作，无需开启任何功能。",
+        "en": "If you already use Quick in your browser, the updated web app puts the items that need your attention on the home screen as soon as you sign in. A reorganized left navigation brings agents, flows, skills, knowledge, and connectors together under Customize. It includes the agents and skills you built on desktop and ones others have shared with you. Your existing dashboards, topics, and spaces work as before, and you do not need to turn anything on."
+      },
+      {
+        "t": "p",
+        "zh": "• 查看需要你关注的事项，然后采取行动。你的信息流和全新的每日简报会按优先顺序汇总需要你处理的邮件和消息。你可以向 Quick 询问任何一条，或让它起草回复供你审阅后发送。",
+        "en": "• See what needs your attention, then act on it. Your feed and a new daily briefing bring together the email and messages that need you, in priority order. Ask Quick about any item or have it draft replies for you to review and send."
+      },
+      {
+        "t": "p",
+        "zh": "• 在你离开时让代理继续工作。在开会前安排一项任务或开始一个耗时更长的请求，即使你关闭浏览器，Quick 也会继续工作。等你回来时，在 Mission Control 中查看结果，并回应任何正在等你的代理。",
+        "en": "• Keep agents working when you step away. Schedule a task or start a longer request before a meeting, and Quick keeps working after you close your browser. When you return, review the results and respond to any agents waiting on you in Mission Control."
+      },
+      {
+        "t": "p",
+        "zh": "• 在一个地方找到你的工作。Library 汇总了你最近的工作、收藏、置顶项，以及你在 Quick 中创建的文档和文件。你的对话、代理和文件会在网页、桌面和移动端之间同步，因此你可以在浏览器中开始，再在手机或桌面应用中继续，而桌面应用中的 Quick 可以处理你电脑上的文件。",
+        "en": "• Find your work in one place. Library brings together your recent work, favorites, pinned items, and the documents and files you create in Quick. Your conversations, agents, and files sync across web, desktop, and mobile, so you can start in your browser and pick up on your phone or in the desktop app, where Quick can work with files on your computer."
+      },
+      {
+        "t": "p",
+        "zh": "图 2：信息流把早上需要回复的邮件和消息汇集到一个视图中",
+        "en": "Figure 2: The feed brings the morning’s email and messages that need a reply into one view"
+      },
+      {
+        "t": "h",
+        "zh": "通过协同工作的代理获得更完整的回答",
+        "en": "Get more complete answers from agents working together"
+      },
+      {
+        "t": "p",
+        "zh": "有些请求需要不止一个专业代理的知识。借助多代理编排，你询问的代理可以同时引入若干专业代理，各自处理自己最擅长的部分。然后该代理把他们的工作合并成一份回答。每个代理保留自己的指令、知识和上下文，因此最了解那项工作的人可以构建并维护它。",
+        "en": "Some requests need the knowledge of more than one specialized agent. With multi-agent orchestration, the agent you ask can bring in several specialized agents at once, each working on the part it knows best. The agent then combines their work into one response. Each agent keeps its own instructions, knowledge, and context, so the people who know that work best can build and maintain it."
+      },
+      {
+        "t": "p",
+        "zh": "例如，你可能会问为什么某个地区的运输成本上升了。你的代理可以引入一个基于团队规划数据构建的预测代理，以及一个基于采购团队供应商合同构建的采购代理。你会得到一份显示每个代理贡献的回答，然后决定如何处理。",
+        "en": "For example, you might ask why shipping costs rose in one region. Your agent can bring in a forecasting agent built on your team’s planning data and a procurement agent built on the procurement team’s vendor contracts. You get one response that shows what each agent contributed, and you decide what to do with it."
+      },
+      {
+        "t": "h",
+        "zh": "把 Quick 连接到团队已经在使用的更多工具",
+        "en": "Connect Quick to more of the tools your team already uses"
+      },
+      {
+        "t": "p",
+        "zh": "工作分布在许多系统中。本次发布新增了连接器，让 Quick 可以从团队每天使用的分析和工具中拉取数据。连接一次，然后用自然语言提问。",
+        "en": "Work lives in many systems. This release adds new connectors so Quick can pull from the analytics and tools your team uses every day. Connect once, then ask in natural language."
+      },
+      {
+        "t": "p",
+        "zh": "Meta 广告。通过连接 Meta 广告的模型上下文协议（MCP）服务器，用自然语言创建、管理和分析 Meta 广告活动。Quick 会把 Meta 广告数据与你的第一方和第三方来源合并，并在创建广告活动、更改预算或在广告账户中执行任何其他写入操作之前征求你的许可。免费试用 Quick 3 个月，并可邀请最多 10 名同事，无需付费。",
+        "en": "Meta ads. Create, manage, and analyze Meta ad campaigns in natural language through a connector to Meta’s ads Model Context Protocol (MCP) server. Quick combines Meta ad data with your first-party and third-party sources, and asks for your permission before it creates a campaign, changes a budget, or takes any other write action in an ad account. Try Quick free for 3 months and invite up to 10 teammates at no cost."
+      },
+      {
+        "t": "p",
+        "zh": "Amplitude。用自然语言询问产品使用情况、客户行为和转化。Quick 通过其 MCP 服务器连接到 Amplitude，因此产品和营销团队可以把行为洞察纳入他们在 Quick 中构建的仪表盘、文档和工作流。",
+        "en": "Amplitude. Ask about product usage, customer behavior, and conversion in natural language. Quick connects to Amplitude through its MCP server, so product and marketing teams can pull behavioral insights into the dashboards, documents, and workflows they build in Quick."
+      },
+      {
+        "t": "p",
+        "zh": "连接器会尊重你现有的权限。Quick 只向每个人显示他们已经有权访问的内容。Quick 在执行任何写入操作之前都会先询问。管理员决定团队可以添加哪些连接器。",
+        "en": "Connectors respect your existing permissions. Quick only shows each person what they already have access to. Quick asks before it takes any write action. Administrators choose which connectors teams can add."
+      },
+      {
+        "t": "h",
+        "zh": "本次发布还有",
+        "en": "Also in this release"
+      },
+      {
+        "t": "p",
+        "zh": "• Quick 网页应用中的技能。技能是可复用的指令，用于教 Quick 按你的方式完成一项任务，例如按团队清单审阅合同，或按公司格式撰写项目更新。现在你可以像在桌面端一样，在网页应用中浏览、安装、创建和管理技能。",
+        "en": "• Skills in the Quick web app. Skills are reusable instructions that teach Quick to do a task your way, such as reviewing a contract against your team’s checklist, or writing a project update in your company’s format. You can now browse, install, create, and manage skills in the web app, as on desktop."
+      },
+      {
+        "t": "p",
+        "zh": "• 提示护栏（预览）。管理员可以设置策略，用于过滤内容、拦截被禁止的主题和词语、检测提示攻击，并保护人们发送给 Quick 的提示中选定类型的个人信息。他们可以先在仅检测模式下测试策略，然后再强制执行，并将其应用于个别用户、身份提供商组或整个账户。所有订阅 Professional 和 Enterprise 套餐的 AWS Quick 客户都可以使用此功能。",
+        "en": "• Guardrails for prompts (preview). Administrators can set policies that filter content, block denied topics and words, detect prompt attacks, and protect selected types of personal information in the prompts people send to Quick. They can test a policy in detect-only mode before enforcing it, then apply it to individual users, identity provider groups, or the whole account. This feature is available to all AWS Quick customers subscribed to Professional and Enterprise plans."
+      },
+      {
+        "t": "p",
+        "zh": "• 按组分配权限和限制。管理员现在可以把自定义权限和限制配置文件分配给你的身份提供商中的组，而不仅是个别用户、角色和整个账户。例如，你可以阻止财务组创建代理，或设置组内每位成员可以使用的代理小时数，而无需单独管理每个人。所有订阅 Professional 和 Enterprise 套餐的 AWS Quick 客户都可以使用此功能。",
+        "en": "• Permissions and limits by group. Administrators can now assign custom permissions and limit profiles to groups from your identity provider, in addition to individual users, roles, and the whole account. For example, you can prevent your finance group from creating agents, or set how many agent hours each member of a group can use, without managing each person separately. This feature is available to all AWS Quick customers subscribed to Professional and Enterprise plans."
+      },
+      {
+        "t": "p",
+        "zh": "• 选择人们可以添加哪些数据源。管理员现在可以控制人们可以创建、更新或共享的数据源类型。例如，你可以允许人们连接 Amazon Redshift，同时禁止上传文件，或阻止人们共享来自特定连接器的数据源。所有订阅 Professional 和 Enterprise 套餐的 AWS Quick 客户都可以使用此功能。",
+        "en": "• Choose which data sources people can add. Administrators can now control which types of data sources people can create, update, or share. For example, you can let people connect Amazon Redshift while blocking file uploads, or stop people from sharing data sources from a specific connector. This feature is available to all AWS Quick customers subscribed to Professional and Enterprise plans."
+      },
+      {
+        "t": "p",
+        "zh": "• 更多语言。可以使用日语、德语、中文（简体和繁体）以及越南语使用 Quick。",
+        "en": "• More languages. Use Quick in Japanese, German, Chinese (Simplified and Traditional), and Vietnamese."
+      },
+      {
+        "t": "h",
+        "zh": "每个决定都由你做出",
+        "en": "Every decision stays yours"
+      },
+      {
+        "t": "p",
+        "zh": "无论你是构建一份月报、运行经理已建好的流程，还是为组织配置 Quick，Quick 都会按你的方式工作。你的数据留在你的环境中，不会用于训练其他人的模型。你负责判断，Quick 则让团队拥有与目标相匹配的能力。",
+        "en": "Whether you build a monthly report, run one your manager built, or set up Quick for your organization, Quick works the way you do. Your data stays in your environment and does not train anyone else’s models. You bring the judgment, and Quick gives your team the capacity to match its goals."
+      },
+      {
+        "t": "p",
+        "zh": "这些功能即日起在所有已提供 AWS Quick 的区域推出。",
+        "en": "These features are available today in all Regions where AWS Quick is available."
+      },
+      {
+        "t": "p",
+        "zh": "要试用新功能，请登录 Quick 或下载 Quick，几分钟即可开始。要了解企业定价方案，请与你的 AWS 客户团队联系。",
+        "en": "To try what’s new, sign in to Quick or download Quick and get started in minutes. To learn about enterprise pricing plans, talk to your AWS account team."
+      },
+      {
+        "t": "h",
+        "zh": "关于作者",
+        "en": "About the author"
+      }
+    ]
+  }
+}

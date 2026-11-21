@@ -1,0 +1,67 @@
+{
+  "id": "n77a328232039",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "佛蒙特僧团欲成为硅谷AI精神权威",
+  "original_title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+  "summary": "《纽约客》报道，佛蒙特州佛教僧团Maple试图成为硅谷在AI末日叙事中的精神权威，并训练以领袖为模板的AI。前成员称存在操控，税务文件显示年收入最高约100万美元。",
+  "facts": [
+    {
+      "text": "The Decoder援引《纽约客》报道称，Soryu Forall于2011年在佛蒙特创办Maple僧团，约有二十余名常住成员，并面向湾区AI从业者举办研修。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据《纽约客》称，该组织会记录成员的每一次呼吸，以训练一个以领袖心智为模板的AI，前成员则表示存在操控和精神崩溃。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+      "is_primary": false,
+      "published_at": "2026-11-22T00:04:29+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T00:04:29+08:00",
+  "updated_at": "2026-11-22T00:04:29+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "佛蒙特僧团欲成为硅谷AI精神权威",
+  "lead_zh": "《纽约客》报道，佛蒙特州佛教僧团Maple试图成为硅谷在AI末日叙事中的精神权威，并训练以领袖为模板的AI。前成员称存在操控，税务文件显示年收入最高约100万美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder援引《纽约客》记者Sam Kriss的报道称，佛蒙特州一个佛教僧团Maple希望成为AI行业的“官方教会”。领袖Soryu Forall原名Teal Scott，曾在日本寺院生活多年，于**2011**年创办“地球生命保护僧伽学院”（Maple）。约有二十余名成员常住，另有数百人参加过其AI研修和湾区快闪活动。",
+        "报道称，该组织一方面公开承诺要拯救人类免于AI末日，另一方面把目标对准疲惫的理性主义程序员、AI工程师和数据中心建设管理者。税务文件显示，其年收入最高约**100**万美元。文章还提到，LinkedIn联合创始人Reid Hoffman会向大型AI实验室的CEO赠送佛教书籍，而Maple则更多面向普通从业者。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据《纽约客》称，该组织会记录成员的每一次呼吸，用来训练一个以领袖心智为模板的AI；前成员称存在操控和精神崩溃。Kriss将其比作“硅谷的山达基”。据报道，Forall把AI行业的还原论“数据主义”视为一种具有破坏性的宗教。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/0730df3741355bbf4c39c25877ba2a91991dda5f.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/buddhist_ai_sect.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

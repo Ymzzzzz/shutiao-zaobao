@@ -1,0 +1,67 @@
+{
+  "id": "na1abc1ba2744",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达财报与呼吁黄仁勋回归的声音并存",
+  "original_title": "A tale of two Nvidias",
+  "summary": "TechCrunch播客讨论英伟达最新财报与外界呼吁前CEO黄仁勋回归并存的局面。现任管理层称暂无请其回归的计划，代理CEO并表示将停止向中国销售H200芯片。",
+  "facts": [
+    {
+      "text": "TechCrunch的Equity播客讨论英伟达最新财报与呼吁黄仁勋回归同时出现的局面；现任管理层称没有请其回归的计划，代理CEO Colette Kress称将不再向中国销售H200芯片。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据代理CEO Colette Kress称，英伟达将不再在中国销售H200芯片，这一表态也与美国收紧远程调用相关算力的限制相吻合。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "is_primary": false,
+      "published_at": "2026-11-22T05:07:42+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T05:07:42+08:00",
+  "updated_at": "2026-11-22T05:07:42+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达财报与呼吁黄仁勋回归的声音并存",
+  "lead_zh": "TechCrunch播客讨论英伟达最新财报与外界呼吁前CEO黄仁勋回归并存的局面。现任管理层称暂无请其回归的计划，代理CEO表示将停止向中国销售H200芯片。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch在Equity播客中讨论英伟达出现的两种叙事：一边是最新财报显示营收强劲，现任管理层向投资者表示局面仍在掌控，并称没有请前CEO黄仁勋回归的计划；另一边则有马斯克等人公开推动其回归，并流传请愿，黄仁勋本人也表示已做好回来的准备。节目还提到公司股价下跌，显示市场并未完全安心。",
+        "播客还谈到对华销售。代理CEO Colette Kress称，英伟达将不再在中国销售H200芯片。嘉宾提到，此前有数据中心设在马来西亚等地、再由中国境内公司远程调用芯片的做法，也正被收紧。节目还提到，批评者估计英伟达约**20%**的业务来自中国。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据英伟达现任管理层称，公司没有请黄仁勋回归的计划，并认为自身能够应对当前局面。据代理CEO Colette Kress称，英伟达将停止向中国销售H200芯片。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/dadce7808c7133e7c725e6b5563e279277e880df.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

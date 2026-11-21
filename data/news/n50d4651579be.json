@@ -1,0 +1,67 @@
+{
+  "id": "n50d4651579be",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "美国公司用Model 3零件改装电动MPV",
+  "original_title": "美国公司将特斯拉 Model 3 爆改成 MPV，超充、OTA、辅助驾驶都能用",
+  "summary": "威斯康星州Hoffman EV在拉斯维加斯SEMA展展出Badger，拆用旧款特斯拉Model 3的电池、电机和车机，配上新铝制车身，仍可用超充、OTA和FSD。公司目标是2027年投产，年产量约100辆。",
+  "facts": [
+    {
+      "text": "Hoffman EV在拉斯维加斯SEMA展展出Badger，使用旧款Model 3的电池、电机、车载电脑等零件并配上新铝制车身，目前高速续航约240公里，目标价格合计约7万美元。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/458.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据创始人杰弗里·霍夫曼称，该车目前可以使用特斯拉超充、软件更新和FSD，但这些权限未来可能被停用，且因车身比Model 3短，他不建议使用FSD。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/458.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/458.htm",
+      "is_primary": false,
+      "published_at": "2026-11-21T18:50:42+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T18:50:42+08:00",
+  "updated_at": "2026-11-21T18:50:42+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "美国公司用Model 3零件改装电动MPV",
+  "lead_zh": "威斯康星州Hoffman EV在SEMA展展出Badger，拆用旧款特斯拉Model 3的电池、电机和车机，配上新铝制车身，仍可用超充和OTA。公司目标是2027年投产。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家援引《商业内幕》报道，特斯拉从未进入MPV市场，杰弗里·霍夫曼创立的威斯康星州企业Hoffman EV近日在拉斯维加斯SEMA展展出Badger。该公司不自研平台，而是拆用旧款Model 3的电池、电机、车载电脑、摄像头、车内屏幕、线束和座椅，再配上全新铝制车身。目前该车高速续航约**240**公里，团队希望下一辆原型车达到**320**公里。",
+        "Hoffman EV将**2027**年定为开放预订并启动生产的目标年份，预计年产量约**100**辆。给出的目标价格是：底盘约**1**万美元，车身套件约**4**万美元，组装约**1**万美元；再加上一辆约**2**万美元、用于提供零件的Model 3，税前总价约**7**万美元。霍夫曼为参展曾亲自驾驶Badger往返拉斯维加斯。该公司与特斯拉没有沟通。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "创始人怎么说",
+      "paras": [
+        "据霍夫曼称，Badger目前可以使用特斯拉超级充电网络、软件更新和FSD（监督版），但这些权限未来可能被限制甚至禁用。他不建议使用FSD，因为Badger车身比Model 3更短，辅助驾驶可能难以适应尺寸差异。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/7e09b0b382b1a39fb3b39c63084f87bba6f2e827.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/84738f48-4fb1-497b-b6d7-7ce507ffae60.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

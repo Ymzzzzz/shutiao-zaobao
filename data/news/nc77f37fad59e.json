@@ -1,0 +1,67 @@
+{
+  "id": "nc77f37fad59e",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "字节跳动提出三阶段训练并开源Axion 1.0",
+  "original_title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+  "summary": "字节跳动与多家美国大学推出AI代理Axion 1.0，称只需三个训练阶段，就能在基准测试上接近OpenAI和Anthropic的顶尖商业模型。研究将提升归因于精心筛选的数据，并开放模型、数据和代码。",
+  "facts": [
+    {
+      "text": "字节跳动与多家美国大学推出Axion 1.0，论文认为许多AI代理的训练流水线过于叠加，三个阶段即足以训练出有竞争力的开源代理，并公开了模型、数据和代码。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据研究团队称，Axion 1.0在基准测试上可接近OpenAI和Anthropic的顶尖商业模型，提升主要来自精心筛选的训练数据，而不是不断叠加训练步骤。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+      "is_primary": false,
+      "published_at": "2026-11-21T17:17:24+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T17:17:24+08:00",
+  "updated_at": "2026-11-21T17:17:24+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "字节跳动提出三阶段训练并开源Axion 1.0",
+  "lead_zh": "字节跳动与多家美国大学推出AI代理Axion 1.0，称只需三个训练阶段，就能在基准测试上接近OpenAI和Anthropic的顶尖商业模型，并开放了模型、数据和代码。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，TikTok母公司字节跳动与多家美国大学的研究团队推出开源AI代理Axion 1.0，试图说明训练并不需要越来越复杂的流水线。论文指出，开发者常把许多训练阶段叠在一起，以至于几乎无法判断哪一步真正有效，复现成本也越来越高。该团队选择只保留**三**个训练阶段，并把模型、数据和代码一并公开。",
+        "文章介绍，这类代理越来越多被要求能自己检索网页、运行代码并完成多步任务。Axion 1.0的目标，是在更短、更可复现的训练流程下，达到接近一线商业模型的水平。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究怎么说",
+      "paras": [
+        "据该团队称，Axion 1.0在基准测试上可与OpenAI和Anthropic的顶尖商业模型竞争，提升主要来自精心筛选的训练数据，而不是继续增加训练步骤。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/6e8ed14a34a280754c2045c2ff6726aa3a900ebc.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/bytedance-axio-training-pipeline-nano-banana-pro.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

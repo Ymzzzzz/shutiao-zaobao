@@ -1,0 +1,243 @@
+{
+  "id": "ne1b0c4ede4d1",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "AWS推出分布式KV缓存技能以降本延时",
+  "original_title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+  "summary": "AWS在Agent Toolkit中推出分布式KV缓存技能，称结合Amazon ElastiCache可将自托管大模型推理成本最多降低40%，首个token时间最多缩短80%，并可用免费的KVTrace在部署前评估收益。",
+  "facts": [
+    {
+      "text": "AWS在Agent Toolkit for AWS中推出分布式KV缓存技能，可在Kiro、Claude Code、OpenAI Codex等支持Agent Skills的编程助手中评估并部署缓存。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，借助Amazon ElastiCache的分布式KV缓存，自托管大模型推理成本最多可降低40%，首个token时间最多可缩短80%。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+      "is_primary": true,
+      "published_at": "2026-11-21T08:14:26+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T08:14:26+08:00",
+  "updated_at": "2026-11-21T08:14:26+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AWS推出分布式KV缓存技能以降本延时",
+  "lead_zh": "AWS推出分布式KV缓存技能，称结合ElastiCache可将自托管大模型推理成本最多降低40%，首个token时间最多缩短80%，并可用KVTrace预先评估收益。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS介绍了Agent Toolkit for AWS中的分布式KV缓存技能：可在Kiro、Claude Code、OpenAI Codex等支持Agent Skills的编程助手里，先评估工作负载是否适合共享缓存，再协助搭建和排查。技能会为现有vLLM或SGLang引擎接入LMCache连接器，并在部署前清空本地缓存、核对两次缓存加载结果是否一致。",
+        "使用前提包括支持EFA RDMA写入的GPU实例（如p5），以及LMCache **0.5.8rc1**或更高版本、vLLM **0.11.1**或更高版本（或SGLang **0.5.13**及以上）。若要搭建缓存，需使用ElastiCache for Valkey **9.1**或更高版本，并采用cache.i8ge.48xlarge节点。AWS还提供免费的KVTrace工具，用自身模型和流量在部署基础设施前估算收益。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AWS称，自托管大模型时，各服务器上孤立的本地缓存难以复用跨会话、路由切换和故障转移后的上下文，GPU往往要重复计算KV注意力状态；借助Amazon ElastiCache的分布式KV缓存，推理成本最多可降低**40%**，首个token时间最多可缩短**80%**。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/fdcc39be3d94654799340abe936522f65d95e3e5.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/20/ML-22449-featured-image.png",
+  "fulltext_status": "ok",
+  "read_minutes": 8,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-20",
+    "title_en": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+    "title_zh": "用分布式 KV 缓存代理技能降低自托管 LLM 的成本和延迟",
+    "dek_en": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your coding agent.",
+    "dek_zh": "在 GPU 上自托管 LLM，意味着每一轮都要付费重新计算相同的上下文。借助 Amazon ElastiCache 的分布式 KV 缓存，最多可将推理成本降低 40%，将首个 token 时间降低 80%。本文介绍 Agent Toolkit for AWS 中的分布式 KV 缓存技能，它可以从你的编码代理评估并设置该缓存。",
+    "word_count_zh": 2847,
+    "read_minutes": 8,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "客户越来越多地在 GPU 上自托管大语言模型（LLM），以便掌控成本、准确性和延迟。然而，自托管往往意味着为重复的 GPU 工作付费，因为每台服务器上小型、孤立的缓存无法保存或共享 AI 代理和聊天应用反复发送的、不断增长的上下文。设想一个法律 AI 助手，它可以在每次对话中积累数十万 token 的案件历史。当律师午饭后回到某个线程时，LLM 的回复可能需要几分钟。承接该请求的 GPU 服务器内存中没有那些历史。因此，GPU 要为所有这些 token 重新计算键值（KV）注意力状态，这一步称为预填充（prefill），然后才能写出一个词。同样的模式也会拖慢恢复运行的编码代理、代理式 AI 助手和文档问答助手。借助 Amazon ElastiCache 的分布式 KV 缓存，最多可将自托管 LLM 的推理成本降低 40%，将首个 token 时间（TTFT）降低 80%。分布式 KV 缓存用 GPU 集群旁的共享层扩展 GPU 本地缓存，这样任何服务器都可以在数天内、跨会话、路由切换和服务器故障复用 KV 状态。《Announcing distributed KV caching for self-hosted LLMs with Amazon ElastiCache》深入介绍了技术细节和性能基准。",
+        "en": "Customers increasingly self-host large language models (LLMs) on GPUs for control over cost, accuracy, and latency. However, self-hosting often means paying for redundant GPU work because small, isolated caches on each server can’t hold or share the growing context AI agents and chat applications resend. Consider a legal AI assistant that can accumulate hundreds of thousands of tokens of case history in each conversation. When a lawyer returns to a thread after lunch, responses from the LLM can take minutes. The GPU server that picks up the request has none of that history in its memory. So, the GPU recomputes the key-value (KV) attention states for all of those tokens, a step called prefill, before it writes a word. The same pattern slows down resumed coding agents, agentic AI assistants, and document Q&A assistants. Distributed KV caching with Amazon ElastiCache can cut self-hosted LLM inference costs by up to 40% and time to first token (TTFT) by up to 80%. Distributed KV caching extends GPU-local caches with a shared tier beside your GPU fleet so any server can reuse KV state for days across sessions, routing shifts, and server failures. “Announcing distributed KV caching for self-hosted LLMs with Amazon ElastiCache” dives into the technical details and the performance benchmarks."
+      },
+      {
+        "t": "p",
+        "zh": "本文详细介绍 Agent Toolkit for AWS 中的分布式 KV 缓存技能。有了这项技能，你可以用几次提示，在编码代理中评估并设置分布式 KV 缓存。该技能会引导代理检查你的工作负载是否能从分布式 KV 缓存中受益、为测试或生产工作负载设置缓存集群，并排查你的 LLM 推理缓存问题。该技能适用于 Kiro、Claude Code、OpenAI Codex，以及其他支持 Agent Skills 的编码代理。我们通过四段对话来说明该技能如何工作：诊断首个 token 过慢、估算缓存规模与定价、完成设置，以及修复失败的传输。",
+        "en": "This post details the distributed KV caching skill in the Agent Toolkit for AWS. With this skill, you can evaluate and set up distributed KV caching from within your coding agent in a few prompts. The skill guides the agent through checking whether your workload benefits from distributed KV caching, setting up a cache cluster for testing or production workload, and troubleshooting your LLM inference caching. The skill works with Kiro, Claude Code, OpenAI Codex, and other coding agents that support Agent Skills. We walk through how the skill works with four conversations: diagnosing a slow first token, sizing and pricing the cache, setting it up, and fixing a failed transfer."
+      },
+      {
+        "t": "h",
+        "zh": "为什么需要 KV 缓存技能，它能做什么？",
+        "en": "Why a skill for KV caching and what can it do?"
+      },
+      {
+        "t": "p",
+        "zh": "你的工作负载能获得多少收益，取决于所用的 LLM 模型、用户流量模式和提示路由选择等特征，而且可能很难估算。我们创建了 KVTrace 工具，可以在部署任何基础设施之前，根据你自己的模型和流量，接近准确地估算工作负载的收益，且不额外收费。该技能简化了这项评估和设置，并在做任何更改之前，引导你的编码代理遵循以下最佳实践：",
+        "en": "The benefits for your workload depend on characteristics such as LLM models used, user traffic patterns, and prompt routing choices, and can be complex to estimate. We created the KVTrace tool to get close estimates of the benefits for your workload, from your own model and traffic before you deploy any infrastructure, at no additional charge. The skill simplifies this evaluation and the setup, and guides your coding agent through the following best practices before changing anything:"
+      },
+      {
+        "t": "p",
+        "zh": "• 在产生任何花费之前先做适配检查。代理会通过只读的 describe-instances 调用读取你的 GPU 集群，并统计 Elastic Fabric Adapter（EFA）接口。它只会询问自己看不到的信息：引擎、模型、张量并行（TP）规模、KV 数据类型、服务器价格，以及提示重复的频率。当某些条件不匹配时，它会停下来并说明原因。",
+        "en": "• A fit check before any spend. The agent reads your GPU fleet with a read-only describe-instances call and counts Elastic Fabric Adapter (EFA) interfaces. It asks only for what it can’t see: engine, model, tensor-parallel (TP) size, KV data type, server price, and how often prompts repeat. It stops and explains when something doesn’t fit."
+      },
+      {
+        "t": "p",
+        "zh": "• 数字来自你的工作负载。对于短提示，加载 KV 状态可能比重新计算更久。超过某个提示长度（转换点）后，读取会更合适。这个转换点以及提示重复的频率，决定了缓存是否值得其价格。代理使用 KVTrace 根据你自己的流量估算节省幅度，且不额外收费；如果节省不足以覆盖缓存成本，就会停止。每个数字都会说明其来源。",
+        "en": "• Numbers from your workload. For short prompts, loading KV state can take longer than computing it again. Above a certain prompt length (the cutover point), the read wins. That cutover and how often your prompts repeat decide whether the cache is worth its price. The agent estimates savings from your own traffic with KVTrace, at no additional charge, and stops if they don’t cover the cache’s cost. Every number says where it came from."
+      },
+      {
+        "t": "p",
+        "zh": "• 用你已经在运行的技术栈，跨推理服务器管理配置。代理会把 LMCache 连接器添加到你现有的 vLLM 或 SGLang 引擎中，包括在 llm-d 和 Ray Serve 等服务框架下的 vLLM worker。它会保留你的路由和引擎设置，并将推理集群中的服务器统一到一种 KV ID 机制（哈希和种子）以及明确的 KV 数据类型。匹配的设置可以避免键不匹配，即每台服务器写入其他服务器找不到的 KV 状态。",
+        "en": "• Manage configuration across inference servers with the stack you already run. The agent adds the LMCache connector to your existing vLLM or SGLang engine, including vLLM workers under serving frameworks such as llm-d and Ray Serve. It keeps your routing and the engine’s settings and sets the servers in your inference fleet to one KV ID mechanism (hash and seed) and an explicit KV data type. Matching settings avoid key mismatches, where each server writes KV state the others can’t find."
+      },
+      {
+        "t": "p",
+        "zh": "• 落实最佳实践。在生产流量之前，代理会清空本地层，并检查两次从缓存加载的运行是否给出相同的输出，因为布局不匹配可能造成命中计数看起来正常、但答案却是错的。该技能会引导代理为创建、更改或删除资源等高影响操作寻求明确批准。",
+        "en": "• Implements best practices. Before production traffic, the agent empties the local tiers and checks that two cache-loaded runs give the same output, because a layout mismatch can produce healthy hit counters and wrong answers. The skill guides the agent to seek explicit approval for high-impact operations such as creating, changing, or deleting resources."
+      },
+      {
+        "t": "h",
+        "zh": "前提条件",
+        "en": "Prerequisites"
+      },
+      {
+        "t": "p",
+        "zh": "这些流程，从估算收益到完成设置，需要具备以下条件：",
+        "en": "These flows, from estimating benefits to setup, require the following:"
+      },
+      {
+        "t": "p",
+        "zh": "• 支持 Agent Skills 的编码代理，例如 Kiro 或 Claude Code。",
+        "en": "• A coding agent that supports Agent Skills, such as Kiro or Claude Code."
+      },
+      {
+        "t": "p",
+        "zh": "• 支持 EFA RDMA 写入的 GPU 实例，例如 p5。",
+        "en": "• GPU instances that support EFA RDMA write, such as p5."
+      },
+      {
+        "t": "p",
+        "zh": "• LMCache 0.5.8rc1 或更高版本，以及 vLLM 0.11.1 或更高版本（SGLang 0.5.13 或更高版本）。",
+        "en": "• LMCache 0.5.8rc1 or later and vLLM 0.11.1 or later (SGLang 0.5.13 or later)."
+      },
+      {
+        "t": "p",
+        "zh": "• ElastiCache for Valkey 9.1 或更高版本，使用 cache.i8ge.48xlarge 节点（如果要设置缓存）。",
+        "en": "• ElastiCache for Valkey 9.1 or later, on cache.i8ge.48xlarge nodes (if setting up the cache)."
+      },
+      {
+        "t": "h",
+        "zh": "流程 1：分布式 KV 缓存能有帮助吗？",
+        "en": "Flow 1: Can distributed KV caching help?"
+      },
+      {
+        "t": "p",
+        "zh": "我们给代理的提示是：“我的 vLLM 集群在 p5 实例上为法律助手提供 64K-token 的上下文服务。回访对话的首个 token 需要 13 秒，因为 GPU 每一轮都要重新计算完整的对话历史。我该如何解决？”",
+        "en": "We gave the agent this prompt: “My vLLM fleet serves a legal assistant with 64K-token contexts on p5 instances. Returning conversations take 13 seconds for the first token because the GPU recomputes the full conversation history every turn. How do I fix this?”"
+      },
+      {
+        "t": "p",
+        "zh": "代理会把该请求匹配到这项技能，并在 Kiro 中在加载前请求批准。回答指出，延迟是由冷预填充（cold prefill）引起的，而且回答中有三点对真实部署很重要。第一，它会检查无需新基础设施的修复方法。如果你关闭了前缀缓存，重新打开它可以加快连续的多轮对话。如果在会话亲和性下 GPU 前缀缓存命中率已经高于 90%，你可能不需要共享 KV 缓存。第二，它会识别法律 AI 助手特有的约束。共享 KV 缓存可能让一个租户从响应时间判断另一个租户是否发送了相同的文本。必须保持隔离的案件会使用单独的缓存，共享缓存的租户则把各自的 ID 加入 KV 哈希。第三，它不会猜测规模。它会询问模型与 TP 规模、KV 数据类型、副本数量与路由，以及用户在各轮之间等待多久。",
+        "en": "The agent matches the request to the skill and, in Kiro, asks for approval before loading it. The answer identifies that the latency was caused by cold prefill, and three things in the answer matter for a real deployment. First, it checks for fixes that need no new infrastructure. If you turned off prefix caching, turning it back on can speed up back-to-back turns. If the GPU prefix cache hit rate is already above 90% with session affinity, you might not need a shared KV cache. Second, it identifies constraints specific to the legal AI assistant. A shared KV cache can let one tenant tell from response times whether another tenant sent the same text. Cases that must stay isolated get separate caches, and tenants that share a cache add their own ID to the KV hash. Third, it doesn’t guess the size. It asks for the model and TP size, KV data type, replica count and routing, and how long users wait between turns."
+      },
+      {
+        "t": "p",
+        "zh": "图 1：针对该法律助手的诊断和拟议架构",
+        "en": "Figure 1: The diagnosis and proposed architecture for the legal assistant"
+      },
+      {
+        "t": "h",
+        "zh": "流程 2：估算节省幅度",
+        "en": "Flow 2: Estimating savings"
+      },
+      {
+        "t": "p",
+        "zh": "为了估算节省规模，我们给代理举了一个由 8 台 p5 实例组成的集群示例，这些实例为多轮检索增强生成（RAG）助手提供 64,000-token 的提示服务。代理查阅了 GPU 和缓存节点的价格，并根据基准测试得出预填充速率和 KV 大小。最后，代理建议使用两台 cache.i8ge.48xlarge 节点来做分布式 KV 缓存。下图展示了代理的摘要及其使用的输入。",
+        "en": "To size the savings, we gave the agent an example fleet of 8 p5 instances that serve 64,000-token prompts for a multi-turn retrieval-augmented generation (RAG) assistant. The agent looked up the GPU and cache node prices and derived the prefill rate and KV size from benchmarks. Finally, the agent recommended two cache.i8ge.48xlarge nodes for distributed KV caching. The following figure shows the agent’s summary and the inputs it used."
+      },
+      {
+        "t": "p",
+        "zh": "图 2：代理的摘要和输入。它在 AWS 价格表中查阅了两项价格，并说明了重新计算数字是如何得出的",
+        "en": "Figure 2: The agent’s summary and inputs. It looked up both prices in the AWS price list and explains how it arrived at the recompute figure"
+      },
+      {
+        "t": "p",
+        "zh": "我们没有提供缓存命中率，也就是缓存会承担的重新计算 token 的比例。因此，代理会给出多种情形，并建议运行 KVTrace 来确定缓存命中率。KVTrace 会记录来自 vLLM 或 SGLang 的 KV 缓存事件，然后离线对着每种候选容量的共享 KV 缓存重放这些事件。记录器从不写入 token ID 或提示文本。跟踪数据只包含块哈希和 token 计数。块哈希来自 token 内容，因此当提示敏感时请加上 --anonymize-key-file。该技能会在每台 GPU 服务器上记录一个有代表性的时间窗口，例如一个完整的工作日。代理还指出，只有当你减少服务器数量，或用同样的服务器承载更多流量时，释放出的 GPU 时间才会变成节省的费用。",
+        "en": "We didn’t provide a cache hit rate, which is the share of recomputed tokens the cache would serve. The agent therefore presents scenarios and recommends a KVTrace run to identify the cache hit rate. KVTrace records the KV cache events from vLLM or SGLang. It then replays them offline against a shared KV cache of each candidate size. The recorder never writes token IDs or prompt text. Traces hold block hashes and token counts. Block hashes come from token content, so pass --anonymize-key-file when your prompts are sensitive. The skill records on every GPU server for a representative window, such as a full business day. The agent also notes that freed GPU time turns into dollars only if you run fewer servers or serve more traffic on the same ones."
+      },
+      {
+        "t": "p",
+        "zh": "图 3：KVTrace 报告的顶部，数据来自合成演示流量。它建议采用能达到节省上限 90% 的最小容量。",
+        "en": "Figure 3: The top of a KVTrace report from synthetic demo traffic. It recommends the smallest capacity that reaches 90% of the savings ceiling."
+      },
+      {
+        "t": "h",
+        "zh": "流程 3：设置分布式 KV 缓存",
+        "en": "Flow 3: Setting up a distributed KV cache"
+      },
+      {
+        "t": "p",
+        "zh": "我们给代理的提示是：“从零开始，为 LLM 推理设置一个共享的 L2 KV 缓存。”在创建任何资源之前，代理会请求你确认，按建议的缓存节点数量、在你的可用区、以预估价格进行设置。确认后，它会创建具有 EFA 权限的正确安全组，以及一个使用自定义参数组、并配置了缓存淘汰策略的 Valkey 9.1 集群。LMCache 会获得自己的缓存用户，密码存放在 AWS Secrets Manager 中。代理会准备 GPU 服务器，并在每台 GPU 服务器上启动一个 LMCache 服务器。然后它用一个小的测试对象检查集群，并确认重复的提示会通过远程直接内存访问（RDMA）从缓存加载其 KV 状态。在 GPU 集群上，该技能会把测得的 L2 占比与 KVTrace 的预测进行对照。完整设置及每条命令，见 Amazon ElastiCache 文档中的 Getting started with distributed KV caching。",
+        "en": "We prompted the agent with: “Set up a shared L2 KV cache for LLM inference, starting from scratch.” Before it creates anything, the agent requests your confirmation to set up the suggested cache node count in your Availability Zone, at the estimated price. Once confirmed, it creates the right security group with EFA permissions, and a Valkey 9.1 cluster that uses a custom parameter group with caching eviction policies. LMCache gets its own cache user, with the password in AWS Secrets Manager. The agent prepares the GPU servers and starts one LMCache server per GPU server. Then it checks the cluster with a small test object and confirms that repeated prompts load their KV state from the cache over Remote Direct Memory Access (RDMA). On a GPU fleet, the skill checks the measured L2 share against the KVTrace prediction. For the full setup with every command, see Getting started with distributed KV caching in the Amazon ElastiCache documentation."
+      },
+      {
+        "t": "h",
+        "zh": "流程 4：排查问题",
+        "en": "Flow 4: Troubleshooting"
+      },
+      {
+        "t": "p",
+        "zh": "提示：“我的 LMCache 服务器已连接到 ElastiCache 集群，BLOB.RDMA_HELLO 也成功了，但实际数据传输失败。INFO largeobj 显示 rdma_write_errors 在上升。出了什么问题？”",
+        "en": "Prompt: “My LMCache server connects to the ElastiCache cluster and BLOB.RDMA_HELLO succeeds, but actual data transfers are failing. INFO largeobj shows rdma_write_errors climbing. What’s wrong?”"
+      },
+      {
+        "t": "p",
+        "zh": "按照该技能的排查指南，代理从症状模式进行推理，并判断很可能是安全组阻止了其成员之间的 EFA 流量。它会向你提供检查和修复该规则的命令。",
+        "en": "Following the skill’s troubleshooting guide, the agent reasons from the symptom pattern and identifies the likely cause as a security group that blocks EFA traffic between its own members. It provides you commands to check and fix the rule."
+      },
+      {
+        "t": "p",
+        "zh": "图 4：代理先解释症状，然后给出检查和修复安全组的命令",
+        "en": "Figure 4: The agent explains the symptom, then gives commands to check and fix the security group"
+      },
+      {
+        "t": "h",
+        "zh": "开始使用",
+        "en": "Get started"
+      },
+      {
+        "t": "p",
+        "zh": "你可以从 Agent Toolkit for AWS 获取分布式 KV 缓存技能或 AWS MCP Server。然后描述你的问题，或让你的 AI 代理降低 GPU 集群的成本和延迟，即可开始。要了解有关使用 ElastiCache 的分布式 KV 缓存及性能基准的更多信息，请参阅 AWS 博客。你可以在 Amazon ElastiCache 文档中查看如何通过 AWS Command Line Interface（AWS CLI）开始使用，并在 GitHub 仓库了解更多关于 KVTrace 的信息。",
+        "en": "You can get the distributed KV caching skill or the AWS MCP Server from the Agent Toolkit for AWS. Then describe your problem or ask your AI agent to cut costs and latency on your GPU fleet to get started. To learn more about distributed KV caching with ElastiCache and the performance benchmarks see the AWS blog. You can see getting started with the AWS Command Line Interface (AWS CLI) at Amazon ElastiCache documentation and learn more about KVTrace at the GitHub repo."
+      },
+      {
+        "t": "h",
+        "zh": "关于作者",
+        "en": "About the authors"
+      }
+    ]
+  }
+}

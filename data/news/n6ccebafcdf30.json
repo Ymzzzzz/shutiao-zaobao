@@ -1,0 +1,67 @@
+{
+  "id": "n6ccebafcdf30",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "一批AI代理开始直接入住短信应用",
+  "original_title": "Here are the top AI agents that can live in your text messages",
+  "summary": "TechCrunch盘点可直接通过短信使用的AI代理，覆盖通用助理、家庭、旅行和工作等场景，无需再下一款独立应用。文中提到Instinct最新一轮融资10亿美元后估值达100亿美元。",
+  "facts": [
+    {
+      "text": "TechCrunch盘点了一批可直接通过短信调用的AI代理，用户可发消息让其预约、整理日历、规划行程或购物，其中Ask Proxy等产品已提供主动提醒和看图建议等功能。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据TechCrunch称，目前最受关注的产品之一Instinct在最新一轮10亿美元融资后估值达100亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "is_primary": false,
+      "published_at": "2026-11-22T01:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T01:00:00+08:00",
+  "updated_at": "2026-11-22T01:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "一批AI代理开始直接入住短信应用",
+  "lead_zh": "TechCrunch盘点可直接通过短信使用的AI代理，覆盖通用助理、家庭、旅行和工作等场景。文中提到，目前最受关注的Instinct在最新一轮融资后估值达100亿美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch整理了一份可直接通过短信使用的AI代理清单，覆盖通用助理以及面向家庭、旅行和工作的产品。用户不必再下载新应用，只要像给人发消息一样提出需求，代理即可结合已有应用完成预约、整理日历、规划行程、发邮件、订位或购物，并在数日后提醒。",
+        "以Ask Proxy为例，该公司称产品“像女性一样思考”，试图在用户开口前预判需求，既可商量礼物和活动安排，也可发送照片获取布置建议，并主动跟进日程。文章还提到，目前最受关注的产品之一就是刚刚完成新一轮融资的Instinct。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据TechCrunch称，Instinct在最新一轮**10**亿美元融资后估值达**100**亿美元，与此同时还有多家产品在争夺这一“住在短信里”的入口。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/6ad3431ada9b3ce3b4483a2370e8e932d00d1fc3.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n1448d81f9a22",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "美国警局用GTA6风格内容做招募宣传",
+  "original_title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+  "summary": "《侠盗猎车手6》周四在时隔13年后发售。WIRED报道，尽管游戏对警察极尽讽刺，仍有美国警察局用带有该作风格的AI内容做招募或公共宣传，例如圣迭戈警局的Instagram账号。",
+  "facts": [
+    {
+      "text": "《侠盗猎车手6》在时隔13年后于周四发售。WIRED报道，已有警察部门借助这股热潮，用带有游戏风格的AI生成内容做招募或对外宣传。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据WIRED称，游戏内电台广告公开讽刺Vice City警察局滥用权力、种族画像和伪造证据，但现实中的警局似乎并未因此却步。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "is_primary": false,
+      "published_at": "2026-11-21T07:24:02+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T07:24:02+08:00",
+  "updated_at": "2026-11-21T07:24:02+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "美国警局用GTA6风格内容做招募宣传",
+  "lead_zh": "《侠盗猎车手6》周四在时隔13年后发售。WIRED报道，尽管游戏对警察极尽讽刺，仍有美国警察局用带有该作风格的AI内容做招募或公共宣传。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED报道，《侠盗猎车手6》在等待**13**年后于周四发售。游戏里的电台广告并不掩饰对执法部门的嘲讽，例如一则Vice City警察局招募广告开场就问“你是否一直梦想毫无后果地滥用权力”，并提到过度执法、种族画像和栽赃。尽管如此，仍有现实中的警察部门试图借用这股文化热潮来做公共宣传或招募新警员。",
+        "文章举例称，圣迭戈警察局的一个Instagram账号等已经发布带有该作风格、被作者称为“极其老套”的AI生成内容。WIRED认为这一策略颇为矛盾，因为该系列奖励盗窃和贩毒，并把警察作为主要对手，但仅仅因为游戏里出现了执法者，就催生出一批歌颂“蓝线”的AI素材。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据WIRED称，游戏对美国执法文化的讽刺相当尖锐，但一些警局似乎没有领会这一点，仍在用相关热度提升自身形象或招募新成员。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/49a4a3953c0b2704e40372ca2fe0a7c460062c79.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

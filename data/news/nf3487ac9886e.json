@@ -1,0 +1,67 @@
+{
+  "id": "nf3487ac9886e",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Signal限制手机端截屏以防AI监视",
+  "original_title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "summary": "Signal宣布在安卓和iOS应用中限制截屏，总裁Meredith Whittaker称操作系统级智能体正在扫描屏幕内容，对加密通讯构成生存性威胁；用户仍可关闭该限制。",
+  "facts": [
+    {
+      "text": "Signal周五宣布在安卓和iOS应用中限制截屏，该限制此前已在Windows应用中默认启用，用户仍可自行关闭。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Signal总裁Meredith Whittaker称，Windows、安卓和macOS/iOS正在让AI智能体扫描屏幕信息，削弱了Signal独立保证隐私的能力。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "is_primary": false,
+      "published_at": "2026-11-22T05:37:10+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T05:37:10+08:00",
+  "updated_at": "2026-11-22T05:37:10+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Signal限制手机端截屏以防AI监视",
+  "lead_zh": "Signal宣布在安卓和iOS应用中限制截屏，总裁Meredith Whittaker将操作系统级智能体扫描屏幕称为生存性威胁；用户仍可关闭该限制，但她也承认这只是不完整的办法。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "加密通讯应用Signal周五宣布，将限制用户在其安卓和iOS应用内截屏。该公司此前已在Windows应用中默认阻止截屏，此次把类似限制扩展到移动端。用户若愿意，仍可自行关闭这一设置。",
+        "总裁Meredith Whittaker将此举与操作系统集成代理式AI联系起来，称这是对隐私的“生存性威胁”。她也承认，这一做法并不完整，因为它没有解决AI智能体以更隐蔽方式访问应用数据的其他途径。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Signal总裁Meredith Whittaker称，Windows、安卓和macOS/iOS正让AI智能体扫描用户屏幕上的信息，从而削弱Signal独立保证隐私的能力。她说，为了提供代理式AI能力，敏感数据正被捕捉、存储，并提供给操作系统级智能体当时使用的本地数据库或远程服务器；一旦数据被截取，便超出Signal的控制，并危及对话中所有参与者的隐私。她还称，关闭该限制会打破其隐私保证。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

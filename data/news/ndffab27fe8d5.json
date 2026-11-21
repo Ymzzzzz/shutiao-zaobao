@@ -1,0 +1,67 @@
+{
+  "id": "ndffab27fe8d5",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "演员授权面孔给微短剧公司做AI剧",
+  "original_title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+  "summary": "以色列演员Aki Avni把面孔授权给微短剧创业公司Shortical，用于全部由AI生成的剧集《Inevitable》。该公司称这是首次使用真人形象，中国同类授权报价多在15至700美元。",
+  "facts": [
+    {
+      "text": "Shortical推出全部由AI生成的微短剧《Inevitable》，以色列演员Aki Avni授权其面孔制作数字分身，并在剧中出演授权面孔给制片公司的元故事。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Shortical向TechCrunch称，与Avni是直接协议而非平台签约，平台上的面孔授权尚未形成已签署合同。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "is_primary": false,
+      "published_at": "2026-11-22T00:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T00:00:00+08:00",
+  "updated_at": "2026-11-22T00:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "演员授权面孔给微短剧公司做AI剧",
+  "lead_zh": "以色列演员Aki Avni把面孔授权给微短剧公司Shortical，用于全部由AI生成的剧集《Inevitable》。该公司称这是首次使用真人形象，中国同类报价多在15至700美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "去年1月成立的微短剧公司Shortical以订阅收费，通常前**7**至**10**集免费，之后需付小额月费解锁全部内容。公司新近在洛杉矶首映全部由AI生成的剧集《Inevitable》，以色列演员Aki Avni（曾参演美剧《24》）授权面孔制作数字分身，并在剧中出演自己把面孔授权给制片公司的故事。",
+        "Shortical网站已打出“授权你的面孔”广告，邀请用户提交社交账号以洽谈合约。Rest of World近期报道，中国微短剧公司为面孔授权支付大约**15**至**700**美元。Shortical未公布给Avni的具体金额，只称其以项目合伙人身份加入，报酬对标非AI表演的行业标准，并与Payouts.com合作搭建创作者打款系统。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Shortical向TechCrunch称，面向创作者的面孔授权仍处于早期，尚未形成已签署合同；与Avni是直接协议，而非通过该平台完成，公司希望这部剧能为面孔授权吸引更多关注。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/b053dbd2739b64e7f76b4f0b2fa6d5e6700c5654.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

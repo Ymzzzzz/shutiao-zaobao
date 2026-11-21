@@ -1,0 +1,233 @@
+{
+  "id": "n565159543ba4",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Gemini任务可调用Duplex代打商家电话",
+  "original_title": "How Google Duplex evolved to also call businesses for you in Gemini",
+  "summary": "谷歌研究博客回顾Duplex近十年演进，并称已将代商家打电话的能力接入Gemini应用的任务功能，由Gemini 4 Hydrogen和Gemini 4 Neon等模型支持更完整的办事流程。",
+  "facts": [
+    {
+      "text": "谷歌把Duplex代打电话能力接入Gemini应用中的任务功能，并回顾其从封闭域模型、经LaMDA混合架构，到由Gemini统一多模态理解、规划和对话生成的演进。",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌称，每通呼叫都会明确告知对方这是来自谷歌的自动化系统，商户可在Google商家资料中选择退出，或在通话中要求停止来电。",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google Research Blog",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "is_primary": true,
+      "published_at": "2026-11-21T07:30:30+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T07:30:30+08:00",
+  "updated_at": "2026-11-21T07:30:30+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Gemini任务可调用Duplex代打商家电话",
+  "lead_zh": "谷歌回顾Duplex近十年演进，并称已将代商家打电话的能力接入Gemini应用的任务功能，由Gemini 4 Hydrogen和Neon等模型支持更完整流程。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌研究博客回顾了Duplex代打电话技术的演进，并将其能力接入Gemini应用中的任务功能。文章把架构分成三代：早期在Transformer出现前，用封闭域循环网络处理订餐等窄任务；2022年Duplex曾在真实通话中使用LaMDA，并与确定性状态跟踪和策略护栏组成混合系统；随后改为用自由文本任务描述提示模型，以覆盖更多业务类别和约束条件。",
+        "现在的呼叫栈用Gemini统一多模态理解、规划和对话生成。文章还提到，2025年和2026年，基础模型已把代理式呼叫扩展到谷歌搜索和Ask Maps，用于查询报价、库存和营业情况。Gemini应用中的任务现可使用包括Gemini 4 Hydrogen和Gemini 4 Neon在内的模型，处理分析账单、经Agent Payments Protocol安全完成交易，以及通过电子邮件和RCS与用户协调等流程。"
+      ],
+      "sources": [
+        "Google Research Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据谷歌称，每通呼叫都会明确告知对方这是来自谷歌的自动化系统；商户可在Google商家资料中选择退出，或在通话中说请停止呼叫我的商家。该服务无需商户安装软件或改用新的预订系统。谷歌还称，一次通话收集的信息可用于回答后续问题，并可能出现在谷歌地图的商家详情中，例如欢乐时光或是否允许携带宠物。"
+      ],
+      "sources": [
+        "Google Research Blog"
+      ]
+    }
+  ],
+  "image_url": "img/5381904a4d5e710308a31a2af84adfb26d288811.jpg",
+  "image_source": "Google Research Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Duplex1-TasksInGeminiHero.png",
+  "fulltext_status": "ok",
+  "read_minutes": 7,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-21",
+    "title_en": "How Google Duplex evolved to also call businesses for you in Gemini",
+    "title_zh": "Google Duplex 如何演进，从而也能在 Gemini 中替你给商家打电话",
+    "dek_en": "",
+    "dek_zh": "",
+    "word_count_zh": 2465,
+    "read_minutes": 7,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "完成预订晚餐或预约理发这类任务很耗时。实时电话交谈节奏很快，很少按脚本进行。对方几乎什么都可能说，而且常常在一句话说到一半时改口——人们还经常依靠细微的语气变化来表示该轮到谁说。停顿多半秒，听起来就像电话断了；说得太早，又会互相抢话。要利用 AI 在电话中得体地完成这些任务，我们需要把高质量的语音理解、上下文推理和语音合成放在同一个低延迟系统中协同工作。",
+        "en": "Completing tasks like making dinner reservations or booking a hair appointment is time consuming. Live phone conversations move fast and rarely follow a script. The person on the other end can say almost anything, often revising their thoughts mid-sentence – and people often rely on subtle tone changes to indicate whose turn it is to speak. Pause half a second too long, and it sounds like the call dropped; speak too soon, and you end up talking over each other. Leveraging AI to complete these tasks respectfully over the phone required us to consider high quality speech understanding, contextual reasoning, and speech synthesis working together in a single, low-latency system."
+      },
+      {
+        "t": "p",
+        "zh": "将近十年前，我们推出了 Google Duplex 来帮助应对这一挑战。在基础模型进展的推动下，Duplex 架构已经演进，能够在 Google 搜索和地图等许多核心产品中支撑自主完成任务。本周，我们在 Gemini 应用的 Tasks 中推出了 Duplex，它是一个个人 AI 协作者，可以帮忙协调现实世界中的事务，例如替你给商家打电话，并代表用户处理现实请求。在这篇文章中，我们回顾使这一切成为可能的长达十年的架构演进——从早期的封闭域模型，走向完全基于 Gemini 构建的统一技术栈。",
+        "en": "We introduced Google Duplex nearly a decade ago to help address this challenge. Propelled by advances in foundation models, the Duplex architecture has evolved to power autonomous task completion across many core products, such as Google Search and Maps. This week, we launched Duplex in Tasks in Gemini App, a personal AI collaborator that can help coordinate real-world chores, like calling businesses for you and handling real-world requests on behalf of the user. In this post, we look back at the decade-long architectural evolution that made this possible — moving from early, closed-domain models to a unified stack built entirely with Gemini."
+      },
+      {
+        "t": "h",
+        "zh": "从封闭域通话到 Gemini 中的 Tasks",
+        "en": "From closed-domain calls to Tasks in Gemini"
+      },
+      {
+        "t": "p",
+        "zh": "它起初只是一个狭窄、面向特定任务的系统，很快扩展成与 Google 各团队协作构建的共享会话基础设施。",
+        "en": "What began as a narrow, task-specific system quickly expanded into a shared conversational infrastructure, built in collaboration with teams across Google."
+      },
+      {
+        "t": "p",
+        "zh": "在 COVID-19 疫情期间，商家营业时间和服务迅速变化，Duplex 加倍投入自动核验商户信息，以保持列表准确。它至今仍是重要的数据来源；例如，正如我们在 2023 年分享的，来自 Duplex 电话的商家信息已在搜索和地图中展示超过一万亿次。",
+        "en": "During the COVID-19 pandemic, when business hours and services shifted rapidly, Duplex doubled down on verifying merchant info automatically to keep listings accurate. It remains an important data source; for example, business information sourced from Duplex’s phone calls had been shown in Search and Maps over one trillion times, as we shared in 2023."
+      },
+      {
+        "t": "p",
+        "zh": "与此同时，我们与 Android 和硬件团队合作，把这些会话模型直接带到设备上。从 2019 年开始，我们在连续五代 Pixel 上推出了新的 Pixel Call Assist 功能。这些模型至今仍在为 Call Screen 和 Hold for Me 等功能提供支持，帮助用户过滤未知来电，并在等候队列结束后与人工坐席通话，直到用户重新加入。在 2025 年和 2026 年，基础模型在 Google 搜索和 Ask Maps 中解锁了更广泛的代理式通话，可查询报价、产品库存以及从宠物美容到汽车维修等各种服务档期。",
+        "en": "Simultaneously, we worked with Android and hardware teams to bring these conversational models directly on-device. Starting in 2019, we rolled out new Pixel Call Assist features across five consecutive Pixel generations. These models continue to power features like Call Screen and Hold for Me, helping users filter unknown callers and speak with a live agent when a hold queue ends until the user rejoins. In 2025 and 2026, foundation models unlocked broader agentic calling in Google Search and Ask Maps, checking quotes, product availability, and service openings from pet grooming to auto repair."
+      },
+      {
+        "t": "h",
+        "zh": "会话架构的三代演进",
+        "en": "Three generations of conversational architecture"
+      },
+      {
+        "t": "p",
+        "zh": "在过去十年里，支撑这些通话的技术栈经历了三个不同阶段，从定制的神经网络流水线，走向使用 Gemini 的统一架构。",
+        "en": "Over the past decade, the stack behind these calls evolved through three distinct eras, moving from bespoke neural pipelines to a unified architecture using Gemini."
+      },
+      {
+        "t": "h",
+        "zh": "1. 前 LLM 时代的封闭域模型",
+        "en": "1. Pre-LLM closed-domain models"
+      },
+      {
+        "t": "p",
+        "zh": "我们在现代语言模型出现之前，甚至在 transformer 本身被发明之前，就开始研发 Google Duplex。在那些早期日子里，为了确保商家和用户都有良好体验，我们把 Duplex 限制在狭窄的领域，并在匿名化、任务特定的电话对话上训练定制的循环神经网络模型。由于没有预训练的世界知识，我们教模型如何高效处理每一种具体任务类型。在实践中，这意味着每种任务类型都要依赖大量训练数据——例如理解餐厅预订的固定流程，与查询节日营业时间的不同——以确保系统能够可靠地处理领域特定的逻辑。",
+        "en": "We started work on Google Duplex before modern language models and even before the transformer itself was invented. In these early days, to ensure businesses and users had a great experience, we constrained Duplex to narrow domains and trained custom recurrent neural network models on anonymized, task-specific phone conversations. Without pre-trained world knowledge, we taught our models how to handle every specific type of task efficiently. In practice, this meant relying on extensive training data for each task type — such as interpreting the rigid flow of restaurant booking versus checking holiday hours — to ensure the system could reliably navigate domain-specific logic."
+      },
+      {
+        "t": "h",
+        "zh": "2. 早期生成模型与混合技术栈",
+        "en": "2. Early generative models and hybrid stacks"
+      },
+      {
+        "t": "p",
+        "zh": "随着开放域基础模型的出现，Google Duplex 开始在生产环境中采用它们。例如，在 2022 年，Duplex 在实时通话中使用了 LaMDA。这些预训练模型简化了理解和常识推理，使系统能够处理意外的对话转折和跑题，同时仍然锚定在诸如标准餐厅预订这样的上下文中。",
+        "en": "Google Duplex started employing open domain foundation models in production as they emerged. For example, in 2022 Duplex used LaMDA in live calls. These pre-trained models simplified comprehension and common-sense reasoning, allowing the system to handle unexpected conversational turns and tangents, while remaining grounded in the context like a standard restaurant booking."
+      },
+      {
+        "t": "p",
+        "zh": "不过，这些早期生成模型不如今天的模型可预测，有时也更慢，因此我们构建了混合技术栈，把用于灵活措辞的生成模型，与确定性状态跟踪和严格的策略护栏配对。这有助于确保用户和商家都有良好体验。",
+        "en": "However, these early generative models were less predictable and sometimes slower than today's, so we built hybrid stacks that paired generative models for flexible phrasing with deterministic state tracking and strict policy guardrails. This helped ensure that both users and businesses had a great experience."
+      },
+      {
+        "t": "h",
+        "zh": "3. 无边界任务与 Gemini 集成",
+        "en": "3. Unbounded tasks and Gemini integration"
+      },
+      {
+        "t": "p",
+        "zh": "随着基础模型的进步，我们完全取消了固定垂直领域的限制，转而用自由文本任务描述来提示系统。这让模型可以仅通过一段提示来定义任务，从而使系统能够泛化到新的任务类型和细微差别（例如要求靠窗座位，或为婴儿车预留额外空间）以及新的商家类别，而无需从头构建单独的对话模型。",
+        "en": "As foundation models advanced, we removed the constraint of fixed verticals entirely by shifting to prompting the system with free-text task descriptions. This allowed models to define a task simply via a prompt, enabling the system to generalize to new task types and nuances (like asking for window seating or extra space for a stroller) and new business categories, without building separate dialogue models from scratch."
+      },
+      {
+        "t": "p",
+        "zh": "我们的通话技术栈使用 Gemini 来统一多模态理解、规划和对话生成，因此系统可以处理多约束请求——例如围绕日程冲突安排汽车保养——并在接待员建议另一个时段时做出调整。",
+        "en": "Our calling stack uses Gemini to unify multimodal understanding, planning, and dialogue generation so the system can navigate multi-constraint requests — like scheduling car maintenance around calendar conflicts — and adapt when a receptionist suggests another slot."
+      },
+      {
+        "t": "h",
+        "zh": "实时电话中的技术障碍",
+        "en": "Technical hurdles in live telephony"
+      },
+      {
+        "t": "p",
+        "zh": "即便有前沿模型，实时电话仍会带来仅靠在网页等标准数据集上预训练无法解决的障碍：",
+        "en": "Even with frontier models, live telephony poses hurdles that pre-training on standard datasets like the web alone doesn't solve:"
+      },
+      {
+        "t": "p",
+        "zh": "• 通话前和会话上下文的语用锚定，以及对现实意图的理解：网页并没有捕捉忙碌商家如何接听电话所需的全部数据。近十年面向目标的通话经验，帮助我们的技术栈掌握语用规范，甚至从通话开始之前就开始。在实践中，这意味着根据过往对话的历史上下文，把自由文本任务与商家匹配（例如，知道某家商户周末不接受大型团体预订），以预测一项任务是否可行。在通话过程中，这帮助模型判断某一时刻该问什么、如何理解礼貌的间接拒绝，以及如何让通话简短有效。",
+        "en": "• Pragmatic grounding for pre-call and conversational context, and real-world intent understanding: The web doesn’t have all the data needed to capture how calls unfold with busy merchants. Nearly a decade of experience with goal-directed calls helps our stack grasp pragmatic norms, starting even before the call. In practice, this means matching a free-text task with a business based on the historical context of past conversations (e.g., knowing a specific vendor doesn't take reservations for large groups over the weekend) to predict whether a task will work. During the call, this helps the model determine what makes sense to ask at a given moment, how to read polite indirect refusals, and how to keep calls brief and effective."
+      },
+      {
+        "t": "p",
+        "zh": "• 嘈杂声学环境下的亚秒级延迟：通话经过压缩的电话线路传输，背景里常有厨房碰撞声、咖啡机、街噪声和旁边的交谈。我们的技术栈针对低延迟流式推理做了调优，让回复以自然的节奏出现。定制的声学和对话节奏模型协助核心 AI 系统处理背景噪声和停顿，并在该停的时候停下等等。",
+        "en": "• Sub-second latency in noisy acoustic setups: Calls run over compressed phone lines against loud backdrops like clattering in kitchens, espresso machines, street noise, and side chatter. Our stack is tuned for low-latency streaming inference so replies land at a natural cadence. Custom acoustic and conversation cadence models assist the core AI system with handling background noise and pauses, stop talking when expected, etc."
+      },
+      {
+        "t": "h",
+        "zh": "为线路两端做设计",
+        "en": "Designing for both ends of the line"
+      },
+      {
+        "t": "p",
+        "zh": "Duplex 必须对接电话的商家和对用户同样好用。这一原则塑造了若干设计选择：",
+        "en": "Duplex has to work just as well for the business answering the phone as it does for the user. That principle shaped several design choices:"
+      },
+      {
+        "t": "p",
+        "zh": "• 明确披露。每通电话一开始都会清楚说明这是一个 AI 代理——具体而言，是来自 Google 的自动系统正在来电。",
+        "en": "• Clear disclosure. Every call opens by clearly disclosing that it’s an AI agent — specifically, an automated system calling from Google."
+      },
+      {
+        "t": "p",
+        "zh": "• 商家保持控制权。商户可以在 Google Business Profile 设置中退出自动来电，或在通话中直接说“请不要再给我的商家打电话”。",
+        "en": "• Businesses stay in control. Merchants can opt out of automated calls in their Google Business Profile settings, or simply say “Please stop calling my business” during a call."
+      },
+      {
+        "t": "p",
+        "zh": "• 无需设置，也无需适应。Duplex 通过商家已经在接听的电话即可工作：不用安装软件，不用维护预订系统，也不用培训员工。接听的人可以像对待任何顾客一样处理这通电话，即使是高峰时段、柜台前排着队。",
+        "en": "• No setup and zero adaptation. Duplex works through the phone a business already answers: no software to install, no booking system to maintain and no staff to train. Whoever answers can handle the call the way they would with any customer, even mid-rush with a line at the counter."
+      },
+      {
+        "t": "p",
+        "zh": "• 一次对话，多种信息。一次通话收集到的细节可以回答许多后续问题，因此商家不会被反复询问同一件事。例如，Google 地图可以展示 Duplex 收集到的商家信息，例如欢乐时光特惠、露台座位、是否欢迎携带宠物、停车提示，甚至每周的问答之夜。",
+        "en": "• One conversation, many insights. Details gathered on one call can answer many later questions, so a business isn’t asked the same thing over and over. For example, Google Maps can show details that Duplex gathers about businesses, like happy hour specials, patio seating, pet-friendliness, a parking tip or even a weekly trivia night."
+      },
+      {
+        "t": "h",
+        "zh": "结语",
+        "en": "Conclusion"
+      },
+      {
+        "t": "p",
+        "zh": "许多日常杂事、本地服务和紧急任务，仍然需要直接与另一个人通话才能可靠地协调细节。通过把 Duplex 的能力集成到 Gemini 应用的 Tasks 中，我们在闭合这一循环上又迈出了一步。自然语音交互成为无缝集成的一种模态，只要不存在在线 API 或预订表单等结构化数字渠道，代理就可以调用它。使用我们最新的 Gemini 4 模型——包括 Gemini 4 Hydrogen 和 Gemini 4 Neon——Gemini 中的 Tasks 现在可以支持更全面的工作流，例如分析水电账单、通过 Agent Payments Protocol 安全处理交易，以及通过电子邮件和富通信服务（RCS）与用户协调。借助这些能力，我们正把这项研究带入下一代 AI 助手。",
+        "en": "Many daily errands, local services, and urgent tasks still require speaking directly with another person to coordinate details reliably. By integrating Duplex’s capabilities into Tasks in Gemini App, we are taking another step toward closing this loop. Natural voice interaction becomes a seamlessly integrated modality that the agent can deploy whenever structured digital channels like online APIs or booking forms don't exist. Using our newest Gemini 4 models — including Gemini 4 Hydrogen and Gemini 4 Neon — Tasks in Gemini can now support more comprehensive workflows like analyzing utility bills, processing transactions securely via the Agent Payments Protocol, and coordinating with users over email and Rich Communication Services (RCS). Through these capabilities, we are bringing this research into the next generation of AI assistance."
+      },
+      {
+        "t": "h",
+        "zh": "致谢",
+        "en": "Acknowledgements"
+      },
+      {
+        "t": "p",
+        "zh": "我们感谢 Duplex 团队，以及 Google 上下领导和参与这十年历程的每一个人。为推动向由 Gemini 驱动的通话转型，并使这次在 Gemini 的 Tasks 中发布成为可能，我们特别感谢 Yoav Tzur、Sasha Goldshtein、Rafael Goldfarb、Liran Peretz、Ritika Pathak、Sen Li、Ran Manor、Dekel Auster，以及团队中的许多其他人。",
+        "en": "We’re thankful to the Duplex team and to everyone across Google leading and involved in this decade-long journey.For driving the transition to Gemini-powered calling and making this launch in Tasks in Gemini possible, we're especially grateful to Yoav Tzur, Sasha Goldshtein, Rafael Goldfarb, Liran Peretz, Ritika Pathak, Sen Li, Ran Manor, Dekel Auster, and many others across the team."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n2cb10b95a79b",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "联合国未能就自主武器规则达成一致",
+  "original_title": "The UN fails to agree on rules regulating ‘killer robots’",
+  "summary": "联合国在日内瓦讨论自主武器规则一周后，各国仅同意开始讨论可选方案。红十字国际委员会曾呼吁一年内拟定有法律约束力的规则，最终达成的妥协则是用两年时间提出监管建议。",
+  "facts": [
+    {
+      "text": "联合国外交官在日内瓦讨论自主武器规则一周后未能达成实质协议，最终同意开始讨论方案；妥协是各国有两年时间提出监管建议，且部分规则可能仍是可选的。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据NPR称，俄罗斯、以色列和美国是主要阻碍，美国还曾提议用五年时间讨论不具约束力、可选的指导原则。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "is_primary": false,
+      "published_at": "2026-11-22T04:03:37+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T04:03:37+08:00",
+  "updated_at": "2026-11-22T04:03:37+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "联合国未能就自主武器规则达成一致",
+  "lead_zh": "联合国在日内瓦讨论自主武器规则一周后，各国仅同意开始讨论方案。红十字国际委员会曾呼吁一年内拟定有约束力的规则，最终妥协为两年提出监管建议。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "联合国外交官本周在日内瓦讨论自主武器（常被称为“杀手机器人”）规则，一周谈判后未能达成实质协议，代表们离开时仅同意“开始讨论方案”。红十字国际委员会在会前表示，应在一年内起草有法律约束力的规则，这一呼吁得到联合国秘书长和教宗良的支持。",
+        "最终妥协是各国有**两年**时间提出监管建议，后续就采用和执行哪些规则的谈判料将更久；协议还为部分尚未通过的规则保留“可选”空间。人道组织和部分国家认为，半自主武器和无人机已在乌克兰、加沙和苏丹等冲突中造成大量平民死亡，因此需要尽快制定有约束力的规则。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据NPR称，俄罗斯、以色列和美国是主要阻碍：会议首日俄罗斯曾反对议程、拖延进程；美国则提议用**五年**时间讨论不具约束力、可选的指导原则。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/1e3e9a535f0dfd34b3865f9f1fa9bd49c823ed2f.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

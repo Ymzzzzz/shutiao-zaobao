@@ -1,0 +1,67 @@
+{
+  "id": "n668baa710142",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊为HyperPod的Slurm集群推出托管扩展",
+  "original_title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+  "summary": "Amazon SageMaker HyperPod为Slurm集群推出托管集群扩展，可先通过API或控制台声明可观测性和用户管理等软件配置，由节点代理在各节点持续落地，并保留对节点的直接访问。",
+  "facts": [
+    {
+      "text": "SageMaker HyperPod在2026年11月推出集群扩展，先提供可观测性和用户管理（含目录集成），可通过API或SageMaker AI控制台安装、配置、更新和移除。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，扩展会在提交时校验配置，并在包括新节点和替换节点在内的所有节点上保持一致，同时用户仍可SSH登录并运行自有生命周期脚本。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+      "is_primary": true,
+      "published_at": "2026-11-21T07:07:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T07:07:03+08:00",
+  "updated_at": "2026-11-21T07:07:03+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊为HyperPod的Slurm集群推出托管扩展",
+  "lead_zh": "Amazon SageMaker HyperPod为Slurm集群推出托管扩展，可先通过API或控制台声明可观测性和用户管理等软件配置，由节点代理持续落地，并保留对节点的直接访问。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Amazon SageMaker HyperPod在**2026**年**11**月推出集群扩展，把运行在Slurm节点上的软件和设置也纳入声明式管理。首批托管扩展覆盖可观测性和用户管理（含目录集成），可通过API或Amazon SageMaker AI控制台安装、配置、更新和移除。要使用该能力，需调用UpdateClusterSoftware，将集群升级到**2026**年**11**月的HyperPod AMI或更高版本。",
+        "AWS介绍，2026年已为集群定义、节点设置、容量、网络拓扑和硬件健康等层提供API化配置、基于AMI的安装、持续供给和自动拓扑管理等。在Slurm **25.11**或更高版本上，还可按分区设置树状或块状拓扑；按需深度健康检查可对GPU施压并测试NCCL连通性。管理员仍可SSH进入包括控制器节点在内的所有节点，并继续运行自有生命周期脚本。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AWS称，扩展配置会在提交时校验，由节点代理应用到每个节点（包括新建和替换的节点），并通过健康探针回报状态；与自定义脚本相比，这样更易保持一致、减少漂移，同时仍由用户决定API管理与直接访问之间的平衡。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/2801beb2966c037d5a1391d4323d905486c067ba.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/20/l-ml-22428.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

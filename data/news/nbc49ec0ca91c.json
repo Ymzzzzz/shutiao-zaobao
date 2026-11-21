@@ -1,0 +1,67 @@
+{
+  "id": "nbc49ec0ca91c",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "DeepSeek V1作者开源本地个人代理Linger",
+  "original_title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+  "summary": "前DeepSeek V1作者、DeepSeek-VL负责人Tony Zhang公布开源个人代理Linger，可在电脑上调用已登录的浏览器和邮箱，并针对本地模型优化。官方称12GB的RTX 3060即可运行125B模型。",
+  "facts": [
+    {
+      "text": "前DeepSeek V1作者、DeepSeek-VL项目负责人Tony Zhang公布开源个人代理Linger，优先运行在电脑上，可操作已登录的网页、邮箱和日历，并针对本地大模型做了优化。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511570.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据官方称，125B参数的Qwen3.8-Flash-Next在12GB显存的RTX 3060和64GB内存上可达45.5 tokens/秒，在RTX 5090上可达179 tokens/秒。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511570.html"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "is_primary": false,
+      "published_at": "2026-11-21T14:32:31+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T14:32:31+08:00",
+  "updated_at": "2026-11-21T14:32:31+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "DeepSeek V1作者开源本地个人代理Linger",
+  "lead_zh": "前DeepSeek V1作者Tony Zhang公布开源个人代理Linger，可在电脑上调用已登录的浏览器和邮箱，并针对本地模型优化。官方称12GB显卡即可运行125B模型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "量子位报道，前DeepSeek V1作者、DeepSeek-VL项目负责人Tony Zhang公布新创业项目Linger，方向是个人代理，并选择优先做电脑端而非应用。它可以调用电脑上已登录的网页、邮箱和日历，用户也可在任务卡住时直接接管。系统核心名为“Another Me”：会在本地读取收件箱、日历、聊天和会议，每晚整理成个人知识库。在衡量长期对话记忆的LoCoMo基准上，准确率达到**95%**。",
+        "Linger还支持接入第三方模型，并用名为PolyStrata的MoE推理引擎把常用专家放在显存、其余放在内存或SSD。官方数据称，**125B**参数的Qwen3.8-Flash-Next在**12GB**显存的RTX 3060和**64GB**内存上可达**45.5** tokens/秒，在RTX 5090（**32GB**）上可达**179** tokens/秒。它还提供“模型自动驾驶”，按硬件自动匹配本地模型组合。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "创始人怎么说",
+      "paras": [
+        "据Tony Zhang称，他们相信智能应该是分布式的，用户的上下文、数据和驱动它们的智能都应完全由自己拥有。在回应与DS-Bot的区别时，他表示Linger的重点是把模型和工具层一起优化，**12GB**显卡就能本地运行**125B**模型，不按token付费，数据也不出本机；DS-Bot更强调机器人之间的协作，Linger则强调人与本机代理的关系。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

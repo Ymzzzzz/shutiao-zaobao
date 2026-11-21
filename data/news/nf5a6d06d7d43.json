@@ -1,0 +1,67 @@
+{
+  "id": "nf5a6d06d7d43",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达研究称超长上下文窗口是死路",
+  "original_title": "Nvidia researchers argue huge AI context windows are a dead end",
+  "summary": "英伟达研究团队认为，语言模型往往不必动用完整的超长上下文窗口。在多项测试之中，定期摘要和定向关键词检索通常都能够达到接近全文上下文的效果，成本却只相当于其一部分。",
+  "facts": [
+    {
+      "text": "英伟达研究团队指出，超长上下文窗口往往又慢又贵且易出错；测试中，定期摘要和定向关键词检索通常能达到接近全文上下文的效果。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该团队称，许多任务并不需要把全部上下文同时放进窗口，他们还提出一类改为处理短笔记而非长上下文的模型。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+      "is_primary": false,
+      "published_at": "2026-11-22T00:23:45+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T00:23:45+08:00",
+  "updated_at": "2026-11-22T00:23:45+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达研究称超长上下文窗口是死路",
+  "lead_zh": "英伟达研究团队认为，语言模型往往不必动用完整的超长上下文窗口。测试中，定期摘要和定向关键词检索通常能达到接近全文上下文的效果，成本却低得多。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，英伟达一个研究团队认为，语言模型现在虽然能一次处理整本小说，但在许多任务上动用完整上下文窗口往往既慢又贵，还容易出错。团队提出替代办法：定期做摘要，再辅以定向关键词检索。",
+        "文章举例说，GPT-4在**2023**年**3**月发布时上下文为**8192**个token；如今GPT 5.6 Sol大约能处理**100**万个token，约为前者的**120**倍，体积相当于托尔斯泰的《战争与和平》。团队还提出一类新模型，改为与短笔记而不是超长上下文打交道。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究怎么说",
+      "paras": [
+        "据英伟达研究团队称，在多项测试中，定期摘要加定向检索的效果通常与使用完整上下文相当，成本却只相当于其一部分；许多时候模型并不需要把全部窗口内容同时保留在“工作记忆”里。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/316443ca9f5033820ae84ee7fce45fc8b910a4fe.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/you-dont-need-long-context-nano-banana-pro.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

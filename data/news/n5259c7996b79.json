@@ -1,0 +1,67 @@
+{
+  "id": "n5259c7996b79",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊推出可跨区域调度的HyperPod推理网关",
+  "original_title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+  "summary": "Amazon SageMaker HyperPod推出全局推理网关，用一个托管端点在同一区域或跨区域的多个集群间路由请求，自动故障转移，并以SigV4和IAM经PrivateLink鉴权。",
+  "facts": [
+    {
+      "text": "SageMaker HyperPod新增全局推理网关，可把已注册的各集群接到一个托管端点，在区域内或跨区域选择集群并自动故障转移，请求经SigV4、IAM和PrivateLink传输。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据AWS称，集群内部仍由原有推理网关按KV缓存利用率和队列深度等信号选择模型Pod，全局网关负责在集群之间做第二层调度。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+      "is_primary": true,
+      "published_at": "2026-11-21T06:35:24+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T06:35:24+08:00",
+  "updated_at": "2026-11-21T06:35:24+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊推出可跨区域调度的HyperPod推理网关",
+  "lead_zh": "Amazon SageMaker HyperPod推出全局推理网关，用一个托管端点在同一或跨区域的多个集群间路由请求，可自动故障转移，并以SigV4和IAM鉴权。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Amazon SageMaker HyperPod推出全局推理网关：把已注册的多个集群接到一个托管端点，可在同一区域或跨区域选择目标集群，经AWS骨干网和PrivateLink转发请求，并提供自动故障转移。调用需用SigV4签名和IAM授权，网关会在请求进入任何集群前检查签名、权限和速率限制。接口兼容OpenAI格式。",
+        "用户可用四项路由权重（取值0.0到1.0，设为0即关闭该信号）决定各指标的权重；若自行设置，必须四项都填且总和为**1.0**，省略则使用默认值。默认更偏向靠近网关所在区域的集群，同时会把流量导向仍有余量、远离故障较多的集群。各集群内部仍由原有推理网关把请求分配到具体模型Pod。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据AWS称，若没有该网关，客户端需要自己选择集群；以四个模型、两个区域的五个集群为例，在没有集群级推理网关时最多要面对**20**个端点，有了集群级网关后仍剩五个端点，全局网关则把入口收成一个，并避免请求在已饱和集群排队、而其他区域GPU闲置的情况。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/a86784260eee6cee4ff57079a732593961aca95d.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/20/ML-22376-featured-image-1.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

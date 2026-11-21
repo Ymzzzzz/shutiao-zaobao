@@ -1,0 +1,67 @@
+{
+  "id": "n769adf524e57",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Chess.com上线麻将围棋等经典游戏",
+  "original_title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+  "summary": "Chess.com推出Classic Games平台公测，新增西洋双陆棋、围棋、麻将、将棋、数独等10款游戏，并有网页及iOS、安卓应用。增长官称社区已有近3亿成员，AI帮助小团队在数月内上线新游戏。",
+  "facts": [
+    {
+      "text": "Chess.com在今年推出无赌博扑克站Gambit后，再推出Classic Games平台公测，新增西洋双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌、象棋和文字游戏word等10款游戏。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据增长官Albert Cheng称，Chess.com已拥有近3亿成员，日活创历史新高，但全职开发新游戏的人员不到公司的1%。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "is_primary": false,
+      "published_at": "2026-11-21T22:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T22:00:00+08:00",
+  "updated_at": "2026-11-21T22:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Chess.com上线麻将围棋等经典游戏",
+  "lead_zh": "Chess.com推出Classic Games平台公测，新增围棋、麻将、将棋、数独等10款游戏，并提供网页及手机应用。增长官称社区已有近3亿成员，AI帮助小团队在数月内完成开发。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "在今年早些时候推出无赌博扑克站Gambit之后，Chess.com再推出Classic Games平台，并于周六开始网页及iOS、安卓应用的公开测试。新平台一次增加**10**款游戏：西洋双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌、象棋，以及作为拼字游戏替代的word。各游戏提供课程、排行榜和等级分，既可对人也可对机器人。",
+        "增长官Albert Cheng对The Verge表示，选游戏结合了社区反馈、市场研究和团队判断，希望服务那些“有长期学习路径和社区”的经典项目。他称，Chess.com已拥有近**3**亿成员，日活创下公司历史新高；全职开发新游戏的人员不到公司的**1%**。他表示，AI主要承担编码工作，帮助人数很少的团队在数月内上线**11**款新游戏，方法与开发Gambit时几乎相同。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Albert Cheng称，常有人向创始人反映，本地麻将局或围棋聚会缺少一个像Chess.com这样的社区；公司扩展品类，是为了把近**3**亿成员的社区经验带到这些经典游戏，同时象棋仍是主业。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/4f74a621a315a2d14eb77e858ebaa1e46bd4d250.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n1dd980bb0ab5",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "混元AMA称Hy小模型已进入路线图",
+  "original_title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+  "summary": "姚顺雨和腾讯混元团队在Reddit围绕Hy4与Hy4 flash做AMA，确认Hy小模型和面向24GB显存的型号已在路线图上，并称Hy4 flash在内部评测中的平均单任务成本约为旗舰的二十分之一。",
+  "facts": [
+    {
+      "text": "姚顺雨和腾讯混元团队在Reddit就本月发布的Hy4和Hy4 flash进行AMA。Hy4于11月4日发布，Hy4 flash于11月16日发布，支持最长100万token上下文，两款权重均已公开。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511757.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据混元团队称，Hy小模型已经在路线图上，也有面向24GB显存的计划；按内部评测WorkIndex，Hy4 flash平均单任务成本约为旗舰Hy4的1/20。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511757.html"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "is_primary": false,
+      "published_at": "2026-11-21T14:30:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T14:30:55+08:00",
+  "updated_at": "2026-11-21T14:30:55+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "混元AMA称Hy小模型已进入路线图",
+  "lead_zh": "姚顺雨和腾讯混元团队在Reddit围绕Hy4与Hy4 flash做AMA，确认Hy小模型和面向24GB显存的型号已在路线图上，并称Flash单任务成本约为旗舰的二十分之一。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "量子位报道，姚顺雨和腾讯混元团队到Reddit，围绕本月发布的Hy4和Hy4 flash做AMA。**11**月**4**日发布的旗舰Hy4能理解文本、图像和视频，面向长程软件工程等需多步推理和工具调用的任务；**11**月**16**日发布的Hy4 flash主打办公速度与成本，支持图文输入和最长**100**万token上下文，每个token激活约**120**亿参数。两款模型都已接入腾讯WorkBuddy，权重也已公开。",
+        "按把修表、改文档、做PPT等任务纳入的内部评测WorkIndex，Hy4 flash平均单任务成本约为旗舰的**1/20**。团队还说，正在做llama.cpp适配，预计近期向社区放出，并与vLLM、SGLang等社区合作。有网友用**96GB**显存、**128GB**内存询问能否运行Flash，团队表示可以，主要权重留在GPU，部分专家层和查表模块可放到系统内存。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "团队怎么说",
+      "paras": [
+        "据混元团队称，Hy小模型已经在路线图上，也有面向**24GB**显存的计划。后训练中最难改善的行为是“过度思考”；Flash先从旗舰蒸馏，再用强化学习缩短推理链。他们还提到，训练智能体时最棘手的是环境有漏洞，模型会上网搜现成答案来拿奖励，因此需要让它自己把任务做完。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

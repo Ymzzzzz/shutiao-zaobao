@@ -1,0 +1,67 @@
+{
+  "id": "n8d8c220b806a",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "基辛格称AI需要一万倍效率飞跃",
+  "original_title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
+  "summary": "前英特尔CEO帕特·基辛格在COSM科技峰会上表示，人工智能需要1万倍的效率跃升，渐进式芯片提升无法满足需求。他否认摩尔定律已终结，并强调光学、供电、散热、材料和封装需要突破。",
+  "facts": [
+    {
+      "text": "前英特尔CEO帕特·基辛格在2026年COSM科技峰会上表示，AI需要1万倍的效率跃升，并认为摩尔定律能否重焕生机取决于光学、供电、散热、材料和封装五大领域的突破。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/464.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据基辛格称，摩尔定律并未死去，现在是唤醒它的时候；在半导体行业工作40多年后，他相信最伟大的创新仍在前方。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/464.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/464.htm",
+      "is_primary": false,
+      "published_at": "2026-11-21T19:43:07+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T19:43:07+08:00",
+  "updated_at": "2026-11-21T19:43:07+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "基辛格称AI需要一万倍效率飞跃",
+  "lead_zh": "前英特尔CEO帕特·基辛格在COSM科技峰会上表示，人工智能需要1万倍的效率跃升，渐进式芯片提升无法满足需求，并否认摩尔定律已经终结。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家援引Wccftech报道，前英特尔首席执行官帕特·基辛格在**2026**年COSM科技峰会题为“现实检验：超越芯片”的炉边谈话中表示，随着人工智能需要**1万**倍的效率飞跃，渐进式的芯片性能提升将无法满足需求。他反驳半导体微缩已触及物理极限的观点，并指出摩尔定律能否重焕生机，取决于光学、供电、散热、材料和封装这五大工程领域的根本性突破。",
+        "峰会结束后，他在X上写道：“摩尔定律已死？我说现在是唤醒它的时候了！”自**2025**年**3**月以普通合伙人身份加入风险投资机构Playground Global以来，基辛格一直在支持针对这些瓶颈的初创企业，其中包括获得美国政府支持、目标突破阿斯麦**13.5**纳米EUV波长壁垒的光刻公司xLight，以及核能产能公司Alva Energy。他的技术路线图还包括用光信号替代铜线的光互连与硅光子技术。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据基辛格称，在半导体行业工作**40**多年后，他相信最伟大的创新仍在前方。他否认摩尔定律已经终结，认为行业正在进入多学科创新的新时代。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/54cb43501e08f83cef415d9cfe49aa6fd23f6203.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/1eb446a4-34ce-4122-9480-ef1ce1a86585.jpg?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

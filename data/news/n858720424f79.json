@@ -1,0 +1,67 @@
+{
+  "id": "n858720424f79",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "三星为One UI 9.5测试AI天气提醒",
+  "original_title": "代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知",
+  "summary": "SammyGuru在One UI 9.5测试版中发现，三星天气应用正测试依赖个人数据智能系统的提醒：可识别起床和通勤习惯并自动弹出天气卡片。相关功能预计明年年初随Galaxy S27系列正式上线。",
+  "facts": [
+    {
+      "text": "外媒SammyGuru在拆解One UI 9.5测试版时发现，三星天气应用正测试AI提醒，可识别用户起床和通勤习惯，在离开家或工作地点时弹出天气预报卡片。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/419.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据IT之家称，相关代码显示Personal Data Intelligence会在本地分析位置，但经纬度仍会分享给天气数据服务商The Weather Channel，且仅用于提供天气信息。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/419.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/419.htm",
+      "is_primary": false,
+      "published_at": "2026-11-21T16:53:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-21T16:53:47+08:00",
+  "updated_at": "2026-11-21T16:53:47+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "三星为One UI 9.5测试AI天气提醒",
+  "lead_zh": "SammyGuru在One UI 9.5测试版中发现，三星天气应用正测试可识别起床和通勤习惯的AI提醒，并自动弹出天气卡片。相关功能预计明年年初随Galaxy S27系列正式上线。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家报道，外媒SammyGuru在拆解三星最新One UI 9.5测试版时发现，天气应用正在测试多项AI智能提醒。系统依赖Personal Data Intelligence（个人数据智能），可识别用户早晨起床和开始通勤的时间，并在检测到离开家或工作地点时自动弹出天气预报卡片。",
+        "代码字符串显示，该系统会在设备本地分析位置数据，但用户的经纬度仍会分享给三星天气数据服务商The Weather Channel，用于提供天气信息，且不会再与第三方分享。Android Authority此前还发现，新系统拟新增“三星驾驶报告”，在出发前约**1**小时检查天气和睡眠评分并推送提醒。这些功能预计将于明年年初随Galaxy S27系列在One UI 9.5正式版上线。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据IT之家称，三星似乎希望通过One UI 9.5更全面地学习用户的作息和出行规律，从而提供更主动的个性化服务。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/7522edb355d60ed034daec6d6fb5febe5fea3f75.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/16019c5e-1dfc-4407-bb38-dae143932144.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
