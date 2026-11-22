@@ -1,0 +1,72 @@
+{
+  "id": "n10b966779bbd",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "《以撒的结合》更新移除AI生成配乐",
+  "original_title": "Binding of Isaac developer removes AI music from Repentance Plus",
+  "summary": "《以撒的结合：忏悔Plus》因一段恶搞GTA的配乐被发现含Suno生成痕迹，在Steam遭遇差评轰炸。制作人道歉后，开发商Nicalis已在数小时内移除相关文件。",
+  "facts": [
+    {
+      "text": "《以撒的结合：忏悔Plus》因一段恶搞侠盗猎车手的配乐被发现含有Suno元数据，近日在Steam遭遇差评轰炸。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+    },
+    {
+      "text": "发现相关音频后数小时内，开发商Nicalis在X上表示游戏已更新并移除这些生成音乐文件。该作在Steam上仍被评为“差评如潮”。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据制作人Edmund McMillen称，他并不知道游戏中这段侠盗猎车手恶搞使用了生成式AI音乐，并为此道歉。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "is_primary": false,
+      "published_at": "2026-11-23T01:25:20+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T01:25:20+08:00",
+  "updated_at": "2026-11-23T01:25:20+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "《以撒的结合》更新移除AI生成配乐",
+  "lead_zh": "《以撒的结合：忏悔Plus》因一段恶搞GTA的配乐被发现含Suno生成痕迹而在Steam遭遇差评轰炸，制作人道歉后开发商已在数小时内移除相关文件。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《以撒的结合：忏悔Plus》近日在Steam遭遇差评轰炸。Reddit用户ShweetsStuff发现，游戏中一段恶搞侠盗猎车手的内容使用了带有Suno元数据的音频文件，并能对应到Suno网站上的曲目。Valve要求开发者披露在开发过程中如何、何时使用生成式AI，而该作开发商Nicalis, Inc.似乎并未提及这些AI音乐。",
+        "相关发现曝光后数小时内，Nicalis在X上表示，《忏悔Plus》已完成更新，并移除了这些生成音乐文件。报道称，尽管Steam评价尚未回升，该作仍被评为“差评如潮”，但X上一些用户倾向相信制作人Edmund McMillen的解释，因他曾在**2024**年的TikTok中称AI用于游戏开发“缺乏灵感、枯燥乏味”。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "制作人怎么说",
+      "paras": [
+        "据制作人Edmund McMillen在X上称，他并不知道游戏中这段侠盗猎车手恶搞使用了生成式AI音乐，并为此道歉。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/a7e5fc8662beaf4fdde4bb5e6fbfb68cea0b54d9.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

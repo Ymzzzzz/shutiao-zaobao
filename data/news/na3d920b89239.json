@@ -1,0 +1,77 @@
+{
+  "id": "na3d920b89239",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "菲尔兹奖得主认为黎曼猜想AI证明正确但需被理解",
+  "original_title": "菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可",
+  "summary": "2022年菲尔兹奖得主詹姆斯·梅纳德表示，他相信Levent Alpöge与Claude合作的黎曼猜想证明是正确的，但只有当有人真正理解并能解释清楚时，才可能得到数学界的全面认可。",
+  "facts": [
+    {
+      "text": "当地时间11月20日，Anthropic数学家Levent Alpöge宣布与AI模型Claude合作完成黎曼猜想证明；11月21日，Lean与Mathlib社区发表联合声明，称以约1700万行Lean代码给出的证明已通过核验。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/677.htm"
+    },
+    {
+      "text": "2022年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德接受采访时表示，他认为这项证明是正确的，但理解一个定理为什么成立，远比仅仅证明它成立更重要。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/677.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据梅纳德称，只有当有人真正理解这项成果并能够向其他人解释清楚时，这份证明才有可能得到数学界的全面认可。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/677.htm"
+    },
+    {
+      "text": "据梅纳德称，由于结果已获形式化验证并经过独立核实，加之阿尔珀格过去在提出此类重大主张方面记录可靠，他非常有信心认为这一结果是正确的。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/677.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/677.htm",
+      "is_primary": false,
+      "published_at": "2026-11-22T17:35:58+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T17:35:58+08:00",
+  "updated_at": "2026-11-22T17:35:58+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "菲尔兹奖得主认为黎曼猜想AI证明正确但需被理解",
+  "lead_zh": "2022年菲尔兹奖得主詹姆斯·梅纳德表示，他相信Levent Alpöge与Claude合作的黎曼猜想证明是正确的，但只有当有人真正理解并能解释清楚时，才可能得到数学界全面认可。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月22日消息，当地时间**11**月**20**日，Anthropic数学家莱文特·阿尔珀格宣布，自己与AI模型Claude合作，完成了黎曼猜想的证明。**11**月**21**日，Lean与Mathlib社区发布联合声明，称以Lean库形式给出的证明已经通过核验，代码约**1700**万行。",
+        "2022年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德接受《每日经济新闻》采访时谈到了这项结果。梅纳德是解析数论领域的重要数学家，长期研究素数分布等问题，并因此在**2022**年获得菲尔兹奖。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "学者怎么说",
+      "paras": [
+        "据梅纳德称，他认为这项证明是正确的，但强调理解一个定理为什么成立，远比仅仅证明它成立更重要；只有当有人真正理解这项成果，并能够向其他人解释清楚时，这份证明才有可能得到数学界的全面认可。由于结果已获形式化验证并经过独立核实，加之阿尔珀格过去在提出此类重大主张方面记录可靠，他称非常有信心认为这一结果是正确的。他还表示，在真正理解证明中的思想和整体框架之前，这项成果很可能无法带来人们期待的变革，但相信随着时间推移最终会理解它。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/bdeb13c3a3a2b249a690d34fb6695b5a4b8ef1f9.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/04897187-2e54-4750-9328-9eecc24cce8e.jpg?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

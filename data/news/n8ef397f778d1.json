@@ -1,0 +1,72 @@
+{
+  "id": "n8ef397f778d1",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "开发者把微型Transformer塞进软盘在486上运行",
+  "original_title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
+  "summary": "开发者WollyMonjac推出Tiny 2.1，这是一个约36.7万参数、体积约380KB的问答Transformer，采用与大模型相同的架构，可装进软盘并在DOS系统的486DX和奔腾电脑上运行。",
+  "facts": [
+    {
+      "text": "开发者WollyMonjac推出Tiny 2.1，这是一个用Turbo C 2.0编写的微型问答Transformer，约36.7万参数、4层网络、隐藏维度96，8位量化后体积约380KB。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/699.htm"
+    },
+    {
+      "text": "该模型按字母逐个读取和生成内容，训练数据约3500条事实，运行需要约540KB可用常规内存，并可在DOS系统的486DX和奔腾电脑上使用。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/699.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据WollyMonjac称，除训练数据涉及的知识外，这个语言模型会非常自信地编造内容。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/699.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/699.htm",
+      "is_primary": false,
+      "published_at": "2026-11-22T19:24:43+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T19:24:43+08:00",
+  "updated_at": "2026-11-22T19:24:43+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "开发者把微型Transformer塞进软盘在486上运行",
+  "lead_zh": "开发者WollyMonjac推出Tiny 2.1，这是一个约36.7万参数、体积约380KB的问答Transformer，可装进软盘并在DOS系统的486DX和奔腾电脑上运行。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "开发者WollyMonjac完成了一项复古项目：把语言模型塞进软盘，让运行DOS系统的486DX和奔腾电脑也能使用。他开发的Tiny 2.1并不是大型语言模型，尽管采用了与大型模型相同的Transformer架构，定位是用Turbo C 2.0编写的微型问答模型。普通PC格式化软盘容量还不到**147.5**万字节，因此体积必须尽量压缩。",
+        "该模型约有**36.7**万个参数，采用**4**层网络，隐藏维度为**96**，按字母逐个读取和生成内容；权重为**8**位量化，每行使用一个缩放系数，总大小约**380KB**。训练数据约**3500**条事实，每条都用多种问法训练。要在老式PC上运行，系统需有约**540KB**可用常规内存。软件还带有对话历史、神经网络监控和提问窗口，并可用机内扬声器以机器人语音朗读回答。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "开发者怎么说",
+      "paras": [
+        "GitHub项目页面介绍称，该软件由Fable 5.2编写，并由Opus 5.5训练。据WollyMonjac称，除训练数据涉及的知识外，这个语言模型会非常自信地编造内容。若觉得知识不够，他在采用MIT许可证发布的软件包中还提供了训练文件夹，方便用户自行补充数据。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/492a6a57258908cb966002dc73c3fce2fa3b7fb0.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/324535cb-3af9-43d3-a71e-9a9c5d642a67.jpg?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

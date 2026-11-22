@@ -1,0 +1,72 @@
+{
+  "id": "n8f1df5e9bd48",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "纽约Domino音乐厅官网宣传手工制作却露出AI痕迹",
+  "original_title": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹",
+  "summary": "计划于2027年开业的纽约音乐厅Domino官网被指出含AI生成错误，包括一张从未举办过的The Strokes演唱会门票。公司随后称已将其替换为完全由人工制作的网站。",
+  "facts": [
+    {
+      "text": "纽约音乐厅Domino由Mumford & Sons乐队成员本·洛维特创立，计划于2027年开业，其官网被指出存在AI生成错误，包括一张从未真实举办过的The Strokes演唱会门票，以及文字模糊和拼写错误。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/696.htm"
+    },
+    {
+      "text": "网站正中放着一张写有“Human Made”的明信片。在Business Insider指出这些问题后，公司表示已用完全由人类制作的网站替换原版本。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/696.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Domino一名代表称，发布公告时设计团队没有足够时间完成最终版本，因此暂时把AI当作过渡工具，这种做法并不符合场馆所代表的理念。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/696.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/696.htm",
+      "is_primary": false,
+      "published_at": "2026-11-22T19:13:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T19:13:03+08:00",
+  "updated_at": "2026-11-22T19:13:03+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "纽约Domino音乐厅官网宣传手工制作却露出AI痕迹",
+  "lead_zh": "计划于2027年开业的纽约音乐厅Domino官网被指出含AI生成错误，包括从未举办的The Strokes门票，公司随后称已替换为完全由人工制作的网站。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "纽约音乐厅Domino由Mumford & Sons乐队成员本·洛维特创立，计划于**2027**年开业，试图重现威廉斯堡曾经的独立音乐氛围。其官网却被指出存在一系列AI生成错误：不仅出现一张从未真实举办过的The Strokes演唱会门票，还有文字模糊和拼写错误，图片上还覆盖着一层试图营造怀旧感的纹理。网站正中放着一张写有“Human Made”（人工制作）的明信片。",
+        "音乐厅将设在Domino炼糖厂改造项目中办公楼The Refinery at Domino一层。这栋楼目前约有**75%**的租户是科技公司，其中不少是AI初创企业。负责运营的酒店及餐饮集团TVG还获得Slack联合创始人斯图尔特·巴特菲尔德和Airbnb联合创始人乔·杰比亚等科技创始人的支持。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "在Business Insider向Domino指出这些问题后，一名代表称，场馆发布公告时，网站设计团队已经没有足够时间完成最终版本，因此暂时使用AI作为过渡工具，直到真正的手工制作版本完成。该代表表示，这种做法并不符合Domino所代表的理念，公司已用一个完全由人类制作的网站替换原来的版本，并强调场馆的核心理念是庆祝一切由人类亲手创造的事物。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/d3aa4ed4c3889cfe88463716b11b8e88f56747e1.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/5432b526-4282-41d5-8ac5-fc0ef36e11fe.jpg?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

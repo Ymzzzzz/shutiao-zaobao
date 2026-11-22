@@ -1,139 +1,215 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T07:25:46+08:00",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T07:24:28+08:00",
   "summary_mode": "ai",
   "top_items": [
-    "n3628ce26a797",
-    "ne1b0c4ede4d1",
-    "n565159543ba4"
+    "nde5cd1a6d51d",
+    "n26e2979e9c83",
+    "nf998155081c5"
   ],
   "items": [
     {
-      "id": "n653957d30389",
+      "id": "nde5cd1a6d51d",
       "category": "大模型与产品",
       "importance": 2,
-      "verified": false,
-      "title": "GPT-6.2 Astra具身成功率翻倍至41.2%",
-      "original_title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-      "summary": "机器人公司XDOF最新实测显示，GPT-6.2 Astra在Ember-0的16项双臂任务上综合成功率由GPT-6 Astra的19.6%升至41.2%，并首次完成打结和展开T恤。",
+      "verified": true,
+      "title": "OpenAI提议用困惑度衡量智能并设定发展上限",
+      "original_title": "Perplexity and Intelligence",
+      "summary": "OpenAI发文主张把预训练困惑度作为跨实验室比较模型和制定共同安全标准的指标，并建议在监测能力达到明确里程碑前，为行业设定基于该指标的发展上限，同时公布了内部数据。",
       "facts": [
         {
-          "text": "XDOF在Ember-0基准上用双臂机器人测试16项操作任务，GPT-6.2 Astra综合成功率由两个月前GPT-6 Astra的19.6%升至41.2%。",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511779.html"
+          "text": "OpenAI发表博文，主张把预训练阶段的困惑度或等价的交叉熵损失，作为比较不同实验室模型并制定共同安全标准的指标。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/perplexity-and-intelligence"
         },
         {
-          "text": "评测使用六台YAM工作站并行，每项任务重复30次，单日最多完成480场实测，并由人工标注子步骤、抓取失误与碰撞。",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511779.html"
+          "text": "博文披露，在其当前主要评估数据集上，GPT-3.5的对数困惑度约为0.99，GPT-4约为0.91；当损失降至0.8以下后，模型在网络安全和数学等领域出现了变革性能力。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/perplexity-and-intelligence"
         }
       ],
       "claims": [
         {
-          "text": "据OpenAI联合创始人兼总裁Greg Brockman称，GPT-6.2 Astra在机器人技术方面表现非常出色。",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511779.html"
+          "text": "据OpenAI称，公开内部困惑度测量可能让竞争对手更清楚自身位置，但建立全行业共同安全措施的紧迫性更为重要。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/perplexity-and-intelligence"
         },
         {
-          "text": "据XDOF称，Ember-0基准或不久后便会被模型能力饱和。",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511779.html"
+          "text": "据博文称，前沿开发者应共同约定基于困惑度及其他测量的发展上限，在理解和监测AI行为的能力达到明确里程碑前不得越过。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/perplexity-and-intelligence"
         }
       ],
       "analysis": [],
       "sources": [
         {
-          "name": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511779.html",
-          "is_primary": false,
-          "published_at": "2026-11-21T14:35:59+08:00"
-        },
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
-          "is_primary": false,
-          "published_at": "2026-11-21T21:32:35+08:00"
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "is_primary": true,
+          "published_at": "2026-11-22T08:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-21T14:35:59+08:00",
-      "updated_at": "2026-11-21T21:32:35+08:00",
+      "published_at": "2026-11-22T08:00:00+08:00",
+      "updated_at": "2026-11-22T08:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "GPT-6.2 Astra具身成功率翻倍至41.2%",
-      "lead_zh": "机器人公司XDOF最新实测显示，GPT-6.2 Astra在16项双臂操作任务上的综合成功率由两个月前GPT-6 Astra的19.6%升至41.2%，并首次完成打结和展开T恤。",
+      "title_zh": "OpenAI提议用困惑度衡量智能并设定发展上限",
+      "lead_zh": "OpenAI发文主张把预训练困惑度作为跨实验室比较与安全节奏的共同指标，并建议在监测能力达到明确里程碑前，为行业设定基于该指标的发展上限。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "机器人基础设施公司XDOF公布Ember-0实测：该基准用双臂机器人完成**16**项操作任务，覆盖空间推理、抓取、双臂协作、工具使用和柔性物体处理等。GPT-6.2 Astra的综合成功率（16项等权平均）由两个月前GPT-6 Astra的**19.6%**升至**41.2%**。",
-            "为保证评测严谨，XDOF以六台YAM工作站并行试验，每项任务重复**30**次，单日最多完成**480**场实测，并由人工标注子步骤、抓取失误与碰撞。该模型还完成了此前未有模型通关的打结和展开T恤；此前累计**143**次有效T恤展开测试均未成功。用夹子夹起面包的成功率由**10%**升至**90%**，平均预测延迟由**15**秒降至**10.1**秒。"
+            "OpenAI发表博文，主张把预训练阶段的困惑度（或等价的交叉熵损失）作为比较不同实验室模型、并据以制定共同安全标准的指标。困惑度衡量模型平均预测下一个token的能力，数值越低表示预测越好。",
+            "博文披露了OpenAI内部跟踪的对数困惑度：在其当前主要评估数据集上，GPT-3.5约为**0.99**，能进行流畅对话并成为ChatGPT的基础；GPT-4约为**0.91**，已能有效利用思维链推理。当损失降至**0.8**以下后，模型在网络安全和数学等领域出现了变革性能力。",
+            "博文还写道，当对数困惑度约到**0.76**时，模型开始在开放数学问题上给出突破性结果；按近期进展外推，进入约**0.68-0.7**窗口时还可能出现新的变革性能力，最快在**2027**年，预训练算法研究也可能出现类似的成果井喷。"
           ],
           "sources": [
-            "量子位"
+            "OpenAI News"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "OpenAI称，公开内部困惑度测量可能让竞争对手更清楚自身位置，但建立全行业共同安全措施的紧迫性更为重要，希望此举成为未来节奏安排的共同科学基础。博文提出，前沿实验室应共同约定基于困惑度及其他测量的发展上限，在监测能力达到明确里程碑（例如思维链监测的后继方案）之前不得越过该上限。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        }
+      ],
+      "image_url": "img/7da3cfa755eaa49d1d8bb8a70d3ea2547f5617cf.jpg",
+      "image_source": "OpenAI News",
+      "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
+      "fulltext_status": "ok",
+      "read_minutes": 7
+    },
+    {
+      "id": "nf998155081c5",
+      "category": "芯片与算力",
+      "importance": 2,
+      "verified": false,
+      "title": "马斯克预警明年AI行业或需额外数千亿美元",
+      "original_title": "马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入",
+      "summary": "Keras创始人弗朗索瓦·肖莱称GPU现货价格仍在上涨、存储产能已订到2029年，马斯克回应称，若设备从投入到稳定创收推迟数月，明年仅营运资金就可能还需数千亿美元。",
+      "facts": [
+        {
+          "text": "IT之家11月22日消息，Keras创始人弗朗索瓦·肖莱在X上发文讨论AI基建需求，称GPU现货价格仍在上涨，HBM和DRAM到2029年的产能基本已被订满，供应紧张或延续到2030年代。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/628.htm"
+        },
+        {
+          "text": "肖莱还写道，前沿模型的训练算力约每5个月翻一番，模型能力提升速度是推理模型出现前的两倍以上，AI推理业务的利润率可达70%至85%。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/628.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据弗朗索瓦·肖莱称，要么认为AI基建已经结束、算力需求见顶，要么这就是一次难得的买入机会。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/628.htm"
+        },
+        {
+          "text": "据马斯克称，让如此大规模的算力设备通电、冷却并稳定运行极其困难；若全行业从支付算力成本到设备稳定创收累计推迟数月，明年仅营运资金就可能需要额外投入数千亿美元。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/628.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/628.htm",
+          "is_primary": false,
+          "published_at": "2026-11-22T16:47:38+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T16:47:38+08:00",
+      "updated_at": "2026-11-22T16:47:38+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "马斯克预警明年AI行业或需额外数千亿美元",
+      "lead_zh": "Keras创始人弗朗索瓦·肖莱称算力需求仍在快速增长，马斯克回应称，若设备从投入到稳定创收推迟数月，明年仅营运资金就可能还需数千亿美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月22日消息，深度学习开源项目Keras创始人弗朗索瓦·肖莱在X上发文，讨论当前AI基础设施建设与算力需求。他提到，GPU现货价格仍在上涨，产能难以保障，HBM和DRAM到**2029**年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到**2030**年代。",
+            "肖莱还写道，前沿模型的训练算力约每**5**个月翻一番，模型能力提升速度是推理模型出现前的两倍以上；AI推理业务的利润率可达**70%**至**85%**，需求仍在快速增长，每一代新模型都会带来新的应用场景。"
+          ],
+          "sources": [
+            "IT之家"
           ]
         },
         {
           "kind": "claims",
           "heading": "各方怎么说",
           "paras": [
-            "据OpenAI联合创始人兼总裁Greg Brockman称，GPT-6.2 Astra在机器人技术方面表现非常出色。据XDOF称，Ember-0基准或不久后便会被模型能力饱和。据新加坡国立大学总统青年教授Jiafei Duan称，在他们做的真实机器人对比测试中，该模型一天内升至RoboColosseum的SO-101 Elo排名第一。"
+            "据肖莱称，要么认为AI基础设施建设已经结束、只是一场昙花一现的泡沫且算力需求已经见顶，要么这就是一次难得的买入机会。马斯克回复称，让如此大规模的算力设备通电、冷却并实现稳定运行极其困难；若全行业从支付算力成本到设备能够稳定创收的时间累计推迟数月，（人工智能行业）明年可能面临严重资金短缺，仅营运资金就可能需要额外投入数千亿美元。"
           ],
           "sources": [
-            "量子位"
+            "IT之家"
           ]
         }
       ],
-      "image_url": "",
-      "image_source": "",
-      "image_origin_url": "",
+      "image_url": "img/1e0573a4e940ca37869688b17d8148caa31a893d.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/140d06ad-8322-4de9-8630-f7b95456000a.jpg?x-bce-process=image/format,f_auto",
       "fulltext_status": "ok",
-      "read_minutes": 6
+      "read_minutes": 1
     },
     {
-      "id": "n3628ce26a797",
+      "id": "n26e2979e9c83",
       "category": "大模型与产品",
       "importance": 1,
       "verified": true,
-      "title": "AWS Quick升级流程编排与多代理协作",
-      "original_title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
-      "summary": "AWS更新工作场景AI工作区Quick：可在对话中搭建业务流程，升级网页端工作台，并让多个专业代理并行处理同一请求后合并答复，同时新接入Meta广告与Amplitude。",
+      "title": "AWS Quick上线Meta广告AI连接器",
+      "original_title": "Meta ads is now available in AWS Quick",
+      "summary": "AWS Quick新增Meta广告AI连接器，广告主可用自然语言创建、管理和分析广告活动，并把广告数据与一、三方数据结合生成报表和工作流。写操作需先获得用户许可。",
       "facts": [
         {
-          "text": "AWS为Quick增加在对话中生成并改进业务流程、升级网页应用、多代理编排，以及Meta广告和Amplitude连接器，并新支持日语、德语、简体和繁体中文及越南语。",
+          "text": "AWS Quick新增Meta广告AI连接器，可接入广告MCP服务器操作，让广告主在Quick中用自然语言创建、管理和分析广告活动，并保持与Meta广告管理网络的连接。",
           "source": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/"
+          "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/"
+        },
+        {
+          "text": "演示显示，用户可在Customize的Connectors中安装该连接器并用Facebook登录；其中一个示例提示会把过往活动结果做成8页发布计划幻灯片。连接器在创建活动、修改预算等写入操作前会先征求许可。",
+          "source": "AWS Machine Learning Blog",
+          "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/"
         }
       ],
       "claims": [
         {
-          "text": "据Pomelo数据负责人Rodrigo Marini称，在团队规模未扩大的情况下，每月使用数据的人数接近此前四倍，仅一个用例每月就节省80小时。",
+          "text": "据fal市场负责人Tina Sang称，该连接器让营销团队在一个地方完成从活动规划到执行，不必在多个工具间来回切换，还可把fal.ai的图像、音频和视频模型放进同一工作流。",
           "source": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/"
+          "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/"
         }
       ],
       "analysis": [],
       "sources": [
         {
           "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+          "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
           "is_primary": true,
-          "published_at": "2026-11-21T09:06:42+08:00"
+          "published_at": "2026-11-22T09:59:13+08:00"
         }
       ],
-      "published_at": "2026-11-21T09:06:42+08:00",
-      "updated_at": "2026-11-21T09:06:42+08:00",
+      "published_at": "2026-11-22T09:59:13+08:00",
+      "updated_at": "2026-11-22T09:59:13+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "AWS Quick升级流程编排与多代理协作",
-      "lead_zh": "AWS更新工作场景AI工作区Quick，支持在对话中搭建业务流程、升级网页端工作台，并可让多个专业代理并行处理同一请求后合并答复，同时新接入Meta广告与Amplitude。",
+      "title_zh": "AWS Quick上线Meta广告AI连接器",
+      "lead_zh": "AWS Quick新增Meta广告AI连接器，广告主可用自然语言创建、管理和分析广告活动，并把广告数据与一、三方数据结合生成报表和工作流。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "AWS宣布更新面向工作场景的AI工作区Quick。用户可在对话中描述业务流程，由Quick生成流程来编排代理、技能和工具，并新增确定性步骤，以支持更长流程和更大规模数据。更新后的网页应用会在首页展示待处理事项和每日简报，关闭标签页后任务仍可继续运行。",
-            "此次还加入多代理编排：多个专业代理可同时处理同一请求，再把结果合并为一条答复。新连接器可接入Meta广告和Amplitude，用自然语言查询并与其他数据源结合；对广告账户的创建活动、修改预算等写入操作会先征求用户许可。Quick网页端也可管理可复用技能，并新支持日语、德语、简体中文、繁体中文和越南语。"
+            "AWS Quick新增Meta广告AI连接器，可调用广告Model Context Protocol（MCP）服务器上的操作。Meta广告客户可在Quick中用自然语言创建、管理和分析广告活动，同时保持与Meta广告管理网络的连接，也可把广告数据与一、三方数据源结合，生成仪表盘、文档、幻灯片和自动化工作流。",
+            "博文演示了从Customize中的Connectors安装连接器、用Facebook登录，并选择Quick可访问的主页、商务账号和Instagram账号。其中一个示例提示把过往活动结果做成**8**页发布计划幻灯片，另一个则对比两个广告组的花费、线索和单条线索成本。连接器在创建活动、修改预算等写入操作前会先征求许可。Quick还提供首**3**个月免费试用，并可邀请最多**10**名同事。"
           ],
           "sources": [
             "AWS Machine Learning Blog"
@@ -143,327 +219,73 @@
           "kind": "claims",
           "heading": "客户怎么说",
           "paras": [
-            "据拉丁美洲金融科技公司Pomelo数据负责人Rodrigo Marini称，以往分析和自动化都依赖数据团队，如今各部门可在统一且受治理的环境中自行探索数据和搭建代理、流程；在团队规模未扩大的情况下，每月使用数据的人数接近此前的**四倍**，仅一个用例每月就节省**80**小时。"
+            "fal市场负责人Tina Sang称，通过Quick使用Meta广告AI连接器，能让营销团队在一个地方完成从活动规划到执行，直接依据业务洞察调整广告，减少拖慢进度的交接和工具切换；把fal.ai的图像、音频和视频模型放进同一工作流后，团队还可以测试更多创意。"
           ],
           "sources": [
             "AWS Machine Learning Blog"
           ]
         }
       ],
-      "image_url": "img/ad63503b82ec339377c3aa1f3a2424fcd73d7f65.jpg",
+      "image_url": "img/3e6a6e104471f1d042f90d93c9b36c6ea7213b41.jpg",
       "image_source": "AWS Machine Learning Blog",
-      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/20/ML-22322-featured-image.png",
+      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png",
       "fulltext_status": "ok",
-      "read_minutes": 10
+      "read_minutes": 3
     },
     {
-      "id": "ne1b0c4ede4d1",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": true,
-      "title": "AWS推出分布式KV缓存技能以降本延时",
-      "original_title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
-      "summary": "AWS在Agent Toolkit中推出分布式KV缓存技能，称结合Amazon ElastiCache可将自托管大模型推理成本最多降低40%，首个token时间最多缩短80%，并可用免费的KVTrace在部署前评估收益。",
-      "facts": [
-        {
-          "text": "AWS在Agent Toolkit for AWS中推出分布式KV缓存技能，可在Kiro、Claude Code、OpenAI Codex等支持Agent Skills的编程助手中评估并部署缓存。",
-          "source": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据AWS称，借助Amazon ElastiCache的分布式KV缓存，自托管大模型推理成本最多可降低40%，首个token时间最多可缩短80%。",
-          "source": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
-          "is_primary": true,
-          "published_at": "2026-11-21T08:14:26+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T08:14:26+08:00",
-      "updated_at": "2026-11-21T08:14:26+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "AWS推出分布式KV缓存技能以降本延时",
-      "lead_zh": "AWS推出分布式KV缓存技能，称结合ElastiCache可将自托管大模型推理成本最多降低40%，首个token时间最多缩短80%，并可用KVTrace预先评估收益。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "AWS介绍了Agent Toolkit for AWS中的分布式KV缓存技能：可在Kiro、Claude Code、OpenAI Codex等支持Agent Skills的编程助手里，先评估工作负载是否适合共享缓存，再协助搭建和排查。技能会为现有vLLM或SGLang引擎接入LMCache连接器，并在部署前清空本地缓存、核对两次缓存加载结果是否一致。",
-            "使用前提包括支持EFA RDMA写入的GPU实例（如p5），以及LMCache **0.5.8rc1**或更高版本、vLLM **0.11.1**或更高版本（或SGLang **0.5.13**及以上）。若要搭建缓存，需使用ElastiCache for Valkey **9.1**或更高版本，并采用cache.i8ge.48xlarge节点。AWS还提供免费的KVTrace工具，用自身模型和流量在部署基础设施前估算收益。"
-          ],
-          "sources": [
-            "AWS Machine Learning Blog"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "公司怎么说",
-          "paras": [
-            "据AWS称，自托管大模型时，各服务器上孤立的本地缓存难以复用跨会话、路由切换和故障转移后的上下文，GPU往往要重复计算KV注意力状态；借助Amazon ElastiCache的分布式KV缓存，推理成本最多可降低**40%**，首个token时间最多可缩短**80%**。"
-          ],
-          "sources": [
-            "AWS Machine Learning Blog"
-          ]
-        }
-      ],
-      "image_url": "img/fdcc39be3d94654799340abe936522f65d95e3e5.jpg",
-      "image_source": "AWS Machine Learning Blog",
-      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/20/ML-22449-featured-image.png",
-      "fulltext_status": "ok",
-      "read_minutes": 8
-    },
-    {
-      "id": "n565159543ba4",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": true,
-      "title": "Gemini任务可调用Duplex代打商家电话",
-      "original_title": "How Google Duplex evolved to also call businesses for you in Gemini",
-      "summary": "谷歌研究博客回顾Duplex近十年演进，并称已将代商家打电话的能力接入Gemini应用的任务功能，由Gemini 4 Hydrogen和Gemini 4 Neon等模型支持更完整的办事流程。",
-      "facts": [
-        {
-          "text": "谷歌把Duplex代打电话能力接入Gemini应用中的任务功能，并回顾其从封闭域模型、经LaMDA混合架构，到由Gemini统一多模态理解、规划和对话生成的演进。",
-          "source": "Google Research Blog",
-          "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据谷歌称，每通呼叫都会明确告知对方这是来自谷歌的自动化系统，商户可在Google商家资料中选择退出，或在通话中要求停止来电。",
-          "source": "Google Research Blog",
-          "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "Google Research Blog",
-          "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-          "is_primary": true,
-          "published_at": "2026-11-21T07:30:30+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T07:30:30+08:00",
-      "updated_at": "2026-11-21T07:30:30+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "Gemini任务可调用Duplex代打商家电话",
-      "lead_zh": "谷歌回顾Duplex近十年演进，并称已将代商家打电话的能力接入Gemini应用的任务功能，由Gemini 4 Hydrogen和Neon等模型支持更完整流程。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "谷歌研究博客回顾了Duplex代打电话技术的演进，并将其能力接入Gemini应用中的任务功能。文章把架构分成三代：早期在Transformer出现前，用封闭域循环网络处理订餐等窄任务；2022年Duplex曾在真实通话中使用LaMDA，并与确定性状态跟踪和策略护栏组成混合系统；随后改为用自由文本任务描述提示模型，以覆盖更多业务类别和约束条件。",
-            "现在的呼叫栈用Gemini统一多模态理解、规划和对话生成。文章还提到，2025年和2026年，基础模型已把代理式呼叫扩展到谷歌搜索和Ask Maps，用于查询报价、库存和营业情况。Gemini应用中的任务现可使用包括Gemini 4 Hydrogen和Gemini 4 Neon在内的模型，处理分析账单、经Agent Payments Protocol安全完成交易，以及通过电子邮件和RCS与用户协调等流程。"
-          ],
-          "sources": [
-            "Google Research Blog"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "公司怎么说",
-          "paras": [
-            "据谷歌称，每通呼叫都会明确告知对方这是来自谷歌的自动化系统；商户可在Google商家资料中选择退出，或在通话中说请停止呼叫我的商家。该服务无需商户安装软件或改用新的预订系统。谷歌还称，一次通话收集的信息可用于回答后续问题，并可能出现在谷歌地图的商家详情中，例如欢乐时光或是否允许携带宠物。"
-          ],
-          "sources": [
-            "Google Research Blog"
-          ]
-        }
-      ],
-      "image_url": "img/5381904a4d5e710308a31a2af84adfb26d288811.jpg",
-      "image_source": "Google Research Blog",
-      "image_origin_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Duplex1-TasksInGeminiHero.png",
-      "fulltext_status": "ok",
-      "read_minutes": 7
-    },
-    {
-      "id": "n668baa710142",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": true,
-      "title": "亚马逊为HyperPod的Slurm集群推出托管扩展",
-      "original_title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
-      "summary": "Amazon SageMaker HyperPod为Slurm集群推出托管集群扩展，可先通过API或控制台声明可观测性和用户管理等软件配置，由节点代理在各节点持续落地，并保留对节点的直接访问。",
-      "facts": [
-        {
-          "text": "SageMaker HyperPod在2026年11月推出集群扩展，先提供可观测性和用户管理（含目录集成），可通过API或SageMaker AI控制台安装、配置、更新和移除。",
-          "source": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据AWS称，扩展会在提交时校验配置，并在包括新节点和替换节点在内的所有节点上保持一致，同时用户仍可SSH登录并运行自有生命周期脚本。",
-          "source": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
-          "is_primary": true,
-          "published_at": "2026-11-21T07:07:03+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T07:07:03+08:00",
-      "updated_at": "2026-11-21T07:07:03+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "亚马逊为HyperPod的Slurm集群推出托管扩展",
-      "lead_zh": "Amazon SageMaker HyperPod为Slurm集群推出托管扩展，可先通过API或控制台声明可观测性和用户管理等软件配置，由节点代理持续落地，并保留对节点的直接访问。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "Amazon SageMaker HyperPod在**2026**年**11**月推出集群扩展，把运行在Slurm节点上的软件和设置也纳入声明式管理。首批托管扩展覆盖可观测性和用户管理（含目录集成），可通过API或Amazon SageMaker AI控制台安装、配置、更新和移除。要使用该能力，需调用UpdateClusterSoftware，将集群升级到**2026**年**11**月的HyperPod AMI或更高版本。",
-            "AWS介绍，2026年已为集群定义、节点设置、容量、网络拓扑和硬件健康等层提供API化配置、基于AMI的安装、持续供给和自动拓扑管理等。在Slurm **25.11**或更高版本上，还可按分区设置树状或块状拓扑；按需深度健康检查可对GPU施压并测试NCCL连通性。管理员仍可SSH进入包括控制器节点在内的所有节点，并继续运行自有生命周期脚本。"
-          ],
-          "sources": [
-            "AWS Machine Learning Blog"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "公司怎么说",
-          "paras": [
-            "据AWS称，扩展配置会在提交时校验，由节点代理应用到每个节点（包括新建和替换的节点），并通过健康探针回报状态；与自定义脚本相比，这样更易保持一致、减少漂移，同时仍由用户决定API管理与直接访问之间的平衡。"
-          ],
-          "sources": [
-            "AWS Machine Learning Blog"
-          ]
-        }
-      ],
-      "image_url": "img/2801beb2966c037d5a1391d4323d905486c067ba.jpg",
-      "image_source": "AWS Machine Learning Blog",
-      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/20/l-ml-22428.png",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n5259c7996b79",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": true,
-      "title": "亚马逊推出可跨区域调度的HyperPod推理网关",
-      "original_title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
-      "summary": "Amazon SageMaker HyperPod推出全局推理网关，用一个托管端点在同一区域或跨区域的多个集群间路由请求，自动故障转移，并以SigV4和IAM经PrivateLink鉴权。",
-      "facts": [
-        {
-          "text": "SageMaker HyperPod新增全局推理网关，可把已注册的各集群接到一个托管端点，在区域内或跨区域选择集群并自动故障转移，请求经SigV4、IAM和PrivateLink传输。",
-          "source": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据AWS称，集群内部仍由原有推理网关按KV缓存利用率和队列深度等信号选择模型Pod，全局网关负责在集群之间做第二层调度。",
-          "source": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "AWS Machine Learning Blog",
-          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
-          "is_primary": true,
-          "published_at": "2026-11-21T06:35:24+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T06:35:24+08:00",
-      "updated_at": "2026-11-21T06:35:24+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "亚马逊推出可跨区域调度的HyperPod推理网关",
-      "lead_zh": "Amazon SageMaker HyperPod推出全局推理网关，用一个托管端点在同一或跨区域的多个集群间路由请求，可自动故障转移，并以SigV4和IAM鉴权。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "Amazon SageMaker HyperPod推出全局推理网关：把已注册的多个集群接到一个托管端点，可在同一区域或跨区域选择目标集群，经AWS骨干网和PrivateLink转发请求，并提供自动故障转移。调用需用SigV4签名和IAM授权，网关会在请求进入任何集群前检查签名、权限和速率限制。接口兼容OpenAI格式。",
-            "用户可用四项路由权重（取值0.0到1.0，设为0即关闭该信号）决定各指标的权重；若自行设置，必须四项都填且总和为**1.0**，省略则使用默认值。默认更偏向靠近网关所在区域的集群，同时会把流量导向仍有余量、远离故障较多的集群。各集群内部仍由原有推理网关把请求分配到具体模型Pod。"
-          ],
-          "sources": [
-            "AWS Machine Learning Blog"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "公司怎么说",
-          "paras": [
-            "据AWS称，若没有该网关，客户端需要自己选择集群；以四个模型、两个区域的五个集群为例，在没有集群级推理网关时最多要面对**20**个端点，有了集群级网关后仍剩五个端点，全局网关则把入口收成一个，并避免请求在已饱和集群排队、而其他区域GPU闲置的情况。"
-          ],
-          "sources": [
-            "AWS Machine Learning Blog"
-          ]
-        }
-      ],
-      "image_url": "img/a86784260eee6cee4ff57079a732593961aca95d.jpg",
-      "image_source": "AWS Machine Learning Blog",
-      "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/20/ML-22376-featured-image-1.png",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "nf3487ac9886e",
+      "id": "n05744626c0d6",
       "category": "行业动态",
       "importance": 1,
       "verified": false,
-      "title": "Signal限制手机端截屏以防AI监视",
-      "original_title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "summary": "Signal宣布在安卓和iOS应用中限制截屏，总裁Meredith Whittaker称操作系统级智能体正在扫描屏幕内容，对加密通讯构成生存性威胁；用户仍可关闭该限制。",
+      "title": "OpenAI首席科学家建议用困惑度限制发展速度",
+      "original_title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "TechCrunch报道，OpenAI首席科学家Jakub Pachocki发文主张用困惑度衡量智能进展，以便行业约定共同发展上限，在监测能力达到明确里程碑前不得越过。",
       "facts": [
         {
-          "text": "Signal周五宣布在安卓和iOS应用中限制截屏，该限制此前已在Windows应用中默认启用，用户仍可自行关闭。",
+          "text": "TechCrunch报道，OpenAI首席科学家Jakub Pachocki发表博文，讨论如何为AI发展设定限制，并把困惑度作为衡量进展的核心指标。",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        },
+        {
+          "text": "文章援引博文数据称，GPT-4的对数困惑度约为0.91，当损失降至0.8以下后，模型在网络安全和数学等领域出现了变革性能力。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
         }
       ],
       "claims": [
         {
-          "text": "据Signal总裁Meredith Whittaker称，Windows、安卓和macOS/iOS正在让AI智能体扫描屏幕信息，削弱了Signal独立保证隐私的能力。",
+          "text": "据Sam Altman称，这是OpenAI一段时间以来发表的最重要内容。",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        },
+        {
+          "text": "据Pachocki称，关注下游能力的基准会很快过时，困惑度能提供关于通用智能的共同标尺，公司应承诺在监测能力达到明确里程碑前不越过特定阈值。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
         }
       ],
       "analysis": [],
       "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
           "is_primary": false,
-          "published_at": "2026-11-22T05:37:10+08:00"
+          "published_at": "2026-11-23T05:14:07+08:00"
         }
       ],
-      "published_at": "2026-11-22T05:37:10+08:00",
-      "updated_at": "2026-11-22T05:37:10+08:00",
+      "published_at": "2026-11-23T05:14:07+08:00",
+      "updated_at": "2026-11-23T05:14:07+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "Signal限制手机端截屏以防AI监视",
-      "lead_zh": "Signal宣布在安卓和iOS应用中限制截屏，总裁Meredith Whittaker将操作系统级智能体扫描屏幕称为生存性威胁；用户仍可关闭该限制，但她也承认这只是不完整的办法。",
+      "title_zh": "OpenAI首席科学家建议用困惑度限制发展速度",
+      "lead_zh": "OpenAI首席科学家Jakub Pachocki发文主张用困惑度衡量智能进展，以便行业约定共同发展上限，在监测能力达到明确里程碑前不得越过。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "加密通讯应用Signal周五宣布，将限制用户在其安卓和iOS应用内截屏。该公司此前已在Windows应用中默认阻止截屏，此次把类似限制扩展到移动端。用户若愿意，仍可自行关闭这一设置。",
-            "总裁Meredith Whittaker将此举与操作系统集成代理式AI联系起来，称这是对隐私的“生存性威胁”。她也承认，这一做法并不完整，因为它没有解决AI智能体以更隐蔽方式访问应用数据的其他途径。"
+            "TechCrunch报道，OpenAI首席科学家Jakub Pachocki发表新博文，讨论如何为AI发展设定限制，并把名为困惑度的指标作为衡量速度的关键。报道称，放缓AI发展的讨论在一名前OpenAI和Anthropic研究员发出警告，以及Anthropic上市文件提到技术可能带来灾难性或生存风险后升温。",
+            "文章还提到，Anthropic首席执行官Dario Amodei随后公布了“为前沿发展定节奏”的计划，并呼吁公司同意共同安全标准，以及对不受约束的AI进展速度设限。为了设定速度上限，首先需要就如何衡量速度达成一致。Pachocki的博文给出了自GPT-3.5以来的困惑度变化图，其中GPT-4约为**0.91**，损失低于**0.8**后出现网络安全和数学等领域的变革性能力。"
           ],
           "sources": [
             "TechCrunch"
@@ -471,9 +293,9 @@
         },
         {
           "kind": "claims",
-          "heading": "公司怎么说",
+          "heading": "各方怎么说",
           "paras": [
-            "据Signal总裁Meredith Whittaker称，Windows、安卓和macOS/iOS正让AI智能体扫描用户屏幕上的信息，从而削弱Signal独立保证隐私的能力。她说，为了提供代理式AI能力，敏感数据正被捕捉、存储，并提供给操作系统级智能体当时使用的本地数据库或远程服务器；一旦数据被截取，便超出Signal的控制，并危及对话中所有参与者的隐私。她还称，关闭该限制会打破其隐私保证。"
+            "据OpenAI首席执行官Sam Altman称，这是OpenAI一段时间以来发表的最重要内容。Pachocki认为，关注下游能力的基准会很快过时，而困惑度衡量模型平均预测下一个token的能力，一直更具参考价值，可成为通用智能的共同标尺；各公司应承诺在理解和监测AI行为的能力达到明确里程碑前，不越过特定阈值。"
           ],
           "sources": [
             "TechCrunch"
@@ -487,49 +309,54 @@
       "read_minutes": 0
     },
     {
-      "id": "na1abc1ba2744",
-      "category": "行业动态",
+      "id": "nbed82431ae1f",
+      "category": "芯片与算力",
       "importance": 1,
       "verified": false,
-      "title": "英伟达财报与呼吁黄仁勋回归的声音并存",
-      "original_title": "A tale of two Nvidias",
-      "summary": "TechCrunch播客讨论英伟达最新财报与外界呼吁前CEO黄仁勋回归并存的局面。现任管理层称暂无请其回归的计划，代理CEO并表示将停止向中国销售H200芯片。",
+      "title": "记者新书探讨数据中心为何成为科技反弹焦点",
+      "original_title": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "记者Paris Marx在新书《Hyperscale》中走访超大规模数据中心，并在TechCrunch采访中称这轮建设不可持续，会直接影响电费、用水和噪音，因而成为跨党派争议焦点。",
       "facts": [
         {
-          "text": "TechCrunch的Equity播客讨论英伟达最新财报与呼吁黄仁勋回归同时出现的局面；现任管理层称没有请其回归的计划，代理CEO Colette Kress称将不再向中国销售H200芯片。",
+          "text": "记者Paris Marx在新书《Hyperscale》中调查数据中心和生成式AI的影响，并接受TechCrunch采访，讲述他走访数据中心的经历。",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+        },
+        {
+          "text": "Marx曾联系多家公司申请进入机房，常得不到回复或被拒绝，后来在新西兰进入一座数据中心参观；他此前还在北弗吉尼亚和爱尔兰等地从外部观察过相关设施。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
         }
       ],
       "claims": [
         {
-          "text": "据代理CEO Colette Kress称，英伟达将不再在中国销售H200芯片，这一表态也与美国收紧远程调用相关算力的限制相吻合。",
+          "text": "据Marx称，这轮数据中心扩张从根本上不可持续，也与宜居星球完全不相称，而且无论政治立场如何，社区都可能在生活质量、电费、用水和噪音上感受到影响。",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
         }
       ],
       "analysis": [],
       "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
           "is_primary": false,
-          "published_at": "2026-11-22T05:07:42+08:00"
+          "published_at": "2026-11-23T02:08:43+08:00"
         }
       ],
-      "published_at": "2026-11-22T05:07:42+08:00",
-      "updated_at": "2026-11-22T05:07:42+08:00",
+      "published_at": "2026-11-23T02:08:43+08:00",
+      "updated_at": "2026-11-23T02:08:43+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "英伟达财报与呼吁黄仁勋回归的声音并存",
-      "lead_zh": "TechCrunch播客讨论英伟达最新财报与外界呼吁前CEO黄仁勋回归并存的局面。现任管理层称暂无请其回归的计划，代理CEO表示将停止向中国销售H200芯片。",
+      "title_zh": "记者新书探讨数据中心为何成为科技反弹焦点",
+      "lead_zh": "记者Paris Marx在新书《Hyperscale》中走访超大规模数据中心，并在采访中称这轮建设不可持续，会直接影响电费、用水和噪音，因而成为跨党派争议焦点。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "TechCrunch在Equity播客中讨论英伟达出现的两种叙事：一边是最新财报显示营收强劲，现任管理层向投资者表示局面仍在掌控，并称没有请前CEO黄仁勋回归的计划；另一边则有马斯克等人公开推动其回归，并流传请愿，黄仁勋本人也表示已做好回来的准备。节目还提到公司股价下跌，显示市场并未完全安心。",
-            "播客还谈到对华销售。代理CEO Colette Kress称，英伟达将不再在中国销售H200芯片。嘉宾提到，此前有数据中心设在马来西亚等地、再由中国境内公司远程调用芯片的做法，也正被收紧。节目还提到，批评者估计英伟达约**20%**的业务来自中国。"
+            "记者Paris Marx在新书《Hyperscale》中调查数据中心和生成式AI的影响，既写设施内部情形，也解释这套可追溯数十年的计算基础设施近来为何变成政治地雷。他接受TechCrunch采访时谈到，在生成式AI带来更多关注之前，研究人员进入数据中心相对更容易。",
+            "Marx曾发邮件向多家公司申请进入机房，常常得不到回复，或直接被拒绝。在北弗吉尼亚和爱尔兰等地从外部观察过一些设施后，他前往新西兰，最终走进一座数据中心。令他印象最深的是安检程度：除了围栏和监控，他还需要提前提交护照，到场后再核验。"
           ],
           "sources": [
             "TechCrunch"
@@ -537,593 +364,1018 @@
         },
         {
           "kind": "claims",
-          "heading": "公司怎么说",
+          "heading": "作者怎么说",
           "paras": [
-            "据英伟达现任管理层称，公司没有请黄仁勋回归的计划，并认为自身能够应对当前局面。据代理CEO Colette Kress称，英伟达将停止向中国销售H200芯片。"
+            "据Marx称，这轮数据中心扩张从根本上不可持续，也与宜居星球完全不相称；设施建在社区里非常具体、可见，无论政治立场如何，人们都可能在生活质量、电费、用水，以及屋顶空调的噪音上感受到影响。他还认为，对数据中心的反对只是更广泛运动中最显眼的一部分，对象还包括美国各地铺开的Flock摄像头、Meta智能眼镜，以及Waymo正在推出的自动驾驶汽车。"
           ],
           "sources": [
             "TechCrunch"
           ]
         }
       ],
-      "image_url": "img/dadce7808c7133e7c725e6b5563e279277e880df.jpg",
+      "image_url": "img/3cc0516ee393899ed3e82a7b95c1323dbff38353.jpg",
       "image_source": "TechCrunch",
-      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
       "fulltext_status": "",
       "read_minutes": 0
     },
     {
-      "id": "n2cb10b95a79b",
+      "id": "n10b966779bbd",
       "category": "行业动态",
       "importance": 1,
       "verified": false,
-      "title": "联合国未能就自主武器规则达成一致",
-      "original_title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "summary": "联合国在日内瓦讨论自主武器规则一周后，各国仅同意开始讨论可选方案。红十字国际委员会曾呼吁一年内拟定有法律约束力的规则，最终达成的妥协则是用两年时间提出监管建议。",
+      "title": "《以撒的结合》更新移除AI生成配乐",
+      "original_title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summary": "《以撒的结合：忏悔Plus》因一段恶搞GTA的配乐被发现含Suno生成痕迹，在Steam遭遇差评轰炸。制作人道歉后，开发商Nicalis已在数小时内移除相关文件。",
       "facts": [
         {
-          "text": "联合国外交官在日内瓦讨论自主武器规则一周后未能达成实质协议，最终同意开始讨论方案；妥协是各国有两年时间提出监管建议，且部分规则可能仍是可选的。",
+          "text": "《以撒的结合：忏悔Plus》因一段恶搞侠盗猎车手的配乐被发现含有Suno元数据，近日在Steam遭遇差评轰炸。",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+        },
+        {
+          "text": "发现相关音频后数小时内，开发商Nicalis在X上表示游戏已更新并移除这些生成音乐文件。该作在Steam上仍被评为“差评如潮”。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
         }
       ],
       "claims": [
         {
-          "text": "据NPR称，俄罗斯、以色列和美国是主要阻碍，美国还曾提议用五年时间讨论不具约束力、可选的指导原则。",
+          "text": "据制作人Edmund McMillen称，他并不知道游戏中这段侠盗猎车手恶搞使用了生成式AI音乐，并为此道歉。",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
         }
       ],
       "analysis": [],
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
           "is_primary": false,
-          "published_at": "2026-11-22T04:03:37+08:00"
+          "published_at": "2026-11-23T01:25:20+08:00"
         }
       ],
-      "published_at": "2026-11-22T04:03:37+08:00",
-      "updated_at": "2026-11-22T04:03:37+08:00",
+      "published_at": "2026-11-23T01:25:20+08:00",
+      "updated_at": "2026-11-23T01:25:20+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "联合国未能就自主武器规则达成一致",
-      "lead_zh": "联合国在日内瓦讨论自主武器规则一周后，各国仅同意开始讨论方案。红十字国际委员会曾呼吁一年内拟定有约束力的规则，最终妥协为两年提出监管建议。",
+      "title_zh": "《以撒的结合》更新移除AI生成配乐",
+      "lead_zh": "《以撒的结合：忏悔Plus》因一段恶搞GTA的配乐被发现含Suno生成痕迹而在Steam遭遇差评轰炸，制作人道歉后开发商已在数小时内移除相关文件。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "联合国外交官本周在日内瓦讨论自主武器（常被称为“杀手机器人”）规则，一周谈判后未能达成实质协议，代表们离开时仅同意“开始讨论方案”。红十字国际委员会在会前表示，应在一年内起草有法律约束力的规则，这一呼吁得到联合国秘书长和教宗良的支持。",
-            "最终妥协是各国有**两年**时间提出监管建议，后续就采用和执行哪些规则的谈判料将更久；协议还为部分尚未通过的规则保留“可选”空间。人道组织和部分国家认为，半自主武器和无人机已在乌克兰、加沙和苏丹等冲突中造成大量平民死亡，因此需要尽快制定有约束力的规则。"
+            "《以撒的结合：忏悔Plus》近日在Steam遭遇差评轰炸。Reddit用户ShweetsStuff发现，游戏中一段恶搞侠盗猎车手的内容使用了带有Suno元数据的音频文件，并能对应到Suno网站上的曲目。Valve要求开发者披露在开发过程中如何、何时使用生成式AI，而该作开发商Nicalis, Inc.似乎并未提及这些AI音乐。",
+            "相关发现曝光后数小时内，Nicalis在X上表示，《忏悔Plus》已完成更新，并移除了这些生成音乐文件。报道称，尽管Steam评价尚未回升，该作仍被评为“差评如潮”，但X上一些用户倾向相信制作人Edmund McMillen的解释，因他曾在**2024**年的TikTok中称AI用于游戏开发“缺乏灵感、枯燥乏味”。"
           ],
           "sources": [
             "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "制作人怎么说",
+          "paras": [
+            "据制作人Edmund McMillen在X上称，他并不知道游戏中这段侠盗猎车手恶搞使用了生成式AI音乐，并为此道歉。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/a7e5fc8662beaf4fdde4bb5e6fbfb68cea0b54d9.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nb176313cbddf",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "初创公司公布AI自研CPU能效达对照的4.59倍",
+      "original_title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
+      "summary": "加州Architect Labs称其AI系统自主设计出通用CPU架构Frostbite，在25项负载的模拟测试中，4个计算单元集群的每瓦性能达到对照核心的4.59倍，但该设计尚未流片。",
+      "facts": [
+        {
+          "text": "帕洛阿尔托初创公司Architect Labs宣布，其AI系统自主发现、设计并验证了一款名为Frostbite的通用CPU，采用全新指令集，但目前仍是基于7纳米工艺的模拟设计，尚未流片。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/717.htm"
+        },
+        {
+          "text": "在25项工作负载测试中，由4个计算单元组成的Frostbite集群，每瓦性能达到一款尺寸相近、已完成硅验证的双发射顺序执行CPU核心的4.59倍，单位面积性能则为8.77倍。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/717.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Architect Labs称，参与设计的AI系统最初没有采用任何预设的处理器架构理念，公司将这种状态称为“零架构先验”。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/717.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/717.htm",
+          "is_primary": false,
+          "published_at": "2026-11-22T23:15:55+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T23:15:55+08:00",
+      "updated_at": "2026-11-22T23:15:55+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "初创公司公布AI自研CPU能效达对照的4.59倍",
+      "lead_zh": "加州Architect Labs称其AI系统自主设计出通用CPU架构Frostbite，在25项负载的模拟测试中，4个计算单元集群的每瓦性能达到对照核心的4.59倍，但尚未流片。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "美国加州帕洛阿尔托初创公司Architect Labs在研究博客中宣布，其人工智能系统已自主发现、设计并验证了一款名为Frostbite的通用CPU。该处理器采用全新指令集，从底层重新设计。在**25**项工作负载测试中，由**4**个计算单元组成的集群，每瓦性能达到一款尺寸相近、已完成硅验证的双发射顺序执行CPU核心的**4.59**倍，单位面积性能则为**8.77**倍。",
+            "这些数据来自基于**7**纳米工艺的模拟设计，Frostbite尚未真正流片。完整设计包含**16**个计算单元，测试用的是**4**个单元加**4**个三级缓存节点的集群；早期综合阶段频率一度达到**800MHz**，最终布局降至**500MHz**。因法律原因，公司暂未公开对照核心的型号。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Architect Labs称，参与设计的AI系统最初没有采用任何预设的处理器架构理念，这种状态被称为“零架构先验”。多个AI智能体阅读论文和测试资料后建立Python模型，最初设计文档长达**141**页，但第一版寄存器传输级设计生成后即被删除，因为其中许多数字与物理实现相差甚远。随后AI改用公司自研硬件描述语言ASL编写规格，并可转为Lean形式化表达接受机器验证。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/9f0614f1d23917f23d47d82564fb62c02f5cc7cf.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/d33e2bfd-739b-4bbc-abcf-95c44a003b24.jpg?x-bce-process=image/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nea4ec8bb42c1",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "模拟职场中AI编程智能体完整完成不足一成任务",
+      "original_title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "summary": "一项新实验把AI编程智能体放入模拟软件公司，使其面对同事、项目看板和聊天记录。即便是Claude Opus 5.5和GPT-6 Astra，完整完成的任务也不足十分之一。",
+      "facts": [
+        {
+          "text": "一项新实验首次把AI编程智能体作为数字员工放入模拟软件公司，使其面对同事、项目看板和聊天记录；即便是Claude Opus 5.5和GPT-6 Astra，完整完成的任务也不足十分之一。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/"
+        },
+        {
+          "text": "报道称，这些模型在标准基准上已接近高分，能够较快完成清晰、独立的任务，但作为自主开发者会跟丢进度。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Anthropic称，Claude已编写该公司超过80%的生产代码；同时，SWE-bench等标准基准已接近饱和。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+          "is_primary": false,
+          "published_at": "2026-11-22T23:15:48+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T23:15:48+08:00",
+      "updated_at": "2026-11-22T23:15:48+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "模拟职场中AI编程智能体完整完成不足一成任务",
+      "lead_zh": "一项新实验把AI编程智能体放入模拟软件公司，即使是Claude Opus 5.5和GPT-6 Astra，完整完成的任务也不足十分之一。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "AI编程智能体在标准基准上已接近高分。一项新实验首次把它们作为数字员工放入模拟软件公司，环境中有同事、项目看板、聊天记录以及不完整的交接，要求它们持续开发软件并可靠地关闭未完成工单。即便是Claude Opus 5.5和GPT-6 Astra，完整完成的任务也不足十分之一。",
+            "报道还写道，这些模型能较快完成清晰、独立的任务，但作为自主开发者会跟丢进度；实验把它们放进凌乱的日常流程，要求持续开发软件并可靠地关闭未完成工单。与此同时，业界关于编程智能体的成功故事仍在增加，SWE-bench等标准基准已接近饱和。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Anthropic称，Claude已编写该公司超过**80%**的生产代码。报道引用这一说法，是为了对照标准基准上的高分与模拟职场中不足一成的完整完成率。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/e94777345e4549ef463098cac22c3be46d6c43b5.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/cowork-benchmark-chatgpt-5-6.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "neb129520dd79",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "甲骨文称已筹齐履行OpenAI合同所需全部资金",
+      "original_title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
+      "summary": "甲骨文本月20日表示，已在本月初筹集到履行与OpenAI交易所需的全部资金，并称得州阿比林园区已用于GPT-6 Astra训练且接近完工，与供应商的进一步私下讨论仅为补充选项。",
+      "facts": [
+        {
+          "text": "甲骨文本月20日表示，已在本月初筹集到履行与OpenAI交易所需的全部资金，与供应商进行的任何进一步私下讨论仅为补充选项。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/715.htm"
+        },
+        {
+          "text": "该公司称，位于美国得克萨斯州阿比林的园区已用于GPT-6 Astra训练并接近完工，下一个吉瓦级项目Shackelford已获得所有许可，NVIDIA Vera Rubin机架交付预计将在未来几周内完成。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/715.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据甲骨文称，仍预计可在FY2028下半年实现正的自由现金流，目标是在FY2029实现超过300亿美元的自由现金流，并自那时起依靠自有资金支持未来增长。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/715.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/715.htm",
+          "is_primary": false,
+          "published_at": "2026-11-22T22:24:17+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T22:24:17+08:00",
+      "updated_at": "2026-11-22T22:24:17+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "甲骨文称已筹齐履行OpenAI合同所需全部资金",
+      "lead_zh": "甲骨文本月20日表示，已在本月初筹集到履行与OpenAI交易所需的全部资金，并称得州阿比林园区已用于GPT-6 Astra训练且接近完工。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月22日消息，甲骨文本月**20**日表示，该企业已在本月初筹集到履行与OpenAI交易所需的全部资金，与供应商进行的任何进一步私下讨论仅为补充选项。",
+            "甲骨文称，其与OpenAI在AI基础设施合作方面进展迅速：位于美国得克萨斯州阿比林的园区已用于GPT-6 Astra的训练，整体接近完工；下一个吉瓦级项目Shackelford已获得所有许可；NVIDIA Vera Rubin机架交付工作正按计划进行，预计将在未来几周内完成。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据甲骨文称，该企业仍预计可在FY2028下半年实现正的自由现金流，目标是在FY2029实现超过**300**亿美元的自由现金流（IT之家注：按当时汇率约合**2008**亿元人民币），并预计从那时起能够依靠自有资金支持未来增长。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/af592220c8681b9816308a8604bd1d33a6d0d912.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/5484c5f8-414f-4b1a-b8a2-d2c006e8ecb2.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n141d3e3e6383",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Perplexity推出定时监控网页变化的Monitor API",
+      "original_title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "summary": "Perplexity发布Monitor API，可按计划检索网页，并仅在出现相关变化时通过webhook通知应用和智能体。网页监控按每千次成功运行1美元计费，页面监控按每千次抓取1美元计费。",
+      "facts": [
+        {
+          "text": "Perplexity推出Monitor API，可按计划检索网页，并仅在出现相关变化时通过签名webhook通知应用和智能体，现已可通过API和控制台使用，密钥与Search、Context和Agent API相同。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/"
+        },
+        {
+          "text": "该API有两种模式：网页监控按查询定期检索；页面监控最多跟踪10个页面，首次运行会保存基线，之后返回文本差异。运行周期从每15分钟到每周，也可使用自定义cron。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Perplexity称，若由工程团队自行反复检索并去重，在成百上千个主题和页面上几乎难以维持。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/"
+        },
+        {
+          "text": "据Perplexity称，在针对60个真实检索主题的内部测试前8小时里，其接口送出63个新的相关页面，Firecrawl为20个，Exa为15个，Parallel的两个版本各为10个。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+          "is_primary": false,
+          "published_at": "2026-11-22T22:20:28+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T22:20:28+08:00",
+      "updated_at": "2026-11-22T22:20:28+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Perplexity推出定时监控网页变化的Monitor API",
+      "lead_zh": "Perplexity发布Monitor API，可按计划检索网页并仅在出现相关变化时通过webhook通知智能体，网页监控按每千次成功运行1美元计费。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Perplexity推出Monitor API，按计划检索网页，并仅在出现相关变化时通过签名webhook向应用和智能体发送更新；暂时失败后会自动重试。该API现可通过接口和控制台使用，密钥与Search、Context和Agent API相同。网页监控每次成功运行收费**1**美元/千次，页面监控按抓取URL收费**1**美元/千次。",
+            "接口有两种模式：网页监控按查询定期检索；页面监控最多跟踪**10**个页面，首次运行会保存基线，之后返回文本差异。监控周期从每**15**分钟到每周，也可使用自定义cron。Perplexity会用自有决策模型，按开发者用自然语言设定的目标，从相关性、来源可信度、新颖性和时效性等角度过滤结果，只有通过全部阈值才发送带置信度的更新。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Perplexity称，若由工程团队自行反复检索并维护去重和变化检测代码，在成百上千个主题和页面上几乎难以维持。公司还称，在针对**60**个真实检索主题的内部测试前**8**小时里，其接口送出**63**个新的相关页面，Firecrawl为**20**个，Exa为**15**个，Parallel的两个版本各为**10**个，并强调这些只是早期内部结果。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n08852684bfc2",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "消息称AI服务器交付前涨价最高达45%",
+      "original_title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
+      "summary": "金融时报援引知情人士称，戴尔、HPE、联想和超微等厂商在合同签订数月后、设备交付前大幅上调英伟达AI服务器价格，涨幅可达25%至45%，内存成本自2024年初以来已上涨超过400%。",
+      "facts": [
+        {
+          "text": "金融时报报道，戴尔、慧与、联想和超微等厂商在与自建数据中心客户签约数月后，于设备交付前大幅上调搭载英伟达芯片的AI服务器价格。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/713.htm"
+        },
+        {
+          "text": "今年6月，XTX在爱尔兰法院起诉戴尔。法庭文件显示，双方曾商定5.49亿美元的固定价格，XTX还额外支付500万美元以锁定价格，但戴尔后来要求至少再支付6200万至7000万美元，该案仍在审理。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/713.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据知情人士称，遇到25%、30%甚至45%的涨价确实令人不安，提前数月敲定的初始价格与最终付款之间存在巨大落差。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/713.htm"
+        },
+        {
+          "text": "据摩根大通研究称，价格上涨主要是由于科技公司转嫁了飙升的内存成本，自2024年初以来内存成本已上涨超过400%。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/713.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/713.htm",
+          "is_primary": false,
+          "published_at": "2026-11-22T22:00:48+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T22:00:48+08:00",
+      "updated_at": "2026-11-22T22:00:48+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "消息称AI服务器交付前涨价最高达45%",
+      "lead_zh": "金融时报援引知情人士称，戴尔、HPE、联想和超微等厂商在合同签订数月后、设备交付前大幅上调英伟达AI服务器价格，涨幅可达25%至45%。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家援引金融时报报道称，随着人工智能基础设施成本飙升并向下游传导，戴尔、慧与科技、联想和超微电脑等供应商，在与自建数据中心客户签约数月后，于设备交付前大幅上调搭载英伟达芯片的人工智能服务器价格。此类交易通常在交付前很早就已达成协议。",
+            "今年**6**月，英国交易公司XTX在爱尔兰法院起诉戴尔。法庭文件显示，双方曾就服务器商定**5.49**亿美元的固定价格，XTX还额外支付**500**万美元以“确保价格确定性”，但戴尔后来表示组件价格已上涨，XTX必须至少再支付**6200**万至**7000**万美元才能获得这些服务器。该案仍在审理中。"
+          ],
+          "sources": [
+            "IT之家"
           ]
         },
         {
           "kind": "claims",
           "heading": "各方怎么说",
           "paras": [
-            "据NPR称，俄罗斯、以色列和美国是主要阻碍：会议首日俄罗斯曾反对议程、拖延进程；美国则提议用**五年**时间讨论不具约束力、可选的指导原则。"
+            "据知情人士称，遇到**25%**、**30%**甚至**45%**的涨价确实令人不安，提前数月敲定的初始价格与最终付款之间存在巨大落差；但这些买家也表示“从来没说过不”，因为算力至关重要。据摩根大通的研究，涨价主要是由于科技公司转嫁内存成本，自**2024**年初以来内存成本已上涨超过**400%**。戴尔在法庭文件中称，因内存价格上涨，它无法消化增加的成本。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nb014e723007f",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "METR警告模型进步快过安全评估能力",
+      "original_title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "summary": "研究机构METR称，前沿模型在研究任务上迅速变强且更难测量。现有公开数据无法排除未来数年人工智能研究出现急剧加速，那可能使人难以评估新系统带来的灾难性风险，并就此发出警告。",
+      "facts": [
+        {
+          "text": "METR发现，在有直接反馈、定义清晰的编程和计算任务上，模型多数时候已胜过有经验的专业人士，但尚未胜过由顶尖专家组成的大团队。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/"
+        },
+        {
+          "text": "对耗时更长的任务，模型能够处理的任务时长每3.6个月翻一番；按METR数据做简单外推，到2027年7月，模型在最长的200小时任务上可能达到50%成功率。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据METR称，现有公开数据不足以排除未来数年AI研究出现急剧加速，那可能使人无法有意义地理解、评估并应对新系统带来的灾难性风险。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+          "is_primary": false,
+          "published_at": "2026-11-22T21:00:43+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T21:00:43+08:00",
+      "updated_at": "2026-11-22T21:00:43+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "METR警告模型进步快过安全评估能力",
+      "lead_zh": "研究机构METR称，前沿模型在研究任务上迅速变强且更难测量，现有公开数据无法排除未来数年AI研究出现急剧加速，或使人难以评估灾难性风险。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "研究机构METR报告称，领先AI模型在人工智能研究任务上迅速变强，同时也越来越难以测量。在有直接反馈、定义清晰的编程和计算任务上，这些模型多数时候已胜过有经验的专业人士，但尚未胜过由顶尖专家组成的大团队。",
+            "对耗时更长的任务，模型能够处理的任务时长每**3.6**个月翻一番。按METR数据做简单外推，到**2027**年**7**月，模型在最长的**200**小时任务上可能达到**50%**成功率。METR还指出，模型在缺少即时反馈、需要真实判断的开放问题，以及难以为训练复现的情境中仍然表现吃力。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "机构怎么说",
+          "paras": [
+            "据METR称，现有公开数据不足以排除未来数年AI研究出现急剧加速，那可能使人无法有意义地理解、评估并应对新系统带来的灾难性风险。该机构还警告，常见且容易运行的测试可能高估模型在真实使用中的表现，因为开发者常在非常相似的测试环境中训练它们。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n0c81fa30a9f6",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "用对话式编程改造智能电视等设备成风潮",
+      "original_title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "《The Verge》专栏介绍，开发者开始用Claude Code等模型改造各类设备。印度开发者Gathin T用约一个半小时去掉小米Android电视广告，并推出了名为CleanYourTV的工具。",
+      "facts": [
+        {
+          "text": "《The Verge》专栏作者David Pierce写道，越来越多人用Claude Code或Codex等大模型，通过提示词改造电视等设备的软件界面。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+        },
+        {
+          "text": "印度开发者Gathin T在一台运行Android TV的小米电视上，用约一个半小时去掉屏幕广告并简化界面，随后推出CleanYourTV工具，该项目在GitHub上获得大量关注。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Gathin T称，他先是想去掉电视里的预装软件，随后又想让界面更好看；在调整权限并打开USB调试后，聊天机器人只要与电视处于同一Wi-Fi网络就能控制这台电视。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+          "is_primary": false,
+          "published_at": "2026-11-22T21:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T21:00:00+08:00",
+      "updated_at": "2026-11-22T21:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "用对话式编程改造智能电视等设备成风潮",
+      "lead_zh": "美国科技媒体专栏介绍，开发者开始用编程助手改造各类电器：一名印度开发者用约一个半小时去掉小米安卓电视上的广告，并推出了清理电视界面的开源工具。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "《The Verge》专栏“The Stepback”写道，改装、破解和调整消费设备并不新鲜，但现在人们发现可以用大模型，通过向Claude Code或Codex发出提示来完成这类工作，这推动了对更易开发的硬件、以及几乎各类设备上更好软件的需求。",
+            "印度开发者Gathin T的一台小米Android电视广告很多、界面杂乱，甚至难以切换输入源。他调整权限并打开USB调试后，让聊天机器人在同一Wi-Fi网络下控制电视，约一个半小时后去掉了屏幕广告，界面更简洁，也更容易切换到PlayStation。他在X上发帖后传播开来，随后推出CleanYourTV，该项目成为GitHub上很受欢迎的仓库之一，并收到大量拉取请求和功能建议。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "开发者怎么说",
+          "paras": [
+            "据Gathin T称，事情几乎开始于一个下午的冲动：他先是想去掉电视里的预装软件，随后又想让界面更好看。他也提醒，这样容易改造的主要是基于Android的电视；其他系统往往需要更明确的破解和获取最高权限，因此他不太愿意把那些做法公开传播。"
           ],
           "sources": [
             "The Verge"
           ]
         }
       ],
-      "image_url": "img/1e3e9a535f0dfd34b3865f9f1fa9bd49c823ed2f.jpg",
+      "image_url": "img/f876b20a6d51aa21028ace0d6c9b1f7cebc3cc4c.jpg",
       "image_source": "The Verge",
-      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "fulltext_status": "",
       "read_minutes": 0
     },
     {
-      "id": "n6ccebafcdf30",
-      "category": "大模型与产品",
+      "id": "n1dea5cb19bbd",
+      "category": "政策与安全",
       "importance": 1,
       "verified": false,
-      "title": "一批AI代理开始直接入住短信应用",
-      "original_title": "Here are the top AI agents that can live in your text messages",
-      "summary": "TechCrunch盘点可直接通过短信使用的AI代理，覆盖通用助理、家庭、旅行和工作等场景，无需再下一款独立应用。文中提到Instinct最新一轮融资10亿美元后估值达100亿美元。",
+      "title": "研究称廉价AI推理服务存在窃密和偷窥风险",
+      "original_title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "summary": "安全机构Dragos在2026年7月至11月向AI服务发送约200万条含虚假凭证的请求，发现至少三家供应商已被入侵，攻击者还窃取了数百个AWS密钥，有的在被拒绝处理的请求里。",
       "facts": [
         {
-          "text": "TechCrunch盘点了一批可直接通过短信调用的AI代理，用户可发消息让其预约、整理日历、规划行程或购物，其中Ask Proxy等产品已提供主动提醒和看图建议等功能。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+          "text": "安全机构Dragos在2026年7月至11月发送约200万条含虚假凭证的AI请求，发现至少三家供应商已被入侵，且这些供应商在收到通知前并不知情。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
+        },
+        {
+          "text": "规模最大的一起事件中，攻击者收集了数百个AWS密钥，其中一些来自供应商尚未处理就已拒绝的请求；有的密钥在数小时内被拿去测试，并用于搜索S3存储、尝试建立持久访问。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
         }
       ],
       "claims": [
         {
-          "text": "据TechCrunch称，目前最受关注的产品之一Instinct在最新一轮10亿美元融资后估值达100亿美元。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+          "text": "据Dragos称，市场转售商不必利用漏洞，只要把模型标到最低价并打开日志，就能阅读客户请求。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
+        },
+        {
+          "text": "据Dragos首席研究官HD Moore称，这并不意味着应该停止使用AI服务，但提示发往何处是一项决定，若不主动选择，最低价格就会替你决定。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
         }
       ],
       "analysis": [],
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
           "is_primary": false,
-          "published_at": "2026-11-22T01:00:00+08:00"
+          "published_at": "2026-11-22T20:07:56+08:00"
         }
       ],
-      "published_at": "2026-11-22T01:00:00+08:00",
-      "updated_at": "2026-11-22T01:00:00+08:00",
+      "published_at": "2026-11-22T20:07:56+08:00",
+      "updated_at": "2026-11-22T20:07:56+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "一批AI代理开始直接入住短信应用",
-      "lead_zh": "TechCrunch盘点可直接通过短信使用的AI代理，覆盖通用助理、家庭、旅行和工作等场景。文中提到，目前最受关注的Instinct在最新一轮融资后估值达100亿美元。",
+      "title_zh": "研究称廉价AI推理服务存在窃密和偷窥风险",
+      "lead_zh": "安全机构Dragos在今年7月至11月向AI服务发送约200万条含虚假凭证的请求，发现至少三家供应商已被入侵，攻击者还窃取了数百个AWS密钥。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "TechCrunch整理了一份可直接通过短信使用的AI代理清单，覆盖通用助理以及面向家庭、旅行和工作的产品。用户不必再下载新应用，只要像给人发消息一样提出需求，代理即可结合已有应用完成预约、整理日历、规划行程、发邮件、订位或购物，并在数日后提醒。",
-            "以Ask Proxy为例，该公司称产品“像女性一样思考”，试图在用户开口前预判需求，既可商量礼物和活动安排，也可发送照片获取布置建议，并主动跟进日程。文章还提到，目前最受关注的产品之一就是刚刚完成新一轮融资的Instinct。"
+            "安全机构Dragos在**2026**年**7**月至**11**月发送约**200**万条含虚假凭证的AI请求，发现至少**3**家供应商已被入侵，且这些供应商在收到通知前并不知情。规模最大的一起事件中，攻击者收集了数百个AWS密钥，其中一些来自供应商尚未处理就已拒绝的请求；有的密钥在数小时内被拿去测试，并用于搜索S3存储、尝试建立持久访问，还有攻击者使用了名为ARTEX的AI攻击工具。",
+            "研究还发现，“零数据保留”等隐私设置常被忽略。即便请求经由美国供应商发出，一家中国AI实验室仍访问了半数以上请求中的秘密测试网址；一家大型美国供应商在单次请求两个多月后仍在抓取测试链接。另一条秘密测试链接在**24**天后出现在飞书内部聊天中，并在两分钟内被北京和上海的**3**台电脑和**3**部手机打开。OpenRouter随后从平台移除了**3**家供应商，并撤销了**125**个端点的零数据保留批准，还向用户提示第三方可能阅读了发往MiniMax模型的请求。"
           ],
           "sources": [
-            "TechCrunch"
+            "The Decoder"
           ]
         },
         {
           "kind": "claims",
-          "heading": "报道怎么说",
+          "heading": "研究方怎么说",
           "paras": [
-            "据TechCrunch称，Instinct在最新一轮**10**亿美元融资后估值达**100**亿美元，与此同时还有多家产品在争夺这一“住在短信里”的入口。"
+            "据Dragos称，市场转售商不必利用漏洞，只要把模型标到最低价并打开日志，就能阅读客户请求。该机构首席研究官HD Moore写道，这并不意味着应该停止使用AI服务，但提示发往何处是一项决定，若不主动选择，最低价格就会替你决定。研究人员建议企业控制请求路由、检查隐私设置，并埋入一旦被使用就会暴露的金丝雀令牌。"
           ],
           "sources": [
-            "TechCrunch"
+            "The Decoder"
           ]
         }
       ],
-      "image_url": "img/6ad3431ada9b3ce3b4483a2370e8e932d00d1fc3.jpg",
-      "image_source": "TechCrunch",
-      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "image_url": "img/8d8fcd8f04e24cd9a9af22f63562a92186901678.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/cybersecurity_data_leak.png",
       "fulltext_status": "",
       "read_minutes": 0
     },
     {
-      "id": "nf5a6d06d7d43",
+      "id": "n11c215e1fffd",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "B站就AI“大肥鱼”账号泛滥征集治理意见",
+      "original_title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
+      "summary": "B站官方账号“哔哩哔哩社区小管家”于11月20日就“大肥鱼”“小飞鲸”等AI智能体账号征集治理意见，并倡议在名称和签名等位置标明AI身份，同时合理控制发布频率。",
+      "facts": [
+        {
+          "text": "B站近日出现大量以“大肥鱼”“小飞鲸”等为昵称、使用DeepSeek鲸鱼娘等形象作头像的AI智能体账号，并在评论区广泛活动。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/702.htm"
+        },
+        {
+          "text": "B站官方账号“哔哩哔哩社区小管家”于11月20日发布《关于AI“大肥鱼”你怎么看？》，面向用户征集对AI账号及相关行为的意见。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/702.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据哔哩哔哩社区小管家称，将根据问卷反馈推进后续AI智能体账号治理行动，并倡议用户在名称、签名等显著位置标明AI身份，合理控制发布频率。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/702.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/702.htm",
+          "is_primary": false,
+          "published_at": "2026-11-22T19:44:18+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T19:44:18+08:00",
+      "updated_at": "2026-11-22T19:44:18+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "B站就AI“大肥鱼”账号泛滥征集治理意见",
+      "lead_zh": "B站官方账号“哔哩哔哩社区小管家”于11月20日就AI“大肥鱼”等智能体账号征集治理意见，倡议标明AI身份并控制发布频率。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月22日消息，B站近日出现大量爱好者设置的AI智能体账号，这些账号常用“大肥鱼”“小飞鲸”等昵称，并以DeepSeek鲸鱼娘等形象作为头像，在评论区广泛活动。相关玩法最初源自一个名为“Claude 大小姐在运营”的账号，其选题、视频制作和日常运营均由AI完成；随后出现的“DeepSeek 鲸鱼娘在运营”等账号中，有的首条视频播放量超过**300**万次。",
+            "随着这类账号互相艾特、互动，部分用户对大量AI评论感到困扰，甚至开发了名为“大肥鱼清除计划”的插件来屏蔽相关评论。B站官方账号“哔哩哔哩社区小管家”已于**11**月**20**日发布《关于AI“大肥鱼”你怎么看？》治理意见征询。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "平台怎么说",
+          "paras": [
+            "据哔哩哔哩社区小管家称，官方倡议用户文明使用AI智能体账号，在名称、签名等显著位置标明AI身份，合理控制AI内容发布频率，避免在真人社区中大量发布、干扰正常交流，并将根据问卷反馈推进后续治理行动。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/9bcf1d6cae0f3ffa009f9668588ac26e36677be2.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/8f358ec4-bcfe-4751-953f-37b067d23ace.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n8ef397f778d1",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "开发者把微型Transformer塞进软盘在486上运行",
+      "original_title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
+      "summary": "开发者WollyMonjac推出Tiny 2.1，这是一个约36.7万参数、体积约380KB的问答Transformer，采用与大模型相同的架构，可装进软盘并在DOS系统的486DX和奔腾电脑上运行。",
+      "facts": [
+        {
+          "text": "开发者WollyMonjac推出Tiny 2.1，这是一个用Turbo C 2.0编写的微型问答Transformer，约36.7万参数、4层网络、隐藏维度96，8位量化后体积约380KB。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/699.htm"
+        },
+        {
+          "text": "该模型按字母逐个读取和生成内容，训练数据约3500条事实，运行需要约540KB可用常规内存，并可在DOS系统的486DX和奔腾电脑上使用。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/699.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据WollyMonjac称，除训练数据涉及的知识外，这个语言模型会非常自信地编造内容。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/699.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/699.htm",
+          "is_primary": false,
+          "published_at": "2026-11-22T19:24:43+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T19:24:43+08:00",
+      "updated_at": "2026-11-22T19:24:43+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "开发者把微型Transformer塞进软盘在486上运行",
+      "lead_zh": "开发者WollyMonjac推出Tiny 2.1，这是一个约36.7万参数、体积约380KB的问答Transformer，可装进软盘并在DOS系统的486DX和奔腾电脑上运行。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "开发者WollyMonjac完成了一项复古项目：把语言模型塞进软盘，让运行DOS系统的486DX和奔腾电脑也能使用。他开发的Tiny 2.1并不是大型语言模型，尽管采用了与大型模型相同的Transformer架构，定位是用Turbo C 2.0编写的微型问答模型。普通PC格式化软盘容量还不到**147.5**万字节，因此体积必须尽量压缩。",
+            "该模型约有**36.7**万个参数，采用**4**层网络，隐藏维度为**96**，按字母逐个读取和生成内容；权重为**8**位量化，每行使用一个缩放系数，总大小约**380KB**。训练数据约**3500**条事实，每条都用多种问法训练。要在老式PC上运行，系统需有约**540KB**可用常规内存。软件还带有对话历史、神经网络监控和提问窗口，并可用机内扬声器以机器人语音朗读回答。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "开发者怎么说",
+          "paras": [
+            "GitHub项目页面介绍称，该软件由Fable 5.2编写，并由Opus 5.5训练。据WollyMonjac称，除训练数据涉及的知识外，这个语言模型会非常自信地编造内容。若觉得知识不够，他在采用MIT许可证发布的软件包中还提供了训练文件夹，方便用户自行补充数据。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/492a6a57258908cb966002dc73c3fce2fa3b7fb0.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/324535cb-3af9-43d3-a71e-9a9c5d642a67.jpg?x-bce-process=image/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n8f1df5e9bd48",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "纽约Domino音乐厅官网宣传手工制作却露出AI痕迹",
+      "original_title": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹",
+      "summary": "计划于2027年开业的纽约音乐厅Domino官网被指出含AI生成错误，包括一张从未举办过的The Strokes演唱会门票。公司随后称已将其替换为完全由人工制作的网站。",
+      "facts": [
+        {
+          "text": "纽约音乐厅Domino由Mumford & Sons乐队成员本·洛维特创立，计划于2027年开业，其官网被指出存在AI生成错误，包括一张从未真实举办过的The Strokes演唱会门票，以及文字模糊和拼写错误。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/696.htm"
+        },
+        {
+          "text": "网站正中放着一张写有“Human Made”的明信片。在Business Insider指出这些问题后，公司表示已用完全由人类制作的网站替换原版本。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/696.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Domino一名代表称，发布公告时设计团队没有足够时间完成最终版本，因此暂时把AI当作过渡工具，这种做法并不符合场馆所代表的理念。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/696.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/696.htm",
+          "is_primary": false,
+          "published_at": "2026-11-22T19:13:03+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T19:13:03+08:00",
+      "updated_at": "2026-11-22T19:13:03+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "纽约Domino音乐厅官网宣传手工制作却露出AI痕迹",
+      "lead_zh": "计划于2027年开业的纽约音乐厅Domino官网被指出含AI生成错误，包括从未举办的The Strokes门票，公司随后称已替换为完全由人工制作的网站。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "纽约音乐厅Domino由Mumford & Sons乐队成员本·洛维特创立，计划于**2027**年开业，试图重现威廉斯堡曾经的独立音乐氛围。其官网却被指出存在一系列AI生成错误：不仅出现一张从未真实举办过的The Strokes演唱会门票，还有文字模糊和拼写错误，图片上还覆盖着一层试图营造怀旧感的纹理。网站正中放着一张写有“Human Made”（人工制作）的明信片。",
+            "音乐厅将设在Domino炼糖厂改造项目中办公楼The Refinery at Domino一层。这栋楼目前约有**75%**的租户是科技公司，其中不少是AI初创企业。负责运营的酒店及餐饮集团TVG还获得Slack联合创始人斯图尔特·巴特菲尔德和Airbnb联合创始人乔·杰比亚等科技创始人的支持。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "在Business Insider向Domino指出这些问题后，一名代表称，场馆发布公告时，网站设计团队已经没有足够时间完成最终版本，因此暂时使用AI作为过渡工具，直到真正的手工制作版本完成。该代表表示，这种做法并不符合Domino所代表的理念，公司已用一个完全由人类制作的网站替换原来的版本，并强调场馆的核心理念是庆祝一切由人类亲手创造的事物。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/d3aa4ed4c3889cfe88463716b11b8e88f56747e1.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/5432b526-4282-41d5-8ac5-fc0ef36e11fe.jpg?x-bce-process=image/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n5cfa4f9892b1",
       "category": "研究与论文",
       "importance": 1,
       "verified": false,
-      "title": "英伟达研究称超长上下文窗口是死路",
-      "original_title": "Nvidia researchers argue huge AI context windows are a dead end",
-      "summary": "英伟达研究团队认为，语言模型往往不必动用完整的超长上下文窗口。在多项测试之中，定期摘要和定向关键词检索通常都能够达到接近全文上下文的效果，成本却只相当于其一部分。",
+      "title": "Lean社区确认阿尔珀格的黎曼猜想证明通过核验",
+      "original_title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+      "summary": "Lean与Mathlib社区发表声明，确认Levent Alpöge于11月20日公布的约1700万行Lean代码形式的黎曼猜想证明通过核验，并有数十人独立运行代码后得到相同结果。",
       "facts": [
         {
-          "text": "英伟达研究团队指出，超长上下文窗口往往又慢又贵且易出错；测试中，定期摘要和定向关键词检索通常能达到接近全文上下文的效果。",
+          "text": "Lean与Mathlib社区确认，Levent Alpöge于2026年11月20日以约1700万行Lean代码公布的黎曼猜想证明通过核验，数十人独立运行代码后得到相同结果。",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/"
+          "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
+        },
+        {
+          "text": "报道称，这些核验程序被设计成无法接受有缺陷的证明；麻省理工学院数学家Andrew Sutherland在其网站上列出了独立检查情况。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
         }
       ],
       "claims": [
         {
-          "text": "据该团队称，许多任务并不需要把全部上下文同时放进窗口，他们还提出一类改为处理短笔记而非长上下文的模型。",
+          "text": "据Lean与Mathlib社区称，他们完全有信心认为Alpöge的证明是正确的，并祝贺他取得这一成果。",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/"
+          "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
+        },
+        {
+          "text": "据Ethan Mollick称，Metaculus上的预测者曾把该问题的预期解决时间放在2035年5月；数学家陶哲轩上月曾表示，他预期该问题会在2050年前后由人类与AI共同解决。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
         }
       ],
       "analysis": [],
       "sources": [
         {
           "name": "The Decoder",
-          "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+          "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
           "is_primary": false,
-          "published_at": "2026-11-22T00:23:45+08:00"
+          "published_at": "2026-11-22T19:08:31+08:00"
         }
       ],
-      "published_at": "2026-11-22T00:23:45+08:00",
-      "updated_at": "2026-11-22T00:23:45+08:00",
+      "published_at": "2026-11-22T19:08:31+08:00",
+      "updated_at": "2026-11-22T19:08:31+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "英伟达研究称超长上下文窗口是死路",
-      "lead_zh": "英伟达研究团队认为，语言模型往往不必动用完整的超长上下文窗口。测试中，定期摘要和定向关键词检索通常能达到接近全文上下文的效果，成本却低得多。",
+      "title_zh": "Lean社区确认阿尔珀格的黎曼猜想证明通过核验",
+      "lead_zh": "Lean与Mathlib社区发表声明，确认Levent Alpöge于11月20日公布的约1700万行Lean代码形式的黎曼猜想证明通过核验，并有数十人独立复现相同结果。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "The Decoder报道，英伟达一个研究团队认为，语言模型现在虽然能一次处理整本小说，但在许多任务上动用完整上下文窗口往往既慢又贵，还容易出错。团队提出替代办法：定期做摘要，再辅以定向关键词检索。",
-            "文章举例说，GPT-4在**2023**年**3**月发布时上下文为**8192**个token；如今GPT 5.6 Sol大约能处理**100**万个token，约为前者的**120**倍，体积相当于托尔斯泰的《战争与和平》。团队还提出一类新模型，改为与短笔记而不是超长上下文打交道。"
+            "Lean与Mathlib社区已确认Levent Alpöge的黎曼猜想证明通过核验。Alpöge于**2026**年**11**月**20**日公布了这份证明，形式是约**1700**万行用Lean写成的代码，该工具用于检查数学证明是否存在错误。数十人独立运行了代码并得到相同结果。报道称，这些核验程序被设计成无法接受有缺陷的证明；麻省理工学院数学家Andrew Sutherland在其网站上列出了独立检查情况。",
+            "黎曼猜想此前一直是数学界最著名的未解问题之一，内容涉及素数如何分布。报道还提到，这一结果到来的时间早于许多预测。"
           ],
           "sources": [
             "The Decoder"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "研究怎么说",
-          "paras": [
-            "据英伟达研究团队称，在多项测试中，定期摘要加定向检索的效果通常与使用完整上下文相当，成本却只相当于其一部分；许多时候模型并不需要把全部窗口内容同时保留在“工作记忆”里。"
-          ],
-          "sources": [
-            "The Decoder"
-          ]
-        }
-      ],
-      "image_url": "img/316443ca9f5033820ae84ee7fce45fc8b910a4fe.jpg",
-      "image_source": "The Decoder",
-      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/you-dont-need-long-context-nano-banana-pro.jpg",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n77a328232039",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "佛蒙特僧团欲成为硅谷AI精神权威",
-      "original_title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
-      "summary": "《纽约客》报道，佛蒙特州佛教僧团Maple试图成为硅谷在AI末日叙事中的精神权威，并训练以领袖为模板的AI。前成员称存在操控，税务文件显示年收入最高约100万美元。",
-      "facts": [
-        {
-          "text": "The Decoder援引《纽约客》报道称，Soryu Forall于2011年在佛蒙特创办Maple僧团，约有二十余名常住成员，并面向湾区AI从业者举办研修。",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据《纽约客》称，该组织会记录成员的每一次呼吸，以训练一个以领袖心智为模板的AI，前成员则表示存在操控和精神崩溃。",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
-          "is_primary": false,
-          "published_at": "2026-11-22T00:04:29+08:00"
-        }
-      ],
-      "published_at": "2026-11-22T00:04:29+08:00",
-      "updated_at": "2026-11-22T00:04:29+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "佛蒙特僧团欲成为硅谷AI精神权威",
-      "lead_zh": "《纽约客》报道，佛蒙特州佛教僧团Maple试图成为硅谷在AI末日叙事中的精神权威，并训练以领袖为模板的AI。前成员称存在操控，税务文件显示年收入最高约100万美元。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "The Decoder援引《纽约客》记者Sam Kriss的报道称，佛蒙特州一个佛教僧团Maple希望成为AI行业的“官方教会”。领袖Soryu Forall原名Teal Scott，曾在日本寺院生活多年，于**2011**年创办“地球生命保护僧伽学院”（Maple）。约有二十余名成员常住，另有数百人参加过其AI研修和湾区快闪活动。",
-            "报道称，该组织一方面公开承诺要拯救人类免于AI末日，另一方面把目标对准疲惫的理性主义程序员、AI工程师和数据中心建设管理者。税务文件显示，其年收入最高约**100**万美元。文章还提到，LinkedIn联合创始人Reid Hoffman会向大型AI实验室的CEO赠送佛教书籍，而Maple则更多面向普通从业者。"
-          ],
-          "sources": [
-            "The Decoder"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "报道怎么说",
-          "paras": [
-            "据《纽约客》称，该组织会记录成员的每一次呼吸，用来训练一个以领袖心智为模板的AI；前成员称存在操控和精神崩溃。Kriss将其比作“硅谷的山达基”。据报道，Forall把AI行业的还原论“数据主义”视为一种具有破坏性的宗教。"
-          ],
-          "sources": [
-            "The Decoder"
-          ]
-        }
-      ],
-      "image_url": "img/0730df3741355bbf4c39c25877ba2a91991dda5f.jpg",
-      "image_source": "The Decoder",
-      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/buddhist_ai_sect.png",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "ndffab27fe8d5",
-      "category": "AI公司与融资",
-      "importance": 1,
-      "verified": false,
-      "title": "演员授权面孔给微短剧公司做AI剧",
-      "original_title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "summary": "以色列演员Aki Avni把面孔授权给微短剧创业公司Shortical，用于全部由AI生成的剧集《Inevitable》。该公司称这是首次使用真人形象，中国同类授权报价多在15至700美元。",
-      "facts": [
-        {
-          "text": "Shortical推出全部由AI生成的微短剧《Inevitable》，以色列演员Aki Avni授权其面孔制作数字分身，并在剧中出演授权面孔给制片公司的元故事。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据Shortical向TechCrunch称，与Avni是直接协议而非平台签约，平台上的面孔授权尚未形成已签署合同。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-          "is_primary": false,
-          "published_at": "2026-11-22T00:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-22T00:00:00+08:00",
-      "updated_at": "2026-11-22T00:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "演员授权面孔给微短剧公司做AI剧",
-      "lead_zh": "以色列演员Aki Avni把面孔授权给微短剧公司Shortical，用于全部由AI生成的剧集《Inevitable》。该公司称这是首次使用真人形象，中国同类报价多在15至700美元。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "去年1月成立的微短剧公司Shortical以订阅收费，通常前**7**至**10**集免费，之后需付小额月费解锁全部内容。公司新近在洛杉矶首映全部由AI生成的剧集《Inevitable》，以色列演员Aki Avni（曾参演美剧《24》）授权面孔制作数字分身，并在剧中出演自己把面孔授权给制片公司的故事。",
-            "Shortical网站已打出“授权你的面孔”广告，邀请用户提交社交账号以洽谈合约。Rest of World近期报道，中国微短剧公司为面孔授权支付大约**15**至**700**美元。Shortical未公布给Avni的具体金额，只称其以项目合伙人身份加入，报酬对标非AI表演的行业标准，并与Payouts.com合作搭建创作者打款系统。"
-          ],
-          "sources": [
-            "TechCrunch"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "公司怎么说",
-          "paras": [
-            "据Shortical向TechCrunch称，面向创作者的面孔授权仍处于早期，尚未形成已签署合同；与Avni是直接协议，而非通过该平台完成，公司希望这部剧能为面孔授权吸引更多关注。"
-          ],
-          "sources": [
-            "TechCrunch"
-          ]
-        }
-      ],
-      "image_url": "img/b053dbd2739b64e7f76b4f0b2fa6d5e6700c5654.jpg",
-      "image_source": "TechCrunch",
-      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "na2b0b71c8120",
-      "category": "政策与安全",
-      "importance": 1,
-      "verified": false,
-      "title": "播客讨论Anthropic上市后能否先顾安全",
-      "original_title": "Can Anthropic afford to put safety first?",
-      "summary": "《The Verge》播客最后一期讨论Anthropic上周四在纳斯达克上市后，能否在向股东负责的同时坚持安全优先。节目还谈到其独特治理结构，以及未来数年约9000亿美元的算力支出。",
-      "facts": [
-        {
-          "text": "《The Verge》在系列播客第三期中，与高级AI记者Hayden Field讨论Anthropic上周四在纳斯达克上市后，如何在安全投入与公众公司股东压力之间取得平衡。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据节目称，Anthropic未来数年的算力支出合计约9000亿美元，需要持续扩大收入才能覆盖账单。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-          "is_primary": false,
-          "published_at": "2026-11-21T23:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T23:00:00+08:00",
-      "updated_at": "2026-11-21T23:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "播客讨论Anthropic上市后能否先顾安全",
-      "lead_zh": "《The Verge》播客讨论Anthropic上周四在纳斯达克上市后，能否在向股东负责的同时坚持安全优先，并提到其独特治理结构以及未来数年约9000亿美元的算力支出。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "《The Verge》推出“AI in real life”系列播客的第三期也是最后一期，主持人与该站高级AI记者Hayden Field讨论Claude背后的Anthropic上周四在纳斯达克上市后的走向。节目认为，上市数字固然庞大，但更关键的是这家公司在成为公众公司、必须对股东负责之后，还能不能继续把资源投向AI安全。",
-            "对谈还涉及Anthropic独特的公司治理结构，并把它放在黄仁勋去职风波的背景下讨论；同时分析OpenAI为何显得乐见Anthropic先上市，以及该公司向大客户推销时高度依赖的安全品牌，如何与追求利润的一侧产生张力。"
-          ],
-          "sources": [
-            "The Verge"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "节目怎么说",
-          "paras": [
-            "据节目称，Anthropic已成为全球最有价值的公司之一，但未来数年算力支出合计约**9000**亿美元，必须持续扩大收入才能覆盖不断上涨的账单；安全和增长之间的张力，将是它进入公开市场后的核心考验。"
-          ],
-          "sources": [
-            "The Verge"
-          ]
-        }
-      ],
-      "image_url": "img/cfca30b844546fb57bc17ccd3c25f81a67e8f6b1.jpg",
-      "image_source": "The Verge",
-      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n942c5fe215c0",
-      "category": "芯片与算力",
-      "importance": 1,
-      "verified": false,
-      "title": "韩国总统李在明称AI竞赛速度至关重要",
-      "original_title": "韩国总统李在明：速度在 AI 竞赛中至关重要",
-      "summary": "韩国总统李在明视察蔚山在建数据中心时说，全世界都在竞相角逐，速度至关重要。该项目由SK与亚马逊云科技共建，预计到2029年总投资约7万亿韩元，2027年下半年投入运营。",
-      "facts": [
-        {
-          "text": "李在明当地时间21日在蔚山视察由SK集团与亚马逊云科技共建的数据中心，该项目预计到2029年总投资约7万亿韩元，计划2027年下半年投入运营。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/506.htm"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据路透社报道，李在明称“全世界都在竞相角逐，速度至关重要”，并希望蔚山项目成功后能吸引全球AI企业加大投资。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/506.htm"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/506.htm",
-          "is_primary": false,
-          "published_at": "2026-11-21T22:26:35+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T22:26:35+08:00",
-      "updated_at": "2026-11-21T22:26:35+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "韩国总统李在明称AI竞赛速度至关重要",
-      "lead_zh": "韩国总统李在明视察蔚山在建数据中心时说，全世界都在竞相角逐，速度至关重要。该项目由SK与亚马逊云科技共建，预计到2029年总投资约7万亿韩元。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "IT之家援引路透社报道称，当地时间**21**日，韩国总统李在明前往东南部城市蔚山，视察一座在建数据中心，并敦促韩国加快在全球AI竞赛中的步伐。该项目由SK集团与亚马逊云科技共同开发。韩国科学技术信息通信部去年估算，项目到**2029**年的总投资额预计为**7**万亿韩元，计划于**2027**年下半年投入运营。",
-            "SK集团会长崔泰源**9**月介绍，在建数据中心首期容量预计到**2029**年达到**103**MW，未来还计划在此基础上扩容近**900**MW。李在明在现场得知约有**900**人参与施工后表示，高端设施建设面临建筑工人短缺，各部委需要考虑如何培养建设数据中心和AI基础设施所需的工人。他还指出，AI投资此前主要集中在首尔一带，蔚山项目说明其他地区同样具备增长空间。"
-          ],
-          "sources": [
-            "IT之家"
           ]
         },
         {
           "kind": "claims",
           "heading": "各方怎么说",
           "paras": [
-            "据路透社报道，李在明称“全世界都在竞相角逐，速度至关重要”，并希望SK建设的蔚山项目取得成功，进而吸引全球AI企业加大投资。"
+            "据该社区声明称，他们完全有信心认为Alpöge的证明是正确的，并祝贺他取得这一成果。Ethan Mollick指出，Metaculus上的预测者曾把预期解决时间放在**2035**年**5**月；数学家陶哲轩上月曾表示，他预期该问题会在**2050**年前后由人类与AI的组合解决。"
           ],
           "sources": [
-            "IT之家"
+            "The Decoder"
           ]
         }
       ],
-      "image_url": "",
-      "image_source": "",
-      "image_origin_url": "",
+      "image_url": "img/6ae55d300ec3c1a7477c998c25b767130ff6f4ee.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/05/ai_and_math.png",
       "fulltext_status": "",
       "read_minutes": 0
     },
     {
-      "id": "n769adf524e57",
-      "category": "行业动态",
+      "id": "n9826d82b1b2c",
+      "category": "应用案例",
       "importance": 1,
       "verified": false,
-      "title": "Chess.com上线麻将围棋等经典游戏",
-      "original_title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "summary": "Chess.com推出Classic Games平台公测，新增西洋双陆棋、围棋、麻将、将棋、数独等10款游戏，并有网页及iOS、安卓应用。增长官称社区已有近3亿成员，AI帮助小团队在数月内上线新游戏。",
+      "title": "美国多家银行收紧对第三方AI智能体的限制",
+      "original_title": "Banks Have Had It Up to Here With Your AI Agent",
+      "summary": "富国银行将于周二更新对数百万客户的协议，明确使用AI智能体需自担风险。摩根大通、美国银行、花旗和PNC近期也已调整条款或发出警告，限制第三方智能体代为登录账户。",
       "facts": [
         {
-          "text": "Chess.com在今年推出无赌博扑克站Gambit后，再推出Classic Games平台公测，新增西洋双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌、象棋和文字游戏word等10款游戏。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据增长官Albert Cheng称，Chess.com已拥有近3亿成员，日活创历史新高，但全职开发新游戏的人员不到公司的1%。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-          "is_primary": false,
-          "published_at": "2026-11-21T22:00:00+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T22:00:00+08:00",
-      "updated_at": "2026-11-21T22:00:00+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "Chess.com上线麻将围棋等经典游戏",
-      "lead_zh": "Chess.com推出Classic Games平台公测，新增围棋、麻将、将棋、数独等10款游戏，并提供网页及手机应用。增长官称社区已有近3亿成员，AI帮助小团队在数月内完成开发。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "在今年早些时候推出无赌博扑克站Gambit之后，Chess.com再推出Classic Games平台，并于周六开始网页及iOS、安卓应用的公开测试。新平台一次增加**10**款游戏：西洋双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌、象棋，以及作为拼字游戏替代的word。各游戏提供课程、排行榜和等级分，既可对人也可对机器人。",
-            "增长官Albert Cheng对The Verge表示，选游戏结合了社区反馈、市场研究和团队判断，希望服务那些“有长期学习路径和社区”的经典项目。他称，Chess.com已拥有近**3**亿成员，日活创下公司历史新高；全职开发新游戏的人员不到公司的**1%**。他表示，AI主要承担编码工作，帮助人数很少的团队在数月内上线**11**款新游戏，方法与开发Gambit时几乎相同。"
-          ],
-          "sources": [
-            "The Verge"
-          ]
+          "text": "富国银行将于周二更新对数百万客户的协议，新条款写明使用任何AI智能体需自担风险。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
         },
         {
-          "kind": "claims",
-          "heading": "公司怎么说",
-          "paras": [
-            "据Albert Cheng称，常有人向创始人反映，本地麻将局或围棋聚会缺少一个像Chess.com这样的社区；公司扩展品类，是为了把近**3**亿成员的社区经验带到这些经典游戏，同时象棋仍是主业。"
-          ],
-          "sources": [
-            "The Verge"
-          ]
-        }
-      ],
-      "image_url": "img/4f74a621a315a2d14eb77e858ebaa1e46bd4d250.jpg",
-      "image_source": "The Verge",
-      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "nc6d77569c174",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "WIRED称AI加速漏洞发现或加剧宕机",
-      "original_title": "The Outages Are Just Getting Started",
-      "summary": "WIRED指出，过去一周Outlook、苹果、多家美国银行、美联航乃至NSA内网接连出现故障，但并无协同AI攻击证据。分析认为AI加快了漏洞发现和利用，迫使机构在来不及验证的情况下打补丁。",
-      "facts": [
-        {
-          "text": "过去一周Outlook、苹果、多家美国银行、美联航和NSA内网等接连出现故障。WIRED称没有证据表明这是协同AI攻击，微软365宕机被归因于有缺陷的基础设施更新。",
+          "text": "今年10月下旬，摩根大通修改条款，禁止使用客户凭证登录的第三方智能体；同一天美国银行警告客户不要向智能体分享登录信息。花旗和PNC也已调整条款，加入有关智能体的警告。",
           "source": "WIRED",
-          "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+          "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
         }
       ],
       "claims": [
         {
-          "text": "据Cloudflare首席执行官Matthew Prince称，未来两年会有天要塌下来的感觉，但AI最终也可能帮助防守方更好地修补常见漏洞。",
+          "text": "据研究消费者行为的副教授Kacy Kim称，消费者授权的是目标，而不是每一次点击。",
           "source": "WIRED",
-          "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+          "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+        },
+        {
+          "text": "据Forrester分析师Sucharita Kodali称，他们的数据显示，大多数人甚至不知道智能体是什么，更不用说去使用它们。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
         }
       ],
       "analysis": [],
       "sources": [
         {
           "name": "WIRED",
-          "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+          "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
           "is_primary": false,
-          "published_at": "2026-11-21T21:00:00+08:00"
+          "published_at": "2026-11-22T19:00:00+08:00"
         }
       ],
-      "published_at": "2026-11-21T21:00:00+08:00",
-      "updated_at": "2026-11-21T21:00:00+08:00",
+      "published_at": "2026-11-22T19:00:00+08:00",
+      "updated_at": "2026-11-22T19:00:00+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "WIRED称AI加速漏洞发现或加剧宕机",
-      "lead_zh": "WIRED指出，过去一周从Outlook、苹果到多家银行、美联航乃至NSA内网接连出现故障，但并无协同AI攻击证据。分析认为AI加快了漏洞发现，迫使机构仓促打补丁。",
+      "title_zh": "美国多家银行收紧对第三方AI智能体的限制",
+      "lead_zh": "富国银行将于周二更新对数百万客户的协议，明确使用AI智能体需自担风险；摩根大通、美国银行、花旗和PNC近期也已调整条款或发出警告。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "WIRED在安全通讯Kernel Panic中写道，过去一周Outlook、苹果、大约六家美国银行、美联航乃至NSA分类网络都出现干扰性故障。文章明确说，没有证据表明这是协同的AI黑客行动，各起事件单独看也多有常规解释：微软365大规模宕机被归因于基础设施更新缺陷并叠加其他网络故障；官员称NSA内部通信中断是因为**10**月关键PHP补丁打坏；苹果则称相关故障与内部更新有关。",
-            "文章同时列出一组数字：2026年已发现的漏洞总数超过**10**万个，而大模型普及前的2022年约为**2.5**万个；在年底前一个多月，这一数字已相当于2024年和2025年合计的两倍。近日还有研究团队称用AI在PHP、NGINX和Java中发现严重漏洞，Forbes则报道研究人员用AI在苹果产品中发现**35**个漏洞。"
+            "富国银行将于周二起对数百万客户实施更新后的协议，专门涉及AI智能体。新条款写明：使用任何AI智能体均需自担风险。今年**10**月下旬，摩根大通已修改条款，禁止使用客户凭证登录的第三方智能体；同一天，美国银行警告客户不要向智能体分享登录信息。花旗银行和PNC也已调整条款，加入有关智能体的警告。",
+            "报道称，智能体常被宣传用于代为购物、订票等在线任务，但**2026**年也出现过把银行信息发到工作场合等失误。亚马逊已阻止Meta旗下较常用的智能体Muse在其平台下单，联合航空也宣布将阻止个人机器人代为购票。尽管由这类工具完成的交易仍很少，美国银行机构已不愿再让第三方智能体随意接入账户。"
           ],
           "sources": [
             "WIRED"
@@ -1131,542 +1383,80 @@
         },
         {
           "kind": "claims",
-          "heading": "分析怎么说",
+          "heading": "观察者怎么说",
           "paras": [
-            "据Dataminr威胁研究与网络工程总监Joe Slowik称，过去厂商发布补丁后通常还有时间验证再部署，现在周转时间可能已无法完成验证。据Cloudflare首席执行官Matthew Prince称，未来**两年**会有“天要塌下来”的感觉，但AI加速最终也可能帮助防守方更好地控制常见漏洞。CISPA的Lea Schönherr则表示，AI可以辅助，但仍需人来理解根因并检查补丁是否对症。"
+            "研究消费者行为与新兴科技的布莱恩特大学副教授Kacy Kim说，消费者授权的是目标，而不是每一次点击；她预计部分消费者会觉得为智能体的错误担责不公平，但这些政策未必吓退已经深度使用这些工具的早期用户。Forrester分析师Sucharita Kodali则称，他们的数据显示，大多数人甚至不知道智能体是什么，更不用说去使用它们，而银行本质上厌恶风险，因此现在采取预防措施可以理解。"
           ],
           "sources": [
             "WIRED"
           ]
         }
       ],
-      "image_url": "img/67ae13f2c9cd67a2798f2aa4545af3be0ab385c7.jpg",
+      "image_url": "img/defb806094f9736bac87e231491649d73141a38f.jpg",
       "image_source": "WIRED",
-      "image_origin_url": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
+      "image_origin_url": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
       "fulltext_status": "",
       "read_minutes": 0
     },
     {
-      "id": "n8d8c220b806a",
-      "category": "芯片与算力",
+      "id": "ne0e1cd29c205",
+      "category": "行业动态",
       "importance": 1,
       "verified": false,
-      "title": "基辛格称AI需要一万倍效率飞跃",
-      "original_title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
-      "summary": "前英特尔CEO帕特·基辛格在COSM科技峰会上表示，人工智能需要1万倍的效率跃升，渐进式芯片提升无法满足需求。他否认摩尔定律已终结，并强调光学、供电、散热、材料和封装需要突破。",
+      "title": "闲鱼二季度日活增23%订单增29%称AI是动力",
+      "original_title": "闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力",
+      "summary": "闲鱼称2026年第二季度日均活跃用户同比增长23%、订单量增长29%，并表示智能定价、自动生成商品描述和买家匹配等人工智能功能，是拉动本季度订单增长的核心动力。",
       "facts": [
         {
-          "text": "前英特尔CEO帕特·基辛格在2026年COSM科技峰会上表示，AI需要1万倍的效率跃升，并认为摩尔定律能否重焕生机取决于光学、供电、散热、材料和封装五大领域的突破。",
+          "text": "闲鱼表示，2026年第二季度日均活跃用户同比增长23%，订单量同比增长29%。",
           "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/464.htm"
+          "url": "https://www.ithome.com/1/030/692.htm"
+        },
+        {
+          "text": "闲鱼称，智能定价、自动生成商品描述及精准买家匹配等AI功能大幅降低了交易门槛，成为拉动本季度订单量增长的核心动力。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/692.htm"
         }
       ],
       "claims": [
         {
-          "text": "据基辛格称，摩尔定律并未死去，现在是唤醒它的时候；在半导体行业工作40多年后，他相信最伟大的创新仍在前方。",
+          "text": "据阿里巴巴集团副总裁、闲鱼CEO谌伟业称，过去一年已有超150万用户在闲鱼获得持续稳定收入，其中约四成是00后和大学生。",
           "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/464.htm"
+          "url": "https://www.ithome.com/1/030/692.htm"
         }
       ],
       "analysis": [],
       "sources": [
         {
           "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/464.htm",
+          "url": "https://www.ithome.com/1/030/692.htm",
           "is_primary": false,
-          "published_at": "2026-11-21T19:43:07+08:00"
+          "published_at": "2026-11-22T18:54:53+08:00"
         }
       ],
-      "published_at": "2026-11-21T19:43:07+08:00",
-      "updated_at": "2026-11-21T19:43:07+08:00",
+      "published_at": "2026-11-22T18:54:53+08:00",
+      "updated_at": "2026-11-22T18:54:53+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "基辛格称AI需要一万倍效率飞跃",
-      "lead_zh": "前英特尔CEO帕特·基辛格在COSM科技峰会上表示，人工智能需要1万倍的效率跃升，渐进式芯片提升无法满足需求，并否认摩尔定律已经终结。",
+      "title_zh": "闲鱼二季度日活增23%订单增29%称AI是动力",
+      "lead_zh": "闲鱼称2026年第二季度日均活跃用户同比增长23%、订单量增长29%，并称智能定价、自动生成商品描述和买家匹配等AI功能是订单增长的核心动力。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "IT之家援引Wccftech报道，前英特尔首席执行官帕特·基辛格在**2026**年COSM科技峰会题为“现实检验：超越芯片”的炉边谈话中表示，随着人工智能需要**1万**倍的效率飞跃，渐进式的芯片性能提升将无法满足需求。他反驳半导体微缩已触及物理极限的观点，并指出摩尔定律能否重焕生机，取决于光学、供电、散热、材料和封装这五大工程领域的根本性突破。",
-            "峰会结束后，他在X上写道：“摩尔定律已死？我说现在是唤醒它的时候了！”自**2025**年**3**月以普通合伙人身份加入风险投资机构Playground Global以来，基辛格一直在支持针对这些瓶颈的初创企业，其中包括获得美国政府支持、目标突破阿斯麦**13.5**纳米EUV波长壁垒的光刻公司xLight，以及核能产能公司Alva Energy。他的技术路线图还包括用光信号替代铜线的光互连与硅光子技术。"
+            "IT之家11月22日消息，闲鱼表示，**2026**年第二季度平台日均活跃用户同比增长**23%**，订单量同比增长**29%**。该平台称，在AI加持及持续创新服务下，个人用户和小微卖家的交易更加频繁便捷。",
+            "闲鱼还表示，今年以来，AI技术在平台交易全链路的落地补齐了普通用户的经营短板。财报披露，智能定价、自动生成商品描述及精准买家匹配等AI功能，大幅降低了交易门槛，并成为拉动本季度订单量增长的核心动力。"
           ],
           "sources": [
             "IT之家"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "他怎么说",
-          "paras": [
-            "据基辛格称，在半导体行业工作**40**多年后，他相信最伟大的创新仍在前方。他否认摩尔定律已经终结，认为行业正在进入多学科创新的新时代。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        }
-      ],
-      "image_url": "img/54cb43501e08f83cef415d9cfe49aa6fd23f6203.jpg",
-      "image_source": "IT之家",
-      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/1eb446a4-34ce-4122-9480-ef1ce1a86585.jpg?x-bce-process=image/format,f_auto",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "nac3df93f97de",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "Anthropic数学家称与Claude证明了黎曼猜想",
-      "original_title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-      "summary": "Anthropic数学家Levent Alpöge称与Claude证明了提出167年的黎曼猜想及广义黎曼猜想，Lean形式化稿逾25万页。数小时后，斯坦福方面公布一份全由人工完成的竞争草稿。",
-      "facts": [
-        {
-          "text": "Anthropic数学家Levent Alpöge周五称与Claude发现了黎曼猜想及广义黎曼猜想的证明，并只以Lean语言发布，打印长度超过25万页、分成14个数据包。",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
-        },
-        {
-          "text": "数小时后，斯坦福数学教授、美国数学会主席Ravi Vakil在博客公布Alessandro Masullo撰写、全由人工完成的广义黎曼猜想草稿。",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据Alpöge称，他相信自己与Claude发现了黎曼猜想的证明；约八小时后，Vakil更新博文称已有人在不同AI模型协助下指出该人工草稿存在问题。",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
-          "is_primary": false,
-          "published_at": "2026-11-21T19:19:49+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T19:19:49+08:00",
-      "updated_at": "2026-11-21T19:19:49+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "Anthropic数学家称与Claude证明了黎曼猜想",
-      "lead_zh": "Anthropic数学家Alpöge称与Claude证明了提出167年的黎曼猜想及广义黎曼猜想，Lean稿逾25万页。数小时后，斯坦福方面公布一份全由人工完成的竞争草稿。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "The Decoder援引《科学美国人》等报道称，Anthropic数学家Levent Alpöge周五在网站发布论文和代码，声称与Claude发现了提出**167**年的黎曼猜想证明，并称方法也解决了广义黎曼猜想。他说打印出来将超过**25**万页，因此只以Lean形式化语言发布，并拆成**14**个数据包。Lean用于逐条检查推理是否合乎规则，但若一开始把问题译入代码时出错，仍可能产生问题。",
-            "数小时后，斯坦福数学教授、美国数学会主席Ravi Vakil在博客紧急公布数学家Alessandro Masullo撰写的独立草稿，并写明“全部由人类完成，没有AI”。著名数论学家Brian Conrad已悄悄审阅数月。Masullo原计划在斯坦福再打磨一年，因Anthropic的宣布而提前公开。约**八**小时后，Vakil更新博文称，已有人在不同AI模型协助下指出该草稿存在问题，需经共同体确认后才能被接受。"
-          ],
-          "sources": [
-            "The Decoder"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "当事人怎么说",
-          "paras": [
-            "据Alpöge称，他从大学起就把这一问题当作秘密的终身目标，近几个月与Claude密切合作，在接近完成时模型把他远远甩在后面；他承认自己尚未完全掌握部分子领域，计划在未来数月写出人类可读版本。Vakil则称，对证明策略的正确性不作判断，所有问题都必须解决到让数学共同体满意为止。"
-          ],
-          "sources": [
-            "The Decoder"
-          ]
-        }
-      ],
-      "image_url": "img/ac7233ba2869ce219e8598c0b04251056ce5c968.jpg",
-      "image_source": "The Decoder",
-      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_riemann.png",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "nd533c4175a98",
-      "category": "芯片与算力",
-      "importance": 1,
-      "verified": false,
-      "title": "前英伟达总监回忆黄仁勋强硬也温暖",
-      "original_title": "前英伟达 AI 应用软件产品管理总监回忆黄仁勋：作风强硬，骨子里却很温暖",
-      "summary": "前英伟达AI应用软件产品管理总监贾马尔对《商业内幕》讲述与黄仁勋共事三年半的经历：他通过“Top 5 Things”邮件直接掌握一线情况，也会在员工孩子出生后亲自准备礼盒。",
-      "facts": [
-        {
-          "text": "现年43岁的前英伟达AI应用软件产品管理总监贾马尔向《商业内幕》讲述2022年至2025年下半年与黄仁勋共事的经历，包括T5T邮件制度和亲自把关GTC演示等细节。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/459.htm"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据贾马尔称，女儿2024年初出生后他给黄仁勋发了报喜邮件，对方五分钟内回复，随后还让助理送来写有祝贺内容的礼盒。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/459.htm"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/459.htm",
-          "is_primary": false,
-          "published_at": "2026-11-21T19:10:42+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T19:10:42+08:00",
-      "updated_at": "2026-11-21T19:10:42+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "前英伟达总监回忆黄仁勋强硬也温暖",
-      "lead_zh": "前英伟达AI应用软件产品管理总监贾马尔对《商业内幕》讲述与黄仁勋共事三年半的经历：他通过“Top 5 Things”邮件直接掌握一线情况，也会在员工孩子出生后亲自准备礼盒。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "IT之家援引《商业内幕》，现年**43**岁、曾与黄仁勋共事三年半的前英伟达AI应用软件产品管理总监贾马尔讲述了在总部Endeavor大楼的经历。他于**2022**年加入、**2025**年下半年离开，办公室与黄仁勋同楼。他记得入职第一天在走廊遇到黄仁勋，对方停下交谈了三四十秒；只要对方没有出差，他基本每隔三四天就能在走廊遇见一次。",
-            "英伟达有不成文规定：参加黄仁勋的会议前，最好先发出“Top 5 Things”（T5T）邮件，列出五项重点、障碍和所需帮助。贾马尔说，黄仁勋会阅读数千封T5T，而不是只靠层级过滤信息，也常亲自回复。筹备GTC时，他会走遍演示区，有一次在一个展台前停留近**30**分钟给改进意见。贾马尔还提到，**2024**年初女儿出生后他发了报喜邮件，黄仁勋**五**分钟内回复，后来又让助理送来写有祝贺内容的礼盒。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "他怎么说",
-          "paras": [
-            "据贾马尔称，他从未见过黄仁勋与员工单独一对一会谈，对方更倾向让七人、十人甚至更多人同时开会，以确保信息一致。展望近几周事态，他个人直觉认为黄仁勋最终会回来。他提到自己加入时公司估值大约是**3000**亿或**5000**亿美元，后来增长到接近**5**万亿美元。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        }
-      ],
-      "image_url": "",
-      "image_source": "",
-      "image_origin_url": "",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n50d4651579be",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "美国公司用Model 3零件改装电动MPV",
-      "original_title": "美国公司将特斯拉 Model 3 爆改成 MPV，超充、OTA、辅助驾驶都能用",
-      "summary": "威斯康星州Hoffman EV在拉斯维加斯SEMA展展出Badger，拆用旧款特斯拉Model 3的电池、电机和车机，配上新铝制车身，仍可用超充、OTA和FSD。公司目标是2027年投产，年产量约100辆。",
-      "facts": [
-        {
-          "text": "Hoffman EV在拉斯维加斯SEMA展展出Badger，使用旧款Model 3的电池、电机、车载电脑等零件并配上新铝制车身，目前高速续航约240公里，目标价格合计约7万美元。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/458.htm"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据创始人杰弗里·霍夫曼称，该车目前可以使用特斯拉超充、软件更新和FSD，但这些权限未来可能被停用，且因车身比Model 3短，他不建议使用FSD。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/458.htm"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/458.htm",
-          "is_primary": false,
-          "published_at": "2026-11-21T18:50:42+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T18:50:42+08:00",
-      "updated_at": "2026-11-21T18:50:42+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "美国公司用Model 3零件改装电动MPV",
-      "lead_zh": "威斯康星州Hoffman EV在SEMA展展出Badger，拆用旧款特斯拉Model 3的电池、电机和车机，配上新铝制车身，仍可用超充和OTA。公司目标是2027年投产。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "IT之家援引《商业内幕》报道，特斯拉从未进入MPV市场，杰弗里·霍夫曼创立的威斯康星州企业Hoffman EV近日在拉斯维加斯SEMA展展出Badger。该公司不自研平台，而是拆用旧款Model 3的电池、电机、车载电脑、摄像头、车内屏幕、线束和座椅，再配上全新铝制车身。目前该车高速续航约**240**公里，团队希望下一辆原型车达到**320**公里。",
-            "Hoffman EV将**2027**年定为开放预订并启动生产的目标年份，预计年产量约**100**辆。给出的目标价格是：底盘约**1**万美元，车身套件约**4**万美元，组装约**1**万美元；再加上一辆约**2**万美元、用于提供零件的Model 3，税前总价约**7**万美元。霍夫曼为参展曾亲自驾驶Badger往返拉斯维加斯。该公司与特斯拉没有沟通。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "创始人怎么说",
-          "paras": [
-            "据霍夫曼称，Badger目前可以使用特斯拉超级充电网络、软件更新和FSD（监督版），但这些权限未来可能被限制甚至禁用。他不建议使用FSD，因为Badger车身比Model 3更短，辅助驾驶可能难以适应尺寸差异。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        }
-      ],
-      "image_url": "img/7e09b0b382b1a39fb3b39c63084f87bba6f2e827.jpg",
-      "image_source": "IT之家",
-      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/84738f48-4fb1-497b-b6d7-7ce507ffae60.jpg",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n101fc3518e5f",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "开源循环模型Inkling 2 Mini可在笔记本运行",
-      "original_title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
-      "summary": "Thinking Machines发布开源循环变换器Inkling 2 Mini：24层中有12层会对每个token循环三次，总参数264亿。它在Artificial Analysis智力指数上与Qwen3.8 27B打平，成本约为其六分之一。",
-      "facts": [
-        {
-          "text": "Thinking Machines发布开源MoE模型Inkling 2 Mini，总参数264亿，24层中有12层会对每个token连续运行三次，上下文窗口为100万token，采用Apache 2.0许可。",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据该公司称，循环使模型能在内部推理更久而不多生成文本；它在Artificial Analysis智力指数上得到20分，与Qwen3.8 27B打平，成本约为其六分之一、速度约为四倍。",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
-          "is_primary": false,
-          "published_at": "2026-11-21T18:33:02+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T18:33:02+08:00",
-      "updated_at": "2026-11-21T18:33:02+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "开源循环模型Inkling 2 Mini可在笔记本运行",
-      "lead_zh": "Thinking Machines发布开源循环模型Inkling 2 Mini，24层中有12层会对每个token循环三次。它与Qwen3.8 27B在智力指数上打平，成本约为其六分之一。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "Thinking Machines发布开源循环变换器Inkling 2 Mini：在**24**层里，有**12**层会对每个token连续运行三次，从而延长内部推理、减少向外生成的文字。这是混合专家模型，总参数**264**亿，因循环设计每个token激活**54**亿参数；它能处理文本和图像，上下文窗口为**100**万token，采用Apache 2.0许可。",
-            "在代理式编程测试中，该模型在不到1000亿参数的开源模型里领先，DeepSWE v1.1得分为**48.2%**，Vals Index v2.2为46.5%。Artificial Analysis给它的智力指数是**20**分，与Qwen3.8 27B打平，成本约为其**六**分之一，速度约为**四**倍。它可在至少**32**GB内存的Mac以及英伟达DGX Spark上本地运行，权重和可变循环的研究版已在Hugging Face提供，也可在Tinker Playground试用。"
-          ],
-          "sources": [
-            "The Decoder"
           ]
         },
         {
           "kind": "claims",
           "heading": "公司怎么说",
           "paras": [
-            "据Thinking Machines称，这种循环设计能让模型在内部思考更久，从而用更少的token找到正确答案。"
-          ],
-          "sources": [
-            "The Decoder"
-          ]
-        }
-      ],
-      "image_url": "img/85af9e16282f97e208b20d9f1e161fd36ea1f89b.jpg",
-      "image_source": "The Decoder",
-      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2025/09/thinking_machines_ca_illustration.png",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n31739de0b0b3",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "纳斯达克100创疫情以来最差周跌幅",
-      "original_title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
-      "summary": "纳斯达克100周五下跌5.6%，全周跌10.4%，创新冠疫情以来最差周表现，较10月高点回落20%，进入熊市。英伟达在SEC审查其会计的报道出台后当天下跌14%，Anthropic上市次日跌9.1%。",
-      "facts": [
-        {
-          "text": "纳斯达克100周五下跌5.6%，全周跌10.4%，为新冠危机以来最差一周，较10月高点回落20%。英伟达周五下跌14%，美国半导体指数下跌10.7%，Anthropic上市次日跌9.1%。",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据《金融时报》称，该指数已较10月高点下跌20%，进入熊市区间。",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
-          "is_primary": false,
-          "published_at": "2026-11-21T18:27:44+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T18:27:44+08:00",
-      "updated_at": "2026-11-21T18:27:44+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "纳斯达克100创疫情以来最差周跌幅",
-      "lead_zh": "纳斯达克100周五下跌5.6%，全周跌10.4%，创新冠疫情以来最差周表现，并较10月高点回落20%。英伟达当天跌14%，Anthropic上市次日跌9.1%。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "The Decoder报道，偏重科技股的纳斯达克100周五下跌**5.6%**，全周跌**10.4%**，为新冠危机以来最差一周。据《金融时报》，该指数已较**10**月高点下跌**20%**，进入熊市区间。文章把抛售归因于对规模庞大的AI建设支出的疑虑、英伟达相关丑闻及对华交易疑问，以及民主党在中期选举胜选后的政治压力，同时高油价和通胀也使利率维持在高位。",
-            "英伟达周五跌幅最大，在有报道称SEC正在审查其会计问题后下跌**14%**。美国半导体指数同日跌**10.7%**，闪迪、美光和博通等存储与芯片股均下跌。Anthropic在创纪录的IPO次日下跌**9.1%**，几乎吐回上市后的涨幅。"
-          ],
-          "sources": [
-            "The Decoder"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "报道怎么说",
-          "paras": [
-            "据The Decoder称，投资者也在争论芯片和存储股的高估值在周期性行业里是否仍然成立；对多轮耗资巨大的AI扩建、英伟达相关争议以及政治逆风叠加在一起，正在冲击一度过热的估值。"
-          ],
-          "sources": [
-            "The Decoder"
-          ]
-        }
-      ],
-      "image_url": "img/d31790a0423166244ca57899d58beabe9d03b8dd.jpg",
-      "image_source": "The Decoder",
-      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/tech_crash_synth-1200x675.png",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n33cfed4b9055",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "华科与阿里成立AI前沿安全研究中心",
-      "original_title": "华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等",
-      "summary": "华中科技大学与阿里巴巴11月18日签署协议，共建智能攻防与前沿安全联合研究中心，首批启动9个课题，覆盖大模型安全攻防、智能体与终端安全、系统软件安全以及数据协同与隐私保护。",
-      "facts": [
-        {
-          "text": "华中科技大学与阿里巴巴集团于11月18日签署协议，共建智能攻防与前沿安全联合研究中心，首批启动9个课题，覆盖四大方向。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/423.htm"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据官方称，中心将设立图像对抗样本与终端威胁研判、隐私保护关系图谱等课题，探索智能体操作安全和密态计算。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/423.htm"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/423.htm",
-          "is_primary": false,
-          "published_at": "2026-11-21T17:57:05+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T17:57:05+08:00",
-      "updated_at": "2026-11-21T17:57:05+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "华科与阿里成立AI前沿安全研究中心",
-      "lead_zh": "华中科技大学与阿里巴巴于11月18日签署协议，共建智能攻防与前沿安全联合研究中心，首批启动9个课题，覆盖大模型安全攻防、智能体与终端安全等四个方向。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "IT之家报道，华中科技大学与阿里巴巴集团于**11**月**18**日签署合作协议，聚焦AI安全共建“智能攻防与前沿安全联合研究中心”。首批启动**9**个课题，覆盖大模型安全攻防、智能体与终端安全、智能化系统与软件安全、数据协同与隐私保护四大方向。",
-            "官方公布的案例包括：针对AI智能体代用户操作手机时屏幕可能被伪造、操作可能被恶意诱导的风险，设立“图像对抗样本与终端威胁研判”课题；针对购物、地图、外卖等应用间的数据协同与隐私矛盾，设立“隐私保护关系图谱”课题，探索通过密态计算等技术实现数据可用不可见、协同不透传。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "官方怎么说",
-          "paras": [
-            "据IT之家引述的官方介绍，这些课题旨在识别和防护智能体与终端侧的安全风险，并让便利与隐私保护不再成为单选题。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        }
-      ],
-      "image_url": "img/af18c116bd32b46e829a3ddb78f0316135c029d4.jpg",
-      "image_source": "IT之家",
-      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/1b17689c-482d-4ea6-b420-a190cba0df35.jpg?x-bce-process=image/format,f_auto",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "nc050b8f7188f",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "美参议员批评苹果谷歌放任AI脱衣应用",
-      "original_title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”",
-      "summary": "美国参议员怀登、马基和卢汉致函苹果、谷歌和Meta，批评它们未能有效下架用于生成未经同意裸照的AI应用，并指Meta仍从相关广告中获利。三家公司均称已采取措施。",
-      "facts": [
-        {
-          "text": "美国参议员罗恩·怀登、埃德·马基和本·卢汉当地时间18日致函苹果、谷歌和Meta的CEO，批评应用商店和广告平台未能有效阻止AI脱衣应用。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/421.htm"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据谷歌发言人卡尔·瑞安称，Google Play不允许含色情内容或对他人图像做AI脱衣处理的应用上架，并会主动检测下架。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/421.htm"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/421.htm",
-          "is_primary": false,
-          "published_at": "2026-11-21T17:22:39+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T17:22:39+08:00",
-      "updated_at": "2026-11-21T17:22:39+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "美参议员批评苹果谷歌放任AI脱衣应用",
-      "lead_zh": "美国参议员怀登、马基和卢汉致函苹果、谷歌和Meta，批评未能有效下架用于生成未经同意裸照的AI应用，并指Meta仍从相关广告中获利。三家公司均回应称已采取措施。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "IT之家援引英国《卫报》报道，美国参议员罗恩·怀登、埃德·马基和本·卢汉当地时间**18**日致函苹果、谷歌和Meta的CEO，指出这些公司未能有效识别或下架用于生成未经当事人同意的裸照或色情图像的应用，并认为现有防护不足以阻止此类应用出现在应用商店或广告平台。研究称，尽管三家公司政策禁止此类应用，它们仍出现在苹果和谷歌应用商店中，或通过Meta广告推广，儿童也能接触到。",
-            "信件还提到，过去两年未经同意的AI裸照有所增加。联合国儿童基金会**2026**年初报告显示，**11**个国家至少有**120**万名儿童称曾遭遇未经本人同意的裸照侵害。参议员认为，苹果和谷歌不仅没有下架相关应用，还可能从分发中获利。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "各方怎么说",
-          "paras": [
-            "据怀登称，大型科技公司没有增加投入，反而在削减保护用户的团队。据谷歌发言人卡尔·瑞安称，Google Play不允许含色情内容或对他人图像做AI脱衣处理的应用上架。据Meta发言人安迪·斯通称，平台禁止推广AI脱衣应用，并已删除**9200**万条色情广告。苹果发言人则称，相关报告未能反映现行软件和安全功能，包括加强对青少年的保护。"
+            "据阿里巴巴集团副总裁、闲鱼CEO谌伟业称，过去一年已有超**150**万用户在闲鱼获得持续稳定的收入，其中约四成是00后和大学生。随着App向智能体演进，买卖双端智能体可加快闲置商品流转，并提升维修、陪诊、AI编程等复杂服务的供需匹配效率。数据显示，过去一年闲鱼服务类订单增长**87%**，其中AI编程、AI漫剧等AI相关服务订单增长达**157%**。"
           ],
           "sources": [
             "IT之家"
@@ -1680,194 +1470,285 @@
       "read_minutes": 0
     },
     {
-      "id": "nc77f37fad59e",
-      "category": "大模型与产品",
+      "id": "nda1028cd2350",
+      "category": "行业动态",
       "importance": 1,
       "verified": false,
-      "title": "字节跳动提出三阶段训练并开源Axion 1.0",
-      "original_title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-      "summary": "字节跳动与多家美国大学推出AI代理Axion 1.0，称只需三个训练阶段，就能在基准测试上接近OpenAI和Anthropic的顶尖商业模型。研究将提升归因于精心筛选的数据，并开放模型、数据和代码。",
+      "title": "报告称美国会计行业AI用得多但整合仍不足",
+      "original_title": "报告：美国会计行业 AI 采用率高，但技术整合成熟度不足",
+      "summary": "沃尔特斯克鲁威尔一项调查显示，88%的美国会计从业者日常使用生成式AI，68%在使用智能体AI，但在完成数字化成熟度评估的事务所中，仅13%达到该公司定义的技术领先门槛。",
       "facts": [
         {
-          "text": "字节跳动与多家美国大学推出Axion 1.0，论文认为许多AI代理的训练流水线过于叠加，三个阶段即足以训练出有竞争力的开源代理，并公开了模型、数据和代码。",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/"
+          "text": "沃尔特斯克鲁威尔税务与会计发布《面向未来的会计师》报告，调查于2026年6月至7月进行，共收集746名美国会计行业从业者的反馈。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/679.htm"
+        },
+        {
+          "text": "报告显示，88%的美国会计从业者日常使用生成式AI，68%在使用智能体AI；但在接受数字化成熟度评估的事务所中，只有13%达到该公司定义的技术领先门槛。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/679.htm"
         }
       ],
       "claims": [
         {
-          "text": "据研究团队称，Axion 1.0在基准测试上可接近OpenAI和Anthropic的顶尖商业模型，提升主要来自精心筛选的训练数据，而不是不断叠加训练步骤。",
+          "text": "据该公司发言人称，问题的关键并不在于企业高估了自身的技术水平，而在于采用技术与把技术整合到整个业务体系中，本质上是两回事。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/679.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/679.htm",
+          "is_primary": false,
+          "published_at": "2026-11-22T17:58:03+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T17:58:03+08:00",
+      "updated_at": "2026-11-22T17:58:03+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报告称美国会计行业AI用得多但整合仍不足",
+      "lead_zh": "沃尔特斯克鲁威尔一项调查显示，88%的美国会计从业者日常使用生成式AI，但在完成数字化成熟度评估的事务所中，仅13%达到该公司定义的技术领先门槛。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "周三，沃尔特斯克鲁威尔税务与会计发布《面向未来的会计师》报告。调查于2026年6月至7月进行，共收集746名美国会计行业从业者的反馈。报告发现，83%的美国会计事务所将自己定位为“技术创新者”或“早期采用者”；**88%**的从业者表示日常使用生成式AI，另有**68%**表示正在使用智能体AI。",
+            "不过，在接受数字化成熟度评估的事务所中，只有**13%**达到该公司定义的技术领先门槛，标准包括经常使用AI、全面采用或明确计划上云，以及较高的技术整合水平。需要说明的是，并非所有受访者都完成了这项评估：在746人中只有**300**人回答了全部相关问题，因此83%与**13%**不能直接比较。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "机构怎么说",
+          "paras": [
+            "沃尔特斯克鲁威尔向Business Insider表示，美国会计事务所在技术采用方面已取得显著进展，但尚未把各项独立技术整合为更加协同的运营模式。该公司发言人说，问题的关键并不在于企业高估了自身的技术水平，而在于采用技术与把技术整合到整个业务体系中，本质上是两回事。报告认为，下一步挑战是推动真正的业务运营变革，而不是只在现有流程中增加几款AI工具。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/a6d137edc3736e83b13b3ba80092d98fe3bc7be6.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2025/11/dee457e5-773d-4331-a243-41b272580c2b.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n0cbda05d55dc",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "GPT-6.2 Astra和Sol更简短但坦诚度评分低于Claude",
+      "original_title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "summary": "Artificial Analysis评测显示，OpenAI的GPT-6.2 Astra和Sol平均回复更短、更快切入正题，但“承认不确定性”得分明显下降，透明度指数也低于Anthropic的Claude模型。",
+      "facts": [
+        {
+          "text": "Artificial Analysis评测显示，GPT-6.2 Astra平均回复长度从352词降至210词，下降40%；Sol从337词降至223词，下降34%。",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/"
+          "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/"
+        },
+        {
+          "text": "在“承认不确定性”这项相对排名中，Astra从96降至24，Sol从98降至51。Anthropic模型在透明度指数上为81和90，高于Astra的41和Sol的57。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该评测称，这些个性分数是相对排名，分值24并不意味着Astra只在24%的回答中承认不确定性。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/"
         }
       ],
       "analysis": [],
       "sources": [
         {
           "name": "The Decoder",
-          "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+          "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
           "is_primary": false,
-          "published_at": "2026-11-21T17:17:24+08:00"
+          "published_at": "2026-11-22T17:41:37+08:00"
         }
       ],
-      "published_at": "2026-11-21T17:17:24+08:00",
-      "updated_at": "2026-11-21T17:17:24+08:00",
+      "published_at": "2026-11-22T17:41:37+08:00",
+      "updated_at": "2026-11-22T17:41:37+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "字节跳动提出三阶段训练并开源Axion 1.0",
-      "lead_zh": "字节跳动与多家美国大学推出AI代理Axion 1.0，称只需三个训练阶段，就能在基准测试上接近OpenAI和Anthropic的顶尖商业模型，并开放了模型、数据和代码。",
+      "title_zh": "GPT-6.2 Astra和Sol更简短但坦诚度评分低于Claude",
+      "lead_zh": "一项评测显示，OpenAI两款新模型回复更短、更快切入正题，但在承认不确定性上的得分明显下降，透明度指数也低于Anthropic的模型。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "The Decoder报道，TikTok母公司字节跳动与多家美国大学的研究团队推出开源AI代理Axion 1.0，试图说明训练并不需要越来越复杂的流水线。论文指出，开发者常把许多训练阶段叠在一起，以至于几乎无法判断哪一步真正有效，复现成本也越来越高。该团队选择只保留**三**个训练阶段，并把模型、数据和代码一并公开。",
-            "文章介绍，这类代理越来越多被要求能自己检索网页、运行代码并完成多步任务。Axion 1.0的目标，是在更短、更可复现的训练流程下，达到接近一线商业模型的水平。"
+            "Artificial Analysis的评测显示，OpenAI的GPT-6.2 Astra和Sol给出的回答更短、更快切入正题，结构也更少。Astra平均回复长度从352词降至210词，下降约**40%**；Sol从337词降至223词，下降约**34%**。Astra平均每条回答的标题数从1.99降至0.11，Sol从1.85降至0.25。组织指数上，Astra从70降至11，Sol从86降至27；但“先回答问题”一项上，Astra从49升至89，Sol从64升至87。",
+            "变化最大的是“承认不确定性”：Astra从**96**降至**24**，Sol从**98**降至**51**。与字数统计不同，这些个性分数是1到100的相对排名，用来比较该特质在各模型中的强弱。Anthropic的Claude Fable 5.2和Opus 5.5在透明度指数上为**81**和**90**，高于Astra的**41**和Sol的**57**。评测使用900道无系统提示的英文题目，并由3个AI评审对匿名回答两两比较。"
           ],
           "sources": [
             "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "评测怎么说",
+          "paras": [
+            "评测方强调，分值**24**并不意味着Astra只在**24%**的回答中承认不确定性，而只说明这一特质相对其他受测模型更弱。该评测在LinkedIn和X上公布，覆盖**30**项个性特质，并汇总为**8**项更高层指数。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "na3d920b89239",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "菲尔兹奖得主认为黎曼猜想AI证明正确但需被理解",
+      "original_title": "菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可",
+      "summary": "2022年菲尔兹奖得主詹姆斯·梅纳德表示，他相信Levent Alpöge与Claude合作的黎曼猜想证明是正确的，但只有当有人真正理解并能解释清楚时，才可能得到数学界的全面认可。",
+      "facts": [
+        {
+          "text": "当地时间11月20日，Anthropic数学家Levent Alpöge宣布与AI模型Claude合作完成黎曼猜想证明；11月21日，Lean与Mathlib社区发表联合声明，称以约1700万行Lean代码给出的证明已通过核验。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/677.htm"
+        },
+        {
+          "text": "2022年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德接受采访时表示，他认为这项证明是正确的，但理解一个定理为什么成立，远比仅仅证明它成立更重要。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/677.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据梅纳德称，只有当有人真正理解这项成果并能够向其他人解释清楚时，这份证明才有可能得到数学界的全面认可。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/677.htm"
+        },
+        {
+          "text": "据梅纳德称，由于结果已获形式化验证并经过独立核实，加之阿尔珀格过去在提出此类重大主张方面记录可靠，他非常有信心认为这一结果是正确的。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/030/677.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/030/677.htm",
+          "is_primary": false,
+          "published_at": "2026-11-22T17:35:58+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T17:35:58+08:00",
+      "updated_at": "2026-11-22T17:35:58+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "菲尔兹奖得主认为黎曼猜想AI证明正确但需被理解",
+      "lead_zh": "2022年菲尔兹奖得主詹姆斯·梅纳德表示，他相信Levent Alpöge与Claude合作的黎曼猜想证明是正确的，但只有当有人真正理解并能解释清楚时，才可能得到数学界全面认可。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月22日消息，当地时间**11**月**20**日，Anthropic数学家莱文特·阿尔珀格宣布，自己与AI模型Claude合作，完成了黎曼猜想的证明。**11**月**21**日，Lean与Mathlib社区发布联合声明，称以Lean库形式给出的证明已经通过核验，代码约**1700**万行。",
+            "2022年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德接受《每日经济新闻》采访时谈到了这项结果。梅纳德是解析数论领域的重要数学家，长期研究素数分布等问题，并因此在**2022**年获得菲尔兹奖。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "学者怎么说",
+          "paras": [
+            "据梅纳德称，他认为这项证明是正确的，但强调理解一个定理为什么成立，远比仅仅证明它成立更重要；只有当有人真正理解这项成果，并能够向其他人解释清楚时，这份证明才有可能得到数学界的全面认可。由于结果已获形式化验证并经过独立核实，加之阿尔珀格过去在提出此类重大主张方面记录可靠，他称非常有信心认为这一结果是正确的。他还表示，在真正理解证明中的思想和整体框架之前，这项成果很可能无法带来人们期待的变革，但相信随着时间推移最终会理解它。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/bdeb13c3a3a2b249a690d34fb6695b5a4b8ef1f9.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/04897187-2e54-4750-9328-9eecc24cce8e.jpg?x-bce-process=image/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nb60bcb35a6db",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Nature研究用葡萄糖供电刺激迷走神经控糖",
+      "original_title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "summary": "新加坡国立大学与南京邮电大学在《Nature》发表研究，介绍植入装置NeuroAxis：它用葡萄糖发电并刺激迷走神经。二型糖尿病大鼠治疗两周、一型大鼠治疗八周后，血糖恢复接近正常。",
+      "facts": [
+        {
+          "text": "新加坡国立大学与南京邮电大学在《Nature》发表研究，介绍植入装置NeuroAxis，利用葡萄糖发电并通过电刺激迷走神经调节血糖。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/511904.html"
+        },
+        {
+          "text": "实验显示，二型糖尿病大鼠在植入装置两周后血糖降至接近健康大鼠水平；一型糖尿病大鼠在治疗八周后恢复正常血糖控制，研究人员还观察到胰岛β细胞增殖。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/511904.html"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据研究团队称，系统每隔30分钟采集一次燃料电池输出电压，并将11.1毫摩尔/升的葡萄糖浓度设为高血糖阈值，对应约0.6伏电压。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/511904.html"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/511904.html",
+          "is_primary": false,
+          "published_at": "2026-11-22T14:21:47+08:00"
+        }
+      ],
+      "published_at": "2026-11-22T14:21:47+08:00",
+      "updated_at": "2026-11-22T14:21:47+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Nature研究用葡萄糖供电刺激迷走神经控糖",
+      "lead_zh": "新加坡国立大学与南京邮电大学在《Nature》发表研究，介绍植入装置NeuroAxis，称二型糖尿病大鼠治疗两周、一型大鼠治疗八周后血糖恢复接近正常。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "《Nature》近日发表新加坡国立大学与南京邮电大学的研究，介绍植入装置NeuroAxis。该装置由葡萄糖燃料电池、柔性控制电路和可形变神经电极组成，利用葡萄糖发电，再通过电刺激迷走神经，调动神经免疫调节机制，并根据血糖变化自动决定何时启动或停止刺激。",
+            "在二型糖尿病大鼠为期六周的实验中，治疗仅**两周**后血糖就降至接近健康大鼠的水平，进食量、体重和体脂也下降；血糖恢复正常后装置不再触发刺激，效果仍维持到六周结束。一型糖尿病大鼠经过**八周**治疗后，血糖和糖化血红蛋白持续下降，血液胰岛素逐渐上升，并恢复正常血糖控制，胰腺切片中还观察到更多正在增殖的胰岛β细胞。"
+          ],
+          "sources": [
+            "量子位"
           ]
         },
         {
           "kind": "claims",
           "heading": "研究怎么说",
           "paras": [
-            "据该团队称，Axion 1.0在基准测试上可与OpenAI和Anthropic的顶尖商业模型竞争，提升主要来自精心筛选的训练数据，而不是继续增加训练步骤。"
+            "研究团队称，系统每隔**30**分钟采集一次燃料电池输出电压，在大鼠实验中将**11.1**毫摩尔/升的葡萄糖浓度设为高血糖阈值，对应约**0.6**伏；若电压连续**5**次超过阈值，就向迷走神经输出持续**3**分钟的双相电脉冲，以避免进食后的短暂波动触发不必要刺激。报道也指出，人体与大鼠存在差异，且在模拟生理环境的长期浸泡中，燃料电池运行**90**天后功率密度已降至初始水平的**64.5%**。"
           ],
           "sources": [
-            "The Decoder"
-          ]
-        }
-      ],
-      "image_url": "img/6e8ed14a34a280754c2045c2ff6726aa3a900ebc.jpg",
-      "image_source": "The Decoder",
-      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/bytedance-axio-training-pipeline-nano-banana-pro.jpg",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n858720424f79",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "三星为One UI 9.5测试AI天气提醒",
-      "original_title": "代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知",
-      "summary": "SammyGuru在One UI 9.5测试版中发现，三星天气应用正测试依赖个人数据智能系统的提醒：可识别起床和通勤习惯并自动弹出天气卡片。相关功能预计明年年初随Galaxy S27系列正式上线。",
-      "facts": [
-        {
-          "text": "外媒SammyGuru在拆解One UI 9.5测试版时发现，三星天气应用正测试AI提醒，可识别用户起床和通勤习惯，在离开家或工作地点时弹出天气预报卡片。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/419.htm"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据IT之家称，相关代码显示Personal Data Intelligence会在本地分析位置，但经纬度仍会分享给天气数据服务商The Weather Channel，且仅用于提供天气信息。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/419.htm"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/419.htm",
-          "is_primary": false,
-          "published_at": "2026-11-21T16:53:47+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T16:53:47+08:00",
-      "updated_at": "2026-11-21T16:53:47+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "三星为One UI 9.5测试AI天气提醒",
-      "lead_zh": "SammyGuru在One UI 9.5测试版中发现，三星天气应用正测试可识别起床和通勤习惯的AI提醒，并自动弹出天气卡片。相关功能预计明年年初随Galaxy S27系列正式上线。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "IT之家报道，外媒SammyGuru在拆解三星最新One UI 9.5测试版时发现，天气应用正在测试多项AI智能提醒。系统依赖Personal Data Intelligence（个人数据智能），可识别用户早晨起床和开始通勤的时间，并在检测到离开家或工作地点时自动弹出天气预报卡片。",
-            "代码字符串显示，该系统会在设备本地分析位置数据，但用户的经纬度仍会分享给三星天气数据服务商The Weather Channel，用于提供天气信息，且不会再与第三方分享。Android Authority此前还发现，新系统拟新增“三星驾驶报告”，在出发前约**1**小时检查天气和睡眠评分并推送提醒。这些功能预计将于明年年初随Galaxy S27系列在One UI 9.5正式版上线。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "报道怎么说",
-          "paras": [
-            "据IT之家称，三星似乎希望通过One UI 9.5更全面地学习用户的作息和出行规律，从而提供更主动的个性化服务。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        }
-      ],
-      "image_url": "img/7522edb355d60ed034daec6d6fb5febe5fea3f75.jpg",
-      "image_source": "IT之家",
-      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/16019c5e-1dfc-4407-bb38-dae143932144.png",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n0035ea43553d",
-      "category": "政策与安全",
-      "importance": 1,
-      "verified": false,
-      "title": "韩国高考用紧急短信查出54名作弊考生",
-      "original_title": "韩国首次利用紧急灾难通知“0 级短信”打击 AI 辅助作弊行为，成功在高考中抓获 54 名违规考生",
-      "summary": "韩国教育部在2027学年度高考中，首次启用紧急灾难通知“0级短信”防范作弊，警报系统查出54人，连同金属探测和人工检查等手段，共查出111名携带违禁设备的考生。",
-      "facts": [
-        {
-          "text": "韩国教育部在2027学年度大学修学能力考试中首次使用紧急灾难通知“0级短信”，警报系统查出54名违规考生，连同其他检查共查出111人携带违禁设备。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/387.htm"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据《韩国先驱报》称，开考前10分钟的首轮警报查出31人，当天下午两轮警报后，经警报系统查出的人数达到54人。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/387.htm"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/387.htm",
-          "is_primary": false,
-          "published_at": "2026-11-21T16:10:21+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T16:10:21+08:00",
-      "updated_at": "2026-11-21T16:10:21+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "韩国高考用紧急短信查出54名作弊考生",
-      "lead_zh": "韩国教育部在2027学年度高考中首次启用紧急灾难通知“0级短信”协助防作弊，警报系统查出54人，连同其他检查共查出111名携带违禁设备的考生。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "IT之家援引《韩国先驱报》报道，韩国教育部在2027学年度大学修学能力考试中，首次利用紧急灾难通知“0级短信”协助打击作弊，警报系统查出**54**名违规考生；连同其他检查，累计**111**人被查出携带违禁设备。当天上午8时30分、正式开考前10分钟响起第一轮警报，**31**人因携带未经允许的电子设备被查出，成绩随即被判无效；下午2时21分和2时57分的第二、三轮警报后，经警报系统查出的人数达到**54**人。",
-            "此后，警方和考务人员又通过金属探测器、Wi-Fi信号检测和人工搜查发现**52**人，另有**5**人被当场发现正在使用违禁设备。报道称，此举也反映出考试机构正在加强对微型摄像头、智能手机及其他电子设备的防范。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "报道怎么说",
-          "paras": [
-            "据韩国媒体报道，这次大规模启用“0级短信”，是在AI辅助作弊讨论升温的背景下采取的措施，旨在于开考前后及时发现藏匿的电子设备。"
-          ],
-          "sources": [
-            "IT之家"
+            "量子位"
           ]
         }
       ],
@@ -1878,252 +1759,59 @@
       "read_minutes": 0
     },
     {
-      "id": "n2ae763e6954d",
+      "id": "n95bb40f524aa",
       "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "Gemini上线由Omni 1.2 Flash驱动的GIF生成",
-      "original_title": "谷歌为 Gemini 上线 GIF 动态图片生成功能，由 Omni 1.2 Flash 模型驱动",
-      "summary": "谷歌为Gemini上线GIF生成功能，由视频模型Gemini Omni 1.2 Flash驱动，可生成循环动图和表情包，对美国、日本等八个国家的用户免费开放。同期推出的Gemini 4 Neon已向开发者开放。",
+      "title": "数学家与Claude再证NS方程同日现940页手稿",
+      "original_title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "summary": "Anthropic数学家Levent Alpöge与纽约大学教授Tristan Buckmaster于11月20日公布79页论文，声称证明三维Navier-Stokes方程无外力有限时间爆破；同日一份近12年写成的940页纯人工草稿也公开。",
       "facts": [
         {
-          "text": "谷歌为Gemini上线由Gemini Omni 1.2 Flash驱动的GIF生成，面向所有Google AI订阅用户，并在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国免费提供。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/381.htm"
-        },
-        {
-          "text": "谷歌11月18日还推出主攻复杂编程、科学研究和企业工作流的Gemini 4 Neon，API输入价格为每百万词元3美元、输出15美元。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/381.htm"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据谷歌称，用户可在主聊天输入提示词，或在图像与视频工具中选择GIF并描述需求，等待片刻即可生成循环动态图或表情包。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/381.htm"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/381.htm",
-          "is_primary": false,
-          "published_at": "2026-11-21T15:41:30+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T15:41:30+08:00",
-      "updated_at": "2026-11-21T15:41:30+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "Gemini上线由Omni 1.2 Flash驱动的GIF生成",
-      "lead_zh": "谷歌为Gemini上线GIF生成功能，由视频模型Gemini Omni 1.2 Flash驱动，可生成循环动图和表情包，并在美国、日本等八个国家免费开放。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "IT之家报道，谷歌宣布为Gemini上线GIF生成功能，由视频模型Gemini Omni 1.2 Flash驱动，可生成循环动态图和搞笑表情包。该功能面向所有Google AI订阅用户，并在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国免费提供。用户可在主聊天输入提示词，或在图像与视频工具中选择GIF并描述需求后等待生成。",
-            "谷歌还于**11**月**18**日推出Gemini 4 Neon，主攻复杂编程、科学研究和企业工作流程，开始向开发者、企业及部分付费订阅用户开放。API调用价格为：每**100**万词元输入**3**美元、输出**15**美元，缓存输入每百万token为**0.15**美元，并提供Low、medium、high和xhigh四种推理级别。订阅Google AI Pro或Ultra后，可在Gemini应用中选择该模型。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "报道补充",
-          "paras": [
-            "据IT之家介绍，Gemini 4 Neon意在更好平衡推理能力、任务处理速度与成本，目前已开始向开发者和部分付费用户开放。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        }
-      ],
-      "image_url": "img/840605505dd6857474017d97fb41052ff0115225.jpg",
-      "image_source": "IT之家",
-      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/11f8c7d1-a87b-4e38-888f-7eb951f8836e.png",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "na179600a68e6",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "Nothing首款AI原生硬件定档12月8日",
-      "original_title": "Nothing 首款 AI 原生硬件设备定档 12 月 8 日亮相：无屏幕设计、预计主打会议记录用途",
-      "summary": "Nothing预热首款AI原生硬件将于12月8日亮相，采用无屏幕拉丝金属矩形机身，配有Talk按键、录音键和红绿指示灯，预计主打会议记录等办公场景。CEO裴宇称它不是一款软件应用。",
-      "facts": [
-        {
-          "text": "Nothing发文预热首款AI原生硬件将于12月8日亮相，产品为无屏幕设计，预热图显示拉丝金属矩形机身，配有Talk按键、录音标识和红绿LED指示灯。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/379.htm"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据Nothing首席执行官裴宇称，当前AI缺乏对用户日常生活的理解，希望通过专门硬件让会议和交谈中的信息成为可用上下文；他还说这款产品没有屏幕，也不是软件应用。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/379.htm"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/379.htm",
-          "is_primary": false,
-          "published_at": "2026-11-21T15:28:50+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T15:28:50+08:00",
-      "updated_at": "2026-11-21T15:28:50+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "Nothing首款AI原生硬件定档12月8日",
-      "lead_zh": "Nothing预热首款AI原生硬件将于12月8日亮相，采用无屏幕拉丝金属矩形机身，并配有Talk按键和录音键，预计主打会议记录等办公场景。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "IT之家报道，Nothing发文预热旗下首款AI原生硬件设备将于**12**月**8**日正式亮相。产品采用无屏幕设计，定位为面向日常办公与生产力场景的AI工具。此前公布的预热图片显示，设备为小巧的矩形机身，表面使用拉丝金属，并配有实体按键：较大的按键标有“Talk”，另一枚带有录音标识，机身还有红色与绿色LED状态指示灯，外界据此预计其主打会议记录用途。",
-            "Nothing尚未公布完整规格和定价，此次只是定档预热。结合外观上的通话和录音按键，产品更像一款可随身携带的会议与语音助手硬件，而不是带屏幕的手机或耳机配件。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "公司怎么说",
-          "paras": [
-            "据Nothing首席执行官裴宇称，当前AI面临的一大问题是缺乏对用户日常生活的理解，会议、交谈中产生的信息往往无法及时成为模型可用的上下文，因此希望通过专门硬件让AI更自然地融入日常工作。他还透露，相应产品没有屏幕，也不是一款软件应用。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        }
-      ],
-      "image_url": "img/93cf86a0f6023594907e1a2bfeb5daf59ac77c59.jpg",
-      "image_source": "IT之家",
-      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/77fb1ff2-cba8-423e-8a7e-f8867024a131.png",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n52c0ad021f28",
-      "category": "芯片与算力",
-      "importance": 1,
-      "verified": false,
-      "title": "伯里称早已提醒英伟达等AI股风险",
-      "original_title": "“大空头”迈克尔 · 伯里谈 AI 股暴跌：我早就提醒过你们了",
-      "summary": "“大空头”迈克尔·伯里在X上说，他曾提醒市场注意CoreWeave、Nebius、英伟达和半导体股。当地时间20日英伟达开盘跌约4%、盘中最多跌14%，自10月6日高点以来已下跌约42%。",
-      "facts": [
-        {
-          "text": "迈克尔·伯里在X发文称已提醒市场注意CoreWeave、Nebius、英伟达和半导体股。当地时间20日英伟达开盘跌约4%、盘中最多跌14%，CoreWeave和Nebius跌幅约7%。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/378.htm"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据伯里称，他没有让人们去做空，但提供的信息足以让人决定卖出；他还说，若只把下跌看成婚外情或政治问题，就说明想得还不够深。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/1/030/378.htm"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "IT之家",
-          "url": "https://www.ithome.com/1/030/378.htm",
-          "is_primary": false,
-          "published_at": "2026-11-21T15:28:24+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T15:28:24+08:00",
-      "updated_at": "2026-11-21T15:28:24+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "伯里称早已提醒英伟达等AI股风险",
-      "lead_zh": "“大空头”迈克尔·伯里在X上说，他曾提醒市场注意CoreWeave、Nebius、英伟达和半导体股。当地时间20日英伟达开盘跌约4%，自10月高点以来已下跌约42%。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "IT之家报道，迈克尔·伯里在X发文点名CoreWeave、Nebius、英伟达和半导体股。当地时间20日开盘，英伟达下跌约**4%**，盘中最高跌幅达**14%**，CoreWeave和Nebius跌幅均在**7%**左右。据《商业内幕》，自10月6日盘中高点以来，这三只股票分别下跌约**42%**、**55%**和**65%**；本轮回调始于10月**7**日，同期纽约证券交易所半导体指数累计下跌约**30%**。",
-            "11月11日，也就是黄仁勋辞去CEO前一天，伯里在Substack呼吁股东卖出英伟达，认为其离任后增长将放缓、利润率也会收窄。次日他又把警告扩大到Nebius和CoreWeave等“新云服务商”。早在8月12日，他就曾称“Nebius就是繁荣行情见顶的写照”；当年他还做过空英伟达、CoreWeave和半导体指数。"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "他怎么说",
-          "paras": [
-            "据伯里称，他没有让人们去做空，但提供的信息足以让人决定卖出。他还强调，对英伟达及其合作伙伴的担忧远不止黄仁勋相关传闻，以及民主党掌控国会后可能出现的政策逆风；“如果你还觉得这一切只是婚外情和政治问题，那就说明你想得还不够深。”"
-          ],
-          "sources": [
-            "IT之家"
-          ]
-        }
-      ],
-      "image_url": "",
-      "image_source": "",
-      "image_origin_url": "",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "nbc49ec0ca91c",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "DeepSeek V1作者开源本地个人代理Linger",
-      "original_title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-      "summary": "前DeepSeek V1作者、DeepSeek-VL负责人Tony Zhang公布开源个人代理Linger，可在电脑上调用已登录的浏览器和邮箱，并针对本地模型优化。官方称12GB的RTX 3060即可运行125B模型。",
-      "facts": [
-        {
-          "text": "前DeepSeek V1作者、DeepSeek-VL项目负责人Tony Zhang公布开源个人代理Linger，优先运行在电脑上，可操作已登录的网页、邮箱和日历，并针对本地大模型做了优化。",
+          "text": "11月20日，34岁的Anthropic数学家Levent Alpöge与纽约大学教授Tristan Buckmaster公布79页论文，并同时公开Lean形式化证明代码，声称证明了三维Navier-Stokes方程的无外力有限时间爆破。",
           "source": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511570.html"
+          "url": "https://www.qbitai.com/2026/11/511870.html"
+        },
+        {
+          "text": "同一天，数学家Alessandro Maria Masullo发布一份名为《素数的音乐》的广义黎曼猜想证明草稿，共940页；美国数学学会主席Ravi Vakil强调这份草稿没有使用AI。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/511870.html"
         }
       ],
       "claims": [
         {
-          "text": "据官方称，125B参数的Qwen3.8-Flash-Next在12GB显存的RTX 3060和64GB内存上可达45.5 tokens/秒，在RTX 5090上可达179 tokens/秒。",
+          "text": "据陶哲轩称，这次Navier-Stokes证明的大体策略已经清楚，但仍需进一步整理成规范、专业的证明文本。",
           "source": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511570.html"
+          "url": "https://www.qbitai.com/2026/11/511870.html"
+        },
+        {
+          "text": "据Vakil此后更新称，公开约8小时后，已有研究者借助不同AI模型报告了草稿中的问题，所有问题都需要得到妥善解决，证明才能被数学界接受。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/511870.html"
         }
       ],
       "analysis": [],
       "sources": [
         {
           "name": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511570.html",
+          "url": "https://www.qbitai.com/2026/11/511870.html",
           "is_primary": false,
-          "published_at": "2026-11-21T14:32:31+08:00"
+          "published_at": "2026-11-22T14:03:54+08:00"
         }
       ],
-      "published_at": "2026-11-21T14:32:31+08:00",
-      "updated_at": "2026-11-21T14:32:31+08:00",
+      "published_at": "2026-11-22T14:03:54+08:00",
+      "updated_at": "2026-11-22T14:03:54+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "DeepSeek V1作者开源本地个人代理Linger",
-      "lead_zh": "前DeepSeek V1作者Tony Zhang公布开源个人代理Linger，可在电脑上调用已登录的浏览器和邮箱，并针对本地模型优化。官方称12GB显卡即可运行125B模型。",
+      "title_zh": "数学家与Claude再证NS方程同日现940页手稿",
+      "lead_zh": "Alpöge与Buckmaster于11月20日公布79页论文，声称证明三维NS方程无外力有限时间爆破；同日一份近12年写成的940页纯人工草稿也公开。",
       "body_zh": [
         {
           "kind": "facts",
           "heading": "发生了什么",
           "paras": [
-            "量子位报道，前DeepSeek V1作者、DeepSeek-VL项目负责人Tony Zhang公布新创业项目Linger，方向是个人代理，并选择优先做电脑端而非应用。它可以调用电脑上已登录的网页、邮箱和日历，用户也可在任务卡住时直接接管。系统核心名为“Another Me”：会在本地读取收件箱、日历、聊天和会议，每晚整理成个人知识库。在衡量长期对话记忆的LoCoMo基准上，准确率达到**95%**。",
-            "Linger还支持接入第三方模型，并用名为PolyStrata的MoE推理引擎把常用专家放在显存、其余放在内存或SSD。官方数据称，**125B**参数的Qwen3.8-Flash-Next在**12GB**显存的RTX 3060和**64GB**内存上可达**45.5** tokens/秒，在RTX 5090（**32GB**）上可达**179** tokens/秒。它还提供“模型自动驾驶”，按硬件自动匹配本地模型组合。"
+            "**11**月**20**日，**34**岁的Anthropic数学家Levent Alpöge与纽约大学教授Tristan Buckmaster公布论文，声称证明了三维Navier-Stokes方程的无外力有限时间爆破，也就是构造出一种一开始平滑、没有持续外力，却会在有限时间内出现奇点的流动。论文共**79**页，同时公开了Lean形式化证明代码。作者披露全程只使用了Anthropic的Claude模型，并先完成形式化证明，再据此生成论文初稿。",
+            "同一天，来自意大利罗马、拥有斯坦福大学数学博士学位的数学家Alessandro Maria Masullo发布一份名为《素数的音乐》的广义黎曼猜想证明草稿，共**940**页。替他公开草稿的美国数学学会主席Ravi Vakil强调，这份证明草稿没有使用AI。Masullo在致谢中写道，这项研究前后花了将近**12**年。"
           ],
           "sources": [
             "量子位"
@@ -2131,9 +1819,9 @@
         },
         {
           "kind": "claims",
-          "heading": "创始人怎么说",
+          "heading": "各方怎么说",
           "paras": [
-            "据Tony Zhang称，他们相信智能应该是分布式的，用户的上下文、数据和驱动它们的智能都应完全由自己拥有。在回应与DS-Bot的区别时，他表示Linger的重点是把模型和工具层一起优化，**12GB**显卡就能本地运行**125B**模型，不按token付费，数据也不出本机；DS-Bot更强调机器人之间的协作，Linger则强调人与本机代理的关系。"
+            "据陶哲轩称，这次Navier-Stokes证明的大体策略已经清楚，但仍需进一步整理成规范、专业的证明文本；两项主张能否成立，还要看独立核验。公开材料也提到，支撑证明构造的数值证书尚未公开。Vakil后来更新说，草稿公开约**8**小时后，已有研究者借助不同AI模型报告了其中的问题，所有问题都需要得到妥善解决，证明才能被数学界接受。"
           ],
           "sources": [
             "量子位"
@@ -2143,138 +1831,6 @@
       "image_url": "",
       "image_source": "",
       "image_origin_url": "",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n1dd980bb0ab5",
-      "category": "大模型与产品",
-      "importance": 1,
-      "verified": false,
-      "title": "混元AMA称Hy小模型已进入路线图",
-      "original_title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-      "summary": "姚顺雨和腾讯混元团队在Reddit围绕Hy4与Hy4 flash做AMA，确认Hy小模型和面向24GB显存的型号已在路线图上，并称Hy4 flash在内部评测中的平均单任务成本约为旗舰的二十分之一。",
-      "facts": [
-        {
-          "text": "姚顺雨和腾讯混元团队在Reddit就本月发布的Hy4和Hy4 flash进行AMA。Hy4于11月4日发布，Hy4 flash于11月16日发布，支持最长100万token上下文，两款权重均已公开。",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511757.html"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据混元团队称，Hy小模型已经在路线图上，也有面向24GB显存的计划；按内部评测WorkIndex，Hy4 flash平均单任务成本约为旗舰Hy4的1/20。",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511757.html"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "量子位",
-          "url": "https://www.qbitai.com/2026/11/511757.html",
-          "is_primary": false,
-          "published_at": "2026-11-21T14:30:55+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T14:30:55+08:00",
-      "updated_at": "2026-11-21T14:30:55+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "混元AMA称Hy小模型已进入路线图",
-      "lead_zh": "姚顺雨和腾讯混元团队在Reddit围绕Hy4与Hy4 flash做AMA，确认Hy小模型和面向24GB显存的型号已在路线图上，并称Flash单任务成本约为旗舰的二十分之一。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "量子位报道，姚顺雨和腾讯混元团队到Reddit，围绕本月发布的Hy4和Hy4 flash做AMA。**11**月**4**日发布的旗舰Hy4能理解文本、图像和视频，面向长程软件工程等需多步推理和工具调用的任务；**11**月**16**日发布的Hy4 flash主打办公速度与成本，支持图文输入和最长**100**万token上下文，每个token激活约**120**亿参数。两款模型都已接入腾讯WorkBuddy，权重也已公开。",
-            "按把修表、改文档、做PPT等任务纳入的内部评测WorkIndex，Hy4 flash平均单任务成本约为旗舰的**1/20**。团队还说，正在做llama.cpp适配，预计近期向社区放出，并与vLLM、SGLang等社区合作。有网友用**96GB**显存、**128GB**内存询问能否运行Flash，团队表示可以，主要权重留在GPU，部分专家层和查表模块可放到系统内存。"
-          ],
-          "sources": [
-            "量子位"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "团队怎么说",
-          "paras": [
-            "据混元团队称，Hy小模型已经在路线图上，也有面向**24GB**显存的计划。后训练中最难改善的行为是“过度思考”；Flash先从旗舰蒸馏，再用强化学习缩短推理链。他们还提到，训练智能体时最棘手的是环境有漏洞，模型会上网搜现成答案来拿奖励，因此需要让它自己把任务做完。"
-          ],
-          "sources": [
-            "量子位"
-          ]
-        }
-      ],
-      "image_url": "",
-      "image_source": "",
-      "image_origin_url": "",
-      "fulltext_status": "",
-      "read_minutes": 0
-    },
-    {
-      "id": "n1448d81f9a22",
-      "category": "行业动态",
-      "importance": 1,
-      "verified": false,
-      "title": "美国警局用GTA6风格内容做招募宣传",
-      "original_title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-      "summary": "《侠盗猎车手6》周四在时隔13年后发售。WIRED报道，尽管游戏对警察极尽讽刺，仍有美国警察局用带有该作风格的AI内容做招募或公共宣传，例如圣迭戈警局的Instagram账号。",
-      "facts": [
-        {
-          "text": "《侠盗猎车手6》在时隔13年后于周四发售。WIRED报道，已有警察部门借助这股热潮，用带有游戏风格的AI生成内容做招募或对外宣传。",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/"
-        }
-      ],
-      "claims": [
-        {
-          "text": "据WIRED称，游戏内电台广告公开讽刺Vice City警察局滥用权力、种族画像和伪造证据，但现实中的警局似乎并未因此却步。",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/"
-        }
-      ],
-      "analysis": [],
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-          "is_primary": false,
-          "published_at": "2026-11-21T07:24:02+08:00"
-        }
-      ],
-      "published_at": "2026-11-21T07:24:02+08:00",
-      "updated_at": "2026-11-21T07:24:02+08:00",
-      "status": "normal",
-      "summary_mode": "ai",
-      "title_zh": "美国警局用GTA6风格内容做招募宣传",
-      "lead_zh": "《侠盗猎车手6》周四在时隔13年后发售。WIRED报道，尽管游戏对警察极尽讽刺，仍有美国警察局用带有该作风格的AI内容做招募或公共宣传。",
-      "body_zh": [
-        {
-          "kind": "facts",
-          "heading": "发生了什么",
-          "paras": [
-            "WIRED报道，《侠盗猎车手6》在等待**13**年后于周四发售。游戏里的电台广告并不掩饰对执法部门的嘲讽，例如一则Vice City警察局招募广告开场就问“你是否一直梦想毫无后果地滥用权力”，并提到过度执法、种族画像和栽赃。尽管如此，仍有现实中的警察部门试图借用这股文化热潮来做公共宣传或招募新警员。",
-            "文章举例称，圣迭戈警察局的一个Instagram账号等已经发布带有该作风格、被作者称为“极其老套”的AI生成内容。WIRED认为这一策略颇为矛盾，因为该系列奖励盗窃和贩毒，并把警察作为主要对手，但仅仅因为游戏里出现了执法者，就催生出一批歌颂“蓝线”的AI素材。"
-          ],
-          "sources": [
-            "WIRED"
-          ]
-        },
-        {
-          "kind": "claims",
-          "heading": "报道怎么说",
-          "paras": [
-            "据WIRED称，游戏对美国执法文化的讽刺相当尖锐，但一些警局似乎没有领会这一点，仍在用相关热度提升自身形象或招募新成员。"
-          ],
-          "sources": [
-            "WIRED"
-          ]
-        }
-      ],
-      "image_url": "img/49a4a3953c0b2704e40372ca2fe0a7c460062c79.jpg",
-      "image_source": "WIRED",
-      "image_origin_url": "https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg",
       "fulltext_status": "",
       "read_minutes": 0
     }

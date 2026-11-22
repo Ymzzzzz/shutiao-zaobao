@@ -1,0 +1,77 @@
+{
+  "id": "n141d3e3e6383",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Perplexity推出定时监控网页变化的Monitor API",
+  "original_title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+  "summary": "Perplexity发布Monitor API，可按计划检索网页，并仅在出现相关变化时通过webhook通知应用和智能体。网页监控按每千次成功运行1美元计费，页面监控按每千次抓取1美元计费。",
+  "facts": [
+    {
+      "text": "Perplexity推出Monitor API，可按计划检索网页，并仅在出现相关变化时通过签名webhook通知应用和智能体，现已可通过API和控制台使用，密钥与Search、Context和Agent API相同。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/"
+    },
+    {
+      "text": "该API有两种模式：网页监控按查询定期检索；页面监控最多跟踪10个页面，首次运行会保存基线，之后返回文本差异。运行周期从每15分钟到每周，也可使用自定义cron。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Perplexity称，若由工程团队自行反复检索并去重，在成百上千个主题和页面上几乎难以维持。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/"
+    },
+    {
+      "text": "据Perplexity称，在针对60个真实检索主题的内部测试前8小时里，其接口送出63个新的相关页面，Firecrawl为20个，Exa为15个，Parallel的两个版本各为10个。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+      "is_primary": false,
+      "published_at": "2026-11-22T22:20:28+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T22:20:28+08:00",
+  "updated_at": "2026-11-22T22:20:28+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Perplexity推出定时监控网页变化的Monitor API",
+  "lead_zh": "Perplexity发布Monitor API，可按计划检索网页并仅在出现相关变化时通过webhook通知智能体，网页监控按每千次成功运行1美元计费。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Perplexity推出Monitor API，按计划检索网页，并仅在出现相关变化时通过签名webhook向应用和智能体发送更新；暂时失败后会自动重试。该API现可通过接口和控制台使用，密钥与Search、Context和Agent API相同。网页监控每次成功运行收费**1**美元/千次，页面监控按抓取URL收费**1**美元/千次。",
+        "接口有两种模式：网页监控按查询定期检索；页面监控最多跟踪**10**个页面，首次运行会保存基线，之后返回文本差异。监控周期从每**15**分钟到每周，也可使用自定义cron。Perplexity会用自有决策模型，按开发者用自然语言设定的目标，从相关性、来源可信度、新颖性和时效性等角度过滤结果，只有通过全部阈值才发送带置信度的更新。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Perplexity称，若由工程团队自行反复检索并维护去重和变化检测代码，在成百上千个主题和页面上几乎难以维持。公司还称，在针对**60**个真实检索主题的内部测试前**8**小时里，其接口送出**63**个新的相关页面，Firecrawl为**20**个，Exa为**15**个，Parallel的两个版本各为**10**个，并强调这些只是早期内部结果。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

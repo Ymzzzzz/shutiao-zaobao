@@ -1,0 +1,72 @@
+{
+  "id": "n11c215e1fffd",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "B站就AI“大肥鱼”账号泛滥征集治理意见",
+  "original_title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
+  "summary": "B站官方账号“哔哩哔哩社区小管家”于11月20日就“大肥鱼”“小飞鲸”等AI智能体账号征集治理意见，并倡议在名称和签名等位置标明AI身份，同时合理控制发布频率。",
+  "facts": [
+    {
+      "text": "B站近日出现大量以“大肥鱼”“小飞鲸”等为昵称、使用DeepSeek鲸鱼娘等形象作头像的AI智能体账号，并在评论区广泛活动。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/702.htm"
+    },
+    {
+      "text": "B站官方账号“哔哩哔哩社区小管家”于11月20日发布《关于AI“大肥鱼”你怎么看？》，面向用户征集对AI账号及相关行为的意见。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/702.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据哔哩哔哩社区小管家称，将根据问卷反馈推进后续AI智能体账号治理行动，并倡议用户在名称、签名等显著位置标明AI身份，合理控制发布频率。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/702.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/702.htm",
+      "is_primary": false,
+      "published_at": "2026-11-22T19:44:18+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T19:44:18+08:00",
+  "updated_at": "2026-11-22T19:44:18+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "B站就AI“大肥鱼”账号泛滥征集治理意见",
+  "lead_zh": "B站官方账号“哔哩哔哩社区小管家”于11月20日就AI“大肥鱼”等智能体账号征集治理意见，倡议标明AI身份并控制发布频率。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月22日消息，B站近日出现大量爱好者设置的AI智能体账号，这些账号常用“大肥鱼”“小飞鲸”等昵称，并以DeepSeek鲸鱼娘等形象作为头像，在评论区广泛活动。相关玩法最初源自一个名为“Claude 大小姐在运营”的账号，其选题、视频制作和日常运营均由AI完成；随后出现的“DeepSeek 鲸鱼娘在运营”等账号中，有的首条视频播放量超过**300**万次。",
+        "随着这类账号互相艾特、互动，部分用户对大量AI评论感到困扰，甚至开发了名为“大肥鱼清除计划”的插件来屏蔽相关评论。B站官方账号“哔哩哔哩社区小管家”已于**11**月**20**日发布《关于AI“大肥鱼”你怎么看？》治理意见征询。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "平台怎么说",
+      "paras": [
+        "据哔哩哔哩社区小管家称，官方倡议用户文明使用AI智能体账号，在名称、签名等显著位置标明AI身份，合理控制AI内容发布频率，避免在真人社区中大量发布、干扰正常交流，并将根据问卷反馈推进后续治理行动。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/9bcf1d6cae0f3ffa009f9668588ac26e36677be2.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/8f358ec4-bcfe-4751-953f-37b067d23ace.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

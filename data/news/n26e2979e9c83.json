@@ -1,0 +1,192 @@
+{
+  "id": "n26e2979e9c83",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "AWS Quick上线Meta广告AI连接器",
+  "original_title": "Meta ads is now available in AWS Quick",
+  "summary": "AWS Quick新增Meta广告AI连接器，广告主可用自然语言创建、管理和分析广告活动，并把广告数据与一、三方数据结合生成报表和工作流。写操作需先获得用户许可。",
+  "facts": [
+    {
+      "text": "AWS Quick新增Meta广告AI连接器，可接入广告MCP服务器操作，让广告主在Quick中用自然语言创建、管理和分析广告活动，并保持与Meta广告管理网络的连接。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/"
+    },
+    {
+      "text": "演示显示，用户可在Customize的Connectors中安装该连接器并用Facebook登录；其中一个示例提示会把过往活动结果做成8页发布计划幻灯片。连接器在创建活动、修改预算等写入操作前会先征求许可。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据fal市场负责人Tina Sang称，该连接器让营销团队在一个地方完成从活动规划到执行，不必在多个工具间来回切换，还可把fal.ai的图像、音频和视频模型放进同一工作流。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+      "is_primary": true,
+      "published_at": "2026-11-22T09:59:13+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T09:59:13+08:00",
+  "updated_at": "2026-11-22T09:59:13+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AWS Quick上线Meta广告AI连接器",
+  "lead_zh": "AWS Quick新增Meta广告AI连接器，广告主可用自然语言创建、管理和分析广告活动，并把广告数据与一、三方数据结合生成报表和工作流。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "AWS Quick新增Meta广告AI连接器，可调用广告Model Context Protocol（MCP）服务器上的操作。Meta广告客户可在Quick中用自然语言创建、管理和分析广告活动，同时保持与Meta广告管理网络的连接，也可把广告数据与一、三方数据源结合，生成仪表盘、文档、幻灯片和自动化工作流。",
+        "博文演示了从Customize中的Connectors安装连接器、用Facebook登录，并选择Quick可访问的主页、商务账号和Instagram账号。其中一个示例提示把过往活动结果做成**8**页发布计划幻灯片，另一个则对比两个广告组的花费、线索和单条线索成本。连接器在创建活动、修改预算等写入操作前会先征求许可。Quick还提供首**3**个月免费试用，并可邀请最多**10**名同事。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "客户怎么说",
+      "paras": [
+        "fal市场负责人Tina Sang称，通过Quick使用Meta广告AI连接器，能让营销团队在一个地方完成从活动规划到执行，直接依据业务洞察调整广告，减少拖慢进度的交接和工具切换；把fal.ai的图像、音频和视频模型放进同一工作流后，团队还可以测试更多创意。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/3e6a6e104471f1d042f90d93c9b36c6ea7213b41.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-21",
+    "title_en": "Meta ads is now available in AWS Quick",
+    "title_zh": "Meta 广告现已登陆 AWS Quick",
+    "dek_en": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows.",
+    "dek_zh": "AWS Quick 现在有了 Meta 广告 AI 连接器。Meta 广告主可以在 Quick 中用自然语言创建、管理和分析广告活动，同时保持与 Meta 广告管理网络的连接，并将 Meta 广告数据与第一方和第三方来源结合，用于制作仪表板、文档、幻灯片和自动化工作流。",
+    "word_count_zh": 947,
+    "read_minutes": 3,
+    "omitted_note": "原文另有 1 个表格，未收录",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "营销人员从未拥有过如此多可据以行动的数据。以一家在 Meta 技术上投放广告的服装品牌为例：广告活动结果存在 Meta Ads Manager 中，简报和创意素材在共享存储里，库存、客户终身价值以及门店购买则在数据湖中。分析师导出报表、合并电子表格，并每周重新制作同一份演示文稿，而数据在任何人采取行动之前就已经过时。当团队终于决定要改什么时，还得有人回到 Ads Manager，手工更新广告活动、广告组、预算和受众。结果是，团队只能凭指标来评判广告活动，而从洞察到行动的路径始终缓慢且依赖人工。",
+        "en": "Marketers have never had more data to act on. Take an apparel brand that advertises on Meta technologies: campaign results live in Meta Ads Manager, briefs and creative assets in shared storage, and inventory, customer lifetime value, and in-store purchases in a data lake. Analysts export reports, merge spreadsheets, and rebuild the same deck each week, and the data ages before anyone acts on it. When the team does decide what to change, someone returns to Ads Manager to update campaigns, ad sets, budgets, and audiences by hand. As a result, teams judge campaigns on metrics alone, and the path from insight to action stays slow and manual."
+      },
+      {
+        "t": "p",
+        "zh": "今天，AWS Quick 新增了一个 Meta 广告 AI 连接器。该连接器让 Quick 能够使用 ads Model Context Protocol（MCP）服务器操作。Meta 广告客户可以在 Quick 中用自然语言创建、管理和分析广告活动，同时保持与 Meta 广告管理网络的连接。营销人员可以在 AI 的支持下完成任务，例如提取洞察以了解广告表现、创建产品目录，以及编辑现有广告活动或创建新的广告活动。Quick 还可以把 Meta 广告管理数据与第一方和第三方数据来源结合起来，用于制作仪表板、文档、幻灯片和自动化工作流。",
+        "en": "Today, AWS Quick added a Meta ads AI connector. The connector gives Quick access to ads Model Context Protocol (MCP) server operations. Meta ads customers can use natural language to create, manage, and analyze campaigns within Quick, while staying connected to the Meta ad management network. Marketers can complete tasks with support from AI, such as pulling insights to understand ads performance, creating product catalogs, and editing existing or creating new campaigns. Quick can also combine Meta ad management data with first- and third-party data sources to create dashboards, documents, slide decks, and automated workflows."
+      },
+      {
+        "t": "p",
+        "zh": "“通过 Quick 的 Meta 广告 AI 连接器，我们的营销团队可以在同一个地方完成从广告活动策划到执行的全过程。它让我们能够直接在广告中依据业务洞察采取行动，而不再被拖慢活动进度的交接和工具切换所困扰。把 fal.ai 的图像、音频和视频模型放在同一工作流中，我们将测试更多创意，并把更多时间花在触达客户上。”",
+        "en": "“Meta ads AI connector through Quick gives our marketing teams one place to go from campaign planning to execution. It lets us act on business insights directly in our ads, without the handoffs and tool switching that slow campaigns down. With fal.ai’s image, audio, and video models in the same workflow, we’ll test more creative ideas and spend more time reaching customers.”"
+      },
+      {
+        "t": "p",
+        "zh": "—— Tina Sang，fal 市场负责人",
+        "en": "— Tina Sang, Head of Marketing at fal"
+      },
+      {
+        "t": "h",
+        "zh": "演示：Quick 中的 Meta 广告",
+        "en": "Demo: Meta ads in Quick"
+      },
+      {
+        "t": "p",
+        "zh": "该视频展示了如何在 AWS Quick 的 Customize > Connectors 中安装 Meta 广告连接器，用 Facebook 登录，并选择 AWS Quick 可以访问哪些主页、商家和 Instagram 账户。接着它运行了两个示例提示。一个把过往广告活动结果变成一份 8 页的发布计划幻灯片。另一个构建了一个仪表板，比较两个广告组的花费、线索和每条线索成本，并给出下一步建议运行的测试。",
+        "en": "The video shows how to install the Meta ads connector from Customize > Connectors in AWS Quick, sign in with Facebook, and choose which Pages, Businesses, and Instagram accounts AWS Quick can access. It then runs two example prompts. One turns past campaign results into an eight-slide launch-plan deck. The other builds a dashboard comparing spend, leads, and cost per lead for two ad sets, with recommended tests to run next."
+      },
+      {
+        "t": "video",
+        "poster": "",
+        "origin_url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4?_=1",
+        "caption_zh": "",
+        "source": "AWS Machine Learning Blog",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "t": "p",
+        "zh": "将 Meta 广告连接到 Quick，并运行用于效果分析、广告活动创建和可分享幻灯片的提示",
+        "en": "Connecting Meta ads to Quick and running prompts for performance analysis, campaign creation, and a shareable deck"
+      },
+      {
+        "t": "h",
+        "zh": "示例用例与提示",
+        "en": "Example use cases and prompts"
+      },
+      {
+        "t": "p",
+        "zh": "以下用例展示了 Meta 广告主如何将连接器与 Quick 一起使用，并附有示例提示。",
+        "en": "The following use cases demonstrate how Meta advertisers can use the connector with Quick, along with sample prompts."
+      },
+      {
+        "t": "p",
+        "zh": "注意：该连接器可以更改你的广告账户。在 Quick 创建广告活动、更改预算或执行其他写入操作之前，它会征求你的许可。",
+        "en": "Note: The connector can make changes in your ad accounts. Before Quick creates a campaign, changes a budget, or runs another write action, it asks for your permission to take the action."
+      },
+      {
+        "t": "h",
+        "zh": "前提条件",
+        "en": "Prerequisites"
+      },
+      {
+        "t": "p",
+        "zh": "在开始之前，请确认你具备以下条件：",
+        "en": "Before you begin, confirm that you have the following:"
+      },
+      {
+        "t": "p",
+        "zh": "• 可使用 Quick。",
+        "en": "• Access to Quick."
+      },
+      {
+        "t": "p",
+        "zh": "• 一个 Meta 商家账户，并且能够访问你想要连接的广告账户。",
+        "en": "• A Meta business account with access to the ad accounts you want to connect."
+      },
+      {
+        "t": "h",
+        "zh": "开始使用",
+        "en": "Get started"
+      },
+      {
+        "t": "p",
+        "zh": "免费试用 Quick 3 个月",
+        "en": "Try Quick at no additional cost for 3 months"
+      },
+      {
+        "t": "p",
+        "zh": "• 注册，连接你的 Meta 广告账户，并提出你的第一个问题。",
+        "en": "• Sign up, connect your Meta ads account, and ask your first question."
+      },
+      {
+        "t": "p",
+        "zh": "• 在最初 3 个月内可免费邀请最多 10 名同事。",
+        "en": "• Invite up to 10 teammates at no cost for your first 3 months."
+      },
+      {
+        "t": "h",
+        "zh": "关于作者",
+        "en": "About the authors"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "n5cfa4f9892b1",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": false,
+  "title": "Lean社区确认阿尔珀格的黎曼猜想证明通过核验",
+  "original_title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+  "summary": "Lean与Mathlib社区发表声明，确认Levent Alpöge于11月20日公布的约1700万行Lean代码形式的黎曼猜想证明通过核验，并有数十人独立运行代码后得到相同结果。",
+  "facts": [
+    {
+      "text": "Lean与Mathlib社区确认，Levent Alpöge于2026年11月20日以约1700万行Lean代码公布的黎曼猜想证明通过核验，数十人独立运行代码后得到相同结果。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
+    },
+    {
+      "text": "报道称，这些核验程序被设计成无法接受有缺陷的证明；麻省理工学院数学家Andrew Sutherland在其网站上列出了独立检查情况。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Lean与Mathlib社区称，他们完全有信心认为Alpöge的证明是正确的，并祝贺他取得这一成果。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
+    },
+    {
+      "text": "据Ethan Mollick称，Metaculus上的预测者曾把该问题的预期解决时间放在2035年5月；数学家陶哲轩上月曾表示，他预期该问题会在2050年前后由人类与AI共同解决。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+      "is_primary": false,
+      "published_at": "2026-11-22T19:08:31+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T19:08:31+08:00",
+  "updated_at": "2026-11-22T19:08:31+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Lean社区确认阿尔珀格的黎曼猜想证明通过核验",
+  "lead_zh": "Lean与Mathlib社区发表声明，确认Levent Alpöge于11月20日公布的约1700万行Lean代码形式的黎曼猜想证明通过核验，并有数十人独立复现相同结果。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Lean与Mathlib社区已确认Levent Alpöge的黎曼猜想证明通过核验。Alpöge于**2026**年**11**月**20**日公布了这份证明，形式是约**1700**万行用Lean写成的代码，该工具用于检查数学证明是否存在错误。数十人独立运行了代码并得到相同结果。报道称，这些核验程序被设计成无法接受有缺陷的证明；麻省理工学院数学家Andrew Sutherland在其网站上列出了独立检查情况。",
+        "黎曼猜想此前一直是数学界最著名的未解问题之一，内容涉及素数如何分布。报道还提到，这一结果到来的时间早于许多预测。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据该社区声明称，他们完全有信心认为Alpöge的证明是正确的，并祝贺他取得这一成果。Ethan Mollick指出，Metaculus上的预测者曾把预期解决时间放在**2035**年**5**月；数学家陶哲轩上月曾表示，他预期该问题会在**2050**年前后由人类与AI的组合解决。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/6ae55d300ec3c1a7477c998c25b767130ff6f4ee.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/05/ai_and_math.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

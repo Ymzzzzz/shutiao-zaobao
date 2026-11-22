@@ -1,0 +1,169 @@
+{
+  "id": "nde5cd1a6d51d",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI提议用困惑度衡量智能并设定发展上限",
+  "original_title": "Perplexity and Intelligence",
+  "summary": "OpenAI发文主张把预训练困惑度作为跨实验室比较模型和制定共同安全标准的指标，并建议在监测能力达到明确里程碑前，为行业设定基于该指标的发展上限，同时公布了内部数据。",
+  "facts": [
+    {
+      "text": "OpenAI发表博文，主张把预训练阶段的困惑度或等价的交叉熵损失，作为比较不同实验室模型并制定共同安全标准的指标。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    },
+    {
+      "text": "博文披露，在其当前主要评估数据集上，GPT-3.5的对数困惑度约为0.99，GPT-4约为0.91；当损失降至0.8以下后，模型在网络安全和数学等领域出现了变革性能力。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，公开内部困惑度测量可能让竞争对手更清楚自身位置，但建立全行业共同安全措施的紧迫性更为重要。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    },
+    {
+      "text": "据博文称，前沿开发者应共同约定基于困惑度及其他测量的发展上限，在理解和监测AI行为的能力达到明确里程碑前不得越过。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "is_primary": true,
+      "published_at": "2026-11-22T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T08:00:00+08:00",
+  "updated_at": "2026-11-22T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI提议用困惑度衡量智能并设定发展上限",
+  "lead_zh": "OpenAI发文主张把预训练困惑度作为跨实验室比较与安全节奏的共同指标，并建议在监测能力达到明确里程碑前，为行业设定基于该指标的发展上限。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI发表博文，主张把预训练阶段的困惑度（或等价的交叉熵损失）作为比较不同实验室模型、并据以制定共同安全标准的指标。困惑度衡量模型平均预测下一个token的能力，数值越低表示预测越好。",
+        "博文披露了OpenAI内部跟踪的对数困惑度：在其当前主要评估数据集上，GPT-3.5约为**0.99**，能进行流畅对话并成为ChatGPT的基础；GPT-4约为**0.91**，已能有效利用思维链推理。当损失降至**0.8**以下后，模型在网络安全和数学等领域出现了变革性能力。",
+        "博文还写道，当对数困惑度约到**0.76**时，模型开始在开放数学问题上给出突破性结果；按近期进展外推，进入约**0.68-0.7**窗口时还可能出现新的变革性能力，最快在**2027**年，预训练算法研究也可能出现类似的成果井喷。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "OpenAI称，公开内部困惑度测量可能让竞争对手更清楚自身位置，但建立全行业共同安全措施的紧迫性更为重要，希望此举成为未来节奏安排的共同科学基础。博文提出，前沿实验室应共同约定基于困惑度及其他测量的发展上限，在监测能力达到明确里程碑（例如思维链监测的后继方案）之前不得越过该上限。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "img/7da3cfa755eaa49d1d8bb8a70d3ea2547f5617cf.jpg",
+  "image_source": "OpenAI News",
+  "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
+  "fulltext_status": "ok",
+  "read_minutes": 7,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-20",
+    "title_en": "Perplexity and Intelligence",
+    "title_zh": "困惑度与智能",
+    "dek_en": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "dek_zh": "困惑度如何衡量 AI 模型的进展，以及它为何有助于开发者建立评估新兴能力的共同方法。",
+    "word_count_zh": 2460,
+    "read_minutes": 7,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "从远处看，现代 AI 的构建方式似乎与过去几十年软件的构建方式相似：用一套多样的技术去瞄准特定能力。方法确实多种多样，但它们大多并不是从零设计，而是在利用一个简单得多、也更难解释的过程所产生的智能：在非常大的语料上训练一个压缩器（或等价地说，预测器）。",
+        "en": "From afar, it might seem like modern AI is built similarly to how software has been built in previous decades: with a diverse set of techniques targeting specific capabilities. There are indeed a variety of methods, but rather than designing something from scratch, they are mostly harnessing the intelligence coming from a much simpler and less interpretable process: training a compressor (or, equivalently⁠(opens in a new window), predictor) on a very large corpus of data."
+      },
+      {
+        "t": "p",
+        "zh": "我认为，追踪训练出更好压缩器的进展速度，是理解 AI 发展轨迹的关键。在这篇文章中，我主张把困惑度（或等价的交叉熵损失）确立为一项指标，用于在模型开发者之间进行比较，并为共同的安全标准提供依据。作为第一步，我将对 OpenAI 的预训练进展提供更多透明度。公布我们的内部困惑度测量结果经过了一些权衡；这会让竞争对手更清楚地看到我们所处的位置，但建立行业内共同安全措施的紧迫性，超过了这一顾虑。我们 OpenAI 希望，这能成为为未来的节奏控制努力建立共同科学基础的一步。",
+        "en": "I believe tracking the pace of progress on training better compressors is key to understanding the arc of advances in AI. In this post, I argue for establishing perplexity (or, equivalently, cross-entropy loss) as a metric to compare between model developers and inform shared safety standards. As a first step, I provide more transparency into pretraining progress at OpenAI. Publishing our internal perplexity measurements took some consideration; it gives competitors a clearer picture of where we stand, but that concern is outweighed by the urgency of establishing shared⁠(opens in a new window) safety measures across the industry. We at OpenAI hope for this to be a step towards building a shared scientific basis for future pacing efforts."
+      },
+      {
+        "t": "p",
+        "zh": "一种简化但本质上有信息量的 AI 发展视图是：首先建造一台大型计算机，然后用它在一个大型非结构化数据集上预训练一个模型（压缩器），再在不同情境中应用多种技术——例如提示、微调或强化学习——以引出该模型的潜在能力。算法上的进展可能会模糊各训练阶段之间的界限，但我们仍然可以把创造出难以预测的涌现能力的 AI（我早些时候称之为“一颗外星心智”）与随后的有针对性引出区分开来。",
+        "en": "A simplified, but fundamentally informative, view of AI development is that first, one builds a large computer, then uses it to pretrain a model (compressor) on a large unstructured dataset, then applies a variety of techniques—like prompting, finetuning or reinforcement learning—in different contexts to elicit the latent capabilities of that model. Algorithmic progress can blur the distinction between training phases, but we can still separate the creation of the AI with hard-to-predict emergent capabilities (which I earlier dubbed “an alien mind⁠”) and the subsequent targeted elicitation."
+      },
+      {
+        "t": "p",
+        "zh": "我们衡量这一关键“智能基底”进展的主要方式，多年来一直保持得出奇地稳定——我们一直在追踪模型在留出数据集上的困惑度。2, 3 困惑度衡量的是模型平均而言对下一个 token 的预测有多好；困惑度越低，预测越好。本博文开头的图显示了这一指标从 GPT-3.5 开始在我们模型上的演变。",
+        "en": "The primary way we measure progress on this key “intelligence substrate” has remained remarkably constant over the years—we have been tracking the perplexity of the models on a held-out dataset.2, 3 Perplexity measures how well a model predicts the next token on average; lower perplexity means better predictions. The plot opening this blog post shows how this metric evolved for our models starting with GPT‑3.5."
+      },
+      {
+        "t": "p",
+        "zh": "在很大程度上由这一个指标所刻画的模型能力范围令人惊叹。在较旧的数据集上刷新了困惑度的最高水平后，GPT-2 可以说是第一个能够稳定写出连贯段落的模型。下一次重大跃升是 GPT-3，它能够在给定任务的少量示例后进行上下文学习。GPT-3.5 在我们当前主要评估数据集上的对数困惑度约为 0.99，已经能够进行流畅对话，并成为最初 ChatGPT 的基础。GPT-4 约为 0.91，已能有效利用思维链推理，这促使了随后对这一能力的定向引出，以及现代推理模型的诞生。如今，当我们达到低于 0.8 的损失后，我们已经在网络安全和数学等领域看到了变革性能力的涌现。我想再次强调，事先完全不清楚，一旦达到这些精确的困惑度阈值，这些能力就会出现——它们本质上可以被视为这一指标进展所带来的涌现潜在能力。",
+        "en": "The range of capabilities of models that are largely described by this one metric is stunning. Setting the new perplexity state-of-the-art on older datasets, GPT‑2 was arguably the first model capable of consistently formulating coherent paragraphs of text. The next major leap, GPT‑3, was capable of learning in context, given a few examples of a task. GPT‑3.5, at a log-perplexity of ~0.99 on our current main evaluation dataset, was capable of fluent conversation and formed the basis for the original ChatGPT. GPT‑4, at ~0.91, was proficient at utilizing chain-of-thought reasoning productively, which motivated the subsequent targeted elicitation of this capability and the creation of modern reasoning models. Now, as we have reached losses below 0.8, we have seen the emergence of transformative capabilities in fields like cybersecurity and mathematics. I want to reemphasize that it was not at all clear a priori that these capabilities would appear once those precise perplexity thresholds are met—they can fundamentally be seen as emergent latent capabilities from progress on this one metric."
+      },
+      {
+        "t": "p",
+        "zh": "随着 AI 非常迅速地发展，我们衡量下游能力的范围和方式也可能很快改变。用大多数现代基准去评估 GPT-2 和 GPT-3 意义不大；而当时使用的基准在 GPT-4 前后已基本饱和。相比之下，我认为观察预训练上的进展仍可能会保持其信息量。",
+        "en": "As AI advances very rapidly, the scope and way in which we measure downstream capabilities may change quickly. It would make little sense to evaluate GPT‑2 and GPT‑3 on most modern benchmarks; and the benchmarks used then were largely saturated around GPT‑4. In contrast, I believe looking at progress on pretraining is likely to stay informative."
+      },
+      {
+        "t": "p",
+        "zh": "进展速度的一个特别变化，来自 AI 对其自身发展日益增加的贡献。最常被讨论的指标围绕着 AI 在开发生命周期的各个阶段增强并取代人类研究者；其最终拐点被视为“完全递归自我改进”，即整个过程被完全自动化、不再有人类监督。除了把这种状态视为我们为了维持人类控制而显然应当避免的情况之外，我发现这种总体框架还遗漏了至关重要的一点。一种潜在的阶跃变化，可能来自 AI 参与开发过程中的一个关键部分：针对预训练的算法研究。",
+        "en": "A particular change in the pace of progress comes from the increasing contribution of AI to its own development. The most commonly discussed metrics revolve around AI augmenting and replacing human researchers in all stages of the development cycle; with an ultimate inflection point seen at “full recursive self-improvement”, where the process would be entirely automated with no human oversight. Apart from considering such a state as something we should obviously avoid for the sake of maintaining human control, I find this general framing misses something crucial. There is a potential step change that may come from AI participation in one key part of the development process: algorithmic research on pretraining."
+      },
+      {
+        "t": "p",
+        "zh": "我们最近在另一个领域目睹了前所未有的加速。一年多来，我们一直把数学中的开放问题交给模型，作为评估它们的方式之一。当我们升级到对数困惑度约为 0.76 的模型后，它开始产生突破性的结果。对于我们当中许多曾在数学及相关领域工作过的人来说，看到自己长期思考的问题的解答，一条接一条地出现在同一个 Slack 线程里，感到非常超现实。有了这样的经历，我们得以外推——深度学习研究中也可能出现类似的突然转变。虽然这个领域更依赖实验，但简单洞见被遗漏多年的情况由来已久；因此，最早在 2027 年，我们就可以想见会出现类似的、基础性预训练进展的井喷。虽然我预期 AI 也会显著贡献于对齐和监测方面的进展，但我认为这些进展不太可能快到足以释放预训练中全部的潜在加速。",
+        "en": "We have recently witnessed unprecedented acceleration in another domain. For more than a year, we have been posing open problems in mathematics to our models as one of the ways of evaluating them. Once we upgraded to a model of log-perplexity ~0.76, it started producing groundbreaking results. For many of us that have previously worked in mathematics and adjacent fields, seeing the resolutions to questions we’ve long thought about coming out of the model one after another in a single Slack thread felt deeply surreal. Having experienced that allows us to extrapolate—such a sudden transformation is plausible in deep learning research too. While this field relies more on experimentation, there is a long history of simple insights being missed for years; and so as soon as 2027 we could conceivably see a similar avalanche of fundamental pretraining advancements. While I expect AI will also significantly contribute to progress on alignment and monitoring, I think that progress is unlikely to be fast enough to allow the full potential acceleration in pretraining."
+      },
+      {
+        "t": "p",
+        "zh": "鉴于新的令人惊讶的能力出现的主要方式是压缩方面的进展，一项植根于困惑度的度量，可以不管开发过程的自动化程度如何，为我们提供一个关于通用智能的共同基准。从近期进展外推，当我们进入约 0.68-0.7 的对数困惑度区间时，应当预期会出现进一步的变革性能力。我不知道那些能力会是什么，而且我们今天可能并没有在测试它们。与此同时，我们也应当预期，目前占主导地位的对齐审计形式会进一步退化，评估意识与训练意识会进一步增强。我认为前沿模型开发者应当共同努力，在此类模型首次被使用之时，就建立起如何评估它们、并为它们的安全论证做红队测试的共同规范，包括共同的透明度标准。我进一步提议基于困惑度及其他测量的共同上限，开发者承诺在我们理解和监测 AI 行为的能力达到某个具体里程碑（例如开发出思维链监测器的后继方案）之前不越过这些上限。也就是说，我希望有一项行业标准，规定以某个我们可以跨实验室追踪的关键指标来衡量的第一道发展上限，以及在越过它之前我们需要具体实现什么。我希望这能通向一个设定后续上限、并把握进一步发展节奏的共同框架。",
+        "en": "Given that the main way new surprising capabilities emerge is by progress on compression, a measure rooted in perplexity could give us a shared benchmark for general intelligence, regardless of the degree of automation of the development process. Extrapolating from recent progress, we should expect further transformative capabilities as we enter the ~0.68-0.7 log-perplexity window. I don’t know what those capabilities will be, and we may not be testing for them today. At the same time, we should also expect further degradation⁠(opens in a new window) in currently dominant forms of alignment auditing and further increases in evaluation and training awareness. I believe frontier model developers should jointly endeavour to establish shared norms for how to evaluate such models and red-team safety cases for them by the time they are first used, including shared transparency standards. I further propose common limits, based on perplexity and other measurements, that developers are committed to not crossing until our ability to understand and monitor AI behavior achieves a certain concrete milestone (such as the development of a successor to CoT monitors). That is, I’d like an industry standard that specifies a first limit on development, measured by some key metric we can track across labs, and what concretely we’d need to achieve before going beyond it. I hope that this leads the way to a common framework for setting successive limits and pacing further development."
+      },
+      {
+        "t": "p",
+        "zh": "把困惑度作为共同指标存在一些挑战：",
+        "en": "Perplexity as a shared metric has challenges:"
+      },
+      {
+        "t": "p",
+        "zh": "• 难以在实验室之间进行比较。不同开发者使用不同的评估数据集，并在不同的数据混合上训练。在此，我们报告的是我们一直在追踪的主要数据集上的数字；我相信，如果我们确立透明度这一目标，就能找到可迁移的方法来比较不同基座模型的质量。",
+        "en": "• Difficulty of comparison across labs. Different developers use different evaluation datasets and train on different data mixtures. Here, we report the numbers on the main dataset we have been tracking; I believe if we establish a goal of transparency we can find transferable ways to compare the quality of different base models."
+      },
+      {
+        "t": "p",
+        "zh": "• 与可操作的评估相脱离。困惑度并不直接对应于我们关心的某项任务。之所以要关注它，是因为我们可以预期，它上面的进展会带来全新能力的涌现。",
+        "en": "• Detachment from actionable evaluations. Perplexity does not directly correspond to a task we care about. The reason to care about it is that we can expect advances on it to lead to emergence of entirely new capabilities."
+      },
+      {
+        "t": "p",
+        "zh": "• 没有计入预训练之外的进展。最显著的是，思维链推理并不会降低模型所达到的困惑度，尽管它会带来能力的大幅提升。",
+        "en": "• Not accounting for advances outside of pretraining. Most notably, chain-of-thought reasoning does not reduce perplexity achieved by the model, even though it leads to a drastic increase in capabilities."
+      },
+      {
+        "t": "p",
+        "zh": "• 未知的下限。我们并不认为有可能达到 0 的损失，因为那相当于能够完全确定性地预测该数据集。但我们不知道数据固有的熵是多少。随着我们接近它，困惑度上的表面进展会放缓，但困惑度上更小的提升将对应模型智能上更大的跃升。",
+        "en": "• Unknown floor. We do not expect it is possible to achieve a loss of 0, which would correspond to being able to predict the dataset entirely deterministically. But we do not know what the inherent entropy of the data is. As we approach it, the apparent progress on perplexity will slow, but smaller gains on perplexity will correspond to larger leaps in model intelligence."
+      },
+      {
+        "t": "p",
+        "zh": "与此同时，困惑度已经经受住了时间的考验，成为许多研究团队投入大量精力去优化的一项指标，并且持续在通用智能上带来稳定收益。我相信它可以在我们如何讨论 AI 进展的标准化方面发挥重要作用，也希望看到整个行业在这方面有更多透明度。",
+        "en": "At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing, and it continues to deliver consistent gains on general intelligence. I believe it can play an important role in standardizing how we talk about AI progress, and hope to see more transparency about it across the industry."
+      }
+    ]
+  }
+}

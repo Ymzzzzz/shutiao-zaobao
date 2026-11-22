@@ -1,0 +1,77 @@
+{
+  "id": "n05744626c0d6",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI首席科学家建议用困惑度限制发展速度",
+  "original_title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "summary": "TechCrunch报道，OpenAI首席科学家Jakub Pachocki发文主张用困惑度衡量智能进展，以便行业约定共同发展上限，在监测能力达到明确里程碑前不得越过。",
+  "facts": [
+    {
+      "text": "TechCrunch报道，OpenAI首席科学家Jakub Pachocki发表博文，讨论如何为AI发展设定限制，并把困惑度作为衡量进展的核心指标。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    },
+    {
+      "text": "文章援引博文数据称，GPT-4的对数困惑度约为0.91，当损失降至0.8以下后，模型在网络安全和数学等领域出现了变革性能力。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Sam Altman称，这是OpenAI一段时间以来发表的最重要内容。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    },
+    {
+      "text": "据Pachocki称，关注下游能力的基准会很快过时，困惑度能提供关于通用智能的共同标尺，公司应承诺在监测能力达到明确里程碑前不越过特定阈值。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "is_primary": false,
+      "published_at": "2026-11-23T05:14:07+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T05:14:07+08:00",
+  "updated_at": "2026-11-23T05:14:07+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI首席科学家建议用困惑度限制发展速度",
+  "lead_zh": "OpenAI首席科学家Jakub Pachocki发文主张用困惑度衡量智能进展，以便行业约定共同发展上限，在监测能力达到明确里程碑前不得越过。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch报道，OpenAI首席科学家Jakub Pachocki发表新博文，讨论如何为AI发展设定限制，并把名为困惑度的指标作为衡量速度的关键。报道称，放缓AI发展的讨论在一名前OpenAI和Anthropic研究员发出警告，以及Anthropic上市文件提到技术可能带来灾难性或生存风险后升温。",
+        "文章还提到，Anthropic首席执行官Dario Amodei随后公布了“为前沿发展定节奏”的计划，并呼吁公司同意共同安全标准，以及对不受约束的AI进展速度设限。为了设定速度上限，首先需要就如何衡量速度达成一致。Pachocki的博文给出了自GPT-3.5以来的困惑度变化图，其中GPT-4约为**0.91**，损失低于**0.8**后出现网络安全和数学等领域的变革性能力。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据OpenAI首席执行官Sam Altman称，这是OpenAI一段时间以来发表的最重要内容。Pachocki认为，关注下游能力的基准会很快过时，而困惑度衡量模型平均预测下一个token的能力，一直更具参考价值，可成为通用智能的共同标尺；各公司应承诺在理解和监测AI行为的能力达到明确里程碑前，不越过特定阈值。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

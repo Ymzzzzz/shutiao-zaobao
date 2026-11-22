@@ -1,0 +1,72 @@
+{
+  "id": "nda1028cd2350",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "报告称美国会计行业AI用得多但整合仍不足",
+  "original_title": "报告：美国会计行业 AI 采用率高，但技术整合成熟度不足",
+  "summary": "沃尔特斯克鲁威尔一项调查显示，88%的美国会计从业者日常使用生成式AI，68%在使用智能体AI，但在完成数字化成熟度评估的事务所中，仅13%达到该公司定义的技术领先门槛。",
+  "facts": [
+    {
+      "text": "沃尔特斯克鲁威尔税务与会计发布《面向未来的会计师》报告，调查于2026年6月至7月进行，共收集746名美国会计行业从业者的反馈。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/679.htm"
+    },
+    {
+      "text": "报告显示，88%的美国会计从业者日常使用生成式AI，68%在使用智能体AI；但在接受数字化成熟度评估的事务所中，只有13%达到该公司定义的技术领先门槛。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/679.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该公司发言人称，问题的关键并不在于企业高估了自身的技术水平，而在于采用技术与把技术整合到整个业务体系中，本质上是两回事。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/679.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/679.htm",
+      "is_primary": false,
+      "published_at": "2026-11-22T17:58:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T17:58:03+08:00",
+  "updated_at": "2026-11-22T17:58:03+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报告称美国会计行业AI用得多但整合仍不足",
+  "lead_zh": "沃尔特斯克鲁威尔一项调查显示，88%的美国会计从业者日常使用生成式AI，但在完成数字化成熟度评估的事务所中，仅13%达到该公司定义的技术领先门槛。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "周三，沃尔特斯克鲁威尔税务与会计发布《面向未来的会计师》报告。调查于2026年6月至7月进行，共收集746名美国会计行业从业者的反馈。报告发现，83%的美国会计事务所将自己定位为“技术创新者”或“早期采用者”；**88%**的从业者表示日常使用生成式AI，另有**68%**表示正在使用智能体AI。",
+        "不过，在接受数字化成熟度评估的事务所中，只有**13%**达到该公司定义的技术领先门槛，标准包括经常使用AI、全面采用或明确计划上云，以及较高的技术整合水平。需要说明的是，并非所有受访者都完成了这项评估：在746人中只有**300**人回答了全部相关问题，因此83%与**13%**不能直接比较。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "机构怎么说",
+      "paras": [
+        "沃尔特斯克鲁威尔向Business Insider表示，美国会计事务所在技术采用方面已取得显著进展，但尚未把各项独立技术整合为更加协同的运营模式。该公司发言人说，问题的关键并不在于企业高估了自身的技术水平，而在于采用技术与把技术整合到整个业务体系中，本质上是两回事。报告认为，下一步挑战是推动真正的业务运营变革，而不是只在现有流程中增加几款AI工具。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/a6d137edc3736e83b13b3ba80092d98fe3bc7be6.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2025/11/dee457e5-773d-4331-a243-41b272580c2b.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

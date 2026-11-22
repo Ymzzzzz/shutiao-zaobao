@@ -1,0 +1,72 @@
+{
+  "id": "nb014e723007f",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "METR警告模型进步快过安全评估能力",
+  "original_title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+  "summary": "研究机构METR称，前沿模型在研究任务上迅速变强且更难测量。现有公开数据无法排除未来数年人工智能研究出现急剧加速，那可能使人难以评估新系统带来的灾难性风险，并就此发出警告。",
+  "facts": [
+    {
+      "text": "METR发现，在有直接反馈、定义清晰的编程和计算任务上，模型多数时候已胜过有经验的专业人士，但尚未胜过由顶尖专家组成的大团队。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/"
+    },
+    {
+      "text": "对耗时更长的任务，模型能够处理的任务时长每3.6个月翻一番；按METR数据做简单外推，到2027年7月，模型在最长的200小时任务上可能达到50%成功率。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据METR称，现有公开数据不足以排除未来数年AI研究出现急剧加速，那可能使人无法有意义地理解、评估并应对新系统带来的灾难性风险。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "is_primary": false,
+      "published_at": "2026-11-22T21:00:43+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T21:00:43+08:00",
+  "updated_at": "2026-11-22T21:00:43+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "METR警告模型进步快过安全评估能力",
+  "lead_zh": "研究机构METR称，前沿模型在研究任务上迅速变强且更难测量，现有公开数据无法排除未来数年AI研究出现急剧加速，或使人难以评估灾难性风险。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "研究机构METR报告称，领先AI模型在人工智能研究任务上迅速变强，同时也越来越难以测量。在有直接反馈、定义清晰的编程和计算任务上，这些模型多数时候已胜过有经验的专业人士，但尚未胜过由顶尖专家组成的大团队。",
+        "对耗时更长的任务，模型能够处理的任务时长每**3.6**个月翻一番。按METR数据做简单外推，到**2027**年**7**月，模型在最长的**200**小时任务上可能达到**50%**成功率。METR还指出，模型在缺少即时反馈、需要真实判断的开放问题，以及难以为训练复现的情境中仍然表现吃力。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "机构怎么说",
+      "paras": [
+        "据METR称，现有公开数据不足以排除未来数年AI研究出现急剧加速，那可能使人无法有意义地理解、评估并应对新系统带来的灾难性风险。该机构还警告，常见且容易运行的测试可能高估模型在真实使用中的表现，因为开发者常在非常相似的测试环境中训练它们。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

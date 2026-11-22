@@ -1,0 +1,72 @@
+{
+  "id": "n0c81fa30a9f6",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "用对话式编程改造智能电视等设备成风潮",
+  "original_title": "The vibe-coding revolution is coming to all the gadgets",
+  "summary": "《The Verge》专栏介绍，开发者开始用Claude Code等模型改造各类设备。印度开发者Gathin T用约一个半小时去掉小米Android电视广告，并推出了名为CleanYourTV的工具。",
+  "facts": [
+    {
+      "text": "《The Verge》专栏作者David Pierce写道，越来越多人用Claude Code或Codex等大模型，通过提示词改造电视等设备的软件界面。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+    },
+    {
+      "text": "印度开发者Gathin T在一台运行Android TV的小米电视上，用约一个半小时去掉屏幕广告并简化界面，随后推出CleanYourTV工具，该项目在GitHub上获得大量关注。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Gathin T称，他先是想去掉电视里的预装软件，随后又想让界面更好看；在调整权限并打开USB调试后，聊天机器人只要与电视处于同一Wi-Fi网络就能控制这台电视。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "is_primary": false,
+      "published_at": "2026-11-22T21:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T21:00:00+08:00",
+  "updated_at": "2026-11-22T21:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "用对话式编程改造智能电视等设备成风潮",
+  "lead_zh": "美国科技媒体专栏介绍，开发者开始用编程助手改造各类电器：一名印度开发者用约一个半小时去掉小米安卓电视上的广告，并推出了清理电视界面的开源工具。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《The Verge》专栏“The Stepback”写道，改装、破解和调整消费设备并不新鲜，但现在人们发现可以用大模型，通过向Claude Code或Codex发出提示来完成这类工作，这推动了对更易开发的硬件、以及几乎各类设备上更好软件的需求。",
+        "印度开发者Gathin T的一台小米Android电视广告很多、界面杂乱，甚至难以切换输入源。他调整权限并打开USB调试后，让聊天机器人在同一Wi-Fi网络下控制电视，约一个半小时后去掉了屏幕广告，界面更简洁，也更容易切换到PlayStation。他在X上发帖后传播开来，随后推出CleanYourTV，该项目成为GitHub上很受欢迎的仓库之一，并收到大量拉取请求和功能建议。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "开发者怎么说",
+      "paras": [
+        "据Gathin T称，事情几乎开始于一个下午的冲动：他先是想去掉电视里的预装软件，随后又想让界面更好看。他也提醒，这样容易改造的主要是基于Android的电视；其他系统往往需要更明确的破解和获取最高权限，因此他不太愿意把那些做法公开传播。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/f876b20a6d51aa21028ace0d6c9b1f7cebc3cc4c.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

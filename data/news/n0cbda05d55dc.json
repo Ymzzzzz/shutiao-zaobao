@@ -1,0 +1,72 @@
+{
+  "id": "n0cbda05d55dc",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "GPT-6.2 Astra和Sol更简短但坦诚度评分低于Claude",
+  "original_title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+  "summary": "Artificial Analysis评测显示，OpenAI的GPT-6.2 Astra和Sol平均回复更短、更快切入正题，但“承认不确定性”得分明显下降，透明度指数也低于Anthropic的Claude模型。",
+  "facts": [
+    {
+      "text": "Artificial Analysis评测显示，GPT-6.2 Astra平均回复长度从352词降至210词，下降40%；Sol从337词降至223词，下降34%。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/"
+    },
+    {
+      "text": "在“承认不确定性”这项相对排名中，Astra从96降至24，Sol从98降至51。Anthropic模型在透明度指数上为81和90，高于Astra的41和Sol的57。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该评测称，这些个性分数是相对排名，分值24并不意味着Astra只在24%的回答中承认不确定性。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "is_primary": false,
+      "published_at": "2026-11-22T17:41:37+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T17:41:37+08:00",
+  "updated_at": "2026-11-22T17:41:37+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "GPT-6.2 Astra和Sol更简短但坦诚度评分低于Claude",
+  "lead_zh": "一项评测显示，OpenAI两款新模型回复更短、更快切入正题，但在承认不确定性上的得分明显下降，透明度指数也低于Anthropic的模型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Artificial Analysis的评测显示，OpenAI的GPT-6.2 Astra和Sol给出的回答更短、更快切入正题，结构也更少。Astra平均回复长度从352词降至210词，下降约**40%**；Sol从337词降至223词，下降约**34%**。Astra平均每条回答的标题数从1.99降至0.11，Sol从1.85降至0.25。组织指数上，Astra从70降至11，Sol从86降至27；但“先回答问题”一项上，Astra从49升至89，Sol从64升至87。",
+        "变化最大的是“承认不确定性”：Astra从**96**降至**24**，Sol从**98**降至**51**。与字数统计不同，这些个性分数是1到100的相对排名，用来比较该特质在各模型中的强弱。Anthropic的Claude Fable 5.2和Opus 5.5在透明度指数上为**81**和**90**，高于Astra的**41**和Sol的**57**。评测使用900道无系统提示的英文题目，并由3个AI评审对匿名回答两两比较。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "评测怎么说",
+      "paras": [
+        "评测方强调，分值**24**并不意味着Astra只在**24%**的回答中承认不确定性，而只说明这一特质相对其他受测模型更弱。该评测在LinkedIn和X上公布，覆盖**30**项个性特质，并汇总为**8**项更高层指数。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,72 @@
+{
+  "id": "neb129520dd79",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "甲骨文称已筹齐履行OpenAI合同所需全部资金",
+  "original_title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
+  "summary": "甲骨文本月20日表示，已在本月初筹集到履行与OpenAI交易所需的全部资金，并称得州阿比林园区已用于GPT-6 Astra训练且接近完工，与供应商的进一步私下讨论仅为补充选项。",
+  "facts": [
+    {
+      "text": "甲骨文本月20日表示，已在本月初筹集到履行与OpenAI交易所需的全部资金，与供应商进行的任何进一步私下讨论仅为补充选项。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/715.htm"
+    },
+    {
+      "text": "该公司称，位于美国得克萨斯州阿比林的园区已用于GPT-6 Astra训练并接近完工，下一个吉瓦级项目Shackelford已获得所有许可，NVIDIA Vera Rubin机架交付预计将在未来几周内完成。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/715.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据甲骨文称，仍预计可在FY2028下半年实现正的自由现金流，目标是在FY2029实现超过300亿美元的自由现金流，并自那时起依靠自有资金支持未来增长。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/030/715.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/030/715.htm",
+      "is_primary": false,
+      "published_at": "2026-11-22T22:24:17+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T22:24:17+08:00",
+  "updated_at": "2026-11-22T22:24:17+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "甲骨文称已筹齐履行OpenAI合同所需全部资金",
+  "lead_zh": "甲骨文本月20日表示，已在本月初筹集到履行与OpenAI交易所需的全部资金，并称得州阿比林园区已用于GPT-6 Astra训练且接近完工。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月22日消息，甲骨文本月**20**日表示，该企业已在本月初筹集到履行与OpenAI交易所需的全部资金，与供应商进行的任何进一步私下讨论仅为补充选项。",
+        "甲骨文称，其与OpenAI在AI基础设施合作方面进展迅速：位于美国得克萨斯州阿比林的园区已用于GPT-6 Astra的训练，整体接近完工；下一个吉瓦级项目Shackelford已获得所有许可；NVIDIA Vera Rubin机架交付工作正按计划进行，预计将在未来几周内完成。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据甲骨文称，该企业仍预计可在FY2028下半年实现正的自由现金流，目标是在FY2029实现超过**300**亿美元的自由现金流（IT之家注：按当时汇率约合**2008**亿元人民币），并预计从那时起能够依靠自有资金支持未来增长。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/af592220c8681b9816308a8604bd1d33a6d0d912.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/5484c5f8-414f-4b1a-b8a2-d2c006e8ecb2.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

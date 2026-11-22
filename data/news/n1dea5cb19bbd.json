@@ -1,0 +1,77 @@
+{
+  "id": "n1dea5cb19bbd",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "研究称廉价AI推理服务存在窃密和偷窥风险",
+  "original_title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+  "summary": "安全机构Dragos在2026年7月至11月向AI服务发送约200万条含虚假凭证的请求，发现至少三家供应商已被入侵，攻击者还窃取了数百个AWS密钥，有的在被拒绝处理的请求里。",
+  "facts": [
+    {
+      "text": "安全机构Dragos在2026年7月至11月发送约200万条含虚假凭证的AI请求，发现至少三家供应商已被入侵，且这些供应商在收到通知前并不知情。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
+    },
+    {
+      "text": "规模最大的一起事件中，攻击者收集了数百个AWS密钥，其中一些来自供应商尚未处理就已拒绝的请求；有的密钥在数小时内被拿去测试，并用于搜索S3存储、尝试建立持久访问。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Dragos称，市场转售商不必利用漏洞，只要把模型标到最低价并打开日志，就能阅读客户请求。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
+    },
+    {
+      "text": "据Dragos首席研究官HD Moore称，这并不意味着应该停止使用AI服务，但提示发往何处是一项决定，若不主动选择，最低价格就会替你决定。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "is_primary": false,
+      "published_at": "2026-11-22T20:07:56+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T20:07:56+08:00",
+  "updated_at": "2026-11-22T20:07:56+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "研究称廉价AI推理服务存在窃密和偷窥风险",
+  "lead_zh": "安全机构Dragos在今年7月至11月向AI服务发送约200万条含虚假凭证的请求，发现至少三家供应商已被入侵，攻击者还窃取了数百个AWS密钥。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "安全机构Dragos在**2026**年**7**月至**11**月发送约**200**万条含虚假凭证的AI请求，发现至少**3**家供应商已被入侵，且这些供应商在收到通知前并不知情。规模最大的一起事件中，攻击者收集了数百个AWS密钥，其中一些来自供应商尚未处理就已拒绝的请求；有的密钥在数小时内被拿去测试，并用于搜索S3存储、尝试建立持久访问，还有攻击者使用了名为ARTEX的AI攻击工具。",
+        "研究还发现，“零数据保留”等隐私设置常被忽略。即便请求经由美国供应商发出，一家中国AI实验室仍访问了半数以上请求中的秘密测试网址；一家大型美国供应商在单次请求两个多月后仍在抓取测试链接。另一条秘密测试链接在**24**天后出现在飞书内部聊天中，并在两分钟内被北京和上海的**3**台电脑和**3**部手机打开。OpenRouter随后从平台移除了**3**家供应商，并撤销了**125**个端点的零数据保留批准，还向用户提示第三方可能阅读了发往MiniMax模型的请求。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究方怎么说",
+      "paras": [
+        "据Dragos称，市场转售商不必利用漏洞，只要把模型标到最低价并打开日志，就能阅读客户请求。该机构首席研究官HD Moore写道，这并不意味着应该停止使用AI服务，但提示发往何处是一项决定，若不主动选择，最低价格就会替你决定。研究人员建议企业控制请求路由、检查隐私设置，并埋入一旦被使用就会暴露的金丝雀令牌。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/8d8fcd8f04e24cd9a9af22f63562a92186901678.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/cybersecurity_data_leak.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

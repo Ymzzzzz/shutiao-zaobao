@@ -1,0 +1,72 @@
+{
+  "id": "nbed82431ae1f",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "记者新书探讨数据中心为何成为科技反弹焦点",
+  "original_title": "Why data centers are at the center of the Big Tech backlash",
+  "summary": "记者Paris Marx在新书《Hyperscale》中走访超大规模数据中心，并在TechCrunch采访中称这轮建设不可持续，会直接影响电费、用水和噪音，因而成为跨党派争议焦点。",
+  "facts": [
+    {
+      "text": "记者Paris Marx在新书《Hyperscale》中调查数据中心和生成式AI的影响，并接受TechCrunch采访，讲述他走访数据中心的经历。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    },
+    {
+      "text": "Marx曾联系多家公司申请进入机房，常得不到回复或被拒绝，后来在新西兰进入一座数据中心参观；他此前还在北弗吉尼亚和爱尔兰等地从外部观察过相关设施。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Marx称，这轮数据中心扩张从根本上不可持续，也与宜居星球完全不相称，而且无论政治立场如何，社区都可能在生活质量、电费、用水和噪音上感受到影响。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "is_primary": false,
+      "published_at": "2026-11-23T02:08:43+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T02:08:43+08:00",
+  "updated_at": "2026-11-23T02:08:43+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "记者新书探讨数据中心为何成为科技反弹焦点",
+  "lead_zh": "记者Paris Marx在新书《Hyperscale》中走访超大规模数据中心，并在采访中称这轮建设不可持续，会直接影响电费、用水和噪音，因而成为跨党派争议焦点。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "记者Paris Marx在新书《Hyperscale》中调查数据中心和生成式AI的影响，既写设施内部情形，也解释这套可追溯数十年的计算基础设施近来为何变成政治地雷。他接受TechCrunch采访时谈到，在生成式AI带来更多关注之前，研究人员进入数据中心相对更容易。",
+        "Marx曾发邮件向多家公司申请进入机房，常常得不到回复，或直接被拒绝。在北弗吉尼亚和爱尔兰等地从外部观察过一些设施后，他前往新西兰，最终走进一座数据中心。令他印象最深的是安检程度：除了围栏和监控，他还需要提前提交护照，到场后再核验。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据Marx称，这轮数据中心扩张从根本上不可持续，也与宜居星球完全不相称；设施建在社区里非常具体、可见，无论政治立场如何，人们都可能在生活质量、电费、用水，以及屋顶空调的噪音上感受到影响。他还认为，对数据中心的反对只是更广泛运动中最显眼的一部分，对象还包括美国各地铺开的Flock摄像头、Meta智能眼镜，以及Waymo正在推出的自动驾驶汽车。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/3cc0516ee393899ed3e82a7b95c1323dbff38353.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

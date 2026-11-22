@@ -1,0 +1,77 @@
+{
+  "id": "n9826d82b1b2c",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": false,
+  "title": "美国多家银行收紧对第三方AI智能体的限制",
+  "original_title": "Banks Have Had It Up to Here With Your AI Agent",
+  "summary": "富国银行将于周二更新对数百万客户的协议，明确使用AI智能体需自担风险。摩根大通、美国银行、花旗和PNC近期也已调整条款或发出警告，限制第三方智能体代为登录账户。",
+  "facts": [
+    {
+      "text": "富国银行将于周二更新对数百万客户的协议，新条款写明使用任何AI智能体需自担风险。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+    },
+    {
+      "text": "今年10月下旬，摩根大通修改条款，禁止使用客户凭证登录的第三方智能体；同一天美国银行警告客户不要向智能体分享登录信息。花旗和PNC也已调整条款，加入有关智能体的警告。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据研究消费者行为的副教授Kacy Kim称，消费者授权的是目标，而不是每一次点击。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+    },
+    {
+      "text": "据Forrester分析师Sucharita Kodali称，他们的数据显示，大多数人甚至不知道智能体是什么，更不用说去使用它们。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "is_primary": false,
+      "published_at": "2026-11-22T19:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-22T19:00:00+08:00",
+  "updated_at": "2026-11-22T19:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "美国多家银行收紧对第三方AI智能体的限制",
+  "lead_zh": "富国银行将于周二更新对数百万客户的协议，明确使用AI智能体需自担风险；摩根大通、美国银行、花旗和PNC近期也已调整条款或发出警告。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "富国银行将于周二起对数百万客户实施更新后的协议，专门涉及AI智能体。新条款写明：使用任何AI智能体均需自担风险。今年**10**月下旬，摩根大通已修改条款，禁止使用客户凭证登录的第三方智能体；同一天，美国银行警告客户不要向智能体分享登录信息。花旗银行和PNC也已调整条款，加入有关智能体的警告。",
+        "报道称，智能体常被宣传用于代为购物、订票等在线任务，但**2026**年也出现过把银行信息发到工作场合等失误。亚马逊已阻止Meta旗下较常用的智能体Muse在其平台下单，联合航空也宣布将阻止个人机器人代为购票。尽管由这类工具完成的交易仍很少，美国银行机构已不愿再让第三方智能体随意接入账户。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "观察者怎么说",
+      "paras": [
+        "研究消费者行为与新兴科技的布莱恩特大学副教授Kacy Kim说，消费者授权的是目标，而不是每一次点击；她预计部分消费者会觉得为智能体的错误担责不公平，但这些政策未必吓退已经深度使用这些工具的早期用户。Forrester分析师Sucharita Kodali则称，他们的数据显示，大多数人甚至不知道智能体是什么，更不用说去使用它们，而银行本质上厌恶风险，因此现在采取预防措施可以理解。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/defb806094f9736bac87e231491649d73141a38f.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
