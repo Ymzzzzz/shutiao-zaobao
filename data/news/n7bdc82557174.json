@@ -1,0 +1,67 @@
+{
+  "id": "n7bdc82557174",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "风波中的Megaspeed或将被列入美国实体清单",
+  "original_title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+  "summary": "报道称，由Alice Huang曾执掌两年多的新加坡云与人工智能基础设施公司Megaspeed将被列入美国商务部实体清单，以限制其获取美国芯片。该公司否认存在不当行为。",
+  "facts": [
+    {
+      "text": "Semafor周一报道，Alice Huang曾执掌两年多的新加坡公司Megaspeed将被列入美国商务部实体清单。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据知情人士称，此举旨在阻止该公司获取美国制造的半导体。Megaspeed否认有不当行为。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "is_primary": false,
+      "published_at": "2026-11-24T05:25:42+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T05:25:42+08:00",
+  "updated_at": "2026-11-24T05:25:42+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "风波中的Megaspeed或将被列入美国实体清单",
+  "lead_zh": "Semafor援引知情人士报道，Alice Huang曾执掌逾两年的新加坡企业Megaspeed将被列入美国商务部实体清单，美国公司须获许可才能与其交易。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch援引Semafor周一报道称，Alice Huang曾执掌两年多的新加坡云与人工智能基础设施公司Megaspeed将被列入美国商务部实体清单。列入后，美国公司须先获得联邦政府特别许可，才能与其做生意或向其销售产品。上周商务部还宣布对该公司启动刑事调查，美国和新加坡当局正在审查其是否违反出口管制、向中国走私英伟达芯片。",
+        "报道称，在黄仁勋自承与Alice Huang有婚外关系的那段时间，Megaspeed曾是英伟达最大的芯片客户之一。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据知情人士向Semafor表示，此举旨在阻止该公司“获取美国制造的半导体”。Megaspeed否认存在不当行为。实体清单用于限制被认定可能威胁美国国家安全或公民的外国实体获取敏感技术。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/f864e8fab7665492afc6802c7bf773997cb69559.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

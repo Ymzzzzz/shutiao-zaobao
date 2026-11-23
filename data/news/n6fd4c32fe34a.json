@@ -1,0 +1,67 @@
+{
+  "id": "n6fd4c32fe34a",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "Hugging Face指南：如何建设并维护智能体评测",
+  "original_title": "How to build and maintain an agentic evaluation",
+  "summary": "Hugging Face撰文说明如何建设、维护和开放智能体评测。文章回顾评测从核对答案到检查智能体行为的变化，并提到平台约有3500个排行榜、评测数据集约1.7万个。",
+  "facts": [
+    {
+      "text": "Hugging Face发文介绍如何建设并维护智能体评测，并称平台约有3500个评测排行榜，过去一年评测数据集增至约1.7万个。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/agentic-evals"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据文章称，98.2%的模型基准分数只由单方报告；Artificial Analysis的Intelligence Index v5约60%依赖不公开测试集或留出答案的评测。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/agentic-evals"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "is_primary": true,
+      "published_at": "2026-11-23T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T08:00:00+08:00",
+  "updated_at": "2026-11-23T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Hugging Face指南：如何建设并维护智能体评测",
+  "lead_zh": "Hugging Face发文介绍智能体评测的步骤与常见错误，并称平台约有3500个评测排行榜，过去一年评测数据集增至约1.7万个，增长约16倍。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Hugging Face发表指南，讨论如何建设、维护并有策略地开放智能体评测。文章把评测分成核对答案、检查单个智能体做了什么、以及检查智能体团队产出三个阶段，并走完从命题到报告分数的八个步骤。平台目前约有**3500**个评测排行榜，过去一年评测数据集增至约**1.7万**个，增长约**16倍**，近期还加入了Traces、Benchmarks和Environments等面向智能体的机制。",
+        "指南还提醒任务和打分器出错很常见，并以一次改写后的实验为例：用Terminus-2和开源模型gpt-oss-120b，在原始任务上**3**次尝试全部失败，调整后**24**次中有**11**次通过，多数失败来自过早结束或缺少软件包。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "文章怎么说",
+      "paras": [
+        "文章称，决策者、企业和研究者需要可核验的评测，但今天**98.2%**的模型基准分数只由单方报告。Artificial Analysis表示，其**2026年10月**公布的Intelligence Index v5中，约**60%**依赖不公开测试集或留出答案的评测。作者主张尽可能开放任务、环境和过程，同时保护需要保密的部分。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/541285c574bb31858f8283cca16e9c983f733130.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

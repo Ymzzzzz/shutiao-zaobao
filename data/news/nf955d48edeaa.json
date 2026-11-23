@@ -1,0 +1,67 @@
+{
+  "id": "nf955d48edeaa",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "亚马逊75亿美元收购Decart优化技术，为出售自研芯片铺路",
+  "original_title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+  "summary": "据彭博报道，亚马逊同意以75亿美元收购以色列公司Decart的优化技术与创始团队。Decart以实时世界模型和视频生成著称，其软件可提高模型在英伟达、亚马逊和谷歌硬件上的运行效率。",
+  "facts": [
+    {
+      "text": "据彭博报道，亚马逊同意以75亿美元收购以色列创业公司Decart的优化技术与创始团队，为对外销售Trainium芯片做准备。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊基础模型与定制芯片高级副总裁彼得·德桑蒂斯称，每块芯片发挥更大效率，才能带来更好的训练、强化学习和更低成本的推理。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "is_primary": false,
+      "published_at": "2026-11-24T01:14:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T01:14:23+08:00",
+  "updated_at": "2026-11-24T01:14:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊75亿美元收购Decart优化技术，为出售自研芯片铺路",
+  "lead_zh": "彭博报道，亚马逊同意以75亿美元收购以色列创业公司Decart的优化技术与创始团队，以便在对外销售Trainium芯片时提高模型运行效率。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊同意收购以色列创业公司Decart的相当一部分业务。据彭博报道，交易金额为**75亿美元**。Decart以交互式实时世界模型（最近的Oasis 3）和人工智能视频生成工具为人所知，其核心是名为Decart Optimization Stack（DOS）的软件，可帮助模型更高效地运行在英伟达、亚马逊和谷歌的硬件上。",
+        "根据亚马逊博客，公司将收购DOS背后的技术，以及创始团队和一批人工智能研究人员与工程师。亚马逊此前主要在自有数据中心使用Trainium芯片，现正准备对外销售，以挑战英伟达。Decart与亚马逊均未立即回应置评请求。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据亚马逊负责基础模型、定制芯片和量子计算的高级副总裁彼得·德桑蒂斯称，“人工智能的每一次跃迁，都始于从每块芯片中拿出更多东西。更高效的计算意味着更好的训练、更好的强化学习、更快的推理，以及以更低成本为客户提供更好的模型。”报道认为，这项技术可能让客户更容易把工作负载放到亚马逊芯片而非英伟达芯片上。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/f727bbb31961cb657f87723d0cf2f7db56ffb3e4.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

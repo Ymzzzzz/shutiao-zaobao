@@ -1,0 +1,51 @@
+{
+  "id": "ne63c50b367bc",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋定于12月3日出席美国参议院听证会",
+  "original_title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+  "summary": "英伟达宣布恢复黄仁勋职务数小时后，参议院银行委员会网站显示他将于12月3日出席公开听证，并已定于12月1日与众议院外交事务、对中共特别委员会和情报委员会闭门会面。",
+  "facts": [
+    {
+      "text": "黄仁勋定于12月3日出席参议院银行委员会公开听证，并已安排在12月1日与三家众议院委员会闭门会面。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "is_primary": false,
+      "published_at": "2026-11-24T02:12:22+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T02:12:22+08:00",
+  "updated_at": "2026-11-24T02:12:22+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋定于12月3日出席美国参议院听证会",
+  "lead_zh": "英伟达宣布恢复黄仁勋职务数小时后，参议院银行委员会网站显示他将于12月3日出席公开听证，并已定于12月1日与三家众议院委员会闭门会面。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "就在英伟达宣布恢复黄仁勋首席执行官职务数小时后，参议院银行委员会网站显示，他将于**12月3日**出席公开听证。银行委员会管辖出口管制政策，目的是防止可用于人工智能的芯片等敏感技术落入外国政府和军方之手。这次公开听证此前已有两党议员要求他，就与涉嫌中国间谍的婚外关系以及芯片走私嫌疑作出说明。",
+        "在恢复职务之前，黄仁勋已同意于**12月1日**出席众议院外交事务委员会、对中共特别委员会和众议院情报委员会的会议。公开听证安排在他被董事会恢复职务之后数小时见诸委员会网站，两党议员此前已要求他就婚外关系及芯片走私嫌疑作证。他是在不到两周前因至少两段婚外关系（其中包括与一名被美国政府怀疑为中国间谍的女子）辞职，随后又被恢复职务的。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/dadce7808c7133e7c725e6b5563e279277e880df.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

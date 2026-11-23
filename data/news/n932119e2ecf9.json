@@ -1,0 +1,67 @@
+{
+  "id": "n932119e2ecf9",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Nothing将推可录音转写的Ear Note耳机",
+  "original_title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+  "summary": "Nothing即将推出Ear Note耳机，充电盒配有麦克风，可录音、转写并生成人工智能摘要，计划12月8日发布。佩伊称这是为人工智能提供硬件上下文的系列产品中的第一款。",
+  "facts": [
+    {
+      "text": "Nothing计划于12月8日发布Ear Note耳机，充电盒带麦克风，可录音、转写并生成摘要，价格尚未确定。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据首席执行官佩伊在X上称，这是为人工智能提供硬件上下文的系列产品中的第一款，选择改进人们已经佩戴和信任的设备，而不是再让用户多带一件新产品。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "is_primary": false,
+      "published_at": "2026-11-24T03:04:52+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T03:04:52+08:00",
+  "updated_at": "2026-11-24T03:04:52+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Nothing将推可录音转写的Ear Note耳机",
+  "lead_zh": "Nothing首席执行官佩伊向彭博展示即将推出的Ear Note耳机，充电盒带麦克风，可录音、转写并生成摘要，计划12月8日发布，价格尚未确定。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Nothing即将推出Ear Note耳机：充电盒配有麦克风，可录音、转写对话，并在配套应用中管理录音、转写和人工智能生成的摘要，功能类似苹果新手表特性和亚马逊Bee等可穿戴设备。首席执行官佩伊向彭博展示了这款产品，但表示**12月8日**计划发布前价格尚未确定。",
+        "报道还称，Nothing传闻中的人工智能手表和智能眼镜计划有所推迟，同时明年智能手机发布节奏会比**2026年**更密。用户也可像此前Ear 3那样，用充电盒上的“Talk”键给自己录音；Anker的Soundcore Liberty 5 Pro Max等产品也已能在盒内录音并生成摘要。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "佩伊在X上写道，这是“为人工智能搭建硬件上下文层的诸多产品中的第一款。我们没有要求你再带一件新产品，而是把你已经佩戴和信任的东西变得更智能。”彭博还称，这款耳机会支持与多种智能体互动，包括Nothing自研的较基础语音控制系统，以便用户来回对话。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/f062759af8265afd06933510bc6617cf3e82c66b.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

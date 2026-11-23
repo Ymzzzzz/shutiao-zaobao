@@ -1,0 +1,67 @@
+{
+  "id": "n57e4d9bc2d25",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "特朗普支持黄仁勋回归，并称美方没有违法证据",
+  "original_title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+  "summary": "特朗普在Truth Social发文支持英伟达恢复黄仁勋职务，称不构成国家安全风险，并指美国司法部长未发现违法证据。文章提醒，司法部长本人尚未就此事发表正式声明。",
+  "facts": [
+    {
+      "text": "特朗普发文支持英伟达恢复黄仁勋职务，称美国政府没有理由认为这会带来国家安全风险，并指司法部长未发现违法证据。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据特朗普称，美国司法部长未发现黄仁勋有违法行为；但司法部长本人尚未就此发表正式声明。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "is_primary": false,
+      "published_at": "2026-11-23T23:04:01+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T23:04:01+08:00",
+  "updated_at": "2026-11-23T23:04:01+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "特朗普支持黄仁勋回归，并称美方没有违法证据",
+  "lead_zh": "特朗普在Truth Social发文称，美国政府没有理由认为黄仁勋重返英伟达会带来国家安全风险，并称司法部长未发现他有违法行为；司法部长本人尚未正式表态。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "特朗普周一在Truth Social发文，称赞英伟达董事会恢复创始人黄仁勋的首席执行官和总裁职务，并写到“美国政府没有理由认为黄仁勋重返英伟达会给国家安全带来风险”。公司声明也提到，决定参考了“美国政府高层”的意见，并据此认为不构成国家安全风险。",
+        "有迹象表明，总统在董事会公布前可能已知情：他对一名公共广播记者谈到黄仁勋时的表述，早于正式宣布。文章指出，由总统亲自转述司法部长的调查结论并不常见，因为这类调查通常应独立进行，而不应由白宫先行对外宣布调查结果。英伟达董事会声明也写明参考了政府高层意见。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据特朗普称，美国司法部长托德·布兰奇未发现黄仁勋有违法行为。TechCrunch提醒，司法部长本人尚未就此事发表正式声明。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/20ca20d11a7c7e475cf060e2a846e4d69ccc7388.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

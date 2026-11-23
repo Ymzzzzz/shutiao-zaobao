@@ -1,0 +1,67 @@
+{
+  "id": "nb7175444dd03",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "马斯克等人庆祝黄仁勋重返英伟达",
+  "original_title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+  "summary": "马斯克等科技业负责人庆祝黄仁勋重返英伟达。马斯克写道“错误已经纠正”，并曾把撤换他比作在连胜时把迈克尔·乔丹踢出球队。黄仁勋仍将在12月出席国会听证。日期定在12月。",
+  "facts": [
+    {
+      "text": "黄仁勋周一恢复英伟达首席执行官和总裁职务后，马斯克、阿尔特曼和蒂姆·斯威尼等人公开表态祝贺。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据马斯克称，“错误已经纠正。”他上周还在DealBook峰会上把撤换黄仁勋比作在连胜时把迈克尔·乔丹踢出球队。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "is_primary": false,
+      "published_at": "2026-11-24T05:47:41+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T05:47:41+08:00",
+  "updated_at": "2026-11-24T05:47:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "马斯克等人庆祝黄仁勋重返英伟达",
+  "lead_zh": "黄仁勋周一恢复英伟达首席执行官和总裁职务后，马斯克在X上写道“错误已经纠正”，阿尔特曼则只回了一个“Jensen！”，他仍定于12月出席国会听证。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "黄仁勋周一上午被恢复为英伟达首席执行官和总裁后，包括马斯克在内的部分科技业负责人公开表示祝贺。超过**20万人**曾在公开信上签名支持他回归，Epic Games首席执行官蒂姆·斯威尼也是签名者之一。黄仁勋仍计划于**12月3日**出席参议院银行委员会公开听证，并于**12月1日**与三家众议院委员会闭门会面。",
+        "在此之前，马斯克是为他公开鼓呼最力的科技领袖之一；OpenAI首席执行官萨姆·阿尔特曼上周则相对克制，只说“很难想象没有黄仁勋的人工智能行业”。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他们怎么说",
+      "paras": [
+        "据马斯克在X上就此事写道：“错误已经纠正。”他上周在DealBook峰会上还说，让黄仁勋离开“就像在连胜时把迈克尔·乔丹踢出球队，对股东来说不是好事”。宣布回归后，阿尔特曼只发了一个“Jensen！”斯威尼则写道，他的回归将展示美国面对企业、政治和新闻失误时的韧性。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/dedef4bf0159a06d72b0fa8c508506eb064e074b.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

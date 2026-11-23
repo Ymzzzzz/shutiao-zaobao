@@ -1,0 +1,212 @@
+{
+  "id": "n1d0c151fefed",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI与思科推出开源Linux运行时Shirudo",
+  "original_title": "OpenAI and Cisco introduce Shirudo",
+  "summary": "OpenAI与思科推出开源Linux运行时Shirudo，借助eBPF在服务不重启的情况下部署临时护盾。测试中，由Codex生成的护盾在运行中的Elasticsearch上挡住了Java4Shell攻击尝试。",
+  "facts": [
+    {
+      "text": "OpenAI与思科发布开源Linux运行时Shirudo，用于在正式补丁上线前为正在运行的系统提供临时防护。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-shirudo"
+    },
+    {
+      "text": "在受控测试中，由Codex生成的护盾在无需重启的情况下，挡住了针对运行中Elasticsearch服务的Java4Shell攻击尝试。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-shirudo"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI与思科称，Shirudo围绕实时防护、机器速度防御、可信部署和基于TPM的硬件验证四项能力设计，安全团队仍控制最终部署。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-shirudo"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "is_primary": true,
+      "published_at": "2026-11-24T05:20:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T05:20:00+08:00",
+  "updated_at": "2026-11-24T05:20:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI与思科推出开源Linux运行时Shirudo",
+  "lead_zh": "OpenAI与思科联合发布面向Linux的开源运行时Shirudo，用eBPF护盾在系统继续运行的同时临时封堵漏洞，供正式补丁上线前使用。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI与思科联合推出开源运行时Shirudo（日语中“盾”的意思），帮助团队在测试和部署补丁仍需数天甚至数周时，为正在运行的Linux系统提供临时防护。在一次受控测试中，由Codex生成的护盾在无需重启的情况下，挡住了针对运行中Elasticsearch服务的Java4Shell攻击尝试。",
+        "Shirudo使用Linux的eBPF，在操作系统特定位置运行小程序，以观察可疑活动并施加针对性保护。项目以BSD 2-Clause协议开源，其中的BPF程序采用BSD与GPL双重许可，并配有虚拟机快速入门、实验环境和**12月15日**的技术研讨会。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI与思科介绍，该运行时围绕四项能力设计：实时防护，即eBPF护盾可在不重启系统的情况下阻断脆弱代码路径；机器速度防御，让智能体在安全团队批准下调查漏洞并验证护盾；可信部署，护盾在加载前需加密签名和校验；以及用可信平台模块（TPM）记录防护的加载或移除，供运营者核验。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "ok",
+  "read_minutes": 4,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-06",
+    "title_en": "OpenAI and Cisco introduce Shirudo",
+    "title_zh": "OpenAI 与思科推出 Shirudo",
+    "dek_en": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "dek_zh": "OpenAI 与思科推出面向 Linux 的开源运行时 Shirudo。它帮助团队在推出补丁的同时保护正在运行的系统。",
+    "word_count_zh": 1530,
+    "read_minutes": 4,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "OpenAI 与思科正在推出 Shirudo，这是一款开源运行时，可帮助团队在推出补丁的同时保护 Linux 系统。在一次受控测试中，由 Codex 生成的防护罩成功阻挡了针对正在运行的 Elasticsearch 服务的 Java4Shell 漏洞利用尝试，且无需重启。",
+        "en": "OpenAI and Cisco are launching Shirudo, an open-source runtime that helps teams protect Linux systems while they roll out patches. In a controlled test⁠(opens in a new window), a Codex-generated shield blocked a Java4Shell exploit attempt against a running Elasticsearch service without requiring a restart."
+      },
+      {
+        "t": "p",
+        "zh": "我们邀请全行业的开发者、安全研究人员和基础设施运营人员共同推动该项目的进一步发展。该项目汇集了 OpenAI 的前沿人工智能、安全与基础设施研究，以及思科在基础设施和安全方面的专长，以帮助保护人们日常所依赖的系统。",
+        "en": "We’re inviting developers, security researchers, and infrastructure operators across the industry to help develop the project further. The project brings together OpenAI’s frontier AI, security and infrastructure research and Cisco’s infrastructure and security expertise to help protect the systems people rely on every day."
+      },
+      {
+        "t": "p",
+        "zh": "测试和部署补丁仍可能需要数天或数周。在此期间保护服务可能很困难，因为漏洞利用和合法请求可能依赖同一种 Linux 操作。完全拦截该操作可能会导致服务中断。",
+        "en": "Testing and deploying a patch can still take days or weeks. Protecting a service in the meantime can be challenging because an exploit and a legitimate request may rely on the same Linux operation. Blocking that operation entirely could take the service offline."
+      },
+      {
+        "t": "p",
+        "zh": "Shirudo（日语中「盾」的意思）旨在帮助安全团队应对这一权衡。团队可以测试一种称为防护罩（shield）的临时保护措施，是否能在放行合法请求的同时，拦截暴露漏洞的行为。一旦运营人员批准该防护罩，就可以在服务持续运行的情况下部署它。",
+        "en": "Shirudo (Japanese for “shield”) is designed to help security teams navigate this tradeoff. Teams can test whether a temporary safeguard, called a shield, blocks the behavior that exposes a vulnerability while allowing legitimate requests through. Once an operator approves the shield, it can be deployed while the service continues running."
+      },
+      {
+        "t": "h",
+        "zh": "Shirudo 的工作原理",
+        "en": "How Shirudo works"
+      },
+      {
+        "t": "p",
+        "zh": "Shirudo 使用 eBPF，这是一项允许小型程序在操作系统内部特定位置运行的 Linux 技术。这使得观察可疑活动，并对正在运行的系统实施有针对性的安全防护成为可能。",
+        "en": "Shirudo uses eBPF, a Linux technology that allows small programs to run at specific points inside the operating system. This makes it possible to observe suspicious activity and apply targeted security protections to running systems."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/96bf1868406ec41df33a68d12df544cd8dd0e610.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/bScTLq9smNJq5XAlaHIQW/fab0e70b1aab8ca8dffb70a747056fd7/guardian-agent-desktop-light.png?w=3840&q=90&fm=webp",
+        "caption_zh": "守护智能体如何借助 eBPF 观察并保护正在运行的系统。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 455
+      },
+      {
+        "t": "p",
+        "zh": "OpenAI 与思科围绕四项核心能力设计 Shirudo：",
+        "en": "OpenAI and Cisco are designing Shirudo around four core capabilities:"
+      },
+      {
+        "t": "p",
+        "zh": "• 实时防护：eBPF 防护罩可以在不重启系统的情况下拦截存在漏洞的代码路径。安全团队可以在强制执行之前，监测拟议防护罩会对应用程序产生何种影响。",
+        "en": "• Live protection: eBPF shields can block vulnerable code paths without restarting the system. Security teams can monitor how a proposed shield would affect applications before enforcing it."
+      },
+      {
+        "t": "p",
+        "zh": "• 以机器速度进行防御：OpenAI 与思科正在设计 Shirudo，为智能体提供可编程的控制能力，以便调查漏洞、开发有针对性的防护罩，并对照漏洞利用和真实工作负载验证其有效性。由安全团队控制哪些内容得以部署。",
+        "en": "• Defense at machine speed: OpenAI and Cisco are designing Shirudo to give agents programmable controls to investigate vulnerabilities, develop targeted shields, and validate their effectiveness against exploits and real workloads. Security teams control what gets deployed."
+      },
+      {
+        "t": "p",
+        "zh": "• 可信部署：防护罩在加载前会经过加密签名和验证。Linux 的 eBPF 验证器会按安全规则检查 eBPF 程序，同时内核安全控制会限制未经授权的更改。",
+        "en": "• Trusted deployment: Shields are cryptographically signed and verified before loading. Linux's eBPF verifier checks eBPF programs against its safety rules, while kernel security controls restrict unauthorized changes."
+      },
+      {
+        "t": "p",
+        "zh": "• 硬件支持的验证：Shirudo 使用可信平台模块（TPM）来支持防护措施被加载或移除的可验证记录。运营人员可利用这些证据，检查系统是否满足其安全要求。",
+        "en": "• Hardware-backed verification: Shirudo uses a Trusted Platform Module (TPM) to support a verifiable record of protections being loaded or removed. Operators can use this evidence to check whether systems meet their security requirements."
+      },
+      {
+        "t": "p",
+        "zh": "在 Linux Plumbers Conference 上的 Shirudo 技术演示展示了如何在目标主机上应用并验证防护罩。Java4Shell 漏洞是另一个例子，说明有针对性的防护罩如何在准备永久补丁的同时保护正在运行的应用程序。团队使用 OpenAI 的 Codex 生成了一个防护罩，为 Java 的 Base64 解码器增加了输入检查，并直接附加到正在运行的 Elasticsearch 进程上。在尝试利用该漏洞时，防护罩拒绝了恶意输入，在 Elasticsearch 继续运行的同时挡住了攻击。你可以在这里阅读更多内容。",
+        "en": "The Shirudo technical walkthrough⁠(opens in a new window) from the Linux Plumbers Conference shows how to apply a shield and verify it on the target host⁠(opens in a new window). The Java4Shell vulnerability is another example illustrating how a targeted shield can protect a running application while a permanent patch is being prepared. Using OpenAI's Codex, the team generated a shield that added an input check to Java's Base64 decoder and attached it directly to a running Elasticsearch process. When attempting to exploit the vulnerability, the shield rejected the malicious input, blocking the attack while Elasticsearch continued running. You can read more here⁠(opens in a new window)."
+      },
+      {
+        "t": "h",
+        "zh": "重新思考基础设施",
+        "en": "Rethinking infrastructure"
+      },
+      {
+        "t": "p",
+        "zh": "Shirudo 是迈向能够在保持可靠的同时适应新出现威胁的基础设施的第一步。我们希望夯实大规模部署这些防护所需的操作系统基础，包括强化内核和核心服务、限制工作负载权限，以及让更新与恢复更加安全。",
+        "en": "Shirudo is a first step toward infrastructure that can adapt to emerging threats while remaining reliable. We want to strengthen the operating system foundations needed to deploy these protections at scale, including hardening the kernel and core services, limiting workload permissions, and making updates and recovery safer."
+      },
+      {
+        "t": "p",
+        "zh": "我们的长期目标是让防御者和人工智能智能体能够迅速识别受影响的系统、验证防护措施，并部署可在不中断工作负载的情况下拦截漏洞利用的 eBPF 防护罩。应用程序应当只以所需的权限运行，并受自动生成和维护的策略约束。",
+        "en": "Our long-term goal is to enable defenders and AI agents to quickly identify affected systems, validate protections, and deploy eBPF shields that block exploits without disrupting workloads. Applications should run with only the permissions they need, governed by policies that are automatically generated and maintained."
+      },
+      {
+        "t": "p",
+        "zh": "我们将把前沿人工智能与安全和基础设施研究结合起来，发现漏洞并对照贴近现实的攻击测试防御措施。我们希望让运营人员更容易检测和遏制入侵、阻止攻击者在系统间横向移动，并将服务恢复到经过验证的已知良好状态。即使个别系统已被攻破，硬件支持的证明和独立的网络控制也能提供额外保障。",
+        "en": "We will combine frontier AI with security and infrastructure research to discover vulnerabilities and test defenses against realistic attacks. We aim to make it easier for operators to detect and contain compromises, prevent attackers from moving across systems, and restore services to a verified, known-good state. Hardware-backed attestation and independent network controls provide additional assurance even if individual systems are compromised."
+      },
+      {
+        "t": "h",
+        "zh": "以开源方式建设",
+        "en": "Building in the open"
+      },
+      {
+        "t": "p",
+        "zh": "OpenAI 与思科正在开源 Shirudo，以便开发者、安全研究人员和基础设施运营人员检查代码、测试防护并为其开发作出贡献。Shirudo 采用 BSD 2-Clause 许可，其 BPF 程序采用 BSD 与 GPL 双许可。",
+        "en": "OpenAI and Cisco are open-sourcing Shirudo⁠(opens in a new window) so developers, security researchers, and infrastructure operators can inspect the code, test protections, and contribute to its development. Shirudo is licensed under BSD 2-Clause, with its BPF programs dual-licensed under BSD and GPL."
+      },
+      {
+        "t": "p",
+        "zh": "我们的目标是在披露漏洞的同时提供经过测试的防护罩，让运营人员在准备永久补丁期间能够评估并部署临时防护。",
+        "en": "Our goal is to make tested shields available alongside vulnerability disclosures, giving operators a way to evaluate and deploy temporary protections while preparing permanent patches."
+      },
+      {
+        "t": "p",
+        "zh": "• 试用 Shirudo：按照虚拟机快速入门指南，对测试防护进行签名、加载和验证。",
+        "en": "• Try Shirudo: Follow the VM quickstart⁠(opens in a new window) to sign, load, and verify a test protection."
+      },
+      {
+        "t": "p",
+        "zh": "• 动手实践：通过 Isovalent 的自学实验探索 Shirudo。",
+        "en": "• Get hands-on: Explore Shirudo through Isovalent's self-guided lab⁠(opens in a new window)."
+      },
+      {
+        "t": "p",
+        "zh": "• 参加技术深入讲解：报名 12 月 15 日的网络研讨会。",
+        "en": "• Join the technical deep dive: Register for the December 15 webinar⁠(opens in a new window)."
+      },
+      {
+        "t": "p",
+        "zh": "我们正与构建、运行和保护 Linux 系统的人们一起，以开源方式开发 Shirudo。我们欢迎对运行时、新防护罩以及 Linux 和 eBPF 改进的贡献。如果你想参与，请查看 GitHub 上的代码、阅读文档，并告诉我们你的发现。",
+        "en": "We’re building Shirudo in the open with the people who build, run, and secure Linux systems. We welcome contributions to the runtime, new shields, and improvements to Linux and eBPF. If you'd like to get involved, take a look at the code on GitHub⁠(opens in a new window), read the docs⁠(opens in a new window), and let us know what you find⁠(opens in a new window)."
+      }
+    ]
+  }
+}

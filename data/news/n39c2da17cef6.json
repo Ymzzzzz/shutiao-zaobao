@@ -1,0 +1,163 @@
+{
+  "id": "n39c2da17cef6",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "谷歌搜索Personal Intelligence将接入钱包和云端硬盘",
+  "original_title": "A more tailored Google Search that’s uniquely yours",
+  "summary": "谷歌开始将Google钱包接入搜索AI模式中的Personal Intelligence，云端硬盘和Gemini应用将在未来数周加入，与已支持的Gmail、日历和相册一起提供可选的个性化回答。",
+  "facts": [
+    {
+      "text": "谷歌宣布，即日起可选择将Google钱包安全接入搜索AI模式中的Personal Intelligence，云端硬盘和Gemini应用将在未来数周跟进。",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    },
+    {
+      "text": "这些应用将与已接入的Gmail、日历和Google相册一起，为搜索提供来自用户自身消费、文档和对话的上下文。",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌搜索产品副总裁罗比·斯坦称，用户可在搜索个性化设置中自行选择是否接入这些应用，并可随时开关。",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    },
+    {
+      "text": "据谷歌称，若选择接入钱包，AI模式只能读取账户信息，不能转移、管理或投资用户的资金。",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "is_primary": true,
+      "published_at": "2026-11-24T01:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T01:00:00+08:00",
+  "updated_at": "2026-11-24T01:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌搜索Personal Intelligence将接入钱包和云端硬盘",
+  "lead_zh": "谷歌宣布即日起可选择把Google钱包接入搜索AI模式的Personal Intelligence，云端硬盘和Gemini应用将在未来数周跟进，用户可随时开关。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌搜索产品副总裁罗比·斯坦撰文宣布，搜索AI模式中的Personal Intelligence将接入更多应用：即日起可选择安全连接Google钱包，云端硬盘和Gemini应用将在未来数周跟进，从而把消费记录、文档和聊天中的上下文带入搜索。这些应用将与已经接入的Gmail、日历和Google相册一起使用。",
+        "用户需在“搜索个性化”设置中打开“已连接的应用”，自行选择要接入的服务，并可随时关闭。谷歌还表示，之后可在定制回答下方通过“个性化”图标查看AI模式使用的上下文，也可在对话中直接要求修改，例如说明自己不再吃素。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据斯坦介绍，接入钱包后可用于梳理财务目标和日常开支，并按已绑定的信用卡优化返现类别、旅行权益和积分；若选择连接，AI模式只能读取账户信息，不能转移、管理或投资用户的资金。接入云端硬盘后，搜索可综合文档、表格和PDF给出更贴合项目或报税准备的计划。未来数周还可在Gemini应用与搜索AI模式之间共享上下文。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    }
+  ],
+  "image_url": "img/9a61d9b4483c2cf0507f2cab08c52838387e6168.jpg",
+  "image_source": "Google AI Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
+  "fulltext_status": "ok",
+  "read_minutes": 4,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Robby Stein",
+    "author_title_zh": "谷歌搜索产品副总裁",
+    "published_at": "2026-11-23",
+    "title_en": "A more tailored Google Search that’s uniquely yours",
+    "title_zh": "更加贴合你个人需求的谷歌搜索",
+    "dek_en": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+    "dek_zh": "通过安全地选择接入，将 Google Wallet、云端硬盘和 Gemini 应用连接到 AI 模式中的 Personal Intelligence，从而获得更有帮助的搜索回答。",
+    "word_count_zh": 1283,
+    "read_minutes": 4,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "我们正在把 Google Wallet 和云端硬盘加入 Personal Intelligence，让搜索能够根据你的消费、文档和聊天给出回答。这些更新可帮助你管理财务、整理项目，并在搜索会话中保持上下文。你可以前往「搜索个性化」设置选择接入这些应用；你始终掌控自己的数据，并可随时调整偏好。",
+        "en": "We’re adding Google Wallet and Drive to Personal Intelligence, allowing Search to provide answers based on your spending, documents, and chats. These updates help you manage finances, organize projects, and maintain context across your search threads. You can opt in to connect these apps by visiting your Search Personalization settings, where you remain in control of your data and can adjust your preferences at any time."
+      },
+      {
+        "t": "p",
+        "zh": "• 我们正在把 Google Wallet 和 Google Drive 加入 Personal Intelligence，以提供更相关的搜索结果。",
+        "en": "• We are adding Google Wallet and Google Drive to Personal Intelligence to provide more relevant search results."
+      },
+      {
+        "t": "p",
+        "zh": "• 你现在可以连接财务数据，识别消费习惯并优化信用卡奖励。",
+        "en": "• You can now connect your financial data to identify spending habits and optimize your credit card rewards."
+      },
+      {
+        "t": "p",
+        "zh": "• 连接文档后，你可以根据分散在各类文件中的信息，获得个性化的计划。",
+        "en": "• Connecting your documents allows you to receive personalized plans based on information across your various files."
+      },
+      {
+        "t": "p",
+        "zh": "• 你可以通过选择连接哪些应用并管理设置，始终掌控自己的数据。",
+        "en": "• You remain in control of your data by choosing which apps to connect and managing your settings."
+      },
+      {
+        "t": "p",
+        "zh": "谷歌搜索产品副总裁 Robby Stein 介绍，你现在可以将 Google Wallet 和云端硬盘等应用连接到搜索，以获得更加个性化的结果。选择接入后，搜索会利用你自己的文档、消费习惯和近期活动来提供量身定制的回答。这有助于你跟踪财务目标、整理项目信息，并在不重复说明的情况下继续研究任务。你始终拥有控制权，并可随时在设置中管理这些连接。",
+        "en": "Robby Stein, VP of Product for Google Search, explains that you can now connect your apps like Google Wallet and Drive to Search for more personalized results. When you opt in, Search uses your own documents, spending habits, and recent activity to provide tailored answers. This helps you track financial goals, organize project information, and continue research tasks without repeating yourself. You remain in control and can manage these connections in your settings at any time."
+      },
+      {
+        "t": "h",
+        "zh": "探索其他风格：",
+        "en": "Explore other styles:"
+      },
+      {
+        "t": "p",
+        "zh": "最有帮助的搜索体验，是把全世界丰富的信息与只对你有意义的洞察结合起来。今天，搜索将变得更加贴合个人需求，你可以把更多应用连接到 Personal Intelligence——我们还带来了更贴合个人情况的回答，让你更容易找到所需内容。",
+        "en": "The most helpful search experience brings together the richness of the world’s information with insights uniquely relevant to you. Today, Search is getting even more tailored with the ability to connect more of your apps to Personal Intelligence — and we're introducing more personally relevant responses, so it's easier to find just what you need."
+      },
+      {
+        "t": "p",
+        "zh": "从今天起开始逐步推出，你可以选择安全地将 Google Wallet 连接到 AI 模式中的 Personal Intelligence，云端硬盘和 Gemini 应用的支持将在未来几周内跟进——把你的消费、文档和聊天中的上下文直接带到搜索中。这些应用将与 Gmail、Calendar 和 Photos 一道，结合你的个人上下文提供更加量身定制的回答。",
+        "en": "Starting to roll out today, you can opt in to securely connect Google Wallet to Personal Intelligence in AI Mode, with support for Drive and the Gemini app following in the coming weeks — bringing context from your spending, documents, and chats directly to Search. These apps join Gmail, Calendar, and Photos in delivering even more tailored responses with your personal context."
+      },
+      {
+        "t": "p",
+        "zh": "• 借助 Google Wallet，更清楚地了解你的消费：通过将 Google Wallet 连接到 AI 模式和 Gemini 应用中的 Personal Intelligence，你可以规划财务里程碑，并找到切实可行的办法来削减日常开支。你还可以根据经由 Wallet 关联的卡片，最大化信用卡权益——例如优化返现类别、旅行优惠和积分奖励。如果你选择连接 Wallet，AI 模式只能读取你账户中的信息；它无法转移、管理或投资你的资金。",
+        "en": "• Get a clearer picture of your spending with Google Wallet: By connecting Google Wallet to Personal Intelligence in both AI Mode and the Gemini app, you can map out your financial milestones and identify actionable ways to trim everyday spending. You can also maximize credit card benefits — like optimizing cash-back categories, travel perks, and reward points — based on your cards linked via Wallet. If you choose to connect your Wallet, AI Mode can only read information from your accounts; it can’t move, manage, or invest your money."
+      },
+      {
+        "t": "p",
+        "zh": "• 借助 Google Drive，保持工作节奏：有时，启动一个项目或做出重大决定所需的重要信息，会分散在文档、表格或 PDF 中。将 Google Drive 连接到 Personal Intelligence 后，你可以得到把这些上下文都考虑在内、真正有帮助的回答，并帮你迈出第一步，例如一份面向报税季的个性化准备计划。",
+        "en": "• Stay in your flow with Google Drive: Sometimes the important information that you need to get started on a project or make a big decision can be scattered across your docs, sheets, or PDFs. With Google Drive connected in Personal Intelligence, you can get uniquely helpful responses that take all of that context into account and help you get started, like a personalized preparation plan ahead of tax season."
+      },
+      {
+        "t": "p",
+        "zh": "• 把 Gemini 应用与搜索联系起来：未来几周，你可以轻松地在 Gemini 应用和搜索的 AI 模式之间共享上下文。因此，如果你在 Gemini 应用中探索了一个想法，AI 模式就能在此基础上继续推进，反之亦然。虽然你此前已经可以选择将搜索历史连接到 Gemini 应用中的 Personal Intelligence，很快你还可以选择安全地将 Gemini 应用连接到 AI 模式中的 Personal Intelligence。",
+        "en": "• Connect the dots between the Gemini app and Search: In the coming weeks you can easily share context across the Gemini app and AI Mode in Search. So if you explore an idea in the Gemini app, AI Mode will have that foundation to build on, and vice versa. While you could already opt in to connect your Search history to Personal Intelligence in the Gemini app, soon you can also opt in to securely connect your Gemini app to Personal Intelligence in AI Mode."
+      },
+      {
+        "t": "p",
+        "zh": "要将应用连接到 AI 模式中的 Personal Intelligence，请打开「搜索个性化」，选择「已连接的应用」，然后选择你想连接的应用。是否接入、何时接入由你决定，你也可以随时打开或关闭这些连接。你始终掌控个性化设置；很快，你还可以通过量身定制回答下方的「个性化」图标，查看 AI 模式所使用的上下文。如果想修改任何内容，直接告诉 AI 模式即可，例如在会话中回复「我不再是素食者了。」",
+        "en": "To connect your apps to Personal Intelligence in AI Mode, open Search Personalization, select Connected Apps, and then choose the apps you want to connect. You choose if and when you opt in, and you can turn those connections on or off at any time. You’re always in control of your personalization settings, and soon you’ll also be able to view the context AI Mode uses via the “Personalization” icon below any tailored response. If you want to edit anything simply let AI Mode know what to change, like responding in thread “I’m no longer a vegetarian.”"
+      },
+      {
+        "t": "p",
+        "zh": "你还将开始在 AI Overviews 和 AI 模式中看到更贴合个人的回答，并根据你最近的搜索上下文加以调整。因此，如果你一直在研究并规划一次旅行，就可以在新的搜索会话中从上次停下的地方继续，而不必重新开始或重复说明。与往常一样，你可以随时在搜索设置中调整或关闭个性化。",
+        "en": "You’ll also start seeing more personally relevant responses in AI Overviews and AI Mode, tailored to your recent search context. So if you’ve been researching and planning for a trip, you can pick up right where you left off in a new search thread without starting over or repeating yourself. As always, you can adjust or turn off personalization at any time in your Search Settings."
+      }
+    ]
+  }
+}

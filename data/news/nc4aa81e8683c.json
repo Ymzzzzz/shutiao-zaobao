@@ -1,0 +1,67 @@
+{
+  "id": "nc4aa81e8683c",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "报道称中国军方担忧人工智能或削弱核威慑",
+  "original_title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+  "summary": "报道援引中国军事科学院研究人员的文章称，人工智能可能把美方决策时间从15到30分钟压缩到约90秒，从而冲击中国依赖二次打击能力的核威慑。同时，中方也在研究用人工智能提高武器突防能力。",
+  "facts": [
+    {
+      "text": "《纽约时报》分析称，中国军方研究人员担心人工智能可能帮助美国更快发现并摧毁其核导弹，从而削弱依赖二次打击的核威慑。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据北京军事科学院研究人员称，人工智能可能把美方决策时间从15到30分钟缩短到90秒。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+      "is_primary": false,
+      "published_at": "2026-11-23T22:43:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T22:43:23+08:00",
+  "updated_at": "2026-11-23T22:43:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称中国军方担忧人工智能或削弱核威慑",
+  "lead_zh": "《纽约时报》分析称，中国军方研究人员担心人工智能可能帮助美国更快发现并摧毁其核导弹。北京军事科学院的文章称，美方决策时间或从15到30分钟缩短到90秒。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder援引《纽约时报》的分析报道称，中国军方研究人员担心，人工智能进步可能让美国在核力量对比中取得优势，使发现并摧毁中国核导弹变得更容易，从而冲击中国依赖“保证能二次打击”的威慑逻辑。与此同时，中国军事研究机构也在研究如何用人工智能让自己的武器更难拦截，例如为高超音速导弹设计由人工智能控制的飞行路径。",
+        "美国科学家联合会的数据是，中国目前约有**620**枚作战弹头，并预计到**2030年**增至约**1000**枚。报道还提到，专家担心有缺陷的数据可能在危机中引发误判；今年早些时候，美军几乎登上一艘中国船只的事件，被用来说明这种风险已经不只是纸面讨论。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究怎么说",
+      "paras": [
+        "据北京军事科学院的研究人员写道，人工智能可能把美方决策时间从**15**到**30分钟**压缩到**90秒**。文章同时指出，这一判断来自中方公开或半公开的研究讨论，以及美国报纸的分析，并不是已经发生的作战变化。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/1ec655661ab600bb1a96bde4c76c27177cdc2d52.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/03/AI-Fake-Carrier-Iran-small.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

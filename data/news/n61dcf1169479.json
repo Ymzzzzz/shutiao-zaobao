@@ -1,0 +1,214 @@
+{
+  "id": "n61dcf1169479",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "DeepMind用智能体与形式化验证改进量子算法",
+  "original_title": "Finding faster quantum algorithms with agents and formal verification",
+  "summary": "谷歌DeepMind与Quantum AI用Gemini 4智能体团队优化已知量子算法，并用Lean形式化验证。聚变相关电路计算成本降至约十一分之一，相关工具将在GitHub开源。",
+  "facts": [
+    {
+      "text": "谷歌DeepMind在新论文中用Gemini 4智能体团队改进已知量子算法，并用Lean定理证明器证明结果，同时开源Lean库、问题规格和已验证方案。",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    },
+    {
+      "text": "在惯性约束聚变的一项性质计算中，智能体团队把综合量子比特与操作的计算成本降低了11.8倍，所需纠错量子比特由5650个降至4338个。",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据DeepMind称，该方法也可用于其他问题，但这些算法要在科学模拟中真正运行，所需资源仍可能超出第一批纠错量子计算机的能力。",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "is_primary": true,
+      "published_at": "2026-11-24T00:59:40+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T00:59:40+08:00",
+  "updated_at": "2026-11-24T00:59:40+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "DeepMind用智能体与形式化验证改进量子算法",
+  "lead_zh": "谷歌DeepMind与Quantum AI用Gemini 4智能体团队改进量子电路，并用Lean定理证明器逐项验证，在聚变和药物相关模拟中降低了计算成本。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌DeepMind与Google Quantum AI合作，用Gemini 4智能体团队改进已知量子算法，生成更高效的量子电路，并用形式化定理证明器Lean证明每项结果。为便于社区跟进，他们将开源Lean库、问题规格和已验证方案。研究面向聚变能源、化学和酶等科学模拟，但作者强调方法并不限于这些领域。",
+        "在惯性约束聚变一项重要性质的计算中，智能体把综合量子比特与操作次数的计算成本降低了**11.8倍**，所需纠错量子比特由**5650**个降至**4338**个。对一种常见光敏分子的模拟成本降低约**8倍**；对分解大多数人体药物、与药物设计相关的酶细胞色素P450，改进约**2.5倍**，内存需求由**481**个量子比特降至**333**个。他们还为一种特定实现的Grover算法找到**2.57倍**加速，并为许多算法用于把数值载入量子态的arcsin例程找到**290倍**加速。"
+      ],
+      "sources": [
+        "Google DeepMind Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "团队怎么说",
+      "paras": [
+        "据作者介绍，即便有这些改进，要在科学模拟中真正运行这些算法，所需计算资源仍可能超出第一批纠错量子计算机的能力。他们表示，由证明检查的人工智能搜索能够压缩过去需要数年手工设计的工作，让研究者把精力更多放在选题和解释结果上。"
+      ],
+      "sources": [
+        "Google DeepMind Blog"
+      ]
+    }
+  ],
+  "image_url": "img/a0ecac71028425487eb9e9e14f1bc717fcddf089.jpg",
+  "image_source": "Google DeepMind Blog",
+  "image_origin_url": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
+  "fulltext_status": "ok",
+  "read_minutes": 4,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Sergey Shirobokov, Ben Jaderberg and Ryan Babbush",
+    "author_title_zh": "",
+    "published_at": "2026-11-23",
+    "title_en": "Finding faster quantum algorithms with agents and formal verification",
+    "title_zh": "用智能体与形式化验证寻找更快的量子算法",
+    "dek_en": "How using agent teams and formal verification can improve quantum algorithms for modelling fusion energy, chemistry and enzymes.",
+    "dek_zh": "如何利用智能体团队和形式化验证，改进用于模拟聚变能源、化学与酶的量子算法。",
+    "word_count_zh": 1373,
+    "read_minutes": 4,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "img",
+        "src": "img/fulltext/811cb8744086af2ad57307d4fd7b4d2d68a3184a.jpg",
+        "origin_url": "https://lh3.googleusercontent.com/ppTuFPcwer2JwP-NysiQGW7mZrWpEmV6QsV_YD6IJn-skKzS1jTbtLbietmjpGkVxUOZBn3jQaCKfzcJVVR1FvvS-3QglWPDyh520ZSF7tvsHtdy=w1440-h810-n-nu",
+        "caption_zh": "量子算法页面封面",
+        "source": "Google DeepMind Blog",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "t": "p",
+        "zh": "如何利用智能体团队和形式化验证，改进用于模拟聚变能源、化学与酶的量子算法",
+        "en": "How using agent teams and formal verification can improve quantum algorithms for modelling fusion energy, chemistry and enzymes"
+      },
+      {
+        "t": "p",
+        "zh": "量子计算机很快就有可能解决经典超级计算机无法触及的问题。不过有一个前提：即便使用最好的量子算法，一些重要应用所需的资源，仍可能超出早期量子硬件能够支撑的范围。",
+        "en": "Quantum computers could soon solve problems beyond the reach of classical supercomputers. However, there is a catch: even when using the best quantum algorithms, some important applications still require more resources than early quantum hardware will be able to support."
+      },
+      {
+        "t": "p",
+        "zh": "在一篇新论文中，我们使用 Gemini 4 智能体团队来改进著名的量子算法，生成了高效的量子电路。这些经过优化的电路是量子计算机应如何执行算法的指令，有朝一日可能帮助我们运行模拟，以解决从聚变能源到药物设计等复杂科学挑战。为帮助社区在此基础上继续推进，我们正在 GitHub 上开源我们的 Lean 库、问题规格和经过验证的解。",
+        "en": "In a new paper, we used teams of Gemini 4 agents to improve well-known quantum algorithms, creating highly efficient quantum circuits. These optimized circuits, which are instructions for how a quantum computer should carry out an algorithm, could one day help us run simulations that solve complex scientific challenges, from fusion energy to drug design. To help the community build on this work, we are open-sourcing our Lean library, problem specifications, and verified solutions on GitHub."
+      },
+      {
+        "t": "p",
+        "zh": "由于我们无法在经典计算机或当今小型量子处理器上测试资源密集的量子电路，必须从数学上证明它们是正确的。我们的智能体团队使用形式化定理证明器 Lean，对每一项结果给出了证明。",
+        "en": "Because we cannot test resource-intensive quantum circuits on classical computers or today's small quantum processors, we have to prove that they work mathematically. Our agent teams proved each result using Lean, a formal theorem prover."
+      },
+      {
+        "t": "p",
+        "zh": "我们选择聚焦于有朝一日可能影响人类重大挑战的应用，例如清洁能源和药物设计，但我们的方法并不局限于这些领域。",
+        "en": "We chose to focus on applications that could one day impact some of humanityâs greatest challenges, such as clean energy and drug design, but our method is not limited to these problem areas."
+      },
+      {
+        "t": "p",
+        "zh": "• 我们找到了一种量子电路，有助于计算惯性约束聚变的一项重要属性；这是一种用激光压缩氢燃料直至点火的聚变反应方法。我们的智能体团队将所需计算成本（一项综合所需量子比特数与操作次数的指标）降低了 11.8 倍，并将所需内存从 5,650 个纠错量子比特降至 4,338 个。",
+        "en": "• We found a quantum circuit that helps calculate an important property of inertial confinement fusion, a fusion reaction method that uses lasers to compress hydrogen fuel until ignition. Our agent teams cut the required computing cost (a metric that combines required qubits and operations) by 11.8Ã, and lowered required memory from 5,650 to 4,338 error-corrected qubits."
+      },
+      {
+        "t": "p",
+        "zh": "• 这些智能体还降低了模拟药物代谢中的分子以及某些光化学反应的成本，这类复杂反应对经典计算机来说很难模拟。对于一种常见的光敏分子，智能体团队将量子模拟成本降低了 8 倍，并简化了算法跟踪粒子位置和电场力的方式。对于分解人体大多数药物、对药物设计很重要的酶 Cytochrome P450，他们通过替换庞大的内存查找，取得了 2.5 倍的改进，并将内存从 481 个量子比特降至 333 个。",
+        "en": "• The agents also reduced costs for simulating molecules in drug metabolism and certain photochemical reactions, which are complex reactions that are difficult for classical computers to simulate. For a common light-sensitive molecule, the agent teams made quantum simulation 8Ã cheaper, simplifying how the algorithm tracks particle positions and electric forces. For Cytochrome P450, an enzyme that breaks down most human medicines and is important for drug design, they found a 2.5Ã improvement and lowered memory from 481 to 333 qubits, by replacing bulky memory lookups."
+      },
+      {
+        "t": "p",
+        "zh": "• 我们还改进了一种基础量子算法和一个广泛使用的算术构件。我们为 Grover 算法的一种具体实现找到了 2.57 倍加速，这是一种在未排序列表中进行搜索的基础量子操作；并为 arcsin 找到了 290 倍加速，这是许多其他量子算法用来将数字载入量子态的常用例程。",
+        "en": "• We also improved a fundamental quantum algorithm and a widely used arithmetic building block. We found a 2.57x speedup for a specific implementation of Grover's algorithm, a foundational quantum operation that searches through an unsorted list, and a 290x speedup for arcsin, a common routine that is used by many other quantum algorithms to load numbers into quantum states."
+      },
+      {
+        "t": "p",
+        "zh": "在科学模拟中运行这些算法，所需计算资源仍可能超过第一批纠错量子计算机可能提供的水平，但这些改进本身已经相当可观。",
+        "en": "Running these algorithms in scientific simulations would still demand more computational resources than the first error-corrected quantum computers are likely to provide, but these improvements are significant."
+      },
+      {
+        "t": "p",
+        "zh": "我们同样为找到这些结果的方式感到兴奋。我们用 Lean 构建了一个新的开源量子算法库，可供协作的智能体团队使用，从而使他们的想法得到数学正确性保证。随后，我们可以通过为智能体团队指定问题来设定研究方向，并监督他们的进展。我们对量子算法的理解，加上我们组织智能体团队的方式，带来了真正的科学成果。",
+        "en": "We are also excited by the way in which we found them. We built a new, open-source library, in Lean for quantum algorithms which could be used by teams of collaborating agents, so their ideas were backed by mathematical correctness guarantees. We could then set the research direction by specifying the problems for our agent teams and supervise their progress. Our knowledge of quantum algorithms, combined with the way we set up our agent teams, led to real scientific results."
+      },
+      {
+        "t": "p",
+        "zh": "同样的方法也可以加速量子计算研究的其他方面，以及更广泛的科学发现。经过证明检验的人工智能搜索，压缩了曾经需要数年手工设计的工作，让研究者能够把精力放在选题和解读结果上。",
+        "en": "The same approach could also accelerate other aspects of quantum computing research, and scientific discovery more broadly. Proof-checked AI search compresses work that once took years of manual design, empowering researchers to focus on choosing problems and interpreting results."
+      },
+      {
+        "t": "h",
+        "zh": "致谢",
+        "en": "Acknowledgements"
+      },
+      {
+        "t": "p",
+        "zh": "这项研究由 Google DeepMind 与 Google Quantum AI 合作完成。工作体现了论文作者的贡献：Sergey Shirobokov、Ben Jaderberg、Katerina Hristova、George Tsoukalas、Johannes Bausch、Eric Wieser、Francisco J. H. Heras、Nicholas C. Rubin、Guang Hao Low、Sébastien Racanière、Nenad Tomašev、Lei M. Zhang、James D. Watson、Tanuj Khattar、Aws Albarghouthi、Stavan Jain、Harun Khan、Leopoldo Sarra、Andrew W. Senior、Michael Broughton、Hussain Masoom、Sergio Boixo、Ryan Babbush、Swarat Chaudhuri 和 Pushmeet Kohli。",
+        "en": "This research was a collaboration between Google DeepMind and Google Quantum AI. The work reflects the contributions of the paper's authors: Sergey Shirobokov, Ben Jaderberg, Katerina Hristova, George Tsoukalas, Johannes Bausch, Eric Wieser, Francisco J. H. Heras, Nicholas C. Rubin, Guang Hao Low, SÃ©bastien RacaniÃ¨re, Nenad TomaÅ¡ev, Lei M. Zhang, James D. Watson, Tanuj Khattar, Aws Albarghouthi, Stavan Jain, Harun Khan, Leopoldo Sarra, Andrew W. Senior, Michael Broughton, Hussain Masoom, Sergio Boixo, Ryan Babbush, Swarat Chaudhuri, and Pushmeet Kohli."
+      },
+      {
+        "t": "p",
+        "zh": "我们也感谢 Kevin Ishimwe、Ibrahim Alkhashem 和 Matthew Harrigan 对 Lean 库的反馈与讨论，感谢 Emilien Dupont 和 Sebastian Nowozin 对稿件的反馈，以及 Brendan Tracey 对聚变应用的建议。最后，感谢 Uchechi Okereke、Ali Douraghy 和 Andy Song 提供法律与政策支持，并感谢 Alex Wilkins、Evie Gray、Danielle Breen、Dimple Vijaykumar、Muinat Abdul、Jason Freidenfelds、Chris Kwaku-Abdullahi 和 Rob Ashley 在视觉呈现和传播这项工作上的帮助。",
+        "en": "We also thank Kevin Ishimwe, Ibrahim Alkhashem, and Matthew Harrigan for feedback and discussions on the Lean library, Emilien Dupont and Sebastian Nowozin for manuscript feedback, and Brendan Tracey for advice on the fusion application. Finally, we thank Uchechi Okereke, Ali Douraghy, and Andy Song for legal and policy support, and Alex Wilkins, Evie Gray, Danielle Breen, Dimple Vijaykumar, Muinat Abdul, Jason Freidenfelds, Chris Kwaku-Abdullahi, and Rob Ashley for their help with visuals and communicating this work."
+      },
+      {
+        "t": "h",
+        "zh": "相关文章",
+        "en": "Related posts"
+      },
+      {
+        "t": "h",
+        "zh": "AlphaEvolve：一个由 Gemini 驱动、用于设计先进算法的编程智能体",
+        "en": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/03120c84759092d78a6ca3ef505cd30d33ce27c9.jpg",
+        "origin_url": "https://lh3.googleusercontent.com/T74nmrfjiYn3BSi9kER7e_aUUiCEbXJv-ADL2NxWUW8tVJScn-sexAu0m5sXe8tLguMOhsvGeueaqmpByjaNB1xf3fAbFY7EdG96qUAVflkt-uxL=w704-h704-n-nu",
+        "caption_zh": "",
+        "source": "Google DeepMind Blog",
+        "w": 704,
+        "h": 704
+      },
+      {
+        "t": "h",
+        "zh": "人工智能在解决国际数学奥林匹克问题时达到银牌水平",
+        "en": "AI achieves silver-medal standard solving International Mathematical Olympiad problems"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/0dc29b1e648c6ca9ba7f8beb86be3d754f270a2b.jpg",
+        "origin_url": "https://lh3.googleusercontent.com/faSwN7Riln7LTdpi5sBt5Jk4vIqwF0xVscnMIXyFCd5bkl8_7NzHCAzcglUf6XLg82ZTz0jh7RbS0NS4LzYehzCpz1PdIi4LNEew8um-m_3VKsC8=w704-h704-n-nu",
+        "caption_zh": "",
+        "source": "Google DeepMind Blog",
+        "w": 704,
+        "h": 704
+      },
+      {
+        "t": "h",
+        "zh": "AlphaQubit 应对量子计算的最大挑战之一",
+        "en": "AlphaQubit tackles one of quantum computingâs biggest challenges"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/36970619d4465e3a51384d714e8ec657c2b96749.jpg",
+        "origin_url": "https://lh3.googleusercontent.com/DfghVLIRKY_we12LsNMTQSMIMNT9Ry-XydrDtp7hW8AhRW4M7Pi6LlMoHaGe_ZDGllDXYO2Ou6Aawe3QGNtFAB22MAImXnZI94BjOHu4DHLcg9DN2g=w704-h704-n-nu",
+        "caption_zh": "",
+        "source": "Google DeepMind Blog",
+        "w": 704,
+        "h": 704
+      }
+    ]
+  }
+}

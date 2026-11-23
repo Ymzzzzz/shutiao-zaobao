@@ -1,0 +1,67 @@
+{
+  "id": "ne6e1e23017cd",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "三上真司称希望人工智能彻底消失",
+  "original_title": "《生化危机》之父三上真司：希望 AI 彻底消失",
+  "summary": "三上真司在G-CON 2026与Shift Up首席执行官金亨泰对谈时说，希望人工智能从游戏乃至世界上彻底消失。金亨泰则表示，受争议后更强调手工制作，但仍会在光照和低模等环节使用该技术。",
+  "facts": [
+    {
+      "text": "三上真司与Shift Up首席执行官金亨泰11月20日在G-CON 2026上对谈，讨论双方发行合作以及人工智能对游戏开发的影响。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/204.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据三上真司称，他希望人工智能从游戏开发乃至世界上彻底消失；金亨泰则称完全不用已经很难，但创作仍应坚持手工。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/204.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/031/204.htm",
+      "is_primary": false,
+      "published_at": "2026-11-23T21:27:20+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T21:27:20+08:00",
+  "updated_at": "2026-11-23T21:27:20+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "三上真司称希望人工智能彻底消失",
+  "lead_zh": "在G-CON 2026上，生化危机之父三上真司表示希望人工智能从游戏乃至世界上消失；Shift Up首席执行官金亨泰则称完全不用已经很难，但创作仍应坚持手工。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "今年3月底，生物危害和恐龙危机系列导演三上真司宣布，其工作室Unbound将与《剑星》开发商Shift Up合作发行下一款游戏。**11月20日**，他与Shift Up首席执行官金亨泰在G-CON 2026上对谈，讨论**2027年**及之后的行业变化，两人对人工智能的看法成为焦点。金亨泰还回应了今年**7月**工作室用人工智能制作《剑星：血雨》音乐视频所引发的争议。",
+        "IT之家援引Inven Global报道称，金亨泰表示争议后工作室确立了从头到尾“手工制作”的理念，但仍计划在光照、生成低多边形三维模型等环节使用人工智能。三上真司则透露，Unbound目前主要用它预览手绘二维模型转成三维后的效果。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他们怎么说",
+      "paras": [
+        "据三上真司称，他希望人工智能不仅退出游戏开发，也“从这世界上消失”。他对就业前景持悲观态度，认为未来五年或十年充满不确定，不排除十年内开发者被取代。金亨泰则说，如今不使用人工智能已经很难进行游戏开发，但无论技术多么快，两家工作室的游戏本质都将坚持手工创作。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/860e00c5beb3857316c9e4c265177e873de1f0d6.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/1ffff4aa-ce3b-4bcb-a1af-aee1aef913d8.jpg?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

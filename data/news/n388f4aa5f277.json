@@ -1,0 +1,51 @@
+{
+  "id": "n388f4aa5f277",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "Supertake获2000万美元，用智能体把判断做成投资组合",
+  "original_title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+  "summary": "Supertake完成2000万美元种子轮融资，由Adjacent领投，Coinbase Ventures和Union Square Ventures参与。该公司让用户把对市场的判断交给交易智能体，自动生成投资组合。",
+  "facts": [
+    {
+      "text": "投资创业公司Supertake完成2000万美元种子轮，由Adjacent领投，Coinbase Ventures和Union Square Ventures参与。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "is_primary": false,
+      "published_at": "2026-11-24T06:02:05+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T06:02:05+08:00",
+  "updated_at": "2026-11-24T06:02:05+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Supertake获2000万美元，用智能体把判断做成投资组合",
+  "lead_zh": "投资创业公司Supertake完成2000万美元种子轮融资，用户可以把对市场的判断交给模型，自动生成真实的股票投资组合。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "投资创业公司Supertake完成**2000万美元**种子轮融资，由Adjacent（Nico Wittenborn）领投，Coinbase Ventures和Union Square Ventures参与，另有包括Nat Friedman、Vercel首席执行官吉尔莫·劳奇等人在内的天使投资人跟投。该公司的产品让用户把对市场的判断交给前沿模型和交易智能体，生成真实的股票投资组合，而不必自己选股。",
+        "这轮融资之前还有**200万美元**的预种子轮。Michael Mignano最初在Union Square Ventures孵化了这家公司，他是播客平台Anchor的联合创始人兼前首席执行官，该平台在**2019年**被Spotify以超过**1.5亿美元**收购。公司计划用新资金扩充工程、设计与增长等团队。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/e726bca6dc72b2dc91d65bb7dde9c1275d3bfe88.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

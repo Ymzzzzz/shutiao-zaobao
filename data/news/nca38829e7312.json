@@ -1,0 +1,67 @@
+{
+  "id": "nca38829e7312",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "艾伦研究所发布机器人操作点跟踪基准RoboTrack",
+  "original_title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "summary": "艾伦研究所发布RoboTrack：含307段人工标注视频的评测集，以及由MolmoSpaces生成、约1500万条轨迹的模拟训练数据。现成点跟踪器在真实操作场景中的表现明显低于既有基准。",
+  "facts": [
+    {
+      "text": "艾伦人工智能研究所发布RoboTrack，包含307段人工标注视频、共2522条点轨迹的评测集，以及由模拟环境生成的1500万条训练轨迹。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/robotrack"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该研究称，即便是现成最强跟踪器CoWTracker，分数也从RoboTAP上的70.5 AJ降到RoboTrack-Bench上的63.9。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/robotrack"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "is_primary": true,
+      "published_at": "2026-11-24T01:20:37+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T01:20:37+08:00",
+  "updated_at": "2026-11-24T01:20:37+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "艾伦研究所发布机器人操作点跟踪基准RoboTrack",
+  "lead_zh": "艾伦人工智能研究所推出面向真实机器人操作的点跟踪基准RoboTrack-Bench和含1500万条轨迹的模拟训练集RoboTrack-15M，现成跟踪器在真实操作视频上明显掉分。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "艾伦人工智能研究所推出面向真实机器人操作的点跟踪基准与训练数据套件RoboTrack。评测集RoboTrack-Bench含**307**段来自DROID、Ego-Exo4D、MolmoAct 2和EgoVerse的人工标注视频，共**2522**条经过核验的点轨迹，覆盖不同机器人与人手、杂乱场景以及第一、第三人称视角，其中**33**对为双机同步拍摄。",
+        "他们还扩展Ai2的模拟环境MolmoSpaces，生成RoboTrack-15M：来自**300**个模拟家庭的**3000**段视频，每段**5000**条轨迹，合计**1500万**条。研究评估了CoTracker3、BootsTAPNext、AllTracker和CoWTracker等现成跟踪器。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究怎么说",
+      "paras": [
+        "作者写道，现成跟踪器在真实操作视频上的分数会下降**3.0**到**6.6** AJ。即便是最强的CoWTracker，也从RoboTAP上的**70.5** AJ降到RoboTrack-Bench上的**63.9**。他们还推出在该模拟数据上微调的RoboTracker和RoboTracker-Warp，称把这批数据加入训练可提升真实操作视频上的表现。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/ecdf9419b48550e707f8d0ae2cb3b62a590ca5cb.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

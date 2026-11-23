@@ -1,0 +1,67 @@
+{
+  "id": "n1457613dc9f1",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋重返总部，称会做更好的第二次首席执行官",
+  "original_title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+  "summary": "黄仁勋周一返回英伟达总部，在数百名鼓掌员工面前说“谢谢你们给的第二次机会”，并表示会在第二次担任首席执行官时做得更好。超过20万人曾联名支持他回归。现场有员工高喊他的名字。",
+  "facts": [
+    {
+      "text": "黄仁勋周一回到英伟达办公室，在数百名鼓掌员工面前感谢第二次机会，并说会在第二次担任首席执行官时做得更好。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据黄仁勋称，“谢谢你们给的第二次机会。我会在第二次担任首席执行官时做得更好。”",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "is_primary": false,
+      "published_at": "2026-11-24T04:38:53+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T04:38:53+08:00",
+  "updated_at": "2026-11-24T04:38:53+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋重返总部，称会做更好的第二次首席执行官",
+  "lead_zh": "黄仁勋周一回到英伟达办公室，在数百名鼓掌员工面前表示感谢第二次机会，并说“我会在第二次担任首席执行官时做得更好”。超过20万人曾联名支持他回归。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "黄仁勋周一回到英伟达办公楼，网上流传的多段视频显示，现场有数百名员工鼓掌，并高喊他的名字。他在本月早些时候因多段婚外关系辞职，其中一段涉及一名被指为中国间谍的女子，另外两段涉及英伟达员工；在科技界声援和特朗普介入后，他又被恢复为首席执行官。",
+        "超过**20万人**签署公开信支持他回归，其中约**1万**人自称是现任英伟达员工。马斯克上周在DealBook峰会上曾把撤换他比作在连胜时把迈克尔·乔丹踢出球队。与此同时，《纽约时报》根据数十年法庭记录和十余人访谈报道，有人认为他会把羞辱当作管理手段。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据黄仁勋对现场员工称：“谢谢你们给的第二次机会。我会在第二次担任首席执行官时做得更好。”报道同时提醒，在欢呼之外，也有关于其管理风格的另一面描述正在流传。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/61f2570a414ae5926ba261126e402b2ed05d6ee9.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

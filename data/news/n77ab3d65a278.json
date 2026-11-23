@@ -1,0 +1,67 @@
+{
+  "id": "n77ab3d65a278",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "谷歌提出改进残差连接的深度交叉注意力方法",
+  "original_title": "Supercharging transformer residual connections",
+  "summary": "谷歌研究介绍DeepCrossAttention，用以改进Transformer残差连接。该方法让每层动态选用先前特征，在LM1B和C4上用更少训练步数达到常规模型的表现，也可为已有模型加装。",
+  "facts": [
+    {
+      "text": "谷歌在ICML 2025论文中提出DeepCrossAttention，让每一层动态选择并路由此前各层的特征，以改进Transformer残差连接。",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该论文称，该方法在相近效果下可减少最多30%到40%的参数，并在LM1B上用30层达到常规42层模型的困惑度水平。",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google Research Blog",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "is_primary": true,
+      "published_at": "2026-11-24T01:21:12+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T01:21:12+08:00",
+  "updated_at": "2026-11-24T01:21:12+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌提出改进残差连接的深度交叉注意力方法",
+  "lead_zh": "谷歌在ICML 2025论文中提出DeepCrossAttention，让各层动态选择历史特征，称在相近效果下可减少三到四成参数，也可给已训练模型加装。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌研究在ICML 2025论文《DeepCrossAttention: Supercharging Transformer Residual Connections》中提出深度交叉注意力（DCA），用以改进Transformer里把各层输出与输入逐点相加的残差连接。传统残差会同等对待先前表示，深层网络中较早的细节容易被稀释；DCA则让每一层动态选择并路由历史特征。",
+        "在LM1B和C4数据集上，DCA在相同参数和训练预算下比标准Transformer及LAUREL-PA、DenseFormer、Hyper-Connections等基线达到更低困惑度，并最多用约五分之一的训练步数追上常规模型。要在LM1B上达到低于**14**的困惑度，固定宽度的标准模型需要**42**层，DCA用**30**层即可，深度和参数约减少**29%**。"
+      ],
+      "sources": [
+        "Google Research Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "论文怎么说",
+      "paras": [
+        "据作者介绍，DCA新增参数不到模型总量的**0.2%**，还可初始化成与标准残差网络相同的行为，因而能给已预训练模型加装。短暂继续训练后，LM1B困惑度下降**0.19**，而常规继续训练只下降**0.02**。文章还提到，Thinking Machines的Inkling 2模型也采用了这一设计。"
+      ],
+      "sources": [
+        "Google Research Blog"
+      ]
+    }
+  ],
+  "image_url": "img/6ccd20d960105982a8a7beb784c3b97cc25223c5.jpg",
+  "image_source": "Google Research Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepCrossAttention1_Banner.gif",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

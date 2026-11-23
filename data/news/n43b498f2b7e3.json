@@ -1,0 +1,67 @@
+{
+  "id": "n43b498f2b7e3",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic推出Claude Ship，可审改并自动批准代码",
+  "original_title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+  "summary": "Anthropic发布Claude Ship，在已有代码审查之外，增加可按团队策略自动批准常规代码改动的智能体，并称目标是让拉取请求之后的流程也跟上模型写代码的速度。",
+  "facts": [
+    {
+      "text": "Anthropic周一发布Claude Ship，把代码审查、修复和按团队策略自动批准常规改动交给智能体。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该公司博客称，Claude Code团队里大部分代码已由Claude编写，他们希望拉取请求之后的流程也能同样快。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "is_primary": false,
+      "published_at": "2026-11-24T06:05:50+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T06:05:50+08:00",
+  "updated_at": "2026-11-24T06:05:50+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic推出Claude Ship，可审改并自动批准代码",
+  "lead_zh": "这家新上市的人工智能公司周一发布Claude Ship，把代码审查、修复和按团队策略自动批准常规改动交给智能体，以疏解生成代码后的审核瓶颈。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "这家新上市的人工智能公司Anthropic周一发布Claude Ship，把代码审查、修复以及对常规改动的批准交给智能体处理。与既有的代码审查功能相比，其更引人注意的一点是：可以按开发团队设定的策略，由智能体自动批准代码变更，以疏解模型大量生成代码后的审核瓶颈。该产品先以测试版开放，供早期用户审阅拉取请求并判断哪些可以合并。",
+        "TechCrunch写道，代码审查功能此前已经存在，新套件的重点是把批准权也交给按策略行事的智能体，从而覆盖从发现问题到合并的更多环节。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Anthropic博客介绍，“多数团队希望每项改动都由人来批准，这在每行代码都由人编写时还跟得上；但现在很多开发者已经与智能体一起构建。在Claude Code团队里，大部分代码由Claude编写，我们希望拉取请求之后的流程也能同样快。”"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/7a4ffd5646d5f3d67508f67804ef0c6098610f93.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

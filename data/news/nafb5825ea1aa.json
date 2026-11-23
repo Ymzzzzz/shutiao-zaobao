@@ -1,0 +1,67 @@
+{
+  "id": "nafb5825ea1aa",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI发布困惑度指标，呼吁行业约定共同上限",
+  "original_title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+  "summary": "OpenAI首席科学家帕乔基撰文，首次公布GPT系列内部困惑度分数，直至尚未发布的下一代模型，并称许多能力会在特定阈值出现。他希望各实验室以此协调发展节奏。他认为安全需要共同尺度。",
+  "facts": [
+    {
+      "text": "OpenAI首席科学家帕乔基首次公布GPT系列内部困惑度分数，直至尚未发布的下一代模型，并主张以此作为行业共同尺度。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据帕乔基称，许多现代模型能力与特定困惑度阈值对应，例如GPT-3.5约在对数困惑度0.99时首次实现流畅对话。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+      "is_primary": false,
+      "published_at": "2026-11-24T02:42:38+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T02:42:38+08:00",
+  "updated_at": "2026-11-24T02:42:38+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI发布困惑度指标，呼吁行业约定共同上限",
+  "lead_zh": "OpenAI首席科学家帕乔基首次公布GPT系列内部困惑度分数，直至尚未发布的下一代模型，并主张把该指标作为实验室比较与安全节奏的共同尺度。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI首席科学家雅库布·帕乔基在博客中首次公布GPT系列的内部困惑度分数，范围直到尚未发布、位于GPT-6之后的模型，并主张把该指标作为实验室比较进展、协调安全节奏的共同尺度。困惑度越低，表示预训练基座对下一个词元的预测越准；困惑度约为**2**时，大致相当于在两个同样可能的选项之间选择。",
+        "OpenAI过去也曾公开这类分数，后来停止。帕乔基写道，重新公布是一种权衡：竞争对手会把OpenAI的位置看得更清楚，但他认为对共同安全标准的需要超过了这一缺点。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据帕乔基称，许多现代模型能力会相当整齐地落在特定困惑度阈值上，尽管事先并不清楚它们会在这些点出现。他用对数困惑度报告数字，分数仍是越低越好。按他的说法，GPT-3.5大约在**0.99**时首次实现流畅对话，为后续能力奠定了基础。他希望各方据此在关键节点上协调开发节奏。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/07cd1c7b3e856ed703ad0e3ef93e70106fdb6513.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

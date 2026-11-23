@@ -1,0 +1,67 @@
+{
+  "id": "nbc6b513693d3",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": false,
+  "title": "GPT-6.2 Astra独立给出间隙定理的可验证证明",
+  "original_title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+  "summary": "据Vals AI介绍，GPT-6.2 Astra独立完成2006年Smoktunowicz间隙定理的Lean证明，约94分钟、花费21.58美元，并在Autoform-Hard评测中以49项领先。",
+  "facts": [
+    {
+      "text": "Vals AI称，GPT-6.2 Astra独立写出Smoktunowicz间隙定理的Lean形式化证明，耗时94分钟、花费21.58美元，并在Autoform-Hard上以49项领先。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Vals AI称，这是该2006年定理首个用Lean写成、可机器验证的证明，而且模型因数学库缺少原证明基础而自行换了路线。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+      "is_primary": false,
+      "published_at": "2026-11-23T20:17:01+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T20:17:01+08:00",
+  "updated_at": "2026-11-23T20:17:01+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "GPT-6.2 Astra独立给出间隙定理的可验证证明",
+  "lead_zh": "Vals AI称，GPT-6.2 Astra在无人协助下写出Smoktunowicz间隙定理的Lean形式化证明，为该定理首个可机器验证Lean证明，耗时94分钟、花费21.58美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，OpenAI的GPT-6.2 Astra在无人协助的情况下，写出了可机器验证的形式化证明，对象是**2006年**的Smoktunowicz间隙定理：在某个数学系统中，基本构件相乘后的增长要么很慢、要么很快，不存在中间地带。该任务属于Vals整理的Autoform-Hard，共**56**项，Meta研究中的**10**个模型都未能在预算内解出。",
+        "系统不允许在花费未达**20美元**前把未完成的题目交卷。Astra在47分钟、花费8美元时曾试图退出，随后又经过约9分钟没有输入代码的搜索，最终在第**94分钟**、花费**21.58美元**时交出约**1800**行证明。它目前以**49**项领跑，GPT-6.2 Sol和Claude Fable 5.2各为48项。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "评测方怎么说",
+      "paras": [
+        "据Vals AI称，这是该定理首个用Lean写成的证明。由于原证明的关键基础并未收录在数学库Mathlib中，Astra改用已有研究里的“容量”指标，即每一步计算至少增加多少元素，从而走了与已发表数学证明不同的路线。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/5743538fef1a5e7ad63a06f53379dff1c943ba44.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/gpt_lean_proof.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

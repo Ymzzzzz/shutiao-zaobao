@@ -1,0 +1,67 @@
+{
+  "id": "nea91e3604351",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "白宫称特朗普全程参与推动黄仁勋复职",
+  "original_title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+  "summary": "白宫通讯主任表示，特朗普全程参与推动黄仁勋重返英伟达，并称“我们必须保护我们的天才”。总统随后对CNBC说，调查显示他判断有误，但“没有做错事”。英伟达声明也提到政府意见。",
+  "facts": [
+    {
+      "text": "白宫通讯主任张振熙对Semafor表示，特朗普全程参与推动英伟达恢复黄仁勋职务，总统随后也在CNBC上重申要保护天才。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据张振熙称，“总统全程参与，这是英伟达董事会的正确决定。我们必须保护我们的天才。”特朗普则说调查显示他判断有误，但没有做错事。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+      "is_primary": false,
+      "published_at": "2026-11-24T00:30:11+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T00:30:11+08:00",
+  "updated_at": "2026-11-24T02:48:59+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "白宫称特朗普全程参与推动黄仁勋复职",
+  "lead_zh": "白宫通讯主任张振熙对Semafor表示，特朗普全程参与推动英伟达恢复黄仁勋职务，并说“我们必须保护我们的天才”。总统随后也在CNBC上重申这一点。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge报道，白宫主动强调特朗普在黄仁勋重返英伟达一事中扮演的角色。通讯主任张振熙的声明最先由Semafor报道。总统随后在CNBC上作了类似表述，并说如果自己没有介入，英伟达可能会“在很长时间里都很难看”。英伟达在宣布回归的声明中也写明，董事会收到了美国政府高层的意见。",
+        "特朗普还曾在不到**12小时**前发文称，恢复黄仁勋职务“对英伟达和美国来说会是最好的事情”，并敦促董事会重新雇用他。黄仁勋仍定于**12月1日**与三家众议院委员会闭门会面。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他们怎么说",
+      "paras": [
+        "据张振熙称：“总统全程参与，这是英伟达董事会的正确决定。我们必须保护我们的天才。”特朗普在CNBC上说，他“非常坚定地认为”应该恢复其职务，并称“我们做了非常彻底的调查，调查显示他在一些不太相关的事情上判断不好，但他没有做错事。”"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/15519f661fffbd584f5b65f643e44ff3906e20be.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

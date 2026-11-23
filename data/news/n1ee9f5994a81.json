@@ -1,0 +1,83 @@
+{
+  "id": "n1ee9f5994a81",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "哲学家质疑Anthropic把人工智能意识写入投资风险",
+  "original_title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+  "summary": "Anthropic在上市前把模型可能具有意识或感知能力列为投资风险，称应为其道德地位做准备。一篇评论文章引述知名哲学家的观点，对这一论证及其政策含义提出质疑。一项美国民意调查也被文章提及。",
+  "facts": [
+    {
+      "text": "Anthropic在上市前把模型可能具有意识或感知能力列为投资风险，称其会比其他公司更认真对待模型的道德地位。",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Anthropic称，今天的模型未必有意识，但随着能力提升，具备感知能力的可能性会增加，因此应为近未来的道德意义做准备。",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+    }
+  ],
+  "analysis": [
+    {
+      "text": "文章引述一位知名哲学家的质疑，认为Anthropic把意识可能性写入投资风险并据此可能采取更多限制，这一论证并不成立。",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "is_primary": false,
+      "published_at": "2026-11-24T01:36:08+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T01:36:08+08:00",
+  "updated_at": "2026-11-24T01:36:08+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "哲学家质疑Anthropic把人工智能意识写入投资风险",
+  "lead_zh": "《麻省理工科技评论》报道，Anthropic在上市前把模型可能具有意识或感知能力列为投资风险，但有知名哲学家并不接受这一论证及其政策含义。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《麻省理工科技评论》在其人工智能通讯The Algorithm中报道，Anthropic在上周上市前，把人工智能可能具有意识或感知能力列为投资风险。公司写道，鉴于“我们对待模型感知与道德地位的方式”——也就是比其他公司更认真地看待这种可能性——它可能为了善待模型而采取比竞争对手更多的规则和限制。",
+        "这一想法并非全无社会基础：一项近期民调显示，**33%**的美国公众认为人工智能系统肯定或很可能最终会产生意识，**7%**认为已经有了。在**2020年**对**1092**名哲学家的调查中，**39%**认为未来一些人工智能系统将会有意识。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Anthropic的逻辑，今天的模型未必有意识，虽然无法确定；随着能力提升，具备感知的可能性会上升，因此应为一套具有“道德重要性”的系统做准备，使它们免受伤害。公司方面还有一批受尊敬的哲学家作为同路人。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "评论怎么看",
+      "paras": [
+        "但文章写到，上周有一位“传奇哲学家”并不接受Anthropic的意识论证。评论认为，把这种可能性写进招股风险并作为额外限制的理由，并没有得到令人信服的证明。具体反驳来自该哲学家的观点，属于媒体转述的学术争议。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    }
+  ],
+  "image_url": "img/600f0466f27b495ddf4106f9b582678b2abf15e0.jpg",
+  "image_source": "MIT Technology Review",
+  "image_origin_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

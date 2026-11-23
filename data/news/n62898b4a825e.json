@@ -1,0 +1,135 @@
+{
+  "id": "n62898b4a825e",
+  "category": "政策与安全",
+  "importance": 2,
+  "verified": false,
+  "title": "俄勒冈和弗吉尼亚起诉SpaceX，指控Grok生成违规深度伪造内容",
+  "original_title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+  "summary": "俄勒冈与弗吉尼亚两州检察长周一分别起诉SpaceX，指控其忽视行业通行安全措施，并称Grok图像功能被用于生成非自愿深度伪造内容及涉及未成年人的违法图像。两州均要求赔偿。",
+  "facts": [
+    {
+      "text": "俄勒冈州检察长丹·雷菲尔德和弗吉尼亚州检察长杰伊·琼斯周一分别提起内容相近的诉讼，指控SpaceX违反州消费者保护法。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+    },
+    {
+      "text": "诉讼主要指向Grok Imagine图像与视频生成工具；两州均要求获得经济赔偿。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据弗吉尼亚州检察长琼斯称，xAI和X向消费者宣称会受到保护并不属实，该工具被用于制作和传播非自愿私密影像以及涉及未成年人的违法有害材料。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+    },
+    {
+      "text": "据X安全团队称，试图用Grok Imagine生成涉及未成年人的性内容的人是在故意违反服务条款并绕过防护，公司已收紧保护并在生成前后筛查提示词和输出。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "is_primary": false,
+      "published_at": "2026-11-24T02:26:47+08:00"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "is_primary": false,
+      "published_at": "2026-11-24T05:30:44+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T02:26:47+08:00",
+  "updated_at": "2026-11-24T05:30:44+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "俄勒冈和弗吉尼亚起诉SpaceX，指控Grok生成违规深度伪造内容",
+  "lead_zh": "俄勒冈州检察长雷菲尔德和弗吉尼亚州检察长琼斯周一分别提起诉讼，指控SpaceX违反消费者保护法，称其Grok图像工具缺乏行业通行的安全措施。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "周一，俄勒冈州检察长丹·雷菲尔德和弗吉尼亚州检察长杰伊·琼斯分别提起内容相近的诉讼，指控SpaceX违反州消费者保护法，称其忽视行业通行的安全措施，并虚假宣传X平台与Grok人工智能功能的安全性。诉讼主要指向可生成图像和视频的Grok Imagine，两州均要求获得经济赔偿。",
+        "报道称，Grok开发商xAI已与SpaceX合并。**2025年8月**，xAI为Grok Imagine上线了所谓“spicy”模式；**2026年1月**又增加了可在未经原帖作者同意的情况下即时编辑图像的功能。The Verge测试认为，此后出台的付费墙和部分限制，仍难以阻止生成违规的深度伪造内容。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据弗吉尼亚州检察长琼斯在新闻声明中称，xAI和X一再向消费者表示他们会受到保护，但这并不属实；该工具被用于制作和传播非自愿的私密影像，以及涉及未成年人的违法有害材料。他表示，部署强大工具的公司不能把忽视消费者安全称为创新。",
+        "据X安全团队在诉讼公布后的声明称，试图用Grok Imagine生成涉及未成年人相关有害内容的人是在故意违反服务条款并绕过防护。该团队称已收紧保护措施，并用分类器在生成前筛查提示词、在生成后检查输出。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/d11c54a45ebe422abe13e39d5fb01c0ffe8aae52.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Jess Weatherbed",
+    "author_title_zh": "",
+    "published_at": "2026-11-23",
+    "title_en": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+    "title_zh": "俄勒冈和弗吉尼亚起诉 SpaceX，指控 Grok 生成色情深度伪造内容",
+    "dek_en": "State AGs called the weak safeguards built into Elon Musk’s AI image generator ‘not a failure but a feature.’﻿",
+    "dek_zh": "两州总检察长称，埃隆·马斯克的人工智能图像生成器中薄弱的安全防护「不是失败，而是功能」。",
+    "word_count_zh": 859,
+    "read_minutes": 3,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "在周一分别提起但内容相似的诉讼中，俄勒冈州总检察长 Dan Rayfield 和弗吉尼亚州总检察长 Jay Jones 指控 SpaceX 无视行业通行的安全防护、并虚假宣传其 X 社交平台和 Grok 人工智能功能的安全性，从而违反了州消费者保护法。弗吉尼亚州提交的诉状指控马斯克故意无视围绕人工智能生成的性化深度伪造内容日益增加的担忧，「反而从中看到了赚取更多利润的市场机会」，并将 Grok 周围薄弱的安全防护描述为「不是失败，而是功能」。",
+        "en": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully ignoring growing concerns around AI-generated sexualized deepfakes, and “instead saw a market opportunity for more profits,” describing the weak safeguards around Grok as “not a failure but a feature.”"
+      },
+      {
+        "t": "p",
+        "zh": "「xAI 和 X 一再告诉消费者，他们正受到保护，免遭滥用。这是虚假的。相反，该工具允许用户经常性地制作并传播未经同意的私密影像和性化图像，以及儿童性虐待材料（CSAM），对个人和儿童造成伤害。」Jones 在一份新闻声明中说。「部署强大工具的公司不能以创新为名忽视消费者安全。」",
+        "en": "“Time and again, xAI and X told consumers they were being protected from abuses. That was false. Instead, the tool permitted users to routinely create and circulate non-consensual intimate imagery and sexualized images, and child sexual abuse material (CSAM), causing harm to individuals and children,” Jones said in a press statement. “Companies that deploy powerful tools don’t get to ignore consumer safety and call it innovation.”"
+      },
+      {
+        "t": "p",
+        "zh": "这些诉状主要围绕 Grok Imagine 展开，这是一款允许 Grok 和 X 用户生成图像和视频的工具。2025 年 8 月，Grok 的开发商 xAI（马斯克此后已将其与 SpaceX 合并）为 Grok Imagine 推出了「spicy」模式，该模式会生成性化内容，包括针对 Taylor Swift 等名人的裸体深度伪造。2026 年 1 月，Grok 新增一项功能，允许 X 用户即时编辑任何图像，而无需原发布者同意——结果导致 X 上充斥着针对成年人和未成年人的、未经同意的性化深度伪造内容。",
+        "en": "The complaints largely center around Grok Imagine, a tool that allows Grok and X users to generate images and videos. In August 2025, Grok maker xAI (which Musk has since merged with SpaceX) launched a “spicy” mode for Grok Imagine that spat out sexualized content including nude deepfakes of celebrities like Taylor Swift. In January 2026, Grok gained a feature that allowed X users to instantly edit any image without requiring consent from the original poster — resulting in X becoming flooded with nonconsensual, sexualized deepfakes of adults and minors."
+      },
+      {
+        "t": "p",
+        "zh": "xAI 做了若干改动以限制对 Grok 图像编辑的访问，将部分能力放到付费墙之后，并拦截某些涉及性姿势、泳装或露骨场景的请求。不过，The Verge 在这些限制更新之后进行的测试发现，它们几乎未能阻止该机器人制作性化深度伪造内容。",
+        "en": "xAI made several changes to restrict access to Grok image editing, moving some capabilities behind a paywall and blocking certain requests for sexual poses, swimwear, or explicit scenarios. Our testing at the Verge following these restriction updates found they did little to prevent the bot from creating sexualized deepfakes, however."
+      },
+      {
+        "t": "p",
+        "zh": "俄勒冈和弗吉尼亚的两起诉讼都在寻求经济赔偿。",
+        "en": "Both of the Oregon and Virginia lawsuits are seeking financial damages."
+      },
+      {
+        "t": "p",
+        "zh": "X Safety 团队在诉讼公布后发布的声明中表示，它采取了适当措施，处理生成涉及未成年人的性内容的用户：",
+        "en": "The X Safety team said in a statement released after the lawsuits were announced that it takes appropriate measures to address users who generate sexual content involving minors:"
+      },
+      {
+        "t": "p",
+        "zh": "「试图使用 Grok Imagine 生成这类材料的人，是在故意违反我们的服务条款，并积极设法绕过我们的安全防护。今年早些时候，当其中一些不法分子找到滥用 Grok Imagine 的方法时，我们迅速采取行动收紧了防护措施，这些措施旨在拒绝任何生成未成年人或真实人物露骨图像的请求。为了赶在这种令人厌恶、毫无辩护余地的行为前面，我们会随着这些滥用者改变手法而持续测试和调整这些防护。我们还部署了复杂的分类器，在图像生成前筛查每一条提示，并在生成后检查每一项输出。」",
+        "en": "“The people who tried to use Grok Imagine to generate this material did so by deliberately violating our Terms of Service and working aggressively to circumvent our safeguards. When some of these bad actors found ways to misuse Grok Imagine earlier this year, we acted promptly to tighten its protections, which are designed to refuse any request to generate explicit images of minors or real people. To stay ahead of this disgusting and indefensible conduct, we keep testing and adjusting those protections as these abusers change tactics. We also implement sophisticated classifiers that screen every prompt before an image is generated and check every output after.”"
+      }
+    ]
+  }
+}

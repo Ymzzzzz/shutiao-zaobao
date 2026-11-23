@@ -1,0 +1,67 @@
+{
+  "id": "n5b1a69d858f9",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋回归后英伟达股价大涨，市值回升超万亿美元",
+  "original_title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+  "summary": "英伟达宣布恢复黄仁勋职务后，股价涨逾30%，市值回升超过1万亿美元。过去一个月公司市值曾蒸发约2.2万亿美元；董事会主席上周仍在财报会上表示不打算让他回来。白宫也被指介入此事。",
+  "facts": [
+    {
+      "text": "WIRED报道，英伟达宣布恢复黄仁勋职务后股价涨逾30%，市值回升超过1万亿美元；过去一个月市值曾蒸发约2.2万亿美元。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Semafor称，特朗普在宣布前数小时拨入这家上市公司的董事会会议，为被免职的首席执行官回归陈述理由。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+      "is_primary": false,
+      "published_at": "2026-11-24T01:52:56+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T01:52:56+08:00",
+  "updated_at": "2026-11-24T01:52:56+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋回归后英伟达股价大涨，市值回升超万亿美元",
+  "lead_zh": "WIRED报道，英伟达在宣布恢复黄仁勋职务后股价涨逾30%，市值回升超过1万亿美元；过去一个月公司市值曾蒸发约2.2万亿美元。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英伟达宣布恢复黄仁勋的总裁、首席执行官和董事职务后，股价涨逾**30%**，市值回升超过**1万亿美元**，报道称其有望打破微软保持的单日市值涨幅纪录。过去一个月，随着相关报道持续发酵，公司市值约蒸发**2.2万亿美元**。黄仁勋于**11月12日**离开他参与创办的公司。",
+        "上周，董事会主席哈维·琼斯还在财报会上表示，董事会“不打算恢复黄仁勋的首席执行官职务”。WIRED此前还报道，董事会曾对其“不够坦诚”和“说谎”感到震惊。尽管如此，董事会仍在周一宣布请他回来，并有美国政府协助。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据Semafor报道，就在宣布数小时前，特朗普拨入这家具有上市公司身份的英伟达董事会会议，为被免职的首席执行官回归陈述理由。文章写道，针对其行为的董事会调查结束时会怎样，以及多个政府机构和议员正在进行的调查，目前仍有许多问题没有答案。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/7633d0add9301030f2017749bd6e4305bf52dba5.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b0467fb5f8e6c0d7b84afc9/master/pass/Business_Nvidia%20Is%20Worth%20$1%20Trillion%20More%20Than%20It%20Was%20Yesterday.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

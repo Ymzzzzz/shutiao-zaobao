@@ -1,0 +1,3304 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T07:29:03+08:00",
+  "summary_mode": "ai",
+  "top_items": [
+    "n1d0c151fefed",
+    "n39c2da17cef6",
+    "n61dcf1169479"
+  ],
+  "items": [
+    {
+      "id": "n62898b4a825e",
+      "category": "政策与安全",
+      "importance": 2,
+      "verified": false,
+      "title": "俄勒冈和弗吉尼亚起诉SpaceX，指控Grok生成违规深度伪造内容",
+      "original_title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "summary": "俄勒冈与弗吉尼亚两州检察长周一分别起诉SpaceX，指控其忽视行业通行安全措施，并称Grok图像功能被用于生成非自愿深度伪造内容及涉及未成年人的违法图像。两州均要求赔偿。",
+      "facts": [
+        {
+          "text": "俄勒冈州检察长丹·雷菲尔德和弗吉尼亚州检察长杰伊·琼斯周一分别提起内容相近的诉讼，指控SpaceX违反州消费者保护法。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+        },
+        {
+          "text": "诉讼主要指向Grok Imagine图像与视频生成工具；两州均要求获得经济赔偿。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据弗吉尼亚州检察长琼斯称，xAI和X向消费者宣称会受到保护并不属实，该工具被用于制作和传播非自愿私密影像以及涉及未成年人的违法有害材料。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+        },
+        {
+          "text": "据X安全团队称，试图用Grok Imagine生成涉及未成年人的性内容的人是在故意违反服务条款并绕过防护，公司已收紧保护并在生成前后筛查提示词和输出。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+          "is_primary": false,
+          "published_at": "2026-11-24T02:26:47+08:00"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "is_primary": false,
+          "published_at": "2026-11-24T05:30:44+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T02:26:47+08:00",
+      "updated_at": "2026-11-24T05:30:44+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "俄勒冈和弗吉尼亚起诉SpaceX，指控Grok生成违规深度伪造内容",
+      "lead_zh": "俄勒冈州检察长雷菲尔德和弗吉尼亚州检察长琼斯周一分别提起诉讼，指控SpaceX违反消费者保护法，称其Grok图像工具缺乏行业通行的安全措施。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "周一，俄勒冈州检察长丹·雷菲尔德和弗吉尼亚州检察长杰伊·琼斯分别提起内容相近的诉讼，指控SpaceX违反州消费者保护法，称其忽视行业通行的安全措施，并虚假宣传X平台与Grok人工智能功能的安全性。诉讼主要指向可生成图像和视频的Grok Imagine，两州均要求获得经济赔偿。",
+            "报道称，Grok开发商xAI已与SpaceX合并。**2025年8月**，xAI为Grok Imagine上线了所谓“spicy”模式；**2026年1月**又增加了可在未经原帖作者同意的情况下即时编辑图像的功能。The Verge测试认为，此后出台的付费墙和部分限制，仍难以阻止生成违规的深度伪造内容。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据弗吉尼亚州检察长琼斯在新闻声明中称，xAI和X一再向消费者表示他们会受到保护，但这并不属实；该工具被用于制作和传播非自愿的私密影像，以及涉及未成年人的违法有害材料。他表示，部署强大工具的公司不能把忽视消费者安全称为创新。",
+            "据X安全团队在诉讼公布后的声明称，试图用Grok Imagine生成涉及未成年人相关有害内容的人是在故意违反服务条款并绕过防护。该团队称已收紧保护措施，并用分类器在生成前筛查提示词、在生成后检查输出。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/d11c54a45ebe422abe13e39d5fb01c0ffe8aae52.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+      "fulltext_status": "ok",
+      "read_minutes": 3
+    },
+    {
+      "id": "n1d0c151fefed",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "OpenAI与思科推出开源Linux运行时Shirudo",
+      "original_title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI与思科推出开源Linux运行时Shirudo，借助eBPF在服务不重启的情况下部署临时护盾。测试中，由Codex生成的护盾在运行中的Elasticsearch上挡住了Java4Shell攻击尝试。",
+      "facts": [
+        {
+          "text": "OpenAI与思科发布开源Linux运行时Shirudo，用于在正式补丁上线前为正在运行的系统提供临时防护。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-shirudo"
+        },
+        {
+          "text": "在受控测试中，由Codex生成的护盾在无需重启的情况下，挡住了针对运行中Elasticsearch服务的Java4Shell攻击尝试。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-shirudo"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据OpenAI与思科称，Shirudo围绕实时防护、机器速度防御、可信部署和基于TPM的硬件验证四项能力设计，安全团队仍控制最终部署。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-shirudo"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "is_primary": true,
+          "published_at": "2026-11-24T05:20:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T05:20:00+08:00",
+      "updated_at": "2026-11-24T05:20:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "OpenAI与思科推出开源Linux运行时Shirudo",
+      "lead_zh": "OpenAI与思科联合发布面向Linux的开源运行时Shirudo，用eBPF护盾在系统继续运行的同时临时封堵漏洞，供正式补丁上线前使用。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "OpenAI与思科联合推出开源运行时Shirudo（日语中“盾”的意思），帮助团队在测试和部署补丁仍需数天甚至数周时，为正在运行的Linux系统提供临时防护。在一次受控测试中，由Codex生成的护盾在无需重启的情况下，挡住了针对运行中Elasticsearch服务的Java4Shell攻击尝试。",
+            "Shirudo使用Linux的eBPF，在操作系统特定位置运行小程序，以观察可疑活动并施加针对性保护。项目以BSD 2-Clause协议开源，其中的BPF程序采用BSD与GPL双重许可，并配有虚拟机快速入门、实验环境和**12月15日**的技术研讨会。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据OpenAI与思科介绍，该运行时围绕四项能力设计：实时防护，即eBPF护盾可在不重启系统的情况下阻断脆弱代码路径；机器速度防御，让智能体在安全团队批准下调查漏洞并验证护盾；可信部署，护盾在加载前需加密签名和校验；以及用可信平台模块（TPM）记录防护的加载或移除，供运营者核验。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "ok",
+      "read_minutes": 4
+    },
+    {
+      "id": "n39c2da17cef6",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "谷歌搜索Personal Intelligence将接入钱包和云端硬盘",
+      "original_title": "A more tailored Google Search that’s uniquely yours",
+      "summary": "谷歌开始将Google钱包接入搜索AI模式中的Personal Intelligence，云端硬盘和Gemini应用将在未来数周加入，与已支持的Gmail、日历和相册一起提供可选的个性化回答。",
+      "facts": [
+        {
+          "text": "谷歌宣布，即日起可选择将Google钱包安全接入搜索AI模式中的Personal Intelligence，云端硬盘和Gemini应用将在未来数周跟进。",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+        },
+        {
+          "text": "这些应用将与已接入的Gmail、日历和Google相册一起，为搜索提供来自用户自身消费、文档和对话的上下文。",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据谷歌搜索产品副总裁罗比·斯坦称，用户可在搜索个性化设置中自行选择是否接入这些应用，并可随时开关。",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+        },
+        {
+          "text": "据谷歌称，若选择接入钱包，AI模式只能读取账户信息，不能转移、管理或投资用户的资金。",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "is_primary": true,
+          "published_at": "2026-11-24T01:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T01:00:00+08:00",
+      "updated_at": "2026-11-24T01:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌搜索Personal Intelligence将接入钱包和云端硬盘",
+      "lead_zh": "谷歌宣布即日起可选择把Google钱包接入搜索AI模式的Personal Intelligence，云端硬盘和Gemini应用将在未来数周跟进，用户可随时开关。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌搜索产品副总裁罗比·斯坦撰文宣布，搜索AI模式中的Personal Intelligence将接入更多应用：即日起可选择安全连接Google钱包，云端硬盘和Gemini应用将在未来数周跟进，从而把消费记录、文档和聊天中的上下文带入搜索。这些应用将与已经接入的Gmail、日历和Google相册一起使用。",
+            "用户需在“搜索个性化”设置中打开“已连接的应用”，自行选择要接入的服务，并可随时关闭。谷歌还表示，之后可在定制回答下方通过“个性化”图标查看AI模式使用的上下文，也可在对话中直接要求修改，例如说明自己不再吃素。"
+          ],
+          "sources": [
+            "Google AI Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据斯坦介绍，接入钱包后可用于梳理财务目标和日常开支，并按已绑定的信用卡优化返现类别、旅行权益和积分；若选择连接，AI模式只能读取账户信息，不能转移、管理或投资用户的资金。接入云端硬盘后，搜索可综合文档、表格和PDF给出更贴合项目或报税准备的计划。未来数周还可在Gemini应用与搜索AI模式之间共享上下文。"
+          ],
+          "sources": [
+            "Google AI Blog"
+          ]
+        }
+      ],
+      "image_url": "img/9a61d9b4483c2cf0507f2cab08c52838387e6168.jpg",
+      "image_source": "Google AI Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
+      "fulltext_status": "ok",
+      "read_minutes": 4
+    },
+    {
+      "id": "n61dcf1169479",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "DeepMind用智能体与形式化验证改进量子算法",
+      "original_title": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "谷歌DeepMind与Quantum AI用Gemini 4智能体团队优化已知量子算法，并用Lean形式化验证。聚变相关电路计算成本降至约十一分之一，相关工具将在GitHub开源。",
+      "facts": [
+        {
+          "text": "谷歌DeepMind在新论文中用Gemini 4智能体团队改进已知量子算法，并用Lean定理证明器证明结果，同时开源Lean库、问题规格和已验证方案。",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+        },
+        {
+          "text": "在惯性约束聚变的一项性质计算中，智能体团队把综合量子比特与操作的计算成本降低了11.8倍，所需纠错量子比特由5650个降至4338个。",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据DeepMind称，该方法也可用于其他问题，但这些算法要在科学模拟中真正运行，所需资源仍可能超出第一批纠错量子计算机的能力。",
+          "source": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "is_primary": true,
+          "published_at": "2026-11-24T00:59:40+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T00:59:40+08:00",
+      "updated_at": "2026-11-24T00:59:40+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "DeepMind用智能体与形式化验证改进量子算法",
+      "lead_zh": "谷歌DeepMind与Quantum AI用Gemini 4智能体团队改进量子电路，并用Lean定理证明器逐项验证，在聚变和药物相关模拟中降低了计算成本。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌DeepMind与Google Quantum AI合作，用Gemini 4智能体团队改进已知量子算法，生成更高效的量子电路，并用形式化定理证明器Lean证明每项结果。为便于社区跟进，他们将开源Lean库、问题规格和已验证方案。研究面向聚变能源、化学和酶等科学模拟，但作者强调方法并不限于这些领域。",
+            "在惯性约束聚变一项重要性质的计算中，智能体把综合量子比特与操作次数的计算成本降低了**11.8倍**，所需纠错量子比特由**5650**个降至**4338**个。对一种常见光敏分子的模拟成本降低约**8倍**；对分解大多数人体药物、与药物设计相关的酶细胞色素P450，改进约**2.5倍**，内存需求由**481**个量子比特降至**333**个。他们还为一种特定实现的Grover算法找到**2.57倍**加速，并为许多算法用于把数值载入量子态的arcsin例程找到**290倍**加速。"
+          ],
+          "sources": [
+            "Google DeepMind Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "团队怎么说",
+          "paras": [
+            "据作者介绍，即便有这些改进，要在科学模拟中真正运行这些算法，所需计算资源仍可能超出第一批纠错量子计算机的能力。他们表示，由证明检查的人工智能搜索能够压缩过去需要数年手工设计的工作，让研究者把精力更多放在选题和解释结果上。"
+          ],
+          "sources": [
+            "Google DeepMind Blog"
+          ]
+        }
+      ],
+      "image_url": "img/a0ecac71028425487eb9e9e14f1bc717fcddf089.jpg",
+      "image_source": "Google DeepMind Blog",
+      "image_origin_url": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
+      "fulltext_status": "ok",
+      "read_minutes": 4
+    },
+    {
+      "id": "nf8a4e02f4212",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "OpenAI探讨企业法务如何接入智能工作流",
+      "original_title": "Connected intelligence for in-house legal",
+      "summary": "OpenAI发布一期企业法务主题讨论，由Stacey Wang、Craig Bruney与LECG的Mary O’Carroll、Cooley的Richard Segal共同探讨，如何用人工智能连接业务上下文并建立可复用工作流。",
+      "facts": [
+        {
+          "text": "OpenAI发布了一场面向企业内部法务团队的讨论，参与者包括OpenAI的Stacey Wang和Craig Bruney、LECG的Mary O’Carroll以及Cooley的Richard Segal。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "is_primary": true,
+          "published_at": "2026-11-23T16:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "updated_at": "2026-11-23T16:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "OpenAI探讨企业法务如何接入智能工作流",
+      "lead_zh": "OpenAI邀请嘉宾讨论企业法务如何用人工智能衔接业务背景，并搭建可反复使用的工作流程。",
+      "body_zh": [],
+      "image_url": "img/6fc482db8b1099968c187037d62ecb07f2b4ee66.jpg",
+      "image_source": "OpenAI News",
+      "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/40q0vnGDp1zwWuJrVjXtu6/79ebb13b84e11ce1711a27adfd6ffafe/connected-intelligence-for-in-house-legal-cover.png?w=1600&h=900&fit=fill",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n680b35173b97",
+      "category": "大模型与产品",
+      "importance": 2,
+      "verified": true,
+      "title": "Richpanel称可用GPT-6在30天内自动化半数客服",
+      "original_title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Richpanel用GPT-6 Astra和GPT-6.1 Sol搭建名为Boss AI的配置智能体，用GPT-6 Luna等模型承接一线对话，并称在约300个部署中均兑现了30天内50%自动化的承诺。",
+      "facts": [
+        {
+          "text": "Richpanel使用GPT-6 Astra和GPT-6.1 Sol为名为Boss AI的配置智能体编写流程和工具，一线对话则使用GPT-6 Luna等更经济的模型。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+        },
+        {
+          "text": "该公司承诺客户在最初30天内达到50%自动化，否则退款。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Richpanel首席执行官Amit RG称，截至2026年10月的访谈，过去六个月约完成300个人工智能客服部署，且都达到了30天内50%自动化的承诺。",
+          "source": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "is_primary": true,
+          "published_at": "2026-11-23T16:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "updated_at": "2026-11-23T16:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Richpanel称可用GPT-6在30天内自动化半数客服",
+      "lead_zh": "客服公司Richpanel介绍，其用GPT-6 Astra和GPT-6.1 Sol配置工具与流程，用GPT-6 Luna承接对话，并承诺30天内达到50%自动化，否则退款。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "客服公司Richpanel在OpenAI的客户故事中介绍，其不仅用大模型回答问题，还用模型为智能体配置所需工具和流程。公司构建了一个负责部署的“经理”智能体，客户称之为Boss AI，由它编写流程，并定义一线客服、协作助手和质检智能体如何调用工具。Boss AI使用GPT-6 Astra和GPT-6.1 Sol，一线大量对话则使用GPT-6 Luna等更看重成本的模型。",
+            "该公司向客户承诺，最初**30天**内达到**50%**自动化，否则退款。这篇故事发布于一次**2026年10月**的访谈之后。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Richpanel首席执行官Amit RG称，人类客服服务一名客户可能用到**20**或**30**种工具，且流程往往从未被写下来；他认为智能已不再是瓶颈，周围的工具和流程才是。他表示，截至访谈前六个月公司约完成**300**个人工智能客服部署，且都兑现了上述自动化承诺，并称在这些案例中，人工智能在客户满意度上超过了人工客服。"
+          ],
+          "sources": [
+            "OpenAI News"
+          ]
+        }
+      ],
+      "image_url": "img/81d9aa611ff91fa2f03376b4799d90a529ad0b4f.jpg",
+      "image_source": "OpenAI News",
+      "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
+      "fulltext_status": "ok",
+      "read_minutes": 3
+    },
+    {
+      "id": "n169eafdcd04a",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "客服公司Sierra完成17.5亿美元F轮，估值达300亿美元",
+      "original_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "summary": "企业客服公司Sierra宣布完成17.5亿美元F轮融资，估值在六个月内由150亿美元翻至300亿美元。本轮由Greenoaks和Lightspeed领投，公司称服务近半数财富50强企业。",
+      "facts": [
+        {
+          "text": "Sierra周一宣布完成17.5亿美元F轮融资，估值达到300亿美元，距上一轮估值150亿美元不足六个月。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+        },
+        {
+          "text": "本轮由Greenoaks和Lightspeed Venture Partners领投，Benchmark、Sequoia、GV和Tiger Global等既有投资人跟投。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Sierra称，公司目前服务近半数财富50强企业，上月还表示按效果付费模式已帮助其在五个月内把年化经常性收入翻至4亿美元。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "is_primary": false,
+          "published_at": "2026-11-23T22:43:03+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T22:43:03+08:00",
+      "updated_at": "2026-11-23T22:43:03+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "客服公司Sierra完成17.5亿美元F轮，估值达300亿美元",
+      "lead_zh": "由前Salesforce联席首席执行官泰勒联合创办的企业客服公司Sierra周一宣布完成17.5亿美元F轮融资，估值在六个月内从150亿美元升至300亿美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "由前Salesforce联席首席执行官布雷特·泰勒联合创办的企业客户体验公司Sierra周一宣布，完成**17.5亿美元**F轮融资，估值达到**300亿美元**。新一轮融资距上一轮估值**150亿美元**不足六个月。本轮由Greenoaks和Lightspeed Venture Partners领投，Benchmark、Sequoia、GV和Tiger Global等既有投资人参与。",
+            "Sierra表示，将用新资金完善技术栈、叠加入驻和运维类智能体，并增聘销售人员以更快签署和维护企业合同。同领域里，语音公司ElevenLabs估值约**220亿美元**，Decagon、Wonderful和Parloa分别约为**45亿**、**50亿**和**30亿美元**。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Sierra称，公司目前服务近**50%**的财富50强企业，客户包括BNY、汇丰、Singtel、富国银行、摩根大通、Pearson、Next和Cox Automotive。公司上月还表示，按效果付费的模式已帮助其在五个月内把年化经常性收入翻至**4亿美元**。联合创始人克莱·巴沃尔曾在阿姆斯特丹HumanX会议上表示，尽管外界认为人工智能客服公司在取代联络中心的人力，但其多数客户是把现有员工调往其他岗位。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/40520b9519037ab8e4072bc5a16934a339c8e632.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
+      "fulltext_status": "ok",
+      "read_minutes": 2
+    },
+    {
+      "id": "n914bb147d0bf",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "三家机构回顾上市前重仓Anthropic的投注",
+      "original_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Notable Capital、新加坡主权基金GIC和Baillie Gifford向TechCrunch回顾，它们在Anthropic上市前多轮重仓的理由。Anthropic上市筹资813亿美元，完全稀释估值约1.5万亿美元。",
+      "facts": [
+        {
+          "text": "Notable Capital曾把其10亿美元以上基金中美国部分的约10%投入Anthropic的E轮，当时估值为615亿美元。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+        },
+        {
+          "text": "周三Anthropic完成史上规模最大的IPO，筹资813亿美元，完全稀释估值约1.5万亿美元。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Notable管理合伙人Hans Tung称，他们当时发现开发者使用Claude的比例约为70%，较前一年出现逆转。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+          "is_primary": false,
+          "published_at": "2026-11-23T09:25:53+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T09:25:53+08:00",
+      "updated_at": "2026-11-23T09:25:53+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "三家机构回顾上市前重仓Anthropic的投注",
+      "lead_zh": "科技媒体专访三家在Anthropic上市前重仓的投资机构，回顾它们加码的依据，以及上市后已经显现的账面回报。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch回顾了三家在Anthropic上市前重仓的投资机构。Notable Capital（2024年从GGV Capital拆分后的名称）曾把规模逾10亿美元基金中美国部分的约**10%**投入Anthropic的E轮，估值达**615亿美元**。周三，Anthropic完成史上面额最大的IPO，筹资**813亿美元**，完全稀释估值约**1.5万亿美元**，对Notable而言约相当于**15倍**账面回报。",
+            "新加坡主权基金GIC在2025年9月宣布的F轮（估值**1830亿美元**）首次出资，后又与Coatue共同领投估值3800亿美元的G轮，并参与领投上市前一轮（估值9650亿美元）。知情人士称，GIC三轮合计投入超过**45亿美元**，上市后持股约**1%**。Baillie Gifford则在三轮中共投入**15亿美元**。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "投资人怎么说",
+          "paras": [
+            "据Notable管理合伙人、联合创始人Hans Tung向TechCrunch表示，团队发现开发者使用Claude的比例约为**70%**，与前一年相比出现逆转；他认为开发者是人工智能的早期采用者，且关键任务仍会需要美国的闭源模型。GIC科技投资负责人Chris Emanuel称，F轮时Claude Code刚发布，但已能看出它在开发者中很受欢迎。Baillie Gifford美国成长投资负责人Lillian Li则表示，公司是在看到Anthropic持续执行其愿景、并拿出强劲收入和可观毛利率后才开始投资。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/a4149b601c24112c6bb74a2a6595481a20ab73b8.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+      "fulltext_status": "ok",
+      "read_minutes": 3
+    },
+    {
+      "id": "n77ab3d65a278",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "谷歌提出改进残差连接的深度交叉注意力方法",
+      "original_title": "Supercharging transformer residual connections",
+      "summary": "谷歌研究介绍DeepCrossAttention，用以改进Transformer残差连接。该方法让每层动态选用先前特征，在LM1B和C4上用更少训练步数达到常规模型的表现，也可为已有模型加装。",
+      "facts": [
+        {
+          "text": "谷歌在ICML 2025论文中提出DeepCrossAttention，让每一层动态选择并路由此前各层的特征，以改进Transformer残差连接。",
+          "source": "Google Research Blog",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该论文称，该方法在相近效果下可减少最多30%到40%的参数，并在LM1B上用30层达到常规42层模型的困惑度水平。",
+          "source": "Google Research Blog",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google Research Blog",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "is_primary": true,
+          "published_at": "2026-11-24T01:21:12+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T01:21:12+08:00",
+      "updated_at": "2026-11-24T01:21:12+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌提出改进残差连接的深度交叉注意力方法",
+      "lead_zh": "谷歌在ICML 2025论文中提出DeepCrossAttention，让各层动态选择历史特征，称在相近效果下可减少三到四成参数，也可给已训练模型加装。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌研究在ICML 2025论文《DeepCrossAttention: Supercharging Transformer Residual Connections》中提出深度交叉注意力（DCA），用以改进Transformer里把各层输出与输入逐点相加的残差连接。传统残差会同等对待先前表示，深层网络中较早的细节容易被稀释；DCA则让每一层动态选择并路由历史特征。",
+            "在LM1B和C4数据集上，DCA在相同参数和训练预算下比标准Transformer及LAUREL-PA、DenseFormer、Hyper-Connections等基线达到更低困惑度，并最多用约五分之一的训练步数追上常规模型。要在LM1B上达到低于**14**的困惑度，固定宽度的标准模型需要**42**层，DCA用**30**层即可，深度和参数约减少**29%**。"
+          ],
+          "sources": [
+            "Google Research Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "论文怎么说",
+          "paras": [
+            "据作者介绍，DCA新增参数不到模型总量的**0.2%**，还可初始化成与标准残差网络相同的行为，因而能给已预训练模型加装。短暂继续训练后，LM1B困惑度下降**0.19**，而常规继续训练只下降**0.02**。文章还提到，Thinking Machines的Inkling 2模型也采用了这一设计。"
+          ],
+          "sources": [
+            "Google Research Blog"
+          ]
+        }
+      ],
+      "image_url": "img/6ccd20d960105982a8a7beb784c3b97cc25223c5.jpg",
+      "image_source": "Google Research Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepCrossAttention1_Banner.gif",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nca38829e7312",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "艾伦研究所发布机器人操作点跟踪基准RoboTrack",
+      "original_title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "summary": "艾伦研究所发布RoboTrack：含307段人工标注视频的评测集，以及由MolmoSpaces生成、约1500万条轨迹的模拟训练数据。现成点跟踪器在真实操作场景中的表现明显低于既有基准。",
+      "facts": [
+        {
+          "text": "艾伦人工智能研究所发布RoboTrack，包含307段人工标注视频、共2522条点轨迹的评测集，以及由模拟环境生成的1500万条训练轨迹。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/allenai/robotrack"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该研究称，即便是现成最强跟踪器CoWTracker，分数也从RoboTAP上的70.5 AJ降到RoboTrack-Bench上的63.9。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/allenai/robotrack"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "is_primary": true,
+          "published_at": "2026-11-24T01:20:37+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T01:20:37+08:00",
+      "updated_at": "2026-11-24T01:20:37+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "艾伦研究所发布机器人操作点跟踪基准RoboTrack",
+      "lead_zh": "艾伦人工智能研究所推出面向真实机器人操作的点跟踪基准RoboTrack-Bench和含1500万条轨迹的模拟训练集RoboTrack-15M，现成跟踪器在真实操作视频上明显掉分。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "艾伦人工智能研究所推出面向真实机器人操作的点跟踪基准与训练数据套件RoboTrack。评测集RoboTrack-Bench含**307**段来自DROID、Ego-Exo4D、MolmoAct 2和EgoVerse的人工标注视频，共**2522**条经过核验的点轨迹，覆盖不同机器人与人手、杂乱场景以及第一、第三人称视角，其中**33**对为双机同步拍摄。",
+            "他们还扩展Ai2的模拟环境MolmoSpaces，生成RoboTrack-15M：来自**300**个模拟家庭的**3000**段视频，每段**5000**条轨迹，合计**1500万**条。研究评估了CoTracker3、BootsTAPNext、AllTracker和CoWTracker等现成跟踪器。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "研究怎么说",
+          "paras": [
+            "作者写道，现成跟踪器在真实操作视频上的分数会下降**3.0**到**6.6** AJ。即便是最强的CoWTracker，也从RoboTAP上的**70.5** AJ降到RoboTrack-Bench上的**63.9**。他们还推出在该模拟数据上微调的RoboTracker和RoboTracker-Warp，称把这批数据加入训练可提升真实操作视频上的表现。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/ecdf9419b48550e707f8d0ae2cb3b62a590ca5cb.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6fd4c32fe34a",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "Hugging Face指南：如何建设并维护智能体评测",
+      "original_title": "How to build and maintain an agentic evaluation",
+      "summary": "Hugging Face撰文说明如何建设、维护和开放智能体评测。文章回顾评测从核对答案到检查智能体行为的变化，并提到平台约有3500个排行榜、评测数据集约1.7万个。",
+      "facts": [
+        {
+          "text": "Hugging Face发文介绍如何建设并维护智能体评测，并称平台约有3500个评测排行榜，过去一年评测数据集增至约1.7万个。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/agentic-evals"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据文章称，98.2%的模型基准分数只由单方报告；Artificial Analysis的Intelligence Index v5约60%依赖不公开测试集或留出答案的评测。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/agentic-evals"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/agentic-evals",
+          "is_primary": true,
+          "published_at": "2026-11-23T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T08:00:00+08:00",
+      "updated_at": "2026-11-23T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Hugging Face指南：如何建设并维护智能体评测",
+      "lead_zh": "Hugging Face发文介绍智能体评测的步骤与常见错误，并称平台约有3500个评测排行榜，过去一年评测数据集增至约1.7万个，增长约16倍。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Hugging Face发表指南，讨论如何建设、维护并有策略地开放智能体评测。文章把评测分成核对答案、检查单个智能体做了什么、以及检查智能体团队产出三个阶段，并走完从命题到报告分数的八个步骤。平台目前约有**3500**个评测排行榜，过去一年评测数据集增至约**1.7万**个，增长约**16倍**，近期还加入了Traces、Benchmarks和Environments等面向智能体的机制。",
+            "指南还提醒任务和打分器出错很常见，并以一次改写后的实验为例：用Terminus-2和开源模型gpt-oss-120b，在原始任务上**3**次尝试全部失败，调整后**24**次中有**11**次通过，多数失败来自过早结束或缺少软件包。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "文章怎么说",
+          "paras": [
+            "文章称，决策者、企业和研究者需要可核验的评测，但今天**98.2%**的模型基准分数只由单方报告。Artificial Analysis表示，其**2026年10月**公布的Intelligence Index v5中，约**60%**依赖不公开测试集或留出答案的评测。作者主张尽可能开放任务、环境和过程，同时保护需要保密的部分。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/541285c574bb31858f8283cca16e9c983f733130.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n012a59ac5286",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "特朗普推动黄仁勋重返英伟达，相关调查仍在继续",
+      "original_title": "Trump engineered a risky comeback for Jensen Huang",
+      "summary": "英伟达董事会在接受黄仁勋辞职后不到两周，又一致投票恢复其首席执行官、总裁和董事职务。报道称特朗普政府在幕后推动这次回归，但他仍面临国会听证和其他调查。调查仍在继续。",
+      "facts": [
+        {
+          "text": "英伟达董事会在接受黄仁勋辞职后不到两周，又一致投票恢复其首席执行官、总裁和董事职务，报道称特朗普政府在幕后推动这次回归。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据特朗普在CNBC上称，“东山再起没什么不对。”他早前曾在电台节目中说黄仁勋会重新站起来，并提过蒂姆·库克或可接任。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+          "is_primary": false,
+          "published_at": "2026-11-24T06:25:12+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T06:25:12+08:00",
+      "updated_at": "2026-11-24T06:25:12+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "特朗普推动黄仁勋重返英伟达，相关调查仍在继续",
+      "lead_zh": "在英伟达董事会接受黄仁勋辞职后不久，特朗普政府转而为其回归铺路，董事会随后一致投票恢复其首席执行官、总裁和董事职务，但多项调查仍未结束。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "在英伟达董事会接受黄仁勋因婚外关系报道而辞职后，特朗普起初似乎接受了这一变化。他在斯蒂芬·A·史密斯的电台节目中说，黄仁勋会“重新站起来”，并提到“谁都可以被替换”，还把苹果前首席执行官蒂姆·库克列为可能的人选。随后他的态度转软，政府也在幕后为黄仁勋回归铺路。董事会在公开表示关上门后不到一周，又一致投票恢复其首席执行官、总裁和董事职务。",
+            "消息令分析师和投资者普遍感到意外，尤其是在董事会刚于财报会上向股东保证不打算让他回来之后。他仍定于**12月1日**出席国会相关安排。约克维尔·艾夫斯的分析师在周一的报告中，把有他时的目标价看作**300美元**，没有他时则为**225美元**。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据特朗普在一次庆祝意味的CNBC连线中称，“东山再起没什么不对。”他随后还在Truth Social上发布合成图片。报道认为，调查和听证仍在前面，这次回归并没有结束相关风险。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/b873cb1e7a473fa69b86b9b59fff3e23c83b50b2.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0%2C12.22929670334%2C100%2C75.541406593319&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n537965d7de45",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "The Verge评论：黄仁勋回归体现“精英免责”",
+      "original_title": "Welcome to elite impunity, Jensen Huang",
+      "summary": "The Verge评论文章指出，黄仁勋在11月12日辞职、17日董事会仍称不打算恢复其职务之后，于23日重返英伟达，认为这体现了权贵可以凌驾于规则之上的免责逻辑。",
+      "facts": [
+        {
+          "text": "黄仁勋于11月12日辞职，17日董事会主席仍称不打算恢复其职务，23日他又重返英伟达。评论还梳理了Megaspeed与出口管制调查的时间线。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
+        }
+      ],
+      "claims": [],
+      "analysis": [
+        {
+          "text": "The Verge评论认为，总统强势介入一家美国大公司人事，以及科技界为之欢呼，体现的是权贵免责，而不是自由市场。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+          "is_primary": false,
+          "published_at": "2026-11-24T06:09:26+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T06:09:26+08:00",
+      "updated_at": "2026-11-24T06:21:36+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "The Verge评论：黄仁勋回归体现“精英免责”",
+      "lead_zh": "The Verge评论认为，黄仁勋在董事会公开表态不会恢复其职务后迅速回归，反映的是政治干预和科技权贵的免责，而不是自由市场的结果。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "这篇The Verge评论文章从一组日期写起：黄仁勋于**11月12日**辞职，**11月17日**英伟达财报会上董事会主席仍称公司“不打算恢复其首席执行官职务”，**11月23日**他又回到了公司。文章并梳理相关时间线：名为Alice Huang的中国公民在**2023年**收购了后来改名Megaspeed的新加坡数据公司；**2024**至**2025年**该公司收到超过**200**批英伟达货物；**2025年9月**美国开始调查其是否违反芯片出口管制，同年10月国务院向特朗普通报了这段婚外关系。",
+            "评论还提到，特朗普曾在黄仁勋回归后发布把两人形象叠在一起的修改图片，副总统万斯也被指推动了这一结果。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "评论怎么看",
+          "paras": [
+            "评论作者认为，美国总统强势介入一家大公司的人事决定，而硅谷对此表示欢迎，这更像命令式经济的信号，而不是他们常说的自由市场。文章把此事与“精英可以免于问责”的政治逻辑联系起来，并认为科技权贵的实际信念是让自己保持富有并凌驾于法律之上。这是媒体评论，不是独立核实后的结论。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/4097f80922f45fdd038f6f45a129b9897f7b8809.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n43b498f2b7e3",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic推出Claude Ship，可审改并自动批准代码",
+      "original_title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "Anthropic发布Claude Ship，在已有代码审查之外，增加可按团队策略自动批准常规代码改动的智能体，并称目标是让拉取请求之后的流程也跟上模型写代码的速度。",
+      "facts": [
+        {
+          "text": "Anthropic周一发布Claude Ship，把代码审查、修复和按团队策略自动批准常规改动交给智能体。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该公司博客称，Claude Code团队里大部分代码已由Claude编写，他们希望拉取请求之后的流程也能同样快。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "is_primary": false,
+          "published_at": "2026-11-24T06:05:50+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T06:05:50+08:00",
+      "updated_at": "2026-11-24T06:05:50+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Anthropic推出Claude Ship，可审改并自动批准代码",
+      "lead_zh": "这家新上市的人工智能公司周一发布Claude Ship，把代码审查、修复和按团队策略自动批准常规改动交给智能体，以疏解生成代码后的审核瓶颈。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "这家新上市的人工智能公司Anthropic周一发布Claude Ship，把代码审查、修复以及对常规改动的批准交给智能体处理。与既有的代码审查功能相比，其更引人注意的一点是：可以按开发团队设定的策略，由智能体自动批准代码变更，以疏解模型大量生成代码后的审核瓶颈。该产品先以测试版开放，供早期用户审阅拉取请求并判断哪些可以合并。",
+            "TechCrunch写道，代码审查功能此前已经存在，新套件的重点是把批准权也交给按策略行事的智能体，从而覆盖从发现问题到合并的更多环节。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Anthropic博客介绍，“多数团队希望每项改动都由人来批准，这在每行代码都由人编写时还跟得上；但现在很多开发者已经与智能体一起构建。在Claude Code团队里，大部分代码由Claude编写，我们希望拉取请求之后的流程也能同样快。”"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/7a4ffd5646d5f3d67508f67804ef0c6098610f93.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n388f4aa5f277",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "Supertake获2000万美元，用智能体把判断做成投资组合",
+      "original_title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Supertake完成2000万美元种子轮融资，由Adjacent领投，Coinbase Ventures和Union Square Ventures参与。该公司让用户把对市场的判断交给交易智能体，自动生成投资组合。",
+      "facts": [
+        {
+          "text": "投资创业公司Supertake完成2000万美元种子轮，由Adjacent领投，Coinbase Ventures和Union Square Ventures参与。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "is_primary": false,
+          "published_at": "2026-11-24T06:02:05+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T06:02:05+08:00",
+      "updated_at": "2026-11-24T06:02:05+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Supertake获2000万美元，用智能体把判断做成投资组合",
+      "lead_zh": "投资创业公司Supertake完成2000万美元种子轮融资，用户可以把对市场的判断交给模型，自动生成真实的股票投资组合。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "投资创业公司Supertake完成**2000万美元**种子轮融资，由Adjacent（Nico Wittenborn）领投，Coinbase Ventures和Union Square Ventures参与，另有包括Nat Friedman、Vercel首席执行官吉尔莫·劳奇等人在内的天使投资人跟投。该公司的产品让用户把对市场的判断交给前沿模型和交易智能体，生成真实的股票投资组合，而不必自己选股。",
+            "这轮融资之前还有**200万美元**的预种子轮。Michael Mignano最初在Union Square Ventures孵化了这家公司，他是播客平台Anchor的联合创始人兼前首席执行官，该平台在**2019年**被Spotify以超过**1.5亿美元**收购。公司计划用新资金扩充工程、设计与增长等团队。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/e726bca6dc72b2dc91d65bb7dde9c1275d3bfe88.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nb7175444dd03",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "马斯克等人庆祝黄仁勋重返英伟达",
+      "original_title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "summary": "马斯克等科技业负责人庆祝黄仁勋重返英伟达。马斯克写道“错误已经纠正”，并曾把撤换他比作在连胜时把迈克尔·乔丹踢出球队。黄仁勋仍将在12月出席国会听证。日期定在12月。",
+      "facts": [
+        {
+          "text": "黄仁勋周一恢复英伟达首席执行官和总裁职务后，马斯克、阿尔特曼和蒂姆·斯威尼等人公开表态祝贺。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据马斯克称，“错误已经纠正。”他上周还在DealBook峰会上把撤换黄仁勋比作在连胜时把迈克尔·乔丹踢出球队。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+          "is_primary": false,
+          "published_at": "2026-11-24T05:47:41+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T05:47:41+08:00",
+      "updated_at": "2026-11-24T05:47:41+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "马斯克等人庆祝黄仁勋重返英伟达",
+      "lead_zh": "黄仁勋周一恢复英伟达首席执行官和总裁职务后，马斯克在X上写道“错误已经纠正”，阿尔特曼则只回了一个“Jensen！”，他仍定于12月出席国会听证。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "黄仁勋周一上午被恢复为英伟达首席执行官和总裁后，包括马斯克在内的部分科技业负责人公开表示祝贺。超过**20万人**曾在公开信上签名支持他回归，Epic Games首席执行官蒂姆·斯威尼也是签名者之一。黄仁勋仍计划于**12月3日**出席参议院银行委员会公开听证，并于**12月1日**与三家众议院委员会闭门会面。",
+            "在此之前，马斯克是为他公开鼓呼最力的科技领袖之一；OpenAI首席执行官萨姆·阿尔特曼上周则相对克制，只说“很难想象没有黄仁勋的人工智能行业”。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他们怎么说",
+          "paras": [
+            "据马斯克在X上就此事写道：“错误已经纠正。”他上周在DealBook峰会上还说，让黄仁勋离开“就像在连胜时把迈克尔·乔丹踢出球队，对股东来说不是好事”。宣布回归后，阿尔特曼只发了一个“Jensen！”斯威尼则写道，他的回归将展示美国面对企业、政治和新闻失误时的韧性。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/dedef4bf0159a06d72b0fa8c508506eb064e074b.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n7bdc82557174",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "风波中的Megaspeed或将被列入美国实体清单",
+      "original_title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "summary": "报道称，由Alice Huang曾执掌两年多的新加坡云与人工智能基础设施公司Megaspeed将被列入美国商务部实体清单，以限制其获取美国芯片。该公司否认存在不当行为。",
+      "facts": [
+        {
+          "text": "Semafor周一报道，Alice Huang曾执掌两年多的新加坡公司Megaspeed将被列入美国商务部实体清单。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据知情人士称，此举旨在阻止该公司获取美国制造的半导体。Megaspeed否认有不当行为。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+          "is_primary": false,
+          "published_at": "2026-11-24T05:25:42+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T05:25:42+08:00",
+      "updated_at": "2026-11-24T05:25:42+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "风波中的Megaspeed或将被列入美国实体清单",
+      "lead_zh": "Semafor援引知情人士报道，Alice Huang曾执掌逾两年的新加坡企业Megaspeed将被列入美国商务部实体清单，美国公司须获许可才能与其交易。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch援引Semafor周一报道称，Alice Huang曾执掌两年多的新加坡云与人工智能基础设施公司Megaspeed将被列入美国商务部实体清单。列入后，美国公司须先获得联邦政府特别许可，才能与其做生意或向其销售产品。上周商务部还宣布对该公司启动刑事调查，美国和新加坡当局正在审查其是否违反出口管制、向中国走私英伟达芯片。",
+            "报道称，在黄仁勋自承与Alice Huang有婚外关系的那段时间，Megaspeed曾是英伟达最大的芯片客户之一。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据知情人士向Semafor表示，此举旨在阻止该公司“获取美国制造的半导体”。Megaspeed否认存在不当行为。实体清单用于限制被认定可能威胁美国国家安全或公民的外国实体获取敏感技术。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/f864e8fab7665492afc6802c7bf773997cb69559.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n2dac6f709f49",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "人工智能数据中心用电冲击联合国气候谈判",
+      "original_title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "summary": "联合国气候大会COP31周日在土耳其安塔利亚落下帷幕。会议曾希望把电力占全球能源消费的比重在2035年提高到约35%，但人工智能数据中心推高电力需求，使谈判更加棘手。",
+      "facts": [
+        {
+          "text": "联合国气候大会COP31周日在土耳其安塔利亚结束，会议曾希望把电力占全球能源消费的比重在2035年提高到35%，约高于目前的20%。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据The Verge称，一位人士表示每位气候部长都在思考数据中心用电问题，它必然会进入更广泛的能源转型讨论。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+          "is_primary": false,
+          "published_at": "2026-11-24T05:09:37+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T05:09:37+08:00",
+      "updated_at": "2026-11-24T05:09:37+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "人工智能数据中心用电冲击联合国气候谈判",
+      "lead_zh": "在土耳其安塔利亚结束的联合国气候大会COP31上，代表讨论把电力在全球能源消费中的占比在2035年提高到35%，但迅猛增长的数据中心用电让这一目标更难实现。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "联合国气候大会COP31周日在土耳其安塔利亚落下帷幕，被报道称为一场混乱且不能令人满意的收官。与会代表仍试图落实**2015年**《巴黎协定》承诺。今年最受期待的成果之一，是把电力在全球能源消费中的占比在**2035年**提高到**35%**，目前约为**20%**，以便用风电和太阳能替代油和气。",
+            "与此同时，高耗电的人工智能数据中心正在推高电力需求，使电气化目标更难实现。文章写道，数据中心用电也因此成为本轮谈判中与化石能源转型并列的气候议题。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "报道援引一位对谈判表态的人士称，“世界上每一位气候部长都在思考这件事，它必然会进入讨论，这是更广泛能源转型的一部分。”文章指出，清洁能源转型依赖于让全球经济电气化，而用电激增正发生在同一时刻。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/54d9f718dc200957404004c794d0b876f617260a.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0%2C10.750882913364%2C100%2C78.498234173273&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nfe9a774fba4e",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "OpenAI将GPT-6.2 Sol设为ChatGPT默认对话模型",
+      "original_title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+      "summary": "OpenAI开始向Plus、Pro、商业和企业用户推送对话版GPT-6.2 Sol。公司称该模型在图像理解、网页检索和安全策略遵循上优于GPT-6，企业管理员可决定是否开放。",
+      "facts": [
+        {
+          "text": "OpenAI正在全球把ChatGPT对话页的默认模型换成GPT-6.2 Sol，面向Plus、Pro、商业和企业用户，工作与Codex模型暂不更改。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据OpenAI称，内部测试中图像理解从47.4%升至71.7%，困难指令遵循从62.5%升至78.1%，安全策略遵循从77%至80%升至91%至94%。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+          "is_primary": false,
+          "published_at": "2026-11-24T04:39:18+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T04:39:18+08:00",
+      "updated_at": "2026-11-24T04:39:18+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "OpenAI将GPT-6.2 Sol设为ChatGPT默认对话模型",
+      "lead_zh": "OpenAI正在全球把对话页默认模型换为GPT-6.2 Sol，称内部测试中图像理解从47.4%升至71.7%，困难指令遵循从62.5%升至78.1%，工作与Codex模型暂不变。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "OpenAI正在全球把ChatGPT对话页的默认模型换成经过对话调优的GPT-6.2 Sol，现已向Plus、Pro、商业和企业用户开放。工作模式和Codex模型维持不变，企业管理员可决定是否向用户开放GPT-6.2。The Decoder报道称，公司认为新模型比GPT-6更善于处理复杂请求和网页检索，也会提出更相关的追问。",
+            "这些数字只适用于ChatGPT的对话模式。在内部专家级任务基准上，GPT-6.2在四个推理档位都超过GPT-6，分数约在**65%**到略高于**71%**，GPT-6约为**52%**到**66%**；在内部版BrowseComp网页检索测试中，它在各档领先，最高档大约高出**10**个百分点。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据OpenAI介绍，内部测试中图像理解从**47.4%**升至**71.7%**，困难指令遵循从**62.5%**升至**78.1%**。系统卡显示，该模型在困难对话中遵循安全策略的比例为**91%**到**94%**，高于GPT-6的**77%**到**80%**，提升最大的是青少年安全相关议题，包括情感依赖、饮食障碍和危险活动。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/0ac5a78587b81b8b9d18fe8dd3688a4abe9a904f.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/openai_chatgpt_pattern.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n1457613dc9f1",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "黄仁勋重返总部，称会做更好的第二次首席执行官",
+      "original_title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "summary": "黄仁勋周一返回英伟达总部，在数百名鼓掌员工面前说“谢谢你们给的第二次机会”，并表示会在第二次担任首席执行官时做得更好。超过20万人曾联名支持他回归。现场有员工高喊他的名字。",
+      "facts": [
+        {
+          "text": "黄仁勋周一回到英伟达办公室，在数百名鼓掌员工面前感谢第二次机会，并说会在第二次担任首席执行官时做得更好。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据黄仁勋称，“谢谢你们给的第二次机会。我会在第二次担任首席执行官时做得更好。”",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+          "is_primary": false,
+          "published_at": "2026-11-24T04:38:53+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T04:38:53+08:00",
+      "updated_at": "2026-11-24T04:38:53+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "黄仁勋重返总部，称会做更好的第二次首席执行官",
+      "lead_zh": "黄仁勋周一回到英伟达办公室，在数百名鼓掌员工面前表示感谢第二次机会，并说“我会在第二次担任首席执行官时做得更好”。超过20万人曾联名支持他回归。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "黄仁勋周一回到英伟达办公楼，网上流传的多段视频显示，现场有数百名员工鼓掌，并高喊他的名字。他在本月早些时候因多段婚外关系辞职，其中一段涉及一名被指为中国间谍的女子，另外两段涉及英伟达员工；在科技界声援和特朗普介入后，他又被恢复为首席执行官。",
+            "超过**20万人**签署公开信支持他回归，其中约**1万**人自称是现任英伟达员工。马斯克上周在DealBook峰会上曾把撤换他比作在连胜时把迈克尔·乔丹踢出球队。与此同时，《纽约时报》根据数十年法庭记录和十余人访谈报道，有人认为他会把羞辱当作管理手段。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他怎么说",
+          "paras": [
+            "据黄仁勋对现场员工称：“谢谢你们给的第二次机会。我会在第二次担任首席执行官时做得更好。”报道同时提醒，在欢呼之外，也有关于其管理风格的另一面描述正在流传。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/61f2570a414ae5926ba261126e402b2ed05d6ee9.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n9d5c4f64f5c7",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "Claude新增智能体，可审阅修复并批准拉取请求",
+      "original_title": "Claude AI can review pull requests and ship fixes on its own now",
+      "summary": "Anthropic推出Claude Ship。代码审查已于10月正式开放，新的PR Steward和Claude Approvals进入测试，可处理持续集成失败和合并冲突，并按团队策略批准常规改动。",
+      "facts": [
+        {
+          "text": "Anthropic发布Claude Ship：代码审查已于10月正式开放，新的PR Steward和Claude Approvals进入测试，面向Team和Enterprise用户并支持GitHub仓库。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Anthropic称，PR Steward会介入失败的持续集成检查、合并冲突和审查意见并说明改动；Claude Approvals可在组织策略允许时批准常规改动。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+          "is_primary": false,
+          "published_at": "2026-11-24T04:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T04:00:00+08:00",
+      "updated_at": "2026-11-24T04:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Claude新增智能体，可审阅修复并批准拉取请求",
+      "lead_zh": "Anthropic发布Claude Ship，已有代码审查功能继续可用，并新增可处理检查失败与合并冲突、以及按策略批准常规改动的测试版智能体。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Anthropic推出Claude Ship，让Claude审阅、修复并在符合策略时批准拉取请求。代码审查功能于今年3月宣布，**10月**正式开放；与Claude Ship一同新增的是进入测试的PR Steward和Claude Approvals。该产品面向Claude Team和Enterprise客户，并支持GitHub上的代码仓库。",
+            "新智能体的目标是减少模型大量写代码之后，人工处理检查失败、冲突和批准所形成的瓶颈，把拉取请求之后的步骤也加速。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Anthropic介绍，PR Steward会在持续集成检查失败、出现合并冲突，或收到代码审查、其他工具及同事的反馈时介入，并就自己改了什么留下评论。Claude Approvals则可在组织策略允许时批准常规改动，决策时可参考代码审查结论，或团队用自然语言定义的分类器。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/3af6ebd1662ca2892753751a123b1b036adb626a.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n0908ebe9dc86",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "黄仁勋如何在辞职后不到两周重返首席执行官",
+      "original_title": "How Jensen Huang ended up as Nvidia CEO again",
+      "summary": "The Verge回顾黄仁勋的回归路径：他在11月12日辞职，董事会主席随后公开表示不打算恢复其职务，但包括特朗普在内的盟友随即展开施压，使他很快重返英伟达。公司股价随即大涨。",
+      "facts": [
+        {
+          "text": "黄仁勋于11月12日辞职，董事会主席哈维·琼斯随后在财报会上称不打算恢复其职务，但在包括特朗普在内的盟友施压下，他很快重返英伟达。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据黄仁勋称，他对妻子不忠，并“给董事会制造了麻烦”。琼斯曾表示董事会一致接受辞职且不打算让他回来。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+          "is_primary": false,
+          "published_at": "2026-11-24T03:57:18+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T03:57:18+08:00",
+      "updated_at": "2026-11-24T04:38:44+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "黄仁勋如何在辞职后不到两周重返首席执行官",
+      "lead_zh": "黄仁勋11月12日因婚外关系等风波辞职后，董事会主席琼斯曾公开称不打算恢复其职务，但在包括特朗普在内的盟友施压下，他很快重返自己创办的公司。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge回顾了黄仁勋如何在不到两周内重返英伟达。他在约三十年前参与创办这家如今被视为人工智能领域最重要的公司之一，并在**11月12日**辞去担任了三十多年的职务。辞职前，相关报道从与涉嫌向中国传递情报的女子关系，延伸到Alice Huang及Megaspeed是否涉及芯片走私，以及他与英伟达医疗健康副总裁金伯利·鲍威尔的婚外关系。",
+            "当时这一决定看起来已经定局。董事会主席哈维·琼斯上周在财报会上说，董事会一致接受辞职，并且不打算恢复其职务。但随后他的盟友——包括特朗普——展开施压，公司股价也在回归消息后大幅上扬。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据黄仁勋称，他对妻子“不忠”，并“给董事会制造了麻烦”。琼斯则在财报会上明确表示，董事会不打算让他回来。这篇文章写的是随后这场压力行动如何改变了结局。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/b602fd431941d9e7defebee9a4744ab8e546c324.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0%2C11.076427579259%2C100%2C77.847144841482&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n588f7b0a1e0d",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "谷歌搜索AI模式可将云端硬盘和钱包纳入个性化回答",
+      "original_title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary": "谷歌周一扩大搜索AI模式的个性化功能，新增可选的云端硬盘、钱包和Gemini应用接入，与已支持的Gmail、日历和相册并列。公司强调钱包接入后只能读取账户信息，不能动用资金。",
+      "facts": [
+        {
+          "text": "谷歌周一宣布，搜索AI模式的Personal Intelligence将可选接入云端硬盘、钱包和Gemini应用，与已支持的Gmail、日历和相册一起使用。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据谷歌称，接入钱包后AI模式只能读取账户信息，不能转移或管理用户资金；接入云端硬盘则可综合分散文档给出例如报税准备计划。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "is_primary": false,
+          "published_at": "2026-11-24T03:14:46+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T03:14:46+08:00",
+      "updated_at": "2026-11-24T03:14:46+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌搜索AI模式可将云端硬盘和钱包纳入个性化回答",
+      "lead_zh": "谷歌周一宣布，搜索AI模式的Personal Intelligence将可选接入云端硬盘、钱包和Gemini应用，与已支持的Gmail、日历和相册一起提供更贴合个人情境的回答。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌周一宣布，扩大搜索AI模式中Personal Intelligence的应用接入范围，新增Google云端硬盘、Google钱包和Gemini应用，与已经可以连接的Gmail、日历和Google相册一起，为回答提供来自用户数字生活的上下文。连接这些应用是可选项，用户可随时开关该功能。",
+            "TechCrunch写道，由于用户已经深度使用这些服务，谷歌可以把生态内已有数据用于更个性化的搜索体验，而这是许多竞争对手难以复制的。当然，并非所有人都希望人工智能查看自己的钱包和网盘。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据谷歌介绍，接入钱包后可用于追踪财务目标、削减日常开支，并更好地使用信用卡奖励；若选择连接，AI模式只能读取账户信息，不能转移或管理资金。接入云端硬盘后，系统可综合分散在文档和表格中的材料，例如生成一份更贴合个人情况的报税准备计划。未来还可在Gemini应用与搜索AI模式之间共享上下文。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/6671ca611f1694c2f947e62e968f6b39ae0b2fb7.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n932119e2ecf9",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Nothing将推可录音转写的Ear Note耳机",
+      "original_title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "summary": "Nothing即将推出Ear Note耳机，充电盒配有麦克风，可录音、转写并生成人工智能摘要，计划12月8日发布。佩伊称这是为人工智能提供硬件上下文的系列产品中的第一款。",
+      "facts": [
+        {
+          "text": "Nothing计划于12月8日发布Ear Note耳机，充电盒带麦克风，可录音、转写并生成摘要，价格尚未确定。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据首席执行官佩伊在X上称，这是为人工智能提供硬件上下文的系列产品中的第一款，选择改进人们已经佩戴和信任的设备，而不是再让用户多带一件新产品。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+          "is_primary": false,
+          "published_at": "2026-11-24T03:04:52+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T03:04:52+08:00",
+      "updated_at": "2026-11-24T03:04:52+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Nothing将推可录音转写的Ear Note耳机",
+      "lead_zh": "Nothing首席执行官佩伊向彭博展示即将推出的Ear Note耳机，充电盒带麦克风，可录音、转写并生成摘要，计划12月8日发布，价格尚未确定。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Nothing即将推出Ear Note耳机：充电盒配有麦克风，可录音、转写对话，并在配套应用中管理录音、转写和人工智能生成的摘要，功能类似苹果新手表特性和亚马逊Bee等可穿戴设备。首席执行官佩伊向彭博展示了这款产品，但表示**12月8日**计划发布前价格尚未确定。",
+            "报道还称，Nothing传闻中的人工智能手表和智能眼镜计划有所推迟，同时明年智能手机发布节奏会比**2026年**更密。用户也可像此前Ear 3那样，用充电盒上的“Talk”键给自己录音；Anker的Soundcore Liberty 5 Pro Max等产品也已能在盒内录音并生成摘要。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "佩伊在X上写道，这是“为人工智能搭建硬件上下文层的诸多产品中的第一款。我们没有要求你再带一件新产品，而是把你已经佩戴和信任的东西变得更智能。”彭博还称，这款耳机会支持与多种智能体互动，包括Nothing自研的较基础语音控制系统，以便用户来回对话。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/f062759af8265afd06933510bc6617cf3e82c66b.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ne4463fe276ea",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic的巨额算力需求促使xAI转向出租算力",
+      "original_title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+      "summary": "《纽约时报》报道，马斯克旗下xAI因盈利压力把算力出租给对手。Anthropic的合约约合每月31亿美元，谷歌约8亿美元，两份合约均可提前90天取消，xAI也在收缩部分自有项目。",
+      "facts": [
+        {
+          "text": "《纽约时报》报道，xAI自5月起向对手出租算力，Anthropic现为最大客户，合约约合每月31亿美元，谷歌约8亿美元，均可提前90天取消。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据马斯克称，Anthropic还希望租用更多算力。报道还称，他曾在群聊中改名为“因为竞争不过所以卖算力”。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+          "is_primary": false,
+          "published_at": "2026-11-24T02:47:53+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T02:47:53+08:00",
+      "updated_at": "2026-11-24T02:47:53+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Anthropic的巨额算力需求促使xAI转向出租算力",
+      "lead_zh": "《纽约时报》报道，xAI自5月起向对手出租算力，Anthropic现为最大客户，合约约合每月31亿美元，谷歌约8亿美元，两份合约均可提前90天取消。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder援引《纽约时报》报道称，Anthropic巨大的算力需求，与马斯克旗下xAI日益上升的盈利压力碰到一起。xAI自今年**5月**起向竞争对手出租算力，**6月**上市后创收压力进一步加大。Anthropic现为最大客户，合约约合每月**31亿美元**，谷歌约**8亿美元**，两份合约均可提前**90天**取消。知情人士称，xAI目前逾一半收入来自出租算力。",
+            "为满足Anthropic订单，xAI须在**10月**前完成新数据中心。公司也在收缩自有项目：主管Mike Nicolls**11月**告知员工，约**60人**的Grok Imagine图像与视频团队将被解散；人工智能头像项目已在**9月**关停。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据马斯克称，Anthropic还希望租用更多算力。报道称，他曾在**8月**的工程师群聊中强调“每块GPU的收入”，并因自家模型难以竞争而感到沮丧，甚至把内部群聊改名为“因为竞争不过所以卖算力”。OpenAI也因运力限制关停了Sora视频模型。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nafb5825ea1aa",
+      "category": "政策与安全",
+      "importance": 1,
+      "verified": false,
+      "title": "OpenAI发布困惑度指标，呼吁行业约定共同上限",
+      "original_title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+      "summary": "OpenAI首席科学家帕乔基撰文，首次公布GPT系列内部困惑度分数，直至尚未发布的下一代模型，并称许多能力会在特定阈值出现。他希望各实验室以此协调发展节奏。他认为安全需要共同尺度。",
+      "facts": [
+        {
+          "text": "OpenAI首席科学家帕乔基首次公布GPT系列内部困惑度分数，直至尚未发布的下一代模型，并主张以此作为行业共同尺度。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据帕乔基称，许多现代模型能力与特定困惑度阈值对应，例如GPT-3.5约在对数困惑度0.99时首次实现流畅对话。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+          "is_primary": false,
+          "published_at": "2026-11-24T02:42:38+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T02:42:38+08:00",
+      "updated_at": "2026-11-24T02:42:38+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "OpenAI发布困惑度指标，呼吁行业约定共同上限",
+      "lead_zh": "OpenAI首席科学家帕乔基首次公布GPT系列内部困惑度分数，直至尚未发布的下一代模型，并主张把该指标作为实验室比较与安全节奏的共同尺度。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "OpenAI首席科学家雅库布·帕乔基在博客中首次公布GPT系列的内部困惑度分数，范围直到尚未发布、位于GPT-6之后的模型，并主张把该指标作为实验室比较进展、协调安全节奏的共同尺度。困惑度越低，表示预训练基座对下一个词元的预测越准；困惑度约为**2**时，大致相当于在两个同样可能的选项之间选择。",
+            "OpenAI过去也曾公开这类分数，后来停止。帕乔基写道，重新公布是一种权衡：竞争对手会把OpenAI的位置看得更清楚，但他认为对共同安全标准的需要超过了这一缺点。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据帕乔基称，许多现代模型能力会相当整齐地落在特定困惑度阈值上，尽管事先并不清楚它们会在这些点出现。他用对数困惑度报告数字，分数仍是越低越好。按他的说法，GPT-3.5大约在**0.99**时首次实现流畅对话，为后续能力奠定了基础。他希望各方据此在关键节点上协调开发节奏。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/07cd1c7b3e856ed703ad0e3ef93e70106fdb6513.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ne63c50b367bc",
+      "category": "政策与安全",
+      "importance": 1,
+      "verified": false,
+      "title": "黄仁勋定于12月3日出席美国参议院听证会",
+      "original_title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "summary": "英伟达宣布恢复黄仁勋职务数小时后，参议院银行委员会网站显示他将于12月3日出席公开听证，并已定于12月1日与众议院外交事务、对中共特别委员会和情报委员会闭门会面。",
+      "facts": [
+        {
+          "text": "黄仁勋定于12月3日出席参议院银行委员会公开听证，并已安排在12月1日与三家众议院委员会闭门会面。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "is_primary": false,
+          "published_at": "2026-11-24T02:12:22+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T02:12:22+08:00",
+      "updated_at": "2026-11-24T02:12:22+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "黄仁勋定于12月3日出席美国参议院听证会",
+      "lead_zh": "英伟达宣布恢复黄仁勋职务数小时后，参议院银行委员会网站显示他将于12月3日出席公开听证，并已定于12月1日与三家众议院委员会闭门会面。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "就在英伟达宣布恢复黄仁勋首席执行官职务数小时后，参议院银行委员会网站显示，他将于**12月3日**出席公开听证。银行委员会管辖出口管制政策，目的是防止可用于人工智能的芯片等敏感技术落入外国政府和军方之手。这次公开听证此前已有两党议员要求他，就与涉嫌中国间谍的婚外关系以及芯片走私嫌疑作出说明。",
+            "在恢复职务之前，黄仁勋已同意于**12月1日**出席众议院外交事务委员会、对中共特别委员会和众议院情报委员会的会议。公开听证安排在他被董事会恢复职务之后数小时见诸委员会网站，两党议员此前已要求他就婚外关系及芯片走私嫌疑作证。他是在不到两周前因至少两段婚外关系（其中包括与一名被美国政府怀疑为中国间谍的女子）辞职，随后又被恢复职务的。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/dadce7808c7133e7c725e6b5563e279277e880df.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n5b1a69d858f9",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "黄仁勋回归后英伟达股价大涨，市值回升超万亿美元",
+      "original_title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "summary": "英伟达宣布恢复黄仁勋职务后，股价涨逾30%，市值回升超过1万亿美元。过去一个月公司市值曾蒸发约2.2万亿美元；董事会主席上周仍在财报会上表示不打算让他回来。白宫也被指介入此事。",
+      "facts": [
+        {
+          "text": "WIRED报道，英伟达宣布恢复黄仁勋职务后股价涨逾30%，市值回升超过1万亿美元；过去一个月市值曾蒸发约2.2万亿美元。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Semafor称，特朗普在宣布前数小时拨入这家上市公司的董事会会议，为被免职的首席执行官回归陈述理由。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+          "is_primary": false,
+          "published_at": "2026-11-24T01:52:56+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T01:52:56+08:00",
+      "updated_at": "2026-11-24T01:52:56+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "黄仁勋回归后英伟达股价大涨，市值回升超万亿美元",
+      "lead_zh": "WIRED报道，英伟达在宣布恢复黄仁勋职务后股价涨逾30%，市值回升超过1万亿美元；过去一个月公司市值曾蒸发约2.2万亿美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "英伟达宣布恢复黄仁勋的总裁、首席执行官和董事职务后，股价涨逾**30%**，市值回升超过**1万亿美元**，报道称其有望打破微软保持的单日市值涨幅纪录。过去一个月，随着相关报道持续发酵，公司市值约蒸发**2.2万亿美元**。黄仁勋于**11月12日**离开他参与创办的公司。",
+            "上周，董事会主席哈维·琼斯还在财报会上表示，董事会“不打算恢复黄仁勋的首席执行官职务”。WIRED此前还报道，董事会曾对其“不够坦诚”和“说谎”感到震惊。尽管如此，董事会仍在周一宣布请他回来，并有美国政府协助。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么说",
+          "paras": [
+            "据Semafor报道，就在宣布数小时前，特朗普拨入这家具有上市公司身份的英伟达董事会会议，为被免职的首席执行官回归陈述理由。文章写道，针对其行为的董事会调查结束时会怎样，以及多个政府机构和议员正在进行的调查，目前仍有许多问题没有答案。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/7633d0add9301030f2017749bd6e4305bf52dba5.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6b0467fb5f8e6c0d7b84afc9/master/pass/Business_Nvidia%20Is%20Worth%20$1%20Trillion%20More%20Than%20It%20Was%20Yesterday.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n1ee9f5994a81",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "哲学家质疑Anthropic把人工智能意识写入投资风险",
+      "original_title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "Anthropic在上市前把模型可能具有意识或感知能力列为投资风险，称应为其道德地位做准备。一篇评论文章引述知名哲学家的观点，对这一论证及其政策含义提出质疑。一项美国民意调查也被文章提及。",
+      "facts": [
+        {
+          "text": "Anthropic在上市前把模型可能具有意识或感知能力列为投资风险，称其会比其他公司更认真对待模型的道德地位。",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Anthropic称，今天的模型未必有意识，但随着能力提升，具备感知能力的可能性会增加，因此应为近未来的道德意义做准备。",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+        }
+      ],
+      "analysis": [
+        {
+          "text": "文章引述一位知名哲学家的质疑，认为Anthropic把意识可能性写入投资风险并据此可能采取更多限制，这一论证并不成立。",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "is_primary": false,
+          "published_at": "2026-11-24T01:36:08+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T01:36:08+08:00",
+      "updated_at": "2026-11-24T01:36:08+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "哲学家质疑Anthropic把人工智能意识写入投资风险",
+      "lead_zh": "《麻省理工科技评论》报道，Anthropic在上市前把模型可能具有意识或感知能力列为投资风险，但有知名哲学家并不接受这一论证及其政策含义。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "《麻省理工科技评论》在其人工智能通讯The Algorithm中报道，Anthropic在上周上市前，把人工智能可能具有意识或感知能力列为投资风险。公司写道，鉴于“我们对待模型感知与道德地位的方式”——也就是比其他公司更认真地看待这种可能性——它可能为了善待模型而采取比竞争对手更多的规则和限制。",
+            "这一想法并非全无社会基础：一项近期民调显示，**33%**的美国公众认为人工智能系统肯定或很可能最终会产生意识，**7%**认为已经有了。在**2020年**对**1092**名哲学家的调查中，**39%**认为未来一些人工智能系统将会有意识。"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Anthropic的逻辑，今天的模型未必有意识，虽然无法确定；随着能力提升，具备感知的可能性会上升，因此应为一套具有“道德重要性”的系统做准备，使它们免受伤害。公司方面还有一批受尊敬的哲学家作为同路人。"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "评论怎么看",
+          "paras": [
+            "但文章写到，上周有一位“传奇哲学家”并不接受Anthropic的意识论证。评论认为，把这种可能性写进招股风险并作为额外限制的理由，并没有得到令人信服的证明。具体反驳来自该哲学家的观点，属于媒体转述的学术争议。"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ]
+        }
+      ],
+      "image_url": "img/600f0466f27b495ddf4106f9b582678b2abf15e0.jpg",
+      "image_source": "MIT Technology Review",
+      "image_origin_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf955d48edeaa",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "亚马逊75亿美元收购Decart优化技术，为出售自研芯片铺路",
+      "original_title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "据彭博报道，亚马逊同意以75亿美元收购以色列公司Decart的优化技术与创始团队。Decart以实时世界模型和视频生成著称，其软件可提高模型在英伟达、亚马逊和谷歌硬件上的运行效率。",
+      "facts": [
+        {
+          "text": "据彭博报道，亚马逊同意以75亿美元收购以色列创业公司Decart的优化技术与创始团队，为对外销售Trainium芯片做准备。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据亚马逊基础模型与定制芯片高级副总裁彼得·德桑蒂斯称，每块芯片发挥更大效率，才能带来更好的训练、强化学习和更低成本的推理。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "is_primary": false,
+          "published_at": "2026-11-24T01:14:23+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T01:14:23+08:00",
+      "updated_at": "2026-11-24T01:14:23+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "亚马逊75亿美元收购Decart优化技术，为出售自研芯片铺路",
+      "lead_zh": "彭博报道，亚马逊同意以75亿美元收购以色列创业公司Decart的优化技术与创始团队，以便在对外销售Trainium芯片时提高模型运行效率。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "亚马逊同意收购以色列创业公司Decart的相当一部分业务。据彭博报道，交易金额为**75亿美元**。Decart以交互式实时世界模型（最近的Oasis 3）和人工智能视频生成工具为人所知，其核心是名为Decart Optimization Stack（DOS）的软件，可帮助模型更高效地运行在英伟达、亚马逊和谷歌的硬件上。",
+            "根据亚马逊博客，公司将收购DOS背后的技术，以及创始团队和一批人工智能研究人员与工程师。亚马逊此前主要在自有数据中心使用Trainium芯片，现正准备对外销售，以挑战英伟达。Decart与亚马逊均未立即回应置评请求。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据亚马逊负责基础模型、定制芯片和量子计算的高级副总裁彼得·德桑蒂斯称，“人工智能的每一次跃迁，都始于从每块芯片中拿出更多东西。更高效的计算意味着更好的训练、更好的强化学习、更快的推理，以及以更低成本为客户提供更好的模型。”报道认为，这项技术可能让客户更容易把工作负载放到亚马逊芯片而非英伟达芯片上。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/f727bbb31961cb657f87723d0cf2f7db56ffb3e4.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n4fee0c0f2148",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "评论：黄仁勋回归并未结束芯片与安全疑问",
+      "original_title": "Jensen Huang isn’t out of the woods yet",
+      "summary": "一篇评论文章提醒，黄仁勋重返英伟达并不意味着风波结束。文章指出，关于受限芯片如何流入中国、公司知情多少，以及总统高调介入可能带来的副作用，疑问仍然存在。纳斯达克当日大涨。",
+      "facts": [
+        {
+          "text": "黄仁勋周一重返英伟达首席执行官岗位后，股价和相关云计算公司随之大涨，纳斯达克上涨7%。评论文章提醒调查和芯片流向问题并未结束。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
+        }
+      ],
+      "claims": [],
+      "analysis": [
+        {
+          "text": "TechCrunch评论认为，市场狂欢不应掩盖芯片如何流入中国、公司知情程度，以及总统高调介入可能带来的新风险。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+          "is_primary": false,
+          "published_at": "2026-11-24T00:57:40+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T00:57:40+08:00",
+      "updated_at": "2026-11-24T00:57:40+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "评论：黄仁勋回归并未结束芯片与安全疑问",
+      "lead_zh": "TechCrunch评论认为，市场为黄仁勋回归欢呼，但英伟达芯片如何流入中国、公司知情程度以及特朗普高调介入，都可能带来新的风险。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "黄仁勋周一重返英伟达首席执行官岗位，距离他因多段婚外关系辞职并不久。消息传来，市场情绪高涨：不仅英伟达股价回升，CoreWeave、Nebius等所谓“新云”公司也大涨，纳斯达克上涨**7%**。特朗普已对记者表示，美国政府未发现这段关系构成国家安全问题。",
+            "就在周末，《纽约时报》还报道，Alice Huang在与黄仁勋交往的同一时期，与中国国家安全部一名人员保持了持续接触。对她的公司如何把受限芯片送入中国、英伟达又知情多少，调查仍在进行。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "评论怎么看",
+          "paras": [
+            "评论认为，这不是风波的终点，更像是新问题的开始。作者写道，为黄仁勋辩护的人常质疑Alice Huang是否真是间谍，但大量受限芯片经其公司流入中国是更难回避的事实；总统高调介入，也可能给英伟达及其伙伴带来副作用。随着民主党掌握更多审视空间，相关追问料将继续。这是评论判断，不是已证实的结论。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/89898000348029c9a4340d0b79dfe6bf7c79829f.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n5dc55a044437",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "报道称特朗普曾拨入英伟达董事会会议力主回归",
+      "original_title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "summary": "Semafor报道称，特朗普在英伟达宣布决定前曾拨入董事会会议，推动恢复黄仁勋的职务，并在事后对CNBC表示“我说服了他们”。白宫通讯主任也说总统全程参与。他随后还在Truth Social发文。",
+      "facts": [
+        {
+          "text": "Semafor报道，特朗普在英伟达宣布恢复黄仁勋职务前，曾拨入董事会会议并推动这一决定。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据特朗普对CNBC称，“我跟他们谈了，这么说吧……而且我说服了他们。”白宫通讯主任也表示总统全程参与。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+          "is_primary": false,
+          "published_at": "2026-11-24T00:39:10+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T00:39:10+08:00",
+      "updated_at": "2026-11-24T00:39:10+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报道称特朗普曾拨入英伟达董事会会议力主回归",
+      "lead_zh": "Semafor报道，特朗普在英伟达宣布决定前拨入董事会会议，力主恢复黄仁勋职务。他事后对CNBC说：“我说服了他们。”",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Semafor周一报道，特朗普在英伟达宣布决定前拨入董事会会议，推动恢复已去职的创始人黄仁勋的职务，随后公司宣布了这一结果。黄仁勋担任该职务**33年**，本月因与一名被指为中国间谍的女子以及两名英伟达员工（其中一人是直接下属）的婚外关系而辞职。",
+            "英伟达新闻稿写道，董事会“收到美国政府高层的意见，并据此相信恢复黄仁勋职务不构成国家安全风险”。总统还在Truth Social发文称，美国政府没有理由认为他的回归会带来国家安全风险。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据特朗普对CNBC称：“我跟他们谈了，这么说吧……而且我说服了他们。”白宫通讯主任张振熙对Semafor表示，“总统全程参与，这是英伟达董事会的正确决定。我们必须保护我们的天才。”"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/aa71c9ab5e8bc9179f9a8ca505b0772975679ac7.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nea91e3604351",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "白宫称特朗普全程参与推动黄仁勋复职",
+      "original_title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+      "summary": "白宫通讯主任表示，特朗普全程参与推动黄仁勋重返英伟达，并称“我们必须保护我们的天才”。总统随后对CNBC说，调查显示他判断有误，但“没有做错事”。英伟达声明也提到政府意见。",
+      "facts": [
+        {
+          "text": "白宫通讯主任张振熙对Semafor表示，特朗普全程参与推动英伟达恢复黄仁勋职务，总统随后也在CNBC上重申要保护天才。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据张振熙称，“总统全程参与，这是英伟达董事会的正确决定。我们必须保护我们的天才。”特朗普则说调查显示他判断有误，但没有做错事。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+          "is_primary": false,
+          "published_at": "2026-11-24T00:30:11+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T00:30:11+08:00",
+      "updated_at": "2026-11-24T02:48:59+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "白宫称特朗普全程参与推动黄仁勋复职",
+      "lead_zh": "白宫通讯主任张振熙对Semafor表示，特朗普全程参与推动英伟达恢复黄仁勋职务，并说“我们必须保护我们的天才”。总统随后也在CNBC上重申这一点。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge报道，白宫主动强调特朗普在黄仁勋重返英伟达一事中扮演的角色。通讯主任张振熙的声明最先由Semafor报道。总统随后在CNBC上作了类似表述，并说如果自己没有介入，英伟达可能会“在很长时间里都很难看”。英伟达在宣布回归的声明中也写明，董事会收到了美国政府高层的意见。",
+            "特朗普还曾在不到**12小时**前发文称，恢复黄仁勋职务“对英伟达和美国来说会是最好的事情”，并敦促董事会重新雇用他。黄仁勋仍定于**12月1日**与三家众议院委员会闭门会面。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他们怎么说",
+          "paras": [
+            "据张振熙称：“总统全程参与，这是英伟达董事会的正确决定。我们必须保护我们的天才。”特朗普在CNBC上说，他“非常坚定地认为”应该恢复其职务，并称“我们做了非常彻底的调查，调查显示他在一些不太相关的事情上判断不好，但他没有做错事。”"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/15519f661fffbd584f5b65f643e44ff3906e20be.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ncce907208d41",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "科技界名人密集祝贺黄仁勋重返英伟达",
+      "original_title": "Tech leaders are celebrating Jensen Huang’s return",
+      "summary": "The Verge汇总科技界对黄仁勋回归的祝贺，包括马斯克、阿尔特曼和Epic Games的蒂姆·斯威尼等人。报道称，消息传出后纳斯达克100期货一度因上涨过快而暂停交易。",
+      "facts": [
+        {
+          "text": "黄仁勋恢复职务后，马斯克、阿尔特曼、蒂姆·斯威尼等人公开祝贺，报道称纳斯达克100期货一度因涨速过快而暂停交易。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据特朗普称，他曾对黄仁勋说“只要答应我一件事：你会努力工作”，并称前一晚还与他通过话。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+          "is_primary": false,
+          "published_at": "2026-11-24T00:14:04+08:00"
+        }
+      ],
+      "published_at": "2026-11-24T00:14:04+08:00",
+      "updated_at": "2026-11-24T04:16:17+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "科技界名人密集祝贺黄仁勋重返英伟达",
+      "lead_zh": "黄仁勋恢复职务后，马斯克、阿尔特曼、蒂姆·斯威尼等人公开祝贺。报道还提到，相关消息传出时，纳斯达克100期货一度因涨速过快而暂停交易。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge汇总了科技界对黄仁勋回归的祝贺。埃隆·马斯克反应热烈，萨姆·阿尔特曼也被写进这份名单，因为他有过被董事会赶下台后又迅速回归的经历。Epic Games的蒂姆·斯威尼、Shopify的托比·吕特克、以及沙伊芙恩·齐利斯、尚恩·马圭尔、钱达斯·帕利哈皮蒂亚等人也有表态。马尔克·安德烈森没有正式评论。",
+            "据Odd Lots主持人乔·魏森塔尔观察，纳斯达克100期货因上涨过快一度暂停交易。文章在**11月23日**又补充更新了更多人士的反应。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他们怎么说",
+          "paras": [
+            "据特朗普称，他对黄仁勋说“只要答应我一件事：你会努力工作”，并提到前一晚还与他通过话，因为“我知道正在发生什么”。他在同一场合再次表示“我们需要保护我们的天才”。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/0ec918771a057559ae25c1f9b78e8b026739215a.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n66cc673a6baa",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "英伟达董事会投票恢复黄仁勋首席执行官兼董事长职务",
+      "original_title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "summary": "英伟达董事会宣布，在黄仁勋辞职11天后立即恢复其首席执行官和董事长职务，并称决定部分基于美国政府高层意见，认为不构成国家安全风险。早盘股价约涨30%。多项调查仍在进行。",
+      "facts": [
+        {
+          "text": "英伟达董事会在黄仁勋辞职11天后投票恢复其首席执行官和董事长职务，即时生效，并称收到美国政府高层意见，认为不构成国家安全风险。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据特朗普称，必须保护天才，因为这样的人不够多。早盘英伟达股价约涨30%。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "is_primary": false,
+          "published_at": "2026-11-23T23:46:18+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T23:46:18+08:00",
+      "updated_at": "2026-11-23T23:46:18+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "英伟达董事会投票恢复黄仁勋首席执行官兼董事长职务",
+      "lead_zh": "英伟达董事会在黄仁勋辞职11天后投票恢复其首席执行官和董事长职务，即时生效，并称收到美国政府高层意见，认为不构成国家安全风险。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "英伟达董事会投票决定，在黄仁勋因多起风波辞职仅**11天**后，立即恢复其首席执行官和董事长职务。公司周一上午宣布，这一决定部分基于“美国政府高层的意见”，董事会据此认为恢复其职务不构成国家安全风险。与此同时，多项涉及出口管制、会计和公司治理的调查仍在进行。",
+            "黄仁勋辞职后不久就寻求回归，并据报道组建了应对小组。他**1993年**参与创办英伟达。宣布消息后，早盘股价上涨约**30%**；自他辞职以来股价约跌**25%**，较峰值则近乎腰斩。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据特朗普称，“必须保护我们的天才，因为这样的人不够多。”公司声明强调，政府方面的意见让董事会相信，恢复黄仁勋职务不会带来国家安全风险，尽管他已承认与一名被美国情报来源认为可能为中国间谍的女子有婚外关系，且有指控称英伟达相关芯片流向了本应受限的地方。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/5867ae014bdb979f76bdbde97b1cf639dfc17d4a.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nc059a9919df7",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "智谱GLM-5.4改用循环架构，宣称对标更大规模模型",
+      "original_title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+      "summary": "智谱发布采用循环Transformer的GLM-5.4，将28层运行两遍。公司称7500亿参数模型可接近2到3万亿参数模型的表现，但文中给出的基准分数来自300亿参数试验模型。",
+      "facts": [
+        {
+          "text": "智谱推出旗舰模型GLM-5.4，采用循环Transformer，把28层运行两遍，并称7500亿参数模型可达到2到3万亿参数模型的水平。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据智谱称，在同结构的300亿参数试验中，AIME25分数从19.2升至30.4，但尚未公布7500亿参数旗舰本身的基准分数。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+          "is_primary": false,
+          "published_at": "2026-11-23T23:13:03+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T23:13:03+08:00",
+      "updated_at": "2026-11-23T23:13:03+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "智谱GLM-5.4改用循环架构，宣称对标更大规模模型",
+      "lead_zh": "智谱推出旗舰模型GLM-5.4，把28层运行两遍，称这款7500亿参数模型可达到2到3万亿参数模型的水平，但尚未公布这款旗舰本身的基准分数。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "智谱（Z.ai）推出旗舰模型GLM-5.4，这是其首个采用循环Transformer的大模型：把共享的**28**层运行两遍，在不增加参数的情况下加深网络。公司将这款**7500亿**参数模型视为“广义编程”的起点，希望代码也能生成视频、游戏和CAD模型。该架构与OpenAI自GPT-6 Astra以来使用的思路类似。团队是把今年**2月**发布的GLM-5基座改造成循环模型，而不是从零训练。",
+            "为控制第二遍计算，模型为每个词元和每一遍设置门控，并使用共享缓存。公司称，即便在**100万**词元上下文下，相对GLM-5.3的额外开销仍可接受，非高峰期速度可达每秒**200**个词元，负载下约**70**到**80**。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据智谱介绍，他们在**10亿**、**40亿**、**300亿**和**7500亿**参数规模上做了试验。同结构的**300亿**参数循环模型比基线多用约**10%**训练算力后，AIME25从**19.2**分升至**30.4**分，GPQA-Diamond从**47.6**升至**56.3**。The Decoder指出，这些分数来自试验模型，旗舰本身的基准尚未公布。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n57e4d9bc2d25",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "特朗普支持黄仁勋回归，并称美方没有违法证据",
+      "original_title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "summary": "特朗普在Truth Social发文支持英伟达恢复黄仁勋职务，称不构成国家安全风险，并指美国司法部长未发现违法证据。文章提醒，司法部长本人尚未就此事发表正式声明。",
+      "facts": [
+        {
+          "text": "特朗普发文支持英伟达恢复黄仁勋职务，称美国政府没有理由认为这会带来国家安全风险，并指司法部长未发现违法证据。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据特朗普称，美国司法部长未发现黄仁勋有违法行为；但司法部长本人尚未就此发表正式声明。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+          "is_primary": false,
+          "published_at": "2026-11-23T23:04:01+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T23:04:01+08:00",
+      "updated_at": "2026-11-23T23:04:01+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "特朗普支持黄仁勋回归，并称美方没有违法证据",
+      "lead_zh": "特朗普在Truth Social发文称，美国政府没有理由认为黄仁勋重返英伟达会带来国家安全风险，并称司法部长未发现他有违法行为；司法部长本人尚未正式表态。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "特朗普周一在Truth Social发文，称赞英伟达董事会恢复创始人黄仁勋的首席执行官和总裁职务，并写到“美国政府没有理由认为黄仁勋重返英伟达会给国家安全带来风险”。公司声明也提到，决定参考了“美国政府高层”的意见，并据此认为不构成国家安全风险。",
+            "有迹象表明，总统在董事会公布前可能已知情：他对一名公共广播记者谈到黄仁勋时的表述，早于正式宣布。文章指出，由总统亲自转述司法部长的调查结论并不常见，因为这类调查通常应独立进行，而不应由白宫先行对外宣布调查结果。英伟达董事会声明也写明参考了政府高层意见。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据特朗普称，美国司法部长托德·布兰奇未发现黄仁勋有违法行为。TechCrunch提醒，司法部长本人尚未就此事发表正式声明。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/20ca20d11a7c7e475cf060e2a846e4d69ccc7388.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nc4aa81e8683c",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "报道称中国军方担忧人工智能或削弱核威慑",
+      "original_title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+      "summary": "报道援引中国军事科学院研究人员的文章称，人工智能可能把美方决策时间从15到30分钟压缩到约90秒，从而冲击中国依赖二次打击能力的核威慑。同时，中方也在研究用人工智能提高武器突防能力。",
+      "facts": [
+        {
+          "text": "《纽约时报》分析称，中国军方研究人员担心人工智能可能帮助美国更快发现并摧毁其核导弹，从而削弱依赖二次打击的核威慑。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据北京军事科学院研究人员称，人工智能可能把美方决策时间从15到30分钟缩短到90秒。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+          "is_primary": false,
+          "published_at": "2026-11-23T22:43:23+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T22:43:23+08:00",
+      "updated_at": "2026-11-23T22:43:23+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报道称中国军方担忧人工智能或削弱核威慑",
+      "lead_zh": "《纽约时报》分析称，中国军方研究人员担心人工智能可能帮助美国更快发现并摧毁其核导弹。北京军事科学院的文章称，美方决策时间或从15到30分钟缩短到90秒。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder援引《纽约时报》的分析报道称，中国军方研究人员担心，人工智能进步可能让美国在核力量对比中取得优势，使发现并摧毁中国核导弹变得更容易，从而冲击中国依赖“保证能二次打击”的威慑逻辑。与此同时，中国军事研究机构也在研究如何用人工智能让自己的武器更难拦截，例如为高超音速导弹设计由人工智能控制的飞行路径。",
+            "美国科学家联合会的数据是，中国目前约有**620**枚作战弹头，并预计到**2030年**增至约**1000**枚。报道还提到，专家担心有缺陷的数据可能在危机中引发误判；今年早些时候，美军几乎登上一艘中国船只的事件，被用来说明这种风险已经不只是纸面讨论。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "研究怎么说",
+          "paras": [
+            "据北京军事科学院的研究人员写道，人工智能可能把美方决策时间从**15**到**30分钟**压缩到**90秒**。文章同时指出，这一判断来自中方公开或半公开的研究讨论，以及美国报纸的分析，并不是已经发生的作战变化。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/1ec655661ab600bb1a96bde4c76c27177cdc2d52.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/03/AI-Fake-Carrier-Iran-small.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nd631009dc67b",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "英伟达宣布立即恢复黄仁勋首席执行官职务",
+      "original_title": "Jensen Huang Is Back as Nvidia CEO",
+      "summary": "英伟达宣布立即恢复黄仁勋的首席执行官职务，距他11月12日辞职仅11天。新任董事会主席哈维·琼斯说，董事会认为他仍是领导公司的合适人选，并已听取美国政府高层意见。",
+      "facts": [
+        {
+          "text": "英伟达宣布立即恢复黄仁勋首席执行官职务，距他11月12日辞职仅11天。新任董事会主席哈维·琼斯称他仍是领导公司的合适人选。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据哈维·琼斯称，董事会认为恢复其职务符合股东、员工、合作伙伴和客户的利益，并对其坦诚和领导能力感到满意。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "is_primary": false,
+          "published_at": "2026-11-23T22:27:35+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T22:27:35+08:00",
+      "updated_at": "2026-11-23T22:27:35+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "英伟达宣布立即恢复黄仁勋首席执行官职务",
+      "lead_zh": "英伟达新任董事会主席哈维·琼斯在声明中说，董事会认为黄仁勋是领导公司的合适人选，并对其坦诚和领导能力感到满意，决定立即恢复其职务。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "英伟达宣布立即恢复黄仁勋的首席执行官职务，距他**11月12日**辞职只有**11天**，也扭转了董事会此前多次公开表示不打算让他回归的立场。**11月17日**财报会上，董事会还曾说“不打算”恢复其职务。临时接任的是长期担任首席财务官的科莱特·克雷斯。公司内部“意见箱”相关帖文下有超过**1600**条评论呼吁请他回来，网上公开信则收集到超过**20万**个签名。",
+            "黄仁勋与克里斯·马拉霍夫斯基、柯蒂斯·普里姆在**1993年**创办英伟达。截至**2026年9月**，公司约占全球GPU市场的**90%**；前一年它曾成为首家市值超过**4万亿美元**的公司，但在他辞职后股价大幅下跌。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据新任董事会主席哈维·琼斯在声明中称，“董事会认为黄仁勋是领导英伟达的合适人选，恢复其职务符合股东、员工、合作伙伴和客户的利益”，并表示“对其坦诚和领导能力感到满意”，同时已听取美国政府高层意见。黄仁勋则说，他很荣幸回来，会以最大的谦卑和重新燃起的责任感领导公司。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/ead054fa8506123b8fedc67f93fb13a14671539e.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6b04495d307e146147156b9d/master/pass/GettyImages-2266718431.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n8fe6012ce648",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "英伟达没有黄仁勋的日子大约只持续了两周",
+      "original_title": "Nvidia tried life without Jensen Huang and it lasted about two weeks",
+      "summary": "The Decoder写道，英伟达在没有黄仁勋掌舵大约两周后又请他回来。董事会称该决定一致通过，独立委员会仍在与外部律师继续调查，宣布后公司股价涨逾30%。出口管制审查也被要求继续。",
+      "facts": [
+        {
+          "text": "英伟达董事会一致决定立即恢复黄仁勋的总裁、首席执行官和董事职务，此前由首席财务官科莱特·克雷斯代理，宣布后股价涨逾30%。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据特朗普称，美国司法部长未发现黄仁勋有不当行为。独立委员会仍在与外部律师继续调查。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/",
+          "is_primary": false,
+          "published_at": "2026-11-23T22:24:47+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T22:24:47+08:00",
+      "updated_at": "2026-11-23T22:24:47+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "英伟达没有黄仁勋的日子大约只持续了两周",
+      "lead_zh": "英伟达董事会一致决定立即恢复黄仁勋的总裁、首席执行官和董事职务。此前由首席财务官科莱特·克雷斯代理，公司股价在这段时间大幅下跌，宣布后则涨逾30%。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder写道，英伟达在没有黄仁勋掌舵大约两周后又请他回来。董事会在新闻稿中称，决定是一致作出的，并在与黄仁勋谈话、以及听取美国政府高层认为其回归不构成国家安全风险的反馈后作出。代理职务的是首席财务官科莱特·克雷斯，这段时间公司股价大幅下跌，宣布后则涨逾**30%**。",
+            "美国政府仍在审查英伟达的商业往来。特朗普还敦促公司继续检查出口管制是否得到遵守。英伟达已为此设立专门的监督委员会，并在寻找首席合规官。黄仁勋和公司表示将继续配合当局。报道把这段没有他主政的时间概括为大约两周。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据特朗普在Truth Social上称，美国司法部长未发现黄仁勋有不当行为。报道同时指出，董事会的独立委员会仍在与外部律师继续调查此事。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/5c0c1abbac3e69e62edb2a9a823eb3f5292fd7fb.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/05/huang_sccp_ai_screenshot-scaled.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "necab1061c917",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "英伟达董事会改口，宣布黄仁勋重任首席执行官",
+      "original_title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "summary": "TechCrunch报道，英伟达董事会周一改口，宣布黄仁勋重新担任首席执行官和总裁，扭转了此前公开表示不打算让他回归的立场。这一突然转向得到了美国政府高层的支持。",
+      "facts": [
+        {
+          "text": "英伟达董事会周一宣布恢复黄仁勋的首席执行官和总裁职务，扭转了此前公开表示不打算让他回归的立场，并得到美国政府高层支持。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+          "is_primary": false,
+          "published_at": "2026-11-23T22:21:59+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T22:21:59+08:00",
+      "updated_at": "2026-11-23T22:21:59+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "英伟达董事会改口，宣布黄仁勋重任首席执行官",
+      "lead_zh": "英伟达周一宣布恢复黄仁勋的首席执行官和总裁职务，扭转了董事会此前公开表示不打算让他回归的立场。这一决定得到美国政府高层的支持。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch报道，英伟达董事会周一宣布，恢复黄仁勋的首席执行官和总裁职务，这是对公司此前公开立场的突然转向，并得到美国政府高层支持。董事会不久前还曾表示不打算让他回来，其间由其他高管代理职务。这一决定结束了过去两周里围绕公司掌舵人的不确定状态。",
+            "报道称这次转向出人意料。黄仁勋因多段婚外关系及相关国家安全疑虑在本月早些时候辞职，随后股价大幅波动；宣布回归后，市场情绪随之扭转。公司同时表示，决定参考了政府高层意见，并认为不构成国家安全风险。多项调查和国会安排并未因此取消。在他离职期间，公司由其他高管代理日常运营，外界一直在猜测董事会是否会改变主意。这篇报道记录的就是这次改口本身，以及政府高层公开表态所扮演的角色。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/7cc778d1943ec29b7f10cc5e5947f0d34ffde5dd.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n3120537bb3c8",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": false,
+      "title": "Import AI：华为内核基准、无人机识别与科学评测",
+      "original_title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+      "summary": "Import AI第482期介绍三项研究：面向华为昇腾芯片的内核优化基准AscendGYM，空对空无人机视觉识别数据集，以及要求模型在可能有误的模拟器上给出区间估计的科学评测。",
+      "facts": [
+        {
+          "text": "Import AI第482期介绍面向华为昇腾芯片的内核优化基准AscendGYM、空对空无人机识别数据，以及国家实验室的人工智能科学评测。",
+          "source": "Import AI",
+          "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该通讯称，在相关科学评测中只有最强的前沿模型能够完成任务；内核基准测试中表现最好的是Opus 5，其次是GPT-5.6和GLM-5.3。",
+          "source": "Import AI",
+          "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Import AI",
+          "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+          "is_primary": false,
+          "published_at": "2026-11-23T22:11:17+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T22:11:17+08:00",
+      "updated_at": "2026-11-23T22:11:17+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Import AI：华为内核基准、无人机识别与科学评测",
+      "lead_zh": "本期Import AI介绍深圳河套实验室发布的昇腾内核优化基准AscendGYM，南京航空航天大学的空对空无人机识别数据，以及美国国家实验室的人工智能科学评测。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "杰克·克拉克的通讯Import AI第482期介绍了三项研究。深圳河套实验室发布了面向华为昇腾NPU的内核优化基准AscendGYM，用来评估人工智能能否在保持正确性的前提下，按可接受预算改进已有内核的性能，这对难以获得西方先进芯片、因而更多使用华为硬件的中国机构尤其重要。",
+            "南京航空航天大学研究者构建了空对空无人机视觉识别数据集A2A-UAV。另一项来自美国国家实验室的科学评测要求智能体自行设计实验，使用可能分辨率不足甚至物理上有误的模拟器，并对电导率、热容和背面传热系数等给出**95%**区间估计。通讯还提到创业公司Noeri融资**1.1亿美元**。"
+          ],
+          "sources": [
+            "Import AI"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "通讯怎么说",
+          "paras": [
+            "据该通讯介绍，内核基准测试中单一模型表现最好的是Opus 5，其次是GPT-5.6和GLM-5.3；在国家实验室那项科学评测中，也只有最强的前沿模型能够胜任。作者认为，AscendGYM这类工具可能帮助中国方面用人工智能改进自己的训练和推理软件。"
+          ],
+          "sources": [
+            "Import AI"
+          ]
+        }
+      ],
+      "image_url": "img/d5473e5c3651158498e986f0115a6a8a72e7bf26.jpg",
+      "image_source": "Import AI",
+      "image_origin_url": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n341c9475d1b9",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": false,
+      "title": "Meta主管称黎曼猜想草证显示超智能临近",
+      "original_title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+      "summary": "Meta人工智能主管Alexandr Wang把近期有模型参与的黎曼猜想证明草图视为超智能临近的信号。他认为模型很快可能自动改进自身，并提醒行业不应只讨论安全。",
+      "facts": [
+        {
+          "text": "Meta人工智能主管Alexandr Wang把近期有模型参与的黎曼猜想证明草图，视为超智能临近的明确信号。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据王称，当前模型缺少的主要是领域知识和基础设施，由于人工智能研究本身比黎曼猜想更容易，模型可能很快自动改进自身。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+          "is_primary": false,
+          "published_at": "2026-11-23T21:59:36+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T21:59:36+08:00",
+      "updated_at": "2026-11-23T21:59:36+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Meta主管称黎曼猜想草证显示超智能临近",
+      "lead_zh": "Meta人工智能主管Alexandr Wang认为，模型在黎曼猜想这一难题上发挥重要作用，说明原始智力已不再是瓶颈，行业对接下来的社会影响准备不足。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder报道，Meta首席人工智能官Alexandr Wang认为，最近由人工智能辅助完成的黎曼猜想证明草图，清楚表明超智能已经不远。黎曼猜想被广泛视为数学中最艰难的未解问题之一，最聪明的人类已为此努力约**150年**。在他看来，模型在这一突破中扮演重要角色，说明原始智力不再是瓶颈。",
+            "王还警告，行业对接下来会发生什么想得不够。许多人把超智能当作必然结果，只讨论安全，但他认为利害远不止于此，行业需要主动确保人工智能增进人们的自主性，而不是夺走对社会的控制。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他怎么说",
+          "paras": [
+            "据王称，当前模型要在几乎每个领域超过人类，主要缺少的是特定领域的知识和可用的基础设施，其中也包括人工智能研究本身。由于这项研究在智力难度上低于黎曼猜想，他认为模型可能很快自动改进自身，并大幅加速生物、武器和经济等领域的研究，其速度将使人难以跟上。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n473aed85ad84",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "报道称美情报机构跟踪风波相关人物与国安部门往来逾一年",
+      "original_title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+      "summary": "报道称，美国情报机构发现Alice Huang在2025年春至今年秋与中国国家安全部保持联络，跟踪已超过一年。联邦调查还在审视相关企业网络是否曾向中国输送英伟达芯片。",
+      "facts": [
+        {
+          "text": "《纽约时报》援引美国情报结论报道，Alice Huang自2025年春至今年秋与中国国家安全部有联络，美方跟踪已超过一年。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据纽约时报援引的美国情报结论称，她的商业伙伴康伟也被认为与该部门合作，联邦调查正在审视相关企业网络是否向中国输送英伟达芯片。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+          "is_primary": false,
+          "published_at": "2026-11-23T21:45:32+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T21:45:32+08:00",
+      "updated_at": "2026-11-23T21:45:32+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报道称美情报机构跟踪风波相关人物与国安部门往来逾一年",
+      "lead_zh": "《纽约时报》援引美国情报结论报道，Alice Huang自2025年春至今年秋季期间与中国国家安全部有联络，美方相关跟踪已持续一年以上。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder援引《纽约时报》报道称，处于英伟达风波中心的Alice Huang，在**2025年**春季至今年秋季期间与中国国家安全部保持联络，而她当时正与时任首席执行官黄仁勋有秘密婚外关系。美国情报机构对相关往来的跟踪已超过一年。她的商业伙伴康伟（Kang Wei）曾被她介绍为丈夫。",
+            "联邦调查人员正在试图查明，两人是否利用东南亚的企业网络，绕过美国出口管制，向中国输送英伟达人工智能芯片。Alice Huang的公司Megaspeed是该网络的一部分。财政部长斯科特·贝森特还曾要求英伟达在决定未来领导层之前，先把对华芯片销售情况说清楚。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么说",
+          "paras": [
+            "据《纽约时报》援引的美国情报结论称，康伟也被认为与国家安全部有合作。报道刊出时，黄仁勋已因婚外关系曝光辞职，特朗普则试图淡化相关指控。该文主要依据美方情报评估，而非法庭已裁定的事实。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ne6e1e23017cd",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "三上真司称希望人工智能彻底消失",
+      "original_title": "《生化危机》之父三上真司：希望 AI 彻底消失",
+      "summary": "三上真司在G-CON 2026与Shift Up首席执行官金亨泰对谈时说，希望人工智能从游戏乃至世界上彻底消失。金亨泰则表示，受争议后更强调手工制作，但仍会在光照和低模等环节使用该技术。",
+      "facts": [
+        {
+          "text": "三上真司与Shift Up首席执行官金亨泰11月20日在G-CON 2026上对谈，讨论双方发行合作以及人工智能对游戏开发的影响。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/031/204.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据三上真司称，他希望人工智能从游戏开发乃至世界上彻底消失；金亨泰则称完全不用已经很难，但创作仍应坚持手工。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/031/204.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/031/204.htm",
+          "is_primary": false,
+          "published_at": "2026-11-23T21:27:20+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T21:27:20+08:00",
+      "updated_at": "2026-11-23T21:27:20+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "三上真司称希望人工智能彻底消失",
+      "lead_zh": "在G-CON 2026上，生化危机之父三上真司表示希望人工智能从游戏乃至世界上消失；Shift Up首席执行官金亨泰则称完全不用已经很难，但创作仍应坚持手工。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "今年3月底，生物危害和恐龙危机系列导演三上真司宣布，其工作室Unbound将与《剑星》开发商Shift Up合作发行下一款游戏。**11月20日**，他与Shift Up首席执行官金亨泰在G-CON 2026上对谈，讨论**2027年**及之后的行业变化，两人对人工智能的看法成为焦点。金亨泰还回应了今年**7月**工作室用人工智能制作《剑星：血雨》音乐视频所引发的争议。",
+            "IT之家援引Inven Global报道称，金亨泰表示争议后工作室确立了从头到尾“手工制作”的理念，但仍计划在光照、生成低多边形三维模型等环节使用人工智能。三上真司则透露，Unbound目前主要用它预览手绘二维模型转成三维后的效果。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他们怎么说",
+          "paras": [
+            "据三上真司称，他希望人工智能不仅退出游戏开发，也“从这世界上消失”。他对就业前景持悲观态度，认为未来五年或十年充满不确定，不排除十年内开发者被取代。金亨泰则说，如今不使用人工智能已经很难进行游戏开发，但无论技术多么快，两家工作室的游戏本质都将坚持手工创作。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/860e00c5beb3857316c9e4c265177e873de1f0d6.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/1ffff4aa-ce3b-4bcb-a1af-aee1aef913d8.jpg?x-bce-process=image/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n3fbee24cc5f6",
+      "category": "政策与安全",
+      "importance": 1,
+      "verified": false,
+      "title": "儿童权益组织呼吁亚马逊和eBay停售人工智能玩具",
+      "original_title": "儿童权益保护组织喊话亚马逊、eBay：别卖 AI 玩具了",
+      "summary": "由155家机构组成的联盟致信亚马逊和eBay，要求停止销售人工智能玩具，指其可能生成不当内容并带来隐私风险。公开信称仅在亚马逊美国站就发现50多款，加州相关禁令要到2027年1月才生效。",
+      "facts": [
+        {
+          "text": "由155家儿童权益组织组成的联盟致信亚马逊和eBay，呼吁停止销售搭载人工智能的玩具，并称仅在亚马逊美国站就发现50多款。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/031/203.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据亚马逊称，公司把儿童和家庭安全放在重要位置，正在与行业伙伴和政府部门合作建立防护，并已下架部分玩具。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/031/203.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/031/203.htm",
+          "is_primary": false,
+          "published_at": "2026-11-23T21:15:12+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T21:15:12+08:00",
+      "updated_at": "2026-11-23T21:15:12+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "儿童权益组织呼吁亚马逊和eBay停售人工智能玩具",
+      "lead_zh": "由155家儿童权益组织组成的联盟致信亚马逊和eBay，呼吁停止销售搭载人工智能的玩具，指其可能生成不当内容、夸大教育效果并带来隐私风险。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "由**155**家儿童权益组织组成的联盟近日向亚马逊和eBay首席执行官发出公开信，呼吁两家平台停止销售搭载人工智能的玩具，指这类产品价格低、门槛低，却可能生成色情内容、夸大未经验证的教育效果、侵犯隐私，或向儿童提供寻找家中危险物品的指导。公开信由Fairplay、Alliance 4 Children CIC和Set@16牵头，并称仅在亚马逊美国站就发现超过**50**款此类玩具。",
+            "美国公共利益研究组织刚公布年度玩具安全调查。测试中，Alilo Smart AI Bunny曾告知应在家中何处寻找漂白剂，并讨论不适宜儿童的内容，随后被亚马逊下架。加州规定将自**2027年1月**起禁止向**16**岁以下儿童销售配备陪伴型聊天机器人的玩具。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据亚马逊称，公司把儿童和家庭安全放在重要位置，正在与行业伙伴和政府部门合作建立适当防护，并已下架部分玩具。eBay发言人则表示，公司致力于保护买卖双方，持续评估政策并与监管机构沟通。联名组织认为，平台不必等到禁令生效，本身就有下架不安全商品的机制。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/0ba8e2d11814065177dbadc868869d2cfbfbd37d.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/dbe53464-095b-4005-95c6-4e8cbda700de.jpg?x-bce-process=image/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6627e001d76d",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "脑机接口公司Paradromics与英伟达合作处理脑信号",
+      "original_title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "summary": "脑机接口公司Paradromics宣布与英伟达合作处理脑数据。其植入装置用400多个电极采集试图说话时的神经信号，再由计算机推断语句，目前解码仍依赖一整车电子设备。",
+      "facts": [
+        {
+          "text": "奥斯汀的脑机接口公司Paradromics宣布与英伟达合作，用其硬件和软件处理植入装置采集的脑信号，目标是缩小目前体积庞大的解码设备。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该公司首席执行官马特·安格尔称，目前整车电子设备一年后将变成可放在轮椅上的小盒子，最终会小到放进手机。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+          "is_primary": false,
+          "published_at": "2026-11-23T21:11:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T21:11:00+08:00",
+      "updated_at": "2026-11-23T21:11:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "脑机接口公司Paradromics与英伟达合作处理脑信号",
+      "lead_zh": "奥斯汀的Paradromics宣布与英伟达合作，用其硬件和软件处理植入装置采集的脑信号，目标是把目前一整车电子设备逐步缩小到轮椅上的小盒子乃至手机大小。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "脑机接口公司Paradromics宣布与英伟达合作，使用后者的硬件和软件处理脑数据。报道描述了一位因运动神经元病几乎无法发声的使用者玛丽：植入装置从体外看不到，但把试图说话时的神经活动解码成电脑中的合成语音，目前仍需要一整车电子设备。",
+            "该植入装置使用**400**多个电极采集信号，再由计算机用人工智能推断她想说的话。尽管她因运动神经元病几乎无法用口说话，尝试发声时相关神经元仍会放电。合作发布之时，英伟达也正因黄仁勋辞职及相关调查面临领导层变动和联邦审查。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Paradromics创始人兼首席执行官马特·安格尔称，再过一年，这整车设备将变成可以放在轮椅上的小盒子，而这要归功于英伟达的技术；最终这些电子装置会小到能放进手机。公司总部位于奥斯汀。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/4ea77c4899b0f89ecf4f2b8d6cd91217de49226b.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nbc6b513693d3",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": false,
+      "title": "GPT-6.2 Astra独立给出间隙定理的可验证证明",
+      "original_title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+      "summary": "据Vals AI介绍，GPT-6.2 Astra独立完成2006年Smoktunowicz间隙定理的Lean证明，约94分钟、花费21.58美元，并在Autoform-Hard评测中以49项领先。",
+      "facts": [
+        {
+          "text": "Vals AI称，GPT-6.2 Astra独立写出Smoktunowicz间隙定理的Lean形式化证明，耗时94分钟、花费21.58美元，并在Autoform-Hard上以49项领先。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Vals AI称，这是该2006年定理首个用Lean写成、可机器验证的证明，而且模型因数学库缺少原证明基础而自行换了路线。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+          "is_primary": false,
+          "published_at": "2026-11-23T20:17:01+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T20:17:01+08:00",
+      "updated_at": "2026-11-23T20:17:01+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "GPT-6.2 Astra独立给出间隙定理的可验证证明",
+      "lead_zh": "Vals AI称，GPT-6.2 Astra在无人协助下写出Smoktunowicz间隙定理的Lean形式化证明，为该定理首个可机器验证Lean证明，耗时94分钟、花费21.58美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder报道，OpenAI的GPT-6.2 Astra在无人协助的情况下，写出了可机器验证的形式化证明，对象是**2006年**的Smoktunowicz间隙定理：在某个数学系统中，基本构件相乘后的增长要么很慢、要么很快，不存在中间地带。该任务属于Vals整理的Autoform-Hard，共**56**项，Meta研究中的**10**个模型都未能在预算内解出。",
+            "系统不允许在花费未达**20美元**前把未完成的题目交卷。Astra在47分钟、花费8美元时曾试图退出，随后又经过约9分钟没有输入代码的搜索，最终在第**94分钟**、花费**21.58美元**时交出约**1800**行证明。它目前以**49**项领跑，GPT-6.2 Sol和Claude Fable 5.2各为48项。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "评测方怎么说",
+          "paras": [
+            "据Vals AI称，这是该定理首个用Lean写成的证明。由于原证明的关键基础并未收录在数学库Mathlib中，Astra改用已有研究里的“容量”指标，即每一步计算至少增加多少元素，从而走了与已发表数学证明不同的路线。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/5743538fef1a5e7ad63a06f53379dff1c943ba44.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/gpt_lean_proof.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n1abf2bc2270e",
+      "category": "政策与安全",
+      "importance": 1,
+      "verified": false,
+      "title": "Docker更新徽标，强调面向智能体的可信容器环境",
+      "original_title": "Docker 徽标焕新，致力于打造面向智能体的安全容器化环境",
+      "summary": "Docker宣布更新徽标，新版Moby鲸鱼形象更抽象，并以黑色为身体基调。公司表示，新标识意在强调面向智能体时代、安全隔离且可治理的可信容器环境，同时仍把开发者和开放合作放在首位。",
+      "facts": [
+        {
+          "text": "Docker于本月19日宣布更新以Moby鲸鱼为形象的徽标，新版更抽象简洁，并以黑色为身体基调。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/031/194.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Docker称，新徽标下的公司专为信任而生，致力于在智能体时代打造安全、隔离和可治理的可信执行环境，同时仍把开发者和开放合作放在首位。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/031/194.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/031/194.htm",
+          "is_primary": false,
+          "published_at": "2026-11-23T20:11:11+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T20:11:11+08:00",
+      "updated_at": "2026-11-23T20:11:11+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Docker更新徽标，强调面向智能体的可信容器环境",
+      "lead_zh": "Docker于本月19日宣布更新以Moby鲸鱼为形象的徽标，称新标识更抽象简洁，并强调在智能体时代打造安全、隔离和可治理的可信执行环境。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家**11月23日**报道，容器工具公司Docker于本月**19日**宣布更新徽标。新版Moby鲸鱼形象更抽象简洁，并以黑色为身体基调。官方在配套博客中解释了这次换标，并强调容器在智能体时代应成为可信的执行环境，具备安全、隔离和治理能力。",
+            "报道转述，Docker表示自己并未抛弃传统方向：仍然致力于开放和行业合作，始终把开发者放在首位，并继续追求极致简洁。IT之家同时注明，文中的对外链接仅供参考。可核对的公开信息主要来自公司这次换标说明，篇幅有限。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Docker称，新徽标下的公司“专为信任而生”，目标是打造面向智能体时代的容器化环境，让安全、隔离、可治理的容器成为智能体可信执行环境的一部分。与此同时，公司仍强调开放合作与开发者优先。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/fe5a6c22e65cf7225f4572065042c63d4217807b.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/f3b148f7-4b32-486c-b528-47736033bb40.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n1793f4fe05b1",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "评测：华硕ProArt P16展示高价本地大模型电脑",
+      "original_title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "summary": "Ars Technica评测华硕ProArt P16，认为它借助英伟达RTX Spark把本地人工智能、办公和游戏放在同一台电脑里，顶配约7000美元，可运行超过1000亿参数的模型。",
+      "facts": [
+        {
+          "text": "Ars Technica评测华硕ProArt P16，机型采用英伟达RTX Spark方案，最高128GB内存，顶配约7000美元，可在本地加载超过1000亿参数的模型。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据评测称，尽管在Windows上更易上手，本地人工智能仍需要大量试错，高价换来的是把智能体、办公和游戏放在同一台电脑里。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+          "is_primary": false,
+          "published_at": "2026-11-23T20:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-23T20:00:00+08:00",
+      "updated_at": "2026-11-23T20:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "评测：华硕ProArt P16展示高价本地大模型电脑",
+      "lead_zh": "Ars Technica评测华硕ProArt P16，机型采用英伟达RTX Spark方案，最高128GB内存，顶配约7000美元，可在本地加载千亿参数量级模型，但价格很高。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Ars Technica评测华硕新款ProArt P16，认为英伟达RTX Spark可能让日常电脑的本地人工智能能力变得更有实质内容。这款笔记型电脑没有传统独立显卡，但最高可配**128GB**内存，顶配售价约**7000美元**，既可作为主要的办公和游戏机器，也能在本地加载超过**1000亿**参数的模型，并留出资源给后台较轻的任务。",
+            "评测机搭载Spark N1X：**20**核Grace处理器（10个Cortex-X925性能核，加速约4.0到4.1GHz，以及10个能效核），图形和人工智能则由英伟达GB20B Blackwell GPU负责，约有**6144**个核心，宣称最高约**31** TFLOPS的FP32图形性能和约**1000** TOPS的FP4人工智能算力。内存带宽最高约**300GB/s**，并运行Windows 11。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "评测怎么说",
+          "paras": [
+            "评测认为，多数笔记型电脑的人工智能宣传仍是营销，这款机器的卖点是把本地智能体、生产和游戏放在同一台设备上，但代价很高。作者写道，尽管Windows降低了门槛，本地人工智能仍需要大量试错。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/ab28bf3ca6cdb7ce7188951fea37a65f6394c2b8.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3-1152x648.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    }
+  ]
+}

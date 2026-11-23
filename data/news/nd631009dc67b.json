@@ -1,0 +1,67 @@
+{
+  "id": "nd631009dc67b",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达宣布立即恢复黄仁勋首席执行官职务",
+  "original_title": "Jensen Huang Is Back as Nvidia CEO",
+  "summary": "英伟达宣布立即恢复黄仁勋的首席执行官职务，距他11月12日辞职仅11天。新任董事会主席哈维·琼斯说，董事会认为他仍是领导公司的合适人选，并已听取美国政府高层意见。",
+  "facts": [
+    {
+      "text": "英伟达宣布立即恢复黄仁勋首席执行官职务，距他11月12日辞职仅11天。新任董事会主席哈维·琼斯称他仍是领导公司的合适人选。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据哈维·琼斯称，董事会认为恢复其职务符合股东、员工、合作伙伴和客户的利益，并对其坦诚和领导能力感到满意。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+      "is_primary": false,
+      "published_at": "2026-11-23T22:27:35+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T22:27:35+08:00",
+  "updated_at": "2026-11-23T22:27:35+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达宣布立即恢复黄仁勋首席执行官职务",
+  "lead_zh": "英伟达新任董事会主席哈维·琼斯在声明中说，董事会认为黄仁勋是领导公司的合适人选，并对其坦诚和领导能力感到满意，决定立即恢复其职务。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英伟达宣布立即恢复黄仁勋的首席执行官职务，距他**11月12日**辞职只有**11天**，也扭转了董事会此前多次公开表示不打算让他回归的立场。**11月17日**财报会上，董事会还曾说“不打算”恢复其职务。临时接任的是长期担任首席财务官的科莱特·克雷斯。公司内部“意见箱”相关帖文下有超过**1600**条评论呼吁请他回来，网上公开信则收集到超过**20万**个签名。",
+        "黄仁勋与克里斯·马拉霍夫斯基、柯蒂斯·普里姆在**1993年**创办英伟达。截至**2026年9月**，公司约占全球GPU市场的**90%**；前一年它曾成为首家市值超过**4万亿美元**的公司，但在他辞职后股价大幅下跌。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据新任董事会主席哈维·琼斯在声明中称，“董事会认为黄仁勋是领导英伟达的合适人选，恢复其职务符合股东、员工、合作伙伴和客户的利益”，并表示“对其坦诚和领导能力感到满意”，同时已听取美国政府高层意见。黄仁勋则说，他很荣幸回来，会以最大的谦卑和重新燃起的责任感领导公司。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/ead054fa8506123b8fedc67f93fb13a14671539e.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b04495d307e146147156b9d/master/pass/GettyImages-2266718431.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

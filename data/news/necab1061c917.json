@@ -1,0 +1,51 @@
+{
+  "id": "necab1061c917",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达董事会改口，宣布黄仁勋重任首席执行官",
+  "original_title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+  "summary": "TechCrunch报道，英伟达董事会周一改口，宣布黄仁勋重新担任首席执行官和总裁，扭转了此前公开表示不打算让他回归的立场。这一突然转向得到了美国政府高层的支持。",
+  "facts": [
+    {
+      "text": "英伟达董事会周一宣布恢复黄仁勋的首席执行官和总裁职务，扭转了此前公开表示不打算让他回归的立场，并得到美国政府高层支持。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "is_primary": false,
+      "published_at": "2026-11-23T22:21:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T22:21:59+08:00",
+  "updated_at": "2026-11-23T22:21:59+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达董事会改口，宣布黄仁勋重任首席执行官",
+  "lead_zh": "英伟达周一宣布恢复黄仁勋的首席执行官和总裁职务，扭转了董事会此前公开表示不打算让他回归的立场。这一决定得到美国政府高层的支持。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch报道，英伟达董事会周一宣布，恢复黄仁勋的首席执行官和总裁职务，这是对公司此前公开立场的突然转向，并得到美国政府高层支持。董事会不久前还曾表示不打算让他回来，其间由其他高管代理职务。这一决定结束了过去两周里围绕公司掌舵人的不确定状态。",
+        "报道称这次转向出人意料。黄仁勋因多段婚外关系及相关国家安全疑虑在本月早些时候辞职，随后股价大幅波动；宣布回归后，市场情绪随之扭转。公司同时表示，决定参考了政府高层意见，并认为不构成国家安全风险。多项调查和国会安排并未因此取消。在他离职期间，公司由其他高管代理日常运营，外界一直在猜测董事会是否会改变主意。这篇报道记录的就是这次改口本身，以及政府高层公开表态所扮演的角色。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/7cc778d1943ec29b7f10cc5e5947f0d34ffde5dd.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

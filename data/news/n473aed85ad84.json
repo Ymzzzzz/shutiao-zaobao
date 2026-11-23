@@ -1,0 +1,67 @@
+{
+  "id": "n473aed85ad84",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "报道称美情报机构跟踪风波相关人物与国安部门往来逾一年",
+  "original_title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+  "summary": "报道称，美国情报机构发现Alice Huang在2025年春至今年秋与中国国家安全部保持联络，跟踪已超过一年。联邦调查还在审视相关企业网络是否曾向中国输送英伟达芯片。",
+  "facts": [
+    {
+      "text": "《纽约时报》援引美国情报结论报道，Alice Huang自2025年春至今年秋与中国国家安全部有联络，美方跟踪已超过一年。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据纽约时报援引的美国情报结论称，她的商业伙伴康伟也被认为与该部门合作，联邦调查正在审视相关企业网络是否向中国输送英伟达芯片。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+      "is_primary": false,
+      "published_at": "2026-11-23T21:45:32+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T21:45:32+08:00",
+  "updated_at": "2026-11-23T21:45:32+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称美情报机构跟踪风波相关人物与国安部门往来逾一年",
+  "lead_zh": "《纽约时报》援引美国情报结论报道，Alice Huang自2025年春至今年秋季期间与中国国家安全部有联络，美方相关跟踪已持续一年以上。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder援引《纽约时报》报道称，处于英伟达风波中心的Alice Huang，在**2025年**春季至今年秋季期间与中国国家安全部保持联络，而她当时正与时任首席执行官黄仁勋有秘密婚外关系。美国情报机构对相关往来的跟踪已超过一年。她的商业伙伴康伟（Kang Wei）曾被她介绍为丈夫。",
+        "联邦调查人员正在试图查明，两人是否利用东南亚的企业网络，绕过美国出口管制，向中国输送英伟达人工智能芯片。Alice Huang的公司Megaspeed是该网络的一部分。财政部长斯科特·贝森特还曾要求英伟达在决定未来领导层之前，先把对华芯片销售情况说清楚。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据《纽约时报》援引的美国情报结论称，康伟也被认为与国家安全部有合作。报道刊出时，黄仁勋已因婚外关系曝光辞职，特朗普则试图淡化相关指控。该文主要依据美方情报评估，而非法庭已裁定的事实。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

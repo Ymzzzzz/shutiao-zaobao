@@ -1,0 +1,67 @@
+{
+  "id": "n3120537bb3c8",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": false,
+  "title": "Import AI：华为内核基准、无人机识别与科学评测",
+  "original_title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+  "summary": "Import AI第482期介绍三项研究：面向华为昇腾芯片的内核优化基准AscendGYM，空对空无人机视觉识别数据集，以及要求模型在可能有误的模拟器上给出区间估计的科学评测。",
+  "facts": [
+    {
+      "text": "Import AI第482期介绍面向华为昇腾芯片的内核优化基准AscendGYM、空对空无人机识别数据，以及国家实验室的人工智能科学评测。",
+      "source": "Import AI",
+      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该通讯称，在相关科学评测中只有最强的前沿模型能够完成任务；内核基准测试中表现最好的是Opus 5，其次是GPT-5.6和GLM-5.3。",
+      "source": "Import AI",
+      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Import AI",
+      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+      "is_primary": false,
+      "published_at": "2026-11-23T22:11:17+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T22:11:17+08:00",
+  "updated_at": "2026-11-23T22:11:17+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Import AI：华为内核基准、无人机识别与科学评测",
+  "lead_zh": "本期Import AI介绍深圳河套实验室发布的昇腾内核优化基准AscendGYM，南京航空航天大学的空对空无人机识别数据，以及美国国家实验室的人工智能科学评测。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "杰克·克拉克的通讯Import AI第482期介绍了三项研究。深圳河套实验室发布了面向华为昇腾NPU的内核优化基准AscendGYM，用来评估人工智能能否在保持正确性的前提下，按可接受预算改进已有内核的性能，这对难以获得西方先进芯片、因而更多使用华为硬件的中国机构尤其重要。",
+        "南京航空航天大学研究者构建了空对空无人机视觉识别数据集A2A-UAV。另一项来自美国国家实验室的科学评测要求智能体自行设计实验，使用可能分辨率不足甚至物理上有误的模拟器，并对电导率、热容和背面传热系数等给出**95%**区间估计。通讯还提到创业公司Noeri融资**1.1亿美元**。"
+      ],
+      "sources": [
+        "Import AI"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "通讯怎么说",
+      "paras": [
+        "据该通讯介绍，内核基准测试中单一模型表现最好的是Opus 5，其次是GPT-5.6和GLM-5.3；在国家实验室那项科学评测中，也只有最强的前沿模型能够胜任。作者认为，AscendGYM这类工具可能帮助中国方面用人工智能改进自己的训练和推理软件。"
+      ],
+      "sources": [
+        "Import AI"
+      ]
+    }
+  ],
+  "image_url": "img/d5473e5c3651158498e986f0115a6a8a72e7bf26.jpg",
+  "image_source": "Import AI",
+  "image_origin_url": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

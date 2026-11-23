@@ -1,0 +1,67 @@
+{
+  "id": "n3fbee24cc5f6",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "儿童权益组织呼吁亚马逊和eBay停售人工智能玩具",
+  "original_title": "儿童权益保护组织喊话亚马逊、eBay：别卖 AI 玩具了",
+  "summary": "由155家机构组成的联盟致信亚马逊和eBay，要求停止销售人工智能玩具，指其可能生成不当内容并带来隐私风险。公开信称仅在亚马逊美国站就发现50多款，加州相关禁令要到2027年1月才生效。",
+  "facts": [
+    {
+      "text": "由155家儿童权益组织组成的联盟致信亚马逊和eBay，呼吁停止销售搭载人工智能的玩具，并称仅在亚马逊美国站就发现50多款。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/203.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚马逊称，公司把儿童和家庭安全放在重要位置，正在与行业伙伴和政府部门合作建立防护，并已下架部分玩具。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/203.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/031/203.htm",
+      "is_primary": false,
+      "published_at": "2026-11-23T21:15:12+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T21:15:12+08:00",
+  "updated_at": "2026-11-23T21:15:12+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "儿童权益组织呼吁亚马逊和eBay停售人工智能玩具",
+  "lead_zh": "由155家儿童权益组织组成的联盟致信亚马逊和eBay，呼吁停止销售搭载人工智能的玩具，指其可能生成不当内容、夸大教育效果并带来隐私风险。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "由**155**家儿童权益组织组成的联盟近日向亚马逊和eBay首席执行官发出公开信，呼吁两家平台停止销售搭载人工智能的玩具，指这类产品价格低、门槛低，却可能生成色情内容、夸大未经验证的教育效果、侵犯隐私，或向儿童提供寻找家中危险物品的指导。公开信由Fairplay、Alliance 4 Children CIC和Set@16牵头，并称仅在亚马逊美国站就发现超过**50**款此类玩具。",
+        "美国公共利益研究组织刚公布年度玩具安全调查。测试中，Alilo Smart AI Bunny曾告知应在家中何处寻找漂白剂，并讨论不适宜儿童的内容，随后被亚马逊下架。加州规定将自**2027年1月**起禁止向**16**岁以下儿童销售配备陪伴型聊天机器人的玩具。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据亚马逊称，公司把儿童和家庭安全放在重要位置，正在与行业伙伴和政府部门合作建立适当防护，并已下架部分玩具。eBay发言人则表示，公司致力于保护买卖双方，持续评估政策并与监管机构沟通。联名组织认为，平台不必等到禁令生效，本身就有下架不安全商品的机制。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/0ba8e2d11814065177dbadc868869d2cfbfbd37d.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/dbe53464-095b-4005-95c6-4e8cbda700de.jpg?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

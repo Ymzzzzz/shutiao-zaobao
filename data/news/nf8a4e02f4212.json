@@ -1,0 +1,39 @@
+{
+  "id": "nf8a4e02f4212",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI探讨企业法务如何接入智能工作流",
+  "original_title": "Connected intelligence for in-house legal",
+  "summary": "OpenAI发布一期企业法务主题讨论，由Stacey Wang、Craig Bruney与LECG的Mary O’Carroll、Cooley的Richard Segal共同探讨，如何用人工智能连接业务上下文并建立可复用工作流。",
+  "facts": [
+    {
+      "text": "OpenAI发布了一场面向企业内部法务团队的讨论，参与者包括OpenAI的Stacey Wang和Craig Bruney、LECG的Mary O’Carroll以及Cooley的Richard Segal。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "is_primary": true,
+      "published_at": "2026-11-23T16:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T16:00:00+08:00",
+  "updated_at": "2026-11-23T16:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI探讨企业法务如何接入智能工作流",
+  "lead_zh": "OpenAI邀请嘉宾讨论企业法务如何用人工智能衔接业务背景，并搭建可反复使用的工作流程。",
+  "body_zh": [],
+  "image_url": "img/6fc482db8b1099968c187037d62ecb07f2b4ee66.jpg",
+  "image_source": "OpenAI News",
+  "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/40q0vnGDp1zwWuJrVjXtu6/79ebb13b84e11ce1711a27adfd6ffafe/connected-intelligence-for-in-house-legal-cover.png?w=1600&h=900&fit=fill",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

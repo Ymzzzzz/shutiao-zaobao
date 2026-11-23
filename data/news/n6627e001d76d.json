@@ -1,0 +1,67 @@
+{
+  "id": "n6627e001d76d",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "脑机接口公司Paradromics与英伟达合作处理脑信号",
+  "original_title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+  "summary": "脑机接口公司Paradromics宣布与英伟达合作处理脑数据。其植入装置用400多个电极采集试图说话时的神经信号，再由计算机推断语句，目前解码仍依赖一整车电子设备。",
+  "facts": [
+    {
+      "text": "奥斯汀的脑机接口公司Paradromics宣布与英伟达合作，用其硬件和软件处理植入装置采集的脑信号，目标是缩小目前体积庞大的解码设备。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该公司首席执行官马特·安格尔称，目前整车电子设备一年后将变成可放在轮椅上的小盒子，最终会小到放进手机。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "is_primary": false,
+      "published_at": "2026-11-23T21:11:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T21:11:00+08:00",
+  "updated_at": "2026-11-23T21:11:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "脑机接口公司Paradromics与英伟达合作处理脑信号",
+  "lead_zh": "奥斯汀的Paradromics宣布与英伟达合作，用其硬件和软件处理植入装置采集的脑信号，目标是把目前一整车电子设备逐步缩小到轮椅上的小盒子乃至手机大小。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "脑机接口公司Paradromics宣布与英伟达合作，使用后者的硬件和软件处理脑数据。报道描述了一位因运动神经元病几乎无法发声的使用者玛丽：植入装置从体外看不到，但把试图说话时的神经活动解码成电脑中的合成语音，目前仍需要一整车电子设备。",
+        "该植入装置使用**400**多个电极采集信号，再由计算机用人工智能推断她想说的话。尽管她因运动神经元病几乎无法用口说话，尝试发声时相关神经元仍会放电。合作发布之时，英伟达也正因黄仁勋辞职及相关调查面临领导层变动和联邦审查。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Paradromics创始人兼首席执行官马特·安格尔称，再过一年，这整车设备将变成可以放在轮椅上的小盒子，而这要归功于英伟达的技术；最终这些电子装置会小到能放进手机。公司总部位于奥斯汀。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/4ea77c4899b0f89ecf4f2b8d6cd91217de49226b.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

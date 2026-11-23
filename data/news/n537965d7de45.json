@@ -1,0 +1,67 @@
+{
+  "id": "n537965d7de45",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "The Verge评论：黄仁勋回归体现“精英免责”",
+  "original_title": "Welcome to elite impunity, Jensen Huang",
+  "summary": "The Verge评论文章指出，黄仁勋在11月12日辞职、17日董事会仍称不打算恢复其职务之后，于23日重返英伟达，认为这体现了权贵可以凌驾于规则之上的免责逻辑。",
+  "facts": [
+    {
+      "text": "黄仁勋于11月12日辞职，17日董事会主席仍称不打算恢复其职务，23日他又重返英伟达。评论还梳理了Megaspeed与出口管制调查的时间线。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
+    }
+  ],
+  "claims": [],
+  "analysis": [
+    {
+      "text": "The Verge评论认为，总统强势介入一家美国大公司人事，以及科技界为之欢呼，体现的是权贵免责，而不是自由市场。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "is_primary": false,
+      "published_at": "2026-11-24T06:09:26+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T06:09:26+08:00",
+  "updated_at": "2026-11-24T06:21:36+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "The Verge评论：黄仁勋回归体现“精英免责”",
+  "lead_zh": "The Verge评论认为，黄仁勋在董事会公开表态不会恢复其职务后迅速回归，反映的是政治干预和科技权贵的免责，而不是自由市场的结果。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "这篇The Verge评论文章从一组日期写起：黄仁勋于**11月12日**辞职，**11月17日**英伟达财报会上董事会主席仍称公司“不打算恢复其首席执行官职务”，**11月23日**他又回到了公司。文章并梳理相关时间线：名为Alice Huang的中国公民在**2023年**收购了后来改名Megaspeed的新加坡数据公司；**2024**至**2025年**该公司收到超过**200**批英伟达货物；**2025年9月**美国开始调查其是否违反芯片出口管制，同年10月国务院向特朗普通报了这段婚外关系。",
+        "评论还提到，特朗普曾在黄仁勋回归后发布把两人形象叠在一起的修改图片，副总统万斯也被指推动了这一结果。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "评论怎么看",
+      "paras": [
+        "评论作者认为，美国总统强势介入一家大公司的人事决定，而硅谷对此表示欢迎，这更像命令式经济的信号，而不是他们常说的自由市场。文章把此事与“精英可以免于问责”的政治逻辑联系起来，并认为科技权贵的实际信念是让自己保持富有并凌驾于法律之上。这是媒体评论，不是独立核实后的结论。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/4097f80922f45fdd038f6f45a129b9897f7b8809.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n8fe6012ce648",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达没有黄仁勋的日子大约只持续了两周",
+  "original_title": "Nvidia tried life without Jensen Huang and it lasted about two weeks",
+  "summary": "The Decoder写道，英伟达在没有黄仁勋掌舵大约两周后又请他回来。董事会称该决定一致通过，独立委员会仍在与外部律师继续调查，宣布后公司股价涨逾30%。出口管制审查也被要求继续。",
+  "facts": [
+    {
+      "text": "英伟达董事会一致决定立即恢复黄仁勋的总裁、首席执行官和董事职务，此前由首席财务官科莱特·克雷斯代理，宣布后股价涨逾30%。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据特朗普称，美国司法部长未发现黄仁勋有不当行为。独立委员会仍在与外部律师继续调查。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/",
+      "is_primary": false,
+      "published_at": "2026-11-23T22:24:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T22:24:47+08:00",
+  "updated_at": "2026-11-23T22:24:47+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达没有黄仁勋的日子大约只持续了两周",
+  "lead_zh": "英伟达董事会一致决定立即恢复黄仁勋的总裁、首席执行官和董事职务。此前由首席财务官科莱特·克雷斯代理，公司股价在这段时间大幅下跌，宣布后则涨逾30%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder写道，英伟达在没有黄仁勋掌舵大约两周后又请他回来。董事会在新闻稿中称，决定是一致作出的，并在与黄仁勋谈话、以及听取美国政府高层认为其回归不构成国家安全风险的反馈后作出。代理职务的是首席财务官科莱特·克雷斯，这段时间公司股价大幅下跌，宣布后则涨逾**30%**。",
+        "美国政府仍在审查英伟达的商业往来。特朗普还敦促公司继续检查出口管制是否得到遵守。英伟达已为此设立专门的监督委员会，并在寻找首席合规官。黄仁勋和公司表示将继续配合当局。报道把这段没有他主政的时间概括为大约两周。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据特朗普在Truth Social上称，美国司法部长未发现黄仁勋有不当行为。报道同时指出，董事会的独立委员会仍在与外部律师继续调查此事。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/5c0c1abbac3e69e62edb2a9a823eb3f5292fd7fb.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/05/huang_sccp_ai_screenshot-scaled.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

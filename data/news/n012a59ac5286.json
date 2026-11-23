@@ -1,0 +1,67 @@
+{
+  "id": "n012a59ac5286",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "特朗普推动黄仁勋重返英伟达，相关调查仍在继续",
+  "original_title": "Trump engineered a risky comeback for Jensen Huang",
+  "summary": "英伟达董事会在接受黄仁勋辞职后不到两周，又一致投票恢复其首席执行官、总裁和董事职务。报道称特朗普政府在幕后推动这次回归，但他仍面临国会听证和其他调查。调查仍在继续。",
+  "facts": [
+    {
+      "text": "英伟达董事会在接受黄仁勋辞职后不到两周，又一致投票恢复其首席执行官、总裁和董事职务，报道称特朗普政府在幕后推动这次回归。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据特朗普在CNBC上称，“东山再起没什么不对。”他早前曾在电台节目中说黄仁勋会重新站起来，并提过蒂姆·库克或可接任。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "is_primary": false,
+      "published_at": "2026-11-24T06:25:12+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T06:25:12+08:00",
+  "updated_at": "2026-11-24T06:25:12+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "特朗普推动黄仁勋重返英伟达，相关调查仍在继续",
+  "lead_zh": "在英伟达董事会接受黄仁勋辞职后不久，特朗普政府转而为其回归铺路，董事会随后一致投票恢复其首席执行官、总裁和董事职务，但多项调查仍未结束。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "在英伟达董事会接受黄仁勋因婚外关系报道而辞职后，特朗普起初似乎接受了这一变化。他在斯蒂芬·A·史密斯的电台节目中说，黄仁勋会“重新站起来”，并提到“谁都可以被替换”，还把苹果前首席执行官蒂姆·库克列为可能的人选。随后他的态度转软，政府也在幕后为黄仁勋回归铺路。董事会在公开表示关上门后不到一周，又一致投票恢复其首席执行官、总裁和董事职务。",
+        "消息令分析师和投资者普遍感到意外，尤其是在董事会刚于财报会上向股东保证不打算让他回来之后。他仍定于**12月1日**出席国会相关安排。约克维尔·艾夫斯的分析师在周一的报告中，把有他时的目标价看作**300美元**，没有他时则为**225美元**。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据特朗普在一次庆祝意味的CNBC连线中称，“东山再起没什么不对。”他随后还在Truth Social上发布合成图片。报道认为，调查和听证仍在前面，这次回归并没有结束相关风险。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/b873cb1e7a473fa69b86b9b59fff3e23c83b50b2.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0%2C12.22929670334%2C100%2C75.541406593319&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n1793f4fe05b1",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "评测：华硕ProArt P16展示高价本地大模型电脑",
+  "original_title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+  "summary": "Ars Technica评测华硕ProArt P16，认为它借助英伟达RTX Spark把本地人工智能、办公和游戏放在同一台电脑里，顶配约7000美元，可运行超过1000亿参数的模型。",
+  "facts": [
+    {
+      "text": "Ars Technica评测华硕ProArt P16，机型采用英伟达RTX Spark方案，最高128GB内存，顶配约7000美元，可在本地加载超过1000亿参数的模型。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据评测称，尽管在Windows上更易上手，本地人工智能仍需要大量试错，高价换来的是把智能体、办公和游戏放在同一台电脑里。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "is_primary": false,
+      "published_at": "2026-11-23T20:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T20:00:00+08:00",
+  "updated_at": "2026-11-23T20:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "评测：华硕ProArt P16展示高价本地大模型电脑",
+  "lead_zh": "Ars Technica评测华硕ProArt P16，机型采用英伟达RTX Spark方案，最高128GB内存，顶配约7000美元，可在本地加载千亿参数量级模型，但价格很高。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Ars Technica评测华硕新款ProArt P16，认为英伟达RTX Spark可能让日常电脑的本地人工智能能力变得更有实质内容。这款笔记型电脑没有传统独立显卡，但最高可配**128GB**内存，顶配售价约**7000美元**，既可作为主要的办公和游戏机器，也能在本地加载超过**1000亿**参数的模型，并留出资源给后台较轻的任务。",
+        "评测机搭载Spark N1X：**20**核Grace处理器（10个Cortex-X925性能核，加速约4.0到4.1GHz，以及10个能效核），图形和人工智能则由英伟达GB20B Blackwell GPU负责，约有**6144**个核心，宣称最高约**31** TFLOPS的FP32图形性能和约**1000** TOPS的FP4人工智能算力。内存带宽最高约**300GB/s**，并运行Windows 11。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "评测怎么说",
+      "paras": [
+        "评测认为，多数笔记型电脑的人工智能宣传仍是营销，这款机器的卖点是把本地智能体、生产和游戏放在同一台设备上，但代价很高。作者写道，尽管Windows降低了门槛，本地人工智能仍需要大量试错。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/ab28bf3ca6cdb7ce7188951fea37a65f6394c2b8.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3-1152x648.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

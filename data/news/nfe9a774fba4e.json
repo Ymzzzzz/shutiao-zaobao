@@ -1,0 +1,67 @@
+{
+  "id": "nfe9a774fba4e",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI将GPT-6.2 Sol设为ChatGPT默认对话模型",
+  "original_title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+  "summary": "OpenAI开始向Plus、Pro、商业和企业用户推送对话版GPT-6.2 Sol。公司称该模型在图像理解、网页检索和安全策略遵循上优于GPT-6，企业管理员可决定是否开放。",
+  "facts": [
+    {
+      "text": "OpenAI正在全球把ChatGPT对话页的默认模型换成GPT-6.2 Sol，面向Plus、Pro、商业和企业用户，工作与Codex模型暂不更改。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，内部测试中图像理解从47.4%升至71.7%，困难指令遵循从62.5%升至78.1%，安全策略遵循从77%至80%升至91%至94%。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+      "is_primary": false,
+      "published_at": "2026-11-24T04:39:18+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T04:39:18+08:00",
+  "updated_at": "2026-11-24T04:39:18+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI将GPT-6.2 Sol设为ChatGPT默认对话模型",
+  "lead_zh": "OpenAI正在全球把对话页默认模型换为GPT-6.2 Sol，称内部测试中图像理解从47.4%升至71.7%，困难指令遵循从62.5%升至78.1%，工作与Codex模型暂不变。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI正在全球把ChatGPT对话页的默认模型换成经过对话调优的GPT-6.2 Sol，现已向Plus、Pro、商业和企业用户开放。工作模式和Codex模型维持不变，企业管理员可决定是否向用户开放GPT-6.2。The Decoder报道称，公司认为新模型比GPT-6更善于处理复杂请求和网页检索，也会提出更相关的追问。",
+        "这些数字只适用于ChatGPT的对话模式。在内部专家级任务基准上，GPT-6.2在四个推理档位都超过GPT-6，分数约在**65%**到略高于**71%**，GPT-6约为**52%**到**66%**；在内部版BrowseComp网页检索测试中，它在各档领先，最高档大约高出**10**个百分点。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI介绍，内部测试中图像理解从**47.4%**升至**71.7%**，困难指令遵循从**62.5%**升至**78.1%**。系统卡显示，该模型在困难对话中遵循安全策略的比例为**91%**到**94%**，高于GPT-6的**77%**到**80%**，提升最大的是青少年安全相关议题，包括情感依赖、饮食障碍和危险活动。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/0ac5a78587b81b8b9d18fe8dd3688a4abe9a904f.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/openai_chatgpt_pattern.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

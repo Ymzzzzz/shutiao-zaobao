@@ -1,0 +1,67 @@
+{
+  "id": "n588f7b0a1e0d",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌搜索AI模式可将云端硬盘和钱包纳入个性化回答",
+  "original_title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+  "summary": "谷歌周一扩大搜索AI模式的个性化功能，新增可选的云端硬盘、钱包和Gemini应用接入，与已支持的Gmail、日历和相册并列。公司强调钱包接入后只能读取账户信息，不能动用资金。",
+  "facts": [
+    {
+      "text": "谷歌周一宣布，搜索AI模式的Personal Intelligence将可选接入云端硬盘、钱包和Gemini应用，与已支持的Gmail、日历和相册一起使用。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌称，接入钱包后AI模式只能读取账户信息，不能转移或管理用户资金；接入云端硬盘则可综合分散文档给出例如报税准备计划。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "is_primary": false,
+      "published_at": "2026-11-24T03:14:46+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T03:14:46+08:00",
+  "updated_at": "2026-11-24T03:14:46+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌搜索AI模式可将云端硬盘和钱包纳入个性化回答",
+  "lead_zh": "谷歌周一宣布，搜索AI模式的Personal Intelligence将可选接入云端硬盘、钱包和Gemini应用，与已支持的Gmail、日历和相册一起提供更贴合个人情境的回答。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌周一宣布，扩大搜索AI模式中Personal Intelligence的应用接入范围，新增Google云端硬盘、Google钱包和Gemini应用，与已经可以连接的Gmail、日历和Google相册一起，为回答提供来自用户数字生活的上下文。连接这些应用是可选项，用户可随时开关该功能。",
+        "TechCrunch写道，由于用户已经深度使用这些服务，谷歌可以把生态内已有数据用于更个性化的搜索体验，而这是许多竞争对手难以复制的。当然，并非所有人都希望人工智能查看自己的钱包和网盘。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据谷歌介绍，接入钱包后可用于追踪财务目标、削减日常开支，并更好地使用信用卡奖励；若选择连接，AI模式只能读取账户信息，不能转移或管理资金。接入云端硬盘后，系统可综合分散在文档和表格中的材料，例如生成一份更贴合个人情况的报税准备计划。未来还可在Gemini应用与搜索AI模式之间共享上下文。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/6671ca611f1694c2f947e62e968f6b39ae0b2fb7.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ne4463fe276ea",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic的巨额算力需求促使xAI转向出租算力",
+  "original_title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+  "summary": "《纽约时报》报道，马斯克旗下xAI因盈利压力把算力出租给对手。Anthropic的合约约合每月31亿美元，谷歌约8亿美元，两份合约均可提前90天取消，xAI也在收缩部分自有项目。",
+  "facts": [
+    {
+      "text": "《纽约时报》报道，xAI自5月起向对手出租算力，Anthropic现为最大客户，合约约合每月31亿美元，谷歌约8亿美元，均可提前90天取消。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据马斯克称，Anthropic还希望租用更多算力。报道还称，他曾在群聊中改名为“因为竞争不过所以卖算力”。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+      "is_primary": false,
+      "published_at": "2026-11-24T02:47:53+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T02:47:53+08:00",
+  "updated_at": "2026-11-24T02:47:53+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic的巨额算力需求促使xAI转向出租算力",
+  "lead_zh": "《纽约时报》报道，xAI自5月起向对手出租算力，Anthropic现为最大客户，合约约合每月31亿美元，谷歌约8亿美元，两份合约均可提前90天取消。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder援引《纽约时报》报道称，Anthropic巨大的算力需求，与马斯克旗下xAI日益上升的盈利压力碰到一起。xAI自今年**5月**起向竞争对手出租算力，**6月**上市后创收压力进一步加大。Anthropic现为最大客户，合约约合每月**31亿美元**，谷歌约**8亿美元**，两份合约均可提前**90天**取消。知情人士称，xAI目前逾一半收入来自出租算力。",
+        "为满足Anthropic订单，xAI须在**10月**前完成新数据中心。公司也在收缩自有项目：主管Mike Nicolls**11月**告知员工，约**60人**的Grok Imagine图像与视频团队将被解散；人工智能头像项目已在**9月**关停。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据马斯克称，Anthropic还希望租用更多算力。报道称，他曾在**8月**的工程师群聊中强调“每块GPU的收入”，并因自家模型难以竞争而感到沮丧，甚至把内部群聊改名为“因为竞争不过所以卖算力”。OpenAI也因运力限制关停了Sora视频模型。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

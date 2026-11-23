@@ -1,0 +1,67 @@
+{
+  "id": "n2dac6f709f49",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "人工智能数据中心用电冲击联合国气候谈判",
+  "original_title": "AI data centers throw another wrench into chaotic UN climate talks",
+  "summary": "联合国气候大会COP31周日在土耳其安塔利亚落下帷幕。会议曾希望把电力占全球能源消费的比重在2035年提高到约35%，但人工智能数据中心推高电力需求，使谈判更加棘手。",
+  "facts": [
+    {
+      "text": "联合国气候大会COP31周日在土耳其安塔利亚结束，会议曾希望把电力占全球能源消费的比重在2035年提高到35%，约高于目前的20%。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据The Verge称，一位人士表示每位气候部长都在思考数据中心用电问题，它必然会进入更广泛的能源转型讨论。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "is_primary": false,
+      "published_at": "2026-11-24T05:09:37+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T05:09:37+08:00",
+  "updated_at": "2026-11-24T05:09:37+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "人工智能数据中心用电冲击联合国气候谈判",
+  "lead_zh": "在土耳其安塔利亚结束的联合国气候大会COP31上，代表讨论把电力在全球能源消费中的占比在2035年提高到35%，但迅猛增长的数据中心用电让这一目标更难实现。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "联合国气候大会COP31周日在土耳其安塔利亚落下帷幕，被报道称为一场混乱且不能令人满意的收官。与会代表仍试图落实**2015年**《巴黎协定》承诺。今年最受期待的成果之一，是把电力在全球能源消费中的占比在**2035年**提高到**35%**，目前约为**20%**，以便用风电和太阳能替代油和气。",
+        "与此同时，高耗电的人工智能数据中心正在推高电力需求，使电气化目标更难实现。文章写道，数据中心用电也因此成为本轮谈判中与化石能源转型并列的气候议题。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "报道援引一位对谈判表态的人士称，“世界上每一位气候部长都在思考这件事，它必然会进入讨论，这是更广泛能源转型的一部分。”文章指出，清洁能源转型依赖于让全球经济电气化，而用电激增正发生在同一时刻。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/54d9f718dc200957404004c794d0b876f617260a.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0%2C10.750882913364%2C100%2C78.498234173273&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n1abf2bc2270e",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "Docker更新徽标，强调面向智能体的可信容器环境",
+  "original_title": "Docker 徽标焕新，致力于打造面向智能体的安全容器化环境",
+  "summary": "Docker宣布更新徽标，新版Moby鲸鱼形象更抽象，并以黑色为身体基调。公司表示，新标识意在强调面向智能体时代、安全隔离且可治理的可信容器环境，同时仍把开发者和开放合作放在首位。",
+  "facts": [
+    {
+      "text": "Docker于本月19日宣布更新以Moby鲸鱼为形象的徽标，新版更抽象简洁，并以黑色为身体基调。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/194.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Docker称，新徽标下的公司专为信任而生，致力于在智能体时代打造安全、隔离和可治理的可信执行环境，同时仍把开发者和开放合作放在首位。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/194.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/031/194.htm",
+      "is_primary": false,
+      "published_at": "2026-11-23T20:11:11+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T20:11:11+08:00",
+  "updated_at": "2026-11-23T20:11:11+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Docker更新徽标，强调面向智能体的可信容器环境",
+  "lead_zh": "Docker于本月19日宣布更新以Moby鲸鱼为形象的徽标，称新标识更抽象简洁，并强调在智能体时代打造安全、隔离和可治理的可信执行环境。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家**11月23日**报道，容器工具公司Docker于本月**19日**宣布更新徽标。新版Moby鲸鱼形象更抽象简洁，并以黑色为身体基调。官方在配套博客中解释了这次换标，并强调容器在智能体时代应成为可信的执行环境，具备安全、隔离和治理能力。",
+        "报道转述，Docker表示自己并未抛弃传统方向：仍然致力于开放和行业合作，始终把开发者放在首位，并继续追求极致简洁。IT之家同时注明，文中的对外链接仅供参考。可核对的公开信息主要来自公司这次换标说明，篇幅有限。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Docker称，新徽标下的公司“专为信任而生”，目标是打造面向智能体时代的容器化环境，让安全、隔离、可治理的容器成为智能体可信执行环境的一部分。与此同时，公司仍强调开放合作与开发者优先。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/fe5a6c22e65cf7225f4572065042c63d4217807b.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/f3b148f7-4b32-486c-b528-47736033bb40.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

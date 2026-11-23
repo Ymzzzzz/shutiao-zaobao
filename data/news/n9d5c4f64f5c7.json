@@ -1,0 +1,67 @@
+{
+  "id": "n9d5c4f64f5c7",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Claude新增智能体，可审阅修复并批准拉取请求",
+  "original_title": "Claude AI can review pull requests and ship fixes on its own now",
+  "summary": "Anthropic推出Claude Ship。代码审查已于10月正式开放，新的PR Steward和Claude Approvals进入测试，可处理持续集成失败和合并冲突，并按团队策略批准常规改动。",
+  "facts": [
+    {
+      "text": "Anthropic发布Claude Ship：代码审查已于10月正式开放，新的PR Steward和Claude Approvals进入测试，面向Team和Enterprise用户并支持GitHub仓库。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Anthropic称，PR Steward会介入失败的持续集成检查、合并冲突和审查意见并说明改动；Claude Approvals可在组织策略允许时批准常规改动。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "is_primary": false,
+      "published_at": "2026-11-24T04:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T04:00:00+08:00",
+  "updated_at": "2026-11-24T04:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Claude新增智能体，可审阅修复并批准拉取请求",
+  "lead_zh": "Anthropic发布Claude Ship，已有代码审查功能继续可用，并新增可处理检查失败与合并冲突、以及按策略批准常规改动的测试版智能体。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anthropic推出Claude Ship，让Claude审阅、修复并在符合策略时批准拉取请求。代码审查功能于今年3月宣布，**10月**正式开放；与Claude Ship一同新增的是进入测试的PR Steward和Claude Approvals。该产品面向Claude Team和Enterprise客户，并支持GitHub上的代码仓库。",
+        "新智能体的目标是减少模型大量写代码之后，人工处理检查失败、冲突和批准所形成的瓶颈，把拉取请求之后的步骤也加速。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Anthropic介绍，PR Steward会在持续集成检查失败、出现合并冲突，或收到代码审查、其他工具及同事的反馈时介入，并就自己改了什么留下评论。Claude Approvals则可在组织策略允许时批准常规改动，决策时可参考代码审查结论，或团队用自然语言定义的分类器。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/3af6ebd1662ca2892753751a123b1b036adb626a.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

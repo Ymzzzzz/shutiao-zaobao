@@ -1,0 +1,183 @@
+{
+  "id": "n680b35173b97",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Richpanel称可用GPT-6在30天内自动化半数客服",
+  "original_title": "Richpanel helps companies automate 50% of support in 30 days",
+  "summary": "Richpanel用GPT-6 Astra和GPT-6.1 Sol搭建名为Boss AI的配置智能体，用GPT-6 Luna等模型承接一线对话，并称在约300个部署中均兑现了30天内50%自动化的承诺。",
+  "facts": [
+    {
+      "text": "Richpanel使用GPT-6 Astra和GPT-6.1 Sol为名为Boss AI的配置智能体编写流程和工具，一线对话则使用GPT-6 Luna等更经济的模型。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+    },
+    {
+      "text": "该公司承诺客户在最初30天内达到50%自动化，否则退款。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Richpanel首席执行官Amit RG称，截至2026年10月的访谈，过去六个月约完成300个人工智能客服部署，且都达到了30天内50%自动化的承诺。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "is_primary": true,
+      "published_at": "2026-11-23T16:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T16:00:00+08:00",
+  "updated_at": "2026-11-23T16:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Richpanel称可用GPT-6在30天内自动化半数客服",
+  "lead_zh": "客服公司Richpanel介绍，其用GPT-6 Astra和GPT-6.1 Sol配置工具与流程，用GPT-6 Luna承接对话，并承诺30天内达到50%自动化，否则退款。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "客服公司Richpanel在OpenAI的客户故事中介绍，其不仅用大模型回答问题，还用模型为智能体配置所需工具和流程。公司构建了一个负责部署的“经理”智能体，客户称之为Boss AI，由它编写流程，并定义一线客服、协作助手和质检智能体如何调用工具。Boss AI使用GPT-6 Astra和GPT-6.1 Sol，一线大量对话则使用GPT-6 Luna等更看重成本的模型。",
+        "该公司向客户承诺，最初**30天**内达到**50%**自动化，否则退款。这篇故事发布于一次**2026年10月**的访谈之后。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Richpanel首席执行官Amit RG称，人类客服服务一名客户可能用到**20**或**30**种工具，且流程往往从未被写下来；他认为智能已不再是瓶颈，周围的工具和流程才是。他表示，截至访谈前六个月公司约完成**300**个人工智能客服部署，且都兑现了上述自动化承诺，并称在这些案例中，人工智能在客户满意度上超过了人工客服。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "img/81d9aa611ff91fa2f03376b4799d90a529ad0b4f.jpg",
+  "image_source": "OpenAI News",
+  "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-12",
+    "title_en": "Richpanel helps companies automate 50% of support in 30 days",
+    "title_zh": "Richpanel 称可在 30 天内自动化 50% 的客服工作",
+    "dek_en": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "dek_zh": "Richpanel 使用 GPT-6 Astra 和 GPT-6.1 Sol，为其人工智能客服智能体配备工具和流程，并用 GPT-6 Luna 处理对话。",
+    "word_count_zh": 849,
+    "read_minutes": 3,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "人工智能客服智能体不仅需要知道如何回答客户的请求，还需要能够执行解决方案。为此，它们需要获得恰当的工具和指令。",
+        "en": "Beyond knowing how to answer a customer’s request, AI support agents need to be able to execute a solution. And for that, they need access to the right tools and instructions."
+      },
+      {
+        "t": "p",
+        "zh": "据 Richpanel 首席执行官 Amit RG 所说，人工客服代理可以使用 20 或 30 种工具来服务客户，而他们所遵循的流程可能从来没有被写下来。",
+        "en": "According to Richpanel CEO Amit RG, human support agents can use 20 or 30 tools to serve a customer, and the procedures they follow may never have been written down."
+      },
+      {
+        "t": "p",
+        "zh": "Richpanel 的解决办法是使用 OpenAI 的模型，既搭建人工智能客服智能体采取行动所需的工具和流程，也处理客户对话。",
+        "en": "Richpanel⁠(opens in a new window) solves that using OpenAI models to both set up the tools and procedures AI support agents need to act and handle customer conversations."
+      },
+      {
+        "t": "p",
+        "zh": "「智能本身已不再是瓶颈。瓶颈是它周围的一切。」",
+        "en": "“The intelligence is no longer the bottleneck. It’s everything around it.”"
+      },
+      {
+        "t": "h",
+        "zh": "为人工智能客服构建工具和流程",
+        "en": "Building the tools and procedures for AI support"
+      },
+      {
+        "t": "p",
+        "zh": "部署一个客服智能体，往往需要一名前线派驻工程师把智能体连接到客户的系统，并定义它应如何工作。Amit 看到许多公司腾不出工程师，于是问自己：「如果那个前线派驻工程师本身就是一个人工智能智能体呢？」",
+        "en": "Deploying a support agent often requires a forward-deployed engineer to connect the agent to a customer’s systems and define how it should work. Amit saw that many companies didn’t have engineers to spare and asked himself, “What if that forward-deployed engineer itself was an AI agent?”"
+      },
+      {
+        "t": "p",
+        "zh": "于是 Richpanel 把它做了出来：一个负责处理智能体设置的人工智能管理者。客户开始称它为 Boss AI。它撰写流程，并定义 Richpanel 的一线客服智能体、副驾和质检智能体如何调用它们所需的工具。",
+        "en": "So Richpanel built it: an AI manager to handle agent setup. Customers began calling it Boss AI. It writes procedures and defines how Richpanel’s frontline support agent, copilot, and quality-assurance agent call the tools they need."
+      },
+      {
+        "t": "p",
+        "zh": "Richpanel 将 GPT-6 Astra 和 GPT-6.1 Sol 用于 Boss AI，在构建其他智能体将要遵循的工具和流程时优先保证准确性。",
+        "en": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol for Boss AI, prioritizing accuracy when building the tools and procedures its other agents will follow."
+      },
+      {
+        "t": "h",
+        "zh": "在客服运营中平衡智能与成本",
+        "en": "Balancing intelligence and cost across support operations"
+      },
+      {
+        "t": "p",
+        "zh": "Richpanel 将一线智能体设计为可处理数十万次对话，因此每次互动的成本是模型选择的重要考量。它使用 GPT-6 Luna 和其他 OpenAI 模型来完成这项工作。Amit 说，Richpanel 对其副驾和质检智能体也采取同样的方法。",
+        "en": "Richpanel designs the frontline agent to handle hundreds of thousands of conversations, making the cost of each interaction an important part of model selection. It uses GPT‑6 Luna and other OpenAI models for that work. Amit says Richpanel takes the same approach to its copilot and quality-assurance agents."
+      },
+      {
+        "t": "p",
+        "zh": "「关键是成本与智能之间的平衡，」Amit 说。Richpanel 的客户可能已经在使用低成本的外包客服。自动化其运营，必须在这一起点上说得通财务账。",
+        "en": "“What matters is a balance of cost and intelligence,” Amit says. Richpanel’s customers may already use low-cost outsourced support. Automating their operations has to make financial sense against that starting point."
+      },
+      {
+        "t": "p",
+        "zh": "Amit 将此归功于 OpenAI 提供了既能处理长上下文和更长任务、又能保持成本效率的模型。Richpanel 可以用更深的推理来准备其客服智能体，再用更经济的模型来运行随后的对话。",
+        "en": "Amit credits OpenAI with making models available that can handle long context and longer tasks while remaining cost efficient. Richpanel can use deeper reasoning to prepare its support agents and more economical models to run the conversations that follow."
+      },
+      {
+        "t": "p",
+        "zh": "「OpenAI 的模型能够运行这些长上下文、更长周期的任务，同时仍然非常具有成本效率。」",
+        "en": "“OpenAI models can run these long-context, longer-horizon tasks while still being very cost efficient.”"
+      },
+      {
+        "t": "h",
+        "zh": "提高联络中心自动化率和客户满意度",
+        "en": "Increasing contact center automation and customer satisfaction"
+      },
+      {
+        "t": "p",
+        "zh": "在 2026 年 10 月这次访谈时，Amit 说 Richpanel 在过去六个月里已完成约 300 个人工智能客服部署。",
+        "en": "At the time of the October 2026 interview, Amit said Richpanel had completed approximately 300 AI customer-support deployments over the previous six months."
+      },
+      {
+        "t": "p",
+        "zh": "该公司向客户保证，在最初 30 天内达到 50% 的自动化率，否则退款。Amit 说，在所有这些部署中都兑现了这一承诺，并补充道：「在每一个案例中，就客户满意度而言，人工智能都超过了人工客服。」",
+        "en": "The company guarantees customers a 50% automation rate within the first 30 days or their money back. Amit says it met that commitment across all of those deployments, adding, “In each of the cases, the AI is beating human support agents when it comes to customer satisfaction.”"
+      },
+      {
+        "t": "h",
+        "zh": "OpenAI <3 初创公司",
+        "en": "OpenAI <3 startups"
+      },
+      {
+        "t": "h",
+        "zh": "获取 OpenAI for Business 动态",
+        "en": "Get OpenAI for Business updates"
+      },
+      {
+        "t": "p",
+        "zh": "产品更新、实用指南、即将举行的活动，以及更多内容。",
+        "en": "Product updates, practical guides, upcoming events, and more."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n0908ebe9dc86",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋如何在辞职后不到两周重返首席执行官",
+  "original_title": "How Jensen Huang ended up as Nvidia CEO again",
+  "summary": "The Verge回顾黄仁勋的回归路径：他在11月12日辞职，董事会主席随后公开表示不打算恢复其职务，但包括特朗普在内的盟友随即展开施压，使他很快重返英伟达。公司股价随即大涨。",
+  "facts": [
+    {
+      "text": "黄仁勋于11月12日辞职，董事会主席哈维·琼斯随后在财报会上称不打算恢复其职务，但在包括特朗普在内的盟友施压下，他很快重返英伟达。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据黄仁勋称，他对妻子不忠，并“给董事会制造了麻烦”。琼斯曾表示董事会一致接受辞职且不打算让他回来。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "is_primary": false,
+      "published_at": "2026-11-24T03:57:18+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T03:57:18+08:00",
+  "updated_at": "2026-11-24T04:38:44+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋如何在辞职后不到两周重返首席执行官",
+  "lead_zh": "黄仁勋11月12日因婚外关系等风波辞职后，董事会主席琼斯曾公开称不打算恢复其职务，但在包括特朗普在内的盟友施压下，他很快重返自己创办的公司。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge回顾了黄仁勋如何在不到两周内重返英伟达。他在约三十年前参与创办这家如今被视为人工智能领域最重要的公司之一，并在**11月12日**辞去担任了三十多年的职务。辞职前，相关报道从与涉嫌向中国传递情报的女子关系，延伸到Alice Huang及Megaspeed是否涉及芯片走私，以及他与英伟达医疗健康副总裁金伯利·鲍威尔的婚外关系。",
+        "当时这一决定看起来已经定局。董事会主席哈维·琼斯上周在财报会上说，董事会一致接受辞职，并且不打算恢复其职务。但随后他的盟友——包括特朗普——展开施压，公司股价也在回归消息后大幅上扬。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据黄仁勋称，他对妻子“不忠”，并“给董事会制造了麻烦”。琼斯则在财报会上明确表示，董事会不打算让他回来。这篇文章写的是随后这场压力行动如何改变了结局。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/b602fd431941d9e7defebee9a4744ab8e546c324.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0%2C11.076427579259%2C100%2C77.847144841482&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

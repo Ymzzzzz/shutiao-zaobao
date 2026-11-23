@@ -1,0 +1,67 @@
+{
+  "id": "ncce907208d41",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "科技界名人密集祝贺黄仁勋重返英伟达",
+  "original_title": "Tech leaders are celebrating Jensen Huang’s return",
+  "summary": "The Verge汇总科技界对黄仁勋回归的祝贺，包括马斯克、阿尔特曼和Epic Games的蒂姆·斯威尼等人。报道称，消息传出后纳斯达克100期货一度因上涨过快而暂停交易。",
+  "facts": [
+    {
+      "text": "黄仁勋恢复职务后，马斯克、阿尔特曼、蒂姆·斯威尼等人公开祝贺，报道称纳斯达克100期货一度因涨速过快而暂停交易。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据特朗普称，他曾对黄仁勋说“只要答应我一件事：你会努力工作”，并称前一晚还与他通过话。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "is_primary": false,
+      "published_at": "2026-11-24T00:14:04+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T00:14:04+08:00",
+  "updated_at": "2026-11-24T04:16:17+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "科技界名人密集祝贺黄仁勋重返英伟达",
+  "lead_zh": "黄仁勋恢复职务后，马斯克、阿尔特曼、蒂姆·斯威尼等人公开祝贺。报道还提到，相关消息传出时，纳斯达克100期货一度因涨速过快而暂停交易。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge汇总了科技界对黄仁勋回归的祝贺。埃隆·马斯克反应热烈，萨姆·阿尔特曼也被写进这份名单，因为他有过被董事会赶下台后又迅速回归的经历。Epic Games的蒂姆·斯威尼、Shopify的托比·吕特克、以及沙伊芙恩·齐利斯、尚恩·马圭尔、钱达斯·帕利哈皮蒂亚等人也有表态。马尔克·安德烈森没有正式评论。",
+        "据Odd Lots主持人乔·魏森塔尔观察，纳斯达克100期货因上涨过快一度暂停交易。文章在**11月23日**又补充更新了更多人士的反应。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他们怎么说",
+      "paras": [
+        "据特朗普称，他对黄仁勋说“只要答应我一件事：你会努力工作”，并提到前一晚还与他通过话，因为“我知道正在发生什么”。他在同一场合再次表示“我们需要保护我们的天才”。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/0ec918771a057559ae25c1f9b78e8b026739215a.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

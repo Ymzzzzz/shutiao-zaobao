@@ -1,0 +1,67 @@
+{
+  "id": "n4fee0c0f2148",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "评论：黄仁勋回归并未结束芯片与安全疑问",
+  "original_title": "Jensen Huang isn’t out of the woods yet",
+  "summary": "一篇评论文章提醒，黄仁勋重返英伟达并不意味着风波结束。文章指出，关于受限芯片如何流入中国、公司知情多少，以及总统高调介入可能带来的副作用，疑问仍然存在。纳斯达克当日大涨。",
+  "facts": [
+    {
+      "text": "黄仁勋周一重返英伟达首席执行官岗位后，股价和相关云计算公司随之大涨，纳斯达克上涨7%。评论文章提醒调查和芯片流向问题并未结束。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
+    }
+  ],
+  "claims": [],
+  "analysis": [
+    {
+      "text": "TechCrunch评论认为，市场狂欢不应掩盖芯片如何流入中国、公司知情程度，以及总统高调介入可能带来的新风险。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "is_primary": false,
+      "published_at": "2026-11-24T00:57:40+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T00:57:40+08:00",
+  "updated_at": "2026-11-24T00:57:40+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "评论：黄仁勋回归并未结束芯片与安全疑问",
+  "lead_zh": "TechCrunch评论认为，市场为黄仁勋回归欢呼，但英伟达芯片如何流入中国、公司知情程度以及特朗普高调介入，都可能带来新的风险。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "黄仁勋周一重返英伟达首席执行官岗位，距离他因多段婚外关系辞职并不久。消息传来，市场情绪高涨：不仅英伟达股价回升，CoreWeave、Nebius等所谓“新云”公司也大涨，纳斯达克上涨**7%**。特朗普已对记者表示，美国政府未发现这段关系构成国家安全问题。",
+        "就在周末，《纽约时报》还报道，Alice Huang在与黄仁勋交往的同一时期，与中国国家安全部一名人员保持了持续接触。对她的公司如何把受限芯片送入中国、英伟达又知情多少，调查仍在进行。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "评论怎么看",
+      "paras": [
+        "评论认为，这不是风波的终点，更像是新问题的开始。作者写道，为黄仁勋辩护的人常质疑Alice Huang是否真是间谍，但大量受限芯片经其公司流入中国是更难回避的事实；总统高调介入，也可能给英伟达及其伙伴带来副作用。随着民主党掌握更多审视空间，相关追问料将继续。这是评论判断，不是已证实的结论。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/89898000348029c9a4340d0b79dfe6bf7c79829f.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "nc059a9919df7",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "智谱GLM-5.4改用循环架构，宣称对标更大规模模型",
+  "original_title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+  "summary": "智谱发布采用循环Transformer的GLM-5.4，将28层运行两遍。公司称7500亿参数模型可接近2到3万亿参数模型的表现，但文中给出的基准分数来自300亿参数试验模型。",
+  "facts": [
+    {
+      "text": "智谱推出旗舰模型GLM-5.4，采用循环Transformer，把28层运行两遍，并称7500亿参数模型可达到2到3万亿参数模型的水平。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据智谱称，在同结构的300亿参数试验中，AIME25分数从19.2升至30.4，但尚未公布7500亿参数旗舰本身的基准分数。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+      "is_primary": false,
+      "published_at": "2026-11-23T23:13:03+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T23:13:03+08:00",
+  "updated_at": "2026-11-23T23:13:03+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "智谱GLM-5.4改用循环架构，宣称对标更大规模模型",
+  "lead_zh": "智谱推出旗舰模型GLM-5.4，把28层运行两遍，称这款7500亿参数模型可达到2到3万亿参数模型的水平，但尚未公布这款旗舰本身的基准分数。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "智谱（Z.ai）推出旗舰模型GLM-5.4，这是其首个采用循环Transformer的大模型：把共享的**28**层运行两遍，在不增加参数的情况下加深网络。公司将这款**7500亿**参数模型视为“广义编程”的起点，希望代码也能生成视频、游戏和CAD模型。该架构与OpenAI自GPT-6 Astra以来使用的思路类似。团队是把今年**2月**发布的GLM-5基座改造成循环模型，而不是从零训练。",
+        "为控制第二遍计算，模型为每个词元和每一遍设置门控，并使用共享缓存。公司称，即便在**100万**词元上下文下，相对GLM-5.3的额外开销仍可接受，非高峰期速度可达每秒**200**个词元，负载下约**70**到**80**。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据智谱介绍，他们在**10亿**、**40亿**、**300亿**和**7500亿**参数规模上做了试验。同结构的**300亿**参数循环模型比基线多用约**10%**训练算力后，AIME25从**19.2**分升至**30.4**分，GPQA-Diamond从**47.6**升至**56.3**。The Decoder指出，这些分数来自试验模型，旗舰本身的基准尚未公布。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

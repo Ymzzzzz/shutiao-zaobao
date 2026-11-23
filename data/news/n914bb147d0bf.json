@@ -1,0 +1,143 @@
+{
+  "id": "n914bb147d0bf",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "三家机构回顾上市前重仓Anthropic的投注",
+  "original_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "summary": "Notable Capital、新加坡主权基金GIC和Baillie Gifford向TechCrunch回顾，它们在Anthropic上市前多轮重仓的理由。Anthropic上市筹资813亿美元，完全稀释估值约1.5万亿美元。",
+  "facts": [
+    {
+      "text": "Notable Capital曾把其10亿美元以上基金中美国部分的约10%投入Anthropic的E轮，当时估值为615亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    },
+    {
+      "text": "周三Anthropic完成史上规模最大的IPO，筹资813亿美元，完全稀释估值约1.5万亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Notable管理合伙人Hans Tung称，他们当时发现开发者使用Claude的比例约为70%，较前一年出现逆转。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "is_primary": false,
+      "published_at": "2026-11-23T09:25:53+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T09:25:53+08:00",
+  "updated_at": "2026-11-23T09:25:53+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "三家机构回顾上市前重仓Anthropic的投注",
+  "lead_zh": "科技媒体专访三家在Anthropic上市前重仓的投资机构，回顾它们加码的依据，以及上市后已经显现的账面回报。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch回顾了三家在Anthropic上市前重仓的投资机构。Notable Capital（2024年从GGV Capital拆分后的名称）曾把规模逾10亿美元基金中美国部分的约**10%**投入Anthropic的E轮，估值达**615亿美元**。周三，Anthropic完成史上面额最大的IPO，筹资**813亿美元**，完全稀释估值约**1.5万亿美元**，对Notable而言约相当于**15倍**账面回报。",
+        "新加坡主权基金GIC在2025年9月宣布的F轮（估值**1830亿美元**）首次出资，后又与Coatue共同领投估值3800亿美元的G轮，并参与领投上市前一轮（估值9650亿美元）。知情人士称，GIC三轮合计投入超过**45亿美元**，上市后持股约**1%**。Baillie Gifford则在三轮中共投入**15亿美元**。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "投资人怎么说",
+      "paras": [
+        "据Notable管理合伙人、联合创始人Hans Tung向TechCrunch表示，团队发现开发者使用Claude的比例约为**70%**，与前一年相比出现逆转；他认为开发者是人工智能的早期采用者，且关键任务仍会需要美国的闭源模型。GIC科技投资负责人Chris Emanuel称，F轮时Claude Code刚发布，但已能看出它在开发者中很受欢迎。Baillie Gifford美国成长投资负责人Lillian Li则表示，公司是在看到Anthropic持续执行其愿景、并拿出强劲收入和可观毛利率后才开始投资。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/a4149b601c24112c6bb74a2a6595481a20ab73b8.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Marina Temkin",
+    "author_title_zh": "",
+    "published_at": "2026-11-23",
+    "title_en": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "title_zh": "Notable Capital、GIC 和 Baillie Gifford 如何在上市前重仓 Anthropic",
+    "dek_en": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "dek_zh": "三家重要出资方分享，是什么让他们有信心向 Anthropic 投下数十亿美元的赌注。",
+    "word_count_zh": 1084,
+    "read_minutes": 3,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "当 Notable Capital 将其超过 10 亿美元基金中美国部分约 10% 投入 Anthropic 的 E 轮时，许多有限合伙人被这笔巨额押注搞得困惑不已。Claude 的开发商当时仍落后于最大竞争对手 OpenAI，而 DeepSeek 刚刚在数周前发布了 R1 模型，对闭源对手构成超车威胁。此外，以 615 亿美元计算，Anthropic 的估值远高于这家以早期投资为主的风投机构在其 25 年历史上所投过的任何一笔。",
+        "en": "When Notable Capital poured roughly 10% of the U.S. portion of its $1 billion-plus fund into Anthropic’s Series E, many limited partners were perplexed by the massive bet. Claude’s maker was still trailing its biggest rival, OpenAI, and DeepSeek had released its R1 model just weeks earlier, threatening to overtake closed-source competitors. Moreover, at $61.5 billion, Anthropic’s valuation was by far the highest that the predominantly early-stage venture firm had invested at in its 25-year history."
+      },
+      {
+        "t": "p",
+        "zh": "但 Notable 的投资人——该机构在 2024 年与中国业务分拆前曾名为 GGV Capital——对 Anthropic 的前景充满信心。包括管理合伙人 Hans Tung、Glenn Solomon 以及负责人 Dan Cahana 在内的团队测算后发现，开发者日益更青睐 Claude 而非 ChatGPT，使用 Claude 的时间占比达到 70%，与前一年的情况正好相反。",
+        "en": "But investors at Notable, formerly known as GGV Capital before its 2024 split from its China operations, were confident in Anthropic’s future. A team that included managing partners Hans Tung and Glenn Solomon and principal Dan Cahana crunched the numbers and found that developers were increasingly favoring Claude over ChatGPT, using Claude 70% of the time, a reversal from the previous year."
+      },
+      {
+        "t": "p",
+        "zh": "「我们只是清楚，对人工智能而言，开发者处于中心位置，因为他们是早期采用者，」该机构联合创始人 Tung 对 TechCrunch 说。",
+        "en": "“We just knew that for AI, the developer is at the center because they’re the early adopters,” Tung, a co-founder of the firm, told TechCrunch."
+      },
+      {
+        "t": "p",
+        "zh": "由于亲身经历过美中关系的复杂局面，Notable 也确信，「关键任务」工作将始终需要总部位于美国的闭源模型，Tung 说。",
+        "en": "Having navigated the complexities of U.S.-China relations firsthand, Notable was also convinced that “mission-critical” work would always require U.S.-based, closed-source models, Tung said."
+      },
+      {
+        "t": "p",
+        "zh": "不到两年后，Notable 的有限合伙人已不再质疑这笔超大规模投资。周三，Anthropic 在史上规模最大的 IPO 中筹集了 813 亿美元，在次日股份开始交易前，完全稀释估值为约 1.5 万亿美元，纸面回报大约为 15 倍。",
+        "en": "Less than two years later, Notable’s LPs are no longer questioning the outsized investment. On Wednesday, Anthropic raised $81.3 billion in the largest IPO in history, reaching a fully diluted valuation of about $1.5 trillion before its shares began trading the next day, a paper return of roughly 15 times."
+      },
+      {
+        "t": "p",
+        "zh": "当然，Notable 并非唯一因 Anthropic 而获得巨额账面收益的机构。即便是很少见到风投量级回报倍数的传统后期投资人，也将迎来一次大胜。",
+        "en": "Notable is, of course, not the only firm sitting on a massive paper windfall from Anthropic. Even traditional late-stage investors, who rarely see venture-scale multiples, are set for a big win."
+      },
+      {
+        "t": "p",
+        "zh": "新加坡主权财富基金 GIC 在整个 2024 年都在研究 Anthropic，但直到该基金科技投资负责人 Chris Emanuel 于 2025 年初在旧金山意大利餐厅 Che Fico 会见 Anthropic 首席财务官 Krishna Rao 之后，才作出第一笔投资。Rao 展示了模型改进如何推动企业采用上升，从而激发了 Emanuel 对该公司的兴趣。随后，GIC 在 Anthropic 的 F 轮完成了首笔投资，该轮于 2025 年 9 月宣布，估值为 1830 亿美元。",
+        "en": "Singaporean sovereign wealth fund GIC had been researching Anthropic throughout 2024, but it didn’t make its first investment until after Chris Emanuel, head of the fund’s tech investments, met with Anthropic CFO Krishna Rao at Che Fico, an Italian restaurant in San Francisco, in early 2025. Rao helped pique Emanuel’s interest in the company by showing that model improvements were driving rising enterprise adoption. GIC then made its first investment in Anthropic’s Series F, a round announced in September 2025 at a $183 billion valuation."
+      },
+      {
+        "t": "p",
+        "zh": "「Claude Code 当时刚刚发布，」Emanuel 对 TechCrunch 说。「那还非常早期，但即便那时，我们也能看到它在开发者中非常受欢迎的迹象。」GIC 对这家人工智能实验室的信心如此之高，以至于该基金后来与 Coatue 一道领投了 Anthropic 估值为 3800 亿美元的 G 轮，并作为联席领投之一回归了估值为 9650 亿美元的上市前一轮。据一名熟悉 GIC 财务情况的人士透露，在这三轮中，GIC 对 Anthropic 的投资超过 45 亿美元，在其 IPO 后持有约等于该公司 1% 的股份。",
+        "en": "“Claude Code was just released then,” Emanuel told TechCrunch. “It was very early, but even then, we could see signs that it was really popular with developers.” GIC’s conviction in the AI lab was so high that the fund later led Anthropic’s Series G alongside Coatue at a $380 billion valuation, and returned as one of the co-leads for the pre-IPO round at $965 billion. Across the three rounds, GIC invested more than $4.5 billion in Anthropic, amassing a stake equal to about 1% of the company after its IPO, according to a person familiar with GIC’s financials."
+      },
+      {
+        "t": "p",
+        "zh": "Baillie Gifford 负责美国成长投资的 Lillian Li，在首次投资该公司 F 轮之前近两年就开始研究 Anthropic 并与其团队交谈。Li 对 TechCrunch 表示，一旦该公司显然在「持续兑现」其愿景，同时产生强劲收入和「有吸引力的毛利率」，Baillie Gifford 便投资了这家 Claude 开发商。",
+        "en": "Lillian Li, who leads U.S. growth investments at Baillie Gifford, began studying Anthropic and speaking with its team nearly two years before first investing in the company’s Series F. Baillie Gifford invested in the Claude maker once it became clear that the company was “executing consistently” on its vision while generating strong revenue and “compelling gross margins,” Li told TechCrunch."
+      },
+      {
+        "t": "p",
+        "zh": "Li 说，在 Baillie Gifford 的初始投资之后，Anthropic 继续兑现承诺，扩展到法律服务和生命科学等行业，以及 Cowork 和网络安全等更广泛的应用。",
+        "en": "After Baillie Gifford’s initial investment, Anthropic continued to deliver on its promises, expanding into industries such as legal services and life sciences, as well as broader applications like Cowork and cybersecurity, Li said."
+      },
+      {
+        "t": "p",
+        "zh": "「在一切都在如此迅速变化的情况下，他们能保持如此稳定，其实相当不可思议，」她补充道。Baillie Gifford 随后在三轮融资中总共投资了 15 亿美元，这笔押注为这家投资管理机构带来了可观的账面收益，也为其他数十家曾在一度看起来天文数字的估值上投资的出资方带来了收益。",
+        "en": "“It’s actually quite incredible how consistent they have been with how quickly everything’s been changing,” she added. Baillie Gifford went on to invest a total of $1.5 billion across three funding rounds, a bet that has generated substantial paper gains for the investment manager, as well as for dozens of other backers who invested at what once seemed like astronomical valuations."
+      }
+    ]
+  }
+}

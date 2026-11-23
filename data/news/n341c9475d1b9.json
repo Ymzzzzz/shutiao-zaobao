@@ -1,0 +1,67 @@
+{
+  "id": "n341c9475d1b9",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": false,
+  "title": "Meta主管称黎曼猜想草证显示超智能临近",
+  "original_title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+  "summary": "Meta人工智能主管Alexandr Wang把近期有模型参与的黎曼猜想证明草图视为超智能临近的信号。他认为模型很快可能自动改进自身，并提醒行业不应只讨论安全。",
+  "facts": [
+    {
+      "text": "Meta人工智能主管Alexandr Wang把近期有模型参与的黎曼猜想证明草图，视为超智能临近的明确信号。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据王称，当前模型缺少的主要是领域知识和基础设施，由于人工智能研究本身比黎曼猜想更容易，模型可能很快自动改进自身。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+      "is_primary": false,
+      "published_at": "2026-11-23T21:59:36+08:00"
+    }
+  ],
+  "published_at": "2026-11-23T21:59:36+08:00",
+  "updated_at": "2026-11-23T21:59:36+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Meta主管称黎曼猜想草证显示超智能临近",
+  "lead_zh": "Meta人工智能主管Alexandr Wang认为，模型在黎曼猜想这一难题上发挥重要作用，说明原始智力已不再是瓶颈，行业对接下来的社会影响准备不足。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，Meta首席人工智能官Alexandr Wang认为，最近由人工智能辅助完成的黎曼猜想证明草图，清楚表明超智能已经不远。黎曼猜想被广泛视为数学中最艰难的未解问题之一，最聪明的人类已为此努力约**150年**。在他看来，模型在这一突破中扮演重要角色，说明原始智力不再是瓶颈。",
+        "王还警告，行业对接下来会发生什么想得不够。许多人把超智能当作必然结果，只讨论安全，但他认为利害远不止于此，行业需要主动确保人工智能增进人们的自主性，而不是夺走对社会的控制。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据王称，当前模型要在几乎每个领域超过人类，主要缺少的是特定领域的知识和可用的基础设施，其中也包括人工智能研究本身。由于这项研究在智力难度上低于黎曼猜想，他认为模型可能很快自动改进自身，并大幅加速生物、武器和经济等领域的研究，其速度将使人难以跟上。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

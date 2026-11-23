@@ -1,0 +1,67 @@
+{
+  "id": "n5dc55a044437",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "报道称特朗普曾拨入英伟达董事会会议力主回归",
+  "original_title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+  "summary": "Semafor报道称，特朗普在英伟达宣布决定前曾拨入董事会会议，推动恢复黄仁勋的职务，并在事后对CNBC表示“我说服了他们”。白宫通讯主任也说总统全程参与。他随后还在Truth Social发文。",
+  "facts": [
+    {
+      "text": "Semafor报道，特朗普在英伟达宣布恢复黄仁勋职务前，曾拨入董事会会议并推动这一决定。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据特朗普对CNBC称，“我跟他们谈了，这么说吧……而且我说服了他们。”白宫通讯主任也表示总统全程参与。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "is_primary": false,
+      "published_at": "2026-11-24T00:39:10+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T00:39:10+08:00",
+  "updated_at": "2026-11-24T00:39:10+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称特朗普曾拨入英伟达董事会会议力主回归",
+  "lead_zh": "Semafor报道，特朗普在英伟达宣布决定前拨入董事会会议，力主恢复黄仁勋职务。他事后对CNBC说：“我说服了他们。”",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Semafor周一报道，特朗普在英伟达宣布决定前拨入董事会会议，推动恢复已去职的创始人黄仁勋的职务，随后公司宣布了这一结果。黄仁勋担任该职务**33年**，本月因与一名被指为中国间谍的女子以及两名英伟达员工（其中一人是直接下属）的婚外关系而辞职。",
+        "英伟达新闻稿写道，董事会“收到美国政府高层的意见，并据此相信恢复黄仁勋职务不构成国家安全风险”。总统还在Truth Social发文称，美国政府没有理由认为他的回归会带来国家安全风险。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据特朗普对CNBC称：“我跟他们谈了，这么说吧……而且我说服了他们。”白宫通讯主任张振熙对Semafor表示，“总统全程参与，这是英伟达董事会的正确决定。我们必须保护我们的天才。”"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/aa71c9ab5e8bc9179f9a8ca505b0772975679ac7.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
