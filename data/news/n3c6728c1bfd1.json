@@ -1,0 +1,488 @@
+{
+  "id": "n3c6728c1bfd1",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "OpenAI称GPT-6具备蛋白质设计能力",
+  "original_title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "summary": "OpenAI称GPT-6不必调用专用生物学模型，就能设计新的蛋白质结构与氨基酸序列。内部研究模型在多项任务上达到或超过专用模型；与Onava的实验中，基于GPT-6.2的设计在五个靶点上出现结合证据。",
+  "facts": [
+    {
+      "text": "OpenAI发布预印本《GPT-6 as a Universal Foundation Model for Protein Biology: Beyond Specialized Models》，介绍GPT-6系列的蛋白质设计能力。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+    },
+    {
+      "text": "与Onava进行的实验室检测中，基于GPT-6.2设计的蛋白质在五个靶点上出现结合证据，经重新设计的抗体也保持了结合能力。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，GPT-6可仅凭推理和通用编程工具设计新的蛋白质结构与序列，而不必调用专用生物学模型来生成这些设计。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+    },
+    {
+      "text": "据OpenAI称，内部研究模型在多项蛋白质设计任务上达到或超过了专用模型。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "is_primary": true,
+      "published_at": "2026-11-24T21:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T21:00:00+08:00",
+  "updated_at": "2026-11-24T21:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI称GPT-6具备蛋白质设计能力",
+  "lead_zh": "OpenAI发布预印本论文称，GPT-6系列仅凭推理和代码即可设计蛋白质结构与序列，与Onava的实验室检测在五个靶点上发现结合证据。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI发布预印本，介绍GPT-6系列模型具备内在的蛋白质设计能力：不必调用专用生物学模型，仅凭推理和通用编程工具即可设计新的蛋白质三维结构与氨基酸序列。内部研究模型在多项蛋白质设计任务上达到或超过了专用模型。",
+        "与Onava合作的实验室检测中，基于**GPT-6.2**设计的蛋白质在**五个**靶点上出现结合证据，经重新设计的抗体也保持了结合能力。专用模型仍参与了提供序列和筛选待测候选。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI称，模型的书面推理和代码表明，它们会调用数学、物理、化学和生物学知识来推断蛋白质形状及其与其他分子的相互作用。研究团队还可用提示词指定蛋白质应在何处结合、应采取何种形状，内部模型在迷你结合蛋白的三维设计中几乎完全遵循了这些约束。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "img/f51b3760dc570727a31658929c70d3ed1e38d17d.jpg",
+  "image_source": "OpenAI News",
+  "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
+  "fulltext_status": "ok",
+  "read_minutes": 18,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-24",
+    "title_en": "GPT‑6 models demonstrate intrinsic protein-design capabilities",
+    "title_zh": "GPT-6 模型展现出内在的蛋白质设计能力",
+    "dek_en": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "dek_zh": "GPT-6 模型利用推理和代码设计蛋白质结构与序列。实验室测试在五个靶标上发现了结合证据。",
+    "word_count_zh": 6952,
+    "read_minutes": 18,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "h",
+        "zh": "主要发现：",
+        "en": "Key findings:"
+      },
+      {
+        "t": "p",
+        "zh": "• 我们的 GPT-6 系列模型仅凭推理和代码，就能设计新的蛋白质形状及其化学构件的序列，而无需调用专门的生物学模型来生成这些设计。",
+        "en": "• Our GPT‑6 family of models can design new protein shapes and the sequence of their chemical building blocks using only reasoning and code, without calling specialized biology models to generate those designs."
+      },
+      {
+        "t": "p",
+        "zh": "• 一个内部研究模型在许多蛋白质设计任务上达到或超过了专门模型的水平。研究人员还可以通过提示模型蛋白质应附着的位置以及应采取的形状，来引导设计。",
+        "en": "• An internal research model matched or outperformed specialized models on many protein design tasks. Researchers could also guide designs by prompting the model on where a protein should attach and what shape it should take."
+      },
+      {
+        "t": "p",
+        "zh": "• 在与 Onava 进行的实验室测试中，基于 GPT-6.2 设计的蛋白质在五个靶标上都显示出结合（即附着）的证据。重新设计的抗体也保留了结合能力。专门模型帮助提供序列并筛选用于测试的候选者。",
+        "en": "• In lab tests with Onava, proteins based on GPT‑6.2’s designs showed evidence of binding, or attachment, across five targets. Redesigned antibodies also retained binding. Specialized models helped supply sequences and select candidates for testing."
+      },
+      {
+        "t": "p",
+        "zh": "• 这些模型的书面推理和代码表明，它们借助数学、物理、化学和生物学知识，来推理蛋白质的形状以及与其他分子的相互作用。",
+        "en": "• The models’ written reasoning and code suggest they draw on math, physics, chemistry, and biological knowledge to reason about protein shapes and interactions with other molecules."
+      },
+      {
+        "t": "p",
+        "zh": "在一篇题为《GPT-6 作为蛋白质生物学的通用基础模型：超越专门模型》的预印本中，我们表明，我们的 GPT-6 系列模型具有设计新蛋白质的内在能力：这些模型无需依赖专门的生物学模型，仅凭推理和通用编程工具，就能设计新的蛋白质结构与序列。",
+        "en": "In a preprint titled GPT‑6 as a Universal Foundation Model for Protein Biology: Beyond Specialized Models, we show that our GPT‑6 family of models has intrinsic capabilities for designing new proteins: the models can design new protein structures and sequences without relying on specialized biology models, using only reasoning and general-purpose coding tools."
+      },
+      {
+        "t": "p",
+        "zh": "蛋白质承担着活细胞中的大量工作。它们驱动维持生命的化学反应，把氧气输送到血液中，并帮助身体抵御感染。形状不正确的蛋白质也可能导致疾病和功能障碍。蛋白质由称为氨基酸的化学构件链组成。这些氨基酸的顺序（即序列）有助于决定蛋白质如何折叠成三维形状，而这又会影响它的功能。",
+        "en": "Proteins do much of the work in living cells. They drive the chemical reactions that sustain life, carry oxygen through the blood, and defend the body against infection. Incorrectly shaped proteins can also cause disease and dysfunction. Proteins are made from chains of chemical building blocks called amino acids. The order, or sequence, of these amino acids helps determine how a protein folds into a three-dimensional shape, which in turn influences what it does."
+      },
+      {
+        "t": "p",
+        "zh": "科学家通常一开始就清楚自己希望蛋白质做什么。他们可能希望它阻断帮助癌细胞逃避免疫系统的信号，或帮助从空气中捕获二氧化碳。挑战在于弄清什么样的三维结构能让蛋白质完成这项工作，以及哪一种氨基酸序列能赋予它这种结构。能够生成三维蛋白质结构和序列的专门生物学模型，已使这项工作更加可行。",
+        "en": "Scientists often start with a clear idea of what they want a protein to do. They might want it to block a signal that helps cancer cells evade the immune system or to help capture carbon dioxide from the air. The challenge is to work out what three-dimensional structure would enable the protein to do its job and which amino acid sequence would give it that structure. Specialized biology models capable of generating three-dimensional protein structures and sequences have made this work more practical."
+      },
+      {
+        "t": "p",
+        "zh": "使用并协调这些专门模型需要大量专业知识。每种模型只接受特定种类的输入和约束，而且这些模型若要轻松接受新类型的信息，往往需要修改其软件或进行额外训练。相比之下，一个能够承担多种专门模型工作的通用模型，可以轻松适应新的指令和要求。",
+        "en": "Using and coordinating these specialized models requires substantial expertise. Each accepts particular kinds of inputs and constraints, and these models cannot easily accept new kinds of information without changes to their software or additional training. In contrast, a general-purpose model capable of performing the work of multiple specialized models can easily adapt to new instructions and requirements."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/6a856eb5d0a6d83a8d01e5c214e86b5b1c0dd264.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/4u7ogWwVXuqX5GRdnZxsLM/23d72378f6fea65debd91c914f32fb54/protein-workflows-intrinsic-desktop-light.png?w=3840&q=90&fm=webp",
+        "caption_zh": "示意图对比：一种是由语言模型协调专门工具，另一种是由单一模型直接处理蛋白质任务。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 359
+      },
+      {
+        "t": "p",
+        "zh": "我们的研究展示了把自然语言与内在蛋白质能力结合起来的潜在力量。我们可以在从两个原子之间的单个键，到蛋白质整体形状的不同尺度上引导模型。例如，我们让 GPT-6.2 预测一个小分子会在何处、以何种方式与蛋白质结合。当我们已经知道哪两个原子形成了键时，可以把该信息提供给模型，并询问分子的其余部分将如何契合。只需更改提示而无需重新训练模型，我们就能在这些任务之间切换。我们还让模型设计称为微型结合蛋白（minibinders）的小蛋白质，并标出各自应附着在靶标上的位置，进一步指定每个微型结合蛋白应包含多少个螺旋或链股。一个内部模型在其三维设计中以近乎完美的保真度遵循了该指令。",
+        "en": "Our research illustrates the potential power of pairing natural language with intrinsic protein capabilities. We could guide our models at scales ranging from a single bond between two atoms to the overall shape of a protein. For example, we asked GPT‑6.2 to predict where and how a small molecule would bind to a protein. When we already knew which two atoms formed a bond, we could give the model that information and ask how the rest of the molecule would fit. We could switch between these tasks simply by changing the prompt, without retraining the model. We also asked our models to design small proteins called minibinders and marked where each should attach to its target, and further specified how many coils or strands each minibinder should contain. An internal model followed that instruction with near-perfect fidelity in its three-dimensional designs."
+      },
+      {
+        "t": "h",
+        "zh": "更仔细地审视我们模型的蛋白质设计",
+        "en": "A closer look at our models’ protein designs"
+      },
+      {
+        "t": "p",
+        "zh": "我们进行了计算测试，检验 GPT-6 系列模型能否设计与给定靶标结合的小蛋白质、围绕指定结构特征构建蛋白质、预测蛋白质结构和分子相互作用，以及为序列变化对稳定性、结合等性质的影响排序。我们最新的模型在大多数任务上表现与专门模型相当或更好，不过预测完整蛋白质结构仍是明显短板。",
+        "en": "We ran computational tests of whether the GPT‑6 models series could design small proteins to bind given targets, build proteins around specified structural features, predict protein structures and molecular interactions, and rank how sequence changes affect properties such as stability and binding. Our latest models performed comparably to or better than specialized models on most tasks, although predicting a complete protein structure remained a clear weakness."
+      },
+      {
+        "t": "p",
+        "zh": "这些模型的书面推理和代码为它们如何处理这些任务提供了线索。它们在借助数学、物理、化学和编程的同时，也运用蛋白质序列与结构中反复出现的模式方面的知识。例如，在设计一种旨在与 IL-7Rα 结合的小蛋白质时，模型先提出两种蛋白质可能如何相互作用，然后编写并执行代码，探索能够支持这种相互作用的不同蛋白质形状和氨基酸选择。",
+        "en": "The models’ written reasoning and code offer clues to how they approach these tasks. They draw on mathematics, physics, chemistry, and coding alongside knowledge of recurring patterns in protein sequences and structures. For example, when designing a small protein intended to bind to IL-7Rα, the model proposed how the two proteins might interact, then wrote and executed code to explore different protein shapes and amino acid choices that could support that interaction."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/0ee1d35fd2ec49bafab1fe0add0f0d8bdc46ea28.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/77JrLamL248By3sCY9fZqj/7537b78d13de9641b56233de8216a606/source_figure_1__3_.png?w=3840&q=90&fm=webp",
+        "caption_zh": "模型的书面推理和代码显示，它借助数学、物理、化学和生物学，设计一种旨在附着于 IL-7Rα 的蛋白质。它检查靶标表面，把五个螺旋区段排列成蛋白质形状，并检查两种蛋白质如何契合。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 896
+      },
+      {
+        "t": "p",
+        "zh": "我们还与研究合作伙伴 Onava 一起，在实验室中测试了模型的结构与序列设计。首先，Onava 根据 GPT-6.2 一个预发布版本所设计的三维结构制作了小蛋白质。专门模型提供了氨基酸序列，并帮助筛选用于测试的候选者。在我们选择的五个靶标中，每一个都至少有一种蛋白质在实验室中显示出结合证据。在另外的实验中，GPT-6.2 为现有的微型结合蛋白和抗体设计了新的氨基酸序列。在由专门模型协助筛选候选者之后，许多重新设计的蛋白质也显示出与原蛋白质相同靶标结合的证据。",
+        "en": "With our research partner, Onava⁠(opens in a new window), we also tested the models’ structure and sequence designs in the lab. First, Onava made small proteins based on three-dimensional structures designed by a pre-released version of GPT‑6.2. Specialized models supplied amino acid sequences and helped select candidates for testing. For each of the five targets we chose, at least one protein showed evidence of binding in the lab. In separate experiments, GPT‑6.2 designed new amino acid sequences for existing minibinders and antibodies. Following candidate selection with specialized models, many of the redesigned proteins also showed evidence of binding to the same targets as the originals."
+      },
+      {
+        "t": "h",
+        "zh": "实验室实验 1：设计与靶标结合的小蛋白质",
+        "en": "Laboratory Experiment 1: Designing small proteins that bind to a target"
+      },
+      {
+        "t": "p",
+        "zh": "我们的第一个实验室实验检验 GPT-6.2 能否设计出与预定靶标结合的小蛋白质。我们将质量的计算指标与专门用于蛋白质设计的模型 RFdiffusion 进行了比较，发现 GPT-6.2 的三维设计得分略低，而我们最新的内部模型得分更高。在实验室实验中，我们根据 GPT-6.2 的设计制作了蛋白质，并测量它们与靶标的结合强度。",
+        "en": "Our first laboratory experiment tested whether GPT‑6.2 could design small proteins that would bind to their intended targets. We compared computational measurements of quality against RFdiffusion, a specialized model for protein design, and found that GPT‑6.2’s three-dimensional designs scored slightly lower while our latest internal models scored higher. For the lab experiment, we made proteins based on GPT‑6.2’s designs and measured how strongly they bound to their targets."
+      },
+      {
+        "t": "p",
+        "zh": "我们向 GPT-6.2 提供了五种靶标蛋白质的三维结构，并标出希望微型结合蛋白附着的位置。它随后编写代码，为潜在的微型结合蛋白创建三维设计，而没有使用专门的蛋白质人工智能模型。",
+        "en": "We gave GPT‑6.2 the three-dimensional structures of five target proteins and marked where we wanted a minibinder to attach. It then wrote code to create three-dimensional designs for potential minibinders, without using specialized protein AI models."
+      },
+      {
+        "t": "p",
+        "zh": "要把 GPT-6.2 的三维设计变成可以在实验室中测试的蛋白质，我们需要能够折叠成所提议结构的氨基酸序列。我们使用一种名为 SolubleMPNN 的专门人工智能模型，为每个设计建议序列。其他专门的蛋白质模型帮助我们筛选被预测能按设计折叠、并在靶标预定位点结合的候选者。",
+        "en": "To turn GPT‑6.2’s three-dimensional designs into proteins we could test in the lab, we needed amino acid sequences that would fold into the proposed structures. We used a specialized AI model called SolubleMPNN to suggest sequences for each design. Other specialized protein models helped us select candidates predicted to fold as designed and bind at the intended site on the target."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/2893e213fca3e6717af4f6f70c719494c1167141.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/7tdj7ylIVvRLZuSefgld5A/79ed19f943933341880b0e9bb1c4d6ae/wet-lab-desktop-light.png?w=3840&q=90&fm=webp",
+        "caption_zh": "GPT-6.2 为旨在附着于选定靶标的小蛋白质设计了形状。随后，专门模型提出氨基酸序列——即蛋白质化学构件的排列顺序——并帮助筛选设计，供我们的研究合作伙伴 Onava 在实验室中制作和测试。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 288
+      },
+      {
+        "t": "p",
+        "zh": "我们在实验室中针对 5 个靶标测试了 322 种微型结合蛋白。其中 35 种（10.9%）对其预定靶标的结合检测呈阳性。我们发现：PD-L1（一些癌症用来逃避免疫系统的蛋白质）有 5 个阳性结果，IL-7Rα 有 3 个，TrkA 有 1 个，VEGF-A 有 8 个，IL-17A 有 18 个。原先的 RFdiffusion 研究报告了更高的命中率，但命中率在很大程度上取决于研究人员在实验室验证前筛选设计的严格程度，以及他们对结合的定义。尽管如此，我们的结果提供了初步证据：可以把 GPT-6.2 的三维设计转化为在实验室中与预定靶标结合的蛋白质。",
+        "en": "We tested 322 minibinders against 5 targets in the lab. Of those, 35 (10.9%) tested positive for binding to their intended target. We found 5 hits for PD-L1 (a protein some cancers use to evade the immune system), 3 for IL-7Rα, 1 for TrkA, 8 for VEGF-A and 18 for IL-17A. The original RFdiffusion study⁠(opens in a new window) reported higher hit rates, but rates depend heavily on how strictly researchers filter designs before lab validation and their definition of binding. Nevertheless, our results provide early evidence that we can turn GPT‑6.2’s three-dimensional designs into proteins that bind to their intended targets in the lab."
+      },
+      {
+        "t": "h",
+        "zh": "实验室实验 2：为 3D 蛋白质结构设计新序列",
+        "en": "Laboratory Experiment 2: Designing new sequences for 3D protein structures"
+      },
+      {
+        "t": "p",
+        "zh": "我们测试了 GPT-6.2 能否自己设计序列。我们向它提供现有微型结合蛋白如何贴合其靶标的三维模型，隐去原始氨基酸序列，并要求它提出新序列。专门模型帮助我们选择在实验室中制作和测试哪些蛋白质。",
+        "en": "We tested whether GPT‑6.2 could design the sequences itself. We gave it three-dimensional models of how existing minibinders fit against their targets, withheld the original amino acid sequences, and asked it to propose new ones. Specialized models helped us choose which proteins to make and test in the lab."
+      },
+      {
+        "t": "p",
+        "zh": "对于三个靶标，我们从已确认微型结合蛋白的计算预测结构出发，这些蛋白质的序列由 Onava 从早期研究中收集。在最初的实验室筛选中，我们看到：MDM2 的 88 个设计中有 75 个出现结合（85%），VEGF-A 的 42 个中有 26 个（62%），PD-1 的 59 个中有 8 个（14%）。GPT-6.2 提出的氨基酸序列也往往与原始微型结合蛋白序列有明显差异，中位数分别为：VEGF-A 为 50%，MDM2 为 43%，PD-1 为 15%。",
+        "en": "For three targets, we started with computationally predicted structures of confirmed minibinders whose sequences Onava had collected from earlier studies. In our initial lab screens, we saw binding in 75 of 88 designs for MDM2 (85%), 26 of 42 for VEGF-A (62%), and 8 of 59 for PD-1 (14%). The amino acid sequences proposed by GPT‑6.2 also often differed significantly from the original minibinder sequences, with a median of 50% for VEGF-A, 43% for MDM2, and 15% for PD-1."
+      },
+      {
+        "t": "p",
+        "zh": "我们还让 GPT-6.2 为它先前生成的、尚未发表的三种微型结合蛋白形状设计新序列：两种靶向 PD-L1，一种靶向 IL-7Rα。一种专门模型 ProteinMPNN 已经为每种形状提供过一条序列，由这些序列制成的蛋白质已在实验室中显示出结合。在由 GPT-6.2 的新序列制成的 107 种蛋白质中，有 14 种（13.1%）显示出结合。",
+        "en": "We also asked GPT‑6.2 to design new sequences for three unpublished minibinder shapes it had generated earlier: two targeting PD-L1 and one targeting IL-7Rα. A specialized model, ProteinMPNN, had already supplied one sequence for each shape, and proteins made from those sequences had shown binding in the lab. Of the 107 proteins made from GPT‑6.2’s new sequences, 14 (13.1%) showed binding."
+      },
+      {
+        "t": "p",
+        "zh": "在给定一个未发表结构的情况下，GPT-6.2 想出了两条差异显著的序列，两者都显示出与同一靶标结合的迹象。对于同一 PD-L1 微型结合蛋白结构，GPT-6.2 设计的两条序列与原始序列分别在全部 90 个氨基酸中的 52 个和 58 个位置上不同。这两条序列彼此也在 44 个位置上不同，接近序列的一半。",
+        "en": "Given an unpublished structure, GPT‑6.2 had come up with two substantially different sequences that both showed signs of binding to the same target. For the same PD-L1 minibinder structure, GPT‑6.2 designed two sequences different from the original in 52 and 58 out of 90 total amino acids. The two also differed from each other at 44 positions, nearly half the sequence."
+      },
+      {
+        "t": "p",
+        "zh": "这些未发表的结构以及序列上的显著差异，为我们提供了有力证据，表明 GPT-6.2 的能力超出了记忆。结果还表明，我们可以用 GPT-6.2 从内在上同时设计微型结合蛋白的结构及其序列。",
+        "en": "The unpublished structures and substantial differences in sequence give us strong evidence that GPT‑6.2’s capabilities extend beyond memorization. The results also suggest we could use GPT‑6.2 to intrinsically design both a minibinder’s structure and its sequence."
+      },
+      {
+        "t": "h",
+        "zh": "重新设计抗体中与靶标结合的部分",
+        "en": "Redesigning the parts of an antibody that bind to a target"
+      },
+      {
+        "t": "p",
+        "zh": "研究人员常常重新设计抗体的结合环，以帮助它更紧密地抓住靶标，这一过程称为亲和力成熟。他们也可能希望它结合得更有选择性，从而不太可能附着到相似的蛋白质上。我们通过让模型设计新的环序列、同时保留对原靶标的结合，测试了朝这些目标迈出的第一步。",
+        "en": "Researchers often redesign an antibody’s binding loops to help it grip its target more tightly, a process called affinity maturation. They may also want it to bind more selectively, so it’s less likely to attach to similar proteins. We tested a first step toward those goals by asking our models to design new loop sequences that preserved binding to the original target."
+      },
+      {
+        "t": "p",
+        "zh": "我们从与同一蛋白质 IL-4Rα 结合的六种小抗体（VHH）开始。对每种抗体，我们向 GPT-6.2 提供其预测的三维结构以及大部分氨基酸序列，隐去帮助抗体抓住靶标的三个环。我们让模型为这些环设计新序列。在我们测试的 182 个设计中，有 128 个（70%）显示出与 IL-4Rα 结合的迹象。",
+        "en": "We started with six small antibodies (VHHs) that bind to the same protein, IL-4Rα. For each antibody, we gave GPT‑6.2 its predicted three-dimensional structure and most of its amino acid sequence, leaving out the three loops that help the antibody grip its target. We asked the model to design new sequences for them. Of the 182 designs we tested, 128 (70%) showed signs of binding to IL-4Rα."
+      },
+      {
+        "t": "p",
+        "zh": "我们随后测试了能够多精确地引导模型对现有治疗性抗体作出改动。这一次，我们向模型提供原始序列，并要求它在三个结合环的每一个中更改大约一半的氨基酸，同时保持其余序列不变。我们在实验室中以片段形式测试了这些抗体被重新设计的部分。在基于五种治疗性抗体的 272 个片段中，有 179 个（66%）显示出与原靶标 PD-1 或 PD-L1 的结合。",
+        "en": "We then tested how precisely we could guide the model’s changes to existing therapeutic antibodies. This time, we gave the model the original sequences and asked it to change about half the amino acids in each of three binding loops while keeping the rest of the sequence intact. We tested the redesigned portions of the antibodies as fragments in the lab. Of 272 fragments based on five therapeutic antibodies, 179 (66%) showed binding to the original target, PD-1 or PD-L1."
+      },
+      {
+        "t": "h",
+        "zh": "我们的模型还能设计和预测什么？",
+        "en": "What else can our models design and predict?"
+      },
+      {
+        "t": "h",
+        "zh": "对微型结合蛋白结构的精确控制，用于可编程结构设计",
+        "en": "Precise control over minibinder structures for programmable structure design"
+      },
+      {
+        "t": "p",
+        "zh": "基于结构的可编程设计的长期目标，是让研究人员用自然语言指定结构约束。在我们的计算评估中，模型始终设计出接触靶标上所需位置的微型结合蛋白。我们还可以指定微型结合蛋白的结构类别（全为螺旋、全为链股，或两者组合），并以近乎完美的保真度控制螺旋和链股的数量。同样的方法让我们能够表达对结合界面更细致的要求，例如哪些靶标氨基酸应在结合时被埋藏，或微型结合蛋白与靶标是否应通过“β折叠–β折叠”等特定相互作用发生作用。随着模型推理能力的提高，我们设想研究人员可以像今天引导图像生成那样，通过描述他们想要的特征来引导蛋白质结构的生成。",
+        "en": "A long-term goal of programmable structure-based design is to let researchers specify structural constraints in natural language. In our computational evaluations, our models consistently designed minibinders that contacted the required locations on the target. We could also specify the minibinder’s structural class (all helices, all strands, or a combination) and control the number of coils and strands with near-perfect fidelity. The same approach lets us express more detailed requirements for the binding interface, such as which target amino acids should be buried upon binding or whether the minibinder and target should interact through specific interactions such as “β-sheet–β-sheet”. As our model’s reasoning capabilities improve, we envision researchers guiding protein structure generation much as they guide image generation today, by describing the features they want."
+      },
+      {
+        "t": "h",
+        "zh": "围绕指定的结构特征构建蛋白质",
+        "en": "Building a protein around a specified structural feature"
+      },
+      {
+        "t": "p",
+        "zh": "大多数酶都是加快化学反应的蛋白质。在设计一种新酶时，研究人员可能已经知道，在反应发生的位点上，少数关键氨基酸需要如何排列。这些氨基酸沿蛋白质链可能相距很远。挑战在于设计蛋白质的其余部分，使链条在折叠时把它们聚到一起并固定住。",
+        "en": "Most enzymes are proteins that speed up chemical reactions. When designing a new enzyme, researchers may know how a few key amino acids need to be arranged at the site where the reaction happens. Those amino acids can lie far apart along the protein chain. The challenge is to design the rest of the protein so that, as the chain folds, it brings them together and holds them in place."
+      },
+      {
+        "t": "p",
+        "zh": "我们在 MotifBench 的 30 项挑战上测试了模型，包括来自酶的例子，以及蛋白质相互结合位点的例子。我们向模型提供一种称为基序（motif）的特定三维氨基酸排列，并要求它们使用编程工具围绕它设计蛋白质的其余部分。这项任务称为基序支架搭建（motif scaffolding）。",
+        "en": "We tested our models on 30 challenges from MotifBench⁠(opens in a new window), including examples drawn from enzymes and from sites where proteins bind to one another. We gave the models a specific three-dimensional arrangement of amino acids, called a motif, and asked them to use coding tools to design the rest of the protein around it. This task is called motif scaffolding."
+      },
+      {
+        "t": "p",
+        "zh": "对每个设计，我们用 ProteinMPNN 提出八种可能的氨基酸序列，并用 ESMFold 预测每一种将如何折叠。如果至少有一个预测结构既保留了该基序，又与模型设计的整体结构密切吻合，我们就将该设计计为成功。",
+        "en": "For each design, we used ProteinMPNN to propose eight possible amino acid sequences, and ESMFold⁠(opens in a new window) to predict how each would fold. We counted the design as a success if at least one predicted structure both preserved the motif and closely matched the overall structure the model had designed."
+      },
+      {
+        "t": "p",
+        "zh": "在一项初步分析中，我们评估的来自最新内部模型的设计中，有 43.7% 同时满足这两项标准，而 RFdiffusion 为 27.8%。虽然还需要实验室实验来查明这些蛋白质能否执行预定功能（例如加快某一特定反应），但这为模型的内在蛋白质能力提供了有力的计算证据。",
+        "en": "In a preliminary analysis, 43.7% of the designs we evaluated from our latest internal model met both criteria, compared with 27.8% for RFdiffusion. While laboratory experiments are needed to find out whether these proteins could carry out the intended function, such as speeding up a particular reaction, this provides strong computational evidence of our models’ intrinsic protein capabilities."
+      },
+      {
+        "t": "h",
+        "zh": "设计具有指定折叠的蛋白质",
+        "en": "Designing a protein with a specified fold"
+      },
+      {
+        "t": "p",
+        "zh": "在基序支架搭建中，我们指定了少数氨基酸应如何相对摆放。我们随后确定，能否通过指定蛋白质的整体折叠来引导整条蛋白质的设计。我们向模型提供链长，以及来自 CATH（科学家用来对蛋白质结构分类的一套系统）的编码。模型随后必须弄清每个氨基酸在三维空间中应处的位置。",
+        "en": "In motif scaffolding, we specified how a few amino acids should sit relative to one another. We then determined whether we could also guide the design of an entire protein by specifying its overall fold. We gave our models a chain length and a code from CATH⁠(opens in a new window), a system scientists use to classify protein structures. The models then had to work out where each amino acid should go in three-dimensional space."
+      },
+      {
+        "t": "p",
+        "zh": "许多设计抓住了我们要求的大致布局。更难的部分是让链条沿着正确的路径穿过其中。例如，两种蛋白质可以有若干段螺旋以相似的方式捆在一起，但链条连接它们的顺序却不同。",
+        "en": "Many designs captured the broad layout we asked for. The harder part was getting the chain to follow the right path through it. Two proteins can have several coiled stretches packed together in a similar bundle, for example, yet differ in the order in which the chain connects them."
+      },
+      {
+        "t": "p",
+        "zh": "如果至少有一个氨基酸序列被预测会采取所要求的折叠，并与模型的三维设计密切吻合，我们就将该设计计为成功。在 200 项挑战中，我们评估的来自最新内部模型的设计有 18.9% 通过，而专门的蛋白质设计模型 Proteina 为 17.1%。",
+        "en": "We counted a design as a success if at least one amino acid sequence was predicted to adopt the requested fold and closely match the model’s three-dimensional design. Across 200 challenges, 18.9% of the designs we evaluated from our latest internal model passed, compared with 17.1% for Proteina, a specialized protein design model."
+      },
+      {
+        "t": "h",
+        "zh": "预测化学物质与蛋白质如何契合",
+        "en": "Predicting how chemicals and proteins fit together"
+      },
+      {
+        "t": "p",
+        "zh": "包括阿司匹林在内的许多药物都是小分子，即远小于它们所作用蛋白质的化合物。预测小分子在蛋白质上的结合位置以及它如何契合，称为对接（docking）。这些预测可以帮助研究人员决定如何修改候选药物，使其与靶标结合得更紧。为了测试模型，我们从实验测定的、小分子与蛋白质结合的结构出发。我们在数字上移除每个小分子，向模型提供蛋白质结构以及描述该分子原子如何连接的文本（一串称为 SMILES 的字符）。然后我们让模型预测该分子原先结合在何处、朝向如何。",
+        "en": "Many medicines, including aspirin, are small molecules, chemical compounds much smaller than the proteins they act on. Predicting where a small molecule binds to a protein and how it fits there is called docking. These predictions can help researchers decide how to modify a drug candidate so it binds more tightly to its target. To test our models, we started with experimentally determined structures of small molecules bound to proteins. We digitally removed each small molecule and gave the models the protein structure along with a text description of how the molecule’s atoms were connected (a sequence of characters called SMILES). We then asked the models to predict where the molecule had been bound and how it was oriented."
+      },
+      {
+        "t": "p",
+        "zh": "在第一次对接测试中，我们使用了 PoseBusters 数据集，这是一组展示小分子如何与蛋白质结合的三维结构。研究人员通过实验测定了这些结构，使我们能够检查模型的预测。在未被告知每个分子结合在蛋白质何处的情况下，模型必须同时预测分子契合的位置及其朝向。GPT-6.2 在 93% 的计分预测中与分子被观测到的位置和取向密切吻合，我们最新的内部模型为 96%，而专门的对接模型 DiffDock-L 为 50%。",
+        "en": "For our first docking test, we used the PoseBusters dataset⁠(opens in a new window), a collection of three-dimensional structures that show how small molecules bind to proteins. Researchers determined these structures experimentally, giving us a way to check the models’ predictions. Without being told where on the protein each molecule had bound, the models had to predict both where the molecule fit and which way it faced. GPT‑6.2 closely matched the molecule’s observed position and orientation in 93% of scored predictions, compared with 96% for our latest internal model and 50% for DiffDock-L, a specialized docking model."
+      },
+      {
+        "t": "p",
+        "zh": "在实践中，研究人员可能已经对分子如何结合有所了解。GPT 模型的一个主要优势是，我们可以直接在提示中给出额外信息。我们在来自 Scarpino 数据集的 179 个结构上测试了这一点，其中每个蛋白质结构都与一个小分子形成化学键，从而把两者拴在一起。我们告诉模型哪两个原子形成了该键，并让它们预测分子的其余部分如何贴合蛋白质。GPT-6.2 在 92% 的计分预测中与实验结构密切吻合，我们最新的内部模型为 97%，而 DiffDock 达到 60%。",
+        "en": "In practice, researchers may already know something about how a molecule binds. One major advantage of a GPT model is that we can give additional information directly in the prompt. We tested this on 179 structures from the Scarpino dataset⁠(opens in a new window), where each protein structure forms a chemical bond with a small molecule, tethering the two together. We told our models which two atoms formed the bond and asked them to predict how the rest of the molecule fit against the protein. GPT‑6.2 closely matched the experimental structure in 92% of scored predictions⁠(opens in a new window), and our latest internal model did so in 97%, while DiffDock⁠(opens in a new window) reached 60%."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/afa95b2459fe05a0c5ddc4b7cdf1791b5ac205dd.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/45FJ72r4oYUA1DpVYhGI4N/d7101c5b7a6a618481e6362b3b400a87/ligand-docking-desktop-light.png?w=3840&q=90&fm=webp",
+        "caption_zh": "一个内部研究模型预测了小分子将在何处、以何种方式贴合蛋白质（灰色所示）。紫色显示模型的预测，青色显示先前实验测定的分子位置。在这些例子中，预测与实验结构密切吻合。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 543
+      },
+      {
+        "t": "h",
+        "zh": "预测抗体如何与蛋白质结合",
+        "en": "Predicting how antibodies bind to proteins"
+      },
+      {
+        "t": "p",
+        "zh": "抗体的结合位置可以帮助解释它是否会阻止另一种蛋白质附着到同一位点。我们测试了连续几代 GPT 在预测抗体结合位置及其朝向方面的准确度。对于数百对抗体与靶标，我们分别向模型展示这两种蛋白质，并隐藏其表面的部分原子细节（全部侧链）。",
+        "en": "Where an antibody binds can help explain whether it blocks another protein from attaching to the same site. We tested how accurately successive generations of GPT could predict where an antibody binds and which way it faces. For hundreds of pairs of antibodies and targets, we showed the models the two proteins separately and hid some of the atomic detail (all side chains) on their surfaces."
+      },
+      {
+        "t": "p",
+        "zh": "在侧链细节被隐藏的情况下，平均 DockQ 分数（一种常用指标，数值越高表示与实验观测到的排列越接近）在各模型最高评估计算设置下，从 GPT-5.6 的约 0.05 提高到 GPT-6 的 0.28、GPT-6.2 的 0.57，以及我们最新内部模型的 0.81。",
+        "en": "With the side-chain details hidden, the mean DockQ score (a commonly used metric in which higher values indicate a closer match to the experimentally observed arrangement) increased from approximately 0.05 for GPT‑5.6 to 0.28 for GPT‑6, 0.57 for GPT‑6.2, and 0.81 for our latest internal model, at each model’s highest evaluated compute setting."
+      },
+      {
+        "t": "p",
+        "zh": "由于这些结构是公开的，模型在训练期间可能见过相同的抗体-靶标对或相似的配对。即便如此，我们每一代模型都更准确地预测了两种蛋白质如何契合，即使全部侧链位置都被隐藏。这一进展让我们对更困难的对接问题保持乐观。",
+        "en": "Because these structures were public, the models may have seen the same antibody-target pairs or similar ones during training. Even so, each generation of our models predicted more accurately how the two proteins fit together, even with all side-chain positions hidden. That progress gives us reason to be optimistic about harder docking problems."
+      },
+      {
+        "t": "h",
+        "zh": "预测突变的影响",
+        "en": "Predicting the effects of mutations"
+      },
+      {
+        "t": "p",
+        "zh": "我们能在计算机上设计的蛋白质，远远多于能在实验室中制作和测试的数量。即使在确定了一种有前景的结构之后，我们可能仍有许多氨基酸序列可供选择。我们测试了模型能否通过预测蛋白质序列变化将如何影响其稳定性、活性或与靶标结合的能力，帮助研究人员决定先制作哪些版本。",
+        "en": "We can design far more proteins on a computer than we can make and test in the lab. Even after we settle on a promising structure, we may have many amino acid sequences to choose from. We tested whether our models could help researchers decide which versions to make first by predicting how changes to a protein’s sequence would affect its stability, activity, or ability to bind to a target."
+      },
+      {
+        "t": "p",
+        "zh": "我们利用了四个来自实验的公开数据集，在这些实验中科学家替换了蛋白质中的一个或多个氨基酸并测量了影响。对每次测试，我们向模型提供科学家起始所用的蛋白质序列，以及 50 个修改版本的序列。我们告诉模型科学家测量了什么，隐去结果，并要求它们仅凭推理、不使用编程工具，为这 50 个版本排序。",
+        "en": "We drew on four public datasets from experiments in which scientists had replaced one or more amino acids in a protein and measured the effects. For each test, we gave our models the sequence of the protein the scientists started with and the sequences of 50 modified versions. We told the models what the scientists had measured, withheld the results, and asked them to rank the 50 versions without using coding tools, by reasoning only."
+      },
+      {
+        "t": "p",
+        "zh": "在一项关于蛋白质稳定性的研究中，我们让模型按照每个版本在室温下处于折叠状态的可能性，对一种蛋白质的 50 个版本排序。我们用一种称为秩相关的指标，将预测顺序与实验室观测到的顺序进行比较。数值为 1 表示排序完全一致，0 表示没有一致关系，−1 表示顺序完全相反。在该稳定性研究的 265 组数据中，每一代模型都有所改进：从 GPT-5.6 的 0.41 提高到 GPT-6 的 0.52、GPT-6.2 的 0.57，以及我们最新内部模型的 0.66。",
+        "en": "In one study of protein stability, we asked the models to rank 50 versions of a protein by how likely each was to be folded at room temperature. We compared the predicted order with the order observed in the lab using a measure called rank correlation. A value of 1 means the rankings match perfectly, 0 means there’s no consistent relationship, and −1 means the order is exactly reversed. Across 265 sets from the stability study, each model generation improved, from 0.41 for GPT‑5.6 to 0.52 for GPT‑6, 0.57 for GPT‑6.2, and 0.66 for our latest internal model."
+      },
+      {
+        "t": "p",
+        "zh": "在这四个数据集中的每一个上，GPT-6.2 和我们最新的内部模型平均都比专门的蛋白质模型 ESM2-650M 给出了更准确的排序。",
+        "en": "In each of the four datasets, GPT‑6.2 and our latest internal model produced more accurate rankings on average than ESM2-650M, a specialized protein model."
+      },
+      {
+        "t": "h",
+        "zh": "来自模型蛋白质结构预测的早期信号",
+        "en": "Early signals from our model’s protein structure predictions"
+      },
+      {
+        "t": "p",
+        "zh": "此前，我们依靠专门模型来预测某一氨基酸序列是否会折叠成我们模型所设计的结构。我们想看看自己的模型距离自己做出这种预测还有多远。我们向模型提供了具有已知三维结构的蛋白质的氨基酸序列。仅使用基本编程工具，模型预测了每条链将如何在三维中折叠。我们用一种称为 TM-score 的指标评估预测。分数为 1 表示与真实结构完全吻合，高于 0.5 的分数通常表明预测抓住了整体折叠。",
+        "en": "Earlier, we relied on specialized models to predict whether an amino acid sequence would fold into the structure our models had designed. We wanted to see how close our models are to making that prediction themselves. We gave our models the amino acid sequences of proteins with known three-dimensional structures. Using only basic coding tools, the models predicted how each chain would fold in three dimensions. We evaluated their predictions using a measure called TM-score. A score of 1 means a perfect match to the real structure, and scores above 0.5 generally indicate that the prediction captures the overall fold."
+      },
+      {
+        "t": "p",
+        "zh": "最大的提升体现在个别例子中。对于某些蛋白质，我们最新的内部模型较准确地复现了早期模型错过的折叠。在全部测试中，平均分数从 GPT-5.6 的 0.16 提高到 GPT-6.2 的 0.26，以及我们最新内部模型的 0.38。专门模型 ESMFold2 的平均分为 0.93，因此我们的模型仅凭序列可靠地预测整条蛋白质结构，仍有很大差距。",
+        "en": "The biggest gains are visible in individual examples. For some proteins, our latest internal model closely reproduced folds that earlier models missed. Across the full test, the average score rose from 0.16 for GPT‑5.6 to 0.26 for GPT‑6.2 and 0.38 for our latest internal model. The specialized model ESMFold2 averaged 0.93, so there’s still a substantial gap in how reliably our models can predict a whole protein’s structure from its sequence alone."
+      },
+      {
+        "t": "p",
+        "zh": "如果研究人员已经知道结构的大部分，只想补上缺失的一块呢？我们在 100 个抗体片段上测试了这一点。对每一个片段，我们向模型提供氨基酸序列和周围的三维结构，隐藏帮助抗体识别靶标的六个环。我们最新的内部模型常常相当准确地预测了这些环的形状和位置。ESMFold2 总体上仍然更准确，即使它仅从序列出发进行预测。",
+        "en": "What if researchers already know most of the structure and want to fill in a missing piece? We tested this on 100 antibody fragments. For each one, we gave our models the amino acid sequences and the surrounding three-dimension structure, hiding the six loops that help the antibody recognize its target. Our latest internal model often predicted both the shape and position of those loops quite accurately. ESMFold2 was still more accurate overall, even working from the sequences alone."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/ffc34e96f7d0b6ef0c08f7be2bba92be7005d4b4.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/3nlrKnz0OVUosx65582laY/725cdf154a6efc78e6ca17dd0665748f/antibody-cdr-legend-desktop.png?w=3840&q=90&fm=webp",
+        "caption_zh": "每个模型都获得了部分结构，并被要求预测对应抗体 CDR 的缺失区域。彩色区域显示内部模型和 ESMFold2 的预测，并与实验测定的结构进行比较。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 374
+      },
+      {
+        "t": "h",
+        "zh": "局限性",
+        "en": "Limitations"
+      },
+      {
+        "t": "p",
+        "zh": "需要指出的是，我们的蛋白质设计流程依赖 Boltz-2、OpenDDE 和 ESMFold2 等专门的结构预测模型来筛选候选者。我们的结果表明，GPT 模型在工作流程的两个阶段具有与专门模型相当的内在能力：骨架生成（研究人员通常使用 RFdiffusion）和序列再设计（通常使用 ProteinMPNN）。因此，我们的结果尚未证明，这些模型可以在零样本设置下、无需专门模型帮助，端到端地从头生成微型结合蛋白。",
+        "en": "It is important to note that our protein design campaign relied on specialized structure prediction models such as Boltz-2, OpenDDE, and ESMFold2 to filter candidates. Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use RFdiffusion; and sequence redesign, where they commonly use ProteinMPNN. Our results therefore do not yet establish that our models can generate de novo minibinders end-to-end in a zero-shot setting without help from specialized models."
+      },
+      {
+        "t": "p",
+        "zh": "我们的工作再次展示了能力的参差前沿。对我们的模型而言，从氨基酸序列预测完整蛋白质结构，仍然比上述若干分项任务困难得多。在这项任务上，即便是我们最好的内部模型，也仍明显落后于专门的结构预测模型。",
+        "en": "Our work demonstrates yet again the jagged capability frontier. Predicting a complete protein structure from its amino acid sequence remains substantially harder for our models than several of the component tasks above. On that task, even our best internal models remained well behind specialized structure-prediction models."
+      },
+      {
+        "t": "p",
+        "zh": "一些基准结果也需要谨慎解读。在要求模型从蛋白质结构推断氨基酸序列的测试中，异常高的准确度可能部分反映了记忆，或这些结构生成过程留下的模式。仅凭这些结果，并不能确立对不熟悉蛋白质的可靠表现。",
+        "en": "Some benchmark results also require careful interpretation. In tests that asked models to infer amino acid sequences from protein structures, unusually high accuracy may partly reflect memorization or patterns left by the process used to generate those structures. Those results alone do not establish reliable performance on unfamiliar proteins."
+      },
+      {
+        "t": "p",
+        "zh": "实验室结果更直接地检验了所提议的设计能否起作用，但结合只是迈向有用研究工具或药物的一步。进一步的工作还需要确立特异性、稳定性和生物活性等性质，以及治疗应用的安全性和有效性。",
+        "en": "The laboratory results provide a more direct test of whether proposed designs can work, but binding is only one step toward a useful research tool or medicine. Further work would need to establish properties such as specificity, stability, and biological activity, along with safety and efficacy for therapeutic applications."
+      },
+      {
+        "t": "h",
+        "zh": "下一步",
+        "en": "What’s next"
+      },
+      {
+        "t": "p",
+        "zh": "这项工作是 OpenAI 迈向可编程分子设计的早期一步。我们的目标是让科学家用平实的语言描述希望分子做什么，并借助我们的模型帮助设计可在实验室中测试的候选者。为了使这种方法对药物开发有用，我们希望在三个领域取得进展。",
+        "en": "This work is an early step toward programmable molecular design at OpenAI. Our goal is to let scientists describe what they want a molecule to do in plain language and use our models to help design candidates to test in the lab. To make that approach useful for developing medicines, we want to make progress in three areas."
+      },
+      {
+        "t": "p",
+        "zh": "• 为更困难的靶标找到微型结合蛋白。我们希望设计出能够与迄今尝试尚未成功的靶标结合的分子。",
+        "en": "• Find minibinders for harder targets. We want to design molecules that bind to targets where our attempts so far have fallen short."
+      },
+      {
+        "t": "p",
+        "zh": "• 为结合之后发生的事情做设计。我们希望测试所设计的分子能否产生特定的生物学效应，例如杀死癌细胞。我们还希望设计能选择性地结合预定靶标、并且便于制造的分子。",
+        "en": "• Design for what happens after binding. We want to test whether the molecules we design can produce a specific biological effect, such as killing a cancer cell. We also want to design molecules that bind selectively to their intended targets and are practical to manufacture."
+      },
+      {
+        "t": "p",
+        "zh": "• 设计更广泛的分子。我们的实验室实验聚焦于小的蛋白质微型结合蛋白和抗体片段。我们希望把这项工作扩展到可同时结合多个靶标的分子、RNA，以及小分子，包括一类称为 PROTACs 的分子，它们能引导细胞降解特定蛋白质。",
+        "en": "• Design a wider range of molecules. Our lab experiments focused on small protein minibinders and antibody fragments. We’d like to extend that work to molecules that bind to several targets at once, RNA, and small molecules, including a class called PROTACs that direct a cell to break down a particular protein."
+      },
+      {
+        "t": "p",
+        "zh": "在我们努力安全、负责任地加速科学进步的同时，我们也寻求评估并降低风险，尤其是与生物安全相关的风险。帮助科学家为新药设计蛋白质的同样能力，也可能被滥用。我们的 Preparedness Framework 指导我们如何评估这些风险，并测试用于降低风险的保障措施。",
+        "en": "As we work to accelerate scientific progress safely and responsibly, we also seek to evaluate and reduce risks, particularly those related to biosecurity. The same capabilities that help scientists design proteins for new medicines could also be misused. Our Preparedness Framework⁠ guides how we assess these risks and test safeguards to reduce them."
+      },
+      {
+        "t": "p",
+        "zh": "虽然实验室测试仍是蛋白质设计的关键环节，但我们的目标是提供强大的模型，通过给予科学家更多控制和灵活性来缩短每一轮设计，并减少找到功能性蛋白质所需的设计-测试循环总数。最终，我们设想让科学家只需用自然语言提示我们的模型，就能设计蛋白质和分子，从而大规模加速新生物技术和新药的开发。",
+        "en": "While lab testing remains a critical part of protein design, our goal is to provide powerful models that can shorten each round of design by giving scientists more control and flexibility, and reduce the total number of design-test cycles needed to find a functional protein. Ultimately, we envision enabling scientists to design proteins and molecules simply by prompting our models in natural language, massively accelerating the development of new biotechnologies and new medicines."
+      }
+    ]
+  }
+}

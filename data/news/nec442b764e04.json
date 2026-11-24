@@ -1,0 +1,218 @@
+{
+  "id": "nec442b764e04",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "Intentful用数字员工Aria加速方案撰写",
+  "original_title": "How Intentful uses dots to make more time for growth",
+  "summary": "营销公司Intentful创始人彼得罗娃借助OpenAI的数字员工Aria，批量查看约300个网站站点地图、整理历史报价并起草一页方案，将原本需要数天的提案工作缩短到数小时。",
+  "facts": [
+    {
+      "text": "玛丽娜·彼得罗娃是Intentful的首席执行官兼联合创始人，该公司帮助品牌制作可互动的营销内容，并为旅游目的地和本地商家提供服务。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/intentful-dots"
+    },
+    {
+      "text": "她把名为Aria的数字员工用于方案准备，包括检索约300个网站站点地图，并对照过去协议整理定价。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/intentful-dots"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据彼得罗娃称，Aria帮她把一份面向数百家本地商家的方案从数天缩短到数小时，并会在发现旧方案续约日期与记忆不符时主动标出差异。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/intentful-dots"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "is_primary": true,
+      "published_at": "2026-11-24T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T08:00:00+08:00",
+  "updated_at": "2026-11-24T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Intentful用数字员工Aria加速方案撰写",
+  "lead_zh": "OpenAI介绍客户Intentful：首席执行官彼得罗娃用名为Aria的数字员工检索约300个网站站点地图并撰写方案，把原本需要数天的工作压缩到数小时。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Intentful是一家帮助品牌制作可互动营销内容的公司，也服务旅游目的地和酒店、餐厅等本地商家。首席执行官兼联合创始人玛丽娜·彼得罗娃把名为Aria的数字员工用于研究网站、整理历史报价并起草方案，以把更多时间留给增长相关工作。",
+        "在一份面向某旅游客户、覆盖当地数百家商家的方案中，她先向Aria提供网址表格和筛选标准，例如站点地图可读且页面不超过**3000**个。Aria随后检索了约**300**个网站的站点地图，并借助插件查看历史协议与定价，再与她一起建立按页面数量分档的定价模型，并起草一页方案。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "客户怎么说",
+      "paras": [
+        "据彼得罗娃称，Aria把原本需要数天的方案工作缩短到数小时，她只需说明方案应包含什么，而不必花一小时去想排版。她还提到，当自己要求沿用旧方案价格时，Aria发现原续约日期与她记忆不符，并标出差异、没有把该日期写进新稿。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "img/4a6703324dbe3a2ac996386912436e6d49560166.jpg",
+  "image_source": "OpenAI News",
+  "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/2DH2aby1xmlzvADCraI7Xi/bbe8b8956578492f2c3fd7326ecbd9e1/intentful-dots-social-c.png?w=1600&h=900&fit=fill",
+  "fulltext_status": "ok",
+  "read_minutes": 5,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2025-10-27",
+    "title_en": "How Intentful uses dots to make more time for growth",
+    "title_zh": "Intentful 如何用 dots 为增长腾出更多时间",
+    "dek_en": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+    "dek_zh": "Marina Petrova 的 dot Aria 帮助调研网站并撰写方案，同时主动标记消息并解决问题。",
+    "word_count_zh": 1639,
+    "read_minutes": 5,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "Marina Petrova 是 Intentful 的首席执行官兼联合创始人。这是一支精干团队，帮助品牌让营销变得可互动，产品包括能实时回答客户问题的广告，以及让网站信息可被人工智能读取的工具。该公司也为营销人员提供人工智能方面的咨询和培训。",
+        "en": "Marina Petrova is CEO and cofounder of Intentful⁠(opens in a new window), a lean team that helps brands make their marketing interactive, with products such as ads that answer customers’ questions in real time and tools that make website information readable by AI. The company also advises and trains marketers on using AI."
+      },
+      {
+        "t": "p",
+        "zh": "在旅行和旅游业，Intentful 与目的地机构和当地企业合作，例如酒店、餐厅和景点。定制方案是 Marina 赢得业务的方式之一，向潜在客户展示有哪些可能、以及交付需要什么。",
+        "en": "In travel and tourism, Intentful works with destination organizations and local businesses such as hotels, restaurants, and attractions. A custom proposal is part of how Marina wins their business, showing prospects what’s possible and what it would take to deliver."
+      },
+      {
+        "t": "p",
+        "zh": "为了让 Intentful 持续增长，她需要为这类战略性工作腾出更多空间，但她把太多时间花在了调研、寻找文件和排版演示文稿上。她的 dot 改变了这一切，在她甚至还没开口之前就接手任务、满足她的需求。",
+        "en": "To keep Intentful growing, she needed more room for that strategic work, but she was spending too much time on research, hunting for files, and formatting decks. Her dot⁠ changed all that, taking on tasks and meeting Marina’s needs before she even had to ask."
+      },
+      {
+        "t": "p",
+        "zh": "“我的 dot 让我觉得自己获得了一种新的超能力。”",
+        "en": "“My dot makes me feel like I gained a new superpower.”"
+      },
+      {
+        "t": "h",
+        "zh": "从 300 个网站到一份方案：几天的工作压缩到几小时",
+        "en": "From 300 websites to a proposal in hours instead of days"
+      },
+      {
+        "t": "p",
+        "zh": "针对 Intentful 的一个旅游客户，Marina 想为该目的地的数百家本地企业提议一套 Intentful 人工智能服务包。在为这个服务包定价之前，她需要弄清该服务包可以覆盖哪些企业的网站，以及 Intentful 为其他客户的类似工作收取过多少费用。",
+        "en": "For one of Intentful’s tourism clients, Marina wanted to propose a package of Intentful’s AI services for hundreds of local businesses in the destination. Before she could price the package, she needed to work out which businesses’ websites the package could cover and what Intentful had charged other clients for similar work."
+      },
+      {
+        "t": "p",
+        "zh": "她请来了自己命名为 Aria 的 dot，帮她在几小时而不是几天内，从调研走到一份可以署上自己名字的方案。首先，Marina 给了 Aria 一份网址电子表格，以及决定纳入哪些网站的标准。例如，网站需要有一份可读的站点地图，且所列页面不超过 3,000 个。",
+        "en": "She brought in her dot, which she named Aria, to help her get from research to a proposal she could put her name on in a few hours instead of several days. First, Marina gave Aria a spreadsheet of URLs and criteria for deciding which sites to include. For example, a site needed a readable sitemap listing no more than 3,000 pages."
+      },
+      {
+        "t": "p",
+        "zh": "“我的 dot 查看了大约 300 个网站的站点地图，帮我确定在面向本地企业的新方案中纳入哪些网站，并从以往协议中提取了定价。”",
+        "en": "“My dot looked through about 300 website sitemaps, helped me figure out which sites to include in a new offer for local businesses, and pulled pricing from past agreements.”"
+      },
+      {
+        "t": "p",
+        "zh": "接下来，Aria 帮助 Marina 研究定价。通过 ChatGPT 插件，Aria 审阅了 Intentful 的销售数据，包括以往项目以及 HubSpot 中的讨论。它找出了早期协议中的定价，以及 Intentful 对下一年度计划的相关背景。",
+        "en": "Next, Aria helped Marina research pricing. Through ChatGPT⁠(opens in a new window) plugins, Aria reviewed Intentful’s sales data, including past engagements and discussions in HubSpot. It surfaced pricing from earlier agreements and context from Intentful’s plans for the following year."
+      },
+      {
+        "t": "p",
+        "zh": "利用这些数据，Marina 和 Aria 随后建立了一个定价模型：页面数量决定定价档位，以往客户协议也为价格提供了参考。Marina 说：“我们一起做出了一个定制定价模型，然后 Aria 把它变成了一页纸的方案，由我审阅和修改。”",
+        "en": "Using that data, Marina and Aria then built a pricing model: page counts determined the pricing tier, and previous customer agreements also informed the price. “We worked through a custom pricing model together, and then Aria turned it into a one-page proposal I reviewed and edited,” said Marina."
+      },
+      {
+        "t": "p",
+        "zh": "在起草方案时，Aria 知道使用 Intentful 在 Google Drive 中的模板。Marina 也可以让 Aria 参照一份更早的方案，这样草稿从一开始就遵循 Intentful 的风格。Marina 说：“我需要说明方案里该有什么，但不需要花一个小时去想它的版式。我的 dot 会处理这些。”",
+        "en": "When drafting proposals, Aria knows to use Intentful’s templates from Google Drive. Marina can also point Aria to an earlier proposal as a reference, so the draft follows Intentful’s style from the start. “I need to say what needs to be in a proposal, but I don’t need to spend an hour figuring out its layout. My dot handles that,” Marina says."
+      },
+      {
+        "t": "p",
+        "zh": "Aria 还能发现 Marina 没想到要检查的事情。当 Marina 让 Aria 沿用一份早期方案中的定价时，它注意到原来的续约日期与她记忆中的时间不符。Aria 标出了这一不一致，并没有把该日期写进新草稿。",
+        "en": "Aria can also spot things Marina hadn’t thought to check. When Marina asked Aria to reuse pricing from an earlier proposal, it noticed that the original renewal date didn’t match the timing she remembered. Aria flagged the discrepancy and left the date out of the new draft."
+      },
+      {
+        "t": "h",
+        "zh": "在消息、任务和团队动态上保持领先",
+        "en": "Staying ahead of messages, tasks, and team updates"
+      },
+      {
+        "t": "p",
+        "zh": "Marina 使用 ChatGPT 中的 Gmail 和 Slack 插件来跟上对话、查找未完成任务，并了解团队在哪些地方需要她。Aria 会检查需要 Marina 关注的消息。在 Marina 离线期间，Aria 发现了一封她一直在等待的回复，并告诉她其中包含当天上午通话的邀请。",
+        "en": "Marina uses the Gmail and Slack plugins in ChatGPT to catch up on conversations, find open tasks, and see where the team needs her. Aria checks for messages that need Marina’s attention. While Marina was offline, Aria spotted a reply she had been waiting for and let her know it included an invitation for a call that morning."
+      },
+      {
+        "t": "p",
+        "zh": "Marina 也用 Aria 来讨论想法、查找对话、查看某个客户在 CRM 中的历史，或在 Asana 中打开并分配任务。她经常在出行途中通过电话向 Aria 布置工作。",
+        "en": "Marina also uses Aria to talk through ideas, find conversations, check an account’s history in the CRM, or open and assign tasks in Asana. She often briefs Aria by phone while she travels."
+      },
+      {
+        "t": "p",
+        "zh": "“在长途驾驶中，我会给我的 dot 打电话，讲需要完成的事情。我们会聊客户方案的更新，而我的 dot 已经知道结构、格式和需要做的事情。”",
+        "en": "“On a long drive, I call my dot and talk through what needs to get done. We chat through updates for client proposals, and my dot already knows the structure, the formatting, and what needs to be done.”"
+      },
+      {
+        "t": "p",
+        "zh": "Marina 喜欢她的 dot 就在她已经使用的工具里工作。当 Aria 写好一份草稿后，Marina 可以在 Google Docs 中恰好想修改的位置留下评论。对于较长的文档，她会让 Aria 使用建议模式，以便看到改了什么。",
+        "en": "Marina loves that her dot works in the tools she already uses. When Aria writes a draft, Marina can leave comments in Google Docs exactly where she wants changes. On longer documents, she asks Aria to use suggesting mode so she can see what changed."
+      },
+      {
+        "t": "p",
+        "zh": "即便未被要求，Aria 也会跟上共享工作中的变化。在一次会议演讲中，Marina 做了演示文稿，一位同事又加了两页幻灯片。Marina 说：“Aria 注意到了新幻灯片，在未被要求的情况下更新了演讲者备注，并告知了我。”",
+        "en": "Aria also keeps up with changes in shared work without being asked. For a conference presentation, Marina created the deck and a colleague added two slides. “Aria noticed the new slides, updated the speaker notes without being asked, and let me know,” Marina says."
+      },
+      {
+        "t": "p",
+        "zh": "Marina 选择 Aria 可以访问哪些信息，并始终审阅外发邮件。她可以让工作持续推进，而不把最终决定权交出去。",
+        "en": "Marina chooses which information Aria can access and always reviews outgoing email. She can keep work moving without handing over the final call."
+      },
+      {
+        "t": "h",
+        "zh": "用 dots 教他人认识人工智能",
+        "en": "Using dots to teach others about AI"
+      },
+      {
+        "t": "p",
+        "zh": "当 Marina 准备一场关于智能体的 AI 101 课程时，她用 Aria 帮忙搭建课程。这个过程本身就是她希望学员学会的范例：把一项真实任务委派出去，给智能体足够的背景，质疑结果，并始终掌控最终对外发出的内容。",
+        "en": "When Marina prepared an AI 101 session on agents, she used Aria to help build the lesson. The process was itself an example of what she wanted attendees to learn: delegate a real task, give the agent enough context, challenge the result, and stay in control of what goes out."
+      },
+      {
+        "t": "p",
+        "zh": "即便在课程结束后，Aria 的支持仍在继续。一次飞行之后，Marina 看到一名学员请求访问培训文件。当她向 Aria 确认时，文件已经被分享出去了。而在一场面向 50 名营销人员的课程之后，Aria 发现一个软件故障导致学员无法打开录像。它标出了这一访问问题，并在链接被分享之前提出可以修复。",
+        "en": "Aria’s support continued even after the class. After a flight, Marina saw a participant’s request for access to a training file. When she checked with Aria, it had already shared the file. And after a session for 50 marketers, Aria noticed that a software glitch was preventing participants from opening the recording. It flagged the access issue and offered to fix it before the link was shared."
+      },
+      {
+        "t": "p",
+        "zh": "“有了自己的 dot，我可以专注于战略性的事情。我可以专注于想法和增长。”",
+        "en": "“With my dot, I can focus on strategic things. I can focus on ideas and growth.”"
+      },
+      {
+        "t": "h",
+        "zh": "加入工作的新时代",
+        "en": "Join the new era of work"
+      },
+      {
+        "t": "h",
+        "zh": "获取 OpenAI for Business 更新",
+        "en": "Get OpenAI for Business updates"
+      },
+      {
+        "t": "p",
+        "zh": "产品更新、实用指南、即将举行的活动，以及更多内容。",
+        "en": "Product updates, practical guides, upcoming events, and more."
+      }
+    ]
+  }
+}

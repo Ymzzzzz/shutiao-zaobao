@@ -1,0 +1,413 @@
+{
+  "id": "n7a6462e387eb",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "iFood用编程智能体管理逾1.5万个代码库",
+  "original_title": "How iFood scales coding agents across 15,000 repositories",
+  "summary": "iFood的远程智能体平台通过接口提交任务，在隔离沙箱中用GPT-5.6 Luna执行并提交合并请求，覆盖超过1.5万个代码库。内部安全平台因此修复的漏洞数量增加一倍以上，单次运行平均成本约4美分。",
+  "facts": [
+    {
+      "text": "iFood维护着超过1.5万个代码仓库，并搭建了远程智能体平台，把工程任务变成接口调用，在隔离沙箱中执行后再以合并请求返回结果。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/ifood"
+    },
+    {
+      "text": "该平台在内部安全场景中使用后，修复的漏洞数量增加了一倍以上；智能体在沙箱中运行的是GPT-5.6 Luna，单次运行平均成本约4美分。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/ifood"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据iFood高级软件工程师维克托·科埃略称，单个仓库并不难处理，难的是在全部1.5万个仓库上规模化解决同类任务。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/ifood"
+    },
+    {
+      "text": "据该团队称，选择GPT-5.6 Luna是因为它在同等检查点的模型中较好地平衡了智能水平、效率和完成速度。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/ifood"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "is_primary": true,
+      "published_at": "2026-11-24T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T08:00:00+08:00",
+  "updated_at": "2026-11-24T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "iFood用编程智能体管理逾1.5万个代码库",
+  "lead_zh": "巴西外卖平台iFood搭建远程智能体平台，把工程任务变成接口调用，在隔离沙箱中运行GPT-5.6 Luna，以覆盖公司超过1.5万个代码仓库。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "巴西外卖平台iFood维护着超过**1.5万**个代码仓库，并搭建了远程智能体平台：团队通过接口提交任务，系统在隔离沙箱中执行，再以合并请求返回结果。该平台在内部安全场景中使用后，修复的漏洞数量增加了一倍以上。",
+        "工作流两端是确定性步骤，包括克隆仓库、导入技能、准备分支，以及最后发布合并请求；中间则在沙箱中运行**GPT-5.6 Luna**。沙箱基于Ubuntu，并配备多种编程工具链，还可访问GitLab、Docker、Snyk、Kubernetes和AWS。单次运行平均成本约**4**美分。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据iFood高级软件工程师维克托·科埃略称，单个仓库并不难处理，难的是在全部1.5万个仓库上规模化解决同类任务。据该团队称，选择GPT-5.6 Luna是因为它在同等检查点的模型中较好地平衡了智能水平、效率和完成速度，从而能够可持续地扩大使用范围。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "img/dde34b8981a93eaa6508600841dafefd6c713ab3.jpg",
+  "image_source": "OpenAI News",
+  "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/4Ts7RsLLSU4iEOxQwBkGgg/cbf56c075004a9ae2c41af4d5f7b428b/ifood-customer-story-social.png?w=1600&h=900&fit=fill",
+  "fulltext_status": "ok",
+  "read_minutes": 7,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-05-27",
+    "title_en": "How iFood scales coding agents across 15,000 repositories",
+    "title_zh": "iFood 如何在 15,000 个代码库中规模化部署编程智能体",
+    "dek_en": "",
+    "dek_zh": "",
+    "word_count_zh": 2544,
+    "read_minutes": 7,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "Remote Agents Platform 把工程任务变成了 API 调用：团队把工作委派出去，执行在远程沙箱中进行，结果以合并请求的形式返回。在内部安全平台上，修复的漏洞数量增加了一倍以上。",
+        "en": "The Remote Agents Platform turned engineering tasks into API calls: teams delegate the work, execution takes place in a remote sandbox, and the result comes back as a merge request. In the internal security platform, the number of vulnerabilities fixed more than doubled."
+      },
+      {
+        "t": "h",
+        "zh": "挑战不在于任务本身，而在于规模",
+        "en": "The challenge isn’t the task—it’s the scale"
+      },
+      {
+        "t": "p",
+        "zh": "iFood 维护着超过 15,000 个代码库。每一个都需要定期执行特定任务：校验代码以确保符合内部标准、修复存在漏洞的依赖，或运行一次分析。",
+        "en": "iFood maintains more than 15,000 code repositories. Each periodically needs specific tasks performed: validating code to ensure it meets internal standards, fixing vulnerable dependencies, or running an analysis."
+      },
+      {
+        "t": "p",
+        "zh": "这些任务单独来看都不难。挑战出现在这些任务成倍增加的时候。",
+        "en": "None of these tasks is difficult on its own. The challenge comes when those tasks multiply."
+      },
+      {
+        "t": "p",
+        "zh": "iFood 高级软件工程师 Victor Coelho 说：“为一个代码库解决这个问题很容易。挑战在于按规模解决它。Remote Agents Platform 的设计就是为了能在全部 15,000 个代码库上按规模解决这个问题。”",
+        "en": "“Solving this for one repository is easy. The challenge is solving it at scale,” says Victor Coelho, Senior Software Engineer at iFood. “The Remote Agents Platform is designed to make it possible to solve this at scale across all 15,000 repositories.”"
+      },
+      {
+        "t": "p",
+        "zh": "在有该平台之前，每个团队都以自己的方式应对这个问题——而他们都遇到了同一个障碍。",
+        "en": "Before the platform, each team tackled the problem in its own way—and they all ran into the same obstacle."
+      },
+      {
+        "t": "p",
+        "zh": "“以前，我们有各自为政的解决方案。想象一下 iFood 有几个团队在试图解决不同的问题，却没有这一层、没有这个可供他们使用的智能体运行时。到头来，那些方案总会撞上同一个问题。”",
+        "en": "“Before, we had fragmented solutions. Imagine several teams at iFood trying to solve different problems, but without this layer, this agentic runtime, available to them. In the end, those solutions always ran into the same problem.”"
+      },
+      {
+        "t": "p",
+        "zh": "缺的不是智能，也不是使用场景。缺的是执行基础设施。一个专用的运行时。",
+        "en": "What was missing wasn’t intelligence or a use case. It was execution infrastructure. A dedicated runtime."
+      },
+      {
+        "t": "p",
+        "zh": "“团队可以专注于解决他们的业务问题，并把执行委派给我们的平台。”",
+        "en": "“Teams can focus on solving their business problems and delegate execution to our platform.”"
+      },
+      {
+        "t": "h",
+        "zh": "一个可通过 API 访问的云端编程智能体",
+        "en": "A coding agent in the cloud, accessible through an API"
+      },
+      {
+        "t": "p",
+        "zh": "该团队把 Remote Agents Platform 描述为一个启动远程智能体编程任务的 API。这个循环有三个步骤：用户通过一次 REST 调用提交提示词和环境要求；平台在隔离沙箱内的专用远程运行器上处理该任务；随后再取回结果。",
+        "en": "The team describes the Remote Agents Platform as an API that launches a remote agentic coding task. The cycle has three steps: the user submits a prompt and environment requirements through a REST call; the platform processes the task on a dedicated remote runner inside an isolated sandbox; and the result is retrieved later."
+      },
+      {
+        "t": "p",
+        "zh": "他解释说：“平台的入口，也就是它的接口，是一个简单的 REST API。用户可以用这个 API 创建他们需要的运行。在内部，我们处理并管理整个生命周期，并把执行委派给隔离的沙箱。”任务进度可以实时监控。",
+        "en": "“The platform’s entry point, its interface, is a simple REST API. Users can use this API to create the runs they need. Internally, we handle and manage the entire lifecycle and delegate execution to isolated sandboxes,” he explains. Task progress can be monitored in real time."
+      },
+      {
+        "t": "p",
+        "zh": "运行器的内部设计在两类不同的步骤之间交替——而这种组合使整个工作流可预测。",
+        "en": "The runner’s internal design alternates between two different types of steps—and that combination makes the overall workflow predictable."
+      },
+      {
+        "t": "p",
+        "zh": "确定性步骤构成工作流的两端：开始时克隆代码库、导入智能体可以使用的技能，并建立工作分支；结束时发布合并请求，并提供生成的产物。中间则是智能体执行本身，在沙箱中运行 GPT-5.6 Luna。",
+        "en": "Deterministic steps bookend the workflow: cloning the repository, importing the skills the agent can use, and setting up the working branch at the start; publishing the merge request and making the generated artifacts available at the end. In between is the agentic execution itself, running GPT‑5.6 Luna inside the sandbox."
+      },
+      {
+        "t": "p",
+        "zh": "“就是这两样东西的组合：工作流中的确定性步骤，以及智能体执行。”",
+        "en": "“It’s a combination of those two things: deterministic steps and agentic execution within the workflow.”"
+      },
+      {
+        "t": "p",
+        "zh": "沙箱运行 Ubuntu，并包含 iFood 生态系统所需的工具链——Python、Java、Kotlin、C#、TypeScript、Rust、JavaScript 和 Go——以及通用工具。在沙箱之外，智能体可以访问 Nexus、GitLab、Docker、Snyk、Kubernetes 和 AWS。",
+        "en": "The sandbox runs Ubuntu and includes the toolchains iFood’s ecosystem requires—Python, Java, Kotlin, C#, TypeScript, Rust, JavaScript, and Go—along with general-purpose tools. Beyond the sandbox, the agent can access Nexus, GitLab, Docker, Snyk, Kubernetes, and AWS."
+      },
+      {
+        "t": "h",
+        "zh": "为什么选择 GPT-5.6 Luna",
+        "en": "Why GPT‑5.6 Luna"
+      },
+      {
+        "t": "p",
+        "zh": "模型的选择是把三个因素放在一起考虑的结果，而不是只看其中一项。",
+        "en": "The model choice came down to three factors considered together, rather than just one."
+      },
+      {
+        "t": "p",
+        "zh": "“我们选择 GPT-5.6 Luna，是因为在同一检查点的模型中，基准测试显示它在智能、效率和执行速度——也就是完成任务有多快——之间提供了很好的平衡。正是这三种特质加在一起，让我们选择了 GPT-5.6 Luna。”",
+        "en": "“We chose GPT‑5.6 Luna because, among models at the same checkpoint, the benchmarks showed it offered a great balance of intelligence, efficiency, and execution speed—how quickly it could complete tasks. Those three qualities together led us to choose GPT‑5.6 Luna.”"
+      },
+      {
+        "t": "p",
+        "zh": "对一个为规模化而建的平台来说，这种平衡比对一次性使用场景更重要。在消耗数万个 token 的情况下，每次运行平均四美分的成本不再是细枝末节，而成为一项架构上的考量。",
+        "en": "That balance matters more for a platform built to scale than it would for a one-off use case. With tens of thousands of tokens being consumed, the average cost of four U.S. cents per run stops being a minor detail and becomes an architectural consideration."
+      },
+      {
+        "t": "p",
+        "zh": "“考虑到我们计划把该平台扩展到 iFood 的许多使用场景，OpenAI 模型所提供的效率与智能的平衡，确保我们可以可持续地扩展。”",
+        "en": "“Given our plans to scale the platform across many use cases at iFood, the balance of efficiency and intelligence that OpenAI’s model provides ensures we can scale sustainably.”"
+      },
+      {
+        "t": "h",
+        "zh": "如何判断智能体是否完成了任务",
+        "en": "How to tell whether the agent completed the task"
+      },
+      {
+        "t": "p",
+        "zh": "按规模委派执行带来了一个新挑战：自动判断智能体是否做了它该做的事。",
+        "en": "Delegating execution at scale creates a new challenge: automatically determining whether the agent did what it was supposed to do."
+      },
+      {
+        "t": "p",
+        "zh": "iFood 的答案出现在会话之后的步骤中。执行完成后，结果会使用 OpenAI 的 Structured Outputs 进行处理，这要求输出符合预先定义的契约。",
+        "en": "iFood’s answer comes in the step after the session. Once execution is complete, the result is processed using OpenAI’s Structured Outputs, which requires the output to conform to a predefined contract."
+      },
+      {
+        "t": "p",
+        "zh": "“我们使用 Structured Outputs 处理结果，这确保回复遵循预先定义的契约。从智能体的会话中，我们可以在我们所期望的回复结构里识别输出。这有助于减少不确定性，并确保我们总能从智能体会话中得到一个回复，无论是正面还是负面的。”",
+        "en": "“We process the result using Structured Outputs, which ensures the response follows a predefined contract. From the agent’s session, we can identify the outputs within the response structure we expect. This helps reduce uncertainty and ensures we can always get a response from the agent’s session, whether positive or negative.”"
+      },
+      {
+        "t": "h",
+        "zh": "第一个主要用户：安全",
+        "en": "The first major user: security"
+      },
+      {
+        "t": "p",
+        "zh": "该平台已经支撑着 iFood 的一款内部安全产品，用于扫描这 15,000 个代码库中的脆弱依赖并尝试修复它们。",
+        "en": "The platform already powers an internal iFood security product that scans the 15,000 repositories for vulnerable dependencies and attempts to fix them."
+      },
+      {
+        "t": "p",
+        "zh": "这次迁移带来了直接效果。Coelho 说：“有了我们的平台，这些变更、这些修复的准确率提高了一倍以上。”",
+        "en": "The migration had a direct impact: “With our platform, the accuracy of those changes, those fixes, more than doubled,” says Coelho."
+      },
+      {
+        "t": "p",
+        "zh": "这个使用场景说明了该平台背后的理念：安全团队不需要自己构建智能体运行时，也不需要成为智能体编排方面的专家。它需要的是调用一个 API。",
+        "en": "This use case illustrates the idea behind the platform: the security team didn’t need to build its own agentic runtime or become experts in agent orchestration. It needed to call an API."
+      },
+      {
+        "t": "h",
+        "zh": "异步执行把时间还给开发人员",
+        "en": "Asynchronous execution gives developers their time back"
+      },
+      {
+        "t": "p",
+        "zh": "该团队强调的是异步执行让开发人员得以腾出手去做什么，而不是替代他们。",
+        "en": "The team emphasizes what asynchronous execution frees developers to do, rather than replacement."
+      },
+      {
+        "t": "p",
+        "zh": "因为任务被委派出去并无须监督地运行，开发人员不必一直专注于监控它。",
+        "en": "Because the task is delegated and runs without supervision, the developer doesn’t have to stay focused on monitoring it."
+      },
+      {
+        "t": "p",
+        "zh": "“在开会的时候，他们可以启动一次代码修复、一次性能分析，或其他稍微常规一些的任务——那些可以委派出去、当时不必监控的事情。”",
+        "en": "“While they’re in a meeting, they can launch a code fix, a performance analysis, or another task that’s a little more routine—something they can delegate without having to monitor it at that moment.”"
+      },
+      {
+        "t": "p",
+        "zh": "常规工作不再与团队的注意力竞争。这样就留下了时间去处理需要判断力的问题。",
+        "en": "Routine work no longer competes for the team’s attention. That leaves time for problems that require judgment."
+      },
+      {
+        "t": "p",
+        "zh": "“你可以释放这些生产力提升，而不必在工作进行时盯着它。”",
+        "en": "“You can unlock those productivity gains without necessarily having to monitor the work as it happens.”"
+      },
+      {
+        "t": "h",
+        "zh": "以启发它的那些 API 为样板",
+        "en": "Modeled on the APIs that inspired it"
+      },
+      {
+        "t": "p",
+        "zh": "Remote Agents Platform 被设计成一个内部层，其方式类似于 OpenAI 向外部客户提供这类任务的方式。",
+        "en": "The Remote Agents Platform was designed as an internal layer with similarities to the way OpenAI makes this type of task available to external customers."
+      },
+      {
+        "t": "p",
+        "zh": "“Remote Agents Platform 从 OpenAI 的 API 中汲取了大量灵感，既包括 Batch API，也包括更新近的 OpenAI 产品 Agents API。我们构建了一个类似这些产品的平台，但它是 iFood 内部的。”",
+        "en": "“The Remote Agents Platform drew a lot of inspiration from OpenAI’s APIs, both the Batch API and the Agents API, which is an even more recent OpenAI product. We built a platform that resembles those products, but is internal to iFood.”"
+      },
+      {
+        "t": "p",
+        "zh": "这种灵感不止于概念。它延伸到接口设计、资源组织，以及异步执行、稍后取回结果的做法。",
+        "en": "The inspiration went beyond the concept. It extends to the design of the interfaces, the organization of resources, and the approach to asynchronous execution with results retrieved later."
+      },
+      {
+        "t": "p",
+        "zh": "“这些产品直接影响了我们如何构建自己的方案。”",
+        "en": "“These products directly inspired how we built our solution.”"
+      },
+      {
+        "t": "h",
+        "zh": "成果一览",
+        "en": "Results at a glance"
+      },
+      {
+        "t": "p",
+        "zh": "• 该平台已完成超过 25,000 项任务，消耗超过 270 亿个 token，每次运行平均成本为 0.04 美元。",
+        "en": "• The platform has completed more than 25,000 tasks, consuming more than 27 billion tokens, at an average cost of US$0.04 per run."
+      },
+      {
+        "t": "p",
+        "zh": "• 迁移到 Remote Agents Platform 之后，内部安全平台的修复准确率和已解决漏洞数量都提高了一倍以上。",
+        "en": "• After migrating to the Remote Agents Platform, the internal security platform more than doubled both the accuracy of its fixes and the number of vulnerabilities resolved."
+      },
+      {
+        "t": "p",
+        "zh": "• 覆盖范围遍及 iFood 超过 15,000 个代码库。",
+        "en": "• Coverage extends across iFood’s more than 15,000 code repositories."
+      },
+      {
+        "t": "p",
+        "zh": "• 所有运行都使用 GPT-5.6 Luna，选择它是因为它在智能、效率和速度上的平衡。",
+        "en": "• All runs use GPT‑5.6 Luna, chosen for its balance of intelligence, efficiency, and speed."
+      },
+      {
+        "t": "p",
+        "zh": "• Structured Outputs 确保每次会话都返回符合预先定义契约的结果，无论是正面还是负面的。",
+        "en": "• Structured Outputs ensures that each session returns a result that follows a predefined contract, whether positive or negative."
+      },
+      {
+        "t": "p",
+        "zh": "• 产品团队已经从构建各自为政的方案，转向通过 REST API 委派智能体执行。",
+        "en": "• Product teams have moved from building fragmented solutions to delegating agentic execution through a REST API."
+      },
+      {
+        "t": "h",
+        "zh": "给领导者的启示",
+        "en": "Lessons for leaders"
+      },
+      {
+        "t": "p",
+        "zh": "• 瓶颈往往在运行时，而不在使用场景。几个团队已经知道自己想自动化什么；他们缺少的是一个可以运行它的环境。",
+        "en": "• The bottleneck is often the runtime, not the use case. Several teams already knew what they wanted to automate; they lacked an environment in which to run it."
+      },
+      {
+        "t": "p",
+        "zh": "• 把确定性步骤与智能体执行结合起来。克隆、发布和提供产物并不需要模型；中间的复杂任务才需要。",
+        "en": "• Combine deterministic steps with agentic execution. Cloning, publishing, and making artifacts available don’t require a model; the complex task in between does."
+      },
+      {
+        "t": "p",
+        "zh": "• 把每次运行的成本当作一项架构决策。在规模化时，每项任务的成本决定了哪些事情适合自动化。",
+        "en": "• Treat cost per run as an architectural decision. At scale, the cost per task determines what is feasible to automate."
+      },
+      {
+        "t": "p",
+        "zh": "• 要求输出遵循契约。如果没有结构化的回复，就无法在规模上知道智能体是否达成了目标。",
+        "en": "• Require outputs to follow a contract. Without a structured response, there’s no way to know at scale whether the agent achieved its objective."
+      },
+      {
+        "t": "p",
+        "zh": "• 真正的生产力提升来自异步执行。价值在于不必监控工作，而不是一边盯着它一边更快地完成。",
+        "en": "• Asynchronous execution is the real productivity gain. The value lies in not having to monitor the work, rather than completing it faster while watching over it."
+      },
+      {
+        "t": "h",
+        "zh": "建议",
+        "en": "Tips"
+      },
+      {
+        "t": "p",
+        "zh": "• 通过内部 API 对外提供智能体能力，以便其他团队使用，而不必重建基础设施。",
+        "en": "• Expose agentic capabilities through an internal API so other teams can use them without rebuilding the infrastructure."
+      },
+      {
+        "t": "p",
+        "zh": "• 把每次运行隔离在各自的沙箱中，并预先安装好你的生态系统所需的工具链。",
+        "en": "• Isolate each run in its own sandbox, with your ecosystem’s toolchains already installed."
+      },
+      {
+        "t": "p",
+        "zh": "• 选择模型时把智能、成本和速度放在一起考虑，而不是只看单项基准。",
+        "en": "• Choose a model by considering intelligence, cost, and speed together, rather than a single benchmark."
+      },
+      {
+        "t": "p",
+        "zh": "• 使用结构化输出自动区分成功与失败。",
+        "en": "• Use structured outputs to classify success and failure automatically."
+      },
+      {
+        "t": "p",
+        "zh": "• 从一个痛点明确、体量很大的内部用户开始——在 iFood，那就是安全平台。",
+        "en": "• Start with an internal user with a clear pain point and high volume—at iFood, that was the security platform."
+      },
+      {
+        "t": "h",
+        "zh": "下一步",
+        "en": "Next steps"
+      },
+      {
+        "t": "p",
+        "zh": "该团队计划把平台带到 iFood 更多的使用场景中，扩大将智能体执行委派给它的内部产品范围——而每项任务的成本将决定这种扩展能否持续。",
+        "en": "The team plans to bring the platform to many more use cases across iFood, expanding the range of internal products that delegate agentic execution to it—with cost per task determining whether that expansion can be sustained."
+      },
+      {
+        "t": "h",
+        "zh": "加入工作的新时代",
+        "en": "Join the new era of work"
+      },
+      {
+        "t": "h",
+        "zh": "获取 OpenAI for Business 更新",
+        "en": "Get OpenAI for Business updates"
+      },
+      {
+        "t": "p",
+        "zh": "产品更新、实用指南、即将举行的活动，以及更多内容。",
+        "en": "Product updates, practical guides, upcoming events, and more."
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "id": "nf3aa9260f109",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "业余天文学者用Astra搜寻潜在系外行星",
+  "original_title": "Searching for distant planets with Astra",
+  "summary": "OpenAI工程师邦德用Codex检索开普勒望远镜约10万颗恒星的数据，创业者伯德用Astra分析约1900万颗恒星。双方都发现潜在系外行星信号，并已请SETI研究所和TESS团队等做独立评估。",
+  "facts": [
+    {
+      "text": "自1992年首次宣布以来，天文学家已确认太阳系外超过6400颗行星。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
+    },
+    {
+      "text": "OpenAI工程师凯文·邦德用Codex检索开普勒望远镜约10万颗恒星的观测数据；创业者伊桑·伯德用Astra分析约1900万颗恒星的数据。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，邦德联系了SETI研究所的天文学家，对方独立检索后发现了两个相同的开普勒信号；伯德则把最强候选之一提交给TESS任务研究人员，另外两个候选仍待提交。",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "is_primary": true,
+      "published_at": "2026-11-24T19:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T19:00:00+08:00",
+  "updated_at": "2026-11-24T19:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "业余天文学者用Astra搜寻潜在系外行星",
+  "lead_zh": "OpenAI介绍两名业余天文学者分别借助Codex和Astra，在开普勒与TESS望远镜的公开数据中搜寻潜在系外行星，并已把候选信号交给专业研究者复核。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "自**1992年**首次宣布以来，天文学家已确认太阳系外超过**6400**颗行星。OpenAI介绍，工程师凯文·邦德用Codex检索开普勒望远镜约**10万**颗恒星的公开观测数据，创业者伊桑·伯德则用Astra分析约**1900万**颗恒星的数据。开普勒任务运行于**2009年至2018年**。",
+        "邦德的检索标出了超过**200**个信号，其中包括**10**个此前已确认的行星信号。这类搜寻通常要在恒星亮度曲线中寻找反复出现的微弱下降，以判断是否有行星从恒星前方经过。两人已把结果交给专业研究者做独立评估。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "进展如何",
+      "paras": [
+        "据OpenAI称，邦德联系了SETI研究所的天文学家，对方独立检索后发现了两个相同的开普勒信号；伯德把最强候选之一提交给TESS任务研究人员，该候选已进入进一步分析，另外两个仍待提交。"
+      ],
+      "sources": [
+        "OpenAI News"
+      ]
+    }
+  ],
+  "image_url": "img/217b1aecd4988cdfdda2776b684ca09033e4002e.jpg",
+  "image_source": "OpenAI News",
+  "image_origin_url": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
+  "fulltext_status": "ok",
+  "read_minutes": 6,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-24",
+    "title_en": "Searching for distant planets with Astra",
+    "title_zh": "用 Astra 搜寻遥远行星",
+    "dek_en": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "dek_zh": "看看两位业余天文学者如何使用 Codex 和 Astra，在 NASA 开普勒和 TESS 空间望远镜的公开数据中发现潜在系外行星。",
+    "word_count_zh": 2264,
+    "read_minutes": 6,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "自 1992 年首次宣布发现以来，天文学家已确认太阳系以外有超过 6,400 颗行星。一个遍布全球的业余天文学者社区，长期以来一直参与这项搜寻。有些人翻查公开的望远镜数据，寻找恒星亮度中可能预示有行星绕转的、反复出现的微小下降；另一些人则用自己的望远镜守候下一次亮度下降，并把观测结果分享给研究人员。",
+        "en": "Astronomers have confirmed more than 6,400 planets beyond our solar system⁠(opens in a new window) since the first ones were announced in 1992⁠(opens in a new window). A worldwide community of amateur astronomers has long been part of that search. Some comb through public telescope data for small, repeated dips in a star’s brightness that could signal an orbiting planet. Others use their own telescopes to watch for the next dip and share what they see with researchers."
+      },
+      {
+        "t": "p",
+        "zh": "多年来，天文学家已在这项搜寻中使用人工智能。2017 年，研究人员用天文学家已经审查过的、来自 NASA 开普勒空间望远镜的 15,000 个信号训练了一个神经网络。通过这些样本，该模型学会了识别星光中哪些模式最有可能来自行星。当研究人员用它检查更微弱的信号时，其中一个信号引导他们发现了围绕一颗名为 Kepler-90 的恒星运行的第八颗行星。",
+        "en": "Astronomers have used AI in this search for years. In 2017, researchers trained a neural network on 15,000 signals from NASA’s Kepler Space Telescope⁠(opens in a new window) that astronomers had already examined. From those examples, the model learned to recognize which patterns in starlight were most likely to come from a planet. When the researchers used it to examine weaker signals, one led them to an eighth planet orbiting a star called Kepler-90⁠(opens in a new window)."
+      },
+      {
+        "t": "p",
+        "zh": "如今，像 Astra 这样的工具正在帮助业余天文学者设计和开展他们自己的搜寻，对象往往是已经产出过较明显系外行星信号的数据。OpenAI 工程师 Kevin Bond 因热爱夜空摄影而走进天文学。他用 Codex 搜索了开普勒望远镜对大约 100,000 颗恒星的观测数据，该搜寻行星的任务运行于 2009 年至 2018 年。电子邮件基础设施初创公司 Primitive 的创始人 Ethan Byrd 一直热爱天文学。他在与 Bond 相互独立的情况下，尝试了多种人工智能模型，最终选择用 Astra 帮助自己分析大约 1900 万颗恒星的望远镜数据。",
+        "en": "Now, tools like Astra are helping amateur astronomers design and run searches of their own, often on data that has already yielded the more obvious exoplanet signals. Kevin Bond, an engineer at OpenAI, came to astronomy through his love of photographing the night sky. He used Codex to search observations of about 100,000 stars from the Kepler telescope, a planet-hunting mission that ran from 2009 to 2018. Ethan Byrd, founder of the email infrastructure start-up Primitive, has always loved astronomy. Working independently of Bond, he tried several AI models before choosing Astra to help him analyze telescope data from about 19 million stars."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/20d475e11c6b826bfcb29175eed8413c8b504934.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/3lbz9p43Y9HBfty25S0RCQ/521c489c1fe8bcf462b0a4e07d5701ba/exoplanets-rooftop-at-sunset.jpg?w=3840&q=90&fm=webp",
+        "caption_zh": "一名人在日落时蹲在屋顶上一台固定于三脚架的相机旁。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 500
+      },
+      {
+        "t": "p",
+        "zh": "两次搜寻都识别出了潜在的系外行星。Bond 和 Byrd 现已向天文学家求助，以便对其结果进行独立评估。Bond 联系了 SETI 研究所的一名天文学家，对方进行了独立搜寻，并在开普勒数据中发现了其中两个相同的信号。Byrd 把他最有把握的候选者之一发给了参与 NASA 凌日系外行星巡天卫星（TESS）任务的研究人员。该候选者正在排队等待进一步分析，还有两个候选者等待提交。",
+        "en": "Both searches identified potential exoplanets. Bond and Byrd have now turned to astronomers for an independent assessment of their results. Bond contacted an astronomer at the SETI Institute, who ran an independent search and found two of the same signals in the Kepler data. Byrd sent one of his strongest candidates to researchers working on NASA’s Transiting Exoplanet Survey Satellite (TESS) mission. It’s in line for further analysis, and two more candidates are awaiting submission."
+      },
+      {
+        "t": "h",
+        "zh": "寻找星光中的下降",
+        "en": "Looking for dips in starlight"
+      },
+      {
+        "t": "p",
+        "zh": "发现系外行星最常见的方法之一，是观察它所环绕的恒星。当一颗行星从地球上的视角从恒星前方经过时，会挡住极少量的星光。天文学家把这种经过称为凌日。在记录恒星亮度随时间变化的图——即光变曲线——上，凌日表现为一次下降。如果这种下降以规律的间隔反复出现，天文学家就知道该在什么时候再次守候。",
+        "en": "One of the most common ways to find an exoplanet is to watch the star it orbits. When a planet passes in front of its star from our point of view on Earth, it blocks a tiny amount of starlight. Astronomers call that crossing a transit. On a graph of the star’s brightness over time, known as a light curve, a transit shows up as a dip. If the dip keeps coming back at regular intervals, astronomers know when to watch for it again."
+      },
+      {
+        "t": "p",
+        "zh": "在数千颗恒星中搜寻这种模式，部分是一个编程问题。天文学家已经发表了从多年测量中挑出微弱、反复出现的下降的方法。Bond 用 Codex 比较这些方法，把它们组合进一个搜寻程序，并测试对代码的修改是否改善了搜寻效果。一个人工智能智能体扫描光变曲线以寻找有前景的信号。另一个则对前者标记出的候选者进行更详细的检查。",
+        "en": "Searching for that pattern across thousands of stars is partly a coding problem. Astronomers have published methods for picking out faint, recurring dips in years of measurements. Bond used Codex to compare those methods, combine them in a search program, and test whether changes to the code improved the search. One AI agent scanned the light curves for promising signals. Another ran more detailed checks on the candidates the first one flagged."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/7042e04f06a8456573ab171b41f0c35d68f08c88.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/6710Vp9hZFgzFm8CHOCLrt/20f95c70c1d86c050770e61c0fc02f3d/exoplanets-working-at-laptop-square.jpg?w=3840&q=90&fm=webp",
+        "caption_zh": "一名摄影师在一台固定于三脚架的相机旁使用笔记本电脑工作，屏幕和身后的城市灯光照亮了他。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/9065e14260fc50730816194c7e36e76eab7e2d2d.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/3He6T0iGapx53CIbUOaOxC/55df549454b5e85d7162d9c6f9b2bfbd/exoplanets-laptop-in-the-field.jpg?w=3840&q=90&fm=webp",
+        "caption_zh": "黑暗中一双手放在笔记本电脑键盘上，屏幕上可见一片星空。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 500
+      },
+      {
+        "t": "p",
+        "zh": "Bond 在开普勒空间望远镜的公开数据上运行了该程序。这次搜寻标记出了 200 多个信号，其中包括 10 个来自此前已确认行星的信号。找到这些已知行星，让 Bond 相信该程序能够挑出他要找的那类信号。",
+        "en": "Bond ran the program on public data from the Kepler Space Telescope. The search flagged more than 200 signals, including 10 from previously confirmed planets. Finding those known planets gave Bond confidence that the program could pick out the kinds of signals he was looking for."
+      },
+      {
+        "t": "p",
+        "zh": "有两颗恒星尤为突出。第一颗是 KIC 5689121，位于天琴座，是一颗相对较冷、大小约为太阳一半的恒星。Codex 搜寻发现其亮度每 13.8 天下降一次。如果这是由行星造成的，它所挡住的光量表明其直径可能约为地球的 2.4 倍。",
+        "en": "Two stars stood out. The first, KIC 5689121, is a relatively cool star about half the size of our sun in the constellation Lyra. The Codex search found a dip in brightness every 13.8 days. If a planet is causing it, the amount of light it blocks suggests it could be about 2.4 times Earth’s diameter."
+      },
+      {
+        "t": "p",
+        "zh": "第二颗恒星 KIC 6691030 较为暗弱，位于北天。Codex 搜寻发现其亮度每 4.8 天下降一次，与一颗比海王星更小的行星相符。这正是 SETI 研究所那位天文学家独立发现的两个信号。确认它们的成因可能需要数月乃至数年。",
+        "en": "The second star, KIC 6691030, is faint and lies in the northern sky. The Codex search found a dip in its brightness every 4.8 days, consistent with a planet smaller than Neptune. These were the two signals the SETI Institute astronomer found independently. Confirming what caused them could take months or years."
+      },
+      {
+        "t": "p",
+        "zh": "“Kevin 的工作表明，配备了人工智能的公民科学家，可以帮助天文学家探索开普勒奖励星表——这是一份超出开普勒原定目标、规模庞大的恒星合集。他的流程在传统搜寻可能错过的数据中找出了有前景的候选者。我们的初步检查令人鼓舞，后续观测将告诉我们更多信息。”",
+        "en": "“Kevin’s work shows how citizen scientists, equipped with AI, can help astronomers explore the Kepler Bonus Catalog—a vast collection of stars beyond Kepler’s original targets. His pipeline has surfaced promising candidates in data traditional searches may have missed. Our initial checks are encouraging, and follow-up observations will tell us more.”"
+      },
+      {
+        "t": "p",
+        "zh": "Byrd 用 Astra 设计了两次搜寻。一次是广泛寻找系外行星候选者。另一次聚焦于恒星的宜居带。宜居带是指与恒星距离适当、使具有合适大气层的行星有可能在表面维持液态水的区间。",
+        "en": "Byrd used Astra to design two searches. One looked broadly for exoplanet candidates. The other focused on stars’ habitable zones. A habitable zone is the range of distances from a star where a planet with a suitable atmosphere could support liquid water on its surface."
+      },
+      {
+        "t": "p",
+        "zh": "随后，Byrd 让 Astra 审阅已发表的方法、构建搜寻软件，并对有前景的信号进行初步检查。他的搜寻利用了 NASA 于 2018 年发射的 TESS 的观测数据，以及其他公开的望远镜档案。",
+        "en": "Byrd then asked Astra to review published methods, build the search software, and run initial checks on promising signals. His searches drew on observations from TESS, which NASA launched in 2018, and from other public telescope archives."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/0442e13f68617356bb252f95efd1044adcf19d29.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/1Vvl8uwapXZthgt742dVFs/627a21d7b0a87c8aaae3250ffb45b97f/kepler-tess-orange-marker-dark.png?w=3840&q=90&fm=webp",
+        "caption_zh": "开普勒对同一天区观测了四年。TESS 在 2018 年至 2020 年的前 26 个观测区段中巡测了南北两个半球。星空图来自 NASA 截至 2025 年 9 月的 TESS 拼接图，裁切到该次原始巡天覆盖范围。较宽的空隙显示 TESS 在六个观测区段中指向更北的位置。插图标出了位于开普勒原始视场中的 KIC 5689121。详见 NASA 的主任务最终覆盖图及其早期视场动画。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 402
+      },
+      {
+        "t": "p",
+        "zh": "对数据的第一轮筛查产生了 49 个候选者。Byrd 把他最有把握的候选者之一发给了参与 TESS 任务的研究人员，目前正等待进一步分析。他的搜寻仍在进行中。",
+        "en": "The first pass through the data turned up 49 candidates. Byrd sent one of his strongest candidates to researchers working on the TESS mission, where it is awaiting further analysis. His search is still running."
+      },
+      {
+        "t": "h",
+        "zh": "确认一颗行星需要什么？",
+        "en": "What does it take to confirm a planet?"
+      },
+      {
+        "t": "p",
+        "zh": "当天文学家看到恒星变暗时，必须考虑还有哪些其他解释。两颗恒星相互遮挡也会产生类似的下降。即便是望远镜上的温度变化，也可能影响仪器，足以让一颗恒星看起来变暗。",
+        "en": "When astronomers see a star dim, they have to consider what else might explain it. Two stars passing in front of one another can produce a similar dip. Even a change in temperature aboard a telescope can affect its instruments enough to make a star appear to dim."
+      },
+      {
+        "t": "p",
+        "zh": "天文学家可以用统计方法表明，系外行星是一系列下降的最可能解释。他们也可以收集更多观测，有时会使用不同的方法。例如，一颗绕转行星的引力会牵引其宿主恒星，使其略微朝向我们或远离我们运动。这种被称为视向速度的运动，表现为恒星光线颜色的微小偏移。天文学家随后把发现发表在同行评议期刊上，以便他人检验证据。",
+        "en": "Astronomers can use statistics to show that an exoplanet is the most likely explanation for a series of dips. They can also collect more observations, sometimes using a different method. For example, an orbiting planet’s gravity tugs on its star, causing it to move slightly toward and away from us. That motion, called radial velocity, shows up as tiny shifts in the color of the star’s light. Astronomers then publish their findings in a peer-reviewed journal so others can examine the evidence."
+      },
+      {
+        "t": "p",
+        "zh": "对 Bond 和 Byrd 来说，每个候选者都是一个可以检验的问题。如果有一颗行星每 13.8 天从天琴座那颗恒星前方经过，天文学家就可以守候下一次凌日。进一步的观测有助于确认这种下降是否如预期般重复出现，而额外的检查则有助于判断其原因。",
+        "en": "For Bond and Byrd, each candidate is a question that can be tested. If a planet is passing in front of the star in Lyra every 13.8 days, astronomers can watch for the next crossing. Further observations can help establish whether the dip repeats as expected, while additional checks can help determine what is causing it."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/f372a3795028d57b6b426f4a5d00d660dabd18be.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/2SSdNPM9DjCXsOEbYcsh8B/55dabb5bdee994566b1abc42f343519f/kevin-bond-milky-way-over-ridgeline.jpg?w=3840&q=90&fm=webp",
+        "caption_zh": "银河呈对角线横贯满天繁星的夜空，下方是山脊的剪影。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 500
+      },
+      {
+        "t": "p",
+        "zh": "摄影：Kevin Bond",
+        "en": "Photographs by Kevin Bond"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/f0dcf819f2de222d93b2178a94c3e01170bf4007.jpg",
+        "origin_url": "https://images.ctfassets.net/kftzwdyauwt9/3J85rc2RVvJoYQqv3OKoGo/743ec2f901fb39d6a9ddbf2eb2836374/kevin-bond-copper-moon-square.jpg?w=3840&q=90&fm=webp",
+        "caption_zh": "一轮铜色、边缘淡白的月亮悬在近乎漆黑、点缀着淡星的天空中。",
+        "source": "OpenAI News",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "t": "h",
+        "zh": "参与搜寻",
+        "en": "Taking part in the search"
+      },
+      {
+        "t": "p",
+        "zh": "没有望远镜也可以做出贡献。NASA 的 Exoplanet Watch 让你可以申请数据，并学习自己绘制光变曲线。其更广泛的系外行星公民科学项目还提供了其他参与方式。",
+        "en": "You can contribute without owning a telescope. NASA’s Exoplanet Watch⁠(opens in a new window) lets you request data and learn to plot a light curve yourself. Its broader exoplanet citizen science programs⁠(opens in a new window) offer other ways to participate."
+      },
+      {
+        "t": "p",
+        "zh": "如果你能使用望远镜，Exoplanet Watch 会指导用户如何采集凌日系外行星的数据，并参与观测活动。AAVSO 的系外行星观测项目可以向你展示如何测量星光下降，并把观测结果分享给研究该行星的科研人员。而 Unistellar Network Investigating TESS Exoplanets 则协调世界各地使用特定类型望远镜的志愿者观测同一颗恒星，帮助天文学家捕捉可能持续超过一个夜晚的凌日。",
+        "en": "If you have access to a telescope, Exoplanet Watch walks users through how to collect data on transiting exoplanets and participate in observation campaigns. AAVSO’s Exoplanet Observing Program⁠(opens in a new window) can show you how to measure a dip in starlight and share your observations with the researchers studying that planet. And the Unistellar Network Investigating TESS Exoplanets⁠(opens in a new window) coordinates volunteers around the world with a certain type of telescope to observe the same star, helping astronomers catch transits that can last longer than a single night."
+      },
+      {
+        "t": "p",
+        "zh": "天文学有着悠久的传统：世界各地的人们追随自己的好奇心，并分享他们的发现。Bond 和 Byrd 正是这一传统的一部分。他们的搜寻仍在进行，但他们把对夜空的热爱，变成了其他天文学家可以跟进的线索。我们希望更多人能有这样的机会，无论是在天文学还是在更广泛的科学领域。",
+        "en": "Astronomy has a long history of people around the world following their curiosity and sharing what they find. Bond and Byrd are part of that tradition. Their searches are still open, but they turned a love of the night sky into leads that other astronomers can investigate. We want more people to have that opportunity, in astronomy and across science."
+      },
+      {
+        "t": "p",
+        "zh": "如果你想跟进新发现、实用指南，以及使用人工智能推动科学发展的研究人员的观点，请查看 OpenAI 科学博客。",
+        "en": "If you want to follow along with new findings, practical guidance, and perspectives from researchers using AI to advance science check out the OpenAI science blog⁠."
+      }
+    ]
+  }
+}

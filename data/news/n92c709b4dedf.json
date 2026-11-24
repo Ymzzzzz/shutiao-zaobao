@@ -1,0 +1,61 @@
+{
+  "id": "n92c709b4dedf",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic推出Claude Ship让智能体自行审改代码",
+  "original_title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+  "summary": "Anthropic推出测试版工具Claude Ship，能够按照团队指南自动审查、修正并批准代码变更建议。The Decoder称，该工具旨在让人工智能智能体在拉取请求流程中更独立地完成审改。",
+  "facts": [
+    {
+      "text": "Anthropic推出仍处测试阶段的工具Claude Ship，可按团队规范自动审查、修正并批准代码变更建议。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+      "is_primary": false,
+      "published_at": "2026-11-24T19:26:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T19:26:23+08:00",
+  "updated_at": "2026-11-24T19:26:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic推出Claude Ship让智能体自行审改代码",
+  "lead_zh": "The Decoder报道，Anthropic推出仍处测试阶段的工具Claude Ship，可按团队规范自动审查、修正并批准代码变更建议。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anthropic推出仍处测试阶段的工具Claude Ship，可按团队策略自动审查代码变更、修复问题并批准合并。该系统把已有的代码审查功能，与两个新的智能体搭配使用：一个负责在测试失败、出现冲突或审阅者留下修改意见时改写草案并记录每一步，另一个则在项目目录中的策略文件里判断能否由人工智能自行批准。",
+        "根据文档，在启用GitHub自动合并并配备相应策略后，新代码可以在完全没有人工介入的情况下被合并。该工具面向团队版和企业版，但按token用量单独计费；负责改写草案的智能体默认没有支出上限，团队需要自行设置限制。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "文档怎么说",
+      "paras": [
+        "据相关文档称，只要自动合并和策略设置到位，日常变更可以由智能体完成审查、修改和批准。The Decoder写道，这让人工智能智能体能够在拉取请求流程中更独立地工作。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/9ef9560b9a857d6dc2f550007de4c537d6daf720.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/Claude-Ship.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

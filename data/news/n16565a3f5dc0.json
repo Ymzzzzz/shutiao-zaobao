@@ -1,0 +1,66 @@
+{
+  "id": "n16565a3f5dc0",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "教程介绍用Isaac Lab训练Microduck避障",
+  "original_title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "summary": "一篇Hugging Face教程介绍，如何在不改动Microduck行走策略权重的前提下，用牛顿引擎模拟飞行时间传感器，并在Isaac Lab中训练单独的避障控制器，根据手柄方向微调速度指令以绕开障碍物。",
+  "facts": [
+    {
+      "text": "该教程在固定既有行走策略权重的前提下，另训一个基于飞行时间传感器的避障控制器，用手柄选定方向后再把调整过的速度指令交给行走策略。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
+    },
+    {
+      "text": "训练环境使用开源框架Isaac Lab和牛顿物理引擎，并覆盖仿真训练、评估、导出和真机部署等步骤。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "is_primary": true,
+      "published_at": "2026-11-25T00:34:13+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T00:34:13+08:00",
+  "updated_at": "2026-11-25T00:34:13+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "教程介绍用Isaac Lab训练Microduck避障",
+  "lead_zh": "Hugging Face博客发布教程，介绍如何在固定行走策略的前提下，用牛顿物理引擎和Isaac Lab为小型机器人Microduck训练基于飞行时间传感器的局部避障控制器。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Hugging Face博客发布教程，介绍如何为小型机器人Microduck增加局部避障能力，同时保持既有行走策略的权重不变。教程用牛顿物理引擎的射线投射来模拟飞行时间传感器，并在开源框架Isaac Lab中训练单独的避障控制器。",
+        "使用者先用手柄选定方向，控制器再调整速度指令，然后交给行走策略去执行，以绕开路径上的障碍物。训练环境结合简单几何体和Hugging Face上的SimReady资产来搭建多样化赛道，步骤覆盖仿真训练、评估、导出和真机部署。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "教程怎么说",
+      "paras": [
+        "据教程称，行走策略只能让Microduck保持平衡，并不能告诉它如何绕开前方障碍，因此需要单独训练避障控制器。真机测试还需配备已配置好的Microduck、受支持的飞行时间传感器、配对手柄以及有障碍物的平坦场地。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/0e7e8bda7a292c1832a3114f00525e04b815eb71.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/6847ab8c06094fa4afb6ee38/M70tUMNd7N4KO5QGI37YZ.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

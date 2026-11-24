@@ -1,0 +1,67 @@
+{
+  "id": "nfb7a1ad02384",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "亚马逊称黑客智能体很少人工介入就利用了零日漏洞",
+  "original_title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+  "summary": "亚马逊表示，黑客使用的人工智能智能体几乎无需人工介入，就发现并利用了零日漏洞。Ars Technica提到，名为Cairn的人工智能框架正同时给防守方和攻击方带来帮助。",
+  "facts": [
+    {
+      "text": "亚马逊称，黑客的人工智能智能体在很少人工介入的情况下发现并利用了零日漏洞。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Ars Technica称，Cairn人工智能框架正同时让防守方和攻击方受益。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "is_primary": false,
+      "published_at": "2026-11-24T20:30:05+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T20:30:05+08:00",
+  "updated_at": "2026-11-24T20:30:05+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊称黑客智能体很少人工介入就利用了零日漏洞",
+  "lead_zh": "Ars Technica报道，亚马逊称黑客的人工智能智能体在很少人工介入的情况下发现并利用了零日漏洞，并指Cairn框架正同时让防守方和攻击方受益。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊表示，黑客使用的人工智能智能体最近在几乎没有人工监督的情况下，发现并利用了一个零日漏洞。除了一句要求获取东亚一所大学服务器根权限的简单指令外，没有更多人工介入。这些智能体运行在开源渗透测试框架Cairn上。",
+        "攻击者使用简体中文提示词，并把模型时区设为北京时间，向智能体提供一批IP地址，目标是“获得外壳访问权限”。智能体很快在其中一台目标服务器上的开源医学影像人工智能应用中发现零日漏洞，随即利用该漏洞并完全控制了系统。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据亚马逊称，“智能体化的进攻行动已经在发生，防御方应为这些工具带来的速度和持续性做好准备。”报道同时指出，Cairn最初是为防御方设计的开源问题求解引擎，但攻击者同样在使用它。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/ab5052251af6b4f3743688aa82fbd0924efacfbb.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

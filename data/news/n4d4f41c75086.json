@@ -1,0 +1,67 @@
+{
+  "id": "n4d4f41c75086",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": false,
+  "title": "德国学者建议将计算机科学改称计算机与AI科学",
+  "original_title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
+  "summary": "达姆施塔特工业大学研究者发表立场文件，呼吁将计算机科学重新定义为“计算机与人工智能科学”。他们最担心的是在运行过程中即时生成的代码，认为这会颠覆传统计算机科学的一些基本前提。",
+  "facts": [
+    {
+      "text": "达姆施塔特工业大学研究者在立场文件中呼吁，将计算机科学重新定义为“计算机与人工智能科学”。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据这些研究者称，他们最担心的是在运行时即时生成的代码，认为这会颠覆既有的学科前提。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
+      "is_primary": false,
+      "published_at": "2026-11-24T20:30:49+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T20:30:49+08:00",
+  "updated_at": "2026-11-24T20:30:49+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "德国学者建议将计算机科学改称计算机与AI科学",
+  "lead_zh": "The Decoder报道，达姆施塔特工业大学学者在立场文件中呼吁把计算机科学重新定义为“计算机与人工智能科学”，并担忧运行时即时生成的代码会颠覆既有前提。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "达姆施塔特工业大学约**40**名研究者发表立场文件，主张计算机科学应演进为“计算机与人工智能科学”。他们认为，人工智能会显著加快软件开发并自动完成部分工作，这让传统计算机科学变得更重要，而不是更不重要。",
+        "文件提出，生成式人工智能正在把工作重心从手写代码转向验证和指导人工智能生成的系统，大学培养方案因此需要根本调整。他们还担心所谓“生成式计算”——系统在运行时自己生成行为和代码——会动摇今天的安全保证，并希望学科更多关注能效和社会责任。他们强调，生成式人工智能正在改变计算机科学的培养方式和工作内容，学科需要主动作出调整。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "学者怎么说",
+      "paras": [
+        "据这些研究者称，人工智能正在成为构建和使用未来计算机系统的核心技术，因此学科需要把人工智能纳入自身的重新定义之中，而不是把它仅仅看成外部工具。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/417153b98c72d066b88772dff985f26152bd619d.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/darmstadt_ai_computer_science.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

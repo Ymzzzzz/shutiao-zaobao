@@ -1,0 +1,67 @@
+{
+  "id": "n70f3d3a63449",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "Crusoe投资人押注光伏和储能供应AI数据中心",
+  "original_title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+  "summary": "TechCrunch报道，下一代数据中心每年将需要数十吉瓦电力。为基础设施公司Crusoe出资的一名投资人认为，太阳能加储能是为未来人工智能数据中心供电的显而易见的选择。",
+  "facts": [
+    {
+      "text": "报道称，下一代数据中心每年将需要数十吉瓦电力，Crusoe的一名投资人正押注太阳能和储能来为未来的人工智能数据中心供电。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据这名Crusoe投资人称，光伏发电和储能是为未来人工智能数据中心供电的明显选择。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "is_primary": false,
+      "published_at": "2026-11-25T00:10:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T00:10:00+08:00",
+  "updated_at": "2026-11-25T00:10:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Crusoe投资人押注光伏和储能供应AI数据中心",
+  "lead_zh": "TechCrunch报道，下一代数据中心每年需要数十吉瓦电力，Crusoe的一名投资人认为，光伏发电和储能会是为未来人工智能数据中心供电的明确选择。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "为人工智能数据中心供电，已成为这一轮产业讨论的核心问题之一。TechCrunch报道，美国电网在短短几年里从几乎零增长，变成每年新增数吉瓦容量。G2创业合伙公司合伙人布鲁克·波特认为，超大规模云厂商和数据中心开发商如果想更快推进，就应该把目光放到天然气机组之外的更大图景上。",
+        "波特及其同事最近对数据中心电力市场做了分析，结论是光伏加储能更值得关注。他提到，全球天然气装机每年大约只有**60至70吉瓦**，而太阳能已经超过**1太瓦**。由于供应链扩张需要时间，企业眼下仍在以购买、租用和部署天然气机组等方式抓紧落实电力。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "投资人怎么说",
+      "paras": [
+        "据波特称，“需求增长比人们意识到的更快”，这是原子而非比特的问题，世界正在重新认识这些约束。在他看来，太阳能搭配储能，会是为未来人工智能数据中心供电的更合适选择。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/05bb6e1ce3200a6031331b4b24cd3da997a23a23.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1373266060.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

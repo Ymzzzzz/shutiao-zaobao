@@ -1,0 +1,103 @@
+{
+  "id": "ne2544bc1aeb2",
+  "category": "大模型与产品",
+  "importance": 2,
+  "verified": true,
+  "title": "谷歌Gemini成为金州体育官方人工智能伙伴",
+  "original_title": "How Gemini is changing the game for Golden State's organization and fans.",
+  "summary": "谷歌宣布扩展与金州的合作，Gemini成为金州勇士、2026年WNBA冠军瓦尔基里女篮和大通中心的官方人工智能助手与企业大模型合作伙伴，将用于现场互动、数字渠道和后台运营。",
+  "facts": [
+    {
+      "text": "谷歌宣布扩展与金州的合作，使Gemini成为勇士、2026年WNBA冠军瓦尔基里和大通中心的官方人工智能助手合作伙伴，以及官方生成式人工智能与企业大模型合作伙伴。",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+    },
+    {
+      "text": "自2019年起，谷歌一直是大通中心的创始合作伙伴。",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据谷歌称，合作将把Gemini融入整个特许经营体系，既用于大通中心现场互动和数字渠道，也用于业务与篮球运营中的定制智能体。",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "is_primary": true,
+      "published_at": "2026-11-25T00:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T00:00:00+08:00",
+  "updated_at": "2026-11-25T00:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌Gemini成为金州体育官方人工智能伙伴",
+  "lead_zh": "谷歌宣布扩展与金州的合作，Gemini成为勇士队、2026年WNBA冠军瓦尔基里女篮和大通中心的官方人工智能助手及企业大模型合作伙伴。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌宣布扩展与金州的合作，使Gemini成为勇士队、**2026年**WNBA冠军瓦尔基里女篮和大通中心的官方人工智能助手合作伙伴，以及官方生成式人工智能与企业大模型合作伙伴。自**2019年**起，谷歌一直是大通中心的创始合作伙伴，金州此前已使用其生成式人工智能工具辅助运营。",
+        "合作将把Gemini融入整个特许经营体系。对球迷而言，这意味着更互动的比赛日体验：在大通中心内可通过互动视觉板功能获得新内容，在数字渠道上也可服务在家观赛的球迷。后台方面，金州正在部署面向企业的Gemini，用于打造定制人工智能智能体，协助业务和篮球运营团队更高效地工作。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据谷歌称，这一阶段将把Gemini的能力同时带给球队和球迷，使现场观赛、远程互动和内部运营都能用上同一套生成式人工智能工具。"
+      ],
+      "sources": [
+        "Google AI Blog"
+      ]
+    }
+  ],
+  "image_url": "img/a53dfa6b7d21f497311aaddf53a609ce8f08333a.jpg",
+  "image_source": "Google AI Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp",
+  "fulltext_status": "ok",
+  "read_minutes": 1,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "By Robby Stein",
+    "author_title_zh": "",
+    "published_at": "2026-11-24",
+    "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
+    "title_zh": "Gemini 如何改变金州组织与球迷的体验",
+    "dek_en": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+    "dek_zh": "Google Gemini 与金州合作，为勇士队、女武神队和 Chase Center 的球迷体验与商业运营提供支持。详见报道。",
+    "word_count_zh": 272,
+    "read_minutes": 1,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "今天，我们正在扩大与金州的合作——让 Google Gemini 成为勇士队、2026 年 WNBA 冠军女武神队以及 Chase Center 的官方人工智能助理合作伙伴，以及官方生成式人工智能和企业大模型合作伙伴。",
+        "en": "Today, we’re expanding our partnership with Golden State — making Google Gemini the Official AI Assistant Partner and Official Generative AI & Enterprise LLM Partner of the Warriors, the 2026 WNBA Champion Valkyries, and Chase Center."
+      },
+      {
+        "t": "p",
+        "zh": "此次合作将 Gemini 整合进整个特许经营体系。对球迷而言，这意味着更互动的比赛日体验：既包括在 Chase Center 内通过互动视频板实现的现场体验，也包括面向在家观赛球迷的数字渠道体验。在幕后，金州正在部署面向商务的 Gemini，用于打造定制人工智能智能体，帮助团队在商务和篮球运营两方面更高效地工作。",
+        "en": "The collaboration integrates Gemini across the entire franchise ecosystem. For fans, that means a more interactive game-day experience, both inside Chase Center via interactive videoboard features, and across digital channels for fans following from home. And behind the scenes, Golden State is deploying Gemini for business to build custom AI agents, helping their teams work smarter across both business and basketball operations."
+      },
+      {
+        "t": "p",
+        "zh": "作为 Chase Center 自 2019 年以来的创始合作伙伴，金州已使用我们的生成式人工智能工具让运营更顺畅，而接下来的新篇章将把 Gemini 的精华同时带给球队和球迷。",
+        "en": "As a Founding Partner of Chase Center since 2019, Golden State has used our gen AI tools to help their operations run smoother, and this next chapter brings the best of Gemini to the team and fans alike."
+      }
+    ]
+  }
+}

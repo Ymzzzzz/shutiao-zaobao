@@ -1,0 +1,67 @@
+{
+  "id": "n4dccb22b3729",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI研究员布朗劝有潜力的学生退学",
+  "original_title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+  "summary": "OpenAI研究员、o1模型共同创始人诺姆·布朗呼吁有潜力的学生退学，理由是人工智能正进入“非常陡峭的进步阶段”，现在“不适合站在场边观望”。他同时表示，人工智能仍处在人机协作的“半人马时期”。",
+  "facts": [
+    {
+      "text": "OpenAI研究员、o1模型共同创始人诺姆·布朗公开呼吁有潜力的学生退学，投身人工智能。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据布朗称，人工智能正进入“非常陡峭的进步阶段”，现在“不适合站在场边观望”，同时该领域仍处于人机协作的“半人马时期”。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+      "is_primary": false,
+      "published_at": "2026-11-25T01:58:44+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T01:58:44+08:00",
+  "updated_at": "2026-11-25T01:58:44+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI研究员布朗劝有潜力的学生退学",
+  "lead_zh": "The Decoder报道，o1模型共同创始人诺姆·布朗呼吁有潜力的学生退学投身人工智能，称现在“不适合站在场边观望”，并认为该领域仍处于“半人马时期”。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "在一场扑克机器人赛事上，OpenAI研究员、o1模型共同创始人诺姆·布朗谈到了博弈论在有人类参与时会失效，并回顾自己转向通用推理、把强化学习用到思维链上之后，更长时间的思考才稳定带来更好结果。他曾开发Libratus和Pluribus等击败职业棋手的扑克人工智能。",
+        "布朗表示，当前仍处于人与人工智能协作效果最好的“半人马时期”。他举例称，OpenAI的Astra模型已经能在在线扑克中赚钱，但人工智能系统在长期规划、组织和自我纠错上仍然失败。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据布朗称，未来一到两年会迎来“非常陡峭的进步阶段”，因为语言模型已被用来建造下一代系统。他建议有潜力的学生现在就退学加入人工智能实验室，并说现在“不适合站在场边观望”。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/e9c1cc316ef54be896ace7b339a30f3c3e1bd905.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/openai_driscoll.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

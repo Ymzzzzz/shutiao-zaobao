@@ -1,0 +1,67 @@
+{
+  "id": "n229378e917f8",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "人工智能给出黎曼猜想超长证明，人类仍在消化",
+  "original_title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+  "summary": "《连线》写道，Anthropic一名研究人员用人工智能生成了关于黎曼猜想的解答，长达约1700万行，并被形容为“外星”证明。报道认为，数学家可能需要数月时间才能理解这一结果。",
+  "facts": [
+    {
+      "text": "《连线》报道，Anthropic一名研究人员为黎曼猜想给出约1700万行的解答，并被形容为“外星”证明。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该报道称，数学家可能需要数月时间才能理解这一结果。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "is_primary": false,
+      "published_at": "2026-11-24T18:15:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T18:15:00+08:00",
+  "updated_at": "2026-11-24T18:15:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "人工智能给出黎曼猜想超长证明，人类仍在消化",
+  "lead_zh": "《连线》报道，Anthropic一名研究人员为黎曼猜想给出约1700万行、被形容为“外星”的解答，数学家可能需要数月才能理解。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anthropic研究员莱文特·阿尔珀格周五公布了一份用Lean语言写成的黎曼猜想证明，由他与Claude共同完成，长达约**1700万**行。黎曼猜想提出已有**167年**，描述素数如何分布，虽被广泛认为可能成立，但长期缺少决定性证明。",
+        "证明公布后，已有超过**200**人协作核验。周六，非营利组织Lean聚焦研究组织和由志愿者维护的Mathlib表示，他们“完全有信心”认为证明是成立的，问题表述正确，代码也能够编译通过。尽管如此，数学家仍在努力理解这份被形容为“外星”的超长解答。尽管核验方对正确性表示有信心，人类数学家仍在努力读懂这份超长证明。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "进展如何",
+      "paras": [
+        "据《连线》报道，数学家可能需要数月时间才能理解这一结果。Lean聚焦研究组织和Mathlib则称，对证明的正确性已经有充分信心。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/3e3d123a1769e1c89151bae79253a9922116fa8b.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

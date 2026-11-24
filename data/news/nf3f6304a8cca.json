@@ -1,0 +1,66 @@
+{
+  "id": "nf3f6304a8cca",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "亚马逊云科技上线Bedrock可信访问接口",
+  "original_title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
+  "summary": "亚马逊云科技宣布，Bedrock新增可信访问接口，企业可在同一入口发现、申请并加入模型提供商项目。首批公开预览是Anthropic面向Claude模型的企业前沿安全保障和企业数据控制。",
+  "facts": [
+    {
+      "text": "Amazon Bedrock新增可信访问接口，用于发现、申请并加入模型提供商的企业项目。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/"
+    },
+    {
+      "text": "首批公开预览项目是Anthropic的企业前沿安全保障和企业数据控制，面向Claude模型。",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+      "is_primary": true,
+      "published_at": "2026-11-24T13:01:14+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T13:01:14+08:00",
+  "updated_at": "2026-11-24T13:01:14+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊云科技上线Bedrock可信访问接口",
+  "lead_zh": "亚马逊云科技推出Bedrock可信访问接口，集中发现、申请并加入模型提供商的企业项目，首批公开预览包括Anthropic的企业前沿安全与企业数据控制。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "亚马逊云科技宣布，Bedrock上的可信访问接口已正式可用，企业可在同一入口发现、申请并加入模型提供商的可信访问项目。与此同时，面向Claude模型的企业前沿安全保障和企业数据控制两项服务进入公开预览。",
+        "上述两项预览可在Bedrock上使用，适用范围包括Claude Fable、Claude Mythos，以及通过网络核验计划使用的Claude Opus 5.5和Sonnet 5.5。不同项目仍有各自的条款、审批和设置。该接口旨在让不同提供商的项目，都遵循同一套Bedrock操作体验。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据亚马逊云科技称，前沿实验室对其最强模型仍有更严格的安全监测要求，这些政策在Bedrock上同样适用；对符合条件的客户，提供商也可以让他们在保留数据的存储地点和审查方式上拥有更多控制。"
+      ],
+      "sources": [
+        "AWS Machine Learning Blog"
+      ]
+    }
+  ],
+  "image_url": "img/6f3135be0603cf6114891081359a796298caf2ad.jpg",
+  "image_source": "AWS Machine Learning Blog",
+  "image_origin_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/23/ML-22385-featured-image.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

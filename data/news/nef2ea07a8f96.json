@@ -1,0 +1,67 @@
+{
+  "id": "nef2ea07a8f96",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "英国警告人工智能攻击正在暴露长期安全漏洞",
+  "original_title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+  "summary": "英国网络安全机构表示，人工智能黑客工具往往利用简单的安全缺陷，因此多年积累的薄弱防护正被放大。该机构强调，在这类攻击增多的背景下，打牢安全基础比以往任何时候都更加重要。",
+  "facts": [
+    {
+      "text": "英国网络安全机构警告，人工智能驱动的网络攻击正在暴露多年来薄弱的安全防护。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该机构称，人工智能黑客工具依赖利用简单的安全缺陷，因此“打牢基础从未如此重要”。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "is_primary": false,
+      "published_at": "2026-11-25T02:02:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T02:02:59+08:00",
+  "updated_at": "2026-11-25T02:02:59+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英国警告人工智能攻击正在暴露长期安全漏洞",
+  "lead_zh": "TechCrunch报道，英国网络安全机构警告，人工智能驱动的网络攻击正在暴露多年来薄弱的安全基础，并称“打牢基础从未如此重要”。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英国国家网络安全中心表示，近几个月人工智能驱动的网络攻击出现“明显上升”，攻击者越来越多地使用自主黑客工具，寻找并利用简单弱点闯入系统和网络。该机构称，自9月以来已看到多起涉及自主渗透测试类工具的事件，并造成了机构被入侵和停机。",
+        "该中心指出，被利用的漏洞本身并不是新的，但这些人工智能工具完成简单攻击的速度已经改变。这一趋势也与今年早些时候Artex、Cairn等开源自主渗透测试工具公开发布相重合，这类工具可被免费下载使用。该机构还强调，尽管入侵事件在增多，关键仍是先把基础安全工作做扎实。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据英国国家网络安全中心称，面对这类攻击，“打牢基础从未如此重要”。美国联邦调查局近期也警告，恶意黑客正使用人工智能渗透测试工具，以前所未有的速度实施攻击。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/981003c757d57f5baca0049f18b42946fc3624fa.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

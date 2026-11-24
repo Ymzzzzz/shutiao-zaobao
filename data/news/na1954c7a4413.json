@@ -1,0 +1,61 @@
+{
+  "id": "na1954c7a4413",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "企业网络承压，智能体应用推高改造需求",
+  "original_title": "Raising the stakes for enterprise networks with AI modernization",
+  "summary": "《麻省理工科技评论》称，企业网络正承受沉重压力。随着公司争相部署人工智能，这项技术正迅速成为网络需求的最大来源，而智能体应用还在继续推高对网络现代化改造的要求。",
+  "facts": [
+    {
+      "text": "《麻省理工科技评论》写道，企业网络正承受沉重压力，人工智能正迅速成为网络需求的最大来源。",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "is_primary": false,
+      "published_at": "2026-11-24T23:15:16+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T23:15:16+08:00",
+  "updated_at": "2026-11-24T23:15:16+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "企业网络承压，智能体应用推高改造需求",
+  "lead_zh": "《麻省理工科技评论》写道，企业在加速部署人工智能后，网络正承受沉重压力，这项技术正迅速成为网络需求的最大来源，智能体应用还在继续加码。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《麻省理工科技评论》洞察报告写道，企业在加速部署人工智能后，网络正承受沉重压力，这项技术正迅速成为网络需求的最大来源，而智能体应用还在继续加码。报告称，由人工智能智能体执行的任务，估计会比同样由人工完成的任务多产生**450%**的网络流量。",
+        "随着推理从超大规模训练云转向对延迟更敏感的实时应用，对本地或近端基础设施的需求上升，能够支撑人工智能的企业网络与尚未准备好的网络之间差距也在拉大。一份近期研究显示，认为现有网络能够满足人工智能带宽和延迟需求的企业可能只有一半左右。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报告怎么说",
+      "paras": [
+        "据该报告称，网络现代化应被当作持续策略，而不是一次性工程，才能在中断和不确定性中保持适应。报告还探讨了网络即服务架构，如何为企业网络改造提供更灵活的方案。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    }
+  ],
+  "image_url": "img/038edd301fc77e5b8d2ef1ecb5eea1ae2cc8108e.jpg",
+  "image_source": "MIT Technology Review",
+  "image_origin_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TataSocialCard-1200v3.png?resize=1200,600",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

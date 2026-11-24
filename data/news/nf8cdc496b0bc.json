@@ -1,0 +1,323 @@
+{
+  "id": "nf8cdc496b0bc",
+  "category": "行业动态",
+  "importance": 3,
+  "verified": false,
+  "title": "特朗普与硅谷施压，英伟达董事会让黄仁勋回归",
+  "original_title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+  "summary": "黄仁勋因婚外情等风波于11月12日辞职后不到两周，硅谷盟友寻求特朗普和万斯向英伟达董事会施压。董事会周日晚间决定让他回归，周一他重返圣克拉拉总部，并称自己犯了很严重的错误。",
+  "facts": [
+    {
+      "text": "黄仁勋于11月12日辞职，不到两周后又在周一早间重返英伟达圣克拉拉总部。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
+    },
+    {
+      "text": "临时首席执行官科莱特·克雷斯被排除在周日晚间董事会相关讨论之外。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据知情人士称，黄仁勋的硅谷盟友组成“作战室”，把特朗普和副总统万斯拉入游说，向英伟达董事会施压。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
+    },
+    {
+      "text": "据英伟达董事会称，在得到“美国政府高层意见”后，相信黄仁勋不构成国家安全风险，但内部调查仍将继续。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "is_primary": false,
+      "published_at": "2026-11-24T22:56:50+08:00"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "is_primary": false,
+      "published_at": "2026-11-25T00:30:00+08:00"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "is_primary": false,
+      "published_at": "2026-11-25T04:02:03+08:00"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "is_primary": false,
+      "published_at": "2026-11-25T05:48:27+08:00"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "is_primary": false,
+      "published_at": "2026-11-25T06:27:52+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T22:56:50+08:00",
+  "updated_at": "2026-11-25T06:27:52+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "特朗普与硅谷施压，英伟达董事会让黄仁勋回归",
+  "lead_zh": "黄仁勋11月12日辞职后不到两周，其硅谷盟友说服特朗普和万斯向英伟达董事会施压，董事会在周日晚间决定让他重新出任首席执行官。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英伟达创始人黄仁勋于**11月12日**辞职，相关风波包括与客户及下属的婚外情报道，以及与新加坡客户Megaspeed一名高管、芯片走私指控有关的调查。不到两周后的周一上午，他在员工鼓掌中重返圣克拉拉总部。董事会在周日晚间开会后决定让他重新出任首席执行官，临时首席执行官科莱特·克雷斯被排除在相关讨论之外。",
+        "即使周一因回归消息市值回升近**1万亿美元**，英伟达的市值仍比一个月前低约两成。公司与黄仁勋还面临联邦调查局和证券交易委员会的调查，以及国会问询。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据知情人士称，黄仁勋的硅谷盟友组成“作战室”，包括优步创始人卡兰尼克、投资人贝克、格斯特纳、安德烈森以及高盛高管安德伍德等人，并说服特朗普和副总统万斯向董事会施压。特朗普周末还亲自与董事会通话，力挺黄仁勋。",
+        "据英伟达董事会称，在得到“美国政府高层意见”后，相信黄仁勋不构成国家安全风险，但内部调查仍将继续。黄仁勋则对员工说，自己“犯了一些非常糟糕的错误，会努力回来”。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/566884e6d51212a8c9c196592f61d1dbb24d9a8b.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg",
+  "fulltext_status": "ok",
+  "read_minutes": 7,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-24",
+    "title_en": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+    "title_zh": "特朗普与硅谷如何迫使英伟达让黄仁勋回归",
+    "dek_en": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+    "dek_zh": "黄仁勋的盟友请来特朗普和万斯，向英伟达董事会施压，促使公司重新接纳他。",
+    "word_count_zh": 2595,
+    "read_minutes": 7,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "周一上午，黄仁勋走进英伟达位于圣克拉拉的总部，通道上方两侧的员工报以热烈掌声。当一名同事扑进他怀里拥抱时，黄仁勋显然很动容。",
+        "en": "On Monday morning, Jensen Huang walked into Nvidia’s Santa Clara headquarters to rapturous applause from employees lining the walkways above him. Huang was visibly moved as one colleague threw themselves into his arms for a hug."
+      },
+      {
+        "t": "p",
+        "zh": "这位英伟达首席执行官的戏剧性复职，距他因与一名客户兼疑似中国间谍的婚外情——以及据报与一名下属的第二段婚外情——而辞职还不到两周，连公司最资深的高管也感到措手不及。",
+        "en": "The spectacular reinstatement of the chief executive of Nvidia, less than two weeks after he resigned in a scandal over an affair with a customer and suspected Chinese spy—as well as a second reported affair with a subordinate—caught even the company’s most senior executives by surprise."
+      },
+      {
+        "t": "p",
+        "zh": "英伟达董事会的突然转向，是受到唐纳德·特朗普总统的推动。他在周末向董事会施压，此前他看到这家曾是美国市值最高的公司，以及更广泛的科技板块，在上周大幅蒸发市值。",
+        "en": "The abrupt reversal by Nvidia’s board was spurred by President Donald Trump, who applied pressure to the board over the weekend after watching what was once America’s most valuable company as well as the wider tech sector haemorrhage value last week."
+      },
+      {
+        "t": "p",
+        "zh": "据知情人士称，这是黄仁勋硅谷盟友组成的“作战室”密集游说的结果，他们把特朗普和副总统 JD Vance 拉了进来。他们主张，这位英伟达创始人对美国人工智能产业的健康至关重要，因此也对股市和整个经济至关重要。",
+        "en": "It was the culmination of frenetic lobbying by a “war room” of Huang’s Silicon Valley allies, who pulled in Trump and vice-president JD Vance, according to people familiar with the events. They argued the Nvidia founder was personally integral to the health of the US AI industry, and therefore the stock market and entire economy."
+      },
+      {
+        "t": "p",
+        "zh": "黄仁勋的一名盟友说：“伟人会犯大错。但从来没有人像这样，埃隆·马斯克没有，谁都没有。我们现在享有的所有成功、所有科技收益，都归功于一个人。”",
+        "en": "“Great men make great mistakes. But nobody has ever been like this, not Elon Musk, not anyone. All the success we’re enjoying, all the tech gains, that’s all down to one guy,” said an ally of Huang."
+      },
+      {
+        "t": "p",
+        "zh": "但这场令人想起萨姆·奥特曼在 OpenAI 被短暂罢免的、公司史上最惊人的回归之一，仍让这家处于人工智能热潮核心的半导体巨头身处险境。",
+        "en": "But one of the most remarkable comebacks in corporate history, which called to mind Sam Altman’s brief ousting at OpenAI, still leaves the semiconductor giant at the heart of the AI boom in treacherous waters."
+      },
+      {
+        "t": "p",
+        "zh": "英伟达和黄仁勋面临联邦调查局和证券交易委员会的调查、国会问询，以及围绕治理、还有黄仁勋与一名据称参与芯片走私的疑似中国间谍的私人关系的棘手问题。",
+        "en": "Nvidia and Huang face probes by the FBI and SEC, congressional investigations, and difficult questions over governance and Huang’s personal connections to a suspected Chinese spy allegedly involved in chip smuggling."
+      },
+      {
+        "t": "p",
+        "zh": "即使周一因黄仁勋回归的消息市值增加了近 1 万亿美元，英伟达的价值仍比一个月前大约低五分之一。",
+        "en": "Even after gaining nearly $1 trillion in market value on the news of Huang’s return on Monday, Nvidia is worth about a fifth less than it was a month ago."
+      },
+      {
+        "t": "p",
+        "zh": "黄仁勋周一告诉员工，自己“犯了一些非常糟糕的错误，会努力回来”。英伟达和黄仁勋的发言人拒绝置评。",
+        "en": "Huang told employees on Monday he had “made some very terrible mistakes, and I’m going to work on coming back.” Nvidia and a spokesperson for Huang declined to comment."
+      },
+      {
+        "t": "p",
+        "zh": "知情人士称，最终促成周日晚间英伟达董事会会议的磋商极为机密，连临时首席执行官科莱特·克雷斯也被排除在讨论之外。",
+        "en": "The talks that culminated in an Nvidia board meeting late on Sunday were so secretive that even interim Chief Executive Officer Colette Kress was kept out of the discussions, the people said."
+      },
+      {
+        "t": "p",
+        "zh": "特朗普亲自与董事会通话为黄仁勋辩护，促使董事会在数天前明确排除其回归之后来了个大转弯。董事会表示，在得到“美国政府高层意见”后，相信黄仁勋不构成国家安全风险，但其内部调查仍将继续。",
+        "en": "Trump personally spoke to the board in Huang’s defense, triggering an about-face days after it had categorically ruled out a return. The board said it was confident Huang posed no national security risk after “input from senior levels of the United States government,” but that its internal investigation would continue."
+      },
+      {
+        "t": "p",
+        "zh": "黄仁勋回归的种子，在他 11 月 12 日辞职后数小时内就已埋下。他的辞职发生在有报道称他与一名公司高管、以及名为 Alice Huang 的女子有婚外情之后；后者是英伟达新加坡客户 Megaspeed 的一名高管，而该公司如今处于芯片走私指控的中心。",
+        "en": "The seeds of Huang’s comeback were sown within hours of his resignation on November 12, which came after reports of affairs with a company executive and a woman named Alice Huang, an executive at a Singapore-based Nvidia client called Megaspeed, now at the center of chip smuggling allegations."
+      },
+      {
+        "t": "p",
+        "zh": "硅谷的盟友聚集到他身边。据知情人士称，黄仁勋的一小群支持者迅速行动，包括优步创始人 Travis Kalanick、风险投资人 Gavin Baker、Brad Gerstner 和 Marc Andreessen，以及高盛高管 John Underwood，他们在公开和私下场合为黄仁勋复职进行辩护。",
+        "en": "Allies in Silicon Valley rallied around him. A small group of Huang’s supporters, including Uber founder Travis Kalanick, venture capitalists Gavin Baker, Brad Gerstner, and Marc Andreessen, as well as Goldman Sachs executive John Underwood, leapt to action, according to people familiar with the matter, making the case in public and in private for Huang’s reinstatement."
+      },
+      {
+        "t": "p",
+        "zh": "Andreessen Horowitz 拒绝置评。该团体的其他成员没有回应。",
+        "en": "Andreessen Horowitz declined to comment. The other members of the group did not respond."
+      },
+      {
+        "t": "p",
+        "zh": "在黄仁勋辞职后 24 小时内，Baker 和 Gerstner 发表了一封致英伟达董事会的公开信，敦促他们“把所有选项都留在桌上，包括黄仁勋可能回归”。",
+        "en": "Within 24 hours of Huang’s resignation, Baker and Gerstner published an open letter to Nvidia’s board urging them to leave “all options on the table, including the potential return of Jensen Huang.”"
+      },
+      {
+        "t": "p",
+        "zh": "《金融时报》上周报道，他们的努力得到了黄仁勋的支持。周二，黄仁勋确认自己已准备好重新担任这一职务。",
+        "en": "Their effort had Huang’s backing, the FT reported last week. On Tuesday, Huang confirmed he was prepared to step back into the role."
+      },
+      {
+        "t": "p",
+        "zh": "尽管董事会主席 Harvey Jones 公开坚称黄仁勋不能回归，克雷斯上周仍在努力稳定局面，发布了强劲的季度财报，并承诺在英伟达股价暴跌之际加快加薪和股权授予。周三的公司“全员大会”上，高管团队以汤姆·佩蒂的《I Won't Back Down》为配乐，展现出团结姿态。",
+        "en": "While the board’s chair, Harvey Jones, publicly insisted Huang could not return, Kress spent last week looking to steady the ship with a strong quarterly earnings report and promises to expedite pay rises and equity grants as Nvidia shares plummeted. A company “all-hands” meeting on Wednesday featured a show of unity from its top executive team, to the tune of Tom Petty’s “I Won’t Back Down.”"
+      },
+      {
+        "t": "p",
+        "zh": "在幕后，黄仁勋“厨房内阁”中的盟友开始游说白宫和华盛顿的其他权势掮客。",
+        "en": "Behind the scenes, Huang’s allies in his “kitchen cabinet” began lobbying the White House and other power brokers in Washington."
+      },
+      {
+        "t": "p",
+        "zh": "其中一人上周安排了黄仁勋与万斯之间一通持续 45 分钟的电话。在谈话中，黄仁勋为自己在美国半导体出口管制和芯片远程访问上的立场，以及他与 Megaspeed 的往来进行了辩护。",
+        "en": "One arranged a phone call between Huang and Vance last week that lasted 45 minutes. During the conversation, Huang defended his positions on US semiconductor export controls and remote access to chips, and his dealings with Megaspeed."
+      },
+      {
+        "t": "p",
+        "zh": "万斯曾是风险投资人，受过 Peter Thiel 的指导，并从硅谷筹集了数百万美元。面对黄仁勋及其盟友的恳求，他似乎被说服了；如果万斯决定竞选总统，这些盟友很可能是至关重要的资金来源。",
+        "en": "Vance, a former venture capitalist who was mentored by Peter Thiel and has raised millions of dollars from Silicon Valley, was seemingly persuaded by the entreaties of Huang and his allies, who are probably a crucial source of funding if Vance decides to run for president."
+      },
+      {
+        "t": "p",
+        "zh": "这位知情人士说：“科技界所有重要的人都在敲他的门。”",
+        "en": "“Everyone who was important in the tech world was beating his door down,” said the person."
+      },
+      {
+        "t": "p",
+        "zh": "他们还说：“他这样做不是为了帮着筹钱。这件事甚至从未被提起。但他显然明白，美国国内生产总值现在有一半取决于英伟达……纳斯达克涨了 7%。如果你认为没有黄仁勋也会如此，那你就是疯了。”",
+        "en": "“He wasn’t doing it to help raise dollars. That never even came up. But he clearly understands that half of US GDP depends on Nvidia right now… the Nasdaq is up 7 percent. If you think that’s happening without Jensen, you’re crazy,” they added."
+      },
+      {
+        "t": "p",
+        "zh": "整个周末，特朗普和万斯的介入重点是说服董事会：黄仁勋与 Alice Huang 的婚外情，并不意味着他被暴露为潜在的国家安全风险。",
+        "en": "​Over the course of the weekend, Trump and Vance’s engagement focused on convincing the board that Huang’s affair with Alice Huang did not mean he was exposed as a potential national security risk."
+      },
+      {
+        "t": "p",
+        "zh": "财政部长 Scott Bessent 周日出面软化了此前的立场。一周前，他曾指责该公司通过对华非法销售人为抬高营收，并呼吁进行全面的领导层改组。",
+        "en": "Treasury Secretary Scott Bessent went out on Sunday to soften his earlier stance, having a week before accused the company of artificially inflating its revenue through illicit China sales and called for a wholesale leadership shake-up."
+      },
+      {
+        "t": "p",
+        "zh": "参与这场行动的人把 Bessent 的转向视为他们正在取得进展的证据。特朗普对董事会的介入被证明是决定性的。",
+        "en": "Those involved in the campaign viewed Bessent’s reversal as evidence they were making progress. Trump’s intervention with the board proved decisive."
+      },
+      {
+        "t": "p",
+        "zh": "周一，黄仁勋重返岗位后，Baker 在 X 上发文：“这就是美国为何是地球上最伟大国家的原因。黄仁勋故事的每一个部分，都只可能发生在美国。”",
+        "en": "On Monday, after Huang was returned to his post, Baker posted on X: “This is why America is the greatest country on earth. Every part of Jensen’s story would have only been possible in America.”"
+      },
+      {
+        "t": "p",
+        "zh": "在英伟达内部，员工对黄仁勋的回归既兴高采烈又感到意外。即便是那些曾暗自希望他复职的人，也告诉《金融时报》，没料到事情会发生得这么快。",
+        "en": "Inside Nvidia, employees responded to Huang’s return with a mixture of elation and surprise. Even those who had quietly hoped for Huang’s reappointment told the FT they had not expected it to happen so quickly."
+      },
+      {
+        "t": "p",
+        "zh": "一名资深员工说，认识黄仁勋多年的员工，对他垮台的背景感到震惊，尤其是媒体报道突然集中于他众所周知的严苛管理风格。",
+        "en": "One longtime employee said that staff who had known Jensen for years were shocked at the context of his downfall, in particular the surge in press reports about his well-known brutal management style."
+      },
+      {
+        "t": "p",
+        "zh": "有人说：“他一直就是这样做事的。某一代人在想：为什么是现在？”",
+        "en": "“He has always behaved like this. People of a certain generation are thinking: why now?” said one."
+      },
+      {
+        "t": "p",
+        "zh": "尽管执掌英伟达 33 年，并持有公司 3.5% 的股份，黄仁勋并没有像马克·扎克伯格等其他创始人兼首席执行官那样、可以压倒董事会的超级投票权股份。",
+        "en": "Despite running Nvidia for 33 years and owning 3.5 percent of the company, Huang does not have the supervoting shares that enable other founder-CEOs, such as Mark Zuckerberg, to overrule their boards."
+      },
+      {
+        "t": "p",
+        "zh": "一名曾在华盛顿与黄仁勋共事的人说：“如果我是黄仁勋，我今天的第一个问题就是：‘我怎样才能拿到那些超级投票权股份，好在下次告诉所有人给我滚蛋。’”",
+        "en": "“If I’m Jensen Huang, my first question today is, ‘How can I get me some of those super voting shares so I can tell everybody to fuck off next time,’” said one person who had worked with Huang in Washington."
+      },
+      {
+        "t": "p",
+        "zh": "黄仁勋的回归并不意味着公司的麻烦已经结束。特朗普周一说，美国司法部长办公室已对黄仁勋的行为“做了非常彻底的调查”，并“还他以清白”。但民主党和共和党议员周一都感到愤怒。",
+        "en": "Huang’s return does not signal an end to the company’s troubles. Trump on Monday said the US attorney general’s office had “done a very thorough investigation” into Huang’s conduct and “exonerated” him. But both Democratic and Republican lawmakers on Monday were outraged."
+      },
+      {
+        "t": "p",
+        "zh": "黄仁勋和英伟达总法律顾问 Tim Teter 已被传唤，将于下周出席国会听证会。",
+        "en": "Huang and Nvidia’s general counsel, Tim Teter, have been summoned to congressional hearings next week."
+      },
+      {
+        "t": "p",
+        "zh": "除万斯外，周一没有其他内阁成员公开支持黄仁勋回归。据一名接近他的人士称，商务部长 Howard Lutnick 本人因英伟达在其任内向 Megaspeed 销售的能力而受到审视，并未参与董事会讨论。",
+        "en": "No member of the cabinet apart from Vance had publicly endorsed Huang’s return on Monday. Commerce Secretary Howard Lutnick, himself under scrutiny over Nvidia’s ability to sell to Megaspeed on his watch, was not involved in the board discussions, according to one person close to him."
+      },
+      {
+        "t": "p",
+        "zh": "在内部，黄仁勋亲自掌控下属、并由女儿和女婿协助、且没有正式继任规划的管理风格，已引发对治理的审视。",
+        "en": "Internally, Huang’s personal management style, exercising close control over subordinates aided by his daughter and son-in-law, with no formal succession planning, has led to scrutiny about governance."
+      },
+      {
+        "t": "p",
+        "zh": "董事会主席 Jones 的一名长期同僚表示，让黄仁勋复职的决定，几乎无助于缓解公众担忧和市场对人工智能的疑虑。",
+        "en": "One longtime associate of board chair Jones said the decision to reinstate Huang would do little to assuage public concern and market worries around AI."
+      },
+      {
+        "t": "p",
+        "zh": "该人士说：“中期选举表明，更广泛的公众对一切与人工智能有关的事物都深感怀疑。黄仁勋风波掩盖了市场上一个日益形成的共识：靠债务杠杆支撑的投机性数据中心扩建相当脆弱。”",
+        "en": "“The midterm elections showed that the wider public is deeply skeptical about all things AI,” the person said. “The Jensen affair masks a growing market consensus that the debt-leveraged speculative data center build-out is quite fragile.”"
+      },
+      {
+        "t": "p",
+        "zh": "这也丝毫没有减少对英伟达董事会的审视。该董事会充斥着黄仁勋的长期盟友，并且缺少任何重要的科技或国家安全人士。",
+        "en": "It also does nothing to reduce scrutiny of Nvidia’s board, which is stacked with longtime Huang allies and lacks any major tech or national security figures."
+      },
+      {
+        "t": "p",
+        "zh": "Bernstein 分析师周一写道：“虽然我们很高兴黄仁勋回来，但董事会这种时开时关的应对方式，坦白说像小丑一样。”他们还补充说，这“带来了关于他们判断力和程序的合理疑问，让人不禁想知道他们是如何作出其他重要决定的。”",
+        "en": "“While we are happy to have Jensen back, the on-again, off-again response from the board is, frankly, clown-like,” Bernstein analysts wrote on Monday, adding that it “brings up legitimate questions as to their judgment and process, which has to make one wonder how they come to their other important decisions.”"
+      },
+      {
+        "t": "p",
+        "zh": "其他人说得更直白。英伟达的一名大投资者说：“公司治理已经像渡渡鸟一样灭绝了。”",
+        "en": "Others were more blunt. “Corporate governance has gone the way of the dodo,” said one large Nvidia investor."
+      },
+      {
+        "t": "p",
+        "zh": "© 2026 The Financial Times Ltd. 版权所有。不得以任何方式再分发、复制或修改。",
+        "en": "© 2026 The Financial Times Ltd. All rights reserved. Not to be redistributed, copied, or modified in any way."
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "n0f64ef477057",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic称MCP软件包月下载超7亿次",
+  "original_title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+  "summary": "Anthropic称，模型上下文协议MCP相关软件开发工具包每月下载量已超过7亿次。The Decoder报道，该协议还扩展了后台任务、向用户追问以及文件上传等能力，以便智能体更自主地工作。",
+  "facts": [
+    {
+      "text": "Anthropic称，在推出两年后，MCP接口标准相关软件开发工具包的每月下载量已超过7亿次。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/"
+    },
+    {
+      "text": "该协议新增了后台任务、向用户追问以及文件上传等功能。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Anthropic称，这些扩展是为了让人工智能智能体能够更自主地工作。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "is_primary": false,
+      "published_at": "2026-11-25T03:23:41+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T03:23:41+08:00",
+  "updated_at": "2026-11-25T03:23:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic称MCP软件包月下载超7亿次",
+  "lead_zh": "The Decoder报道，Anthropic称其模型上下文协议接口标准上线两年后，相关软件包每月下载量已超过7亿次，并新增后台任务等面向更自主智能体的功能。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anthropic称，其模型上下文协议在推出两年后，相关软件开发工具包每月下载量已超过**7亿**次，并拥有超过**1万**个面向Claude的连接器。公司同时扩展该协议，以便智能体彼此通信并更顺畅地协调工作流。",
+        "新增能力中，任务和询问功能已在今年10月公开测试后正式推出：服务器可在后台执行较长时间的工作，并只在结果就绪时回报；运行中的流程也可以暂停，向用户询问缺失的具体信息。另有“通过该协议提供技能”的功能仍处公开测试。Anthropic还在扩展该协议，以便智能体彼此通信，并更顺畅地协调彼此的工作流程。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Anthropic称，这些新功能是为了让Claude以及采用该协议的服务器能够更独立地工作，并在需要时才加载针对用户或组织定制的专业技能。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

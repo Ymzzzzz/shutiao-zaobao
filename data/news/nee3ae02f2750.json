@@ -1,0 +1,67 @@
+{
+  "id": "nee3ae02f2750",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic研究员为黎曼猜想辅助证明辩护",
+  "original_title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+  "summary": "Anthropic研究员莱文特·阿尔珀格撤回了部分关于人工智能辅助证明广义黎曼猜想的表述。他仍坚持证明本身，但承认发布安排中有“蠢事”，并表示所谓证明长达25万页以上只是一句玩笑。",
+  "facts": [
+    {
+      "text": "Anthropic研究员莱文特·阿尔珀格就其人工智能辅助的广义黎曼猜想证明发表后续说明，撤回了部分宣布内容。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据阿尔珀格称，他仍坚持这项证明，但承认在发布过程中做了“蠢事”，并且证明长达25万页以上的说法只是玩笑。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+      "is_primary": false,
+      "published_at": "2026-11-24T22:28:41+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T22:28:41+08:00",
+  "updated_at": "2026-11-24T22:28:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic研究员为黎曼猜想辅助证明辩护",
+  "lead_zh": "The Decoder报道，Anthropic研究员莱文特·阿尔珀格仍坚持其人工智能辅助的广义黎曼猜想证明，但承认发布过程中做了“蠢事”，并称超过25万页的说法只是玩笑。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anthropic研究员莱文特·阿尔珀格在Anthropic上市后不久公布了人工智能辅助的广义黎曼猜想证明，随后又写下一篇题为“我做的蠢事”的说明，承认发布方式存在多处问题。他表示，关于作品篇幅的说法本是玩笑，并且在未整理干净的情况下就公开了配套代码。",
+        "他写道，相关Lean代码通过了形式化验证，但“充满垃圾”，充斥着多余的中间步骤和不必要的引理，因而很难阅读。他自己即兴写了很多内容并跳过了清理，也认为外界对展示方式的批评是公允的。他在说明中把发布安排上的失误单独列了出来，并承认自己当时跳过了清理工作。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据阿尔珀格称，他仍坚持这项证明在数学上能够成立，但承认发布过程中做了“蠢事”。他还指出，仅编译成功并不足以证明Lean代码陈述的就是正确定理，且没有隐藏假设。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/66fc1e3ba995a8fba65a4675bebecf1a8236780b.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/alpoege_riemann.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

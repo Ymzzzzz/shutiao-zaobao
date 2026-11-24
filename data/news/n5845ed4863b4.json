@@ -1,0 +1,138 @@
+{
+  "id": "n5845ed4863b4",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "亚马逊传以75亿美元收购芯片软件公司Decart",
+  "original_title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+  "summary": "TechCrunch报道，亚马逊决定以约75亿美元收购Decart的技术和团队，看中的是可让模型在非英伟达芯片上更高效运行的优化软件。英伟达曾参与其3亿美元、估值40亿美元的融资。",
+  "facts": [
+    {
+      "text": "据报道，亚马逊以约75亿美元收购Decart的技术和团队，联合创始人迪恩·莱特斯多夫、奥里安·莱特斯多夫和莫舍·沙莱夫将加入亚马逊。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+    },
+    {
+      "text": "英伟达曾参与Decart一笔3亿美元、估值40亿美元的融资，并被传也是潜在买家；Anthropic也被报道曾给出相近量级的报价。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据TechCrunch称，亚马逊看中的是Decart Optimization Stack，希望借此提升Trainium芯片性能，而非该公司此前从事的世界模型业务。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+    },
+    {
+      "text": "据亚马逊称，自2025年起已与Decart合作优化Trainium芯片，此次收购旨在加快相关工作。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "is_primary": false,
+      "published_at": "2026-11-24T23:51:07+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T23:51:07+08:00",
+  "updated_at": "2026-11-24T23:51:07+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊传以75亿美元收购芯片软件公司Decart",
+  "lead_zh": "据报道，亚马逊以约75亿美元收购Decart的技术和团队，意在将其优化软件用于提升自研Trainium芯片性能，缩小与英伟达的差距。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "据报道，亚马逊以约**75亿美元**收购Decart的技术和团队，联合创始人迪恩·莱特斯多夫、奥里安·莱特斯多夫和莫舍·沙莱夫将加入亚马逊。英伟达曾参与该公司一笔**3亿美元**、估值**40亿美元**的融资，并被传也是潜在买家；Anthropic也被报道曾给出相近量级的报价。",
+        "交易的核心不是Decart此前从事的世界模型，而是其用于让人工智能模型在各类芯片上更高效运行的优化软件栈。亚马逊自**2025年**起已与Decart合作优化自研Trainium芯片，希望借此提升性能，并向更多客户提供基于Trainium的数据中心服务。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据亚马逊称，此次收购旨在加快已经开展的Trainium优化工作。Remagine Ventures联合创始人埃泽·维德拉在给TechCrunch的邮件中称，这笔交易向以色列深科技生态发出了强烈信号。红杉合伙人迪恩·迈耶则在社交平台上称，它可能被视作多年来最具战略意义的收购之一。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/7b6b9fa3bd23d3f4d9befff66c37bff8ca9be7d2.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Anna Heim",
+    "author_title_zh": "",
+    "published_at": "2026-11-24",
+    "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+    "title_zh": "亚马逊收购 Decart，意在用软件缩小与英伟达的芯片差距",
+    "dek_en": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+    "dek_zh": "亚马逊决定以据报 75 亿美元收购 Decart，是其提升 Trainium 芯片效率努力的一部分。",
+    "word_count_zh": 855,
+    "read_minutes": 3,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "黄仁勋重返英伟达首席执行官之位理所当然地引发震动，也让人们开始思考他迅速复职以及美国政府在其回归中所扮演的积极角色会带来怎样的长期影响。但昨天还有另一项进展，长远来看也可能对英伟达很重要：亚马逊决定以据报 75 亿美元收购 Decart 的技术和团队。",
+        "en": "Jensen Huang’s comeback as Nvidia’s CEO is understandably making waves, leaving people wondering about the longer-term implications of his quick reinstatement and the U.S. government’s active role in his return. But there was another development yesterday that could also matter for Nvidia down the road: Amazon’s decision to acquire Decart‘s tech and its team for a reported $7.5 billion."
+      },
+      {
+        "t": "p",
+        "zh": "业界似乎普遍认同，Decart 用于优化人工智能模型以在非英伟达芯片上运行的技术值数十亿美元。据报道，Anthropic 也曾试图以相近量级收购这家初创公司；而在该初创公司以 40 亿美元估值完成的 3 亿美元融资中投了资的英伟达，也一度被传为潜在买家。",
+        "en": "The broader industry seems to agree that Decart’s tech for optimizing AI models to run on non-Nvidia chips is worth several billion dollars. Anthropic reportedly tried to acquire the startup in the same ballpark, and Nvidia, which invested in the startup’s $300 million funding round at a $4 billion valuation, was also rumored as a prospective buyer."
+      },
+      {
+        "t": "p",
+        "zh": "最终动手并把 Decart 联合创始人 Dean Leitersdorf、Orian Leitersdorf 和 Moshe Shalev 及其团队招入麾下的是亚马逊，但该公司对其一直在做的世界模型并不感兴趣。这笔交易的核心，是该初创公司能帮助人工智能模型在各类芯片上更好地运行的技术。",
+        "en": "Amazon was ultimately the one to pull the trigger and bring on board Decart’s co-founders Dean Leitersdorf, Orian Leitersdorf, and Moshe Shalev and their team, but the company is not interested in the world models they had been working on. At the heart of the deal is the startup’s tech that helps AI models run better on all kinds of chips."
+      },
+      {
+        "t": "p",
+        "zh": "通过纳入这家初创公司的 Decart Optimization Stack（DOS），亚马逊现在希望从其 Trainium 芯片中挖掘出更高性能，同时公司正努力把 AWS 做成一家营收达 1 万亿美元的业务。",
+        "en": "By incorporating the startup’s Decart Optimization Stack (DOS), Amazon is now hoping to extract more performance out of its Trainium chips, as the company tries to turn AWS into a $1 trillion revenue business."
+      },
+      {
+        "t": "p",
+        "zh": "亚马逊在公告中表示，自 2025 年以来一直与 Decart 合作优化 Trainium 芯片。这笔交易表面上旨在加快这项工作，最终可能使公司把它已经供 Anthropic 使用的、基于 Trainium 的数据中心提供给更多客户。亚马逊也一直在努力让迁移到 Trainium 变得更容易。",
+        "en": "In its announcement, Amazon said it has worked with Decart since 2025 to optimize the Trainium chips. This deal is ostensibly aimed at accelerating that work, which could eventually result in the company offering its Trainium-based data centers, which Anthropic already uses, to more customers. Amazon has already been working to make Trainium easier to switch to."
+      },
+      {
+        "t": "p",
+        "zh": "英伟达得以超越竞争对手的途径之一，是斥资 69 亿美元收购以色列芯片公司 Mellanox，后者后来成为其国际制造战略的核心组成部分。亚马逊很可能也在走类似的路。",
+        "en": "One way Nvidia managed to leapfrog its competitors was by spending $6.9 billion to acquire Israeli chipmaker Mellanox, which eventually grew to become a core piece of its international manufacturing strategy. Amazon could well be following a similar path."
+      },
+      {
+        "t": "p",
+        "zh": "不过，与 Mellanox 相比，Annapurna Labs 是一个更有意思的对照，因为后者在 2015 年被收购后，成了亚马逊自研芯片设计部门的基础。再加上英特尔，这就成了一个更宏大的故事。风险投资人 Eric Reiner 几个月前在 X 上观察到：“推动本轮人工智能浪潮的硬件，大多是在以色列造出来的。Annapurna；Mellanox；Habana Labs；等等……”",
+        "en": "Annapurna Labs makes for a more interesting parallel than Mellanox, however, as the latter formed the basis of Amazon’s custom chip-designing unit following its 2015 acquisition. Add Intel into the mix, and this becomes a broader story. “Most of the hardware powering the AI wave was built in Israel. Annapurna; Mellanox; Habana Labs; etc…,” VC Eric Reiner observed on X a few months ago."
+      },
+      {
+        "t": "p",
+        "zh": "Remagine Ventures 联合创始人兼管理合伙人 Eze Vidra 在给 TechCrunch 的邮件中表示，这笔交易是“对以色列深度技术领域的一个强烈信号，表明专业化的本地人才持续吸引着全球主要参与者”。",
+        "en": "In an email to TechCrunch, Eze Vidra, co-founder and managing partner at Remagine Ventures, said the deal is “a strong signal for the Israeli deep-tech ecosystem, showing that specialized local talent continues to attract major global players.”"
+      },
+      {
+        "t": "p",
+        "zh": "亚马逊要在英伟达近乎垄断的人工智能芯片市场中打开缺口还有一段路要走，但这笔交易可能有助于这家电商巨头加快步伐。曾联合领导红杉对 Decart 种子轮投资的红杉合伙人 Dean Meyer 在 X 上说，这笔交易“将被回看为多年来最具战略重要性的收购之一”。",
+        "en": "Amazon still has a ways to go before it can make a dent in Nvidia’s near-monopoly on AI chips, but the deal could help the e-commerce giant speed up its efforts. Dean Meyer, a partner at Sequoia who co-led the firm’s seed investment into Decart, said on X that the deal “will be looked back on as one of the most strategically important acquisitions in many, many years.”"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "n1479a2d5f115",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "人工智能辅助的黎曼猜想证明引发关注",
+  "original_title": "What's going on with the Riemann hypothesis?",
+  "summary": "Ars Technica关注近期一项人工智能辅助完成的黎曼猜想证明，认为这份证明看起来较为扎实，但科学上它究竟说明了什么、能把相关研究推到哪一步，目前仍有待厘清。",
+  "facts": [
+    {
+      "text": "Ars Technica报道称，一项新的人工智能辅助黎曼猜想证明看起来较为扎实，但尚不清楚它能说明什么。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "is_primary": false,
+      "published_at": "2026-11-25T04:34:53+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T04:34:53+08:00",
+  "updated_at": "2026-11-25T04:34:53+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "人工智能辅助的黎曼猜想证明引发关注",
+  "lead_zh": "Ars Technica写道，一项新的人工智能辅助黎曼猜想证明看起来较为扎实，但目前仍不清楚它能告诉我们什么。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "上周有消息称，一名数学家借助人工智能攻克了黎曼猜想这一重大未解问题。Ars Technica写道，证明本身仍有待数学家消化，目前还不能急于下结论，但可以先看看它是如何产生的，以及它能说明数学领域的何种变化。",
+        "黎曼猜想由伯恩哈德·黎曼在19世纪中叶提出，关系到素数的分布，并在数论到密码学等领域具有重要性。提出这项证明的是在Anthropic工作的数学家莱文特·阿尔珀格，他使用了Claude来生成证明。报道还引用一种通行看法称，它被纯数学家视为该领域最重要的问题之一。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "媒体怎么看",
+      "paras": [
+        "据Ars Technica称，这份人工智能辅助的证明看起来较为扎实，但目前仍不清楚它究竟能告诉我们什么。报道还提到，近期已有多项重大数学突破由大语言模型系统促成或独立完成，整个数学界因此处于震动之中。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/c828b7e29dc17de7c72e9f5dbd4c2bb627d6dcca.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

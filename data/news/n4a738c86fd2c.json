@@ -1,0 +1,72 @@
+{
+  "id": "n4a738c86fd2c",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "华为Mate X8将推出外屏伴随式人工智能交互",
+  "original_title": "华为折叠机外屏伴随式 AI 新交互将至，Mate X8 升级 HarmonyOS 7.0.0.135 可用",
+  "summary": "华为发布Mate X8折叠屏旗舰，并推出小艺伴随式人工智能。发布会演示在内屏触发，IT之家称外屏伴随式新交互将在HarmonyOS 7.0.0.135及以上版本可用，可提供全文摘要、长文导读等服务。",
+  "facts": [
+    {
+      "text": "华为发布Mate X8折叠屏旗舰，并推出小艺伴随式人工智能；发布会演示是在内屏侧触发的。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/886.htm"
+    },
+    {
+      "text": "外屏伴随式人工智能新交互将在HarmonyOS 7.0.0.135及以上版本可用。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/886.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据华为介绍称，小艺伴随式人工智能可通过感知屏幕与场景，提供全文摘要、长文导读、备忘待办和话题推荐等服务。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/886.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/031/886.htm",
+      "is_primary": false,
+      "published_at": "2026-11-24T22:38:29+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T22:38:29+08:00",
+  "updated_at": "2026-11-24T22:38:29+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "华为Mate X8将推出外屏伴随式人工智能交互",
+  "lead_zh": "IT之家报道，华为发布Mate X8折叠屏旗舰，除内屏演示的小艺伴随式人工智能外，外屏新交互将在HarmonyOS 7.0.0.135及以上版本提供。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "华为发布Mate X8折叠屏旗舰，并推出小艺伴随式人工智能。发布会现场演示是在内屏侧触发的。IT之家从官网了解到，该机还将带来外屏伴随式人工智能新交互，HarmonyOS **7.0.0.135**及以上版本可用。",
+        "伴随式功能会通过感知屏幕与场景，提供全文摘要、长文导读、备忘待办和话题推荐等服务，使折叠屏在外屏状态下也能调用相关能力。这一更新与当天发布的Mate X8一同公布。IT之家介绍，外屏伴随式新交互将随系统版本更新提供，与当天发布的Mate X8一起成为折叠屏上的新功能。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "官方怎么说",
+      "paras": [
+        "据华为介绍称，小艺伴随式人工智能可结合当前屏幕内容和使用场景给出摘要、导读和待办建议。IT之家称，外屏新交互需要将系统升级到指定版本后才能使用。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/6a6baec1a81536ae3ddde3aa2695217a7234b964.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/26613b41-3255-458a-8dbe-d568fef719a0.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

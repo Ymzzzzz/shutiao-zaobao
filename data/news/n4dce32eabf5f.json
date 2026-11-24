@@ -1,0 +1,67 @@
+{
+  "id": "n4dce32eabf5f",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "诺华首席执行官称AI能缩短四年新药研发",
+  "original_title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+  "summary": "诺华首席执行官瓦斯·纳拉辛汉同时也是Anthropic董事会成员。他表示，人工智能有望把药物研发缩短四年，但不会成为包治百病的方案，并以此回应阿莫代伊和哈萨比斯的相关主张。",
+  "facts": [
+    {
+      "text": "诺华首席执行官瓦斯·纳拉辛汉兼任Anthropic董事会成员，他表示人工智能可将药物研发缩短四年，但不会治愈所有疾病。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据纳拉辛汉称，他不认同Anthropic首席执行官阿莫代伊和DeepMind创始人哈萨比斯把人工智能说成几乎能解决一切疾病的承诺。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+      "is_primary": false,
+      "published_at": "2026-11-25T02:01:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T02:01:55+08:00",
+  "updated_at": "2026-11-25T02:01:55+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "诺华首席执行官称AI能缩短四年新药研发",
+  "lead_zh": "The Decoder报道，兼任Anthropic董事的诺华首席执行官纳拉辛汉认为，人工智能可将药物研发周期缩短约四年，但不会治愈所有疾病。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "瑞士药企诺华首席执行官瓦斯·纳拉辛汉同时也是Anthropic董事会成员。他对人工智能将在五到十年内治愈癌症等疾病的预期提出了更谨慎的看法，这与Anthropic首席执行官阿莫代伊以及DeepMind创始人、诺贝尔化学奖得主哈萨比斯的主张形成对照。",
+        "据《金融时报》报道，纳拉辛汉预计十年内人工智能只会把平均药物研发周期从**12年**缩短到**8年**，其中进入人体试验前的早期阶段最多可贡献两年；他还预计临床开发成功率将从**8%**提升到**12%**。Anthropic已收购生物技术公司Coefficient Bio并在建设生物学实验室，Isomorphic上周完成**50亿美元**融资。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据纳拉辛汉称，人类对生物学的理解仍然有限，因此仍需要漫长的动物和人体试验。他同时认为，人工智能的真正益处处在“包治百病”与无所作为之间的中间位置。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/8a829318bc5c3ed7cd887b8d182a70e58456ae40.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/claude_novartis.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nbbaf6332f2bf",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Pinterest将允许家长限制青少年看到的AI内容",
+  "original_title": "Pinterest will now let parents limit the AI-generated content their teens see",
+  "summary": "Pinterest计划让家长限制青少年信息流中的人工智能生成内容。TechCrunch指出，其他社交平台多把重点放在限制青少年使用聊天机器人，而Pinterest针对的是信息流里的生成式内容。",
+  "facts": [
+    {
+      "text": "Pinterest将允许家长限制青少年看到的人工智能生成内容。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "is_primary": false,
+      "published_at": "2026-11-25T00:02:37+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T00:02:37+08:00",
+  "updated_at": "2026-11-25T00:02:37+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Pinterest将允许家长限制青少年看到的AI内容",
+  "lead_zh": "TechCrunch报道，Pinterest将允许家长限制青少年看到的人工智能生成内容，与其他社交平台主要限制聊天机器人的做法不同。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Pinterest本周宣布扩展家长控制功能，其中一项新设置允许家长限制子女看到多少人工智能生成内容。该选项与调整通知、以及是否自动播放视频等更常规的控制一并推出，使Pinterest成为率先把生成式内容曝光量纳入家长控制的大型社交平台之一。",
+        "相比之下，其他社交平台近期更多是限制未成年人使用特定人工智能功能。例如Snap曾增加设置，阻止其聊天机器人回应青少年；Meta在根据家长反馈调整产品后，曾全球暂停青少年使用现有人工智能角色；WhatsApp则允许家长调整青少年对Meta人工智能的使用权限。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "媒体怎么看",
+      "paras": [
+        "据TechCrunch称，其他平台多把重点放在限制青少年使用聊天机器人，而Pinterest针对的是信息流里出现的生成式内容本身。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/0173e3a13201e10268d917afe9529f2d8c8ab590.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

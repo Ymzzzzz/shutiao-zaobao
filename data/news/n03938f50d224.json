@@ -1,0 +1,61 @@
+{
+  "id": "n03938f50d224",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Meta把智能助手直接接入照片墙私信",
+  "original_title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+  "summary": "Meta把它的人工智能助手直接集成到照片墙私信中。TechCrunch称，这一改动让用户想与该智能体互动时，不必再在照片墙应用和独立的Muse应用之间来回切换。",
+  "facts": [
+    {
+      "text": "Meta将其人工智能助手Muse直接接入Instagram私信，用户不必再在Instagram和Muse应用之间切换。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "is_primary": false,
+      "published_at": "2026-11-25T01:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T01:00:00+08:00",
+  "updated_at": "2026-11-25T01:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Meta把智能助手直接接入照片墙私信",
+  "lead_zh": "科技媒体报道，Meta已将其人工智能助手直接接入照片墙私信，用户想与该助手互动时，不必再在照片墙和独立应用之间来回切换。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Meta周二宣布，Instagram用户已可在私信线程中与其人工智能智能体Muse对话，询问帖子、地点或商品的更多背景，或补看自己可能错过的其他私信。用户还可以把Instagram帖子分享给Muse并让它采取行动，例如把一家咖啡馆加入墨西哥城行程，或寻找一双鞋的黑色星期五优惠。",
+        "与Muse在Instagram上的对话会作为侧边聊天出现在主Muse应用中。该功能周二起开始向美国、加拿大、墨西哥、日本和新加坡的苹果和安卓用户推送，使用户不必再在Instagram和独立的Muse应用之间来回切换。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据该公司称，把Muse直接嵌入Instagram，是为了让用户更方便地使用这一智能体，同时也让它进入用户本就在发现商品、地点和内容的平台。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/bf9e4a4c595d8fb0c83ecfc6cbb6b70b4e4c1c37.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

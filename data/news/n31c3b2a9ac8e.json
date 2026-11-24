@@ -1,0 +1,66 @@
+{
+  "id": "n31c3b2a9ac8e",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "小鹏预热IRON机器人可自主拿书、倒酒和充电",
+  "original_title": "小鹏放出 IRON 人形机器人预热视频：可自主拿起书本、倒酒、充电",
+  "summary": "小鹏汽车在科技日前公布人形机器人IRON最新预热视频，画面显示它在模拟居家环境中独立完成拿书、倒酒和自行充电等动作。IT之家称，上述操作是在无人工遥控状态下完成的。",
+  "facts": [
+    {
+      "text": "临近2026年小鹏科技日，小鹏汽车公布了人形机器人IRON的最新预热视频。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/818.htm"
+    },
+    {
+      "text": "视频显示，IRON在无人工遥控状态下，于模拟居家环境中完成抓取书籍、向杯中斟酒以及自主连接电源充电等操作。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/818.htm"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/031/818.htm",
+      "is_primary": false,
+      "published_at": "2026-11-24T19:46:56+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T19:46:56+08:00",
+  "updated_at": "2026-11-24T19:46:56+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "小鹏预热IRON机器人可自主拿书、倒酒和充电",
+  "lead_zh": "临近2026年小鹏科技日，小鹏汽车公布人形机器人IRON最新预热视频，展示其在无人工遥控下抓取书籍、向杯中倒酒并自主连接电源充电。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "临近**2026年**小鹏科技日，小鹏汽车公布了旗下人形机器人IRON的最新预热视频。短片重点展示该机器人在无人工遥控状态下，独立完成多项贴近日常生活的精细化任务，为即将召开的科技日提前造势。",
+        "根据公开画面，IRON在模拟居家环境中完成了抓取书籍、向杯中斟酒以及自主连接电源充电等一系列操作。视频强调这些动作是在没有人工遥控的情况下完成的。这段预热视频在科技日前发布，意在展示机器人在居家场景中的自主操作，而不是遥控表演。画面中的拿书、倒酒和自主充电等动作，都被用来展示其精细操作能力。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "官方怎么说",
+      "paras": [
+        "据介绍，上述演示旨在展示IRON在日常场景中的自主操作能力，并为即将到来的小鹏科技日预热。IT之家称，这些任务是在无人工遥控状态下完成的。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/68ba5a5a549befe3708a24f876c95def59626cc7.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/87240650-8d89-465c-be7c-440403a75d11.jpg?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

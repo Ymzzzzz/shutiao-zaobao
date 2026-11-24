@@ -1,0 +1,67 @@
+{
+  "id": "n19f2f984a80d",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "《纽约时报》提醒摄影师暂缓升级Photoshop",
+  "original_title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "summary": "《纽约时报》在邮件中要求自由摄影师不要使用最新版Adobe Photoshop。The Verge报道，该报担心2027更新中的人工智能功能“可能并不容易被用户察觉”。",
+  "facts": [
+    {
+      "text": "《纽约时报》要求自由摄影师不要使用最新版Adobe Photoshop。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该报在邮件中称，2027更新中的功能会以“可能并不容易被用户察觉”的方式使用人工智能。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "is_primary": false,
+      "published_at": "2026-11-25T00:09:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T00:09:23+08:00",
+  "updated_at": "2026-11-25T00:52:41+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "《纽约时报》提醒摄影师暂缓升级Photoshop",
+  "lead_zh": "The Verge报道，《纽约时报》要求自由摄影师不要使用最新版Adobe Photoshop，因为2027更新中的人工智能功能“可能并不容易被用户察觉”。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《纽约时报》摄影部门负责人洛拉姆和哈纳在一封被The Verge看到、并流传到Threads上的邮件中，要求自由摄影师不要使用最新版Adobe Photoshop，因为**2027**更新中的功能会以“可能并不容易被用户察觉”的方式使用人工智能。",
+        "邮件还写到，使用这些功能“可能导致元数据把照片标记为人工智能生成”。该报所指的11月更新新增了集中入口的“人工智能辅助编辑器”视图、可逐步给出编辑说明的助手、基于提示词的图像变换，以及新的人工智能放大选项等。Adobe近年来持续在Photoshop等创意应用中加入大量人工智能工具，这次更新把更多能力集中到一起。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报社怎么说",
+      "paras": [
+        "据这两位摄影负责人称，新版软件中的人工智能功能并不总是一目了然，误用可能让新闻照片在元数据中被标成生成内容，因此希望摄影师暂缓升级。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/c0797a2974fd60f2a1e3c5a757fe61cc6fe026b8.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

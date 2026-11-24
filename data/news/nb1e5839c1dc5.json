@@ -1,0 +1,61 @@
+{
+  "id": "nb1e5839c1dc5",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "沃尔玛携手Meta让Muse下单黑五优惠",
+  "original_title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+  "summary": "沃尔玛与Meta达成合作，消费者可以在Meta的人工智能智能体Muse上选购黑色星期五促销商品。TechCrunch称，这让购物者能够直接通过该智能体浏览并下单沃尔玛的黑五优惠。",
+  "facts": [
+    {
+      "text": "沃尔玛与Meta合作，消费者可通过Meta的人工智能智能体Muse选购黑色星期五优惠商品。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "is_primary": false,
+      "published_at": "2026-11-25T05:32:38+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T05:32:38+08:00",
+  "updated_at": "2026-11-25T05:32:38+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "沃尔玛携手Meta让Muse下单黑五优惠",
+  "lead_zh": "TechCrunch报道，沃尔玛与Meta合作，消费者可通过Meta的人工智能智能体Muse选购黑色星期五优惠商品。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "沃尔玛周二宣布与Meta合作，消费者可通过Meta的人工智能智能体Muse选购黑色星期五优惠。用户打开Muse应用并登录沃尔玛账号后，即可让助手查找商品、比较选项或寻找折扣；Muse会把请求发给沃尔玛，由对方返回相关商品并协助生成购物车。",
+        "沃尔玛表示，已在流程中加入隐私保护：Muse不会获得用户的沃尔玛购物历史或其他个人信息。购物者还可以设置消费限额、要求购买前先批准，并审查智能体提交的订单，也可以删除该智能体的配置资料。这一合作于周二公布，为购物者提供了不必自己浏览沃尔玛网站也能比价和下单的途径。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么看",
+      "paras": [
+        "据TechCrunch称，这一合作也凸显出沃尔玛与亚马逊在人工智能购物上的不同态度：亚马逊已采取措施阻止第三方智能体代客下单，而沃尔玛则选择主动接入这类助手。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/bbe63fa5ffa17e2589983c94952c315eb8e57687.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

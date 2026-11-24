@@ -1,0 +1,61 @@
+{
+  "id": "nbf4d79992d6e",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "《连线》：想过好感恩节就别先聊人工智能",
+  "original_title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+  "summary": "《连线》的一篇文章提醒，感恩节聚会上最好别先谈人工智能。报道称，不少年轻人对未来感到焦虑，对支持人工智能的父母越来越感到沮丧，担心相关争论会让节日气氛变得紧张。",
+  "facts": [
+    {
+      "text": "《连线》报道，不少年轻人对前途感到焦虑，对支持人工智能的父母愈发不满，并担心这一话题会让感恩节聚会变得紧张。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+      "is_primary": false,
+      "published_at": "2026-11-24T18:45:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T18:45:00+08:00",
+  "updated_at": "2026-11-24T18:45:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "《连线》：想过好感恩节就别先聊人工智能",
+  "lead_zh": "《连线》写道，不少年轻人对自己的前途感到焦虑，对支持人工智能的父母愈发不满，担心这个话题会让感恩节聚会变得紧张。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《连线》报道，不少年轻人对前途感到焦虑，对支持人工智能的父母和亲戚愈发不满，担心这个话题会让感恩节聚会变得紧张。文中化名苏菲的27岁社会工作学生住在北卡罗来纳州，从未使用过ChatGPT或Claude，搜索时会加上排除人工智能的指令，并关闭了微软的助手功能。",
+        "她反对的理由包括担心批判性思维退化、部分人工智能领袖与特朗普政府走得过近，以及数据中心对环境、尤其是对有色人种社区供水的影响。她的父母和兄弟姐妹大体站在同一边，但更远一些的亲戚中，人工智能使用已经相当普遍。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "当事人怎么说",
+      "paras": [
+        "据苏菲称，她的反人工智能立场深深植根于反资本主义信念。她还担心一位姨妈“接近人工智能精神病”的边缘，并提到一位刚生下双胞胎的表姐用ChatGPT排了孩子的全部喂养和睡眠时间表，还投资了一款用人工智能做儿科评估的应用。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/2fd150270fd8f788e5301d4e3f5db3ace4eadec0.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/master/pass/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "n4d83f53e63e2",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "Maple融资530万美元开发加密人工智能",
+  "original_title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+  "summary": "初创公司Maple获得530万美元融资，用于开发即使公司自身也无法访问用户隐私数据的人工智能产品。TechCrunch称，其加密架构从设计上防止Maple查看用户的私人内容。",
+  "facts": [
+    {
+      "text": "Maple获得530万美元融资，用于开发保护用户数据的人工智能产品。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该公司称，其加密人工智能架构旨在防止即便是Maple自己也无法访问用户的私人数据。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "is_primary": false,
+      "published_at": "2026-11-25T05:19:52+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T05:19:52+08:00",
+  "updated_at": "2026-11-25T05:19:52+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Maple融资530万美元开发加密人工智能",
+  "lead_zh": "TechCrunch报道，初创公司Maple获得530万美元融资，其加密架构旨在让公司自身也无法读取用户的私人数据。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "初创公司Maple获得**530万美元**融资，用于开发即便公司自身也无法读取用户私人数据的人工智能应用。该公司由曾在苹果从事隐私保护技术的工程师参与创立，首席执行官是马克·苏曼。",
+        "Maple强调用可验证的方式建立信任，包括加密、公开源代码，以及所谓的可信执行环境，让用户能够检查服务器上实际运行的代码，而不必只听公司单方面保证。该公司提出，与其要求用户相信自己不会滥用个人数据，不如做成公司一开始就无法访问这些数据的业务。用户还可以查看开源代码，并核验服务器上实际运行的程序。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据苏曼称，他们希望做出的产品不仅加密，还能被证明，人们可以查看开源码和可信执行环境，“审计一切，并知道自己的数据如何被处理”。公司还提出，不必像部分竞争对手那样，为了方便而牺牲隐私。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/c8a064b4a9d5b28a407f6dd977d7bc37b8bb0e11.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

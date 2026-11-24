@@ -1,0 +1,67 @@
+{
+  "id": "na8a55424e532",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋复职后首次全员会向员工道歉",
+  "original_title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+  "summary": "英伟达首席执行官黄仁勋在复职后的首次全员大会上向员工道歉。据《连线》报道，他在会上谈及个人生活，为自己重新出任辩护，并承认强势的管理方式曾给员工造成伤害和压力。",
+  "facts": [
+    {
+      "text": "黄仁勋在回归后的首次全员大会上向英伟达员工道歉，并谈及个人生活、为自己的复职辩护。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据黄仁勋称，自己强势的管理风格曾伤害员工。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "is_primary": false,
+      "published_at": "2026-11-25T01:44:53+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T01:44:53+08:00",
+  "updated_at": "2026-11-25T01:44:53+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋复职后首次全员会向员工道歉",
+  "lead_zh": "《连线》报道，黄仁勋在回归后的首次全员大会上谈及个人生活、为自己的复职辩护，并承认强势管理风格曾伤害员工。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "复职后的英伟达首席执行官黄仁勋周二在首次全员大会上向员工道歉。据《连线》审阅的讲话，他承认违反了公司行为准则，并称自己犯了“非常严重的个人错误”，这也是他当初提交辞呈的原因。",
+        "黄仁勋说，这会是他做过的最难的一次公司会议，而“最难的一次会议是和我妻子的那次”。他还告诉员工，自己每天接受一个半小时的治疗，并表示这“帮了我很多”。他强调，行为准则中有不少内容是他自己写的，旨在营造让人感到安全的环境。这次全员会是他回归后首次向全公司公开谈及辞职原因和复职后的态度。他同时谈到行为准则仍然适用于所有人，并用来营造更安全的工作环境。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据黄仁勋称，他“伤害了家人，伤害了妻子”。他同时表示，违反行为准则不会被容忍，但这“并不意味着一违反准则，我们就把你送出大门”。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/2bf95edc7c09dfff368eaddaec6038f937383876.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b05ac8615bd092ec9b638cd/master/pass/GettyImages-2279157190.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

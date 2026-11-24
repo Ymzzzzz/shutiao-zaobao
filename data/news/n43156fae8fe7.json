@@ -1,0 +1,67 @@
+{
+  "id": "n43156fae8fe7",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "消息称两家公司员工警告内部模型过强难以安全发布",
+  "original_title": "消息称 OpenAI 与 Anthropic 员工警告：内部 AI 模型能力过于强大，无法安全发布",
+  "summary": "Axios援引二十多名熟悉内部讨论的消息人士称，Anthropic和OpenAI尚未对外发布的模型能力，已让不少员工认为这些模型无法安全向公众开放。报道称，能力与管控之间的差距可能放缓行业发展热潮。",
+  "facts": [
+    {
+      "text": "Axios援引二十多名熟悉内部讨论的消息人士称，Anthropic和OpenAI正面临尚未对外发布的模型能力过强、不少员工认为无法安全向公众开放的问题。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/811.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据消息人士称，顶尖人工智能系统的能力与人类管控能力之间的差距持续拉大，很可能大幅放缓人工智能的发展热潮。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/811.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/031/811.htm",
+      "is_primary": false,
+      "published_at": "2026-11-24T19:18:56+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T19:18:56+08:00",
+  "updated_at": "2026-11-24T19:18:56+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "消息称两家公司员工警告内部模型过强难以安全发布",
+  "lead_zh": "IT之家援引Axios报道，二十多名消息人士称，Anthropic和OpenAI内部尚未发布的模型已强到让不少员工认为无法安全向公众开放。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家援引Axios报道，二十多名熟悉内部讨论的消息人士透露，Anthropic和OpenAI正面临一个愈发紧迫的难题：公司内部尚未对外发布的模型能力，已经强到让不少员工认为这些模型无法安全向公众开放。",
+        "报道称，顶尖人工智能系统的能力与人类管控能力之间的差距持续拉大，很可能大幅放缓人工智能的发展热潮。研究人员至今还没有找到管控最强系统的稳妥办法，这一情况也让内部讨论更加焦灼。报道认为，如果最强系统无法被稳妥管控，行业发展热潮可能因此明显放缓。报道还提到，研究人员至今仍未找到管控最强系统的稳妥办法。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "消息怎么说",
+      "paras": [
+        "据这些消息人士称，未发布模型已经让不少员工感到无法安全对外推出。Axios的报道认为，能力与管控之间的差距，可能会明显放缓行业发展节奏。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/e55de085342ce83e4ca94ebdd2c9bae3ca2eea37.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2025/11/49e3c3c3-5ece-4eb9-bb3b-fc680292d666.png?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

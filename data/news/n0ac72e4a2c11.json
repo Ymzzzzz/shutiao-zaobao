@@ -1,0 +1,66 @@
+{
+  "id": "n0ac72e4a2c11",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "东擎发布酷睿Ultra X7物理人工智能开发平台",
+  "original_title": "东擎发布基于英特尔酷睿 Ultra X7 处理器 358H 的整合式物理 AI 开发平台",
+  "summary": "东擎工业宣布与英特尔合作，推出基于酷睿Ultra X7处理器358H的RBK-100开发平台。该方案把东擎NUC BOX-358H迷你主机、RGB-D深度摄像头、六轴主从机械手和开发软件组合在一起。",
+  "facts": [
+    {
+      "text": "东擎与英特尔合作推出基于酷睿Ultra X7处理器358H的整合式物理人工智能开发平台RBK-100。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/880.htm"
+    },
+    {
+      "text": "RBK-100包含东擎NUC BOX-358H迷你主机、RGB-D深度摄像头、六轴主从式机械手及开发软件，定位为盒中机器人方案。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/880.htm"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/031/880.htm",
+      "is_primary": false,
+      "published_at": "2026-11-24T22:15:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T22:15:00+08:00",
+  "updated_at": "2026-11-24T22:15:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "东擎发布酷睿Ultra X7物理人工智能开发平台",
+  "lead_zh": "IT之家报道，东擎与英特尔合作推出基于酷睿Ultra X7处理器358H的整合式物理人工智能开发平台RBK-100，打包迷你主机、深度摄像头和六轴机械手。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "东擎工业宣布与英特尔合作，推出基于酷睿Ultra X7处理器**358H**的整合式物理人工智能开发平台RBK-100。该方案把东擎NUC BOX-358H迷你主机、RGB-D深度摄像头、六轴主从式机械手以及AiRoboStarter等开发软件组合在一起，定位为“盒中机器人”解决方案。",
+        "平台面向物理人工智能和机器人开发场景，试图把计算、感知和机械执行放进一套可直接上手的开发套件中，降低从算法到真机验证的集成成本。该套件面向从算法验证到真机测试的开发流程，把常用硬件预先集成在一起，降低自行拼装的成本。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "官方怎么说",
+      "paras": [
+        "据东擎称，RBK-100是一套整合式物理人工智能开发平台，可与英特尔新处理器搭配，为机器人相关开发提供从主机、深度相机到机械手的一站式硬件组合。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/980dd98379dfa25d350f03421309d8faeced955c.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/507a15d1-d27e-4108-ba77-6f641805891f.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

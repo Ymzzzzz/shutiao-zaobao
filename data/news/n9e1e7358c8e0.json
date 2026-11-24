@@ -1,0 +1,66 @@
+{
+  "id": "n9e1e7358c8e0",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "报道称涉事工程师曾用Codex改装会议录音设备",
+  "original_title": "OpenAI“窃听”案更多细节浮出水面，当事沙特工程师借助 Codex 偷录重要会议",
+  "summary": "《商业内幕》披露，沙特籍OpenAI工程师阿卜杜勒拉赫曼·阿尔福赞曾试图用氛围编程改进秘密录制公司会议的方法，并选用自己熟悉的Codex改装录音设备。该设备与此前在会议室电视后发现的装置属于同一类型。",
+  "facts": [
+    {
+      "text": "《商业内幕》报道，沙特籍OpenAI工程师阿卜杜勒拉赫曼·阿尔福赞曾借助Codex改装录音设备，以改进秘密录制公司会议的方式。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/867.htm"
+    },
+    {
+      "text": "根据OpenAI提供的记录，该设备与该公司此前在一间会议室电视机后发现的装置属于同一类型。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/867.htm"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/031/867.htm",
+      "is_primary": false,
+      "published_at": "2026-11-24T21:11:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T21:11:23+08:00",
+  "updated_at": "2026-11-24T21:11:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称涉事工程师曾用Codex改装会议录音设备",
+  "lead_zh": "IT之家援引《商业内幕》报道，沙特籍OpenAI工程师阿尔福赞曾尝试用自己熟悉的Codex改进秘密录制公司会议的方式，相关设备与此前在会议室电视后发现的装置属于同一类型。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家援引《商业内幕》报道，检方披露，沙特籍OpenAI工程师阿卜杜勒拉赫曼·阿尔福赞曾试图利用氛围编程，改进秘密录制公司会议的方式，并选用自己熟悉的Codex作为工具。他利用OpenAI自家的编程产品改装了一台录音设备。",
+        "根据OpenAI提供的记录，该设备与公司此前在一间会议室电视机后发现的装置属于同一类型。更多关于这起“窃听”案的细节因此被公开。报道披露了更多这起案件的细节，显示涉事工程师曾尝试用公司自己的编程工具改进偷录方式。检方披露的这些细节，进一步勾勒出设备如何被改装、以及它与此前发现装置的关系。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据《商业内幕》称，阿尔福赞不仅使用录音装置，还尝试用Codex改进设备的工作方式。IT之家写道，相关装置与此前在会议室电视后发现的设备属于同一类型。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

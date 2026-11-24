@@ -1,0 +1,61 @@
+{
+  "id": "n71615ee1ebfd",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "新基准显示顶尖AI智能体仍难完成日常任务",
+  "original_title": "Even the best AI agents struggle with everyday life",
+  "summary": "在个人人工智能助手被更广泛使用的同时，TechCrunch援引一项新基准称，即便最先进的模型也难以稳定、安全地完成日常生活中的各项任务，并可能引入新的风险和问题。",
+  "facts": [
+    {
+      "text": "TechCrunch报道称，一项新基准显示，即便最先进的人工智能模型也难以可靠、安全地完成日常任务，还可能带来新的问题。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "is_primary": false,
+      "published_at": "2026-11-25T05:33:29+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T05:33:29+08:00",
+  "updated_at": "2026-11-25T05:33:29+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "新基准显示顶尖AI智能体仍难完成日常任务",
+  "lead_zh": "TechCrunch报道，一项新基准测试显示，即便最先进的人工智能模型，在完成日常任务时仍难以做到可靠、安全，还可能带来新的问题。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch报道，面向日常智能体任务的新基准ShellBench显示，即便来自OpenAI、Anthropic和Meta的最先进模型，失败率也超过三分之一。在所有受测模型中，**15.7%**的尝试至少未满足一项安全要求，并常常带来意外后果。",
+        "该基准由OpenClaw基金会、Parsewave、Hugging Face、红帽和加州大学伯克利分校的研究者合作开发，依据超过**1000万**条匿名真实智能体交互来评估模型在人们实际委派的日常任务中的表现。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "背景补充",
+      "paras": [
+        "报道称，Meta、OpenAI和Anthropic分别以Muse、Dots和Claude Duet竞争个人助手市场。据Meta今年10月称，Muse在美国和加拿大推出六周内已有超过**1000万**人完成设置，其中约四分之一每天使用。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/86f6f8e8e83c029d41599ae25767e41a3b85e0b1.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

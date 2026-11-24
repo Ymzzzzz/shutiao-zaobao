@@ -1,0 +1,66 @@
+{
+  "id": "n8e0bfe81ca55",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌Chrome关闭后仍占内存，Gemini功能被指是原因",
+  "original_title": "谷歌 Chrome 浏览器关闭后仍占用内存，元凶竟是 Gemini 相关功能",
+  "summary": "IT之家称，最近有用户发现关闭Chrome后内存仍被占用，原因被指向内置Gemini相关功能。报道还提到，Edge、Chrome等基于Chromium的浏览器，本地人工智能模型会占用最高20GB磁盘空间。",
+  "facts": [
+    {
+      "text": "有用户发现谷歌Chrome在关闭后仍占用内存，问题被指向内置的Gemini相关功能。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/863.htm"
+    },
+    {
+      "text": "基于Chromium内核的浏览器中，本地人工智能模型会占用最高20GB磁盘空间。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/031/863.htm"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/031/863.htm",
+      "is_primary": false,
+      "published_at": "2026-11-24T20:44:54+08:00"
+    }
+  ],
+  "published_at": "2026-11-24T20:44:54+08:00",
+  "updated_at": "2026-11-24T20:44:54+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌Chrome关闭后仍占内存，Gemini功能被指是原因",
+  "lead_zh": "IT之家报道，有用户发现谷歌Chrome在浏览器关闭后仍占用内存，问题被指向内置的Gemini相关功能；基于Chromium的浏览器本地模型还可能占用最高20GB磁盘空间。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Chrome长期以占用内存著称。谷歌曾在**2022年**的内存节省功能中，为每个标签页加入内存查看工具。IT之家报道，最近有用户发现，浏览器关闭后内存仍被占用，问题被指向内置的Gemini相关功能。",
+        "报道还提到，Edge、Chrome等基于Chromium内核的浏览器，本地人工智能模型会占用最高**20GB**磁盘空间。随着浏览器普遍内置模型，内存和磁盘占用问题也一并被放大。在人工智能功能被内置进浏览器之后，后台占用问题也开始被更多用户注意到。报道把这一现象与浏览器普遍内置本地模型后的资源占用问题联系在一起。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "用户反映",
+      "paras": [
+        "据IT之家称，有用户发现关闭Chrome后内存占用并未结束，原因被指向Gemini相关功能。报道提醒，本地模型不仅占用运行内存，还可能占用可观的磁盘空间。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/20ce3244ad11b4eecf65be5f3b567bc8ea0a4d61.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2025/5/9f70e96a-30dc-4c68-ac9e-6f35276400d2.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

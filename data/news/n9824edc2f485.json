@@ -1,0 +1,113 @@
+{
+  "id": "n9824edc2f485",
+  "category": "AI公司与融资",
+  "importance": 2,
+  "verified": false,
+  "title": "Anthropic股价跌破83美元发行价",
+  "original_title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+  "summary": "Anthropic上市不到一周，股价周二跌破83美元发行价，午间最低见76美元，较周一收盘跌近12%。该公司纳斯达克开盘价为111.50美元。若走势持续疲软，可能影响其他人工智能公司估值和上市前景。",
+  "facts": [
+    {
+      "text": "Anthropic股价周二跌破83美元的IPO发行价，午间最低见76美元，较周一收盘下跌近12%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+    },
+    {
+      "text": "该公司不到一周前在纳斯达克上市，开盘价为每股111.50美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据一些风险投资人和观察人士称，Anthropic上市后的股价表现可能成为公开市场如何给人工智能行业估值的风向标。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "is_primary": false,
+      "published_at": "2026-11-25T02:30:42+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T02:30:42+08:00",
+  "updated_at": "2026-11-25T02:30:42+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic股价跌破83美元发行价",
+  "lead_zh": "TechCrunch报道，Anthropic股价周二午间一度跌至76美元，较周一收盘下跌近12%，并跌破83美元的IPO发行价，可能影响其他人工智能公司估值。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anthropic股价周二跌破**83**美元的IPO发行价，午间最低见**76**美元，较周一收盘下跌近**12%**。该公司不到一周前在纳斯达克上市，开盘价为每股**111.50**美元。跌破发行价通常被视为负面信号，因为承销商一般会把发行价定在预期交易价值之下。",
+        "同一天，英伟达股价午间下跌超过**7%**，吐回了周一黄仁勋复职后涨幅超过**30%**的一部分。人工智能行业正密切关注Anthropic的股价表现，并将其视为观察公开市场如何给这一板块估值的重要参考。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "市场怎么看",
+      "paras": [
+        "据一些风险投资人和观察人士称，Anthropic上市后的股价表现可能成为公开市场如何给人工智能行业估值的风向标。据报道称，若未来数周走势持续疲软，可能给私营创业公司估值以及其他人工智能公司的上市前景带来压力。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/b8bb064ce22d6460bf5712a674603fc5923210a1.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+  "fulltext_status": "ok",
+  "read_minutes": 1,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Marina Temkin",
+    "author_title_zh": "",
+    "published_at": "2026-11-24",
+    "title_en": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "title_zh": "Anthropic 股价跌破发行价，对人工智能初创公司来说是个令人担忧的信号",
+    "dek_en": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "dek_zh": "Anthropic 上市后的股价低迷，可能对人工智能初创公司估值形成压力。",
+    "word_count_zh": 285,
+    "read_minutes": 1,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "Anthropic 的股价跌破了 83 美元的发行价，周二午盘一度低至每股 76 美元，较周一收盘下跌近 12%。",
+        "en": "Anthropic’s stock fell below its IPO price of $83, trading as low as $76 a share by midday Tuesday, down nearly 12% from Monday’s close."
+      },
+      {
+        "t": "p",
+        "zh": "跌破发行价通常被视为负面信号，因为承销商通常会把发行价定在预期交易价值之下的折价水平。",
+        "en": "Falling below the IPO price is often seen as a negative signal because underwriters typically price offerings at a discount to their expected trading value."
+      },
+      {
+        "t": "p",
+        "zh": "人工智能行业一直在密切关注 Anthropic 的股价表现，风险投资人和其他观察人士表示，其表现可能成为公开市场投资者如何给该板块估值的晴雨表。",
+        "en": "The AI industry has been eagerly watching how Anthropic’s shares trade, with VCs and other observers saying its performance could serve as a barometer for how public market investors value the sector."
+      },
+      {
+        "t": "p",
+        "zh": "这次大幅下滑发生在 Anthropic 以每股 111.50 美元登陆纳斯达克后不到一周。如果未来几周股价继续表现不佳，这一跌势可能对私营初创公司估值形成压力，并削弱其他人工智能公司的上市前景。",
+        "en": "The dramatic slump comes less than a week after Anthropic debuted on Nasdaq at $111.50 a share. If its shares continue to trade poorly in the coming weeks, the slide could put pressure on private startup valuations and weaken IPO prospects for other AI companies."
+      },
+      {
+        "t": "p",
+        "zh": "Anthropic 并不是周二唯一下跌的人工智能股票。英伟达午盘跌幅超过 7%，回吐了周一黄仁勋重新出任首席执行官后涨幅超过 30% 的部分涨幅。",
+        "en": "Anthropic isn’t the only AI stock selling off on Tuesday. Nvidia fell more than 7% by midday, giving back some of the more than 30%-plus gain it posted Monday after Jensen Huang was reinstated as CEO."
+      }
+    ]
+  }
+}

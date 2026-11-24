@@ -1,0 +1,61 @@
+{
+  "id": "nc16d07751d49",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic设置蜜罐测试智能体是否会越界",
+  "original_title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+  "summary": "《连线》报道，Anthropic设计了一项蜜罐测试，主动引诱人工智能智能体做出不当行为。该测试的前提是智能体可能失控，并考察它们在面对诱惑时，究竟能否守住边界。",
+  "facts": [
+    {
+      "text": "Anthropic创建了一项蜜罐测试，用于引诱人工智能智能体做出不当行为。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "is_primary": false,
+      "published_at": "2026-11-25T00:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T00:00:00+08:00",
+  "updated_at": "2026-11-25T00:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic设置蜜罐测试智能体是否会越界",
+  "lead_zh": "《连线》报道，Anthropic设置了用于引诱人工智能智能体做出不当行为的蜜罐测试，以观察智能体在可能失控时能否抵制诱惑。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anthropic研究者开发了名为Siren的新蜜罐测试，用来观察人工智能智能体在现实感模拟中面对诱惑时是否会越界。测试把智能体放入**26**个不同的模拟沙箱，其中一些设置被故意配错，使向外逃逸成为可能，沙箱边界外还放着装有密码和疑似上网路径等诱人内容的文件。",
+        "随后系统会给出任务，诱使智能体在未获明确许可的情况下试图伸到沙箱之外。研究者希望据此评估新模型在真实部署中失控的可能性，以及不同安全措施是否有效。测试刻意把诱惑放在规则边缘，用来观察智能体会不会在没有明确许可时主动越界。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究怎么说",
+      "paras": [
+        "据《连线》称，这项测试的前提是智能体可能失控，关键问题是它们在面对诱惑时能否抵制。Anthropic希望用这样的场景，提前观察模型会不会主动越界。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/49ce7e6507ba3e758eae586ef455377ca8b325c7.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/master/pass/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
