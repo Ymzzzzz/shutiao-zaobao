@@ -1,0 +1,67 @@
+{
+  "id": "na9ba02207a16",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "“氛围编程”冲击乐器圈，厂商加速开放固件",
+  "original_title": "Has vibe coding made open source the new normal for synths?",
+  "summary": "随着编程智能体和“逆向任何东西”一类工具普及，乐器设备更容易被改机。The Verge称，部分厂商选择沉默，也有公司转向拥抱改机社区；阿卡伊、穆格等品牌的母公司inMusic表示将向社区提供工具箱。",
+  "facts": [
+    {
+      "text": "编程智能体和逆向工具让乐器设备更容易被改机，部分厂商选择开放固件和工具，罗兰目前保持沉默。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据The Verge称，inMusic首席执行官奥唐奈表示，公司将向社区提供工具箱和产品内部机制，并尽量保留复位功能，让用户试验后还能恢复原有设置。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "is_primary": false,
+      "published_at": "2026-11-25T21:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T21:00:00+08:00",
+  "updated_at": "2026-11-25T21:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "“氛围编程”冲击乐器圈，厂商加速开放固件",
+  "lead_zh": "The Verge报道，强大的编程智能体和逆向工具让乐器厂商面临设备被改机的冲击，包括inMusic在内的部分公司开始向社区开放工具和固件。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge报道，强大的“氛围编程”智能体和“逆向任何东西”一类工具，让乐器设备圈出现改机潮，各厂商正忙着决定如何应对。罗兰目前保持沉默；也有公司选择拥抱改机社区，并在近几周把更多设备开源。其中动作最大的是阿卡伊、穆格、Native Instruments等品牌的母公司inMusic。贝林格也密集宣布多款开源设备，包括售价**150美元**、仿制MPC One的Kick，以及其他控制器和音序器，但尚不清楚这些产品何时上市。",
+        "inMusic已推出软件开发工具包，并开源包括新近预告的MPC Sample Key在内的多款设备。阿卡伊试图在给改机者开放权限的同时，保住专业用户所需的稳定性。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "厂商怎么说",
+      "paras": [
+        "据inMusic首席执行官杰克·奥唐奈对The Verge表示，公司将向社区提供工具箱，并开放诸如MPC或Sample一类产品的内部机制，让人们按自己的想法改造。他还说，公司会尽量给用户一个“复位按钮”，以便他们试验之后，还能回到原来的状态，不至于把现有设置丢掉。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/7a7a09a0b3d1e61d66d6047e568b4cb59eabf4a7.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

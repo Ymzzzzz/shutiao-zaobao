@@ -1,0 +1,67 @@
+{
+  "id": "n500926209d0c",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "商汤开源SenseNova U1.6，实测人像风景更接近实拍",
+  "original_title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+  "summary": "量子位介绍商汤开源的图像生成模型SenseNova U1.6，称其生成的抓拍人像、大头照和风景乍看像摄影作品，生成速度较快，并已在商汤小浣熊、Seko和ComfyUI上线供实测。",
+  "facts": [
+    {
+      "text": "商汤科技开源图像生成模型SenseNova U1.6，并已在商汤小浣熊、Seko和ComfyUI上线。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512748.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据量子位实测称，该模型生成的抓拍人像、大头照和风景乍看接近实拍，生成速度较快，内容和审美表现也较此前有所提升。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512748.html"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512748.html",
+      "is_primary": false,
+      "published_at": "2026-11-26T00:34:09+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T00:34:09+08:00",
+  "updated_at": "2026-11-26T00:34:09+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "商汤开源SenseNova U1.6，实测人像风景更接近实拍",
+  "lead_zh": "量子位评测商汤最新开源的图像生成模型SenseNova U1.6，称其生成的人像和风景更接近实拍质感，已在小浣熊、Seko和ComfyUI上线。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "量子位报道，商汤科技开源了最新图像生成模型SenseNova U1.6，并已在商汤小浣熊、Seko等平台上线，同时上线ComfyUI。文章用多组人像和风景示例展示效果，包括补妆时的抓拍感、移动中对焦人脸，以及社交媒体常见的大头照连拍，并称这些图片均由模型生成。",
+        "随后的评测在小浣熊上进行，作者先尝试从极低机位仰拍的群像和时装场景等较刁钻的角度出图，以观察模型在构图、光影和人物细节上的表现。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "评测怎么说",
+      "paras": [
+        "据量子位作者称，这些图片乍看很像日常摄影甚至出于摄影者之手，人像和风景的自然程度都明显提高。整体体验下来，作者觉得SenseNova U1.6的出图速度很快，在内容准确性和审美方面也较此前更进一步。文章是媒体实测，并不等于官方跑分声明。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

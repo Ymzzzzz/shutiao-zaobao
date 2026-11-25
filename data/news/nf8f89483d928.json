@@ -1,0 +1,56 @@
+{
+  "id": "nf8f89483d928",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达公开Nemotron生图模型权重，部分跑分超GPT Image 2",
+  "original_title": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2",
+  "summary": "IT之家援引Wccftech称，英伟达在Hugging Face公开Nemotron-Labs-Image-30B-A3B权重。该混合专家模型总参数300亿、使用时激活30亿。它在LongTextBench上得97.98，高于GPT Image 2的96.00，但在GenEval2上落后。",
+  "facts": [
+    {
+      "text": "据Wccftech报道，英伟达在Hugging Face公开混合专家生图模型Nemotron-Labs-Image-30B-A3B的权重，总参数300亿，使用时激活30亿。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/032/444.htm"
+    },
+    {
+      "text": "该模型在LongTextBench上得97.98，高于GPT Image 2的96.00；在GenEval上为92.86，对89.00；但在GenEval2和Qwen-Image-Bench上落后。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/032/444.htm"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/032/444.htm",
+      "is_primary": false,
+      "published_at": "2026-11-25T18:37:28+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T18:37:28+08:00",
+  "updated_at": "2026-11-25T18:37:28+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达公开Nemotron生图模型权重，部分跑分超GPT Image 2",
+  "lead_zh": "媒体报道称，英伟达悄悄公开一款总参数300亿、使用时激活30亿的混合专家生图模型权重，部分跑分高于GPT Image 2。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月25日援引Wccftech报道称，英伟达在Hugging Face平台公开了Nemotron-Labs-Image-30B-A3B模型的权重。这是一款自回归图像生成模型，采用混合专家架构，总参数**300亿**，使用时激活**30亿**，对本地硬件更友好。它也是新框架Nemotron-Labs-VisualCreation的核心光栅渲染引擎，该框架提出“像素即代码”，除了生成图片，还用于网页、幻灯片、文档、图表和科学插图等可编辑视觉结果。",
+        "模型基于Nemotron 3 Nano，结合Mamba-2状态空间层与传统注意力机制，并经过渐进式中期训练和组相对策略优化。跑分方面，在考察密集文字生成准确率的LongTextBench上得**97.98**，高于GPT Image 2的**96.00**和Nano Banana Pro的97.60；在GenEval上以**92.86**领先GPT Image 2的89.00，不过在GenEval2上，GPT Image 2以81.00对**65.43**占优，在Qwen-Image-Bench上也领先。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/dbebd95bfbcd5fada58193d6ec4d225b37d6c668.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/64e9948c-2353-448b-8495-d6dbc84df33e.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

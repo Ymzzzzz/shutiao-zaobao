@@ -1,0 +1,67 @@
+{
+  "id": "n3776566b801b",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "观察者称Anthropic内部还有两款更强模型",
+  "original_title": "Anthropic还藏着2个最强模型…",
+  "summary": "量子位援引观察者Chris的说法称，Anthropic内部还有更强模型。独立评估机构METR曾进入公司调查，披露多款内部模型，并估计自2025年10月以来，其综合能力指数增速约为过去的1.9倍，其中约80%来自AI辅助研发。",
+  "facts": [
+    {
+      "text": "独立评估机构METR今年8月至10月进入Anthropic，披露多款内部模型，并估计自2025年10月以来其综合能力指数增速约为过去的1.9倍。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512538.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据行业观察者称，Anthropic内部还有更强模型；METR称AI辅助研发在加速中约占八成，公司也表示已触发负责任扩展政策中的人工智能研发能力阈值。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512538.html"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512538.html",
+      "is_primary": false,
+      "published_at": "2026-11-25T16:23:24+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T16:23:24+08:00",
+  "updated_at": "2026-11-25T16:23:24+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "观察者称Anthropic内部还有两款更强模型",
+  "lead_zh": "量子位援引行业观察者称，Anthropic内部仍有更强模型；METR报告披露多款内部模型，并估计自2025年10月以来其综合能力指数增速约为此前的1.9倍。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "量子位介绍，独立评估机构METR在今年8月至10月进入Anthropic，获得部分内部评测、训练和研发效率数据，并采访了约**15**名员工。报告披露了当时尚未完全公开身份的内部模型：Model 2于**2026年7月**完成训练，Model 3于8月至9月完成训练，Model 4于9月至10月完成训练。其中Model 3后来随**11月9日**发布的Fable 5.2和Mythos 5.2一并浮出水面；数据显示Model 4的内部综合能力指数AECI为**178.6**分，对比Mythos 5.2的177.12分。",
+        "METR估计，自**2025年10月**以来，Anthropic模型AECI的增长速度约为此前的**1.9倍**，相当于用一年走完过去约两年的进度。11月9日发布Fable 5.2时，公司还透露，合并进入核心代码库的改动中，超过**90%**已由Claude编写。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据行业观察者Chris称，Anthropic内部还有两款更强模型，未来半年能力可能再上一个台阶；这属于个人爆料，并非公司官方预告。METR则认为，上述加速并非只靠堆算力，估算AI辅助研发约贡献了**80%**。Anthropic在11月17日的招股文件中表示，公司已认定达到《负责任扩展政策》中的人工智能研发能力阈值，触发条件之一是自动化研发使整体进步速度达到没有显著AI贡献时的约两倍。量子位同时提到，公司上市后第二个交易日股价下跌**8.5%**。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

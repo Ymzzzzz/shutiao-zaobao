@@ -1,0 +1,72 @@
+{
+  "id": "nc2211ba4f6cd",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "纽约签署法案，五年内禁止销售AI聊天玩具",
+  "original_title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+  "summary": "纽约成为继加州之后第二个禁止AI聊天玩具的州。禁令针对内置联网聊天机器人的毛绒玩具、玩偶和机器人，为期五年，签署90天后生效；州政府称违规罚款可达每天1.5万美元。",
+  "facts": [
+    {
+      "text": "纽约州长霍楚尔本周签署法案，禁止在该州制造、分销和销售内置AI聊天机器人的玩具，禁令为期五年，将在签署90天后生效。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+    },
+    {
+      "text": "纽约成为继加州之后第二个禁止此类玩具的州；州政府称违规罚款可达每天1.5万美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据霍楚尔称，家长不应担心被包装成玩具的聊天机器人让孩子接触不当对话、操纵情绪或危及隐私。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "is_primary": false,
+      "published_at": "2026-11-26T02:11:46+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T02:11:46+08:00",
+  "updated_at": "2026-11-26T02:11:46+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "纽约签署法案，五年内禁止销售AI聊天玩具",
+  "lead_zh": "纽约州长霍楚尔本周签署法案，禁止在该州制造、分销和销售内置AI聊天机器人的玩具，禁令为期五年，将在签署90天后生效。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "纽约州长凯西·霍楚尔本周签署法案，禁止在该州制造、分销和销售内置或集成人工智能聊天机器人的玩具，例如依赖互联网与儿童持续对话的毛绒玩具、玩偶和机器人，禁令为期**五年**。纽约因此成为继加州之后第二个出台此类禁令的州。法律将在签署**90天**后生效，因此仍有家长可能赶在假期买到这类产品，但州长呼吁不要购买。",
+        "同期发布的Common Sense Media研究称，大约四分之一家有**8岁**以下孩子的美国家长，已经拥有人工智能玩具，或考虑在这个假期送给孩子。州政府表示将与司法部长合作执法，违规罚款可达每天**1.5万美元**。当被问及亚马逊将如何配合、包括如何约束第三方卖家时，该公司发言人只说会采取措施限制在禁售地区销售此类玩具，没有给出细节。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据霍楚尔称，家长在节日或其他场合买礼物时，不应担心“被包装成玩具的危险聊天机器人”让孩子接触不当对话、操纵情绪或危及隐私，她把这类产品称为“未受监管的人工智能”。Common Sense Media的研究则提示，这类玩具可能给儿童的情感发展带来风险，并让他们接触不适当的内容。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/114939695df49ab9f08fee3502a6c14785859d98.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

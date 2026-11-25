@@ -1,0 +1,72 @@
+{
+  "id": "n4c44ce30146b",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI合并Chat与Work，重度用户或更早碰到额度",
+  "original_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+  "summary": "OpenAI产品负责人蒂博·索蒂奥在X上表示，已开始向一小部分ChatGPT Pro用户推送合并后的Chat与Work体验。公司发言人说，多数用户不会更频繁碰到额度重置，但少部分重度用户可能更早用完。",
+  "facts": [
+    {
+      "text": "OpenAI已开始向一小部分ChatGPT Pro用户推送合并后的Chat与Work界面，产品负责人蒂博·索蒂奥周二在X上确认。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "text": "发言人表示，大多数用户不会更频繁遇到额度重置，但少部分最重度用户可能更早碰到上限；公司计划12月更广泛引入共享额度。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI发言人称，大多数用户预计不会更频繁地遇到使用量重置，但少部分最重度用户可能会更早碰到限额。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "is_primary": false,
+      "published_at": "2026-11-26T04:03:27+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T04:03:27+08:00",
+  "updated_at": "2026-11-26T04:03:27+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI合并Chat与Work，重度用户或更早碰到额度",
+  "lead_zh": "OpenAI开始向部分ChatGPT Pro用户推出合并后的Chat与Work界面，发言人表示大多数用户不会更频繁重置额度，但少部分重度用户可能更早用完。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI开始把ChatGPT里的对话体验和工作体验合并到同一界面，并已向一小部分Pro订阅用户推送。产品负责人蒂博·索蒂奥周二在社交媒体X上确认了这一小范围上线，此前公司已通过电子邮件向用户预告合并。部分订阅者担心，合并后自己的用量会受到更多限制。",
+        "公司还计划在**12月**更广泛引入共享使用额度。文章提到，竞争对手Anthropic已在**9月**把对话服务Claude与面向工作的Cowork放到同一界面下。这次调整出现在人工智能公司面临基础设施成本上升、对更强模型需求增加，从而给算力资源带来压力的背景下。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据OpenAI发言人对TechCrunch表示，大多数用户预计不会更频繁地遇到使用量重置，但少部分最重度用户可能会更早碰到限额。这也是一些订阅者在社交媒体和用户社区里提出的主要担心之一。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/cba6b7779fc2dd5bea5bf1299773b5a4d2ae94b3.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

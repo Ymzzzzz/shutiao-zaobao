@@ -1,0 +1,67 @@
+{
+  "id": "n7b7cb44d5be8",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "研讨认为战时针对数据中心的军事打击不会停止",
+  "original_title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+  "summary": "Ars Technica与英国皇家联合军种研究所的贾内茨基讨论战时云设施安全。今年中东战事中，亚马逊数据中心首次遭到军事打击，俄乌也以无人机互袭对方数据中心，显示公共云正被当作军事目标。",
+  "facts": [
+    {
+      "text": "Ars Technica举办讨论指出，今年中东战事中亚马逊数据中心首次遭到军事打击，俄乌也以无人机频繁互袭对方数据中心。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据英国皇家联合军种研究所的贾内茨基称，公共云数据中心因具有军民两用性质，在2026年伊朗战争和俄罗斯全面入侵乌克兰期间，越来越多地成为军事目标。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+      "is_primary": false,
+      "published_at": "2026-11-26T00:47:14+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T00:47:14+08:00",
+  "updated_at": "2026-11-26T00:47:14+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "研讨认为战时针对数据中心的军事打击不会停止",
+  "lead_zh": "Ars Technica举办讨论指出，今年中东战事中亚马逊数据中心首次遭到军事打击，俄乌也频繁互袭对方数据中心，军方有持续把云设施当作目标的理由。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "今年中东战事中，亚马逊数据中心首次遭到军事打击；与此同时，俄罗斯和乌克兰也以前所未有的密度，用无人机互袭对方的数据中心。为讨论这类打击对现代社会所依赖的云服务意味着什么，Ars Technica举办了线上交流，由该媒体记者徐杰里米对话英国皇家联合军种研究所的约瑟夫·贾内茨基。",
+        "讨论的背景是，公共云不仅服务企业与民众，也越来越多地支撑政府与军事活动。文章标题即指出，不要指望战时针对数据中心的军事攻击会停下来，因为军方把这些设施视为有价值的目标，有持续打击的理由。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "讨论中怎么说",
+      "paras": [
+        "据贾内茨基称，在2026年伊朗战争以及俄罗斯对乌克兰的全面入侵中，人们愈发承认一个事实：公共云数据中心具有军民两用性质，因而更容易成为战时目标。他认为，军方打击数据中心和云设施的理由有很多，这类攻击不太可能只是短期现象。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/9d1fac1a7f7f3261af3a7ade62536b219f2b8d7b.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

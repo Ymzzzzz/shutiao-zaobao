@@ -1,0 +1,51 @@
+{
+  "id": "ncf92346a7f78",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "用分形边界动态生成权重，存储可固定为24字节",
+  "original_title": "Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics",
+  "summary": "论文提出分形神经合成方法，不再把隐藏层权重存成随参数量线性增大的张量，而是用靠近复二次分岔边界的24字节坐标种子按程序生成权重，面向存储受限的边缘微控制器作了系统评估。",
+  "facts": [
+    {
+      "text": "论文提出分形神经合成方法，用靠近复二次分岔边界、长度为24字节的坐标种子生成隐藏层权重，替代随参数量线性增长的显式张量存储。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.32393"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.32393",
+      "is_primary": true,
+      "published_at": "2026-11-25T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T08:00:00+08:00",
+  "updated_at": "2026-11-25T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "用分形边界动态生成权重，存储可固定为24字节",
+  "lead_zh": "一篇论文提出分形神经合成方法，用靠近复二次分岔边界的24字节坐标种子生成隐藏层权重，以降低边缘微控制器上随参数量线性增长的存储占用。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文写了什么",
+      "paras": [
+        "这篇提交到 Hugging Face Daily Papers 的论文指出，传统神经网络把突触参数存成显式张量，持久存储占用会随参数量线性增长，限制了存储紧张的边缘微控制器。作者提出分形神经合成方法，用靠近复二次映射分岔边界、长度为**24字节**的坐标种子，按程序生成隐藏层权重，使这部分存储不再随参数量增加。",
+        "方法在复平面上的二次迭代附近放置种子，并引入大逃逸半径的平滑逃逸核，以及四种几乎不增加额外开销的几何采样孔径，包括笛卡尔网格、互素的三分法取样、黄金角螺旋等。论文称对这些设计做了系统评估，目标是在资源受限的边缘设备上，用恒定存储推导出可用的网络权重。种子被放在复二次迭代的分岔边界附近，以便用固定长度的坐标推导出可用权重。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/e1793ac1e14b687dec49219afaa99aef9a41e30e.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.32393.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

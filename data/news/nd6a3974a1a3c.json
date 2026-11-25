@@ -1,0 +1,67 @@
+{
+  "id": "nd6a3974a1a3c",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "耶鲁教授称英伟达是美国工业力量的“损害”而非标杆",
+  "original_title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+  "summary": "耶鲁大学教授索南菲尔德批评市场欢呼黄仁勋回归，称英伟达是美国全球工业力量的“损害”而非标杆。他认为董事会在调查仍进行时让黄仁勋回到董事会，可能面临高额个人法律责任。",
+  "facts": [
+    {
+      "text": "耶鲁大学教授杰弗里·索南菲尔德批评市场欢呼黄仁勋回归，称英伟达是美国全球工业力量的“损害”而非标杆。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据索南菲尔德称，董事会在调查仍进行时让黄仁勋回到董事会，可能面临很高的个人法律责任。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "is_primary": false,
+      "published_at": "2026-11-25T08:12:02+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T08:12:02+08:00",
+  "updated_at": "2026-11-25T08:12:02+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "耶鲁教授称英伟达是美国工业力量的“损害”而非标杆",
+  "lead_zh": "耶鲁大学的杰弗里·索南菲尔德认为，市场欢呼黄仁勋回归可能是个错误，并称英伟达在先进芯片流入对手手中一事上是美国全球工业力量的“损害”。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "投资者周一为黄仁勋重返英伟达首席执行官职位而欢呼，但耶鲁大学著名商学教授杰弗里·索南菲尔德认为，这可能是在庆祝一个错误。他把英伟达称作美国全球工业力量的“损害”，而不是美国产业的标杆，理由是先进芯片仍流入对手手中，而风险正处在高位。英伟达董事长上周还曾基本排除黄仁勋回归，随后副总统万斯等人在周末密集致电，特朗普也亲自向董事会力挺，黄仁勋才得以重返。特朗普周一对CNBC说：“这是我促成的交易。”",
+        "与此同时，针对董事的法律行动已经开始：一起潜在集体诉讼几乎立刻提交，数天后又出现股东派生诉讼，指控董事会忽视了有关黄仁勋与疑似中国间谍爱丽丝·黄关系的警示信号。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据索南菲尔德称，那些在调查仍进行时同意让黄仁勋回归、甚至重回董事会的董事，现在可能面临“历史级别的个人法律责任”。他也把Anthropic股价下跌与中国开源模型被认为在某种程度上复制了美国实验室成果联系起来，并指出英伟达一直坚称走私是“非因素”。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/e63002ed73666b89d613d3810300b2ada1c2bd2e.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

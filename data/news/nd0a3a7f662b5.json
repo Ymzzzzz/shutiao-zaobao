@@ -1,0 +1,338 @@
+{
+  "id": "nd0a3a7f662b5",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "IBM用CUGA打造印度语言农业语音助手",
+  "original_title": "An Indic Voice Agent with CUGA",
+  "summary": "IBM研究院用开源框架CUGA做了一个农业语音助手：农民可用印地语等语言口头提问，系统检索154页英文手册，只用手册内容以提问语言回答两到四句，并展示来源页面。",
+  "facts": [
+    {
+      "text": "IBM研究院基于开源智能体框架CUGA做了一个农业语音助手，可把口头提问转成文字，检索154页英文农技手册，并用提问语言回答两到四句。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+    },
+    {
+      "text": "CUGA是IBM研究院的开源智能体框架，可在watsonx和OpenAI等模型之间切换，并在本地解析、切分和检索PDF。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据作者称，最大难点不是语音，而是跨语言检索：若仍用仅支持英语的嵌入模型，印地语或泰米尔语提问会找到不相关段落，模型又因被要求只根据检索结果作答而表示手册未覆盖该问题。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "is_primary": true,
+      "published_at": "2026-11-25T18:22:09+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T18:22:09+08:00",
+  "updated_at": "2026-11-25T18:22:09+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "IBM用CUGA打造印度语言农业语音助手",
+  "lead_zh": "IBM研究院基于开源智能体框架CUGA构建语音助手，农民可用印地语等语言提问，系统检索154页英文农技手册，再用提问语言作答并展示出处页。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IBM研究院在Hugging Face发文，介绍基于开源智能体框架CUGA搭建的印度语言语音助手。使用场景是农业助理：农民用印地语、泰米尔语、泰卢固语、古吉拉特语或马拉地语等口头提问，例如如何区分好坏种子。系统先把语音转成文字，再检索一本**154页**的英文农技手册，只用手册里的内容，以提问所用语言回答两到四句，并朗读出来、展示来源页，以便核对。若有人问起板球或编程，助手会把话题引回农业，而不是编造答案。",
+        "CUGA（ConfigUrable Generalist Agent）是IBM研究院的开源智能体框架，负责模型接入、工具、状态和护栏。演示里可在watsonx和OpenAI之间切换，并在本地解析、切分和检索PDF；每次提问使用独立会话，避免不同用户的语言或上下文串扰。语音被做成文本进出之外的薄层，可先用纯文本开发和测试，再接上语音。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "据作者称，难点不在加语音，而在跨语言检索：CUGA默认嵌入模型只处理英语，印地语或泰米尔语提问仍会返回五条结果，但往往不是正确段落，模型又因被要求只根据给定内容作答，会表示“手册没有写到这一点”。他们改用多语言嵌入模型intfloat/multilingual-e5-large后，同一份英文文档便可服务多种语言。作者建议，调提示词之前，先用非英语问一句，确认系统能否找到正确页面。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/3ef33f08a6f9e25dd2eabe6bc21778d49b7c6107.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png",
+  "fulltext_status": "ok",
+  "read_minutes": 6,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-25",
+    "title_en": "An Indic Voice Agent with CUGA",
+    "title_zh": "IBM用CUGA打造印度语言农业语音助手",
+    "dek_en": "A Blog post by IBM Research on Hugging Face",
+    "dek_zh": "IBM研究院发布在Hugging Face上的一篇博客",
+    "word_count_zh": 2256,
+    "read_minutes": 6,
+    "omitted_note": "原文另有 1 段代码，未收录",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "大多数有用的知识是用英语书写并数字化的。大多数需要这些知识的人，却用自己的地区语言说话和思考，例如印地语、泰米尔语、泰卢固语、古吉拉特语、马拉地语以及许多其他语言。许多人更愿意开口说，而不是打字。",
+        "en": "Most useful knowledge is written and digitized in English. Most of the people who need it speak, and think, in their own regional languages like Hindi, Tamil, Telugu, Gujarati, Marathi and many others. Many would rather talk than type."
+      },
+      {
+        "t": "p",
+        "zh": "我们用CUGA作为智能体框架，做了一个小型语音智能体来弥合这一差距。这篇文章说明了应用场景以及我们学到了什么。你可以在CUGA Apps里亲自试用。",
+        "en": "We built a small voice agent to close that gap, using CUGA as the agent harness. This post explains the use case and what we learned. You can try it yourself in CUGA Apps."
+      },
+      {
+        "t": "h",
+        "zh": "应用场景：农业助手",
+        "en": "The use case: a Farm Assistant"
+      },
+      {
+        "t": "p",
+        "zh": "一位农民用自己的语言大声提问：怎样区分好种子和坏种子？该智能体会：",
+        "en": "A farmer asks a question aloud, in their own language: how do I tell good seed from bad? The agent:"
+      },
+      {
+        "t": "p",
+        "zh": "• 倾听并把语音转成文字。",
+        "en": "• Listens and turns the speech into text."
+      },
+      {
+        "t": "p",
+        "zh": "• 检索一本154页、用英语写成的农业手册。",
+        "en": "• Searches a 154-page agricultural handbook, which is written in English."
+      },
+      {
+        "t": "p",
+        "zh": "• 只用手册里的内容，用提问所用的语言，以两到四句口头句子作答。",
+        "en": "• Answers in two to four spoken sentences, in the language the question was asked in, using only what the handbook says."
+      },
+      {
+        "t": "p",
+        "zh": "• 把答案说出来，并展示来源页码，以便核对答案。",
+        "en": "• Speaks the answer back and shows the source pages, so the answer can be checked."
+      },
+      {
+        "t": "p",
+        "zh": "如果有人问起板球或编程，它会礼貌地把对方引回农业话题，而不是编造答案。",
+        "en": "If someone asks about cricket or coding, it politely steers them back to farming instead of making something up."
+      },
+      {
+        "t": "h",
+        "zh": "CUGA用在何处",
+        "en": "Where CUGA fits"
+      },
+      {
+        "t": "p",
+        "zh": "CUGA（ConfigUrable Generalist Agent，可配置通用智能体）是IBM研究院的开源智能体框架。它负责模型连接、工具管理、状态和护栏，因此你只需编写工具和提示词，而不必编写智能体循环。在这里，我们把它作为嵌入式SDK用在一个小型网络应用中，做三件事：",
+        "en": "CUGA (ConfigUrable Generalist Agent) is IBM Research's open-source agent harness. It handles the model wiring, tool management, state and guardrails, so you write tools and a prompt instead of the agent loop. Here we use it as an embedded SDK inside a small web app, for three things:"
+      },
+      {
+        "t": "p",
+        "zh": "• 一个智能体，任意模型。只需改一个设置，就可以在watsonx和OpenAI之间切换。",
+        "en": "• One agent, any model. Switch between watsonx and OpenAI with one setting."
+      },
+      {
+        "t": "p",
+        "zh": "• 知识引擎。解析PDF、分块、做嵌入，并用agent.knowledge.search()在本地检索。",
+        "en": "• The knowledge engine. Parse a PDF, chunk it, embed it, and search it locally with agent.knowledge.search()."
+      },
+      {
+        "t": "p",
+        "zh": "• 会话线程。每个问题都使用新的线程，这样一个人的语言或上下文不会泄漏到另一个人那里。",
+        "en": "• Conversation threads. Each question gets a fresh thread, so one person's language or context never leaks into another's."
+      },
+      {
+        "t": "p",
+        "zh": "关键的设计想法很简单：CUGA是一个文本输入、文本输出的大脑。语音则是包在它外面的两层薄封装。",
+        "en": "The key design idea is simple: CUGA is a text-in, text-out brain. Voice is two thin layers around it."
+      },
+      {
+        "t": "p",
+        "zh": "因为智能体看到的始终只有文本，你可以先用纯文本构建和测试，然后再加上“耳朵”和“嘴巴”。你也可以在不动智能体的情况下更换语音服务提供方。我们支持两种：Sarvam AI的云端语音API，由用户浏览器直接调用；以及在你自己的服务器上运行的开源模型（语音转文字用SraVaani，文字转语音用Svara）。",
+        "en": "Because the agent only ever sees text, you can build and test it with plain text first, then add the ears and the mouth. You can also swap speech providers without touching the agent. We support two: Sarvam AI's cloud speech APIs, called directly from the user's browser, and open-source models (SraVaani for speech-to-text, Svara for text-to-speech) running on your own server."
+      },
+      {
+        "t": "h",
+        "zh": "难点不在语音",
+        "en": "The hard part is not the voice"
+      },
+      {
+        "t": "p",
+        "zh": "加上语音是容易的部分。难点在于跨语言检索：一个印地语问题必须找到一段英语段落。",
+        "en": "Adding speech is the easy part. The hard part is cross-lingual retrieval: a Hindi question has to find an English paragraph."
+      },
+      {
+        "t": "p",
+        "zh": "检索的做法是把文本转成向量，再找出最接近的向量。CUGA默认的嵌入模型只支持英语，因此它会把印地语转成几乎没有意义的向量。用这个模型时，印地语或泰米尔语问题仍会检索到五段文字，但它们是错的。模型被正确地告知只能根据所给内容作答，于是便悄悄地说“手册里没有讲这个”。每一层都表现正确，因此既没有报错，也没有警告。",
+        "en": "Search works by turning text into vectors and finding the nearest ones. CUGA's default embedding model is English-only, so it turns Hindi into vectors that carry almost no meaning. With it, a Hindi or Tamil question still retrieves five passages, but they are the wrong ones. The model, correctly told to answer only from what it was given, quietly says \"the handbook doesn't cover that\". Every layer behaves correctly, so there is no error and no warning."
+      },
+      {
+        "t": "p",
+        "zh": "解决办法是使用多语言嵌入模型（我们使用intfloat/multilingual-e5-large），这样无论是哪种语言，相同的含义都会落到相同的位置。概念上很简单，不过把它接入CUGA需要一个小的变通办法（教程中有展示）。之后，一份英语文档就可以服务所有语言，不再需要任何译文副本。",
+        "en": "The fix is to use a multilingual embedding model (we use intfloat/multilingual-e5-large), so the same meaning lands in the same place whatever the language. Conceptually simple, though wiring it into CUGA took a small workaround (shown in the tutorial). After that, one English document serves every language, and you do not need translated copies of anything."
+      },
+      {
+        "t": "p",
+        "zh": "我们的建议是：在你还没有调整任何一条提示词之前，先用非英语向你的智能体提一个问题，并检查它是否找到了正确的页面。",
+        "en": "Our advice: before you tune a single prompt, ask your agent one question in a non-English language and check that it finds the right pages."
+      },
+      {
+        "t": "h",
+        "zh": "让它听起来得体，并保持安全",
+        "en": "Making it sound right and keeping it safe"
+      },
+      {
+        "t": "p",
+        "zh": "有几个小决定，其重要性超出了我们的预期：",
+        "en": "A few small decisions mattered more than we expected:"
+      },
+      {
+        "t": "p",
+        "zh": "• 为耳朵而写。Markdown、项目符号、引用标签，以及“millet (बाजरा)”这类括号里的译文，朗读起来都会显得别扭。提示词要求模型不要生成这些内容，一层轻量格式化器还会在转成语音前去掉漏网的部分。",
+        "en": "• Write for the ear. Markdown, bullet points, citation tags and bracketed translations such as \"millet (बाजरा)\" all sound wrong when read aloud. The prompt asks the model not to produce them, and a light formatter strips any that slip through before speech."
+      },
+      {
+        "t": "p",
+        "zh": "• 让护栏保持低成本。简单的输入检查可以拦住明显跑题的问题。如果有问题漏了过去，模型会以OFF_TOPIC开头作答，应用再换成一句礼貌的引导。无需第二次调用大语言模型，因此语音路径保持快速。",
+        "en": "• Keep guardrails cheap. Simple input checks catch obvious off-topic questions. If one gets through, the model starts its reply with OFF_TOPIC, and the app swaps in a polite redirect. No second LLM call, so the voice path stays fast."
+      },
+      {
+        "t": "p",
+        "zh": "• 让每个答案都有依据。模型只能看到检索到的段落，并被要求不得使用外部知识，同时将来源页码展示给用户。",
+        "en": "• Ground every answer. The model sees only the retrieved passages, is told not to use outside knowledge, and the page sources are shown to the user."
+      },
+      {
+        "t": "p",
+        "zh": "• 不要把密钥放在服务器上。选择Sarvam方案时，浏览器直接与Sarvam通信。服务器只接收文本，永远看不到用户的密钥。",
+        "en": "• Keep keys out of the server. With the Sarvam option, the browser talks to Sarvam directly. The server receives only text and never sees the user's key."
+      },
+      {
+        "t": "h",
+        "zh": "试用一下",
+        "en": "Try it"
+      },
+      {
+        "t": "p",
+        "zh": "你不必做任何设置就能看到它运行。打开Hugging Face Spaces上CUGA Apps中的语音智能体，用你的语言问一个农业问题，然后听它的回答：",
+        "en": "You do not need to set anything up to see it work. Open the voice agent in CUGA Apps on Hugging Face Spaces, ask a farming question in your language, and listen to the answer:"
+      },
+      {
+        "t": "p",
+        "zh": "Hugging Face上的CUGA Apps →",
+        "en": "CUGA Apps on Hugging Face →"
+      },
+      {
+        "t": "p",
+        "zh": "想自己做一个？我们的分步教程Build an Indic Voice Agent with CUGA，从空文件夹开始，再依次加上每一层。",
+        "en": "Want to build one yourself? Our step-by-step tutorial, Build an Indic Voice Agent with CUGA, starts from an empty folder and adds each layer in turn."
+      },
+      {
+        "t": "h",
+        "zh": "超越农业：为Bharat规模化",
+        "en": "Beyond farming: Scaling for Bharat"
+      },
+      {
+        "t": "p",
+        "zh": "这里没有任何内容是农业所特有的。把手册换成政策方案文件、健康建议或法律指南，你就得到了另一种助手。更换语音服务提供方，就可以改变部署模式，例如用云端求速度，或用本地部署求数据主权，而无需重写智能体。",
+        "en": "Nothing here is specific to agriculture. Swap the handbook for scheme documents, health advisories, or legal guides, and you have a different assistant. Swap the speech provider and you change the deployment model, such as cloud for speed or on-premises for data sovereignty, without rewriting the agent."
+      },
+      {
+        "t": "p",
+        "zh": "语音优先、多语言的助手，是数字服务触达那些从未被纯英文文本界面好好服务过的人群的方式。把它们建立在开放、可审计的框架上，并使答案与人们可以核对的来源绑定，就是它们赢得信任的方式。",
+        "en": "Voice-first, multilingual assistants are how digital services can reach people who were never served well by English-only text screens. Building them on an open, auditable harness, with answers tied to sources people can check, is how they earn trust."
+      },
+      {
+        "t": "p",
+        "zh": "这种方法恰好位于我们正在用IBM Bharat Core建设的交叉点上。Bharat Core是建立在IBM Sovereign Core之上的优化人工智能技术栈，专门为印度生态系统设计，以便在本地基础设施上安全运行印度语言人工智能工作负载。当把语音智能体从原型扩展为安全的企业应用（例如本地语言KYC系统或多语言政府机器人）时，你需要对数据主权有更大的控制。把CUGA灵活的智能体框架与Bharat Core可随时部署的印度语言连接器和微调模型结合起来，开发者就可以构建完全合规、主权自主、并针对印度独特语言多样性量身打造的人工智能方案。",
+        "en": "This approach sits precisely at the intersection of what we are building with IBM Bharat Core. Bharat Core is an optimized AI stack built on top of IBM Sovereign Core, designed specifically for the Indian ecosystem to run Indic AI workloads securely on local infrastructure. When scaling a voice agent from a prototype to a secure enterprise application (like a vernacular KYC system or multilingual government bot), you need greater control over data sovereignty. By pairing CUGA’s flexible agent harness with Bharat Core’s ready-to-deploy Indic connectors and fine-tuned models, developers can build fully compliant, sovereign AI solutions tailored to India's unique linguistic diversity."
+      },
+      {
+        "t": "p",
+        "zh": "如果你正在为印度做大规模建设，可以看看IBM Bharat Core正在进行的工作。",
+        "en": "If you are building for India at scale, see the work happening at IBM Bharat Core."
+      },
+      {
+        "t": "h",
+        "zh": "了解更多关于CUGA的信息",
+        "en": "Learn more about CUGA"
+      },
+      {
+        "t": "p",
+        "zh": "刚接触CUGA？可以从这些地方开始：",
+        "en": "New to CUGA? Here are some places to start:"
+      },
+      {
+        "t": "p",
+        "zh": "• cuga.dev：CUGA主页。",
+        "en": "• cuga.dev: the CUGA home page."
+      },
+      {
+        "t": "p",
+        "zh": "• GitHub上的CUGA：开源框架（Apache 2.0）。可以给它加星、提交问题，或认领一个适合入门的issue。",
+        "en": "• CUGA on GitHub: the open-source harness (Apache 2.0). Star it, file issues, or pick up a good first issue."
+      },
+      {
+        "t": "p",
+        "zh": "• CUGA文档：安装设置、SDK、知识、策略和配置。",
+        "en": "• CUGA documentation: setup, the SDK, knowledge, policies and configuration."
+      },
+      {
+        "t": "p",
+        "zh": "• GitHub上的CUGA Apps展览：Hugging Face Space中这些应用的源代码。",
+        "en": "• CUGA Apps gallery on GitHub: the source for the apps in the Hugging Face Space."
+      },
+      {
+        "t": "p",
+        "zh": "可以在浏览器里试用的Spaces：",
+        "en": "Spaces you can try in your browser:"
+      },
+      {
+        "t": "p",
+        "zh": "• CUGA Agent：通用智能体，运行在一个演示用的CRM场景上。",
+        "en": "• CUGA Agent: the general-purpose agent, running on a demo CRM scenario."
+      },
+      {
+        "t": "p",
+        "zh": "• CUGA Apps：从一个控制台启动可运行的CUGA应用。",
+        "en": "• CUGA Apps: launch working CUGA apps from one dashboard."
+      },
+      {
+        "t": "p",
+        "zh": "• CUGA Policy Playground：两个实时智能体并排运行，一个有策略，一个没有。",
+        "en": "• CUGA Policy Playground: two live agents side by side, one with policies and one without."
+      },
+      {
+        "t": "p",
+        "zh": "Hugging Face博客上更多关于CUGA的文章：",
+        "en": "More CUGA posts on the Hugging Face blog:"
+      },
+      {
+        "t": "p",
+        "zh": "• CUGA on Hugging Face: Democratizing Configurable AI Agents：介绍CUGA及其可配置推理模式。",
+        "en": "• CUGA on Hugging Face: Democratizing Configurable AI Agents: the introduction to CUGA and its configurable reasoning modes."
+      },
+      {
+        "t": "p",
+        "zh": "• Build real agentic apps using CUGA：在轻量框架上的二十多个可运行示例，也就是这个语音智能体所属的应用展览。",
+        "en": "• Build real agentic apps using CUGA: two dozen working examples on a lightweight harness: the app gallery this voice agent belongs to."
+      },
+      {
+        "t": "p",
+        "zh": "• Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?：在模型保持不变时，框架究竟有多重要。",
+        "en": "• Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?: how much the harness matters when the model stays the same."
+      }
+    ]
+  }
+}

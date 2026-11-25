@@ -1,0 +1,72 @@
+{
+  "id": "n7bb959aaf52e",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "谷歌专利设想用AI生成个性化视频频道",
+  "original_title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+  "summary": "谷歌去年申请的“My Channel”专利描述，根据用户人口统计和观看历史自动生成提示词，再由大模型生成个性化AI视频和广告。The Verge称该专利目前已被驳回，但谷歌仍可能上诉或修改后再提交。",
+  "facts": [
+    {
+      "text": "谷歌去年申请的“My Channel”专利描述根据用户人口统计和观看历史生成提示词，再用大模型生成个性化AI视频和广告。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+    },
+    {
+      "text": "该专利目前已被驳回，但报道称谷歌仍可能上诉或修改后再次提交。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+    }
+  ],
+  "claims": [],
+  "analysis": [
+    {
+      "text": "The Verge认为，即便专利被驳回，这种用个人信息批量生成视频和广告的设想，仍描绘出令人不安的娱乐业未来。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "is_primary": false,
+      "published_at": "2026-11-26T05:51:26+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T05:51:26+08:00",
+  "updated_at": "2026-11-26T05:51:26+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌专利设想用AI生成个性化视频频道",
+  "lead_zh": "The Verge报道，谷歌去年申请的“My Channel”专利描述根据用户人口统计和观看历史，用大模型生成个性化AI视频和广告，该专利目前已被驳回。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge报道，谷歌去年申请了一项名为“My Channel”的专利，系统设计用于根据公司掌握的用户信息，生成充满个性化人工智能视频和广告的信息流。专利描述会利用用户的人口统计数据和观看历史，自动写出提示词，再送入大模型，生成符合其兴趣的视频。该专利于去年5月提交，上周公开，并最早由Patentlyze发现。",
+        "报道称，这项专利目前已被驳回。作者同时指出，谷歌仍可能上诉，或提交修改后的版本，因此类似产品仍有进入市场的可能。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "The Verge把这项专利看作对娱乐业未来的暗淡想象：信息流里的内容不再主要来自创作者，而是由平台根据它所掌握的用户数据，用模型批量生成视频和广告。文章认为，即便眼下申请未获通过，这种把观看历史直接变成定制影像和推销的思路，仍然值得警惕。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/cec1748af4d86b5339b01ceb4dbe6a60ce0aa0dd.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

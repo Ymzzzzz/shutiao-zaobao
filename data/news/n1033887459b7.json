@@ -1,0 +1,67 @@
+{
+  "id": "n1033887459b7",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "飞机颠簸极难预报，机器学习开始带来新进展",
+  "original_title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+  "summary": "《连线》写道，湍流仍常被称为经典物理中最难的遗留问题，达芬奇早在16世纪初就开始观察涡流。如今研究人员正把海量众包数据与新的机器学习方法结合起来，希望让飞机颠簸变得更容易预报。",
+  "facts": [
+    {
+      "text": "《连线》报道，湍流仍常被称为经典物理中最难的遗留问题之一，眼下正有多项基于数据的努力，试图更好地预测和避开飞行颠簸。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据WIRED称，密歇根州立大学教授穆里略把湍流称为经典物理中最难的遗留问题之一，也是飞行必须面对的问题。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "is_primary": false,
+      "published_at": "2026-11-25T19:30:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T19:30:00+08:00",
+  "updated_at": "2026-11-25T19:30:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "飞机颠簸极难预报，机器学习开始带来新进展",
+  "lead_zh": "《连线》报道，湍流仍被视为经典物理中最难的遗留问题之一，眼下正借助海量众包数据和新的机器学习方法，提升飞行颠簸的预测能力。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《连线》回顾，早在16世纪初，达芬奇就开始观察水中混乱的涡流，并留下大量绘图。几百年后，尽管已经有聊天机器人和自动驾驶汽车，人们仍不能准确说明湍流如何产生。文章指出，眼下出现一批基于数据的努力，希望更好地预测和避开飞行颠簸，让旅客更接近平稳飞行。",
+        "国际航空运输协会的数据称，一架飞机的发动机在一小时商业飞行中可产生**20TB**数据；飞行中还会广播全球定位位置、高度和速度等信息。机上的“电子飞行包”相当于专用平板，可在网络允许时传输导航和手册信息，卫星则在收集这些数据。美国国家科学基金会国家大气研究中心的物理学家拉里·科恩曼指出，空中交通量上升的同时，通信和机载计算成本在下降，这为用新方法处理颠簸数据创造了条件。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究者怎么说",
+      "paras": [
+        "据密歇根州立大学理论与计算物理学教授迈克尔·穆里略称，湍流是“经典物理中最难的遗留问题”，也是飞行必须穿过的问题。文章把它与达芬奇时代以来一直未完全解开的流体紊乱现象联系起来，并关注机器学习能否让预报变得更可用。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/3e333a2d0048d8aca54b244d2664fef6f6aca813.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

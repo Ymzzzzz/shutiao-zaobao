@@ -1,0 +1,57 @@
+{
+  "id": "n9d82d1ca4c6f",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "SpatialArena用统一规则评测几何基础模型",
+  "original_title": "SpatialArena: Where Do Geometric Foundation Models Stand?",
+  "summary": "作者认为现有几何模型分数难以横向比较，因为取帧、分辨率和划分不统一，对齐方式也会显著改变误差。SpatialArena用同一规则评测52个模型，覆盖5项任务和约41.9万张图像。",
+  "facts": [
+    {
+      "text": "SpatialArena用同一套指标和稳健对齐评测52个几何模型，覆盖5项任务、23个公开数据集和418929张图像。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.32816"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据作者称，现有公开数字难以比较，因为取帧、分辨率和测试划分不统一；错误的深度对齐几乎会让误差扩大到三倍，常用轨迹对齐最多会把失败方法的误差低估2.6倍。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.32816"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.32816",
+      "is_primary": true,
+      "published_at": "2026-11-25T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T08:00:00+08:00",
+  "updated_at": "2026-11-25T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "SpatialArena用统一规则评测几何基础模型",
+  "lead_zh": "论文发布开放评测平台SpatialArena，用同一套指标和稳健对齐评测52个几何模型，覆盖5项任务、23个公开数据集和约41.9万张图像。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文写了什么",
+      "paras": [
+        "三维感知正从任务专用流程转向几何基础模型，包括单目深度网络、前馈三维或四维重建模型，以及预测几何的视觉语言模型。论文认为，现有公开数字很难横向比较，因为各篇文章取帧、设定分辨率和选择测试划分的方式不同；对齐方式也会明显改变误差：在错误的空间里拟合深度，误差几乎会扩大到三倍，而常用的轨迹对齐最多会把失败方法的误差低估**2.6倍**。现有评测还很少覆盖长录像、动态场景或航拍视角。",
+        "为此，作者发布开放评测平台SpatialArena，用同一套指标和更稳健、可复现的对齐规则打分。它覆盖从单目深度到即时定位与地图构建等**5**项任务，包含**23**个公开数据集、共**418929**张图像，场景类型包括室内、室外、航拍、物体中心和动态场景，并附带作者自行采集、带有精确位姿和深度的数据。他们对**52**个模型的评测发现，单图深度在公开基准上已接近饱和，但在更大、更不受控的场景上并非如此；当前进展更多来自跨帧和跨视角的一致性，前馈三维或四维模型已能匹敌或超过单目专项模型，并超越视频深度模型。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/cc725136efa3f2ea58a875e2ba5f25a07de9d2a2.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.32816.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

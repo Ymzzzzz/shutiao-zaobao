@@ -1,0 +1,67 @@
+{
+  "id": "ne7d7a2ca3b37",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋承认违反行为准则，员工观感仍存变数",
+  "original_title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+  "summary": "黄仁勋回归后首次全员讲话承认违反公司行为准则，但强调违规后还要看事实和情节，并不等于立刻被辞退。合规专家普拉思认为，最大风险是员工为领导未能守住伦理标准而感到难堪或愤怒。",
+  "facts": [
+    {
+      "text": "黄仁勋在回归后的首次全员讲话中承认自己违反了英伟达行为准则，同时表示违规并不意味着立刻被辞退，还要看事实、情节和评估。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据合规培训公司LRN的普拉思称，当高层未能守住伦理标准时，新一代员工常会感到难堪甚至愤怒，这可能损害他们对公司的认同。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "is_primary": false,
+      "published_at": "2026-11-26T03:54:57+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T03:54:57+08:00",
+  "updated_at": "2026-11-26T03:54:57+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋承认违反行为准则，员工观感仍存变数",
+  "lead_zh": "黄仁勋回归后首次全员讲话中承认自己违反了英伟达行为准则，同时表示违规并不等于立即离职；有合规专家担心这可能影响员工对公司伦理标准的看法。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "黄仁勋回归英伟达首席执行官后首次召开全员会议，讲话里特别谈到公司行为准则。他承认自己违反了准则，同时强调没有人可以例外；但据《连线》引述，他又说这“并不意味着一违反行为准则，我们就把你请出门”，还要看“事实、情节和大量评估”。也就是说，准则对所有人适用，但违规并不自动等于丢职，首席执行官本人似乎也不例外。",
+        "TechCrunch写道，这种表态对一家首席执行官已承认破规的公司来说相当尴尬。行为准则常被看成近似法律的规则手册，但受访专家认为，它更主要是企业文化的镜子：一次未受惩罚的违规，最大风险未必是法律后果，而是员工对供职公司感到难堪或愤怒。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "专家怎么说",
+      "paras": [
+        "据合规培训公司LRN首席市场策略官马特·普拉思称，他近期调查了逾**2000名**不同行业员工。在他看来，如今年轻人非常看重公司的伦理标准，高层让他们失望时，他们会感到难堪和愤怒。他举例说，有公司为节省成本禁止商务出行，首席执行官却出现在奥运会贵宾包厢，此后十多年里“奥运会”都成了公司内部最坏示范的代名词。普拉思也承认，在首席执行官几乎与公司画等号、又缺乏清晰继任方案的企业里，按常规模板撤换高层会困难得多。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/dedef4bf0159a06d72b0fa8c508506eb064e074b.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

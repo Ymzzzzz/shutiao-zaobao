@@ -1,0 +1,73 @@
+{
+  "id": "n9edbb62c9bcf",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "黄仁勋回归后，英伟达仍需回答Megaspeed相关疑问",
+  "original_title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+  "summary": "黄仁勋重返首席执行官职位后，英伟达仍需面对新加坡客户Megaspeed涉嫌违反出口管制、将先进芯片转入中国的调查。文章认为，关键在于英伟达当时知道芯片去向多少，以及黄仁勋与该客户高管的关系是否构成警示。",
+  "facts": [
+    {
+      "text": "黄仁勋重返首席执行官职位后，英伟达仍需面对新加坡客户Megaspeed涉嫌将先进芯片转入中国、违反美国出口管制的调查。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据TechCrunch称，调查的核心问题是英伟达当时对芯片最终去向了解多少，以及黄仁勋与该客户一名高管的关系是否构成警示。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+    }
+  ],
+  "analysis": [
+    {
+      "text": "TechCrunch认为，黄仁勋回归并没有把这些疑问一并带走，公司仍需回答芯片流向和相关关系是否被忽视。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "is_primary": false,
+      "published_at": "2026-11-25T21:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T21:00:00+08:00",
+  "updated_at": "2026-11-25T21:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "黄仁勋回归后，英伟达仍需回答Megaspeed相关疑问",
+  "lead_zh": "TechCrunch指出，英伟达仍需面对客户Megaspeed涉嫌将先进芯片转入中国的调查，关键问题是公司是否知情，以及黄仁勋与该客户高管的关系是否构成警示。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "黄仁勋重返英伟达首席执行官职位后，公司面临的审查并没有随之消失。芯片制造商仍需应对多项调查：新加坡数据中心运营商Megaspeed被指把英伟达先进图形处理器转运到中国，可能违反了旨在延缓中国发展前沿人工智能的美国出口规定。美国司法部长托德·布兰奇曾暗示，英伟达本身不是调查目标，但相关问题并未结束。",
+        "文章指出，调查者面对的核心问题是：英伟达当时对这批芯片最终去向了解多少，以及黄仁勋与Megaspeed一名高管的关系，是否让公司有理由怀疑对方所作保证。黄仁勋回归并没有自动回答这些问题。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "TechCrunch认为，市场关注的回归消息，并不能替代对芯片流向和内部警示是否被忽视的追问。在出口管制和客户关系仍待澄清的情况下，英伟达还需要持续面对监管和舆论的拷问。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/6cfc0f66dee6d7310869b31e153f143cee887a74.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

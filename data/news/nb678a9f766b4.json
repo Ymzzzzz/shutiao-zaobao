@@ -1,0 +1,56 @@
+{
+  "id": "nb678a9f766b4",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "PrismML把270亿参数模型压到5.9GB，权重只取三值",
+  "original_title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+  "summary": "PrismML发布三值量化模型Ternary Bonsai 2.5 27B，基于Qwen3.8-27B，显存约5.9GB，完整精度下约需54GB。在SWE-bench Verified上得分由60.8%升至75.6%，权重以Apache 2.0许可提供。",
+  "facts": [
+    {
+      "text": "PrismML发布Ternary Bonsai 2.5 27B，基于Qwen3.8-27B做三值量化，显存约5.9GB，完整精度下同规模模型约需54GB。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/"
+    },
+    {
+      "text": "该模型在SWE-bench Verified上的得分由60.8%升至75.6%，在AppWorld上由51.2%升至90.5%，并以Apache 2.0许可发布。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+      "is_primary": false,
+      "published_at": "2026-11-25T19:51:49+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T19:51:49+08:00",
+  "updated_at": "2026-11-25T19:51:49+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "PrismML把270亿参数模型压到5.9GB，权重只取三值",
+  "lead_zh": "初创公司PrismML发布Ternary Bonsai 2.5 27B，在Qwen3.8-27B基础上做三值量化，显存约5.9GB，完整精度下同规模模型约需54GB。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "初创公司PrismML发布压缩语言模型Ternary Bonsai 2.5 27B。它基于Qwen3.8-27B，通过三值量化把每个权重限制为-1、0或+1，显存占用约**5.9GB**，与上一版相同；若按完整精度存储，同规模模型大约需要**54GB**。新版本更针对需要长串工具调用的智能体任务，作者称它比Bonsai 2更少陷入循环或过长推理。",
+        "基准方面，SWE-bench Verified得分从**60.8%**升至**75.6%**，完整版Qwen为80.6%；在智能体基准AppWorld上，从**51.2%**升至**90.5%**，接近基础模型。LiveCodeBench v6上新版本略低于前作。它在RTX 4090上使用多词元预测时，大约每秒生成**204**个词元，权重以Apache 2.0许可提供，可在英伟达和英特尔显卡以及苹果设备上运行。PrismML源自加州理工学院的研究团队，投资方包括Khosla Ventures、谷歌和三星等。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/e49b531c101f712c9347ee15d82e4f6bf392cca0.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/07/prsim_ml_demo.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

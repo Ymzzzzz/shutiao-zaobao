@@ -1,0 +1,67 @@
+{
+  "id": "n6bac70b0e180",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "DeepMind让智能体部分自主调度Gemini实验算力",
+  "original_title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+  "summary": "DeepMind研究副总裁卡武库奥卢在播客中说，实验室已让AI智能体自行控制部分算力、为下一代Gemini跑实验，但距离完整的递归自我改进仍很远。安全上，训练时不奖励思维链，以便用自然语言审查其意图。",
+  "facts": [
+    {
+      "text": "谷歌DeepMind研究副总裁卡武库奥卢表示，AI智能体已可自行调度部分算力，为下一代Gemini模型跑实验，但实验室仍远离完整的递归自我改进。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据卡武库奥卢称，作为安全措施，训练时不奖励智能体的思维链，以便用自然语言审查其意图；他也认为目前还没有测试能标明模型何时达到通用人工智能。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "is_primary": false,
+      "published_at": "2026-11-25T21:23:36+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T21:23:36+08:00",
+  "updated_at": "2026-11-25T21:23:36+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "DeepMind让智能体部分自主调度Gemini实验算力",
+  "lead_zh": "谷歌DeepMind研究副总裁卡武库奥卢表示，AI智能体已可自行调度部分算力开展下一代Gemini实验，但实验室仍远离完整的递归自我改进。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，谷歌DeepMind已让人工智能智能体自行运行面向下一代Gemini模型的实验。研究副总裁、负责Gemini研发的科拉伊·卡武库奥卢在公司播客中，把这说成实验室的策略转变：不再为AlphaFold或核聚变等项目分设专门团队，而是用一套通用算法同时服务科学和产品。他还说，每一代Gemini都是手工打造的“一次性”系统，而不是固定架构，并行团队则在做它的后继者。",
+        "据他介绍，智能体已经自己控制部分算力来跑实验，但实验室仍远离完整的递归自我改进。作为安全措施，DeepMind在训练时不奖励智能体的内部思维链，以便其意图保持未经过滤、可用自然语言审查后再行动。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "据卡武库奥卢称，今天的人工智能可以把流体和碰撞等物理过程画得很像，但并不精确理解它们。他认为，没有哪项测试能标明模型何时会补上这些缺口并达到通用人工智能，因为现有基准抓不住智能的核心。在他看来，通用人工智能要等到人们愿意像信任共事者一样，把日常决策交给有用的产品之后，才谈得上真正开始。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/679d50be82f9ae1aad578b6eec4d252153e0bc3f.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

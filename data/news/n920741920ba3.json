@@ -1,0 +1,67 @@
+{
+  "id": "n920741920ba3",
+  "category": "AI公司与融资",
+  "importance": 1,
+  "verified": false,
+  "title": "爆料称Claude Code核心成员塔里克也已加入OpenAI",
+  "original_title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+  "summary": "量子位援引爆料账号称，Claude Code核心成员Thariq Shihipar已加入OpenAI。加上月初已官宣加入并负责核心产品管理的Cat Wu，以及此前被曝加入的Anthony Morris，三人被指在Anthropic上市前离职后于OpenAI会合。",
+  "facts": [
+    {
+      "text": "量子位援引人事爆料账号称，Claude Code核心成员Thariq Shihipar已加入OpenAI；Cat Wu月初已官宣加入并负责核心产品管理。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512515.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该爆料称，此前被指加入OpenAI的还有Claude Code桌面版相关负责人Anthony Morris，三人被描述为Anthropic上市前离职后在OpenAI会合。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512515.html"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512515.html",
+      "is_primary": false,
+      "published_at": "2026-11-25T15:46:52+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T15:46:52+08:00",
+  "updated_at": "2026-11-25T15:46:52+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "爆料称Claude Code核心成员塔里克也已加入OpenAI",
+  "lead_zh": "量子位援引人事爆料称，编程工具Claude Code的核心成员塔里克已加入OpenAI，若属实，将与此前已官宣或被曝加入的两名同事在这家公司会合。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "量子位援引硅谷人事爆料账号的消息称，Claude Code核心成员Thariq Shihipar已加入OpenAI。月初，Claude Code产品负责人之一Cat Wu已官宣加入OpenAI，并出任核心产品线的产品管理负责人；据《商业内幕》披露，她将与企业产品和消费者产品负责人共同工作，业务范围涵盖ChatGPT、Codex和面向开发者的应用程序接口。",
+        "同一爆料账号一周前还称，参与把Claude Code做成桌面产品的Anthony Morris也已加盟OpenAI。量子位据此写道，若这些消息属实，Anthropic上市前离职的Claude Code团队重要成员，将在老对手公司会合。需要指出，除Cat Wu已官宣入职外，另外两人目前仍是爆料，尚未看到OpenAI或本人的正式确认。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据文章梳理，三人分工被描述为互补：Cat Wu负责产品规划，Anthony Morris熟悉桌面端和更广泛用户的交互，Thariq Shihipar则参与过向用户追问需求等智能体配合工具，并常在社交媒体分享工程经验。Cat Wu在入职说明中表示，希望打造能帮助个人和团队完成工作、同时让用户始终保有控制权的智能体。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

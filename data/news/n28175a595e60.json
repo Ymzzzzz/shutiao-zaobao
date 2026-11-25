@@ -1,0 +1,67 @@
+{
+  "id": "n28175a595e60",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "亚马逊与Meta据报谈判解除对Muse的封锁",
+  "original_title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+  "summary": "TechCrunch援引《财富》报道称，亚马逊与Meta已就解除对Muse约两个月的屏蔽举行多轮会谈。核心争议是搜索结果展示和广告安排，贾西10月还曾表示，通过外部购物智能体下单的用户并不多。",
+  "facts": [
+    {
+      "text": "TechCrunch援引《财富》报道称，亚马逊与Meta正商讨结束为期约两个月的Muse屏蔽，关键分歧是搜索结果展示和广告安排。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据知情人士称，亚马逊担心第三方购物智能体影响广告业务，并可能削弱与消费者的直接关系，潜在协议需双方批准。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "is_primary": false,
+      "published_at": "2026-11-25T22:10:18+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T22:10:18+08:00",
+  "updated_at": "2026-11-25T22:10:18+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊与Meta据报谈判解除对Muse的封锁",
+  "lead_zh": "TechCrunch援引《财富》报道称，亚马逊与Meta正商讨结束为期约两个月的Muse屏蔽，关键分歧是搜索结果如何展示以及广告如何安排。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch援引《财富》周三报道称，亚马逊与Meta正在讨论一项可能的协议，让Meta的购物智能体Muse重新直接接入亚马逊商城。这将扭转约两个月前的局面：当时Muse用户在亚马逊结账时会收到报错。报道说，双方已举行多轮会谈，两个关键问题仍待谈判：搜索结果将如何展示，以及广告将如何安排。",
+        "今年10月，亚马逊首席执行官安迪·贾西曾表示，通过外部购物智能体下单的用户并不多。文章还提到，亚马逊可能是在等待Muse更加成熟后再开放接入，以免错误订单最终要由亚马逊面对不满的消费者和卖家。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据知情人士称，亚马逊一个主要担心是第三方购物智能体会影响其广告业务；高管还担心这类智能体会削弱亚马逊与消费者的直接关系。报道称，任何潜在协议都需要双方批准才能落地。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/7081252d3036a48db254eb680733997c82ca97c8.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

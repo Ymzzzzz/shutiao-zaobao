@@ -1,0 +1,56 @@
+{
+  "id": "n2336cbb76de9",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "用点动力学作为机器人世界模型的中间层",
+  "original_title": "Point Dynamics as Proxy for Robotic World Models",
+  "summary": "机器人世界模型常能跟上动作，但被操作物体容易崩塌或运动不一致。论文把动力学预测与视觉渲染分开，先把首帧抬到三维点并模拟其对动作的响应，再据此生成画面，以减轻物体运动错误。",
+  "facts": [
+    {
+      "text": "论文认为，现有机器人世界模型虽能跟上给定动作，但被操作物体常会崩塌或运动不一致，原因是动作条件没有说明场景如何响应。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.25946"
+    },
+    {
+      "text": "作者把动力学预测与视觉渲染分开，先把首帧抬到三维点，模拟点对机器人动作的响应，再据此生成画面。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.25946"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.25946",
+      "is_primary": true,
+      "published_at": "2026-11-25T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T08:00:00+08:00",
+  "updated_at": "2026-11-25T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "用点动力学作为机器人世界模型的中间层",
+  "lead_zh": "一篇论文提出把三维点动力学作为机器人世界模型的中间表示，先预测场景如何响应动作，再渲染画面，以减轻被操作物体崩塌和运动不一致的问题。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文写了什么",
+      "paras": [
+        "机器人世界模型通常根据当前观测和一系列机器人动作，预测未来视频帧。论文指出，近期模型虽然能比较忠实地跟随给定动作，但被操作的物体常常崩塌，或运动与动作不一致。作者把问题归结为条件信号不足：动作或机器人的渲染只说明机器人去哪里，并不说明场景会如何响应，于是同一个视频模型既要暗中推断交互动力学，又要渲染外观。",
+        "为此，作者把动力学预测和视觉渲染分开，用三维点动力学作为二者之间的中间表示。具体做法是先把第一帧抬升为三维点，模拟这些点如何响应机器人运动，再根据点的动态去生成画面。这样，交互过程不再完全隐式地交给单一视频模型，希望减轻物体运动错乱和外观崩塌。作者希望用这种显式中间层，避免把物体如何响应动作完全交给单一视频模型去暗中推断。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/663fe6e2153726bee9db3eda5888cbb2cd7eca23.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.25946.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

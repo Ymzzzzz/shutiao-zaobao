@@ -1,0 +1,67 @@
+{
+  "id": "n6d2775bbc9ca",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "麻省理工发现用刻意极端的训练数据可让气候模型更稳",
+  "original_title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
+  "summary": "麻省理工学院团队与苏黎世联邦理工、帝国理工合作，用含有二氧化碳骤增等极端波动的合成数据训练气候模型。据称一次大型模拟就够，而以往通常需要六到八次，还能更可靠地评估局部环境政策影响。",
+  "facts": [
+    {
+      "text": "麻省理工学院、苏黎世联邦理工和帝国理工的团队合作提出新方法，用带有极端波动的合成数据训练气候人工智能模型。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据团队称，以往训练通常需要六到八次大型模拟，新方法一次模拟就够，而且模型对陌生情形和局部环境政策的推算也更可靠。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+      "is_primary": false,
+      "published_at": "2026-11-25T18:47:51+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T18:47:51+08:00",
+  "updated_at": "2026-11-25T18:47:51+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "麻省理工发现用刻意极端的训练数据可让气候模型更稳",
+  "lead_zh": "麻省理工学院、苏黎世联邦理工和帝国理工合作的方法，用带有极端波动的合成数据训练气候AI，称只需一次大型模拟即可完成训练，而以往通常需要六到八次。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder援引麻省理工学院新闻办的介绍称，该校与苏黎世联邦理工学院、帝国理工学院的研究人员，提出了一种让气候人工智能模型训练更快、更便宜也更稳妥的方法。传统上，研究人员要靠大型物理气候模拟，在超级计算机上跑一种情景就可能耗时数月；训练快速的人工智能模拟器，以往通常需要**六到八次**这类模拟，并且使用分布均匀、偏于现实的未来情景。",
+        "新算法则改用带有极端波动的合成训练数据，例如假设**2050年**二氧化碳突然激增，或**2037年**甲烷下降。据第一作者克里斯托弗·沃马克介绍，这些刻意制造的冲击能帮助模型更精确地把握气候系统；团队称，一次模拟就足以完成训练，而且模型也能更可靠地推算局部环境政策的影响。合著者诺埃尔·塞林指出，过去因为训练太慢，做好的模型往往已经过时，还容易在未见过的情形上失准。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究者怎么说",
+      "paras": [
+        "据研究团队称，这种看起来不那么“真实”的训练数据，反而让模型对气候系统的响应理解得更清楚，因此只需一次大型模拟，就能达到过去多次运行才能得到的效果，并更好地服务电网、公共卫生和农业等规划场景。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/525307f9a0030d08b428152e0aaf1fc0a4cfb986.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/mit_climate.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

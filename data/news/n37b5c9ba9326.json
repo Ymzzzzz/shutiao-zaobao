@@ -1,0 +1,262 @@
+{
+  "id": "n37b5c9ba9326",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "科学家如何划定科研AI智能体的边界",
+  "original_title": "Where scientists draw the line on AI agents",
+  "summary": "艾伦人工智能研究所访谈17名自然、应用和社会科学领域的科学家，讨论他们希望在哪些研究任务上使用AI智能体、担心什么，以及需要哪些保障才能放心把部分研究工作交给这些系统。",
+  "facts": [
+    {
+      "text": "艾伦人工智能研究所访谈了17名自然、应用和社会科学领域的科学家，了解他们对科研AI智能体的责任边界和保障需求。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    },
+    {
+      "text": "访谈归纳出科学信任的五个维度：验证、隐私、客观、问责和透明。作者强调这是探索性研究，样本不能代表全体科学家意见。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据作者称，把文献综述、数据分析或实验步骤交给智能体，并不能免除科研人员核查证据、方法和可复现性的责任。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "is_primary": true,
+      "published_at": "2026-11-26T02:52:55+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T02:52:55+08:00",
+  "updated_at": "2026-11-26T02:52:55+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "科学家如何划定科研AI智能体的边界",
+  "lead_zh": "艾伦人工智能研究所访谈17名科学家后提出，把研究任务交给AI智能体并不能免除科研人员的责任，并归纳出验证、隐私、客观、问责和透明五项信任维度。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "艾伦人工智能研究所在Hugging Face撰文，介绍对**17名**自然、应用和社会科学领域科学家的访谈，主题是科研AI智能体应如何被负责任地开发和使用。作者指出，把文献综述、数据分析或实验室流程交给智能体，并不能免除科研人员的责任：仍需检查系统是否忽略相反证据、使用了哪些方法、访问了哪些文件，以及结果能否复现，并确保物理安全和人类受试者隐私。",
+        "访谈归纳出科学信任的五个维度：验证、隐私、客观、问责和透明。它们不仅关心答案是否正确，也关心答案如何得出、敏感信息如何保护、偏见如何识别，以及由谁核验并承担AI辅助发现的责任。作者还主张科学家应参与决定智能体承担哪些任务、如何运行，以及用什么标准评测。文章同时说明，这是对17名美国科学家的探索性访谈，并非代表性调查，也不能替代对具体系统的实证评估。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究者怎么看",
+      "paras": [
+        "据参与访谈的科研人员称，智能体在处理大型数据集、写代码和重复性事务上可能节省时间，但他们担心看似自信的答案里藏有细微错误，或只检索支持既有假设的文献。有人会对照原始论文核查AI摘要；也有人担心，如果研究过程被过度接管，年轻研究者可能学不到应有的技能。作者据此建议开发面向科研规范的评测，例如检查文献智能体是否忽略相反证据，或代码智能体是否访问了未授权文件。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/3c5f0d450aff744b132a1f4910861025a26ea1f0.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
+  "fulltext_status": "ok",
+  "read_minutes": 9,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-26",
+    "title_en": "Where scientists draw the line on AI agents",
+    "title_zh": "科学家如何划定科研AI智能体的边界",
+    "dek_en": "A Blog post by Ai2 on Hugging Face",
+    "dek_zh": "艾伦人工智能研究所（Ai2）发布在Hugging Face上的一篇博客",
+    "word_count_zh": 3314,
+    "read_minutes": 9,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "📄 技术报告",
+        "en": "📄 Tech Report"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/26509c3b219384d62644e61e07d117b251d31296.jpg",
+        "origin_url": "https://www.datocms-assets.com/64837/1795122303-responsible-featured-51.png",
+        "caption_zh": "标题艺术图，青绿与梅紫渐变背景上写着“科学家需要负责任的AI智能体提供什么”。",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 536
+      },
+      {
+        "t": "p",
+        "zh": "把研究任务交给人工智能，并不能免除科学家对工作如何完成所负的责任。例如，用人工智能做文献综述的研究者，需要检查系统是否忽略了相反证据，或作出了被引论文并不支持的论断。把数据分析交给智能体系统的人，需要了解它使用了哪些方法、访问了哪些文件，以及结果能否成功复现。把部分实验流程自动化的研究者，需要确信系统遵守物理安全约束，例如温度限制或材料毒性；而处理人类受试者数据的研究者，则需要确信系统保护参与者隐私，并限制谁能访问这些信息。研究者还需要明确的机构准则，用于核验和披露人工智能辅助完成的工作。",
+        "en": "Delegating research tasks to AI does not remove scientists’ responsibility for how the work is accomplished. For example, a researcher using AI to review the literature needs to check whether the system overlooks conflicting evidence or makes claims the cited papers don’t support. Someone handing off data analysis to an agentic system needs to understand which methods it used, which files it accessed, and whether the results can be successfully reproduced. A researcher automating part of a lab protocol needs confidence that the system respects physical safety constraints, such as temperature limits or material toxicity, while a researcher working with human-participant data needs assurance that a system protects participants' privacy and limits who can access their information. Researchers also need clear institutional guidelines for verifying and disclosing AI-assisted work."
+      },
+      {
+        "t": "p",
+        "zh": "这些伦理和安全问题是我们在“人工智能用于科学”工作中的核心。负责任的科学不仅仅关乎准确性——各科学领域之所以有伦理研究规范，是因为科学家和科学共同体过去的行动与选择，而这些规范也覆盖研究如何开展、以及研究会产生何种影响。我们希望人工智能工具扩大科学家能够完成的工作，同时不削弱他们审视证据、核验方法，以及——也许最重要的是——为自己的发现承担责任的能力。",
+        "en": "These ethical and safety questions are central to our work on AI for science. Responsible science is about more than accuracy—scientific fields have ethical research norms because of past actions and choices by scientists and scientific communities, and those norms also cover how research is conducted and what impact it has. We want AI tools to expand what scientists can accomplish without compromising their ability to scrutinize evidence, verify methods, and – perhaps most importantly – stand behind their findings."
+      },
+      {
+        "t": "p",
+        "zh": "为了更好地理解这需要什么，我们就人工智能智能体的负责任开发，访谈了17名自然、应用和社会科学领域的科学家。这些系统可以使用工具，并以不同程度的自主性执行研究任务。访谈依托此前调查工作建立的研究者网络——我们想了解，科学家会如何引导人工智能的发展，以体现其所在领域的责任。我们询问他们在哪些方面欢迎智能体协助、可能出什么问题，以及需要哪些保障才能放心把自身研究交给智能体。",
+        "en": "To better understand what that requires, we interviewed 17 scientists working in the natural, applied, and social sciences about the responsible development of AI agents. These systems can use tools and carry out research tasks with varying degrees of autonomy. The interviews drew on a network of researchers established through earlier survey work—we wanted to understand how scientists would steer AI’s development to reflect the responsibilities of their fields. We asked where researchers would welcome agentic assistance, what could go wrong, and what safeguards they would need to trust agents with their own studies."
+      },
+      {
+        "t": "p",
+        "zh": "我们对这些问题的兴趣，源自对Ai2所开发模型安全性的评估工作。随着我们扩大对“人工智能用于科学”的关注，我们发现，科学应用中的安全工作大多强调生物学和核物理等领域的灾难性风险。我们还需要方法，评估智能体在被使用的领域中是否遵循负责任研究行为的标准。",
+        "en": "Our interest in these questions grew out of work to evaluate the safety of models developed at Ai2. As we expand our focus on AI for science, we’ve found that much of the safety work on scientific applications emphasizes catastrophic risks in areas such as biology and nuclear physics. We also need ways to assess whether agents follow the standards of responsible conduct of research in the fields where they’re used."
+      },
+      {
+        "t": "p",
+        "zh": "我们的一项主要发现涉及信任。在整个访谈中，我们归纳出科学信任的五个维度：验证、隐私、客观、问责和透明。它们共同反映出超越“人工智能系统是否给出正确答案”的关切。研究者还需要理解答案是如何得出的，保护敏感信息，识别偏见，并确定由谁负责核验并为人工智能辅助的发现承担责任。这些都属于负责任研究行为的问题。",
+        "en": "One of our main findings concerns trust. Across the interviews, we identified five dimensions of scientific trust: validation, privacy, objectivity, accountability, and transparency. Together, they reflect concerns that go beyond whether an AI system produces a correct answer. Researchers also need to understand how an answer was reached, protect sensitive information, recognize bias, and determine who is charged with verifying and standing behind AI-assisted findings. These are matters of responsible conduct of research."
+      },
+      {
+        "t": "p",
+        "zh": "另一项主要发现是，科学家应参与决定智能体承担哪些研究任务、这些智能体如何运行，以及如何评估其表现。即使结果在技术上正确，如果研究者无法检查它是如何产生的，或者智能体访问了超出研究者授权范围的机密数据或文件，该结果也可能不适合用于科学。",
+        "en": "Another main finding suggests that scientists should help decide which research tasks agents take on, how those agents operate, and how their performance is evaluated. Even a technically correct result may be unsuitable for scientific use if researchers cannot inspect how it was produced, or if an agent accesses confidential data or files beyond what the researcher authorized."
+      },
+      {
+        "t": "p",
+        "zh": "第三项关键发现涉及科学的未来。受访者在对人工智能推动进步的兴奋，与对人类科学家角色的生存性担忧之间存在分歧。他们建议开展人工智能使用方面的培训，并把制定和执行准则列为一项关键而紧迫的挑战。",
+        "en": "A third key finding pertains to the future of science. Interviewees were divided between excitement about AI-driven progress and existential concern about the role of human scientists. They proposed training in AI use and named developing and enforcing guidelines as a critical, timely challenge."
+      },
+      {
+        "t": "h",
+        "zh": "帮助研究者检查工作",
+        "en": "Helping researchers check the work"
+      },
+      {
+        "t": "p",
+        "zh": "对许多访谈参与者而言，人工智能智能体的吸引力始于耗时的研究任务——处理大型数据集、编写代码、记录实验步骤，以及处理重复性行政工作。把这些活动自动化，可以让研究者把更多时间花在实地工作、指导或提出新想法上，也可以使分析那些难以人工检视的海量数据成为可能。",
+        "en": "For many participants in our interviews, the appeal of AI agents began with time-consuming research tasks—processing large datasets, writing code, documenting experimental procedures, and handling repetitive administrative work. Automating these activities could free researchers to spend more time on fieldwork, mentoring, or developing new ideas. It could also make it possible to analyze volumes of data that would be difficult to examine manually."
+      },
+      {
+        "t": "p",
+        "zh": "但把研究任务交出去，也会相应地产生核验人工智能系统所做工作的需要。",
+        "en": "But delegating research tasks creates a corresponding need to verify the work an AI system performs."
+      },
+      {
+        "t": "p",
+        "zh": "几位参与者描述说，他们会对照原始论文检查人工智能生成的答案，而不是对摘要照单全收。他们担心看似自信的回答里藏有细微不准确之处，也担心工具只会检索支持既有假设的研究，从而强化原有假定。",
+        "en": "Several participants described checking AI-generated answers against original publications rather than accepting summaries at face value. They worried about confident responses containing subtle inaccuracies, as well as tools that reinforce assumptions by retrieving only studies that support a favored hypothesis."
+      },
+      {
+        "t": "p",
+        "zh": "但检查人工智能系统的最终答案只是挑战的一部分。研究者可能还需要知道智能体遗漏了哪些来源、是否遵循了所要求的方法，以及它在过程中访问了哪些信息。",
+        "en": "But checking the final answer from an AI system is only part of the challenge. Researchers may also need to know which sources an agent omitted, whether it followed the requested methodology, and what information it accessed along the way."
+      },
+      {
+        "t": "p",
+        "zh": "我们的访谈提示了，面向科学研究的人工智能智能体评测可以如何更好地反映这些关切。例如，文献综述基准可以测试智能体是否忽略相反证据，或得出其来源并不支持的结论。编程基准不仅可以评估生成的代码是否能运行，还可以评估智能体是否访问了授权范围之外的文件。对数据处理智能体的评测，则可以将其方法与结果同既有的人工工作流程加以比较。",
+        "en": "Our interviews suggest how evaluations of AI agents for scientific research could better reflect these concerns. A literature-review benchmark, for example, could test whether an agent overlooks contradictory evidence or draws conclusions unsupported by its sources. A coding benchmark could assess not only whether the generated code works, but whether the agent accesses files outside its authorized scope. Evaluations of data-processing agents could compare their methods and results with established human workflows."
+      },
+      {
+        "t": "p",
+        "zh": "这些例子指向一个更长远的目标——由科学家参与定义智能体应接受检验的研究实践和安全要求的参与式基准。我们希望评估Ai2或其他机构开发的系统，是否遵循其被使用领域的标准，以及是否完成了被指派的任务。",
+        "en": "These examples point toward a longer-term goal—a participatory benchmark in which scientists help define the research practices and safety requirements that agents should be tested against. We want to evaluate whether systems developed at Ai2 or elsewhere follow the standards of the fields where they’re used, as well as whether they complete assigned tasks."
+      },
+      {
+        "t": "p",
+        "zh": "这些评测仍是有待与科学家一起开发和检验的提议，而不是已经确立的方案。但它们为Ai2的工作提供了方向：打造开放的科学工具，意味着让其行为和局限更容易被审视，并让研究共同体在定义何为可信表现上发挥作用。",
+        "en": "These evaluations remain proposals to develop and test with scientists, rather than established solutions. But they offer a direction for our work at Ai2: building open scientific tools means making their behavior and limitations easier to investigate and giving the research community a role in defining what trustworthy performance looks like."
+      },
+      {
+        "t": "h",
+        "zh": "让科学判断始终参与其中",
+        "en": "Keep scientific judgment in the loop"
+      },
+      {
+        "t": "p",
+        "zh": "核验只是在科学中使用人工智能工具的考量之一。受访者还提出了一个更根本的问题——当人工智能接管部分研究过程时，科学专长会怎样？",
+        "en": "Verification is only one consideration in using AI tools for science. Respondents also raised a more fundamental question—what happens to scientific expertise when AI takes over parts of the research process?"
+      },
+      {
+        "t": "p",
+        "zh": "一位职业生涯早期的生物学家描述说，自己在掌握希望将来教给学生的技能时，会有意限制对人工智能的使用。另一位研究者则质疑，如果研究者在过程中什么也没学到，得出正确结果是否就足够了：即便输出完美，“得到这些完美输出的人，究竟从中获得了什么？”",
+        "en": "An early-career biologist described deliberately limiting AI use while acquiring skills they hoped to teach future students. Another researcher questioned whether producing a correct result was sufficient if the researcher learned nothing in the process: even with perfect outputs, “did the person who obtained the perfect outputs get anything out of this?”"
+      },
+      {
+        "t": "p",
+        "zh": "一些参与者担心，人工智能辅助的研究可能削弱学习，尽管自动化的价值在一定程度上取决于研究者和任务本身。一位经验丰富的科学家可以合理地交出熟悉的流程以节省时间，而仍在学习该流程的人，则可能从亲手做中受益。",
+        "en": "Some participants were concerned that AI-assisted research could diminish learning, though the value of automation depends in part on the researcher and the task. An experienced scientist may reasonably delegate a familiar procedure to save time, while someone still learning that procedure may benefit from doing the work themselves."
+      },
+      {
+        "t": "p",
+        "zh": "参与者对涉及智识贡献的活动也划出了不同界限。一位生物学家拒绝用人工智能来产生研究想法，认为这是应亲自保留的责任。另一些人对人工智能辅助构思或写作更为开放。例如，一位人类学家认为，科学论文中的某些部分，尤其是对方法和结果的常规描述，已经足够程式化，可以从自动化中受益。",
+        "en": "Participants also drew different boundaries around activities involving intellectual contribution. One biologist refused to use AI to generate research ideas, considering that a responsibility to retain personally. Others were more open to AI-assisted ideation or writing. An anthropologist, for example, argued that some sections of scientific papers, particularly routine descriptions of methods and results, are formulaic enough to benefit from automation."
+      },
+      {
+        "t": "p",
+        "zh": "即便尝试过用人工智能来写作的研究者，有时也会重新考虑。一位政治学家描述说，自己曾用Claude帮助修改稿件，后来却决定重写整篇论文，因为本人智识贡献的边界变得模糊不清。这名研究者说：“我分不清哪些是人工智能写的，哪些是我写的。”",
+        "en": "Even researchers who tried AI for writing sometimes reconsidered. One political scientist described using Claude to help revise a manuscript, then deciding to rewrite the entire paper because the boundaries of their own intellectual contribution had become unclear. “I don’t know what was AI and what was me,” the researcher said."
+      },
+      {
+        "t": "p",
+        "zh": "情境也很重要。让人工智能在投稿前批评自己的稿件，一些参与者对此持肯定态度；但用它来审阅另一位研究者尚未发表的工作，则引起了担忧。这一区分不仅仅涉及技术能力；同行评议还承担着保密、署名归属，以及公正评价他人研究的责任。",
+        "en": "Context mattered, too. Having AI critique a manuscript before submission was viewed favorably by some participants, while using it to review another researcher's unpublished work raised concerns. The distinction involves more than technical capability; peer review carries responsibilities around confidentiality, attribution, and the fair evaluation of others' research."
+      },
+      {
+        "t": "p",
+        "zh": "这些分歧表明，负责任的自动化不能靠一份普遍适用的“可接受与不可接受任务清单”来界定。不同科学领域有不同规范，即便从事相似工作，个别研究者也可能有不同目标。",
+        "en": "These disagreements suggest that responsible automation cannot be defined by a universal list of acceptable and unacceptable tasks. Scientific fields have different norms, and individual researchers may have different goals even when performing similar work."
+      },
+      {
+        "t": "p",
+        "zh": "同样的张力也适用于内置于人工智能系统的保障措施。一位政治学家描述说，阻止人工智能工具讨论某些主题的内容限制，可能干扰关于政治暴力或侵犯人权的正当研究。与此同时，处理敏感人类受试者数据的参与者，则希望在隐私、访问权限以及信息将如何被使用方面得到更强的保证。",
+        "en": "The same tension applies to safeguards built into AI systems. One political scientist described how content restrictions that prevent AI tools from discussing certain topics could interfere with legitimate research on political violence or human rights violations. Meanwhile, participants working with sensitive human-subject data wanted stronger guarantees about privacy, access, and how information would be used."
+      },
+      {
+        "t": "p",
+        "zh": "两种关切都成立。保障不足的智能体可能泄露机密数据或产生有害结果，而限制过宽的智能体则可能妨碍科学家开展正当的探究。",
+        "en": "Both are valid concerns. An agent that acts without sufficient safeguards could expose confidential data or produce harmful results, while one that’s constrained too broadly could prevent scientists from pursuing legitimate lines of inquiry."
+      },
+      {
+        "t": "p",
+        "zh": "这正是科学共同体需要在划定人工智能协助边界上发挥实质性作用的原因。开发者不仅需要了解智能体能够执行哪些活动，还需要了解研究者希望保留哪些决策、在何处需要保障措施——以及这些保障可能在何处妨碍有价值的工作。",
+        "en": "This is why scientific communities need a meaningful role in shaping the boundaries of AI assistance. Developers need to understand not only which activities an agent can perform, but which decisions researchers want to retain and where safeguards are necessary—as well as where those safeguards might obstruct valuable work."
+      },
+      {
+        "t": "h",
+        "zh": "与科学家一道打造人工智能智能体",
+        "en": "Build AI agents alongside scientists"
+      },
+      {
+        "t": "p",
+        "zh": "我们的发现指向一种从将使用该技术的人出发的科学人工智能开发路径。",
+        "en": "Our findings point toward an approach to scientific AI development that starts with the people who will use the technology."
+      },
+      {
+        "t": "p",
+        "zh": "研究者应当能够检查智能体的贡献、决定指派哪些工作，并保留发展自身专长的机会。要做到这一点，需要智能体行动的透明记录和细粒度数据控制等技术功能，以及依据不同科学共同体的标准与实践而设计的评测。",
+        "en": "Researchers should be able to examine an agent's contributions, determine which work to assign, and preserve opportunities to develop their own expertise. Achieving that will require technical features such as transparent records of agent actions and granular data controls, alongside evaluations informed by the standards and practices of different scientific communities."
+      },
+      {
+        "t": "p",
+        "zh": "这也需要持续合作。我们的研究是探索性的；发现来自对17名美国科学家的访谈，并非对科学界意见的代表性调查，也不是对特定人工智能智能体的实证评估。参与者既讨论了他们今天使用的生成式人工智能工具，也讨论了他们对更自主系统的预期。他们的看法指出了重要的关切和设计重点，而不是就人工智能应如何用于科学形成共识。",
+        "en": "It will also require continued collaboration. Our study is exploratory; the findings come from interviews with 17 US-based scientists, not a representative survey of scientific opinion or an empirical evaluation of specific AI agents. Participants discussed both the generative AI tools they use today and what they anticipate from more autonomous systems. Their perspectives identify important concerns and design priorities, rather than establishing a consensus about how AI should be used in science."
+      },
+      {
+        "t": "p",
+        "zh": "尽管如此，它们仍提供了一条前进路径。在Ai2，我们相信人工智能可以加快科学发现，同时保留使研究可信的开放性、可复现性和独立审视。通过我们在开发和评估科学智能体方面更广泛的努力，我们希望把这些原则付诸实践。这意味着与科学家合作，找出值得让智能体承担的用途，并把他们的关切转化为具体评测，同时让人们更容易理解这些系统完成了什么、以及是如何完成的。",
+        "en": "Still, they offer a path forward. At Ai2, we believe AI can accelerate scientific discovery while preserving the openness, reproducibility, and independent scrutiny that make research trustworthy. Through our broader efforts to develop and evaluate scientific agents, we aim to put those principles into practice. That means working with scientists to identify worthwhile uses for agents and translating their concerns into concrete evaluations, in addition to making it easier to understand both what these systems accomplish and how they accomplish it."
+      },
+      {
+        "t": "p",
+        "zh": "科学人工智能的前景，并不只是研究者可以交出更多工作。而是他们可以探究原本可能无法触及的问题，同时保留做出属于自己的发现所需的知识、判断力和自主性。",
+        "en": "The promise of scientific AI isn't simply that researchers can pass off more work. It's that they can pursue questions that might otherwise be out of reach while retaining the knowledge, judgment, and agency needed to make discoveries that are their own."
+      }
+    ]
+  }
+}

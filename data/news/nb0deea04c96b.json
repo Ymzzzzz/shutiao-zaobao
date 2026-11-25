@@ -1,0 +1,67 @@
+{
+  "id": "nb0deea04c96b",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "AI正在加重美国公共记录系统的负担",
+  "original_title": "AI is straining America’s open records systems",
+  "summary": "在佛蒙特州小镇潘顿，镇书记员要应对愈发频繁的采购记录申请。文章写道，有风投支持的创业公司已筹资逾1亿美元，把公共记录变成面向企业的销售信号，同时人工智能也让个人申请变得更长、更宽。",
+  "facts": [
+    {
+      "text": "《麻省理工科技评论》报道，风险投资支持的创业公司近年筹资逾1亿美元，批量申请政府购买记录，并把数据做成面向企业的销售信号；人工智能也让个人公开申请变得更长、更宽。",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据MIT Technology Review称，佛蒙特州潘顿镇前书记员罗表示，他愿意回答来自居民的公开记录申请，但为这些商业目的作答，感觉像在用纳税人的时间做无偿的竞品调查。",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "is_primary": false,
+      "published_at": "2026-11-25T18:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T18:00:00+08:00",
+  "updated_at": "2026-11-25T18:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "AI正在加重美国公共记录系统的负担",
+  "lead_zh": "《麻省理工科技评论》报道，风险投资支持的数据公司已筹集逾1亿美元，批量申请政府购买记录；AI代写的公开申请也往往更长更宽，许多保管部门人手并未同步增加。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "在人口**660**人的佛蒙特州小镇潘顿，镇书记员凯尔·罗几乎包办预算、付款、税务争议、规划监督和选举主持，也负责处理公开记录申请。过去，一家名为SmartProcure的公司大约每年才会申请一次“全部采购记录”；去年这类申请改成按季度提交，随后又有公司改为按月甚至更频繁地索要特定采购记录，例如应急路障闪光棒。数据经纪商挖掘公共记录已有数十年，但人工智能抬高了投资者的兴趣：过去几年，有风投支持的创业公司筹资逾**1亿美元**，从数千个机构收集数据，做成帮助企业向政府销售的人工智能“信号”。",
+        "与此同时，人工智能工具也让个人更容易起草公开记录申请。许多地方近年申请量以两位数的百分比增长。更多申请有利于透明，但由模型代写的申请往往更长、范围更宽，而负责答复的部门人手和预算并未同步增加。文章还提到，一些州正在通过立法，让拒绝申请变得更容易，这可能反而削弱公共机构的透明度。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "当事人怎么说",
+      "paras": [
+        "据现已转到邻近市镇任职的罗称，他乐意回答来自居民的公开记录申请，但为这些商业目的作答，“感觉像在用纳税人的时间做无偿的竞品调查”。"
+      ],
+      "sources": [
+        "MIT Technology Review"
+      ]
+    }
+  ],
+  "image_url": "img/b7901b24101b7f85e173da3509b0f537fe61ed08.jpg",
+  "image_source": "MIT Technology Review",
+  "image_origin_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "nc4937692d5d7",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "报道称亚马逊洽谈结束对Muse购物智能体的屏蔽",
+  "original_title": "Amazon is reportedly in talks to end Muse AI shopping block",
+  "summary": "The Verge援引《财富》报道称，亚马逊已与Meta讨论允许Muse在其电商平台购物。亚马逊担心这会影响广告收入和搜索结果质量，也担心削弱与消费者的直接关系。沃尔玛、百思买等零售商已对类似智能体开放。",
+  "facts": [
+    {
+      "text": "据《财富》报道，亚马逊已与Meta讨论允许Muse在其电商平台购物，谈判焦点包括推荐商品范围和对广告收入的影响。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据The Verge称，亚马逊担心允许Muse接入会减少依赖真人浏览的广告收入，也担心其搜索结果质量和与顾客的直接关系。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "is_primary": false,
+      "published_at": "2026-11-25T22:12:33+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T22:12:33+08:00",
+  "updated_at": "2026-11-25T22:12:33+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "报道称亚马逊洽谈结束对Muse购物智能体的屏蔽",
+  "lead_zh": "据《财富》报道，亚马逊已与Meta讨论允许Muse在其电商平台购物，谈判焦点包括推荐商品范围和对亚马逊广告收入的影响。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge援引《财富》报道称，亚马逊已与Meta讨论，允许后者的购物智能体Muse在其电商平台上购物。若谈成，可能结束亚马逊对Muse的屏蔽。谈判据称围绕智能体推荐哪些商品，以及这会对亚马逊广告收入产生什么影响。亚马逊和Meta都没有立即回应The Verge的置评请求。",
+        "报道提到，沃尔玛、百思买、盖普和丝芙兰等零售商已经对Muse这类智能体开放，亚马逊则更为谨慎。亚马逊还曾屏蔽Perplexity的购物智能体，并转而推广自家的Alexa购物助理，顾客现在可以通过短信让它代为购物。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据《财富》称，亚马逊担心允许Muse进入其网站后，会减少需要真人看到广告才能产生的收入，也担心Muse呈现的商品搜索结果质量，以及这是否会削弱亚马逊与顾客的关系。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/04f3ee74552b071c627c3ddbeea1ccd78de86942.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

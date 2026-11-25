@@ -1,0 +1,56 @@
+{
+  "id": "n4e66c4d6cab3",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "OWE-Bench用26项长程任务评测真实工程能力",
+  "original_title": "OWE-Bench: A long-horizon benchmark for measuring real-world engineering",
+  "summary": "OWE-Bench包含26项由领域专家撰写的长程工程任务，模型平均每个任务消耗数亿词元。目前最好的Claude Fable 5.2得分54.6%；模型在隐藏测试用例上平均低18分，作者称之为部署差距。",
+  "facts": [
+    {
+      "text": "OWE-Bench包含26项由领域专家撰写的长程工程任务，覆盖软件工程、物理工程、机器学习和科学计算，模型平均每个任务消耗数亿词元。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30017"
+    },
+    {
+      "text": "目前表现最好的Claude Fable 5.2得分54.6%，平均每个任务使用2.11亿词元；模型在隐藏测试用例上平均低18分。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30017"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30017",
+      "is_primary": true,
+      "published_at": "2026-11-25T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T08:00:00+08:00",
+  "updated_at": "2026-11-25T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OWE-Bench用26项长程任务评测真实工程能力",
+  "lead_zh": "新基准OWE-Bench包含软件、物理、机器学习和科学计算等26项由领域专家撰写的长程工程任务，目前表现最好的Claude Fable 5.2得分54.6%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文写了什么",
+      "paras": [
+        "论文发布长程工程基准OWE-Bench，包含由领域专家撰写的**26**项任务，覆盖软件工程、物理工程、机器学习和科学计算，例子从优化计算内核、设计飞机，到找出导致地震的断层。每项任务都需要大量领域知识和工程工作，模型平均每个任务消耗数亿词元。评分看速度、成本和准确率，既包括模型可用来自测的公开用例，也包括工程师根据题面会预期、但模型事先看不到的隐藏用例。",
+        "目前表现最好的前沿模型是Claude Fable 5.2，得分**54.6%**，平均每个任务使用**2.11亿**词元。作者给出两点发现：给模型更长时间时，它们会使用更多测试时计算并得到更高分数，其中GPT-6 Astra在较短时限和同等词元用量下分数更高，Fable 5.2则在更长时限下靠消耗更多词元拿到最高总分。此外，各模型在隐藏用例上的得分平均比公开用例低**18**分，作者称之为部署差距；模型还往往低估这一差距，对隐藏用例表现的自我估计平均高出**21**分。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/003b3c6531d66eed615911f3cd745bd1dda78211.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.30017.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

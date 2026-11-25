@@ -1,0 +1,67 @@
+{
+  "id": "n8dcd3f46d355",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "专家称黄仁勋回归表明英伟达已大到难以被约束",
+  "original_title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+  "summary": "《连线》引述情报和出口管制专家的警告称，董事会在内部调查结束前、且司法部仍在调查Megaspeed芯片流向时让黄仁勋回归，可能表明英伟达对股市过于重要，美国政府难以追究其国家安全疏失。",
+  "facts": [
+    {
+      "text": "英伟达董事会在周一让黄仁勋回归，距离他因婚外情等风波辞职约11天，且发生在公司内部调查结束之前。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据WIRED称，情报和出口管制专家认为，这次回归可能表明英伟达对股市已过于重要，美国政府难以就其国家安全疏失问责。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "is_primary": false,
+      "published_at": "2026-11-25T07:39:04+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T07:39:04+08:00",
+  "updated_at": "2026-11-25T07:39:04+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "专家称黄仁勋回归表明英伟达已大到难以被约束",
+  "lead_zh": "《连线》援引情报和出口管制专家的话称，英伟达董事会在自身调查结束前让黄仁勋回归，可能说明这家公司对股市已过于重要，难以被追究国家安全责任。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英伟达董事会周一让黄仁勋重新出任首席执行官，距离他因婚外情等风波辞职约**11天**。相关报道提到，其中一名对象爱丽丝·黄被美国情报界怀疑与中国国家安全部有关联。董事会表示，来自“美国政府高层”的意见让他们相信，黄仁勋回归不构成国家安全风险。特朗普对《华尔街日报》说，他直接并通过中间人向董事会游说，英伟达股价下跌也帮了他的忙。董事会是在自身对黄仁勋的调查结束前作出这一决定的；与此同时，司法部仍在调查爱丽丝·黄曾任职的新加坡公司Megaspeed是否把英伟达芯片转运到中国。",
+        "国家情报总监杰伊·克莱顿称，爱丽丝·黄本人也在接受调查。专家们还想弄清，董事会得到的“没有国家安全风险”保证究竟来自何处、依据是什么。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "专家怎么看",
+      "paras": [
+        "据情报和出口管制专家对《连线》表示，他们更担心这次回归树立的先例，而不是黄仁勋个人眼下还会造成多少新的泄密风险。有人认为，眼下的严苛关注反而使他更难再被利用；但也有人指出，北京可能已经通过相关关系或Megaspeed，获得了芯片设计、白宫和国会私下交流方面的信息，或得到了芯片本身，而公众仍不知道对方究竟拿到了什么。多位专家还想知道，究竟是谁、依据什么向董事会作出了“没有国家安全风险”的保证，以及政府是否做过反情报损害评估，或只是作出了政治判断。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/8b2192d8f82c3f1455af828439de04bfdf2cca42.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b05a2cb470266bfec0ce9be/master/pass/GettyImages-2306037065.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

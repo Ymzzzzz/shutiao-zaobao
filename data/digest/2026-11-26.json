@@ -1,0 +1,3156 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T07:27:12+08:00",
+  "summary_mode": "ai",
+  "top_items": [
+    "n37b5c9ba9326",
+    "ne2ee4ad33569",
+    "nd0a3a7f662b5"
+  ],
+  "items": [
+    {
+      "id": "n372ac8913322",
+      "category": "行业动态",
+      "importance": 2,
+      "verified": false,
+      "title": "阿莫代驳斥“向AI交出人类控制权”的指责",
+      "original_title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic首席执行官阿莫代发文，称“向AI交出人类自由意志”的指责荒唐，主张人类保留最终决策权，同时承认特定任务自动化与递归自我改进需要界限，并指对手同样在推进自动化。",
+      "facts": [
+        {
+          "text": "阿莫代周三在社交媒体X发长文，回击有关Anthropic主张向人工智能交出人类自由意志的指责。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+        },
+        {
+          "text": "本月早些时候，OpenAI首席执行官奥特曼表示希望人们继续对未来保有自主权，Meta人工智能首席官亚历克斯·王则称不应接受把社会移交给AI。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+        },
+        {
+          "text": "Anthropic今年6月曾表示，合并进入公司代码库的代码中有超过80%由Claude编写。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据阿莫代称，反对专制的理由同样适用于由人工智能来治理，把治理权交给AI是个坏主意。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+        },
+        {
+          "text": "据阿莫代称，在没有有意义的人类监督或理解的情况下，让Claude完全自主打造下一代前沿模型料想并不安全。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "is_primary": false,
+          "published_at": "2026-11-26T03:44:24+08:00"
+        },
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+          "is_primary": false,
+          "published_at": "2026-11-26T04:15:50+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T03:44:24+08:00",
+      "updated_at": "2026-11-26T04:15:50+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "阿莫代驳斥“向AI交出人类控制权”的指责",
+      "lead_zh": "Anthropic首席执行官达里奥·阿莫代发长文，称有关他主张把人类自主权交给人工智能的说法“荒唐”，并强调不应把社会治理交给AI。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Anthropic首席执行官达里奥·阿莫代周三在社交媒体X发长文，回击有关该公司主张“向人工智能交出人类自由意志”的指责，并称这种说法“荒唐”。此事正值竞争对手近期密集谈论人类自主权：本月早些时候，OpenAI首席执行官萨姆·奥特曼表示希望人们继续对未来保有“自主权”；Meta人工智能首席官亚历克斯·王也撰文称，不应接受把社会“移交”给人工智能。",
+            "阿莫代把“交出人类自由意志”与“让AI更自动地完成特定任务”区分开来，举例包括驾驶汽车、设计抗癌药物和端到端编写软件。他提出，递归自我改进可能需要设限。与此同时，Anthropic今年6月曾表示，合并进入公司代码库的代码中有超过**80%**由Claude编写；安全研究非营利机构METR本月的独立评估认为，该公司模型改进速度约为历史水平的两倍，主要来自AI辅助研究。公司招股文件把一代Claude加速下一代研发的过程称为“闭合循环”。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他怎么说",
+          "paras": [
+            "阿莫代写道：“我们绝不该为了效率或安全，牺牲合法性和自决。”他称，反对专制的理由同样适用于由人工智能来治理，把治理权交给AI是个坏主意。他还说，11月初已公开表示，在没有有意义的人类监督或理解的情况下，让Claude完全自主打造下一代前沿模型“料想并不安全”。他并指责竞争对手在做“基于氛围的商业和政治定位”，口头强调人类控制和把AI当作工具，但产品同样走向任务自动化。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/f75be6949dc4834beb159c3e0f55a595c5564d62.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
+      "fulltext_status": "ok",
+      "read_minutes": 4
+    },
+    {
+      "id": "n8b621e51be6e",
+      "category": "AI公司与融资",
+      "importance": 2,
+      "verified": false,
+      "title": "亚马逊今年资本开支预计达2200亿美元，AWS称AI宁快勿慢",
+      "original_title": "亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS CFO 称 AI 赛道宁快勿慢",
+      "summary": "亚马逊预计今年资本开支约2200亿美元，创历史新高，主要投向AWS和AI基础设施。AWS首席财务官费尔顿称会提前锁定土地和电力，服务器则等订单更明确再采购，并强调AI赛道要加快节奏。",
+      "facts": [
+        {
+          "text": "亚马逊预计今年资本开支约2200亿美元，创历史纪录，资金主要投向AWS以及人工智能基础设施。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/032/435.htm"
+        },
+        {
+          "text": "截至2026年第三季度，AWS待交付订单规模达5780亿美元，增速为三位数；AWS已连续六个季度加速增长，最近一季度增速39.3%。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/032/435.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据AWS首席财务官费尔顿称，公司会提前锁定土地、电力和审批，服务器等设备则延后采购，等待更明确的客户需求信号。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/032/435.htm"
+        },
+        {
+          "text": "据费尔顿称，在AI领域，行动太慢带来的风险高于大手笔投入的风险，所以选择加快节奏。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/032/435.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/032/435.htm",
+          "is_primary": false,
+          "published_at": "2026-11-25T18:24:06+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T18:24:06+08:00",
+      "updated_at": "2026-11-25T18:24:06+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "亚马逊今年资本开支预计达2200亿美元，AWS称AI宁快勿慢",
+      "lead_zh": "亚马逊预计今年资本开支约2200亿美元，创历史新高，主要投向AWS和人工智能基础设施；AWS首席财务官费尔顿称，在AI赛道行动太慢的风险高于大手笔投入。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月25日消息，亚马逊预计今年资本开支将达到约**2200亿美元**（按该报道换算约合1.47万亿元人民币），创下历史纪录，资金主要投向AWS以及人工智能基础设施。AWS首席财务官约翰·费尔顿接受《商业内幕》邮件采访，谈及如何在算力扩张与投资回报之间做取舍。",
+            "费尔顿介绍，判断投资能否回本，首先看客户是否下达长期订单。截至**2026年**第三季度，AWS待交付订单规模达到**5780亿美元**，增速为三位数，覆盖各行各业、各种规模的客户。AWS已经连续六个季度加速增长，最近一季度增速**39.3%**。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据费尔顿称，土地、电力和审批耗时数年，所以会提前敲定；服务器等可延后采购的设备，则等客户订单给出更明确信号再出手，“争取在合适的最晚时点做出正确决策”。他还说，在AI领域，行动太慢的风险高于大手笔投入的风险：“速度是一种选择，放到AI这件事上，我的答案就是要加快节奏。”"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/dced7ef3c0d754a2ec470c1d85fa28de7d55cfab.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2025/12/95087e6d-4661-4eed-ba13-0b737018ce33.jpg?x-bce-process=image/format,f_auto",
+      "fulltext_status": "ok",
+      "read_minutes": 7
+    },
+    {
+      "id": "n37b5c9ba9326",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "科学家如何划定科研AI智能体的边界",
+      "original_title": "Where scientists draw the line on AI agents",
+      "summary": "艾伦人工智能研究所访谈17名自然、应用和社会科学领域的科学家，讨论他们希望在哪些研究任务上使用AI智能体、担心什么，以及需要哪些保障才能放心把部分研究工作交给这些系统。",
+      "facts": [
+        {
+          "text": "艾伦人工智能研究所访谈了17名自然、应用和社会科学领域的科学家，了解他们对科研AI智能体的责任边界和保障需求。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+        },
+        {
+          "text": "访谈归纳出科学信任的五个维度：验证、隐私、客观、问责和透明。作者强调这是探索性研究，样本不能代表全体科学家意见。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据作者称，把文献综述、数据分析或实验步骤交给智能体，并不能免除科研人员核查证据、方法和可复现性的责任。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "is_primary": true,
+          "published_at": "2026-11-26T02:52:55+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T02:52:55+08:00",
+      "updated_at": "2026-11-26T02:52:55+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "科学家如何划定科研AI智能体的边界",
+      "lead_zh": "艾伦人工智能研究所访谈17名科学家后提出，把研究任务交给AI智能体并不能免除科研人员的责任，并归纳出验证、隐私、客观、问责和透明五项信任维度。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "艾伦人工智能研究所在Hugging Face撰文，介绍对**17名**自然、应用和社会科学领域科学家的访谈，主题是科研AI智能体应如何被负责任地开发和使用。作者指出，把文献综述、数据分析或实验室流程交给智能体，并不能免除科研人员的责任：仍需检查系统是否忽略相反证据、使用了哪些方法、访问了哪些文件，以及结果能否复现，并确保物理安全和人类受试者隐私。",
+            "访谈归纳出科学信任的五个维度：验证、隐私、客观、问责和透明。它们不仅关心答案是否正确，也关心答案如何得出、敏感信息如何保护、偏见如何识别，以及由谁核验并承担AI辅助发现的责任。作者还主张科学家应参与决定智能体承担哪些任务、如何运行，以及用什么标准评测。文章同时说明，这是对17名美国科学家的探索性访谈，并非代表性调查，也不能替代对具体系统的实证评估。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "研究者怎么看",
+          "paras": [
+            "据参与访谈的科研人员称，智能体在处理大型数据集、写代码和重复性事务上可能节省时间，但他们担心看似自信的答案里藏有细微错误，或只检索支持既有假设的文献。有人会对照原始论文核查AI摘要；也有人担心，如果研究过程被过度接管，年轻研究者可能学不到应有的技能。作者据此建议开发面向科研规范的评测，例如检查文献智能体是否忽略相反证据，或代码智能体是否访问了未授权文件。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/3c5f0d450aff744b132a1f4910861025a26ea1f0.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
+      "fulltext_status": "ok",
+      "read_minutes": 9
+    },
+    {
+      "id": "ne2ee4ad33569",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "谷歌提出可验证的大模型社交推理评测框架",
+      "original_title": "Verifiable Social Reasoning for LLM Assistants",
+      "summary": "谷歌研究用多智能体模拟构建社交推理评测：目标角色带有隐藏动机，助手只能通过用户转述来推断。团队用该框架测试了12个大模型，并开源框架和超过2万条生成样本供后续研究。",
+      "facts": [
+        {
+          "text": "谷歌研究提出基于多智能体模拟的社交推理评测框架，助手无法直接观察社交过程，只能根据用户转述推断目标角色的隐藏动机。",
+          "source": "Google Research Blog",
+          "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"
+        },
+        {
+          "text": "研究团队用该框架测试了12个大模型，并开源框架和逾2万条生成样本。模拟基于谷歌开源库Concordia扩展。",
+          "source": "Google Research Blog",
+          "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据研究团队称，模型在只能通过用户转述推理时明显更困难，而且容易受用户表述框架影响，往往需要比人类更多的细节才敢给出判断。",
+          "source": "Google Research Blog",
+          "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Google Research Blog",
+          "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+          "is_primary": true,
+          "published_at": "2026-11-26T01:10:27+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T01:10:27+08:00",
+      "updated_at": "2026-11-26T01:10:27+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌提出可验证的大模型社交推理评测框架",
+      "lead_zh": "谷歌研究发布基于多智能体模拟的评测框架，用于检验大模型助手在只听到用户转述时，能否推断他人的隐藏动机，并开源框架和逾2万条样本。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "谷歌研究发布面向大模型助手的社交推理评测框架。与数学或代码等拥有完整客观信息的任务不同，实际助手往往只能通过用户的主观转述了解社交事件。框架先给目标角色设定隐藏动机，再让其与包括用户在内的其他智能体互动；随后由用户向受测助手咨询，助手必须据此推断该隐藏动机。模拟与问询分开进行，以便同一批情景复用于不同模型。",
+            "团队基于谷歌开源库Concordia扩展了多智能体模拟，并用该框架测试了**12个**大模型。评测还设置了可调节的用户认知滤镜，例如把用户设为自信或缺乏安全感。研究同时开源了框架和超过**2万条**生成样本，供后续实验使用。"
+          ],
+          "sources": [
+            "Google Research Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "研究发现了什么",
+          "paras": [
+            "据研究团队称，若让同一模型直接以“旁观者”身份看到未经转述的客观事件，预测隐藏动机的准确率会明显高于只与用户交谈时，这被他们称为助手与观察者之间的差距。该差距在用户带有明显偏见时还会加大：模型有时会附和用户缺乏根据的怀疑，而不是依据底层事实来判断。团队还称，更细的叙述能提升表现，即使多出来的细节并非做出正确判断所必需；更长的多轮对话也不总是带来更高准确率，模型可能为了保持连贯而锚定在用户的主观框架上。"
+          ],
+          "sources": [
+            "Google Research Blog"
+          ]
+        }
+      ],
+      "image_url": "img/9d1939471da6011142454f403e3cc9156e1fef9a.jpg",
+      "image_source": "Google Research Blog",
+      "image_origin_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning1-UserMediatedReality.png",
+      "fulltext_status": "ok",
+      "read_minutes": 7
+    },
+    {
+      "id": "nd0a3a7f662b5",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "IBM用CUGA打造印度语言农业语音助手",
+      "original_title": "An Indic Voice Agent with CUGA",
+      "summary": "IBM研究院用开源框架CUGA做了一个农业语音助手：农民可用印地语等语言口头提问，系统检索154页英文手册，只用手册内容以提问语言回答两到四句，并展示来源页面。",
+      "facts": [
+        {
+          "text": "IBM研究院基于开源智能体框架CUGA做了一个农业语音助手，可把口头提问转成文字，检索154页英文农技手册，并用提问语言回答两到四句。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+        },
+        {
+          "text": "CUGA是IBM研究院的开源智能体框架，可在watsonx和OpenAI等模型之间切换，并在本地解析、切分和检索PDF。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据作者称，最大难点不是语音，而是跨语言检索：若仍用仅支持英语的嵌入模型，印地语或泰米尔语提问会找到不相关段落，模型又因被要求只根据检索结果作答而表示手册未覆盖该问题。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "is_primary": true,
+          "published_at": "2026-11-25T18:22:09+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T18:22:09+08:00",
+      "updated_at": "2026-11-25T18:22:09+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "IBM用CUGA打造印度语言农业语音助手",
+      "lead_zh": "IBM研究院基于开源智能体框架CUGA构建语音助手，农民可用印地语等语言提问，系统检索154页英文农技手册，再用提问语言作答并展示出处页。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IBM研究院在Hugging Face发文，介绍基于开源智能体框架CUGA搭建的印度语言语音助手。使用场景是农业助理：农民用印地语、泰米尔语、泰卢固语、古吉拉特语或马拉地语等口头提问，例如如何区分好坏种子。系统先把语音转成文字，再检索一本**154页**的英文农技手册，只用手册里的内容，以提问所用语言回答两到四句，并朗读出来、展示来源页，以便核对。若有人问起板球或编程，助手会把话题引回农业，而不是编造答案。",
+            "CUGA（ConfigUrable Generalist Agent）是IBM研究院的开源智能体框架，负责模型接入、工具、状态和护栏。演示里可在watsonx和OpenAI之间切换，并在本地解析、切分和检索PDF；每次提问使用独立会话，避免不同用户的语言或上下文串扰。语音被做成文本进出之外的薄层，可先用纯文本开发和测试，再接上语音。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "作者怎么说",
+          "paras": [
+            "据作者称，难点不在加语音，而在跨语言检索：CUGA默认嵌入模型只处理英语，印地语或泰米尔语提问仍会返回五条结果，但往往不是正确段落，模型又因被要求只根据给定内容作答，会表示“手册没有写到这一点”。他们改用多语言嵌入模型intfloat/multilingual-e5-large后，同一份英文文档便可服务多种语言。作者建议，调提示词之前，先用非英语问一句，确认系统能否找到正确页面。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/3ef33f08a6f9e25dd2eabe6bc21778d49b7c6107.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png",
+      "fulltext_status": "ok",
+      "read_minutes": 6
+    },
+    {
+      "id": "nd8d6777ecf09",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": true,
+      "title": "单卡调优Inkling 2 Mini在RTX PRO 6000上的推理",
+      "original_title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "Inkling 2 Mini总参数约260亿、每词元激活30亿，支持多模态和100万词元上下文。Hugging Face介绍如何在一块RTX PRO 6000上调优推理，并称它在48项基准中的32项领先同级模型。",
+      "facts": [
+        {
+          "text": "上周发布的Inkling 2 Mini总参数约260亿，每个词元激活30亿参数，支持多模态输入和100万词元上下文。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+        },
+        {
+          "text": "作者称该模型在Artificial Analysis Intelligence Index v5上领先同重量级，并在48项基准中的32项优于Gemma 4 31B和Qwen3.8-27B等模型。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据作者称，其性能可能与循环混合专家架构有关：24个物理层中，中间12层会运行三次，因而每个词元实际经过48层。",
+          "source": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "is_primary": true,
+          "published_at": "2026-11-25T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T08:00:00+08:00",
+      "updated_at": "2026-11-25T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "单卡调优Inkling 2 Mini在RTX PRO 6000上的推理",
+      "lead_zh": "Hugging Face介绍上周发布的Inkling 2 Mini：总参数约260亿、每词元激活30亿，可在单张专业显卡上推理，48项基准中有32项领先同级模型。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Hugging Face发文介绍上周发布的开源模型Inkling 2 Mini，并记录如何在一块RTX PRO 6000上做推理调优。该模型总参数约**260亿**，每个词元激活**30亿**参数，支持多模态输入和**100万**词元上下文。作者称，它在Artificial Analysis Intelligence Index v5上领先同重量级，并在**48**项基准中的**32**项优于Gemma 4 31B和Qwen3.8-27B等模型，适合在算力有限的本地环境做编程、工具调用和推理。",
+            "模型采用循环混合专家架构：共**24**个物理层，中间**12**层会运行三次，因而每个词元实际经过**48**层。发布的检查点采用NVFP4与MXFP8混合精度，并附带用于推测解码的DSpark草稿模型。vLLM和SGLang的夜间构建已提供支持，但已公布的部署配方主要面向英伟达B200和GB300，不一定适用于RTX PRO 6000这类架构不同的显卡，这也是作者要单卡调优的原因。"
+          ],
+          "sources": [
+            "Hugging Face Blog"
+          ]
+        }
+      ],
+      "image_url": "img/6b0972415828c2935fca1528a7052ceb2f5194c3.jpg",
+      "image_source": "Hugging Face Blog",
+      "image_origin_url": "https://huggingface.co/blog/assets/inkling-2-mini-inference-hillclimb/thumbnail.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ncf92346a7f78",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "用分形边界动态生成权重，存储可固定为24字节",
+      "original_title": "Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics",
+      "summary": "论文提出分形神经合成方法，不再把隐藏层权重存成随参数量线性增大的张量，而是用靠近复二次分岔边界的24字节坐标种子按程序生成权重，面向存储受限的边缘微控制器作了系统评估。",
+      "facts": [
+        {
+          "text": "论文提出分形神经合成方法，用靠近复二次分岔边界、长度为24字节的坐标种子生成隐藏层权重，替代随参数量线性增长的显式张量存储。",
+          "source": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.32393"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.32393",
+          "is_primary": true,
+          "published_at": "2026-11-25T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T08:00:00+08:00",
+      "updated_at": "2026-11-25T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "用分形边界动态生成权重，存储可固定为24字节",
+      "lead_zh": "一篇论文提出分形神经合成方法，用靠近复二次分岔边界的24字节坐标种子生成隐藏层权重，以降低边缘微控制器上随参数量线性增长的存储占用。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "论文写了什么",
+          "paras": [
+            "这篇提交到 Hugging Face Daily Papers 的论文指出，传统神经网络把突触参数存成显式张量，持久存储占用会随参数量线性增长，限制了存储紧张的边缘微控制器。作者提出分形神经合成方法，用靠近复二次映射分岔边界、长度为**24字节**的坐标种子，按程序生成隐藏层权重，使这部分存储不再随参数量增加。",
+            "方法在复平面上的二次迭代附近放置种子，并引入大逃逸半径的平滑逃逸核，以及四种几乎不增加额外开销的几何采样孔径，包括笛卡尔网格、互素的三分法取样、黄金角螺旋等。论文称对这些设计做了系统评估，目标是在资源受限的边缘设备上，用恒定存储推导出可用的网络权重。种子被放在复二次迭代的分岔边界附近，以便用固定长度的坐标推导出可用权重。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/e1793ac1e14b687dec49219afaa99aef9a41e30e.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.32393.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n2336cbb76de9",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "用点动力学作为机器人世界模型的中间层",
+      "original_title": "Point Dynamics as Proxy for Robotic World Models",
+      "summary": "机器人世界模型常能跟上动作，但被操作物体容易崩塌或运动不一致。论文把动力学预测与视觉渲染分开，先把首帧抬到三维点并模拟其对动作的响应，再据此生成画面，以减轻物体运动错误。",
+      "facts": [
+        {
+          "text": "论文认为，现有机器人世界模型虽能跟上给定动作，但被操作物体常会崩塌或运动不一致，原因是动作条件没有说明场景如何响应。",
+          "source": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.25946"
+        },
+        {
+          "text": "作者把动力学预测与视觉渲染分开，先把首帧抬到三维点，模拟点对机器人动作的响应，再据此生成画面。",
+          "source": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.25946"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.25946",
+          "is_primary": true,
+          "published_at": "2026-11-25T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T08:00:00+08:00",
+      "updated_at": "2026-11-25T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "用点动力学作为机器人世界模型的中间层",
+      "lead_zh": "一篇论文提出把三维点动力学作为机器人世界模型的中间表示，先预测场景如何响应动作，再渲染画面，以减轻被操作物体崩塌和运动不一致的问题。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "论文写了什么",
+          "paras": [
+            "机器人世界模型通常根据当前观测和一系列机器人动作，预测未来视频帧。论文指出，近期模型虽然能比较忠实地跟随给定动作，但被操作的物体常常崩塌，或运动与动作不一致。作者把问题归结为条件信号不足：动作或机器人的渲染只说明机器人去哪里，并不说明场景会如何响应，于是同一个视频模型既要暗中推断交互动力学，又要渲染外观。",
+            "为此，作者把动力学预测和视觉渲染分开，用三维点动力学作为二者之间的中间表示。具体做法是先把第一帧抬升为三维点，模拟这些点如何响应机器人运动，再根据点的动态去生成画面。这样，交互过程不再完全隐式地交给单一视频模型，希望减轻物体运动错乱和外观崩塌。作者希望用这种显式中间层，避免把物体如何响应动作完全交给单一视频模型去暗中推断。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/663fe6e2153726bee9db3eda5888cbb2cd7eca23.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.25946.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n9fcec168353c",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "受控负载下拆解语言模型的三类出错方式",
+      "original_title": "Degradation of Language Models under Controlled Load: Synchronization, Rule Execution and Misfires on the Background",
+      "summary": "论文在无意义文本上用“用一词替换另一词”的规则施加受控负载，把语言模型出错拆成跟丢原文、规则执行错误，以及改动规则并未涉及的词，并分别测量文本长度、替换密度和规则数量的影响。",
+      "facts": [
+        {
+          "text": "论文在受控负载下把语言模型质量下降拆成三类：与原文失去对应、规则执行错误，以及改动了规则并未涉及的词。",
+          "source": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.27404"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.27404",
+          "is_primary": true,
+          "published_at": "2026-11-25T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T08:00:00+08:00",
+      "updated_at": "2026-11-25T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "受控负载下拆解语言模型的三类出错方式",
+      "lead_zh": "一篇论文在受控负载下把语言模型质量下降拆成同步、规则执行和误触发三类，并分别改变文本长度、替换密度和规则数量进行测量。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "论文写了什么",
+          "paras": [
+            "这篇论文关注语言模型在负载升高时为何会越来越多地出错。作者认为，质量下降背后不是单一过程：模型可能与源文本失去对应，也可能还停在正确位置却把规则执行错，或者改动了规则根本没有涉及的词。文章把这三类分别称为同步、规则执行和误触发，并在受控条件下把它们拆开测量。",
+            "负载由“在无意义文本里用一个词替换另一个词”的规则来设定。作者分别改变文本长度、目标词在回答中的位置、替换密度、规则数量以及一条规则在列表中的位置，观察不同类型的错误如何随这些因素变化，而不是只报告一个笼统的准确率下降。这样一来，准确率下降就可以被拆开归因，而不是只看成模型在高负载下笼统变差。作者指出，不同负载因素可能分别放大其中某一类错误。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/aaae9aad91c175e8f7aeecd8ebabb9b257ab72a8.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.27404.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n4e66c4d6cab3",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "OWE-Bench用26项长程任务评测真实工程能力",
+      "original_title": "OWE-Bench: A long-horizon benchmark for measuring real-world engineering",
+      "summary": "OWE-Bench包含26项由领域专家撰写的长程工程任务，模型平均每个任务消耗数亿词元。目前最好的Claude Fable 5.2得分54.6%；模型在隐藏测试用例上平均低18分，作者称之为部署差距。",
+      "facts": [
+        {
+          "text": "OWE-Bench包含26项由领域专家撰写的长程工程任务，覆盖软件工程、物理工程、机器学习和科学计算，模型平均每个任务消耗数亿词元。",
+          "source": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.30017"
+        },
+        {
+          "text": "目前表现最好的Claude Fable 5.2得分54.6%，平均每个任务使用2.11亿词元；模型在隐藏测试用例上平均低18分。",
+          "source": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.30017"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.30017",
+          "is_primary": true,
+          "published_at": "2026-11-25T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T08:00:00+08:00",
+      "updated_at": "2026-11-25T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "OWE-Bench用26项长程任务评测真实工程能力",
+      "lead_zh": "新基准OWE-Bench包含软件、物理、机器学习和科学计算等26项由领域专家撰写的长程工程任务，目前表现最好的Claude Fable 5.2得分54.6%。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "论文写了什么",
+          "paras": [
+            "论文发布长程工程基准OWE-Bench，包含由领域专家撰写的**26**项任务，覆盖软件工程、物理工程、机器学习和科学计算，例子从优化计算内核、设计飞机，到找出导致地震的断层。每项任务都需要大量领域知识和工程工作，模型平均每个任务消耗数亿词元。评分看速度、成本和准确率，既包括模型可用来自测的公开用例，也包括工程师根据题面会预期、但模型事先看不到的隐藏用例。",
+            "目前表现最好的前沿模型是Claude Fable 5.2，得分**54.6%**，平均每个任务使用**2.11亿**词元。作者给出两点发现：给模型更长时间时，它们会使用更多测试时计算并得到更高分数，其中GPT-6 Astra在较短时限和同等词元用量下分数更高，Fable 5.2则在更长时限下靠消耗更多词元拿到最高总分。此外，各模型在隐藏用例上的得分平均比公开用例低**18**分，作者称之为部署差距；模型还往往低估这一差距，对隐藏用例表现的自我估计平均高出**21**分。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/003b3c6531d66eed615911f3cd745bd1dda78211.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.30017.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n9d82d1ca4c6f",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": true,
+      "title": "SpatialArena用统一规则评测几何基础模型",
+      "original_title": "SpatialArena: Where Do Geometric Foundation Models Stand?",
+      "summary": "作者认为现有几何模型分数难以横向比较，因为取帧、分辨率和划分不统一，对齐方式也会显著改变误差。SpatialArena用同一规则评测52个模型，覆盖5项任务和约41.9万张图像。",
+      "facts": [
+        {
+          "text": "SpatialArena用同一套指标和稳健对齐评测52个几何模型，覆盖5项任务、23个公开数据集和418929张图像。",
+          "source": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.32816"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据作者称，现有公开数字难以比较，因为取帧、分辨率和测试划分不统一；错误的深度对齐几乎会让误差扩大到三倍，常用轨迹对齐最多会把失败方法的误差低估2.6倍。",
+          "source": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.32816"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Hugging Face Daily Papers",
+          "url": "https://arxiv.org/abs/2611.32816",
+          "is_primary": true,
+          "published_at": "2026-11-25T08:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T08:00:00+08:00",
+      "updated_at": "2026-11-25T08:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "SpatialArena用统一规则评测几何基础模型",
+      "lead_zh": "论文发布开放评测平台SpatialArena，用同一套指标和稳健对齐评测52个几何模型，覆盖5项任务、23个公开数据集和约41.9万张图像。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "论文写了什么",
+          "paras": [
+            "三维感知正从任务专用流程转向几何基础模型，包括单目深度网络、前馈三维或四维重建模型，以及预测几何的视觉语言模型。论文认为，现有公开数字很难横向比较，因为各篇文章取帧、设定分辨率和选择测试划分的方式不同；对齐方式也会明显改变误差：在错误的空间里拟合深度，误差几乎会扩大到三倍，而常用的轨迹对齐最多会把失败方法的误差低估**2.6倍**。现有评测还很少覆盖长录像、动态场景或航拍视角。",
+            "为此，作者发布开放评测平台SpatialArena，用同一套指标和更稳健、可复现的对齐规则打分。它覆盖从单目深度到即时定位与地图构建等**5**项任务，包含**23**个公开数据集、共**418929**张图像，场景类型包括室内、室外、航拍、物体中心和动态场景，并附带作者自行采集、带有精确位姿和深度的数据。他们对**52**个模型的评测发现，单图深度在公开基准上已接近饱和，但在更大、更不受控的场景上并非如此；当前进展更多来自跨帧和跨视角的一致性，前馈三维或四维模型已能匹敌或超过单目专项模型，并超越视频深度模型。"
+          ],
+          "sources": [
+            "Hugging Face Daily Papers"
+          ]
+        }
+      ],
+      "image_url": "img/cc725136efa3f2ea58a875e2ba5f25a07de9d2a2.jpg",
+      "image_source": "Hugging Face Daily Papers",
+      "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.32816.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n7bb959aaf52e",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "谷歌专利设想用AI生成个性化视频频道",
+      "original_title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "summary": "谷歌去年申请的“My Channel”专利描述，根据用户人口统计和观看历史自动生成提示词，再由大模型生成个性化AI视频和广告。The Verge称该专利目前已被驳回，但谷歌仍可能上诉或修改后再提交。",
+      "facts": [
+        {
+          "text": "谷歌去年申请的“My Channel”专利描述根据用户人口统计和观看历史生成提示词，再用大模型生成个性化AI视频和广告。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+        },
+        {
+          "text": "该专利目前已被驳回，但报道称谷歌仍可能上诉或修改后再次提交。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+        }
+      ],
+      "claims": [],
+      "analysis": [
+        {
+          "text": "The Verge认为，即便专利被驳回，这种用个人信息批量生成视频和广告的设想，仍描绘出令人不安的娱乐业未来。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+          "is_primary": false,
+          "published_at": "2026-11-26T05:51:26+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T05:51:26+08:00",
+      "updated_at": "2026-11-26T05:51:26+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "谷歌专利设想用AI生成个性化视频频道",
+      "lead_zh": "The Verge报道，谷歌去年申请的“My Channel”专利描述根据用户人口统计和观看历史，用大模型生成个性化AI视频和广告，该专利目前已被驳回。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge报道，谷歌去年申请了一项名为“My Channel”的专利，系统设计用于根据公司掌握的用户信息，生成充满个性化人工智能视频和广告的信息流。专利描述会利用用户的人口统计数据和观看历史，自动写出提示词，再送入大模型，生成符合其兴趣的视频。该专利于去年5月提交，上周公开，并最早由Patentlyze发现。",
+            "报道称，这项专利目前已被驳回。作者同时指出，谷歌仍可能上诉，或提交修改后的版本，因此类似产品仍有进入市场的可能。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "The Verge把这项专利看作对娱乐业未来的暗淡想象：信息流里的内容不再主要来自创作者，而是由平台根据它所掌握的用户数据，用模型批量生成视频和广告。文章认为，即便眼下申请未获通过，这种把观看历史直接变成定制影像和推销的思路，仍然值得警惕。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/cec1748af4d86b5339b01ceb4dbe6a60ce0aa0dd.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ne99bede8482e",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "报道称芯片限制和防蒸馏已拖慢中国AI实验室",
+      "original_title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+      "summary": "The Decoder援引The Information报道称，芯片远程访问限制和防蒸馏措施已导致部分中国实验室项目延期。DeepSeek研究人员估计，若无法再蒸馏，与美国顶尖模型的差距可能扩大到9个月；月之暗面已取消一笔1.5亿美元的芯片交易。",
+      "facts": [
+        {
+          "text": "The Information报道称，自9月以来，美国限制中国企业远程访问境外先进英伟达芯片，再加上OpenAI和Anthropic的防蒸馏措施，已给深度求索、月之暗面和阿里巴巴等带来压力。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该报道称，深度求索研究人员上月内部估计，若蒸馏完全消失，他们与美国顶尖模型的差距可能从三到六个月扩大到九个月。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/"
+        },
+        {
+          "text": "据该报道称，月之暗面已取消一笔在印度尼西亚采购英伟达Blackwell芯片、价值1.5亿美元的交易。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+          "is_primary": false,
+          "published_at": "2026-11-26T04:51:02+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T04:51:02+08:00",
+      "updated_at": "2026-11-26T04:51:02+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报道称芯片限制和防蒸馏已拖慢中国AI实验室",
+      "lead_zh": "报道称自9月以来，美国限制中国企业远程访问境外先进芯片，再加上防蒸馏措施，已给深度求索、月之暗面和阿里巴巴等实验室带来压力。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder援引The Information报道称，美国正通过限制中国企业远程访问境外数据中心中的先进英伟达芯片，以及OpenAI、Anthropic已见效的防蒸馏措施，加大在人工智能竞争中的压力。报道说，自**9月**以来，深度求索、月之暗面和阿里巴巴等开发者已感受到影响，许多进行中的项目出现延期。",
+            "报道还提到，中国公司正在寻找新的变通办法，包括通过非中国的第三方租用算力；MiniMax、米哈游和阿里巴巴等则更多转向国产芯片，并加大用于自身强化学习的训练数据投入。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么说",
+          "paras": [
+            "据该报道称，深度求索研究人员上月在内部估计，如果蒸馏完全消失，他们与美国顶尖模型的差距可能从三到六个月扩大到**九个月**。报道还称，月之暗面已经取消一笔在印度尼西亚采购英伟达Blackwell芯片、价值**1.5亿美元**的交易。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/1b216aef2483919808d1191ffc9759de2500f749.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/us_china.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n4c44ce30146b",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "OpenAI合并Chat与Work，重度用户或更早碰到额度",
+      "original_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI产品负责人蒂博·索蒂奥在X上表示，已开始向一小部分ChatGPT Pro用户推送合并后的Chat与Work体验。公司发言人说，多数用户不会更频繁碰到额度重置，但少部分重度用户可能更早用完。",
+      "facts": [
+        {
+          "text": "OpenAI已开始向一小部分ChatGPT Pro用户推送合并后的Chat与Work界面，产品负责人蒂博·索蒂奥周二在X上确认。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+        },
+        {
+          "text": "发言人表示，大多数用户不会更频繁遇到额度重置，但少部分最重度用户可能更早碰到上限；公司计划12月更广泛引入共享额度。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据OpenAI发言人称，大多数用户预计不会更频繁地遇到使用量重置，但少部分最重度用户可能会更早碰到限额。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "is_primary": false,
+          "published_at": "2026-11-26T04:03:27+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T04:03:27+08:00",
+      "updated_at": "2026-11-26T04:03:27+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "OpenAI合并Chat与Work，重度用户或更早碰到额度",
+      "lead_zh": "OpenAI开始向部分ChatGPT Pro用户推出合并后的Chat与Work界面，发言人表示大多数用户不会更频繁重置额度，但少部分重度用户可能更早用完。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "OpenAI开始把ChatGPT里的对话体验和工作体验合并到同一界面，并已向一小部分Pro订阅用户推送。产品负责人蒂博·索蒂奥周二在社交媒体X上确认了这一小范围上线，此前公司已通过电子邮件向用户预告合并。部分订阅者担心，合并后自己的用量会受到更多限制。",
+            "公司还计划在**12月**更广泛引入共享使用额度。文章提到，竞争对手Anthropic已在**9月**把对话服务Claude与面向工作的Cowork放到同一界面下。这次调整出现在人工智能公司面临基础设施成本上升、对更强模型需求增加，从而给算力资源带来压力的背景下。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据OpenAI发言人对TechCrunch表示，大多数用户预计不会更频繁地遇到使用量重置，但少部分最重度用户可能会更早碰到限额。这也是一些订阅者在社交媒体和用户社区里提出的主要担心之一。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/cba6b7779fc2dd5bea5bf1299773b5a4d2ae94b3.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "ne7d7a2ca3b37",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "黄仁勋承认违反行为准则，员工观感仍存变数",
+      "original_title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "黄仁勋回归后首次全员讲话承认违反公司行为准则，但强调违规后还要看事实和情节，并不等于立刻被辞退。合规专家普拉思认为，最大风险是员工为领导未能守住伦理标准而感到难堪或愤怒。",
+      "facts": [
+        {
+          "text": "黄仁勋在回归后的首次全员讲话中承认自己违反了英伟达行为准则，同时表示违规并不意味着立刻被辞退，还要看事实、情节和评估。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据合规培训公司LRN的普拉思称，当高层未能守住伦理标准时，新一代员工常会感到难堪甚至愤怒，这可能损害他们对公司的认同。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "is_primary": false,
+          "published_at": "2026-11-26T03:54:57+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T03:54:57+08:00",
+      "updated_at": "2026-11-26T03:54:57+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "黄仁勋承认违反行为准则，员工观感仍存变数",
+      "lead_zh": "黄仁勋回归后首次全员讲话中承认自己违反了英伟达行为准则，同时表示违规并不等于立即离职；有合规专家担心这可能影响员工对公司伦理标准的看法。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "黄仁勋回归英伟达首席执行官后首次召开全员会议，讲话里特别谈到公司行为准则。他承认自己违反了准则，同时强调没有人可以例外；但据《连线》引述，他又说这“并不意味着一违反行为准则，我们就把你请出门”，还要看“事实、情节和大量评估”。也就是说，准则对所有人适用，但违规并不自动等于丢职，首席执行官本人似乎也不例外。",
+            "TechCrunch写道，这种表态对一家首席执行官已承认破规的公司来说相当尴尬。行为准则常被看成近似法律的规则手册，但受访专家认为，它更主要是企业文化的镜子：一次未受惩罚的违规，最大风险未必是法律后果，而是员工对供职公司感到难堪或愤怒。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "专家怎么说",
+          "paras": [
+            "据合规培训公司LRN首席市场策略官马特·普拉思称，他近期调查了逾**2000名**不同行业员工。在他看来，如今年轻人非常看重公司的伦理标准，高层让他们失望时，他们会感到难堪和愤怒。他举例说，有公司为节省成本禁止商务出行，首席执行官却出现在奥运会贵宾包厢，此后十多年里“奥运会”都成了公司内部最坏示范的代名词。普拉思也承认，在首席执行官几乎与公司画等号、又缺乏清晰继任方案的企业里，按常规模板撤换高层会困难得多。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/dedef4bf0159a06d72b0fa8c508506eb064e074b.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n32865a308770",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "OpenAI测试“私密推理”，称企业查询数据对公司不可见",
+      "original_title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+      "summary": "OpenAI首席执行官奥特曼称，公司已开始与首批企业客户试运行此前宣布的“私密推理”。该功能把查询放在可独立验证的隔离硬件上处理，目标是让企业在OpenAI看不到数据的前提下使用其最强模型。",
+      "facts": [
+        {
+          "text": "OpenAI正在与首批企业客户试运行“私密推理”，称可在公司无法访问数据的前提下，用其最强模型处理查询。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据奥特曼称，更好的隐私能让人工智能适用于更广泛的工作；负责该项目的员工谢卡尔则称，这是迈向“人人可享的私密智能”的第一步。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+          "is_primary": false,
+          "published_at": "2026-11-26T02:22:02+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T02:22:02+08:00",
+      "updated_at": "2026-11-26T02:22:02+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "OpenAI测试“私密推理”，称企业查询数据对公司不可见",
+      "lead_zh": "OpenAI正在与首批企业客户试运行“Private Inference”，称查询在可独立验证的隔离硬件上处理，公司无法查看客户数据。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "OpenAI正在测试名为“私密推理”的新功能，让企业在公司无法查看数据的前提下，使用其最强模型处理查询。首席执行官萨姆·奥特曼表示，这项此前已宣布的服务，现在已与首批企业客户开始试运行。目前该功能面向企业客户，而企业数据本来就不会被用于训练；相比之下，消费者版ChatGPT的对话默认会用于训练，除非用户退出。",
+            "据OpenAI介绍，查询会在可独立验证安全性的专用隔离硬件上处理。奥特曼还提到“私密安全处理”：系统可扫描滥用内容却不存储客户数据，被标记的内容加密后存在客户自己的云里，只有受保护的审查系统才能读取。报道称，谷歌也在以类似思路推进Private AI Compute。OpenAI目前仍在扩充支撑该服务扩容所需的算力。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据奥特曼称，更好的隐私能让人工智能适用于范围更广的工作。负责此项工作的OpenAI员工谢卡尔则表示，这是迈向“人人可享的私密智能”的第一步。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nc2211ba4f6cd",
+      "category": "政策与安全",
+      "importance": 1,
+      "verified": false,
+      "title": "纽约签署法案，五年内禁止销售AI聊天玩具",
+      "original_title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "纽约成为继加州之后第二个禁止AI聊天玩具的州。禁令针对内置联网聊天机器人的毛绒玩具、玩偶和机器人，为期五年，签署90天后生效；州政府称违规罚款可达每天1.5万美元。",
+      "facts": [
+        {
+          "text": "纽约州长霍楚尔本周签署法案，禁止在该州制造、分销和销售内置AI聊天机器人的玩具，禁令为期五年，将在签署90天后生效。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+        },
+        {
+          "text": "纽约成为继加州之后第二个禁止此类玩具的州；州政府称违规罚款可达每天1.5万美元。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据霍楚尔称，家长不应担心被包装成玩具的聊天机器人让孩子接触不当对话、操纵情绪或危及隐私。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "is_primary": false,
+          "published_at": "2026-11-26T02:11:46+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T02:11:46+08:00",
+      "updated_at": "2026-11-26T02:11:46+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "纽约签署法案，五年内禁止销售AI聊天玩具",
+      "lead_zh": "纽约州长霍楚尔本周签署法案，禁止在该州制造、分销和销售内置AI聊天机器人的玩具，禁令为期五年，将在签署90天后生效。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "纽约州长凯西·霍楚尔本周签署法案，禁止在该州制造、分销和销售内置或集成人工智能聊天机器人的玩具，例如依赖互联网与儿童持续对话的毛绒玩具、玩偶和机器人，禁令为期**五年**。纽约因此成为继加州之后第二个出台此类禁令的州。法律将在签署**90天**后生效，因此仍有家长可能赶在假期买到这类产品，但州长呼吁不要购买。",
+            "同期发布的Common Sense Media研究称，大约四分之一家有**8岁**以下孩子的美国家长，已经拥有人工智能玩具，或考虑在这个假期送给孩子。州政府表示将与司法部长合作执法，违规罚款可达每天**1.5万美元**。当被问及亚马逊将如何配合、包括如何约束第三方卖家时，该公司发言人只说会采取措施限制在禁售地区销售此类玩具，没有给出细节。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据霍楚尔称，家长在节日或其他场合买礼物时，不应担心“被包装成玩具的危险聊天机器人”让孩子接触不当对话、操纵情绪或危及隐私，她把这类产品称为“未受监管的人工智能”。Common Sense Media的研究则提示，这类玩具可能给儿童的情感发展带来风险，并让他们接触不适当的内容。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/114939695df49ab9f08fee3502a6c14785859d98.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n1343f7f3b435",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "美国联邦通信委员会批准SpaceX部署至多100万颗算力卫星",
+      "original_title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "美国联邦通信委员会批准SpaceX部署最多100万颗搭载AI芯片的卫星，这是该机构首次批准完整的AI卫星星座。许可要求2033年前至少部署一颗，2040年前达到100万颗；对600公里以上“墓地轨道”弃星请求则暂缓决定。",
+      "facts": [
+        {
+          "text": "美国联邦通信委员会周三批准SpaceX在“Starmind”计划下部署最多100万颗搭载AI芯片的卫星，要求2033年前至少部署一颗，2040年前达到100万颗。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "is_primary": false,
+          "published_at": "2026-11-26T01:44:51+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T01:44:51+08:00",
+      "updated_at": "2026-11-26T01:44:57+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "美国联邦通信委员会批准SpaceX部署至多100万颗算力卫星",
+      "lead_zh": "美国联邦通信委员会周三批准SpaceX在“Starmind”计划下部署最多100万颗搭载AI芯片的卫星，要求2033年前至少发射一颗，并在2040年前达到百万颗。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "美国联邦通信委员会周三宣布，批准SpaceX在埃隆·马斯克旗下公司的“Starmind”计划中，部署最多**100万**颗搭载人工智能芯片的卫星。报道称，谷歌和蓝色起源等也在探索把人工智能数据中心送上太空，但这是该机构首次批准完整的人工智能卫星星座。",
+            "许可要求SpaceX在**2033年**前至少部署一颗卫星，并在**2040年**前达到100万颗的里程碑。委员会还暂缓了SpaceX的另一项请求：把位于**600公里**以上轨道的卫星送入所谓“墓地轨道”处理，而不是使其在地球大气层中烧毁。报道没有写明这项弃星请求最终会如何决定。报道写明，这是该委员会首次批准完整的人工智能卫星星座；对600公里以上轨道弃星方式的最终决定，目前仍未公布。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/f558249e4c0982cad20dea8ee201a3b556ff0d61.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n92419877312e",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "42个州检察长反对Character.AI拍卖用户私聊",
+      "original_title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "summary": "42个州的检察长介入Character.AI破产程序，试图阻止该公司把用户私聊等敏感数据拍卖给竞买方。检察长称，拟出售的数据涉及超过2100万个美国账户，其中约210万个注册为未成年人。",
+      "facts": [
+        {
+          "text": "42个州的检察长介入Character.AI破产程序，要求阻止该公司出售用户敏感数据。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+        },
+        {
+          "text": "检察长称，拟出售的数据涉及超过2100万个美国账户的聊天记录等个人信息，其中约210万个注册为未成年人。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据参与行动的州检察长称，拟议的破产出售包含2100多万个美国账户的敏感个人数据，其中包括210万个注册为未成年人的账户。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "is_primary": false,
+          "published_at": "2026-11-26T01:35:58+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T01:35:58+08:00",
+      "updated_at": "2026-11-26T01:35:58+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "42个州检察长反对Character.AI拍卖用户私聊",
+      "lead_zh": "在Character.AI破产程序中，42个州的检察长要求阻止出售用户敏感数据，称数据集涵盖逾2100万个美国账户，其中约210万个注册为未成年人。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Character.AI进入破产程序后，计划把用户数据拍卖给出价最高的买家。现在，由**42**个州检察长组成的联盟介入这一程序，试图阻止这家聊天机器人公司出售敏感用户数据，其中包括数百万用户的私密对话。各州检察长已分别发布说明，解释他们为何反对这笔交易。",
+            "除聊天记录外，拟议出售还涉及其他个人数据。报道提出的核心问题是：当一家人工智能公司破产时，用户的私密对话会去向何处。检察长们希望法院阻止把这些数据作为破产资产卖掉。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "检察长怎么说",
+          "paras": [
+            "据参与行动的州检察长称，Character.AI拟出售的数据集包含超过**2100万**个美国账户的敏感个人数据，其中超过**210万**个账户注册为未成年人。他们担忧，这些私聊和身份信息一旦在破产拍卖中易手，用户尤其是未成年人将难以再控制自己的数据。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/00eddf6acd146f493bb9e3c554bf79bfa2222572.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n7b7cb44d5be8",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "研讨认为战时针对数据中心的军事打击不会停止",
+      "original_title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "summary": "Ars Technica与英国皇家联合军种研究所的贾内茨基讨论战时云设施安全。今年中东战事中，亚马逊数据中心首次遭到军事打击，俄乌也以无人机互袭对方数据中心，显示公共云正被当作军事目标。",
+      "facts": [
+        {
+          "text": "Ars Technica举办讨论指出，今年中东战事中亚马逊数据中心首次遭到军事打击，俄乌也以无人机频繁互袭对方数据中心。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据英国皇家联合军种研究所的贾内茨基称，公共云数据中心因具有军民两用性质，在2026年伊朗战争和俄罗斯全面入侵乌克兰期间，越来越多地成为军事目标。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+          "is_primary": false,
+          "published_at": "2026-11-26T00:47:14+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T00:47:14+08:00",
+      "updated_at": "2026-11-26T00:47:14+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "研讨认为战时针对数据中心的军事打击不会停止",
+      "lead_zh": "Ars Technica举办讨论指出，今年中东战事中亚马逊数据中心首次遭到军事打击，俄乌也频繁互袭对方数据中心，军方有持续把云设施当作目标的理由。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "今年中东战事中，亚马逊数据中心首次遭到军事打击；与此同时，俄罗斯和乌克兰也以前所未有的密度，用无人机互袭对方的数据中心。为讨论这类打击对现代社会所依赖的云服务意味着什么，Ars Technica举办了线上交流，由该媒体记者徐杰里米对话英国皇家联合军种研究所的约瑟夫·贾内茨基。",
+            "讨论的背景是，公共云不仅服务企业与民众，也越来越多地支撑政府与军事活动。文章标题即指出，不要指望战时针对数据中心的军事攻击会停下来，因为军方把这些设施视为有价值的目标，有持续打击的理由。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "讨论中怎么说",
+          "paras": [
+            "据贾内茨基称，在2026年伊朗战争以及俄罗斯对乌克兰的全面入侵中，人们愈发承认一个事实：公共云数据中心具有军民两用性质，因而更容易成为战时目标。他认为，军方打击数据中心和云设施的理由有很多，这类攻击不太可能只是短期现象。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/9d1fac1a7f7f3261af3a7ade62536b219f2b8d7b.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n3a2027e26944",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "亚马逊与Meta洽谈解除对购物智能体Muse的屏蔽",
+      "original_title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+      "summary": "The Decoder援引《财富》报道称，亚马逊与Meta正洽谈结束对Muse的屏蔽。亚马逊担心购物智能体会绕过其广告，而这项业务一年带来686亿美元收入；首席执行官贾西尚未排除开放接入的可能。",
+      "facts": [
+        {
+          "text": "据《财富》报道，亚马逊与Meta正在谈判，可能结束今年9月对购物智能体Muse的屏蔽，分歧主要在广告收入和搜索结果控制权。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该报道称，亚马逊担心Muse这类购物智能体会削弱它与顾客的关系，并绕过其一年带来686亿美元收入的广告业务。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+          "is_primary": false,
+          "published_at": "2026-11-26T00:44:37+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T00:44:37+08:00",
+      "updated_at": "2026-11-26T00:44:37+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "亚马逊与Meta洽谈解除对购物智能体Muse的屏蔽",
+      "lead_zh": "据《财富》报道，亚马逊与Meta正在谈判，可能让今年9月被屏蔽的Muse重新接入亚马逊商城，分歧集中在广告收入和搜索结果控制权。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder援引《财富》报道称，亚马逊与Meta正在谈判，可能让Meta的购物智能体Muse重新接入亚马逊网上商城。今年**9月**，亚马逊切断了Muse的访问。目前谈判的主要卡点是广告收入，以及谁来控制搜索结果。",
+            "亚马逊自身也提供智能体购物功能。首席执行官安迪·贾西曾表示，到目前为止，通过第三方智能体购物并不比直接前往零售商网站更方便或更好，但他并未排除开放接入的可能。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么说",
+          "paras": [
+            "据该报道称，亚马逊担心Muse这类购物智能体会削弱它与顾客的直接关系，并绕过平台上的广告——这项业务一年带来**686亿美元**收入。双方仍未就广告分成和搜索结果控制权达成一致。目前双方还没有公布谈判结果，广告收入与搜索权仍是主要分歧。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n500926209d0c",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "商汤开源SenseNova U1.6，实测人像风景更接近实拍",
+      "original_title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+      "summary": "量子位介绍商汤开源的图像生成模型SenseNova U1.6，称其生成的抓拍人像、大头照和风景乍看像摄影作品，生成速度较快，并已在商汤小浣熊、Seko和ComfyUI上线供实测。",
+      "facts": [
+        {
+          "text": "商汤科技开源图像生成模型SenseNova U1.6，并已在商汤小浣熊、Seko和ComfyUI上线。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512748.html"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据量子位实测称，该模型生成的抓拍人像、大头照和风景乍看接近实拍，生成速度较快，内容和审美表现也较此前有所提升。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512748.html"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512748.html",
+          "is_primary": false,
+          "published_at": "2026-11-26T00:34:09+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T00:34:09+08:00",
+      "updated_at": "2026-11-26T00:34:09+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "商汤开源SenseNova U1.6，实测人像风景更接近实拍",
+      "lead_zh": "量子位评测商汤最新开源的图像生成模型SenseNova U1.6，称其生成的人像和风景更接近实拍质感，已在小浣熊、Seko和ComfyUI上线。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "量子位报道，商汤科技开源了最新图像生成模型SenseNova U1.6，并已在商汤小浣熊、Seko等平台上线，同时上线ComfyUI。文章用多组人像和风景示例展示效果，包括补妆时的抓拍感、移动中对焦人脸，以及社交媒体常见的大头照连拍，并称这些图片均由模型生成。",
+            "随后的评测在小浣熊上进行，作者先尝试从极低机位仰拍的群像和时装场景等较刁钻的角度出图，以观察模型在构图、光影和人物细节上的表现。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "评测怎么说",
+          "paras": [
+            "据量子位作者称，这些图片乍看很像日常摄影甚至出于摄影者之手，人像和风景的自然程度都明显提高。整体体验下来，作者觉得SenseNova U1.6的出图速度很快，在内容准确性和审美方面也较此前更进一步。文章是媒体实测，并不等于官方跑分声明。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nfec44873dc65",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "Nothing公布AI耳机Ear Note及充电盒细节",
+      "original_title": "Nothing offers a full look at its AI earbuds and charging case",
+      "summary": "Nothing展示将于12月8日发布的AI耳机Ear Note。耳机可录制通话，带麦克风的充电盒新增录音键，可记录、转写并总结对话。首席执行官裴宇称，这是迈向硬件上下文层、为人工智能提供现场信息的第一步。",
+      "facts": [
+        {
+          "text": "Nothing在12月8日发布前展示AI耳机Ear Note：耳机可录制通话，充电盒可录音、转写并总结对话。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据Nothing首席执行官裴宇称，充电盒上的录音键可在开会时用盒子记录，这是迈向“人工智能硬件上下文层”的第一步。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+          "is_primary": false,
+          "published_at": "2026-11-26T00:00:59+08:00"
+        }
+      ],
+      "published_at": "2026-11-26T00:00:59+08:00",
+      "updated_at": "2026-11-26T00:00:59+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Nothing公布AI耳机Ear Note及充电盒细节",
+      "lead_zh": "Nothing在12月8日发布前展示即将推出的Ear Note耳机：耳机可录制通话，充电盒可录音、转写并总结对话，首席执行官裴宇称这是迈向硬件上下文层的第一步。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Nothing在**12月8日**正式发布前，更详细地展示了即将推出的人工智能耳机Ear Note。与Ear 3类似，这款充电盒配有麦克风和“Talk”按钮，可用来录下自己的声音；这次又增加了“Record”按钮，用于录制并转写对话。耳机可录制通话，充电盒则可录音、转写并总结交谈内容。",
+            "彭博社此前已报道过这款耳机。The Verge介绍，它旨在把现场对话变成可供人工智能使用的上下文，而不只是一副普通耳机。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据Nothing首席执行官裴宇在社交媒体X上称，新增的录音键可以让用户通过耳机记录通话，也可在会议中用充电盒记录，并把它称作迈向“人工智能硬件上下文层”的第一步。也就是说，公司希望设备能持续提供周围正在发生的事情，供后续的智能功能使用。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/a3a7c6eb3aa01787e09c851aa1a071ba86454739.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf6730ac844fe",
+      "category": "芯片与算力",
+      "importance": 1,
+      "verified": false,
+      "title": "英伟达收紧担保，新云厂商建设数据中心更难",
+      "original_title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary": "TechCrunch采访土地顾问维尔马-拉利安指出，英伟达要等到人工智能数据中心接近可运行才肯提供担保，而新云厂商同时面临工期延误和更昂贵的债务，拿地、电力和建成的机房比融资故事更关键。",
+      "facts": [
+        {
+          "text": "英伟达明确表示，要等到人工智能数据中心接近可运行才提供担保，而新云厂商同时面临工期延误和更昂贵的债务。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据TechCrunch称，土地顾问维尔马-拉利安在播客中介绍，眼下更看重土地、电力和已建成的机房，投机性项目可能最先出问题，有观点认为行业会在2027年前后洗牌。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+          "is_primary": false,
+          "published_at": "2026-11-25T23:41:43+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T23:41:43+08:00",
+      "updated_at": "2026-11-25T23:41:43+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "英伟达收紧担保，新云厂商建设数据中心更难",
+      "lead_zh": "TechCrunch播客指出，英伟达要等数据中心接近可运行才提供担保，叠加工期延误和融资成本上升，土地、电力和完工楼宇比商业计划书更被看重。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch的Equity播客讨论人工智能数据中心为何越来越难建。文章指出，英伟达已明确表示，要等到一座数据中心接近可运行，才肯为项目提供担保；与此同时，新云厂商正报告工期延误和更昂贵的债务。对开发商的信号是：土地、电力和已经建成的机房，比一份商业计划书更重要。",
+            "节目嘉宾是亚利桑那土地咨询公司的安妮塔·维尔马-拉利安，她的公司为开发商、超大规模云厂商、人工智能实验室和新云厂商拼装数据中心用地，因而能看到谁在买地、什么条件才算可建，以及项目卡在哪里。她也与曾预言行业洗牌的投资人查马斯·帕里哈皮蒂亚合作。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "讨论中怎么说",
+          "paras": [
+            "据维尔马-拉利安在节目中介绍，同时具备土地、电力和机房外壳的开发商可能更有优势；社区反对和州一级限制也让部分市场比其他地方更难开工。讨论还提到，供电公司正让台积电等大客户参与出资，以支撑新增电力；一旦项目停滞，账单可能落到开发商、贷款方和客户头上。有观点认为，人工智能实验室和超大规模云厂商可能更多地自建数据中心，而不是依赖新云厂商，并关注2027年前后可能出现的洗牌。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/ae6f8f1d9e13da86b297ec801bf12f0e8ffe855e.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Anita-Verma-Lallian-2.jpg?w=1024",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n55b585252b7a",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "秘塔上线“全民开机”，称可一键生成15分钟短片",
+      "original_title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+      "summary": "量子位体验秘塔AI新产品“全民开机”，称它是一个全流程人工智能虚拟剧组：用户可用语音输入故事，不必逐镜头写提示词或手动剪辑，即可一键生成最长15分钟的短片，官网为metaso.cn/kaiji。",
+      "facts": [
+        {
+          "text": "秘塔AI上线新产品“全民开机”，定位为全流程人工智能虚拟剧组，称用户可一键生成最长15分钟的短片。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512727.html"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据量子位体验称，用户可用语音输入故事，不必逐镜头写提示词或手动剪辑，即可在约十分钟内生成短片。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512727.html"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512727.html",
+          "is_primary": false,
+          "published_at": "2026-11-25T22:51:06+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T22:51:06+08:00",
+      "updated_at": "2026-11-25T22:51:06+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "秘塔上线“全民开机”，称可一键生成15分钟短片",
+      "lead_zh": "量子位介绍秘塔AI新产品“全民开机”，称用户不必再写复杂提示词，把故事交给这个全流程AI虚拟剧组，即可直接生成最长15分钟的短片。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "量子位介绍秘塔AI的新产品“全民开机”，把它称作一个全流程人工智能虚拟剧组。产品官网为metaso.cn/kaiji。作者称，传统的人工智能视频流程往往要为每个镜头写复杂提示词，反复生成**15到30秒**的片段，再手动对齐音画，一整条片子可能要花上一星期；新产品则宣称可以把这些步骤串起来，一键生成最长**15分钟**的短片。",
+            "文章里，作者用语音输入改编了童年游戏《森林冰火人》的故事，称自己没有设计光影、打磨资产，也没有制作分镜表，把文本发出后约十分钟就得到成片。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "体验怎么说",
+          "paras": [
+            "据作者称，生成人工智能视频终于不必再会写提示词，普通用户也可以完成过去只有专业流程才能做的短片。一位朋友看到成片后，甚至问这是什么时候出的3A游戏。作者把主要变化归结为产品路径，而不是模型本身突然够用：以往工具仍要求用户身兼编剧、分镜、美术和剪辑，新工具则试图把这些角色交给“虚拟剧组”。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n7ebd78a4a0f3",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "消息称亚马逊与Meta洽谈向Muse开放商城",
+      "original_title": "态度反转：消息称亚马逊与 Meta 洽谈合作，或将开放商城给 Muse AI 购物助手",
+      "summary": "IT之家援引《财富》周三报道称，亚马逊与Meta正洽谈让Muse直接接入亚马逊电商平台，这与两个月前的屏蔽形成反差。谈判卡在搜索结果如何展示以及广告如何安排，最终协议还需双方首席执行官批准。",
+      "facts": [
+        {
+          "text": "IT之家援引《财富》报道称，亚马逊与Meta已就让购物智能体Muse接入亚马逊电商平台开展多轮磋商，目前卡在搜索结果展示和广告安排上。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/032/515.htm"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据知情人士称，亚马逊担心第三方购物智能体会冲击广告收入，并削弱直接触达用户的能力，潜在协议还需双方首席执行官批准。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/032/515.htm"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/032/515.htm",
+          "is_primary": false,
+          "published_at": "2026-11-25T22:45:47+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T22:45:47+08:00",
+      "updated_at": "2026-11-25T22:45:47+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "消息称亚马逊与Meta洽谈向Muse开放商城",
+      "lead_zh": "IT之家援引《财富》报道称，亚马逊与Meta已就让购物智能体Muse接入亚马逊电商平台开展多轮磋商，目前卡在搜索结果展示和广告安排上。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月25日消息，援引《财富》当地时间周三的报道称，亚马逊对Meta购物智能体Muse的态度可能正在转变。两大公司正洽谈一项合作，希望让Muse直接接入亚马逊电商平台。这与两个月前形成反差：当时用户尝试通过Muse在亚马逊下单结账会收到报错，亚马逊对Muse实施了屏蔽。",
+            "报道说，双方已开展多轮磋商，目前谈判卡在两个核心议题：合作模式下商品搜索结果如何展示，以及广告业务怎么安排。文章还提到，今年10月亚马逊首席执行官安迪·贾西曾表示，通过外部人工智能智能体下单的用户规模并不大。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么说",
+          "paras": [
+            "据知情人士称，亚马逊最大的顾虑是Muse这类第三方购物智能体会冲击自身广告收入，高管还担心会削弱公司直接触达用户、维系消费者关系的能力。另有考量是，亚马逊可能想等Muse更成熟后再开放，以免错误订单最终要由亚马逊安抚消费者和卖家。报道同时提到，这份潜在合作协议最终需要两家公司首席执行官批准才能落地。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/250505f3ec9407991787a43f80a96c820c145386.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/24f5d0c6-1856-4c9c-b66f-68c0a535ccb3.jpg?x-bce-process=image/format,f_auto",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nde39a3f6b1c1",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "智元灵心平台一年孵化超3万个机器人智能体",
+      "original_title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "summary": "智元发布开放的具身智能生态技术体系AIMA，并推出“元苼”生态计划，称未来五年投入不低于20亿元。作为其中一部分，灵心平台上线一年来累计吸引逾2万用户，孵化3万余个机器人智能体。",
+      "facts": [
+        {
+          "text": "智元推出具身智能生态技术体系AIMA和“元苼”生态计划，称未来五年投入不低于20亿元。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512715.html"
+        },
+        {
+          "text": "灵心平台上线一年来累计吸引逾2万用户，孵化3万余个机器人智能体，沉淀7万余条平台内容。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512715.html"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据智元称，用户可用自然语言创建和配置智能体，并结合知识库、技能和工作流组织任务，再通过开放接口连接外部系统和机器人本体。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512715.html"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512715.html",
+          "is_primary": false,
+          "published_at": "2026-11-25T22:32:57+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T22:32:57+08:00",
+      "updated_at": "2026-11-25T22:32:57+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "智元灵心平台一年孵化超3万个机器人智能体",
+      "lead_zh": "智元推出具身智能生态技术体系AIMA和“元苼”计划，并称灵心平台上线一年已吸引逾2万用户、孵化3万余个机器人智能体，未来五年投入不低于20亿元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "量子位报道，智元推出其称为行业首个开放且完整的具身智能生态技术体系AIMA，并发布“元苼”生态发展计划，称未来五年投入不低于**20亿元**支持生态建设。作为其中重要组成部分，灵心（LinkSoul）机器人智能体开发应用平台面向开发者、企业和行业用户，提供智能体创建、知识技能配置、任务编排与应用连接等能力。",
+            "文章称，该平台上线一年来累计吸引**2万**余用户，孵化**3万**余个机器人智能体，沉淀**7万**余条平台内容。平台还通过SDK、MCP和Skill等开放能力连接外部工具、业务系统和机器人本体。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据介绍，用户可以通过自然语言描述需求来创建和配置智能体，结合知识库、技能及工作流组织任务，并借助三维环境调试。智元认为，过去常要专业开发人员介入的知识配置和任务调整，现在可以由更熟悉业务的人参与完成，从而降低机器人应用的开发门槛。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n0034803a1744",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "九章云极发布物理AI工厂与生态开放计划",
+      "original_title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "summary": "11月25日，九章云极在深圳举办2026物理AI行业峰会暨智算生态大会，主题为“算力唤醒真实世界”。会议围绕如何把已通过技术验证的机器人、世界模型和仿真软件，组织成可走向产线的物理AI工厂和产业生态。",
+      "facts": [
+        {
+          "text": "11月25日，九章云极在深圳举办2026物理AI行业峰会暨智算生态大会，主题为“算力唤醒真实世界”，并发布物理AI工厂理念与生态开放计划。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512582.html"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512582.html",
+          "is_primary": false,
+          "published_at": "2026-11-25T22:21:20+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T22:21:20+08:00",
+      "updated_at": "2026-11-25T22:21:20+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "九章云极发布物理AI工厂与生态开放计划",
+      "lead_zh": "11月25日，九章云极在深圳举办物理AI行业峰会，发布物理AI工厂理念和生态开放计划，讨论如何把机器人、世界模型和仿真能力推向产线。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "**11月25日**，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行，由九章云极主办，深圳市龙华区工业和信息化局支持，清华大学互联网产业研究院为学术指导单位。来自标准机构、高校、投资机构和机器人、世界模型、仿真软件、智算云等领域的上百位代表出席。中国电子技术标准化研究院副院长范科峰，龙华区委常委、常务副区长张智，以及九章云极董事长方磊分别致辞。",
+            "会议聚焦的问题是：当机器人、世界模型和仿真软件相继通过技术验证后，物理人工智能如何跨越从实验室到产线的鸿沟。讨论集中在两个方向：把算力组织成生产体系的物理AI工厂，以及把产业链能力连成整体协作的物理AI生态。范科峰指出，跨域协同对数据接口、通信协议和安全边界等标准提出了更迫切的要求。张智介绍，龙华有超过两万家制造业企业和超过**600**家人工智能及机器人企业，并已建成“鸿蒙+昇腾”双生态数字孪生底座和虚实融合具身智能训练场。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6793002fbc17",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "逐际动力与商汤大装置合作，加码机器人仿真训练",
+      "original_title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+      "summary": "逐际动力与商汤大装置达成合作，商汤将依托SenseCore平台，为逐际动力的机器人仿真、视觉策略训练和强化学习提供可弹性调度的算力，以支撑复杂具身模型的大规模训练和验证。",
+      "facts": [
+        {
+          "text": "逐际动力与商汤大装置达成合作，商汤将依托SenseCore平台为逐际的机器人仿真、视觉策略训练和强化学习提供可弹性调度的算力。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512683.html"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512683.html",
+          "is_primary": false,
+          "published_at": "2026-11-25T22:20:24+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T22:20:24+08:00",
+      "updated_at": "2026-11-25T22:20:24+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "逐际动力与商汤大装置合作，加码机器人仿真训练",
+      "lead_zh": "逐际动力与商汤大装置达成合作，商汤将依托SenseCore平台为逐际的机器人仿真、视觉策略训练和强化学习提供可弹性调度的算力。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "量子位报道，逐际动力与商汤大装置达成合作。商汤大装置将依托SenseCore平台，为逐际动力的机器人仿真、视觉策略训练和强化学习提供高性能、可弹性调度的算力，以支撑复杂具身模型的大规模训练与验证，加快运动控制和任务执行能力的迭代。逐际动力是具身智能机器人主机厂，产品包括全自主人形机器人LimX Oli、LimX Luna以及模块化的TRON系列。",
+            "文章称，训练机器人在复杂环境中完成任务，需要把环境感知和全身运动控制结合起来，并在多种仿真场景中做策略训练；随着并行任务增多，仿真集群既要能按需扩展，也要在高负载下保持稳定吞吐量。针对这些需求，SenseCore可根据任务规模和负载变化调配算力，减少并发任务之间的资源争用。报道还提到，面向具身智能，商汤大装置已形成贯通算力、训推优化、具身专项和应用场景的四层能力，SenseCore平台适配**20**余款国产芯片，支持大规模集群并行训练。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nc4937692d5d7",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "报道称亚马逊洽谈结束对Muse购物智能体的屏蔽",
+      "original_title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "summary": "The Verge援引《财富》报道称，亚马逊已与Meta讨论允许Muse在其电商平台购物。亚马逊担心这会影响广告收入和搜索结果质量，也担心削弱与消费者的直接关系。沃尔玛、百思买等零售商已对类似智能体开放。",
+      "facts": [
+        {
+          "text": "据《财富》报道，亚马逊已与Meta讨论允许Muse在其电商平台购物，谈判焦点包括推荐商品范围和对广告收入的影响。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据The Verge称，亚马逊担心允许Muse接入会减少依赖真人浏览的广告收入，也担心其搜索结果质量和与顾客的直接关系。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+          "is_primary": false,
+          "published_at": "2026-11-25T22:12:33+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T22:12:33+08:00",
+      "updated_at": "2026-11-25T22:12:33+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "报道称亚马逊洽谈结束对Muse购物智能体的屏蔽",
+      "lead_zh": "据《财富》报道，亚马逊已与Meta讨论允许Muse在其电商平台购物，谈判焦点包括推荐商品范围和对亚马逊广告收入的影响。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge援引《财富》报道称，亚马逊已与Meta讨论，允许后者的购物智能体Muse在其电商平台上购物。若谈成，可能结束亚马逊对Muse的屏蔽。谈判据称围绕智能体推荐哪些商品，以及这会对亚马逊广告收入产生什么影响。亚马逊和Meta都没有立即回应The Verge的置评请求。",
+            "报道提到，沃尔玛、百思买、盖普和丝芙兰等零售商已经对Muse这类智能体开放，亚马逊则更为谨慎。亚马逊还曾屏蔽Perplexity的购物智能体，并转而推广自家的Alexa购物助理，顾客现在可以通过短信让它代为购物。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么说",
+          "paras": [
+            "据《财富》称，亚马逊担心允许Muse进入其网站后，会减少需要真人看到广告才能产生的收入，也担心Muse呈现的商品搜索结果质量，以及这是否会削弱亚马逊与顾客的关系。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/04f3ee74552b071c627c3ddbeea1ccd78de86942.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n28175a595e60",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "亚马逊与Meta据报谈判解除对Muse的封锁",
+      "original_title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "summary": "TechCrunch援引《财富》报道称，亚马逊与Meta已就解除对Muse约两个月的屏蔽举行多轮会谈。核心争议是搜索结果展示和广告安排，贾西10月还曾表示，通过外部购物智能体下单的用户并不多。",
+      "facts": [
+        {
+          "text": "TechCrunch援引《财富》报道称，亚马逊与Meta正商讨结束为期约两个月的Muse屏蔽，关键分歧是搜索结果展示和广告安排。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据知情人士称，亚马逊担心第三方购物智能体影响广告业务，并可能削弱与消费者的直接关系，潜在协议需双方批准。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "is_primary": false,
+          "published_at": "2026-11-25T22:10:18+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T22:10:18+08:00",
+      "updated_at": "2026-11-25T22:10:18+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "亚马逊与Meta据报谈判解除对Muse的封锁",
+      "lead_zh": "TechCrunch援引《财富》报道称，亚马逊与Meta正商讨结束为期约两个月的Muse屏蔽，关键分歧是搜索结果如何展示以及广告如何安排。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "TechCrunch援引《财富》周三报道称，亚马逊与Meta正在讨论一项可能的协议，让Meta的购物智能体Muse重新直接接入亚马逊商城。这将扭转约两个月前的局面：当时Muse用户在亚马逊结账时会收到报错。报道说，双方已举行多轮会谈，两个关键问题仍待谈判：搜索结果将如何展示，以及广告将如何安排。",
+            "今年10月，亚马逊首席执行官安迪·贾西曾表示，通过外部购物智能体下单的用户并不多。文章还提到，亚马逊可能是在等待Muse更加成熟后再开放接入，以免错误订单最终要由亚马逊面对不满的消费者和卖家。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么说",
+          "paras": [
+            "据知情人士称，亚马逊一个主要担心是第三方购物智能体会影响其广告业务；高管还担心这类智能体会削弱亚马逊与消费者的直接关系。报道称，任何潜在协议都需要双方批准才能落地。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/7081252d3036a48db254eb680733997c82ca97c8.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6bac70b0e180",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "DeepMind让智能体部分自主调度Gemini实验算力",
+      "original_title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+      "summary": "DeepMind研究副总裁卡武库奥卢在播客中说，实验室已让AI智能体自行控制部分算力、为下一代Gemini跑实验，但距离完整的递归自我改进仍很远。安全上，训练时不奖励思维链，以便用自然语言审查其意图。",
+      "facts": [
+        {
+          "text": "谷歌DeepMind研究副总裁卡武库奥卢表示，AI智能体已可自行调度部分算力，为下一代Gemini模型跑实验，但实验室仍远离完整的递归自我改进。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据卡武库奥卢称，作为安全措施，训练时不奖励智能体的思维链，以便用自然语言审查其意图；他也认为目前还没有测试能标明模型何时达到通用人工智能。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+          "is_primary": false,
+          "published_at": "2026-11-25T21:23:36+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T21:23:36+08:00",
+      "updated_at": "2026-11-25T21:23:36+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "DeepMind让智能体部分自主调度Gemini实验算力",
+      "lead_zh": "谷歌DeepMind研究副总裁卡武库奥卢表示，AI智能体已可自行调度部分算力开展下一代Gemini实验，但实验室仍远离完整的递归自我改进。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder报道，谷歌DeepMind已让人工智能智能体自行运行面向下一代Gemini模型的实验。研究副总裁、负责Gemini研发的科拉伊·卡武库奥卢在公司播客中，把这说成实验室的策略转变：不再为AlphaFold或核聚变等项目分设专门团队，而是用一套通用算法同时服务科学和产品。他还说，每一代Gemini都是手工打造的“一次性”系统，而不是固定架构，并行团队则在做它的后继者。",
+            "据他介绍，智能体已经自己控制部分算力来跑实验，但实验室仍远离完整的递归自我改进。作为安全措施，DeepMind在训练时不奖励智能体的内部思维链，以便其意图保持未经过滤、可用自然语言审查后再行动。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他怎么说",
+          "paras": [
+            "据卡武库奥卢称，今天的人工智能可以把流体和碰撞等物理过程画得很像，但并不精确理解它们。他认为，没有哪项测试能标明模型何时会补上这些缺口并达到通用人工智能，因为现有基准抓不住智能的核心。在他看来，通用人工智能要等到人们愿意像信任共事者一样，把日常决策交给有用的产品之后，才谈得上真正开始。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/679d50be82f9ae1aad578b6eec4d252153e0bc3f.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n8625dd519ff7",
+      "category": "研究与论文",
+      "importance": 1,
+      "verified": false,
+      "title": "Anthropic调研：企业用AI的最大障碍不在学会工具",
+      "original_title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+      "summary": "Anthropic对美国58家客户公司做了66场访谈，覆盖近300个人工智能部署。结果显示55%提高了产出或质量，但仍有19%没有带来业务价值，主要受内部堵点和复核工作拖累，而不是不会使用工具。",
+      "facts": [
+        {
+          "text": "Anthropic访谈美国58家客户公司共66场，梳理近300个人工智能部署，样本并非代表性调查。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/"
+        },
+        {
+          "text": "结果显示55%的部署提高了产出或质量，但仍有19%没有带来业务价值。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该报告称，没有产生业务价值的项目主要卡在内部堵点、复核工作抵消了节省的时间，或效果本身不清，而不是外部监管或客户不信任。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+          "is_primary": false,
+          "published_at": "2026-11-25T21:14:27+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T21:14:27+08:00",
+      "updated_at": "2026-11-25T21:14:27+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "Anthropic调研：企业用AI的最大障碍不在学会工具",
+      "lead_zh": "Anthropic访谈美国58家公司、梳理近300个AI部署后发现，55%带来了更高产出或更好质量，但仍有约19%尚未产生业务价值，主要卡在内部流程和复核负担。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "Anthropic发布“与人工智能共事”报告，研究人员在美国**58家**公司做了**66**场面对面访谈，覆盖从人工智能初创公司到法律、建筑、金融、医疗和制造业的既有企业，梳理了近**300**个实际部署。作者提醒，所有受访者都是Anthropic客户，样本不能代表全部企业，但仍提供了相当细致的一线观察。",
+            "结果显示，**55%**的受访部署提高了产出或质量；但几乎五分之一，即**19%**，仍然没有带来业务价值。其中，卡在内部流程堵点的占**6%**，省下的时间被复核工作抵消的占**5%**，效果本身说不清的占**8%**。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报告怎么说",
+          "paras": [
+            "据报告称，真正拖后腿的多半是公司内部的摩擦，例如审核瓶颈、员工抵触、安全顾虑和过时的自研工具，而不是“不会用工具”。外部阻碍很少被提及：监管只出现**4**次，持怀疑态度的客户出现**13**次。对指望迅速看到效率提升的人来说，这份结果更像一次降温。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/f76789a69b3296e8890c5a8b99f84c78fdc4504a.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/ai_office_paper-1200x675.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n0a0a941bd6ca",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "美国金融犯罪执法网络与情报机构接连出现网络安全事件",
+      "original_title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
+      "summary": "美国金融犯罪执法网络宣布，有限部分系统遭未经授权访问后已预防性下线，银行仍可在线提交可疑活动报告。数小时前，《纽约时报》报道中央情报局、国家地理空间情报局和国家情报总监办公室的开源情报分析系统遇袭。",
+      "facts": [
+        {
+          "text": "美国财政部金融犯罪执法网络宣布，有限部分系统遭未经授权访问后已预防性下线，银行仍可在线提交可疑活动报告。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/"
+        },
+        {
+          "text": "数小时前，《纽约时报》报道中央情报局、国家地理空间情报局和国家情报总监办公室的开源情报分析系统遭遇入侵。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+          "is_primary": false,
+          "published_at": "2026-11-25T21:07:44+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T21:07:44+08:00",
+      "updated_at": "2026-11-25T21:07:44+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "美国金融犯罪执法网络与情报机构接连出现网络安全事件",
+      "lead_zh": "美国财政部金融犯罪执法网络称部分系统遭未经授权访问后预防性下线；数小时前《纽约时报》报道中央情报局等机构的开源情报分析系统也遭入侵。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "美国财政部下属的金融犯罪执法网络宣布正在调查一起网络安全事件。据The Verge报道，该机构周二表示，有限部分系统遭到未经授权访问。它没有披露事件范围或原因，但已将部分系统预防性下线。该机构的职责是防止洗钱和恐怖融资等非法活动，并管理银行根据《银行保密法》提交的可疑活动报告。它表示，银行仍可在线提交报告，只是部分服务可能出现延迟，面向金融机构的电话热线未受影响。",
+            "就在这一宣布数小时前，《纽约时报》援引美国官员和知情人士报道，中央情报局、国家地理空间情报局和国家情报总监办公室遭遇了另一起入侵，攻击目标是一套开源情报分析系统。两起事件时间接近，又叠加近期联邦机构接连出现的入侵和故障，因而被放在同一篇报道里讨论，但现有公开信息并未证实两者出自同一攻击。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/d83cb44a1a908060274e6d4ad9090a3cd47fde87.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/10/cyberkraken_4.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n9edbb62c9bcf",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "黄仁勋回归后，英伟达仍需回答Megaspeed相关疑问",
+      "original_title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "summary": "黄仁勋重返首席执行官职位后，英伟达仍需面对新加坡客户Megaspeed涉嫌违反出口管制、将先进芯片转入中国的调查。文章认为，关键在于英伟达当时知道芯片去向多少，以及黄仁勋与该客户高管的关系是否构成警示。",
+      "facts": [
+        {
+          "text": "黄仁勋重返首席执行官职位后，英伟达仍需面对新加坡客户Megaspeed涉嫌将先进芯片转入中国、违反美国出口管制的调查。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据TechCrunch称，调查的核心问题是英伟达当时对芯片最终去向了解多少，以及黄仁勋与该客户一名高管的关系是否构成警示。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+        }
+      ],
+      "analysis": [
+        {
+          "text": "TechCrunch认为，黄仁勋回归并没有把这些疑问一并带走，公司仍需回答芯片流向和相关关系是否被忽视。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+          "is_primary": false,
+          "published_at": "2026-11-25T21:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T21:00:00+08:00",
+      "updated_at": "2026-11-25T21:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "黄仁勋回归后，英伟达仍需回答Megaspeed相关疑问",
+      "lead_zh": "TechCrunch指出，英伟达仍需面对客户Megaspeed涉嫌将先进芯片转入中国的调查，关键问题是公司是否知情，以及黄仁勋与该客户高管的关系是否构成警示。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "黄仁勋重返英伟达首席执行官职位后，公司面临的审查并没有随之消失。芯片制造商仍需应对多项调查：新加坡数据中心运营商Megaspeed被指把英伟达先进图形处理器转运到中国，可能违反了旨在延缓中国发展前沿人工智能的美国出口规定。美国司法部长托德·布兰奇曾暗示，英伟达本身不是调查目标，但相关问题并未结束。",
+            "文章指出，调查者面对的核心问题是：英伟达当时对这批芯片最终去向了解多少，以及黄仁勋与Megaspeed一名高管的关系，是否让公司有理由怀疑对方所作保证。黄仁勋回归并没有自动回答这些问题。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "analysis",
+          "heading": "媒体怎么看",
+          "paras": [
+            "TechCrunch认为，市场关注的回归消息，并不能替代对芯片流向和内部警示是否被忽视的追问。在出口管制和客户关系仍待澄清的情况下，英伟达还需要持续面对监管和舆论的拷问。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/6cfc0f66dee6d7310869b31e153f143cee887a74.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "na9ba02207a16",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "“氛围编程”冲击乐器圈，厂商加速开放固件",
+      "original_title": "Has vibe coding made open source the new normal for synths?",
+      "summary": "随着编程智能体和“逆向任何东西”一类工具普及，乐器设备更容易被改机。The Verge称，部分厂商选择沉默，也有公司转向拥抱改机社区；阿卡伊、穆格等品牌的母公司inMusic表示将向社区提供工具箱。",
+      "facts": [
+        {
+          "text": "编程智能体和逆向工具让乐器设备更容易被改机，部分厂商选择开放固件和工具，罗兰目前保持沉默。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据The Verge称，inMusic首席执行官奥唐奈表示，公司将向社区提供工具箱和产品内部机制，并尽量保留复位功能，让用户试验后还能恢复原有设置。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+          "is_primary": false,
+          "published_at": "2026-11-25T21:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T21:00:00+08:00",
+      "updated_at": "2026-11-25T21:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "“氛围编程”冲击乐器圈，厂商加速开放固件",
+      "lead_zh": "The Verge报道，强大的编程智能体和逆向工具让乐器厂商面临设备被改机的冲击，包括inMusic在内的部分公司开始向社区开放工具和固件。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Verge报道，强大的“氛围编程”智能体和“逆向任何东西”一类工具，让乐器设备圈出现改机潮，各厂商正忙着决定如何应对。罗兰目前保持沉默；也有公司选择拥抱改机社区，并在近几周把更多设备开源。其中动作最大的是阿卡伊、穆格、Native Instruments等品牌的母公司inMusic。贝林格也密集宣布多款开源设备，包括售价**150美元**、仿制MPC One的Kick，以及其他控制器和音序器，但尚不清楚这些产品何时上市。",
+            "inMusic已推出软件开发工具包，并开源包括新近预告的MPC Sample Key在内的多款设备。阿卡伊试图在给改机者开放权限的同时，保住专业用户所需的稳定性。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "厂商怎么说",
+          "paras": [
+            "据inMusic首席执行官杰克·奥唐奈对The Verge表示，公司将向社区提供工具箱，并开放诸如MPC或Sample一类产品的内部机制，让人们按自己的想法改造。他还说，公司会尽量给用户一个“复位按钮”，以便他们试验之后，还能回到原来的状态，不至于把现有设置丢掉。"
+          ],
+          "sources": [
+            "The Verge"
+          ]
+        }
+      ],
+      "image_url": "img/7a7a09a0b3d1e61d66d6047e568b4cb59eabf4a7.jpg",
+      "image_source": "The Verge",
+      "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf5bb5e8a9ad3",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "前沿模型已能解开曾需物理学家一整天的题目",
+      "original_title": "AI may soon change what it means to be a theoretical physicist",
+      "summary": "印度理论物理学家拉朱把一道自己已经解出但从未发表的题目交给前沿模型，以免答案早已出现在训练数据里。Ars Technica以此出发，讨论人工智能正在改变理论物理学家的计算工作，以及接下来人还该做什么。",
+      "facts": [
+        {
+          "text": "班加罗尔国际理论科学中心的物理学家拉朱用自己已经解出但从未发表的题目测试前沿模型，随后与同事收集同类未公开题目，做成理论物理评测。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
+        },
+        {
+          "text": "他在9月的一次学术报告中公布初步结果：领先的人工智能模型能独立解出约60%的题目。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+          "is_primary": false,
+          "published_at": "2026-11-25T20:00:28+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T20:00:28+08:00",
+      "updated_at": "2026-11-25T20:00:28+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "前沿模型已能解开曾需物理学家一整天的题目",
+      "lead_zh": "班加罗尔理论物理学家拉朱用从未发表过的题目测试前沿模型，以检验人工智能是否已能解决过去顶尖物理学家需要一天的问题，并讨论这可能如何改变理论物理的工作方式。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "约六个月前，印度班加罗尔国际理论科学中心的理论物理学教授苏夫拉特·拉朱，把一道自己已经解出、但从未发表的题目交给前沿人工智能模型。因为训练数据可能包含网上已讨论过的题目，他需要用从未出现在网络上的问题，才能比较公平地测试模型的物理能力。模型没有完全做对，但表现好于他的预期，于是他和同事决定把这类测试正式做成理论物理基准。",
+            "他们向其他物理学家征集从未整理发表的、属于本领域顶尖研究者大约一天工作量的真实题目。拉朱写道，贡献者要么要牺牲在别处发表的可能，要么专门为这项评测做一小项研究。到题目和答案备齐时，模型也更强了。他在**9月**的一次学术报告中公布初步结果：领先的人工智能模型已经能独立解出约**60%**的题目。文章据此讨论，计算工作被模型分担后，理论物理学家的角色可能如何变化。"
+          ],
+          "sources": [
+            "Ars Technica"
+          ]
+        }
+      ],
+      "image_url": "img/50ec361bb438f1a80c28d6af7d79342cc4caf6ba.jpg",
+      "image_source": "Ars Technica",
+      "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nb678a9f766b4",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "PrismML把270亿参数模型压到5.9GB，权重只取三值",
+      "original_title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+      "summary": "PrismML发布三值量化模型Ternary Bonsai 2.5 27B，基于Qwen3.8-27B，显存约5.9GB，完整精度下约需54GB。在SWE-bench Verified上得分由60.8%升至75.6%，权重以Apache 2.0许可提供。",
+      "facts": [
+        {
+          "text": "PrismML发布Ternary Bonsai 2.5 27B，基于Qwen3.8-27B做三值量化，显存约5.9GB，完整精度下同规模模型约需54GB。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/"
+        },
+        {
+          "text": "该模型在SWE-bench Verified上的得分由60.8%升至75.6%，在AppWorld上由51.2%升至90.5%，并以Apache 2.0许可发布。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+          "is_primary": false,
+          "published_at": "2026-11-25T19:51:49+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T19:51:49+08:00",
+      "updated_at": "2026-11-25T19:51:49+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "PrismML把270亿参数模型压到5.9GB，权重只取三值",
+      "lead_zh": "初创公司PrismML发布Ternary Bonsai 2.5 27B，在Qwen3.8-27B基础上做三值量化，显存约5.9GB，完整精度下同规模模型约需54GB。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "初创公司PrismML发布压缩语言模型Ternary Bonsai 2.5 27B。它基于Qwen3.8-27B，通过三值量化把每个权重限制为-1、0或+1，显存占用约**5.9GB**，与上一版相同；若按完整精度存储，同规模模型大约需要**54GB**。新版本更针对需要长串工具调用的智能体任务，作者称它比Bonsai 2更少陷入循环或过长推理。",
+            "基准方面，SWE-bench Verified得分从**60.8%**升至**75.6%**，完整版Qwen为80.6%；在智能体基准AppWorld上，从**51.2%**升至**90.5%**，接近基础模型。LiveCodeBench v6上新版本略低于前作。它在RTX 4090上使用多词元预测时，大约每秒生成**204**个词元，权重以Apache 2.0许可提供，可在英伟达和英特尔显卡以及苹果设备上运行。PrismML源自加州理工学院的研究团队，投资方包括Khosla Ventures、谷歌和三星等。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/e49b531c101f712c9347ee15d82e4f6bf392cca0.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/07/prsim_ml_demo.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n1033887459b7",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "飞机颠簸极难预报，机器学习开始带来新进展",
+      "original_title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "summary": "《连线》写道，湍流仍常被称为经典物理中最难的遗留问题，达芬奇早在16世纪初就开始观察涡流。如今研究人员正把海量众包数据与新的机器学习方法结合起来，希望让飞机颠簸变得更容易预报。",
+      "facts": [
+        {
+          "text": "《连线》报道，湍流仍常被称为经典物理中最难的遗留问题之一，眼下正有多项基于数据的努力，试图更好地预测和避开飞行颠簸。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据WIRED称，密歇根州立大学教授穆里略把湍流称为经典物理中最难的遗留问题之一，也是飞行必须面对的问题。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+          "is_primary": false,
+          "published_at": "2026-11-25T19:30:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T19:30:00+08:00",
+      "updated_at": "2026-11-25T19:30:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "飞机颠簸极难预报，机器学习开始带来新进展",
+      "lead_zh": "《连线》报道，湍流仍被视为经典物理中最难的遗留问题之一，眼下正借助海量众包数据和新的机器学习方法，提升飞行颠簸的预测能力。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "《连线》回顾，早在16世纪初，达芬奇就开始观察水中混乱的涡流，并留下大量绘图。几百年后，尽管已经有聊天机器人和自动驾驶汽车，人们仍不能准确说明湍流如何产生。文章指出，眼下出现一批基于数据的努力，希望更好地预测和避开飞行颠簸，让旅客更接近平稳飞行。",
+            "国际航空运输协会的数据称，一架飞机的发动机在一小时商业飞行中可产生**20TB**数据；飞行中还会广播全球定位位置、高度和速度等信息。机上的“电子飞行包”相当于专用平板，可在网络允许时传输导航和手册信息，卫星则在收集这些数据。美国国家科学基金会国家大气研究中心的物理学家拉里·科恩曼指出，空中交通量上升的同时，通信和机载计算成本在下降，这为用新方法处理颠簸数据创造了条件。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "研究者怎么说",
+          "paras": [
+            "据密歇根州立大学理论与计算物理学教授迈克尔·穆里略称，湍流是“经典物理中最难的遗留问题”，也是飞行必须穿过的问题。文章把它与达芬奇时代以来一直未完全解开的流体紊乱现象联系起来，并关注机器学习能否让预报变得更可用。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/3e333a2d0048d8aca54b244d2664fef6f6aca813.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n62cd358969ba",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "中国团队提出通用循环模型，称9400万参数可对标50亿",
+      "original_title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+      "summary": "量子位报道，国内团队脸谱心智曾短暂公开《General Looped Model》报告，随后又从公开渠道收回。报告称，9400万参数的视频生成模型参数量仅为50亿对照方案的1.88%，权重显存从21.34GB降到0.31GB。",
+      "facts": [
+        {
+          "text": "量子位介绍国内团队脸谱心智一份名为《General Looped Model》的技术报告，该报告曾短暂公开后又被收回。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512565.html"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据流出的报告摘要称，9400万参数的视频生成模型参数量仅为50亿对照方案的1.88%，权重显存从21.34GB降至0.31GB。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512565.html"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512565.html",
+          "is_primary": false,
+          "published_at": "2026-11-25T19:07:14+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T19:07:14+08:00",
+      "updated_at": "2026-11-25T19:07:14+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "中国团队提出通用循环模型，称9400万参数可对标50亿",
+      "lead_zh": "量子位介绍脸谱心智一份随后被收回的报告，称其9400万参数视频生成模型在多项指标上优于50亿参数对照方案，权重显存从21.34GB降至0.31GB。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "量子位报道，国内团队脸谱心智曾短暂公开一份名为《General Looped Model》的技术报告，几天后即从公开渠道收回，官方没有详细说明原因。文章回顾，该团队在**2026年6月16日**提交过面向世界模型的循环架构论文LoopWM，上线当日登上Hugging Face论文日榜，时间早于后来外界对OpenAI Astra和智谱GLM-5.4相关架构的讨论。",
+            "报道转述报告思路称，循环架构不再靠堆叠不同网络层来提升能力，而是复用同一组权重对隐状态多轮迭代，从而把参数规模和计算深度分开：问题简单时少循环、更快输出，任务复杂时增加迭代深度，权重体积保持不变。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报告怎么写",
+          "paras": [
+            "据流出的报告摘要称，循环架构已在多个方向给出对照结果。其中，约**9400万**参数的视频生成模型，参数量仅为**50亿**参数对照方案的**1.88%**，却在多项指标上取得优势；对应权重显存从**21.34GB**压缩到**0.31GB**，单台8卡服务器的并发路数从57路提升到至少336路。摘要还提到，约10亿参数的循环世界模型和70亿参数的工程模型，也分别给出了远小于对照方案的参数规模对比。这些数字来自被收回的报告摘要，并非经过独立复核的公开榜单。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n6d2775bbc9ca",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "麻省理工发现用刻意极端的训练数据可让气候模型更稳",
+      "original_title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
+      "summary": "麻省理工学院团队与苏黎世联邦理工、帝国理工合作，用含有二氧化碳骤增等极端波动的合成数据训练气候模型。据称一次大型模拟就够，而以往通常需要六到八次，还能更可靠地评估局部环境政策影响。",
+      "facts": [
+        {
+          "text": "麻省理工学院、苏黎世联邦理工和帝国理工的团队合作提出新方法，用带有极端波动的合成数据训练气候人工智能模型。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据团队称，以往训练通常需要六到八次大型模拟，新方法一次模拟就够，而且模型对陌生情形和局部环境政策的推算也更可靠。",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+          "is_primary": false,
+          "published_at": "2026-11-25T18:47:51+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T18:47:51+08:00",
+      "updated_at": "2026-11-25T18:47:51+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "麻省理工发现用刻意极端的训练数据可让气候模型更稳",
+      "lead_zh": "麻省理工学院、苏黎世联邦理工和帝国理工合作的方法，用带有极端波动的合成数据训练气候AI，称只需一次大型模拟即可完成训练，而以往通常需要六到八次。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "The Decoder援引麻省理工学院新闻办的介绍称，该校与苏黎世联邦理工学院、帝国理工学院的研究人员，提出了一种让气候人工智能模型训练更快、更便宜也更稳妥的方法。传统上，研究人员要靠大型物理气候模拟，在超级计算机上跑一种情景就可能耗时数月；训练快速的人工智能模拟器，以往通常需要**六到八次**这类模拟，并且使用分布均匀、偏于现实的未来情景。",
+            "新算法则改用带有极端波动的合成训练数据，例如假设**2050年**二氧化碳突然激增，或**2037年**甲烷下降。据第一作者克里斯托弗·沃马克介绍，这些刻意制造的冲击能帮助模型更精确地把握气候系统；团队称，一次模拟就足以完成训练，而且模型也能更可靠地推算局部环境政策的影响。合著者诺埃尔·塞林指出，过去因为训练太慢，做好的模型往往已经过时，还容易在未见过的情形上失准。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "研究者怎么说",
+          "paras": [
+            "据研究团队称，这种看起来不那么“真实”的训练数据，反而让模型对气候系统的响应理解得更清楚，因此只需一次大型模拟，就能达到过去多次运行才能得到的效果，并更好地服务电网、公共卫生和农业等规划场景。"
+          ],
+          "sources": [
+            "The Decoder"
+          ]
+        }
+      ],
+      "image_url": "img/525307f9a0030d08b428152e0aaf1fc0a4cfb986.jpg",
+      "image_source": "The Decoder",
+      "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/mit_climate.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nf8f89483d928",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "英伟达公开Nemotron生图模型权重，部分跑分超GPT Image 2",
+      "original_title": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2",
+      "summary": "IT之家援引Wccftech称，英伟达在Hugging Face公开Nemotron-Labs-Image-30B-A3B权重。该混合专家模型总参数300亿、使用时激活30亿。它在LongTextBench上得97.98，高于GPT Image 2的96.00，但在GenEval2上落后。",
+      "facts": [
+        {
+          "text": "据Wccftech报道，英伟达在Hugging Face公开混合专家生图模型Nemotron-Labs-Image-30B-A3B的权重，总参数300亿，使用时激活30亿。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/032/444.htm"
+        },
+        {
+          "text": "该模型在LongTextBench上得97.98，高于GPT Image 2的96.00；在GenEval上为92.86，对89.00；但在GenEval2和Qwen-Image-Bench上落后。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/1/032/444.htm"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/1/032/444.htm",
+          "is_primary": false,
+          "published_at": "2026-11-25T18:37:28+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T18:37:28+08:00",
+      "updated_at": "2026-11-25T18:37:28+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "英伟达公开Nemotron生图模型权重，部分跑分超GPT Image 2",
+      "lead_zh": "媒体报道称，英伟达悄悄公开一款总参数300亿、使用时激活30亿的混合专家生图模型权重，部分跑分高于GPT Image 2。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "IT之家11月25日援引Wccftech报道称，英伟达在Hugging Face平台公开了Nemotron-Labs-Image-30B-A3B模型的权重。这是一款自回归图像生成模型，采用混合专家架构，总参数**300亿**，使用时激活**30亿**，对本地硬件更友好。它也是新框架Nemotron-Labs-VisualCreation的核心光栅渲染引擎，该框架提出“像素即代码”，除了生成图片，还用于网页、幻灯片、文档、图表和科学插图等可编辑视觉结果。",
+            "模型基于Nemotron 3 Nano，结合Mamba-2状态空间层与传统注意力机制，并经过渐进式中期训练和组相对策略优化。跑分方面，在考察密集文字生成准确率的LongTextBench上得**97.98**，高于GPT Image 2的**96.00**和Nano Banana Pro的97.60；在GenEval上以**92.86**领先GPT Image 2的89.00，不过在GenEval2上，GPT Image 2以81.00对**65.43**占优，在Qwen-Image-Bench上也领先。"
+          ],
+          "sources": [
+            "IT之家"
+          ]
+        }
+      ],
+      "image_url": "img/dbebd95bfbcd5fada58193d6ec4d225b37d6c668.jpg",
+      "image_source": "IT之家",
+      "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/64e9948c-2353-448b-8495-d6dbc84df33e.png",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nb0deea04c96b",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "AI正在加重美国公共记录系统的负担",
+      "original_title": "AI is straining America’s open records systems",
+      "summary": "在佛蒙特州小镇潘顿，镇书记员要应对愈发频繁的采购记录申请。文章写道，有风投支持的创业公司已筹资逾1亿美元，把公共记录变成面向企业的销售信号，同时人工智能也让个人申请变得更长、更宽。",
+      "facts": [
+        {
+          "text": "《麻省理工科技评论》报道，风险投资支持的创业公司近年筹资逾1亿美元，批量申请政府购买记录，并把数据做成面向企业的销售信号；人工智能也让个人公开申请变得更长、更宽。",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据MIT Technology Review称，佛蒙特州潘顿镇前书记员罗表示，他愿意回答来自居民的公开记录申请，但为这些商业目的作答，感觉像在用纳税人的时间做无偿的竞品调查。",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+          "is_primary": false,
+          "published_at": "2026-11-25T18:00:00+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T18:00:00+08:00",
+      "updated_at": "2026-11-25T18:00:00+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "AI正在加重美国公共记录系统的负担",
+      "lead_zh": "《麻省理工科技评论》报道，风险投资支持的数据公司已筹集逾1亿美元，批量申请政府购买记录；AI代写的公开申请也往往更长更宽，许多保管部门人手并未同步增加。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "在人口**660**人的佛蒙特州小镇潘顿，镇书记员凯尔·罗几乎包办预算、付款、税务争议、规划监督和选举主持，也负责处理公开记录申请。过去，一家名为SmartProcure的公司大约每年才会申请一次“全部采购记录”；去年这类申请改成按季度提交，随后又有公司改为按月甚至更频繁地索要特定采购记录，例如应急路障闪光棒。数据经纪商挖掘公共记录已有数十年，但人工智能抬高了投资者的兴趣：过去几年，有风投支持的创业公司筹资逾**1亿美元**，从数千个机构收集数据，做成帮助企业向政府销售的人工智能“信号”。",
+            "与此同时，人工智能工具也让个人更容易起草公开记录申请。许多地方近年申请量以两位数的百分比增长。更多申请有利于透明，但由模型代写的申请往往更长、范围更宽，而负责答复的部门人手和预算并未同步增加。文章还提到，一些州正在通过立法，让拒绝申请变得更容易，这可能反而削弱公共机构的透明度。"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "当事人怎么说",
+          "paras": [
+            "据现已转到邻近市镇任职的罗称，他乐意回答来自居民的公开记录申请，但为这些商业目的作答，“感觉像在用纳税人的时间做无偿的竞品调查”。"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ]
+        }
+      ],
+      "image_url": "img/b7901b24101b7f85e173da3509b0f537fe61ed08.jpg",
+      "image_source": "MIT Technology Review",
+      "image_origin_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n3776566b801b",
+      "category": "大模型与产品",
+      "importance": 1,
+      "verified": false,
+      "title": "观察者称Anthropic内部还有两款更强模型",
+      "original_title": "Anthropic还藏着2个最强模型…",
+      "summary": "量子位援引观察者Chris的说法称，Anthropic内部还有更强模型。独立评估机构METR曾进入公司调查，披露多款内部模型，并估计自2025年10月以来，其综合能力指数增速约为过去的1.9倍，其中约80%来自AI辅助研发。",
+      "facts": [
+        {
+          "text": "独立评估机构METR今年8月至10月进入Anthropic，披露多款内部模型，并估计自2025年10月以来其综合能力指数增速约为过去的1.9倍。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512538.html"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据行业观察者称，Anthropic内部还有更强模型；METR称AI辅助研发在加速中约占八成，公司也表示已触发负责任扩展政策中的人工智能研发能力阈值。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512538.html"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512538.html",
+          "is_primary": false,
+          "published_at": "2026-11-25T16:23:24+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T16:23:24+08:00",
+      "updated_at": "2026-11-25T16:23:24+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "观察者称Anthropic内部还有两款更强模型",
+      "lead_zh": "量子位援引行业观察者称，Anthropic内部仍有更强模型；METR报告披露多款内部模型，并估计自2025年10月以来其综合能力指数增速约为此前的1.9倍。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "量子位介绍，独立评估机构METR在今年8月至10月进入Anthropic，获得部分内部评测、训练和研发效率数据，并采访了约**15**名员工。报告披露了当时尚未完全公开身份的内部模型：Model 2于**2026年7月**完成训练，Model 3于8月至9月完成训练，Model 4于9月至10月完成训练。其中Model 3后来随**11月9日**发布的Fable 5.2和Mythos 5.2一并浮出水面；数据显示Model 4的内部综合能力指数AECI为**178.6**分，对比Mythos 5.2的177.12分。",
+            "METR估计，自**2025年10月**以来，Anthropic模型AECI的增长速度约为此前的**1.9倍**，相当于用一年走完过去约两年的进度。11月9日发布Fable 5.2时，公司还透露，合并进入核心代码库的改动中，超过**90%**已由Claude编写。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "各方怎么说",
+          "paras": [
+            "据行业观察者Chris称，Anthropic内部还有两款更强模型，未来半年能力可能再上一个台阶；这属于个人爆料，并非公司官方预告。METR则认为，上述加速并非只靠堆算力，估算AI辅助研发约贡献了**80%**。Anthropic在11月17日的招股文件中表示，公司已认定达到《负责任扩展政策》中的人工智能研发能力阈值，触发条件之一是自动化研发使整体进步速度达到没有显著AI贡献时的约两倍。量子位同时提到，公司上市后第二个交易日股价下跌**8.5%**。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nfb0c689eac5d",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "第二十一届中国IDC产业年度大典将于12月在北京举办",
+      "original_title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
+      "summary": "第二十一届中国IDC产业年度大典暨2026全球数字基础设施科技展，将于12月10日至11日在北京首钢会展中心1号馆举办。组织方称，届时将有超过1万家算力产业链机构和企业高管参会，并可免费报名。",
+      "facts": [
+        {
+          "text": "第二十一届中国IDC产业年度大典暨2026全球数字基础设施科技展，定于12月10日至11日在北京首钢会展中心举办。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512532.html"
+        }
+      ],
+      "claims": [],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512532.html",
+          "is_primary": false,
+          "published_at": "2026-11-25T16:18:54+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T16:18:54+08:00",
+      "updated_at": "2026-11-25T16:18:54+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "第二十一届中国IDC产业年度大典将于12月在北京举办",
+      "lead_zh": "第二十一届中国IDC产业年度大典暨2026全球数字基础设施科技展定于12月10日至11日在北京首钢会展中心举办，组织方称将汇聚上万家算力产业链机构和企业高管。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "量子位转载IDC圈消息称，第二十一届中国IDC产业年度大典暨2026全球数字基础设施科技展，将于**12月10日**至**11日**在北京首钢会展中心1号馆举办。组织方称，届时将有超过**1万**家算力产业链机构和企业高管参会，覆盖研究机构、高校、标准组织、智算集群和云服务商、大模型与智能体企业，以及芯片、液冷、供电和绿电等领域的厂商。",
+            "会期为周四至周五两天。会议期间还计划发布产业投资研究报告，以及《国产算力芯片与算力硬件基础设施协同技术规范》《智算中心800V直流供电系统技术要求》等五项团体标准，另有智算中心和数据中心供应链图谱及合作指南。组织方称可以免费报名，完整议程已在相关报名页面公布。本文由IDC圈提供，量子位获授权转载。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n920741920ba3",
+      "category": "AI公司与融资",
+      "importance": 1,
+      "verified": false,
+      "title": "爆料称Claude Code核心成员塔里克也已加入OpenAI",
+      "original_title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+      "summary": "量子位援引爆料账号称，Claude Code核心成员Thariq Shihipar已加入OpenAI。加上月初已官宣加入并负责核心产品管理的Cat Wu，以及此前被曝加入的Anthony Morris，三人被指在Anthropic上市前离职后于OpenAI会合。",
+      "facts": [
+        {
+          "text": "量子位援引人事爆料账号称，Claude Code核心成员Thariq Shihipar已加入OpenAI；Cat Wu月初已官宣加入并负责核心产品管理。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512515.html"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据该爆料称，此前被指加入OpenAI的还有Claude Code桌面版相关负责人Anthony Morris，三人被描述为Anthropic上市前离职后在OpenAI会合。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512515.html"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512515.html",
+          "is_primary": false,
+          "published_at": "2026-11-25T15:46:52+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T15:46:52+08:00",
+      "updated_at": "2026-11-25T15:46:52+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "爆料称Claude Code核心成员塔里克也已加入OpenAI",
+      "lead_zh": "量子位援引人事爆料称，编程工具Claude Code的核心成员塔里克已加入OpenAI，若属实，将与此前已官宣或被曝加入的两名同事在这家公司会合。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "量子位援引硅谷人事爆料账号的消息称，Claude Code核心成员Thariq Shihipar已加入OpenAI。月初，Claude Code产品负责人之一Cat Wu已官宣加入OpenAI，并出任核心产品线的产品管理负责人；据《商业内幕》披露，她将与企业产品和消费者产品负责人共同工作，业务范围涵盖ChatGPT、Codex和面向开发者的应用程序接口。",
+            "同一爆料账号一周前还称，参与把Claude Code做成桌面产品的Anthony Morris也已加盟OpenAI。量子位据此写道，若这些消息属实，Anthropic上市前离职的Claude Code团队重要成员，将在老对手公司会合。需要指出，除Cat Wu已官宣入职外，另外两人目前仍是爆料，尚未看到OpenAI或本人的正式确认。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么说",
+          "paras": [
+            "据文章梳理，三人分工被描述为互补：Cat Wu负责产品规划，Anthony Morris熟悉桌面端和更广泛用户的交互，Thariq Shihipar则参与过向用户追问需求等智能体配合工具，并常在社交媒体分享工程经验。Cat Wu在入职说明中表示，希望打造能帮助个人和团队完成工作、同时让用户始终保有控制权的智能体。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n7f737f72d291",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "前苹果科学家权龙创业，专注空间与物理AI",
+      "original_title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+      "summary": "计算机视觉学者权龙离开苹果，创办格秩科技，转向空间与物理人工智能基础模型。量子位援引其对比称，GPT-6-Astra完成复杂城市场景建模单次成本可达100至600美元，而该公司模型可压到不到10美元。",
+      "facts": [
+        {
+          "text": "苹果前空间智能首席科学家权龙离开苹果，创办格秩科技，方向是空间与物理人工智能基础模型。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512498.html"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据权龙团队对比称，GPT-6-Astra完成大规模城市场景三维建模，单场景推理往往需要数小时、成本高达100至600美元，而其自研模型可把单场景推理成本压到不到10美元。",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512498.html"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/512498.html",
+          "is_primary": false,
+          "published_at": "2026-11-25T14:49:27+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T14:49:27+08:00",
+      "updated_at": "2026-11-25T14:49:27+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "前苹果科学家权龙创业，专注空间与物理AI",
+      "lead_zh": "苹果前空间智能首席科学家权龙离开苹果，创办格秩科技，称其原生空间模型把复杂场景三维建模的单场景推理成本降到不到10美元。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "量子位报道，苹果前空间智能首席科学家权龙离开苹果，创办格秩科技（Envision AI），转向空间与物理人工智能基础模型。权龙1988年在ICCV发表华人计算机视觉领域早期论文，1995年提出三视图重建的“六点算法”，2015年创办三维重建平台Altizure，公司于2020年被苹果收购后，他出任苹果空间智能首席科学家，参与过ARKit和Vision Pro等相关工作。",
+            "文章称，这家新公司已建立起包含**3000万**高质量空间物理数据资产、**4000万**余条空间物理视频，以及**500万**余个复杂场景的数据基础。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "公司怎么说",
+          "paras": [
+            "据权龙表示，格秩科技希望补足当前大语言模型在表达空间、物理信息以及泛化能力上的不足。报道转述的对比称，在大规模城市三维建模这类任务上，GPT-6-Astra往往需要数小时才能完成推理，单场景成本高达**100至600美元**；而该公司自研的原生基座模型，把单场景推理成本压到不到**10美元**，并称场景规模与精细程度也优于主流大模型。这些对比来自公司方面的介绍，并非第三方评测。"
+          ],
+          "sources": [
+            "量子位"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "nd6a3974a1a3c",
+      "category": "行业动态",
+      "importance": 1,
+      "verified": false,
+      "title": "耶鲁教授称英伟达是美国工业力量的“损害”而非标杆",
+      "original_title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "summary": "耶鲁大学教授索南菲尔德批评市场欢呼黄仁勋回归，称英伟达是美国全球工业力量的“损害”而非标杆。他认为董事会在调查仍进行时让黄仁勋回到董事会，可能面临高额个人法律责任。",
+      "facts": [
+        {
+          "text": "耶鲁大学教授杰弗里·索南菲尔德批评市场欢呼黄仁勋回归，称英伟达是美国全球工业力量的“损害”而非标杆。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据索南菲尔德称，董事会在调查仍进行时让黄仁勋回到董事会，可能面临很高的个人法律责任。",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+          "is_primary": false,
+          "published_at": "2026-11-25T08:12:02+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T08:12:02+08:00",
+      "updated_at": "2026-11-25T08:12:02+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "耶鲁教授称英伟达是美国工业力量的“损害”而非标杆",
+      "lead_zh": "耶鲁大学的杰弗里·索南菲尔德认为，市场欢呼黄仁勋回归可能是个错误，并称英伟达在先进芯片流入对手手中一事上是美国全球工业力量的“损害”。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "投资者周一为黄仁勋重返英伟达首席执行官职位而欢呼，但耶鲁大学著名商学教授杰弗里·索南菲尔德认为，这可能是在庆祝一个错误。他把英伟达称作美国全球工业力量的“损害”，而不是美国产业的标杆，理由是先进芯片仍流入对手手中，而风险正处在高位。英伟达董事长上周还曾基本排除黄仁勋回归，随后副总统万斯等人在周末密集致电，特朗普也亲自向董事会力挺，黄仁勋才得以重返。特朗普周一对CNBC说：“这是我促成的交易。”",
+            "与此同时，针对董事的法律行动已经开始：一起潜在集体诉讼几乎立刻提交，数天后又出现股东派生诉讼，指控董事会忽视了有关黄仁勋与疑似中国间谍爱丽丝·黄关系的警示信号。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "他怎么说",
+          "paras": [
+            "据索南菲尔德称，那些在调查仍进行时同意让黄仁勋回归、甚至重回董事会的董事，现在可能面临“历史级别的个人法律责任”。他也把Anthropic股价下跌与中国开源模型被认为在某种程度上复制了美国实验室成果联系起来，并指出英伟达一直坚称走私是“非因素”。"
+          ],
+          "sources": [
+            "TechCrunch"
+          ]
+        }
+      ],
+      "image_url": "img/e63002ed73666b89d613d3810300b2ada1c2bd2e.jpg",
+      "image_source": "TechCrunch",
+      "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
+      "fulltext_status": "",
+      "read_minutes": 0
+    },
+    {
+      "id": "n8dcd3f46d355",
+      "category": "政策与安全",
+      "importance": 1,
+      "verified": false,
+      "title": "专家称黄仁勋回归表明英伟达已大到难以被约束",
+      "original_title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "summary": "《连线》引述情报和出口管制专家的警告称，董事会在内部调查结束前、且司法部仍在调查Megaspeed芯片流向时让黄仁勋回归，可能表明英伟达对股市过于重要，美国政府难以追究其国家安全疏失。",
+      "facts": [
+        {
+          "text": "英伟达董事会在周一让黄仁勋回归，距离他因婚外情等风波辞职约11天，且发生在公司内部调查结束之前。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/"
+        }
+      ],
+      "claims": [
+        {
+          "text": "据WIRED称，情报和出口管制专家认为，这次回归可能表明英伟达对股市已过于重要，美国政府难以就其国家安全疏失问责。",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/"
+        }
+      ],
+      "analysis": [],
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+          "is_primary": false,
+          "published_at": "2026-11-25T07:39:04+08:00"
+        }
+      ],
+      "published_at": "2026-11-25T07:39:04+08:00",
+      "updated_at": "2026-11-25T07:39:04+08:00",
+      "status": "normal",
+      "summary_mode": "ai",
+      "title_zh": "专家称黄仁勋回归表明英伟达已大到难以被约束",
+      "lead_zh": "《连线》援引情报和出口管制专家的话称，英伟达董事会在自身调查结束前让黄仁勋回归，可能说明这家公司对股市已过于重要，难以被追究国家安全责任。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "paras": [
+            "英伟达董事会周一让黄仁勋重新出任首席执行官，距离他因婚外情等风波辞职约**11天**。相关报道提到，其中一名对象爱丽丝·黄被美国情报界怀疑与中国国家安全部有关联。董事会表示，来自“美国政府高层”的意见让他们相信，黄仁勋回归不构成国家安全风险。特朗普对《华尔街日报》说，他直接并通过中间人向董事会游说，英伟达股价下跌也帮了他的忙。董事会是在自身对黄仁勋的调查结束前作出这一决定的；与此同时，司法部仍在调查爱丽丝·黄曾任职的新加坡公司Megaspeed是否把英伟达芯片转运到中国。",
+            "国家情报总监杰伊·克莱顿称，爱丽丝·黄本人也在接受调查。专家们还想弄清，董事会得到的“没有国家安全风险”保证究竟来自何处、依据是什么。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "专家怎么看",
+          "paras": [
+            "据情报和出口管制专家对《连线》表示，他们更担心这次回归树立的先例，而不是黄仁勋个人眼下还会造成多少新的泄密风险。有人认为，眼下的严苛关注反而使他更难再被利用；但也有人指出，北京可能已经通过相关关系或Megaspeed，获得了芯片设计、白宫和国会私下交流方面的信息，或得到了芯片本身，而公众仍不知道对方究竟拿到了什么。多位专家还想知道，究竟是谁、依据什么向董事会作出了“没有国家安全风险”的保证，以及政府是否做过反情报损害评估，或只是作出了政治判断。"
+          ],
+          "sources": [
+            "WIRED"
+          ]
+        }
+      ],
+      "image_url": "img/8b2192d8f82c3f1455af828439de04bfdf2cca42.jpg",
+      "image_source": "WIRED",
+      "image_origin_url": "https://media.wired.com/photos/6b05a2cb470266bfec0ce9be/master/pass/GettyImages-2306037065.jpg",
+      "fulltext_status": "",
+      "read_minutes": 0
+    }
+  ]
+}

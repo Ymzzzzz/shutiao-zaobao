@@ -1,0 +1,56 @@
+{
+  "id": "nf5bb5e8a9ad3",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "前沿模型已能解开曾需物理学家一整天的题目",
+  "original_title": "AI may soon change what it means to be a theoretical physicist",
+  "summary": "印度理论物理学家拉朱把一道自己已经解出但从未发表的题目交给前沿模型，以免答案早已出现在训练数据里。Ars Technica以此出发，讨论人工智能正在改变理论物理学家的计算工作，以及接下来人还该做什么。",
+  "facts": [
+    {
+      "text": "班加罗尔国际理论科学中心的物理学家拉朱用自己已经解出但从未发表的题目测试前沿模型，随后与同事收集同类未公开题目，做成理论物理评测。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
+    },
+    {
+      "text": "他在9月的一次学术报告中公布初步结果：领先的人工智能模型能独立解出约60%的题目。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "is_primary": false,
+      "published_at": "2026-11-25T20:00:28+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T20:00:28+08:00",
+  "updated_at": "2026-11-25T20:00:28+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "前沿模型已能解开曾需物理学家一整天的题目",
+  "lead_zh": "班加罗尔理论物理学家拉朱用从未发表过的题目测试前沿模型，以检验人工智能是否已能解决过去顶尖物理学家需要一天的问题，并讨论这可能如何改变理论物理的工作方式。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "约六个月前，印度班加罗尔国际理论科学中心的理论物理学教授苏夫拉特·拉朱，把一道自己已经解出、但从未发表的题目交给前沿人工智能模型。因为训练数据可能包含网上已讨论过的题目，他需要用从未出现在网络上的问题，才能比较公平地测试模型的物理能力。模型没有完全做对，但表现好于他的预期，于是他和同事决定把这类测试正式做成理论物理基准。",
+        "他们向其他物理学家征集从未整理发表的、属于本领域顶尖研究者大约一天工作量的真实题目。拉朱写道，贡献者要么要牺牲在别处发表的可能，要么专门为这项评测做一小项研究。到题目和答案备齐时，模型也更强了。他在**9月**的一次学术报告中公布初步结果：领先的人工智能模型已经能独立解出约**60%**的题目。文章据此讨论，计算工作被模型分担后，理论物理学家的角色可能如何变化。"
+      ],
+      "sources": [
+        "Ars Technica"
+      ]
+    }
+  ],
+  "image_url": "img/50ec361bb438f1a80c28d6af7d79342cc4caf6ba.jpg",
+  "image_source": "Ars Technica",
+  "image_origin_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

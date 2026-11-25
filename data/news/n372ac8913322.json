@@ -1,0 +1,179 @@
+{
+  "id": "n372ac8913322",
+  "category": "行业动态",
+  "importance": 2,
+  "verified": false,
+  "title": "阿莫代驳斥“向AI交出人类控制权”的指责",
+  "original_title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+  "summary": "Anthropic首席执行官阿莫代发文，称“向AI交出人类自由意志”的指责荒唐，主张人类保留最终决策权，同时承认特定任务自动化与递归自我改进需要界限，并指对手同样在推进自动化。",
+  "facts": [
+    {
+      "text": "阿莫代周三在社交媒体X发长文，回击有关Anthropic主张向人工智能交出人类自由意志的指责。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    },
+    {
+      "text": "本月早些时候，OpenAI首席执行官奥特曼表示希望人们继续对未来保有自主权，Meta人工智能首席官亚历克斯·王则称不应接受把社会移交给AI。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    },
+    {
+      "text": "Anthropic今年6月曾表示，合并进入公司代码库的代码中有超过80%由Claude编写。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据阿莫代称，反对专制的理由同样适用于由人工智能来治理，把治理权交给AI是个坏主意。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    },
+    {
+      "text": "据阿莫代称，在没有有意义的人类监督或理解的情况下，让Claude完全自主打造下一代前沿模型料想并不安全。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "is_primary": false,
+      "published_at": "2026-11-26T03:44:24+08:00"
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+      "is_primary": false,
+      "published_at": "2026-11-26T04:15:50+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T03:44:24+08:00",
+  "updated_at": "2026-11-26T04:15:50+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "阿莫代驳斥“向AI交出人类控制权”的指责",
+  "lead_zh": "Anthropic首席执行官达里奥·阿莫代发长文，称有关他主张把人类自主权交给人工智能的说法“荒唐”，并强调不应把社会治理交给AI。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anthropic首席执行官达里奥·阿莫代周三在社交媒体X发长文，回击有关该公司主张“向人工智能交出人类自由意志”的指责，并称这种说法“荒唐”。此事正值竞争对手近期密集谈论人类自主权：本月早些时候，OpenAI首席执行官萨姆·奥特曼表示希望人们继续对未来保有“自主权”；Meta人工智能首席官亚历克斯·王也撰文称，不应接受把社会“移交”给人工智能。",
+        "阿莫代把“交出人类自由意志”与“让AI更自动地完成特定任务”区分开来，举例包括驾驶汽车、设计抗癌药物和端到端编写软件。他提出，递归自我改进可能需要设限。与此同时，Anthropic今年6月曾表示，合并进入公司代码库的代码中有超过**80%**由Claude编写；安全研究非营利机构METR本月的独立评估认为，该公司模型改进速度约为历史水平的两倍，主要来自AI辅助研究。公司招股文件把一代Claude加速下一代研发的过程称为“闭合循环”。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "阿莫代写道：“我们绝不该为了效率或安全，牺牲合法性和自决。”他称，反对专制的理由同样适用于由人工智能来治理，把治理权交给AI是个坏主意。他还说，11月初已公开表示，在没有有意义的人类监督或理解的情况下，让Claude完全自主打造下一代前沿模型“料想并不安全”。他并指责竞争对手在做“基于氛围的商业和政治定位”，口头强调人类控制和把AI当作工具，但产品同样走向任务自动化。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/f75be6949dc4834beb159c3e0f55a595c5564d62.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
+  "fulltext_status": "ok",
+  "read_minutes": 4,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "Rebecca Bellan",
+    "author_title_zh": "",
+    "published_at": "2026-11-25",
+    "title_en": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "title_zh": "阿莫代驳斥“向AI交出人类控制权”的指责",
+    "dek_en": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+    "dek_zh": "Anthropic首席执行官达里奥·阿莫代回击对手有关他主张向人工智能交出人类自主权的指责，与此同时，领先的人工智能公司正越来越多地自动化自身的研究与模型开发。",
+    "word_count_zh": 1338,
+    "read_minutes": 4,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "Anthropic首席执行官达里奥·阿莫代正在回击有关Anthropic主张我们应向人工智能系统“交出人类自由意志”的说法。他周三在社交媒体X发长文，称这一说法“荒唐”。",
+        "en": "Anthropic CEO Dario Amodei is pushing back against claims that Anthropic believes we should “surrender human free will” to AI systems. In a long X post on Wednesday, Amodei called the suggestion “absurd.”"
+      },
+      {
+        "t": "p",
+        "zh": "他写道：“我们绝不该为了效率或安全，牺牲合法性和自决。”反对专制的理由同样一字不差地适用于由人工智能来治理，我同样强烈地认为，把治理权交给人工智能是个坏主意……任何仔细读过我的文章或采访的人，都无法合理地得出我持有不同看法的结论。”",
+        "en": "“We should never sacrifice legitimacy or self-determination at the altar of efficiency or security,” he wrote. This argument against autocracy applies word for word against governance by AI, and I feel equally strongly that turning over governance to AI is a bad idea…No one who had carefully read my writing or my interviews could reasonably conclude that I believe anything different.”"
+      },
+      {
+        "t": "p",
+        "zh": "这一表态出现之际，Anthropic的竞争对手正越来越多地提出，如果人工智能开发不当，人类自主权可能面临风险。本月早些时候，OpenAI首席执行官萨姆·奥特曼表示，他希望确保人们继续对未来保有“自主权”。",
+        "en": "The statement comes after a growing chorus from Anthropic rivals suggesting that human agency could be at risk if AI is developed irresponsibly. Earlier this month, OpenAI CEO Sam Altman said he wanted to ensure people continue to have “agency over the future.”"
+      },
+      {
+        "t": "p",
+        "zh": "Meta人工智能首席官亚历克斯·王也在社交媒体X上的一篇文章中写道，我们“不应接受把社会‘移交’给人工智能”。",
+        "en": "Meta’s chief AI officer Alexandr Wang also wrote in an essay on X that we “should not be okay with a ‘handover’ of society to AI.”"
+      },
+      {
+        "t": "p",
+        "zh": "王写道：“很难想象，在完全不受约束的递归自我改进之下，人类还能保持控制。”“如今，能力进步方面的科学和技术问题很可能已经解决，我们不仅必须在安全、对齐和安保这些极为紧迫的领域取得进展，还必须开始思考如何审慎地推进。”",
+        "en": "“It is hard to imagine a world where humanity can maintain control over fully unconstrained recursive self-improvement,” Wang wrote. “Now that we are at a point where the scientific and technical problems on capability progress are likely solved, we must not only make progress in the extremely urgent areas of safety, alignment, and security, but we have to start thinking through how we progress thoughtfully.”"
+      },
+      {
+        "t": "p",
+        "zh": "但阿莫代在已发表的文章中称，他一再主张对人工智能实行民主监督，认为这项技术应当强化民主制度，并且人类应保留最终决策权。",
+        "en": "But in published essays, Amodei claims he has repeatedly advocated for democratic oversight of AI, saying the technology should strengthen democratic institutions and that humans should retain ultimate decision-making power."
+      },
+      {
+        "t": "p",
+        "zh": "阿莫代指出，笼统地交出人类自由意志，与“随着人工智能系统进步，它们能够以更自动化的方式完成特定任务”并不是一回事。他举的例子包括人工智能驾驶汽车、设计抗癌药物，或端到端编写软件。",
+        "en": "Amodei noted that there’s a difference between surrendering human free will broadly and the idea that “as AI systems advance, they become capable of doing specific tasks in a more automated way.” As examples, he gave AI driving a car, designing a cancer drug, or writing end-to-end software."
+      },
+      {
+        "t": "p",
+        "zh": "阿莫代建议在递归自我改进（RSI）这里划定界限，也就是人工智能可以在没有人类协助的情况下改进自身。许多安全专家认为，RSI必然导致人类失去控制；阿莫代也含蓄地承认了这一点，他写道：“我们也许希望对这一过程设限。”",
+        "en": "Amodei suggested drawing a line at recursive self-improvement (RSI), or AI that can improve itself without human assistance. Many safety experts see RSI as inevitably leading to a loss of human control, a point Amodei implicitly acknowledged, writing, “we may want limits on this process.”"
+      },
+      {
+        "t": "p",
+        "zh": "尽管如此，Anthropic正通过把人工智能越来越多地纳入自身研发，为RSI打下基础。该公司在6月表示，合并进入Anthropic代码库的代码中，有超过80%由Claude编写。人工智能安全研究非营利机构METR本月发布的独立评估认为，Anthropic模型的改进速度约为历史水平的两倍，主要来自人工智能辅助研究。",
+        "en": "Still, Anthropic is laying the groundwork for RSI by incorporating AI into an increasing share of its own research and development. The company said in June that Claude authored more than 80% of the code merged into Anthropic’s codebase. An independent assessment published this month by AI safety research nonprofit METR found that Anthropic’s models are improving at about twice their historical rate, primarily driven by AI-assisted research."
+      },
+      {
+        "t": "p",
+        "zh": "在自己的招股文件中，Anthropic描述了每一代Claude如何加速下一代的开发，并将这一过程称为“闭合循环”。",
+        "en": "In its own IPO filings, Anthropic describes how each successive generation of Claude accelerates the development of the next, a process it refers to as “closing the loop.”"
+      },
+      {
+        "t": "p",
+        "zh": "阿莫代写道：“正如我们11月初公开说过的，我们并不认为，在没有有意义的人类监督或理解的情况下，让Claude完全自主打造一代又一代前沿模型是安全的。”",
+        "en": "“As we said publicly in early November, we don’t expect it to be safe for Claude to build successive frontier models fully autonomously, without meaningful human supervision or understanding,” Amodei wrote."
+      },
+      {
+        "t": "p",
+        "zh": "“有意义的人类监督或理解”的问题在于，人工智能的进步已经快于工程师和安全专家能够充分审计的速度，使他们越来越依赖其他人工智能系统来充当法官和陪审团。当人工智能模型做出欺骗行为时，这一问题会更加严重，尤其是在它们意识到自己正在被评估的时候，这使它们更难被信任和掌控。",
+        "en": "The problem with “meaningful human supervision or understanding” is that AI is already advancing faster than engineers and safety experts can fully audit it, leaving them increasingly reliant on other AI systems to act as judge and jury. The issue compounds when AI models engage in deceptive behavior, particularly when they recognize they’re being evaluated, making them harder to trust and control."
+      },
+      {
+        "t": "p",
+        "zh": "尽管如此，Anthropic绝不是唯一一家追求RSI、或打造人工智能系统来自动化越来越多人类任务的公司。本周，OpenAI声称已解决计算机科学中最大的开放问题之一——矩阵乘法的确切速度上限，而这正是现代计算（包括深度学习和物理模拟）背后的数学引擎。",
+        "en": "Still, Anthropic is by no means the only company that is pursuing RSI or building AI systems to automate more and more human tasks. This week, OpenAI claimed to have solved one of the biggest open problems in computer science — the exact speed limit of matrix multiplication, which is the mathematical engine behind modern computing, including deep learning and physics simulations."
+      },
+      {
+        "t": "p",
+        "zh": "阿莫代在帖子中指责竞争对手搞“基于氛围的商业和政治定位”，言不由衷地抛出“人类控制和自主权”或“人工智能就应该只是工具”之类的说法，但在人工智能竞赛中的做法并无不同。",
+        "en": "In his post, Amodei accused competitors of engaging in a “vibes-based commercial and political positioning,” disingenuously throwing around phrases like “human control and agency” or “AI should just be a tool” without approaching the AI race any differently."
+      },
+      {
+        "t": "p",
+        "zh": "阿莫代写道：“当然，他们推出的产品在面向任务自动化的取向上并无实质差别；每家公司似乎都在发布越来越擅长任务自动化的模型。”“每家公司都声称理解这种自动化的风险和弊端，并表示会提供保障措施。”",
+        "en": "“Certainly the products that they offer don’t differ materially in their orientation towards automation of tasks; every company seems to be releasing models more and more capable of task automation,” Amodei wrote. “Every company claims to understand there are risks and downsides of such automation and to offer safeguards.”"
+      }
+    ]
+  }
+}

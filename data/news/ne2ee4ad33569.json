@@ -1,0 +1,314 @@
+{
+  "id": "ne2ee4ad33569",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "谷歌提出可验证的大模型社交推理评测框架",
+  "original_title": "Verifiable Social Reasoning for LLM Assistants",
+  "summary": "谷歌研究用多智能体模拟构建社交推理评测：目标角色带有隐藏动机，助手只能通过用户转述来推断。团队用该框架测试了12个大模型，并开源框架和超过2万条生成样本供后续研究。",
+  "facts": [
+    {
+      "text": "谷歌研究提出基于多智能体模拟的社交推理评测框架，助手无法直接观察社交过程，只能根据用户转述推断目标角色的隐藏动机。",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"
+    },
+    {
+      "text": "研究团队用该框架测试了12个大模型，并开源框架和逾2万条生成样本。模拟基于谷歌开源库Concordia扩展。",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据研究团队称，模型在只能通过用户转述推理时明显更困难，而且容易受用户表述框架影响，往往需要比人类更多的细节才敢给出判断。",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Google Research Blog",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "is_primary": true,
+      "published_at": "2026-11-26T01:10:27+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T01:10:27+08:00",
+  "updated_at": "2026-11-26T01:10:27+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "谷歌提出可验证的大模型社交推理评测框架",
+  "lead_zh": "谷歌研究发布基于多智能体模拟的评测框架，用于检验大模型助手在只听到用户转述时，能否推断他人的隐藏动机，并开源框架和逾2万条样本。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "谷歌研究发布面向大模型助手的社交推理评测框架。与数学或代码等拥有完整客观信息的任务不同，实际助手往往只能通过用户的主观转述了解社交事件。框架先给目标角色设定隐藏动机，再让其与包括用户在内的其他智能体互动；随后由用户向受测助手咨询，助手必须据此推断该隐藏动机。模拟与问询分开进行，以便同一批情景复用于不同模型。",
+        "团队基于谷歌开源库Concordia扩展了多智能体模拟，并用该框架测试了**12个**大模型。评测还设置了可调节的用户认知滤镜，例如把用户设为自信或缺乏安全感。研究同时开源了框架和超过**2万条**生成样本，供后续实验使用。"
+      ],
+      "sources": [
+        "Google Research Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "研究发现了什么",
+      "paras": [
+        "据研究团队称，若让同一模型直接以“旁观者”身份看到未经转述的客观事件，预测隐藏动机的准确率会明显高于只与用户交谈时，这被他们称为助手与观察者之间的差距。该差距在用户带有明显偏见时还会加大：模型有时会附和用户缺乏根据的怀疑，而不是依据底层事实来判断。团队还称，更细的叙述能提升表现，即使多出来的细节并非做出正确判断所必需；更长的多轮对话也不总是带来更高准确率，模型可能为了保持连贯而锚定在用户的主观框架上。"
+      ],
+      "sources": [
+        "Google Research Blog"
+      ]
+    }
+  ],
+  "image_url": "img/9d1939471da6011142454f403e3cc9156e1fef9a.jpg",
+  "image_source": "Google Research Blog",
+  "image_origin_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning1-UserMediatedReality.png",
+  "fulltext_status": "ok",
+  "read_minutes": 7,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-26",
+    "title_en": "Verifiable Social Reasoning for LLM Assistants",
+    "title_zh": "谷歌提出可验证的大模型社交推理评测框架",
+    "dek_en": "",
+    "dek_zh": "",
+    "word_count_zh": 2756,
+    "read_minutes": 7,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "大语言模型（LLM）被广泛用于日常的个人支持和建议，但在这类咨询场景中评估它们的社交推理仍然困难，原因在于：（1）这需要助手从用户的主观叙述中了解社交情境的设置；（2）他人意图等社交属性通常缺乏可验证的真实标签。",
+        "en": "Large Language Models (LLMs) are widely used for everyday personal support and advice, yet evaluating their social reasoning in such consultation settings remains challenging since (1) it requires setups where the assistant learns about social situations from subjective user narratives, and (2) social properties, such as others’ intentions, typically lack verifiable ground truth."
+      },
+      {
+        "t": "p",
+        "zh": "为同时应对这两项挑战，我们提出一套基于多智能体模拟的社交推理评测框架。在该框架中，目标智能体被赋予隐藏动机，并与包括代表用户的智能体在内的其他智能体互动。随后，用户向被评测的助手咨询，助手必须推断出该目标的隐藏动机。我们通过该框架评测了多种大语言模型，发现依赖用户的主观转述会显著增加社交推理的难度。此外，模型对用户的表述框架很敏感，需要比人类更多的细节才能做出正确预测，并且未能充分利用澄清性问题。我们开源了该框架和数据集，以鼓励后续对“经用户转述的社交推理”的研究。",
+        "en": "Designed to address both of these challenges, we introduce an evaluation framework for social reasoning based on multi-agent simulations. In our framework, a target agent is assigned a hidden motive and interacts with other agents, including one representing the user. The user then consults with the evaluated assistant, which must infer the target's hidden motive. Evaluating a diverse range of LLMs through our framework reveals that relying on subjective user mediation substantially complicates social reasoning. Furthermore, models are sensitive to user framing, require more detail than humans need to reach correct predictions, and fail to fully leverage clarification questions. We open-source the framework and dataset to encourage future research on user-mediated social reasoning."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/27c17b2dfca8fe425125cb7554b417d1dc4310dc.jpg",
+        "origin_url": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+        "caption_zh": "示意图：用户与一个包含怀有隐藏动机之人的社交网络相连，同时通过聊天气泡向人工智能助手咨询，用以说明助手只能通过用户看到事件。",
+        "source": "Google Research Blog",
+        "w": 593,
+        "h": 570
+      },
+      {
+        "t": "p",
+        "zh": "人工智能助手运行在一种“由用户转述的现实”之中：助手只能通过用户的主观视角听说社交事件，因而难以客观推断用户圈子中某个人物的真实动机。",
+        "en": "AI assistants operate within a user-mediated reality: the assistant hears about social events only through the subjective lens of the user, making it challenging to reason objectively about the true motive of an actor in the user’s circle."
+      },
+      {
+        "t": "h",
+        "zh": "由用户转述的现实",
+        "en": "User-mediated reality"
+      },
+      {
+        "t": "p",
+        "zh": "在评估大语言模型的社交推理时，必须认识到，已部署的助手运行在由用户转述的现实之中。在数学和代码这类经典推理任务中，大语言模型处理的是客观、完整的信息。然而，当大语言模型作为对话助手、被要求提供个人支持和建议时，它并不能亲眼观察到实际的社交互动；其唯一信息来源是用户主观的、可能带有偏见的视角。",
+        "en": "When evaluating LLMs’ social reasoning, it’s important to recognize that deployed assistants operate within a user-mediated reality. In classical reasoning tasks like math and code, LLMs operate over objective, complete information. However, when an LLM acts as a conversational assistant and is asked for personal support and advice, it does not observe the actual social interactions firsthand; its only source of information is the subjective, potentially biased lens of the user."
+      },
+      {
+        "t": "p",
+        "zh": "这种信息不对称可能带来困难，因为用户可能省略关键背景，或因个人偏见而提供失真的叙述（例如，把自己的不安全感投射到对事件的转述中）。当模型接受了用户的前提，它们可能会放大片面的假定，而不是给出客观评估。这可能导致一种不希望出现的失败模式，例如对一位其实在试图帮忙的同事提出苛刻建议。",
+        "en": "This information asymmetry can be challenging, as users may omit crucial context or provide a distorted narrative due to personal bias (e.g., projecting their insecurities onto their recounting of events). When models adopt the user's premise, they may amplify one-sided assumptions rather than offer objective assessment. This can result in an undesired failure mode, such as dispensing harsh advice against a colleague who was actually trying to help."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/077608e6c8979193ba8f2d02c32b3a863f026258.jpg",
+        "origin_url": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning2-HarshAdviceExample.width-1250.png",
+        "caption_zh": "带标注的聊天界面示例：一名缺乏安全感的用户询问，一位表现支持的新同事是否在试图削弱自己的地位，被测大语言模型则给出过于苛刻的建议，称不要太友善。",
+        "source": "Google Research Blog",
+        "w": 750,
+        "h": 497
+      },
+      {
+        "t": "p",
+        "zh": "我们研究中的一个例子：尽管用户描述的是一位明显在提供帮助的同事，被评测模型仍给出了可能过于苛刻的建议。",
+        "en": "An example from our study: the evaluated model offers potentially harsh counsel despite the user describing a clearly helpful peer."
+      },
+      {
+        "t": "h",
+        "zh": "评估日常社交互动",
+        "en": "Evaluating everyday social interactions"
+      },
+      {
+        "t": "p",
+        "zh": "现有评测往往把范围限定在极端情况和明显异常上，例如测试模型是否认同“某人自称拥有超自然能力”这类荒谬说法，在很大程度上忽略了更细致的日常社交互动。这些日常互动在真实使用中占很大份额，相当于每天数以亿计的对话，用户在其中寻求个人支持、关系建议和陪伴。",
+        "en": "Existing evaluations often constrain their scope to edge-cases and overt anomalies, like testing whether models endorse absurd claims such as a human claiming to have supernatural powers, largely overlooking more nuanced everyday social interactions. These everyday interactions represent a massive share of real-world usage, translating to hundreds of millions of daily conversations where users seek personal support, relationship advice, and companionship."
+      },
+      {
+        "t": "h",
+        "zh": "可验证真实标签的难题",
+        "en": "The challenge of verifiable ground-truth"
+      },
+      {
+        "t": "p",
+        "zh": "由于缺乏可验证的真实标签，评估日常场景本质上更加困难。在极端情形中，真实标签几乎是“白送的”；例如，自称拥有超自然能力的说法显然为假。相比之下，为推断他人动机这类细致的日常互动建立可验证的真实标签，要困难得多。",
+        "en": "Evaluating everyday scenarios is inherently more challenging due to a lack of verifiable ground truth. In extreme cases, ground truth labels come “for free”; a claim of having supernatural powers, for instance, is trivially false. In contrast, establishing a verifiable ground truth for nuanced, day-to-day interactions, such as inferring human motives, is far less trivial."
+      },
+      {
+        "t": "h",
+        "zh": "我们的方法",
+        "en": "Our approach"
+      },
+      {
+        "t": "p",
+        "zh": "为系统评估基于大语言模型的助手的社交推理，我们提出一套基于多智能体模拟的评测框架，该框架能在生成式角色之间产生丰富的人际动态，并遵循三项核心原则：",
+        "en": "To systematically evaluate LLM-based assistants’ social reasoning, we propose an evaluation framework based on multi-agent simulations that produces rich interpersonal dynamics between generative characters with three core principles:"
+      },
+      {
+        "t": "p",
+        "zh": "• 由用户转述的现实：如下图所示，充当助手的被评测模型并不参与主要的社交互动，也无法亲眼观察事件，而是只与单一的用户角色互动。",
+        "en": "• User-mediated reality: As illustrated in the figure below, the evaluated model, which acts as an assistant, does not participate in the main social interaction and cannot observe the events firsthand. Instead it interacts exclusively with a single user persona."
+      },
+      {
+        "t": "p",
+        "zh": "• 可验证信号：为建立可验证的真实标签，评测框架在每次模拟开始时设置一个带有隐藏动机的可控实体。这一动机贯穿整个模拟，塑造该实体的行为，而被评测助手的目标就是预测这一动机。",
+        "en": "• Verifiable signals: To establish a verifiable ground truth, the evaluation framework starts each simulation with a controllable entity that has a hidden motivation. This motivation shapes the entity's behavior throughout the simulation, and the goal of the evaluated assistant is to predict it."
+      },
+      {
+        "t": "p",
+        "zh": "• 可控维度：为评估用户视角如何影响助手的社交推理，该框架沿着不同维度对用户角色的认知过滤加以参数化，例如在自信与缺乏安全感之间切换用户状态。",
+        "en": "• Controllable axes: To evaluate how user perspective influences the assistant's social reasoning, the framework parameterizes the user persona's cognitive filters along distinct axes, such as toggling a user between being confident or insecure."
+      },
+      {
+        "t": "p",
+        "zh": "基于这些原则，我们的框架在多样化的场景中测试社交能力。",
+        "en": "Based on these principles, our framework tests social capabilities across diverse scenarios."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/9e7d548148a7cbeedddb279b030c98e68e0d61a4.jpg",
+        "origin_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+        "caption_zh": "动态的五步流程示意图，展示社交推理输入类别、场景生成、带有隐藏动机的多智能体模拟、用户与助手的事后交谈，以及用评判大语言模型评估动机。",
+        "source": "Google Research Blog",
+        "w": 750,
+        "h": 350
+      },
+      {
+        "t": "p",
+        "zh": "我们框架的全景概览。",
+        "en": "Bird's-eye view of our framework."
+      },
+      {
+        "t": "p",
+        "zh": "我们的框架以程序化方式生成场景，并用一个五步流程加以评估：",
+        "en": "Our framework programmatically generates scenarios and evaluates them using a five-step pipeline:"
+      },
+      {
+        "t": "p",
+        "zh": "• 锚定社交主题：我们首先定义一组社交推理类别（例如欲望、知识），用以确定评测范围。把评测锚定在一套有原则的类别上，可以确保它覆盖多方面的社交维度。",
+        "en": "• Ground in social topics: We start with a definition of a set of social reasoning categories (e.g., desires, knowledge) that determine the scope of the evaluation. Grounding the evaluation around some principled set of categories ensures that it covers a range of social aspects."
+      },
+      {
+        "t": "p",
+        "zh": "• 生成场景模板：框架为每次模拟生成支架，包括：多场景结构、用户角色、任何背景角色，以及隐藏动机由框架控制的目标角色。每个场景都围绕一个推理问题构建。下图展示了欲望类别中的一个示例场景，要求模型推断目标角色的浪漫动机。",
+        "en": "• Generate scenario templates: The framework generates the scaffolding for each simulation, including: a multi-scene structure, a user persona, any background personas, and a target persona whose hidden motive is controlled by the framework. Every scenario is built around a reasoning question. The diagram below illustrates an example scenario within the desire category, requiring the model to deduce the romantic motives of the target persona."
+      },
+      {
+        "t": "p",
+        "zh": "• 运行主模拟：模拟用户、目标实体以及任何辅助智能体在各个场景中自然互动，生成具体的、涌现出的社交叙事。多智能体模拟通过对谷歌开发的开源库Concordia加以扩展来实现。",
+        "en": "• Run the main simulation: The simulated user, the target entity, and any auxiliary agents interact naturally across the scenes to generate a concrete, emergent social narrative. The multi-agent simulations are implemented by extending the Concordia open-source library developed by Google."
+      },
+      {
+        "t": "p",
+        "zh": "• 进行助手事后交谈：用户智能体从模拟中被取出，转向助手寻求社交建议，并以不完整、或许带有偏见的方式私下讲述事件。",
+        "en": "• Conduct the assistant debrief: The user agent is extracted from the simulation and turns to the assistant for social advice, privately recounting the events in a partial and perhaps biased manner."
+      },
+      {
+        "t": "p",
+        "zh": "• 评估助手的判断：助手被提示仅根据由用户转述的对话来预测潜在的隐藏动机。随后我们使用“大语言模型作评判”来判定助手是否成功推断出真实标签。",
+        "en": "• Assess the assistant decision: The assistant is prompted to predict the underlying hidden motive based solely on the user-mediated conversation. We then use an LLM-as-a-judge to determine if the assistant successfully deduced the ground truth."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/592b7671837a1dc3a843408fc0b34b6c230a0f80.jpg",
+        "origin_url": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning4-ScenarioTemplate.width-1250.png",
+        "caption_zh": "场景模板卡片：左侧展示描述，以及作为用户的Jordan、Taylor和作为目标的Riley在三个社交场景中的设定；右侧则是可控的浪漫动机与柏拉图式动机对照。",
+        "source": "Google Research Blog",
+        "w": 750,
+        "h": 363
+      },
+      {
+        "t": "p",
+        "zh": "场景模板的简化示意（上述第2步）。每次模拟会实例化其中一种隐藏动机（右侧面板），该动机塑造目标角色的行为。这一动机就是被评测助手必须预测的真实标签。",
+        "en": "A simplified illustration of a scenario template (step 2 above). Each simulation instantiates one of the hidden motives (right panel) that shapes the target persona’s behavior. This motive serves as the ground truth that the evaluated assistant must predict."
+      },
+      {
+        "t": "p",
+        "zh": "重要的是，在我们的框架中，模拟与事后交谈是分开的，因而模拟可以高效地在任意数量的被评测模型上复用，并能够据此创建静态评测数据集。我们开源了该框架，以及一个包含超过20K条生成样本、可用于实验的数据集。",
+        "en": "Importantly, the simulation and the debrief are separated in our framework, allowing simulations to be reused efficiently across any number of evaluated models, and enabling the creation of static evaluation datasets. We open-source the framework and a dataset with over 20K generated examples for running experiments."
+      },
+      {
+        "t": "h",
+        "zh": "主要发现",
+        "en": "Key findings"
+      },
+      {
+        "t": "p",
+        "zh": "我们的框架使得系统研究“由用户转述的社交推理为何困难”成为可能，并为如何更好地开发和评测助手提供洞见。我们将其应用于12个大语言模型，并分离出几个关键因素：",
+        "en": "Our framework makes it possible to systematically study what makes user-mediated social reasoning challenging, offering insights into how better assistants can be developed and evaluated. We apply it to 12 LLMs and isolate several key factors:"
+      },
+      {
+        "t": "p",
+        "zh": "• 助手与观察者之间的差距：当我们让大语言模型作为“墙壁上的苍蝇”式观察者，直接看到模拟中客观的、未经转述的事件时，该模型预测可验证真实标签的准确率，显著高于同一模型只作为助手与用户交谈时的表现。这一差距分离出了经由用户主观视角进行推理的代价。",
+        "en": "• The assistant-observer gap: When we show an LLM the objective, unmediated events of a simulation directly as a \"fly on the wall\" observer, the model is significantly more accurate at predicting the verifiable ground truth than when the same model acts as an assistant talking strictly to the user. This gap isolates the cost of reasoning through the user's subjective lens."
+      },
+      {
+        "t": "p",
+        "zh": "• 对用户表述框架的敏感：当我们向模拟用户注入明确偏见时，这一差距会加大。被评测模型往往不是提供客观视角，而是接受了用户的主观框架。例如，在某些用户表达毫无根据的怀疑的情形中，助手会认可这些假定，而不是根据底层事实进行推理。",
+        "en": "• Sensitivity to user framing: The gap intensifies when we inject explicit biases into the simulated user. Rather than offering an objective perspective, the evaluated models often adopt the user’s subjective framing. For instance, in some cases where the user expresses unfounded suspicion, the assistant validated those assumptions rather than reasoning from the underlying facts."
+      },
+      {
+        "t": "p",
+        "zh": "• 叙事细节的影响：用户叙述更详细时，模型的表现会提高，即便这些额外细节对于做出正确预测并非必要。这表明，模型在做出某些预测之前，往往需要比实际所需更多的证据。",
+        "en": "• The effect of narrative detail: Models improve with more detailed user narratives, even when the additional detail is not necessary for a correct prediction. This suggests that models often require more evidence than is actually needed before committing to certain predictions."
+      },
+      {
+        "t": "p",
+        "zh": "• 多轮对话动态：更长的对话并不总会提高社交推理的准确率。尽管额外轮次提供了提出澄清性问题的机会，但模型会保持对话连贯，这往往使它们锚定于此前的交流，并在随后各轮中强化用户的主观框架。",
+        "en": "• Multi-turn dynamics: Longer conversations do not always improve social reasoning accuracy. While additional turns provide opportunities to ask clarifying questions, models preserve conversational coherence, often causing models to anchor to prior exchanges, reinforcing the user’s subjective framing across successive turns."
+      },
+      {
+        "t": "p",
+        "zh": "我们目前正使用该框架和数据集来帮助指导自身的模型开发。我们也把二者公开发布，以便透明地展示我们的研究，并鼓励社区在这一重要议题上取得进展。",
+        "en": "We are currently using the framework and dataset to help inform our own model development. We are also releasing both publicly, to be transparent about our research and to encourage the community to make progress on this important topic."
+      },
+      {
+        "t": "h",
+        "zh": "结论",
+        "en": "Conclusion"
+      },
+      {
+        "t": "p",
+        "zh": "我们此前关于行为对齐的工作，探讨了人工智能助手如何在日常社交场景中契合人类偏好。在本项工作中，我们把重点从测量一般行为倾向，扩展到评估社交推理。",
+        "en": "Our previous work on behavioral alignment explored how AI assistants match human preferences in everyday social scenarios. In this work, we expand the focus from measuring general behavioral tendencies to evaluating social reasoning."
+      },
+      {
+        "t": "p",
+        "zh": "通过在模拟环境中纳入可验证信号，我们为开发可靠的人工智能规划出一条可扩展的实证路径。未来工作可以在此基础上，对更长期、不断演变的关系以及多方群体动态进行建模，使模拟基准更接近真实世界人类互动的细微之处。我们开源该框架，以推动整个社区的研究，并鼓励协作设计新的、多样化的社交评测环境。",
+        "en": "By incorporating verifiable signals within simulated environments, we chart a scalable, empirical path toward developing reliable AI. Future work can build on this foundation by modeling longer-term, evolving relationships and multi-party group dynamics, bringing simulated benchmarks even closer to the nuances of real-world human interactions. We are open-sourcing our framework to advance research across the community and encourage the collaborative design of new, diverse social evaluation environments."
+      },
+      {
+        "t": "h",
+        "zh": "致谢",
+        "en": "Acknowledgements"
+      },
+      {
+        "t": "p",
+        "zh": "这项研究由Zorik Gekhman、Amir Taubenfeld、Avigail Grinstein-Dabush、Ariel Goldstein、Lior Nezry、Romina Stella、Itay Laish、Marian Croak、Yossi Matias和Amir Feder开展。我们感谢Gal Yona、Yonathan Efroni、Saška Mojsilović、Avinatan Hassidim和Ronit Levavi Morad审阅这项工作并提出宝贵建议。",
+        "en": "This research was conducted by Zorik Gekhman, Amir Taubenfeld, Avigail Grinstein-Dabush, Ariel Goldstein, Lior Nezry, Romina Stella, Itay Laish, Marian Croak, Yossi Matias, and Amir Feder. We thank Gal Yona, Yonathan Efroni, Saška Mojsilović, Avinatan Hassidim, and Ronit Levavi Morad for reviewing the work and their valuable suggestions."
+      }
+    ]
+  }
+}

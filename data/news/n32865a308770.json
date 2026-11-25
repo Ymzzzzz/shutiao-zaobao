@@ -1,0 +1,67 @@
+{
+  "id": "n32865a308770",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI测试“私密推理”，称企业查询数据对公司不可见",
+  "original_title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+  "summary": "OpenAI首席执行官奥特曼称，公司已开始与首批企业客户试运行此前宣布的“私密推理”。该功能把查询放在可独立验证的隔离硬件上处理，目标是让企业在OpenAI看不到数据的前提下使用其最强模型。",
+  "facts": [
+    {
+      "text": "OpenAI正在与首批企业客户试运行“私密推理”，称可在公司无法访问数据的前提下，用其最强模型处理查询。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据奥特曼称，更好的隐私能让人工智能适用于更广泛的工作；负责该项目的员工谢卡尔则称，这是迈向“人人可享的私密智能”的第一步。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+      "is_primary": false,
+      "published_at": "2026-11-26T02:22:02+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T02:22:02+08:00",
+  "updated_at": "2026-11-26T02:22:02+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI测试“私密推理”，称企业查询数据对公司不可见",
+  "lead_zh": "OpenAI正在与首批企业客户试运行“Private Inference”，称查询在可独立验证的隔离硬件上处理，公司无法查看客户数据。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "OpenAI正在测试名为“私密推理”的新功能，让企业在公司无法查看数据的前提下，使用其最强模型处理查询。首席执行官萨姆·奥特曼表示，这项此前已宣布的服务，现在已与首批企业客户开始试运行。目前该功能面向企业客户，而企业数据本来就不会被用于训练；相比之下，消费者版ChatGPT的对话默认会用于训练，除非用户退出。",
+        "据OpenAI介绍，查询会在可独立验证安全性的专用隔离硬件上处理。奥特曼还提到“私密安全处理”：系统可扫描滥用内容却不存储客户数据，被标记的内容加密后存在客户自己的云里，只有受保护的审查系统才能读取。报道称，谷歌也在以类似思路推进Private AI Compute。OpenAI目前仍在扩充支撑该服务扩容所需的算力。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据奥特曼称，更好的隐私能让人工智能适用于范围更广的工作。负责此项工作的OpenAI员工谢卡尔则表示，这是迈向“人人可享的私密智能”的第一步。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

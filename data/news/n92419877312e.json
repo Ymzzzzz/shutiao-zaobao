@@ -1,0 +1,72 @@
+{
+  "id": "n92419877312e",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "42个州检察长反对Character.AI拍卖用户私聊",
+  "original_title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+  "summary": "42个州的检察长介入Character.AI破产程序，试图阻止该公司把用户私聊等敏感数据拍卖给竞买方。检察长称，拟出售的数据涉及超过2100万个美国账户，其中约210万个注册为未成年人。",
+  "facts": [
+    {
+      "text": "42个州的检察长介入Character.AI破产程序，要求阻止该公司出售用户敏感数据。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    },
+    {
+      "text": "检察长称，拟出售的数据涉及超过2100万个美国账户的聊天记录等个人信息，其中约210万个注册为未成年人。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据参与行动的州检察长称，拟议的破产出售包含2100多万个美国账户的敏感个人数据，其中包括210万个注册为未成年人的账户。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "is_primary": false,
+      "published_at": "2026-11-26T01:35:58+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T01:35:58+08:00",
+  "updated_at": "2026-11-26T01:35:58+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "42个州检察长反对Character.AI拍卖用户私聊",
+  "lead_zh": "在Character.AI破产程序中，42个州的检察长要求阻止出售用户敏感数据，称数据集涵盖逾2100万个美国账户，其中约210万个注册为未成年人。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Character.AI进入破产程序后，计划把用户数据拍卖给出价最高的买家。现在，由**42**个州检察长组成的联盟介入这一程序，试图阻止这家聊天机器人公司出售敏感用户数据，其中包括数百万用户的私密对话。各州检察长已分别发布说明，解释他们为何反对这笔交易。",
+        "除聊天记录外，拟议出售还涉及其他个人数据。报道提出的核心问题是：当一家人工智能公司破产时，用户的私密对话会去向何处。检察长们希望法院阻止把这些数据作为破产资产卖掉。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "检察长怎么说",
+      "paras": [
+        "据参与行动的州检察长称，Character.AI拟出售的数据集包含超过**2100万**个美国账户的敏感个人数据，其中超过**210万**个账户注册为未成年人。他们担忧，这些私聊和身份信息一旦在破产拍卖中易手，用户尤其是未成年人将难以再控制自己的数据。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/00eddf6acd146f493bb9e3c554bf79bfa2222572.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

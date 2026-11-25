@@ -1,0 +1,72 @@
+{
+  "id": "n8625dd519ff7",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic调研：企业用AI的最大障碍不在学会工具",
+  "original_title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+  "summary": "Anthropic对美国58家客户公司做了66场访谈，覆盖近300个人工智能部署。结果显示55%提高了产出或质量，但仍有19%没有带来业务价值，主要受内部堵点和复核工作拖累，而不是不会使用工具。",
+  "facts": [
+    {
+      "text": "Anthropic访谈美国58家客户公司共66场，梳理近300个人工智能部署，样本并非代表性调查。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/"
+    },
+    {
+      "text": "结果显示55%的部署提高了产出或质量，但仍有19%没有带来业务价值。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该报告称，没有产生业务价值的项目主要卡在内部堵点、复核工作抵消了节省的时间，或效果本身不清，而不是外部监管或客户不信任。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+      "is_primary": false,
+      "published_at": "2026-11-25T21:14:27+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T21:14:27+08:00",
+  "updated_at": "2026-11-25T21:14:27+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic调研：企业用AI的最大障碍不在学会工具",
+  "lead_zh": "Anthropic访谈美国58家公司、梳理近300个AI部署后发现，55%带来了更高产出或更好质量，但仍有约19%尚未产生业务价值，主要卡在内部流程和复核负担。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Anthropic发布“与人工智能共事”报告，研究人员在美国**58家**公司做了**66**场面对面访谈，覆盖从人工智能初创公司到法律、建筑、金融、医疗和制造业的既有企业，梳理了近**300**个实际部署。作者提醒，所有受访者都是Anthropic客户，样本不能代表全部企业，但仍提供了相当细致的一线观察。",
+        "结果显示，**55%**的受访部署提高了产出或质量；但几乎五分之一，即**19%**，仍然没有带来业务价值。其中，卡在内部流程堵点的占**6%**，省下的时间被复核工作抵消的占**5%**，效果本身说不清的占**8%**。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报告怎么说",
+      "paras": [
+        "据报告称，真正拖后腿的多半是公司内部的摩擦，例如审核瓶颈、员工抵触、安全顾虑和过时的自研工具，而不是“不会用工具”。外部阻碍很少被提及：监管只出现**4**次，持怀疑态度的客户出现**13**次。对指望迅速看到效率提升的人来说，这份结果更像一次降温。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/f76789a69b3296e8890c5a8b99f84c78fdc4504a.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/ai_office_paper-1200x675.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

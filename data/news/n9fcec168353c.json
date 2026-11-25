@@ -1,0 +1,51 @@
+{
+  "id": "n9fcec168353c",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "受控负载下拆解语言模型的三类出错方式",
+  "original_title": "Degradation of Language Models under Controlled Load: Synchronization, Rule Execution and Misfires on the Background",
+  "summary": "论文在无意义文本上用“用一词替换另一词”的规则施加受控负载，把语言模型出错拆成跟丢原文、规则执行错误，以及改动规则并未涉及的词，并分别测量文本长度、替换密度和规则数量的影响。",
+  "facts": [
+    {
+      "text": "论文在受控负载下把语言模型质量下降拆成三类：与原文失去对应、规则执行错误，以及改动了规则并未涉及的词。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.27404"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.27404",
+      "is_primary": true,
+      "published_at": "2026-11-25T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T08:00:00+08:00",
+  "updated_at": "2026-11-25T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "受控负载下拆解语言模型的三类出错方式",
+  "lead_zh": "一篇论文在受控负载下把语言模型质量下降拆成同步、规则执行和误触发三类，并分别改变文本长度、替换密度和规则数量进行测量。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "论文写了什么",
+      "paras": [
+        "这篇论文关注语言模型在负载升高时为何会越来越多地出错。作者认为，质量下降背后不是单一过程：模型可能与源文本失去对应，也可能还停在正确位置却把规则执行错，或者改动了规则根本没有涉及的词。文章把这三类分别称为同步、规则执行和误触发，并在受控条件下把它们拆开测量。",
+        "负载由“在无意义文本里用一个词替换另一个词”的规则来设定。作者分别改变文本长度、目标词在回答中的位置、替换密度、规则数量以及一条规则在列表中的位置，观察不同类型的错误如何随这些因素变化，而不是只报告一个笼统的准确率下降。这样一来，准确率下降就可以被拆开归因，而不是只看成模型在高负载下笼统变差。作者指出，不同负载因素可能分别放大其中某一类错误。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/aaae9aad91c175e8f7aeecd8ebabb9b257ab72a8.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.27404.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

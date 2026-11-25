@@ -1,0 +1,67 @@
+{
+  "id": "nfec44873dc65",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Nothing公布AI耳机Ear Note及充电盒细节",
+  "original_title": "Nothing offers a full look at its AI earbuds and charging case",
+  "summary": "Nothing展示将于12月8日发布的AI耳机Ear Note。耳机可录制通话，带麦克风的充电盒新增录音键，可记录、转写并总结对话。首席执行官裴宇称，这是迈向硬件上下文层、为人工智能提供现场信息的第一步。",
+  "facts": [
+    {
+      "text": "Nothing在12月8日发布前展示AI耳机Ear Note：耳机可录制通话，充电盒可录音、转写并总结对话。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Nothing首席执行官裴宇称，充电盒上的录音键可在开会时用盒子记录，这是迈向“人工智能硬件上下文层”的第一步。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "is_primary": false,
+      "published_at": "2026-11-26T00:00:59+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T00:00:59+08:00",
+  "updated_at": "2026-11-26T00:00:59+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Nothing公布AI耳机Ear Note及充电盒细节",
+  "lead_zh": "Nothing在12月8日发布前展示即将推出的Ear Note耳机：耳机可录制通话，充电盒可录音、转写并总结对话，首席执行官裴宇称这是迈向硬件上下文层的第一步。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Nothing在**12月8日**正式发布前，更详细地展示了即将推出的人工智能耳机Ear Note。与Ear 3类似，这款充电盒配有麦克风和“Talk”按钮，可用来录下自己的声音；这次又增加了“Record”按钮，用于录制并转写对话。耳机可录制通话，充电盒则可录音、转写并总结交谈内容。",
+        "彭博社此前已报道过这款耳机。The Verge介绍，它旨在把现场对话变成可供人工智能使用的上下文，而不只是一副普通耳机。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Nothing首席执行官裴宇在社交媒体X上称，新增的录音键可以让用户通过耳机记录通话，也可在会议中用充电盒记录，并把它称作迈向“人工智能硬件上下文层”的第一步。也就是说，公司希望设备能持续提供周围正在发生的事情，供后续的智能功能使用。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/a3a7c6eb3aa01787e09c851aa1a071ba86454739.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

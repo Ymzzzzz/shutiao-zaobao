@@ -1,0 +1,67 @@
+{
+  "id": "n7ebd78a4a0f3",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "消息称亚马逊与Meta洽谈向Muse开放商城",
+  "original_title": "态度反转：消息称亚马逊与 Meta 洽谈合作，或将开放商城给 Muse AI 购物助手",
+  "summary": "IT之家援引《财富》周三报道称，亚马逊与Meta正洽谈让Muse直接接入亚马逊电商平台，这与两个月前的屏蔽形成反差。谈判卡在搜索结果如何展示以及广告如何安排，最终协议还需双方首席执行官批准。",
+  "facts": [
+    {
+      "text": "IT之家援引《财富》报道称，亚马逊与Meta已就让购物智能体Muse接入亚马逊电商平台开展多轮磋商，目前卡在搜索结果展示和广告安排上。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/032/515.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据知情人士称，亚马逊担心第三方购物智能体会冲击广告收入，并削弱直接触达用户的能力，潜在协议还需双方首席执行官批准。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/032/515.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/032/515.htm",
+      "is_primary": false,
+      "published_at": "2026-11-25T22:45:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T22:45:47+08:00",
+  "updated_at": "2026-11-25T22:45:47+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "消息称亚马逊与Meta洽谈向Muse开放商城",
+  "lead_zh": "IT之家援引《财富》报道称，亚马逊与Meta已就让购物智能体Muse接入亚马逊电商平台开展多轮磋商，目前卡在搜索结果展示和广告安排上。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家11月25日消息，援引《财富》当地时间周三的报道称，亚马逊对Meta购物智能体Muse的态度可能正在转变。两大公司正洽谈一项合作，希望让Muse直接接入亚马逊电商平台。这与两个月前形成反差：当时用户尝试通过Muse在亚马逊下单结账会收到报错，亚马逊对Muse实施了屏蔽。",
+        "报道说，双方已开展多轮磋商，目前谈判卡在两个核心议题：合作模式下商品搜索结果如何展示，以及广告业务怎么安排。文章还提到，今年10月亚马逊首席执行官安迪·贾西曾表示，通过外部人工智能智能体下单的用户规模并不大。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据知情人士称，亚马逊最大的顾虑是Muse这类第三方购物智能体会冲击自身广告收入，高管还担心会削弱公司直接触达用户、维系消费者关系的能力。另有考量是，亚马逊可能想等Muse更成熟后再开放，以免错误订单最终要由亚马逊安抚消费者和卖家。报道同时提到，这份潜在合作协议最终需要两家公司首席执行官批准才能落地。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/250505f3ec9407991787a43f80a96c820c145386.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/11/24f5d0c6-1856-4c9c-b66f-68c0a535ccb3.jpg?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

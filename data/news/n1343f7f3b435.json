@@ -1,0 +1,51 @@
+{
+  "id": "n1343f7f3b435",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "美国联邦通信委员会批准SpaceX部署至多100万颗算力卫星",
+  "original_title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+  "summary": "美国联邦通信委员会批准SpaceX部署最多100万颗搭载AI芯片的卫星，这是该机构首次批准完整的AI卫星星座。许可要求2033年前至少部署一颗，2040年前达到100万颗；对600公里以上“墓地轨道”弃星请求则暂缓决定。",
+  "facts": [
+    {
+      "text": "美国联邦通信委员会周三批准SpaceX在“Starmind”计划下部署最多100万颗搭载AI芯片的卫星，要求2033年前至少部署一颗，2040年前达到100万颗。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "is_primary": false,
+      "published_at": "2026-11-26T01:44:51+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T01:44:51+08:00",
+  "updated_at": "2026-11-26T01:44:57+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "美国联邦通信委员会批准SpaceX部署至多100万颗算力卫星",
+  "lead_zh": "美国联邦通信委员会周三批准SpaceX在“Starmind”计划下部署最多100万颗搭载AI芯片的卫星，要求2033年前至少发射一颗，并在2040年前达到百万颗。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "美国联邦通信委员会周三宣布，批准SpaceX在埃隆·马斯克旗下公司的“Starmind”计划中，部署最多**100万**颗搭载人工智能芯片的卫星。报道称，谷歌和蓝色起源等也在探索把人工智能数据中心送上太空，但这是该机构首次批准完整的人工智能卫星星座。",
+        "许可要求SpaceX在**2033年**前至少部署一颗卫星，并在**2040年**前达到100万颗的里程碑。委员会还暂缓了SpaceX的另一项请求：把位于**600公里**以上轨道的卫星送入所谓“墓地轨道”处理，而不是使其在地球大气层中烧毁。报道没有写明这项弃星请求最终会如何决定。报道写明，这是该委员会首次批准完整的人工智能卫星星座；对600公里以上轨道弃星方式的最终决定，目前仍未公布。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/f558249e4c0982cad20dea8ee201a3b556ff0d61.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "n0a0a941bd6ca",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "美国金融犯罪执法网络与情报机构接连出现网络安全事件",
+  "original_title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
+  "summary": "美国金融犯罪执法网络宣布，有限部分系统遭未经授权访问后已预防性下线，银行仍可在线提交可疑活动报告。数小时前，《纽约时报》报道中央情报局、国家地理空间情报局和国家情报总监办公室的开源情报分析系统遇袭。",
+  "facts": [
+    {
+      "text": "美国财政部金融犯罪执法网络宣布，有限部分系统遭未经授权访问后已预防性下线，银行仍可在线提交可疑活动报告。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/"
+    },
+    {
+      "text": "数小时前，《纽约时报》报道中央情报局、国家地理空间情报局和国家情报总监办公室的开源情报分析系统遭遇入侵。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+      "is_primary": false,
+      "published_at": "2026-11-25T21:07:44+08:00"
+    }
+  ],
+  "published_at": "2026-11-25T21:07:44+08:00",
+  "updated_at": "2026-11-25T21:07:44+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "美国金融犯罪执法网络与情报机构接连出现网络安全事件",
+  "lead_zh": "美国财政部金融犯罪执法网络称部分系统遭未经授权访问后预防性下线；数小时前《纽约时报》报道中央情报局等机构的开源情报分析系统也遭入侵。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "美国财政部下属的金融犯罪执法网络宣布正在调查一起网络安全事件。据The Verge报道，该机构周二表示，有限部分系统遭到未经授权访问。它没有披露事件范围或原因，但已将部分系统预防性下线。该机构的职责是防止洗钱和恐怖融资等非法活动，并管理银行根据《银行保密法》提交的可疑活动报告。它表示，银行仍可在线提交报告，只是部分服务可能出现延迟，面向金融机构的电话热线未受影响。",
+        "就在这一宣布数小时前，《纽约时报》援引美国官员和知情人士报道，中央情报局、国家地理空间情报局和国家情报总监办公室遭遇了另一起入侵，攻击目标是一套开源情报分析系统。两起事件时间接近，又叠加近期联邦机构接连出现的入侵和故障，因而被放在同一篇报道里讨论，但现有公开信息并未证实两者出自同一攻击。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/d83cb44a1a908060274e6d4ad9090a3cd47fde87.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/10/cyberkraken_4.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

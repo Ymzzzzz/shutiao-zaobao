@@ -1,0 +1,67 @@
+{
+  "id": "n3a2027e26944",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "亚马逊与Meta洽谈解除对购物智能体Muse的屏蔽",
+  "original_title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+  "summary": "The Decoder援引《财富》报道称，亚马逊与Meta正洽谈结束对Muse的屏蔽。亚马逊担心购物智能体会绕过其广告，而这项业务一年带来686亿美元收入；首席执行官贾西尚未排除开放接入的可能。",
+  "facts": [
+    {
+      "text": "据《财富》报道，亚马逊与Meta正在谈判，可能结束今年9月对购物智能体Muse的屏蔽，分歧主要在广告收入和搜索结果控制权。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该报道称，亚马逊担心Muse这类购物智能体会削弱它与顾客的关系，并绕过其一年带来686亿美元收入的广告业务。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+      "is_primary": false,
+      "published_at": "2026-11-26T00:44:37+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T00:44:37+08:00",
+  "updated_at": "2026-11-26T00:44:37+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚马逊与Meta洽谈解除对购物智能体Muse的屏蔽",
+  "lead_zh": "据《财富》报道，亚马逊与Meta正在谈判，可能让今年9月被屏蔽的Muse重新接入亚马逊商城，分歧集中在广告收入和搜索结果控制权。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder援引《财富》报道称，亚马逊与Meta正在谈判，可能让Meta的购物智能体Muse重新接入亚马逊网上商城。今年**9月**，亚马逊切断了Muse的访问。目前谈判的主要卡点是广告收入，以及谁来控制搜索结果。",
+        "亚马逊自身也提供智能体购物功能。首席执行官安迪·贾西曾表示，到目前为止，通过第三方智能体购物并不比直接前往零售商网站更方便或更好，但他并未排除开放接入的可能。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据该报道称，亚马逊担心Muse这类购物智能体会削弱它与顾客的直接关系，并绕过平台上的广告——这项业务一年带来**686亿美元**收入。双方仍未就广告分成和搜索结果控制权达成一致。目前双方还没有公布谈判结果，广告收入与搜索权仍是主要分歧。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
