@@ -1,0 +1,72 @@
+{
+  "id": "nc881f1e71110",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达暂停向东南亚四国出货服务器",
+  "original_title": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "summary": "《华尔街日报》称，英伟达要求戴尔和超微等伙伴暂停向马来西亚、新加坡、泰国和印尼出货服务器，以评估区域伙伴是否符合美国出口规定；智库估计远程数据中心约占中国AI算力的24%。",
+  "facts": [
+    {
+      "text": "据《华尔街日报》报道，英伟达已要求包括戴尔和超微在内的制造伙伴，在未指明的期限内暂停向马来西亚、新加坡、泰国和印度尼西亚出货服务器，以评估区域伙伴是否符合美国出口要求。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+      "text": "报道称，中国企业一直通过这些国家的数据中心远程调用英伟达芯片；美国商务部本月早些时候堵住了这一漏洞。智库Institute for Progress估计，此类远程数据中心约占中国人工智能算力的24%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    }
+  ],
+  "claims": [],
+  "analysis": [
+    {
+      "text": "TechCrunch将此事放在英伟达必须改换做法的压力下来写，并指出《华尔街日报》的报道显示这一压力已经延伸到具体的出货安排。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "is_primary": false,
+      "published_at": "2026-11-27T04:03:54+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T04:03:54+08:00",
+  "updated_at": "2026-11-27T04:03:54+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达暂停向东南亚四国出货服务器",
+  "lead_zh": "据《华尔街日报》报道，英伟达已要求戴尔和超微等制造伙伴，暂停向马来西亚、新加坡、泰国和印度尼西亚出货服务器。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch援引《华尔街日报》报道称，英伟达已要求包括戴尔和超微在内的制造伙伴，在一段未指明的时间内，暂停向马来西亚、新加坡、泰国和印度尼西亚出货服务器，以评估区域伙伴是否符合美国出口规定。",
+        "报道解释，中国企业一直通过上述国家的数据中心远程调用英伟达芯片。美国商务部本月早些时候堵住了这一漏洞，报道称有关决定显得颇为勉强。智库Institute for Progress估计，此类远程数据中心约占中国人工智能算力的**24%**。英伟达此举是在美国加强对芯片流入中国的限制后作出的调整。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "报道怎么写",
+      "paras": [
+        "TechCrunch将此事放在英伟达“必须改换做法”的压力下来写，并指出《华尔街日报》的报道显示这一压力已经延伸到具体的出货安排。现有公开报道未说明暂停会持续多久，也未给出英伟达的直接回应全文，因此停运范围和后续是否恢复，仍有待后续消息证实。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/1ee96ebfc1bd0c77d0a3447156a3a31395f45548.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

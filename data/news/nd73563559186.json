@@ -1,0 +1,72 @@
+{
+  "id": "nd73563559186",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "42个州检察长阻止Character.AI出售用户对话",
+  "original_title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+  "summary": "42个州检察长指控Character.AI在破产程序中计划拍卖逾2100万个美国账户的私人聊天记录，其中超过210万个注册为未成年人，且未要求买方遵守现有隐私政策。该公司10月申请破产，迪士尼已收购部分资产并聘用其首席执行官。",
+  "facts": [
+    {
+      "text": "由42个州检察长组成的跨党派联盟正试图阻止Character.AI在第11章破产程序中出售用户数据。各州新闻稿指，该公司计划拍卖超过2100万个美国账户的私人聊天记录，其中超过210万个注册为未成年人，且没有为当事人提供保障。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+    },
+    {
+      "text": "Character.AI于10月申请破产。迪士尼收购了部分资产并聘用其首席执行官Karandeep Anand及部分技术团队。首位出价方于2026年11月13日成立，未列明母公司或投资者。纽约、康涅狄格、加利福尼亚和科罗拉多等州的聊天机器人监管法律将于2027年1月1日生效。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据各州检察长称，该出售计划没有要求买方遵守现有隐私政策，也没有为用户提供删除数据的途径，更没有限制买方将数据转售给第三方。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "is_primary": false,
+      "published_at": "2026-11-26T17:54:40+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T17:54:40+08:00",
+  "updated_at": "2026-11-26T17:54:40+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "42个州检察长阻止Character.AI出售用户对话",
+  "lead_zh": "美国42个州的检察长组成联盟，试图阻止已进入破产程序的Character.AI出售用户数据，指其计划拍卖超过2100万个美国账户的私人聊天记录，其中逾210万个注册为未成年人。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge报道，由**42**个州检察长组成的跨党派联盟，正试图阻止Character.AI在第11章破产程序中出售用户数据。各州发布内容几乎相同的新闻稿，指责该公司计划拍卖超过**2100万**个美国账户的私人聊天记录，其中超过**210万**个注册为未成年人，并且没有为这些对话被出售的当事人提供保障。",
+        "Character.AI于10月在多年丑闻和法律挑战后申请破产，其中包括来自迪士尼的压力。迪士尼随后收购了部分资产，并聘用其首席执行官Karandeep Anand及部分技术团队。这笔交易此前也曾遭到类似规模的检察长联盟反对。首位出价方于2026年11月13日才成立，未列明母公司或投资者。纽约、康涅狄格、加利福尼亚和科罗拉多等州规制聊天机器人的法律将于2027年1月1日生效。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "检方怎么说",
+      "paras": [
+        "各州检察长称，出售方案没有要求买方遵守现有隐私政策，也没有为用户提供删除数据的途径，更没有限制买方拿这些数据做什么，包括再转售给第三方。报道把核心争议概括为：该计划对用户几乎不提供保护。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/457a2017e30ab7d97bc58c9bc5841dbb8a2b3697.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

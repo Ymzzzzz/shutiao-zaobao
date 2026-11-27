@@ -1,0 +1,72 @@
+{
+  "id": "nb46cbcc67ac7",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "Sand.ai发布4800亿参数视频模型MAGI-2并计划开源",
+  "original_title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+  "summary": "Sand.ai发布总参数4800亿的MAGI-2，称在Artificial Analysis图生视频榜单升至全球第一，30秒1080p原片报价15元。模型支持最长2万字符脚本和最多20份参考素材，公司计划尽快开放权重。",
+  "facts": [
+    {
+      "text": "Sand.ai发布总参数4800亿的视频模型MAGI-2，今年8月的预览版为1140亿参数。报道称，一条单次生成的30秒1080p视频报价为15元人民币，该模型在Artificial Analysis图生视频榜单升至全球第一。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512916.html"
+    },
+    {
+      "text": "MAGI-2支持最高2万字符的脚本解析与毫秒级切镜，可混合参考最多20份图片、视频和音频素材，并对已生成画面做局部修改。发布当日，Sand.ai宣布计划尽快开放模型权重。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512916.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Sand.ai称，在关闭提示词增强、不提供解题步骤也不借助语言模型的情况下，MAGI-2仅凭任务指令和参考图片，就在演示中完成了9×9数独求解。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512916.html"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512916.html",
+      "is_primary": false,
+      "published_at": "2026-11-26T14:41:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T14:41:23+08:00",
+  "updated_at": "2026-11-26T14:41:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Sand.ai发布4800亿参数视频模型MAGI-2并计划开源",
+  "lead_zh": "Sand.ai发布4800亿参数模型MAGI-2，称在Artificial Analysis图生视频榜升至全球第一，30秒1080p视频报价15元，并计划尽快开放权重。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "量子位报道，视频初创公司Sand.ai发布总参数**4800**亿的视频模型MAGI-2，今年8月推出的预览版为**1140**亿参数。文中展示的一条单次生成、未经后期剪辑的**30**秒1080p视频，生成报价为**15**元人民币。报道称，该模型在评测机构Artificial Analysis的图生视频榜单升至全球第一，并被Higgsfield的效果与价格对比视为拓展了帕累托前沿。",
+        "MAGI-2支持最高**2万**字符的复杂脚本解析与毫秒级切镜，可混合参考最多**20**份图片、视频和音频素材，并对已生成画面做局部修改。发布当日，Sand.ai宣布计划尽快开放模型权重。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "Sand.ai称，关闭提示词增强、不给解题步骤也不请语言模型当外援时，MAGI-2仅凭任务指令和参考图片，就在演示中完成了9×9数独求解。团队也在技术报告中提到类似“对齐税”的观察：面向高审美偏好的后训练让成片更有电影感，但预训练阶段出现的推理与泛化能力反而更难被触发。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

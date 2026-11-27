@@ -1,0 +1,347 @@
+{
+  "id": "nd3aa48daa62d",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "英伟达为Nemotron 3.5 Parse开源数据并加速推理",
+  "original_title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "summary": "英伟达为文档模型Nemotron 3.5 Parse开源图表、表格和多语OCR合成数据，介绍先监督微调再强化学习的训练路径，并用DFlash2推测解码在单块H200上将吞吐最高提升约7.62倍。",
+  "facts": [
+    {
+      "text": "英伟达为Nemotron 3.5 Parse开源三类训练数据：Synthetic Charts V1约998万条、Synthetic Tables V1约100万条、OCR Synthetic Multilingual v2约790万条，并提供微调配方。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    },
+    {
+      "text": "在一块H200、BF16的单次遍历测评中，DFlash2使并发为1时吞吐提升7.62倍，并发512时提升1.52倍；并发512时Parse 3.5无推测解码为每秒13.48页，启用DFlash2为每秒20.44页，Parse 2.0为每秒2.98页。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据英伟达称，Parse 3.5先通过监督微调学习读页并输出结构化结果，再用带可验证奖励的强化学习（GRPO）提升准确率、一致性和可靠完结。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "is_primary": true,
+      "published_at": "2026-11-26T13:05:36+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T13:05:36+08:00",
+  "updated_at": "2026-11-26T13:05:36+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达为Nemotron 3.5 Parse开源数据并加速推理",
+  "lead_zh": "英伟达在Nemotron 3.5 Parse之后开源三类合成训练数据并公布微调方案，同时用DFlash2推测解码提升文档解析推理速度。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "英伟达在推出将页面图像转为结构化数据的紧凑文档模型Nemotron 3.5 Parse之后，继续开源合成训练数据、公布微调方案，并引入DFlash2推测解码以加快推理。Parse按阅读顺序抽取内容，标注标题、段落、表格和图表等类别，并返回边界框；表格和图表会被转成可供下游使用的结构化记录。",
+        "此次开源三类训练数据：Synthetic Charts V1约**998万**条、Synthetic Tables V1约**100万**条，以及面向多语OCR和结构化读页的OCR Synthetic Multilingual v2约**790万**条，均含图像、标注、生成说明和训练格式。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "训练与加速",
+      "paras": [
+        "英伟达称，模型先经监督微调学习读页能力，再以可验证奖励的强化学习（GRPO）提升质量。对照实验中，循环标记输出从126页降至29页，触达9000 token上限的输出从185页降至35页，总分由66.24升至71.38。",
+        "内置DFlash2草稿模型最多向前提议32个token，在所测配置下平均接受约14个草稿token。在一块H200、BF16的单次遍历中，相对关闭推测解码的Parse 3.5，DFlash2在并发1时吞吐提升**7.62**倍，并发512时提升**1.52**倍；并发512时分别达到每秒**13.48**页和**20.44**页，而Parse 2.0为每秒2.98页。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/46f3fbb780739f6974b7cb9230b4a619436f33b8.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
+  "fulltext_status": "ok",
+  "read_minutes": 6,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-25",
+    "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "title_zh": "基于 Nemotron 3.5 Parse 继续推进：开放数据、微调与更快推理",
+    "dek_en": "A Blog post by NVIDIA on Hugging Face",
+    "dek_zh": "NVIDIA 在 Hugging Face 上发布的一篇博客文章",
+    "word_count_zh": 2375,
+    "read_minutes": 6,
+    "omitted_note": "原文另有 1 个表格，未收录",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "我们最近发布了 NVIDIA Nemotron 3.5 Parse，这是一个紧凑的文档模型，可将页面图像转为结构化数据，供检索增强生成（RAG）和智能体使用。",
+        "en": "We recently released NVIDIA Nemotron 3.5 Parse, a compact document model that turns page images into structured data for retrieval-augmented generation (RAG) and agents."
+      },
+      {
+        "t": "p",
+        "zh": "现在，我们在该版本之上继续推进，发布了合成训练数据集、微调配方，以及用于更快推理的 DFlash2 推测器。我们还将分享 Parse 3.5 的训练方式：先通过监督微调教模型理解文档，再使用强化学习提高准确性、一致性和可靠的补全。",
+        "en": "Now we’re building on that release with synthetic training datasets, a fine-tuning recipe, and a DFlash2 speculator for faster inference. We’re also sharing how we trained Parse 3.5: first teaching document understanding through supervised fine-tuning, then using reinforcement learning to improve accuracy, consistency, and reliable completion."
+      },
+      {
+        "t": "h",
+        "zh": "Parse 3.5 产出什么",
+        "en": "What Parse 3.5 produces"
+      },
+      {
+        "t": "p",
+        "zh": "Parse 按阅读顺序从文档页面中提取内容，为标题、段落、表格和图表等内容分配类别，并返回定位内容的边界框。表格和图表会变成结构化记录，可用于下游文档处理应用。",
+        "en": "Parse extracts content from pages of documents into reading order, assigns content classes such as headings, paragraphs, tables, and charts, and returns bounding boxes that locate the content. Tables and charts become structured records that can power downstream document processing applications."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/02c5a85bad71cb4831375a2e767bfdee6de505be.jpg",
+        "origin_url": "https://huggingface.co/datasets/nvidia/Nemotron-Parse-Blog-Assets/resolve/main/images/figure-01-page-structure.png",
+        "caption_zh": "左侧为带预测区域的操作简报，右侧为其结构化抽取结果。",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 580
+      },
+      {
+        "t": "p",
+        "zh": "图 1。合成操作简报上的实际模型输出，展示页面与其结构化表示之间的对应关系。",
+        "en": "Figure 1. Actual model output from a synthetic operations brief, showing the connection between the page and its structured representation."
+      },
+      {
+        "t": "p",
+        "zh": "这一最新版本的 Parse 显著扩展了其阅读图表和表格的能力，尤其是在更困难、更模糊的情形下。例如，柱状图或其他没有标注数值的图。模型能够通过查看坐标轴和柱高来推断这些数值。表格尤其棘手，因为结构本身就很关键，一行或一列错位就会彻底改变解读和含义。这些进展很大程度上由合成数据生成驱动：渲染带有已知真值的图表和表格变体，再训练模型反向还原这一过程。",
+        "en": "This latest version of Parse significantly extends its ability to read charts and tables, especially in more difficult and ambiguous cases. For example, bar charts or other plots that do not have any marked numeric values. The model is able to infer values by looking at the axes and height of the bar to derive these. Tables can be especially tricky because the structure is so meaningful, a shifted row or column can totally change the interpretation and meaning. These advancements have been largely powered by synthetic data generation, rendering variations of charts and tables with known ground truth and then training our model to reverse this process."
+      },
+      {
+        "t": "p",
+        "zh": "我们正在开源 Parse 3.5 训练中使用的三个数据集：",
+        "en": "We are open-sourcing three datasets used in the Parse 3.5 training:"
+      },
+      {
+        "t": "p",
+        "zh": "• Synthetic Charts V1 — 9.98M 条样本：渲染的图表与结构化标注，用于学习类别、序列和数值。",
+        "en": "• Synthetic Charts V1 — 9.98M examples: rendered charts and structured annotations for learning categories, series, and numerical values."
+      },
+      {
+        "t": "p",
+        "zh": "• Synthetic Tables V1 — 1M 条样本：渲染的 HTML 表格，目标标注保留行、列、表头和单元格关系。",
+        "en": "• Synthetic Tables V1 — 1M examples: rendered HTML tables with targets that preserve rows, columns, headers, and cell relationships."
+      },
+      {
+        "t": "p",
+        "zh": "• OCR Synthetic Multilingual v2 — 7.9M 条样本：带 Parse 格式目标的合成文档页，覆盖多样字体和版式，用于多语言 OCR 和结构化页面阅读。",
+        "en": "• OCR Synthetic Multilingual v2 — 7.9M examples: synthetic document pages with Parse-format targets across varied fonts and layouts, for multilingual OCR and structured page reading."
+      },
+      {
+        "t": "p",
+        "zh": "每个发布包都包含图像、标注、生成说明和训练格式。可用这些成对数据来微调文档模型，或针对特定文档类型或语言创建新的变体。",
+        "en": "Each release includes images, annotations, generation documentation, and the training format. Use these pairs to fine-tune document models or create new variations for a target document type or language."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/2b267d20add2889e6fe12652eefe4372871de720.jpg",
+        "origin_url": "https://huggingface.co/datasets/nvidia/Nemotron-Parse-Blog-Assets/resolve/main/images/figure-02-chart-geometry.png",
+        "caption_zh": "一张没有标注柱值的柱状图，旁边是已发布模型抽出的数值 18、27、39 和 54。",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 285
+      },
+      {
+        "t": "p",
+        "zh": "图 2。Parse 从图表几何中恢复出 18、27、39 和 54",
+        "en": "Figure 2. Parse recovers 18, 27, 39, and 54 from the chart geometry"
+      },
+      {
+        "t": "h",
+        "zh": "SFT 教会能力；RLVR 提升一致性",
+        "en": "SFT teaches the capability; RLVR improves consistency"
+      },
+      {
+        "t": "p",
+        "zh": "我们分两个阶段训练 Parse 3.5。监督微调（SFT）覆盖文本、版式、表格、图表和多语言文档。学习预测结构化目标，建立了阅读页面并表示其内容的通用能力。",
+        "en": "We trained Parse 3.5 with two phases of training. Supervised fine-tuning (SFT) spanning text, layout, tables, charts, and multilingual documents. Learning to predict structured targets established the general capability of reading a page and representing its contents."
+      },
+      {
+        "t": "p",
+        "zh": "我们随后继续进行带可验证奖励的强化学习（RLVR），使用 Group Relative Policy Optimization（GRPO）。奖励会检查采样抽取的质量。例如，一次图表抽取如果能恢复正确的序列和数值、产出可用的结构，并且在结束时没有反复生成相同内容，就能获得更好的奖励。",
+        "en": "We then continued with reinforcement learning with verifiable rewards (RLVR), using Group Relative Policy Optimization (GRPO). Rewards check the quality of sampled extractions. For example, a chart extraction can earn a better reward for recovering the correct series and values, producing a usable structure, and finishing without repeatedly generating the same content."
+      },
+      {
+        "t": "p",
+        "zh": "困难的页面可能有多种有效表示。这些检查让模型有灵活性找到正确答案，而不指定唯一的 token 序列，同时抑制循环和未完成的输出。",
+        "en": "A difficult page can have several valid representations. These checks give the model flexibility to find a correct answer without prescribing one exact token sequence, while discouraging looping and unfinished output."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/1a38ac4f44392f8be7b0eb30de5e8d412665e3f9.jpg",
+        "origin_url": "https://huggingface.co/datasets/nvidia/Nemotron-Parse-Blog-Assets/resolve/main/images/figure-03-sft-grpo-gains.png",
+        "caption_zh": "一项匹配的训练对比，显示 GRPO 之后抽取效果提升，以及更少的重复标记和触及 token 上限的情况。",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 305
+      },
+      {
+        "t": "p",
+        "zh": "图 3。在匹配评测设置下对 SFT 和 GRPO 的对照比较。这些是开发用检查点，与最终发布的模型分开。循环次数使用重复检查。方法。",
+        "en": "Figure 3. A controlled comparison of SFT and GRPO with matched evaluation settings. These are development checkpoints, separate from the final released model. Loop counts use a repetition check. Methods."
+      },
+      {
+        "t": "p",
+        "zh": "匹配对比显示出收益：被标记为循环的输出从 126 页降至 29 页——约减少 77%——达到 9,000 token 上限的输出从 185 降至 35。总体分数从 66.24 提升到 71.38，其中表格提高 +5.18 分，图表提高 +4.15 分。",
+        "en": "The matched comparison shows the benefit: loop-flagged outputs fall from 126 to 29 pages—about 77% fewer—and outputs reaching the 9,000-token limit fall from 185 to 35. Overall score improves from 66.24 to 71.38, including +5.18 points in tables and +4.15 in charts."
+      },
+      {
+        "t": "h",
+        "zh": "通过架构和 DFlash2 实现更快推理",
+        "en": "Faster inference through architecture and DFlash2"
+      },
+      {
+        "t": "p",
+        "zh": "解析器必须为每一页生成大量文本和结构。在训练工作之外，我们还优化了 Parse 3.5 处理图像和解码这些输出的方式。",
+        "en": "A parser must generate substantial text and structure for every page. Alongside the training work, we optimized how Parse 3.5 processes images and decodes those outputs."
+      },
+      {
+        "t": "p",
+        "zh": "NaViT 预处理会按页面调整输入形状。视觉适配器压缩图像序列，文本解码器将其作为前缀消费，从而取代编码器–解码器交叉注意力。带 8 个键/值头的分组查询注意力（GQA-8）降低了解码器注意力缓存的内存占用。",
+        "en": "NaViT preprocessing adapts the input shape to the page. A visual adapter compresses the image sequence, and the text decoder consumes it as a prefix, replacing encoder–decoder cross-attention. Grouped-query attention with eight key/value heads (GQA-8) reduces the decoder’s attention-cache memory."
+      },
+      {
+        "t": "p",
+        "zh": "内置的多 token 预测（MTP）头提供一个 token 的前瞻。我们的 DFlash2 推测器走得更远：一个小型草稿模型向前提议最多 32 个 token，由 Parse 一并验证这些提议。在测得的 32 token 配置中，平均约接受 14 个草稿 token，或者说每步验证（含目标 token）大约推进 15 个输出 token。",
+        "en": "The built-in multi-token prediction (MTP) head supplies one-token lookahead. Our DFlash2 speculator goes further: a small draft model proposes up to 32 tokens ahead, and Parse verifies the proposals together. In the measured 32-token configuration, it averages about 14 accepted draft tokens, or roughly 15 output tokens of progress per verification step including the target token."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/19c1b2fa798c82fd6446d1da4a33bf0f1a7047b7.jpg",
+        "origin_url": "https://huggingface.co/datasets/nvidia/Nemotron-Parse-Blog-Assets/resolve/main/images/figure-04-parse-concurrency.png",
+        "caption_zh": "吞吐曲线，比较 Parse 2.0 与 Parse 3.5 的 base、MTP 和 DFlash2。",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 402
+      },
+      {
+        "t": "p",
+        "zh": "图 4。在一块 H200 上、BF16 精度下的原生单次吞吐，使用相同的 2,078 页。Parse 2.0 每个点使用一次试验；Parse 3.5 显示三次试验的中位数。箭头表示从 Parse 3.5 base 到 DFlash2 的提升。测量细节。",
+        "en": "Figure 4. Native single-pass throughput on one H200, BF16, using the same 2,078 pages. Parse 2.0 uses one trial per point; Parse 3.5 shows three-trial medians. Arrows show the gain from Parse 3.5 base to DFlash2. Measurement details."
+      },
+      {
+        "t": "p",
+        "zh": "在一块 H200、BF16 的原生单次基准中，与关闭推测解码的 Parse 3.5 相比，DFlash2 在并发 1 时将吞吐提高 7.62×，在并发 512 时提高 1.52×。在 512 并发下，Parse 3.5 在无推测时达到 13.48 页/秒，使用 DFlash2 时达到 20.44 页/秒，而 Parse 2.0 为 2.98。这分别是 Parse 2.0 吞吐的 4.53× 和 6.86×。",
+        "en": "In the native single-pass benchmark on one H200 in BF16, DFlash2 increased throughput 7.62× at concurrency 1 and 1.52× at concurrency 512, compared with Parse 3.5 with speculative decoding disabled. At 512, Parse 3.5 reaches 13.48 pages/s without speculation and 20.44 pages/s with DFlash2, versus 2.98 for Parse 2.0. Those are 4.53× and 6.86× the Parse 2.0 throughput, respectively."
+      },
+      {
+        "t": "p",
+        "zh": "快速解析让我们有余力回看困难区域。先做整页预测，再在文档需要的地方加入有针对性的再处理：",
+        "en": "Fast parsing gives us room to revisit difficult regions. Start with a full-page prediction, then add focused reprocessing where the document needs it:"
+      },
+      {
+        "t": "p",
+        "zh": "• 单次遍历 - 将整页解析一次，覆盖文本、版式、表格和图表。",
+        "en": "• Single pass - Parse the full page once for text, layout, tables, and charts."
+      },
+      {
+        "t": "p",
+        "zh": "• 两次遍历 - 用于稠密表格和细小的图表细节。裁剪解析器找到的表格和图表区域，以更高细节重新解析，并将 refined 结果合并到页面输出中。",
+        "en": "• Double pass - use for dense tables and small chart details. Crop the table and chart regions found by the parser, re-parse them at higher detail, and merge the refinements into the page output."
+      },
+      {
+        "t": "p",
+        "zh": "• 三次遍历 - 不只使用模型整页解析得到的边界框，而是用模型在检测模式下再跑第二遍，以核实所有框都已被准确找到且没有漏掉文本，并在第三遍中重新抽取任何找到的图表或表格",
+        "en": "• Triple pass - Instead of only using the models full page parsing bounding boxes, use a second pass of the model in detection mode in order to get verification that all boxes have been accurately found and text has not been missed and re-extract any found charts or tables in a third pass"
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/8b200f58c71bee7114844eb87b680ed67157774f.jpg",
+        "origin_url": "https://huggingface.co/datasets/nvidia/Nemotron-Parse-Blog-Assets/resolve/main/images/figure-05-multipass.png",
+        "caption_zh": "单次整页解析、两次遍历的裁剪 refinement，以及带独立区域检测器的三次遍历 refinement。",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 478
+      },
+      {
+        "t": "p",
+        "zh": "图 5。额外阶段将计算聚焦在困难区域。多个裁剪可能需要多次请求。",
+        "en": "Figure 5. Additional stages focus computation on difficult regions. Multiple crops can require multiple requests."
+      },
+      {
+        "t": "p",
+        "zh": "在已发布的参考评测中，两次和三次遍历比单次遍历分别高出 2.18 和 2.46 个 ParseBench 分。额外的工作让应用可以用一些吞吐换取在困难区域更好的抽取效果。参考结果与服务测量。",
+        "en": "In the published reference evaluation, double and triple pass add 2.18 and 2.46 ParseBench points over single pass. The additional work lets applications trade some throughput for better extraction in difficult regions. Reference results and serving measurements."
+      },
+      {
+        "t": "h",
+        "zh": "将同样的 SFT/RLVR 方法应用到你的文档上",
+        "en": "Apply the same SFT/RLVR approach to your documents"
+      },
+      {
+        "t": "p",
+        "zh": "我们分享了一份 Parse 微调配方，带开发者完成成对数据生成、NeMo Automodel SFT 和 NeMo RL GRPO，并使用 vLLM 生成候选答案。",
+        "en": "We are sharing a Parse fine-tuning recipe that takes developers through paired data generation, NeMo Automodel SFT, and NeMo RL GRPO, using vLLM to generate candidate answers."
+      },
+      {
+        "t": "p",
+        "zh": "这个实例使用带牙列图（odontogram）的合成牙科表格：图中显示牙齿、计划进行的操作以及受影响的牙面。在适配之前，Parse 能读出印出的牙号，但会漏掉预期的操作表。SFT 教会它把每颗被标记的牙齿与操作及其在牙齿上的位置关联起来。",
+        "en": "The worked example uses a synthetic dental form with an odontogram: a chart showing teeth, planned procedures, and affected tooth surfaces. Before adaptation, Parse reads the printed tooth numbers but misses the intended procedure table. SFT teaches it to associate each marked tooth with a procedure and its placement on the tooth."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/a99e644dfba9f6f4b99531e3997fa677949486ba.jpg",
+        "origin_url": "https://huggingface.co/datasets/nvidia/Nemotron-Parse-Blog-Assets/resolve/main/images/figure-06-dental-adaptation.png",
+        "caption_zh": "一页合成牙科页面、基座模型对牙号的转写，以及预期的牙齿/操作/牙面表。",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 450
+      },
+      {
+        "t": "p",
+        "zh": "图 6。一份已记录的配方示例：SFT 之后，全部 6 行图表都与目标匹配。完整图像与原生训练标签。",
+        "en": "Figure 6. A recorded recipe example: after SFT, all six chart rows match the target. Full image and native training label."
+      },
+      {
+        "t": "p",
+        "zh": "随后 RLVR 强化准确性与一致的补全。在牙科参考运行中，估计的首次尝试成功率（采样 pass@1）从基座模型的 0.00% 升至 SFT 后的 95.85%，再升至 RLVR 后的 96.58%。",
+        "en": "RLVR then reinforces accuracy and consistent completion. In the dental reference run, the estimated first-attempt success rate (sampled pass@1) rose from 0.00% for the base model to 95.85% after SFT and 96.58% after RLVR."
+      },
+      {
+        "t": "img",
+        "src": "img/fulltext/21a40de153ed556febeb9a4001a50bed12a57f46.jpg",
+        "origin_url": "https://huggingface.co/datasets/nvidia/Nemotron-Parse-Blog-Assets/resolve/main/images/figure-07-dental-sft-rlvr.png",
+        "caption_zh": "牙科采样 pass@1：SFT 后为 95.85%，RLVR 后为 96.58%，纵轴显示范围为 90% 到 100%",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 393
+      },
+      {
+        "t": "p",
+        "zh": "图 7。在同一合成生成器产生的 256 份留出表格上的匹配评测，每页八个样本。成功要求自然补全、图表内容完全正确，以及归一化后的页面文本无错误。评测协议。",
+        "en": "Figure 7. Matched evaluation on 256 held-out forms from the same synthetic generator, with eight samples per page. Success requires natural completion, exact chart content, and error-free normalized page text. Evaluation protocol."
+      },
+      {
+        "t": "p",
+        "zh": "要改编该配方，请提供你自己的图像/标签对和验证器：用于判断一次抽取是否正确的检查。附带的文档奖励组件覆盖文本保真度、边界框、表格、图表事实和补全。组合与你任务相关的组件，加入模式（schema）检查，并用补全和重复检查来抑制循环或未完成的输出。",
+        "en": "To adapt the recipe, supply your own image/label pairs and a verifier: checks that determine whether an extraction is correct. The included document reward components cover text fidelity, bounding boxes, tables, chart facts, and completion. Combine the components relevant to your task, add schema checks, and use completion and repetition checks to discourage looping or unfinished output."
+      },
+      {
+        "t": "p",
+        "zh": "我们很高兴社区已经将 Parse 扩展并改进到泰语、波斯语/Farsi 和阿拉伯语，也希望这些额外的数据集和微调配方能进一步推动这些努力以及未来的模型。",
+        "en": "We are excited that the community has extended and improved Parse for Thai, Persian/Farsi, and Arabic already and we hope that these additional datasets and fine-tuning recipes will help encourage these efforts and future models."
+      },
+      {
+        "t": "p",
+        "zh": "我们感谢 Denis Ovchinnikov 在 vLLM 集成和独立性能验证上的工作，感谢 Oliver Holworthy 改进微调配方的运行时设置和可复现性，以及 Bo Liu 的技术审阅。",
+        "en": "We thank Denis Ovchinnikov for his work on vLLM integration and independent performance validation, Oliver Holworthy for improving the fine-tuning recipe's runtime setup and reproducibility, and Bo Liu for technical review."
+      }
+    ]
+  }
+}

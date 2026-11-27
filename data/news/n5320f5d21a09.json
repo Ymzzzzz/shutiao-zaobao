@@ -1,0 +1,62 @@
+{
+  "id": "n5320f5d21a09",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "智谱与月之暗面因数据受限推迟下一代模型",
+  "original_title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+  "summary": "路透社称，智谱原计划11月发布的约3万亿参数模型GLM-5.5或推迟到2027年一季度，公司已先推出7500亿参数的GLM-5.4；月之暗面开发周期或由6个月延长至12个月，Kimi K4可能延至2027年年中。",
+  "facts": [
+    {
+      "text": "路透社援引消息称，智谱原计划11月发布的约3万亿参数模型GLM-5.5很可能推迟到2027年一季度；公司周一发布了7500亿参数的GLM-5.4。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/"
+    },
+    {
+      "text": "消息称，若缺少境外算力，月之暗面的开发周期可能由6个月延长至12个月，下一款主要模型Kimi K4或推迟到2027年年中；在OpenAI和Anthropic阻断用于蒸馏的数据抓取后，月之暗面转而寻求谷歌和Meta的最新模型，并加强对欧洲算力的寻找。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据智谱称，GLM-5.4的新设计使其能够跟上拥有2到3万亿参数的系统。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+      "is_primary": false,
+      "published_at": "2026-11-26T23:45:08+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T23:45:08+08:00",
+  "updated_at": "2026-11-26T23:45:08+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "智谱与月之暗面因数据受限推迟下一代模型",
+  "lead_zh": "路透社援引消息称，在美国收紧芯片与蒸馏限制后，智谱约3万亿参数的GLM-5.5或推迟到2027年一季度，月之暗面的Kimi K4可能延至2027年年中。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder援引路透社报道称，在美国堵住英伟达芯片的云端漏洞、英伟达暂停向东南亚出货，以及美国公司加强对模型蒸馏的限制之后，中国人工智能公司智谱（Z.AI）和月之暗面的下一代旗舰模型计划受到冲击。",
+        "报道称，智谱原定11月推出的约**3万亿**参数模型GLM-5.5很可能推迟到**2027**年一季度。为填补空档，公司于周一发布了**7500**亿参数的GLM-5.4，并表示新设计能跟上拥有**2**到**3**万亿参数的系统。消息还称，若缺少境外算力，月之暗面的开发周期可能由**6**个月延长至**12**个月，下一款主要模型Kimi K4或推迟到2027年年中；在OpenAI和Anthropic阻断用于蒸馏的数据抓取后，月之暗面转而寻求谷歌和Meta的最新模型，并加强对欧洲算力的寻找。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/1b216aef2483919808d1191ffc9759de2500f749.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/us_china.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

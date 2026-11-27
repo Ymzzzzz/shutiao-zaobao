@@ -1,0 +1,72 @@
+{
+  "id": "nbcfb90d7a98e",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "韩国对苹果iPhone 16的AI功能宣传立案调查",
+  "original_title": "iPhone 16 AI 功能宣传涉嫌画大饼，苹果在韩国遭正式调查",
+  "summary": "韩国公平交易委员会调查认为，苹果对iPhone 16的Apple Intelligence宣传未充分说明功能何时可用。报告称，Siri个人上下文能力原定2025年4月在韩国提供，直至2026年10月才上线，晚了约18个月。委员会尚未作出最终裁定。",
+  "facts": [
+    {
+      "text": "韩国公平交易委员会调查人员已将苹果及苹果韩国公司移交审查，称Apple Intelligence有多项功能未能按宣传兑现，包括Genmoji、图像游乐场，以及Siri理解个人上下文和识别屏幕内容的能力。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/059.htm"
+    },
+    {
+      "text": "报告指出，Siri的个人上下文能力曾被宣传为将于2025年4月初在韩国提供，但直到2026年10月才上线，晚了大约18个月。委员会尚未作出最终裁定，也未处以罚款。苹果2026年5月曾以2.5亿美元和解一起美国集体诉讼。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/059.htm"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据韩联社报道，苹果对调查人员的结论提出异议，称公司已就功能可用时间作出提前告知。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/033/059.htm"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/033/059.htm",
+      "is_primary": false,
+      "published_at": "2026-11-26T19:29:36+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T19:29:36+08:00",
+  "updated_at": "2026-11-26T19:29:36+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "韩国对苹果iPhone 16的AI功能宣传立案调查",
+  "lead_zh": "韩国公平交易委员会已将苹果及苹果韩国公司移交审查，指控iPhone 16广告在Apple Intelligence功能可用性上误导消费者，包括Genmoji和图像游乐场等。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "IT之家报道，苹果在韩国面临一项正式调查，指控其iPhone 16广告在Apple Intelligence功能的可用性上误导了消费者。韩国公平交易委员会调查人员已将苹果及苹果韩国公司移交审查，称包括Genmoji、图像游乐场，以及Siri理解个人上下文和识别屏幕内容等功能未能按宣传兑现。",
+        "报告举例称，Siri的个人上下文能力曾被宣传为将于**2025**年4月初在韩国提供，但直到**2026**年10月才上线，晚了大约**18**个月。委员会尚未作出最终裁定，也未处以罚款。2025年4月，在美国全国广告审查委员会介入后，苹果曾从其页面撤下“现已可用”的表述；2026年5月，苹果同意以**2.5**亿美元和解一起美国集体诉讼，该诉讼同样指控其在功能可用性上误导购买者。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据韩联社报道，苹果对调查人员的结论提出异议，称公司已就功能可用时间作出提前告知。在美国那次广告审查中，苹果也不同意“现已可用”表述具有误导性的结论，但最终遵从了建议。"
+      ],
+      "sources": [
+        "IT之家"
+      ]
+    }
+  ],
+  "image_url": "img/12493d1677c28b3adc24b8e4e1a462fc2009c763.jpg",
+  "image_source": "IT之家",
+  "image_origin_url": "https://img.ithome.com/newsuploadfiles/2026/6/5c0b1601-a4ed-42be-995d-dd7d98374842.jpg?x-bce-process=image/format,f_auto",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

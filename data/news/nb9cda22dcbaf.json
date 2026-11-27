@@ -1,0 +1,72 @@
+{
+  "id": "nb9cda22dcbaf",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "Anthropic将黎曼猜想证明精简至约7.6万行",
+  "original_title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+  "summary": "数学家Alpöge与Claude合作发布的约1740万行黎曼猜想Lean证明，被Anthropic团队重写为约7.6万行紧凑版和约30万行可读版，编译时间由约21小时降至1至2小时。项目称全部Lean代码由Claude编写，并以Apache 2.0许可开源。",
+  "facts": [
+    {
+      "text": "几天前，数学家Levent Alpöge与Anthropic的Claude合作发布了约1740万行、17.5万个文件的黎曼猜想与广义黎曼猜想Lean形式化证明。Anthropic研究员Luke Sernau与同事随后推出重构版grh-lean。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512819.html"
+    },
+    {
+      "text": "紧凑版约7.6万行纯代码，分布在792个文件中，代码量减少约99.56%；可读版约30万行、801个文件。在已有Mathlib缓存的情况下，12核、24GB内存的机器可在1到2小时内完成构建，原版在AWS高配机器上约需21小时。项目以Apache 2.0许可开源，并称全部Lean代码和文档均由Claude编写。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512819.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据项目README称，这次全部Lean代码和文档均由Claude编写，人类研究员主要负责提供方向和建议；证明未使用sorry占位符，并仅依赖Lean最标准的三个公理。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512819.html"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512819.html",
+      "is_primary": false,
+      "published_at": "2026-11-26T08:40:37+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T08:40:37+08:00",
+  "updated_at": "2026-11-26T08:40:37+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "Anthropic将黎曼猜想证明精简至约7.6万行",
+  "lead_zh": "Anthropic研究员Sernau与同事及Claude将约1740万行的黎曼猜想Lean证明重构为约7.6万行紧凑版，代码量减少约99.56%，并开源。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "量子位报道，数学家Levent Alpöge与Anthropic的Claude合作发布的黎曼猜想与广义黎曼猜想Lean证明，原有约**1740万**行、175188个文件，在AWS高配机器上约需21小时才能编译完。Anthropic研究员Luke Sernau与同事随后推出重构仓库grh-lean：可读版约30万行、801个文件；紧凑版约**7.6万**行纯代码、792个文件，代码量减少约**99.56%**。",
+        "在已有Mathlib缓存的情况下，12核、24GB内存的普通机器可在1到2小时内从头构建。社区项目rh-trim此前分析，最终论证只需要整个证明的6.6%，但自动删除死代码最多只能减少约8%，且削减后的版本未能成功编译。与原版未提供许可证不同，grh-lean以Apache 2.0许可开源。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么说",
+      "paras": [
+        "Sernau表示，他们已将篇幅缩减大约两个数量级。项目README称，全部Lean代码和文档均由Claude编写，人类研究员主要提供方向和建议；证明没有使用sorry占位符，并只依赖Lean最标准的三个公理。团队用Lean内核及Comparator、nanoda等多个独立检查器做了交叉验证，并强调目前仅通过了机器验证，尚未有数学家完整通读，也没有配套数学论文。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

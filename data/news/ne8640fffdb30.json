@@ -1,0 +1,72 @@
+{
+  "id": "ne8640fffdb30",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "381个AI智能体直播攻关P与NP，一度压垮GitHub",
+  "original_title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+  "summary": "自11月22日起的公开实验中，最多381个智能体同时攻关P与NP，另有465个外部智能体提交证明。至25日早已完成超过一万次会话，在Lean 4中验证通过2400多条引理，并一度触发GitHub并发限制。",
+  "facts": [
+    {
+      "text": "设计软件公司Brilliant联合创始人Amichai Mantinband等人自11月22日起在pequalnp.com直播攻关P与NP问题，至25日早9点已完成超过一万次会话，并在Lean 4中验证通过2400多条引理。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513021.html"
+    },
+    {
+      "text": "高峰时同时在线的智能体达381个，另有465个外部智能体向仓库提交证明，触发了GitHub并发限制；官方流水线设有30个调度席位，并将问题拆成6条战线。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513021.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Mantinband称，项目起初只是他生病卧床时的尝试，先放出12个智能体，并在提示词中告诉它们答案已经存在、任务是率先写出证明。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513021.html"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513021.html",
+      "is_primary": false,
+      "published_at": "2026-11-26T21:56:01+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T21:56:01+08:00",
+  "updated_at": "2026-11-26T21:56:01+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "381个AI智能体直播攻关P与NP，一度压垮GitHub",
+  "lead_zh": "Brilliant联合创始人发起的公开实验调用最多381个智能体直播攻关P与NP问题，三天内完成逾一万次会话，并在Lean 4中验证通过2400多条引理。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "量子位报道，设计软件公司Brilliant（并非数学学习平台Brilliant.org）联合创始人Amichai Mantinband和Lior自上月22日起，在pequalnp.com直播攻关P与NP问题。至25日早9点，实验已跑完超过一万次会话，并在Lean 4中验证通过**2400**多条引理。",
+        "高峰时同时在线的智能体达**381**个，另有**465**个外部智能体涌入仓库提交证明，触发GitHub并发限制。截至25日8点45分，累计完成**10936**次会话，最近一小时验证了**115**条引理。问题被拆成6条战线，由**30**个调度席位统筹；思路先由“思考型”智能体推演，再交“构建型”智能体写成Lean 4代码，并由“红队”席位尝试证伪。官网“墓地”页面已记录**800**多条被证伪的主张。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "发起人怎么说",
+      "paras": [
+        "Mantinband在Reddit上回忆，项目起初只是他生病卧床时的尝试：买下域名后接入公司多智能体框架，先放出**12**个智能体，并在提示词里告诉它们答案已经存在、任务是率先写出证明。8小时后会话数突破**1000**次、并行智能体超过**180**个，他随后将过程公开直播。外部开发者可复制一条指令，在**6**小时限时内认领引理并提交拉取请求。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,78 @@
+{
+  "id": "n0b68c1bfb12f",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": false,
+  "title": "亚伦森称AI能给出数学证明本身更重要",
+  "original_title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+  "summary": "前OpenAI研究员斯科特·亚伦森发文认为，AI近期数学突破的意义远超学界本身。他以OpenAI关于矩阵乘法和傅里叶变换的上下界为例，并称自己首次感到P≠NP的证明已不遥远。",
+  "facts": [
+    {
+      "text": "得克萨斯大学奥斯汀分校教授、前OpenAI研究员斯科特·亚伦森发文讨论人工智能近期数学突破的意义，认为证明黎曼猜想本身未必改变日常生活。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/"
+    },
+    {
+      "text": "他回顾OpenAI关于矩阵乘法和傅里叶变换的结果：既找到更快算法，也给出相应下界，以说明计算代价还能降到何处。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据亚伦森称，更重要的是人工智能能够做出这类工作，其影响可能从重塑全球经济一直延伸到威胁地球上的所有生命。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/"
+    },
+    {
+      "text": "据亚伦森称，他现在首次从骨子里感到，P≠NP的证明已不遥远，并称从多个可靠来源几乎可以确定，人工智能实验室还掌握着密码学方面的“重磅结果”。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+      "is_primary": false,
+      "published_at": "2026-11-27T03:31:46+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T03:31:46+08:00",
+  "updated_at": "2026-11-27T03:31:46+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "亚伦森称AI能给出数学证明本身更重要",
+  "lead_zh": "前OpenAI研究员、复杂性理论学者斯科特·亚伦森发文称，黎曼猜想被证明与否对日常生活影响有限，更关键的是人工智能已能做出这类工作。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "复杂性理论学者、前OpenAI研究员斯科特·亚伦森在博客中讨论人工智能近期数学突破的含义。他写道，证明黎曼猜想大概不会改变任何人的日常生活，尽管相关思想未来可能用于科学和工程，但具体会落在哪些方向仍难预料。",
+        "他以OpenAI关于矩阵乘法的证明为例：核心问题是计算代价如何随矩阵变大而增长，新结果在已有快速算法之上补上了匹配的下界，从而说明在其所研究的模型里，计算代价还能降到何处。OpenAI对傅里叶变换也得到类似结果，既找到更快算法，也证明很难再快很多。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "他怎么说",
+      "paras": [
+        "亚伦森认为，更关键的是人工智能已经能够从事这类工作，其影响可能“令人震惊”，范围从重塑全球经济到威胁地球上的所有生命。他写道，认真讨论这一问题的人，不应只关心证明是否有助于“打造更锋利的矛”。",
+        "他称，这些结果也改变了自己对P与NP问题的看法，并写道“我现在首次从骨子里感到，P≠NP的证明已不遥远”。他还说，自己“从多个可靠来源几乎可以确定”，人工智能实验室还掌握着密码学方面的“一个或多个重磅结果”，但尚无细节；他今年10月曾写道，实验室正在测试模型能否破解密码系统。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/ddae78c153ea87f61059dd1e33a25a46a87e5913.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/09/math_geometry_openai_hodge.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

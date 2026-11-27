@@ -1,0 +1,44 @@
+{
+  "id": "na72a6281d079",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "美国联邦通信委员会批准太空探索技术公司部署百万颗星脑卫星",
+  "original_title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+  "summary": "美国联邦通信委员会授权太空探索技术公司部署最多100万颗Starmind卫星，作为轨道数据中心处理人工智能数据，并批准在光链路失效时用于监测和控制的无线电链路。该公司计划2027年首次发射。",
+  "facts": [
+    {
+      "text": "美国联邦通信委员会已授权太空探索技术公司部署最多100万颗Starmind卫星，用于在轨道上处理人工智能数据。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/"
+    },
+    {
+      "text": "该机构还批准了在光学连接失效时用于监测和控制卫星的无线电链路。太空探索技术公司计划于2027年首次发射。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+      "is_primary": false,
+      "published_at": "2026-11-26T21:41:07+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T21:41:07+08:00",
+  "updated_at": "2026-11-26T21:41:07+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "美国通信监管机构批准太空探索技术公司部署百万颗星脑卫星",
+  "lead_zh": "美国联邦通信委员会已授权太空探索技术公司部署最多100万颗Starmind卫星，用于在轨道上处理人工智能数据；该公司计划2027年首次发射。",
+  "body_zh": [],
+  "image_url": "img/a1c0a8baa78c5a95a57289d49bf32512e2d91ee3.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/SpaceX-xAI-Satellite-1200x670.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

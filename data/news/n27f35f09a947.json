@@ -1,0 +1,72 @@
+{
+  "id": "n27f35f09a947",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI修复计价错误后Astra额度消耗加快四成",
+  "original_title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+  "summary": "OpenAI工程师索蒂奥称，GPT-6.2上线时的计费漏洞已修复，Astra和Sol用户触及上限的速度分别比上周快40%和25%。公司不会补收差额，并为Go、Plus、Pro和Business用户额外增加一次额度重置。",
+  "facts": [
+    {
+      "text": "OpenAI Codex工程师Thibault Sottiaux表示，GPT-6.2上线时的计费漏洞让多数用户在GPT-6.2 Astra和Sol上获得了错误折扣，该漏洞现已修复。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/"
+    },
+    {
+      "text": "修复后，Astra用户触及上限的速度比上周快40%，Sol快25%；他称额度仍应比GPT-6 Astra和GPT-6.1 Sol更耐用。其他模型不受影响，OpenAI不会补收差额。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据索蒂奥称，作为补偿，所有Go、Plus、Pro和Business订阅用户将额外获得一次已保存的额度重置，Business用户还可免费使用Fast Mode至年底。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+      "is_primary": false,
+      "published_at": "2026-11-27T01:28:56+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T01:28:56+08:00",
+  "updated_at": "2026-11-27T01:28:56+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI修复计价错误后Astra额度消耗加快四成",
+  "lead_zh": "OpenAI工程师称，GPT-6.2上线时的计费漏洞让多数用户拿到错误折扣；修复后Astra和Sol用户触及上限的速度分别比上周快40%和25%。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，OpenAI Codex工程师Thibault Sottiaux表示，GPT-6.2上线期间出现计费漏洞，导致多数用户在GPT-6.2 Astra和Sol上拿到了错误折扣。漏洞现已修复。",
+        "索蒂奥说，修复后用户会比上周更快触及上限：Astra快**40%**，Sol快**25%**。他同时表示，额度仍应比GPT-6 Astra和GPT-6.1 Sol更耐用。其他模型不受影响，OpenAI也不会补收差额。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据索蒂奥称，作为道歉，所有Go、Plus、Pro和Business订阅用户将额外获得一次已保存的额度重置；Business用户还可免费使用Fast Mode至今年年底。报道还提到，OpenAI正在向部分Pro用户测试合并Chat模式与Work模式：Work模式更具智能体色彩，速度更慢但能力更强，对话将在同一云环境中运行，由模型决定直接作答还是拉起完整的智能体工作流。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/3670ecf64e698cc7755e153e276874f331cbe442.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,88 @@
+{
+  "id": "nec74e9ba2187",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "GTA6首日卖出37.9亿美元，全程未用生成式AI",
+  "original_title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+  "summary": "《侠盗猎车手6》上周发售，Metacritic获史上最高评分，首日销售额37.9亿美元。报道称游戏由约5000人制作十多年，完全未用生成式AI，同日Anthropic以813亿美元完成上市。",
+  "facts": [
+    {
+      "text": "《侠盗猎车手6》上周发售，在Metacritic上成为有史以来评分最高的游戏，首日销售额达37.9亿美元，高于《复仇者联盟：终局之战》的29亿美元和泰勒·斯威夫特Eras巡回演唱会的20亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
+    {
+      "text": "报道称该作完全未使用生成式人工智能，由约5000人耗时十多年制作，并设计了3万名外观和性格各异的非玩家角色。同日Anthropic以813亿美元规模完成首次公开募股。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据曾担任Take-Two Interactive首席执行官的本·费德尔称，《侠盗猎车手》很可能是最后一款以这种方式制作的同类游戏。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    }
+  ],
+  "analysis": [
+    {
+      "text": "TechCrunch将这款人工打造的游戏，与同一天Anthropic上市所代表的人工智能效率叙事对照，认为它证明效率并非唯一美德。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "is_primary": false,
+      "published_at": "2026-11-27T00:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T00:00:00+08:00",
+  "updated_at": "2026-11-27T00:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "GTA6首日卖出37.9亿美元，全程未用生成式AI",
+  "lead_zh": "《侠盗猎车手6》上周发售，Metacritic评分创下历史新高，首日销售额达37.9亿美元；报道称该作由约5000人耗时十余年制作，全程未使用生成式人工智能。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《侠盗猎车手6》上周发售。TechCrunch报道称，它在Metacritic上成为有史以来评分最高的游戏，首日销售额达**37.9**亿美元，超过《复仇者联盟：终局之战》的**29**亿美元和泰勒·斯威夫特Eras巡回演唱会的**20**亿美元。粉丝为此作等待了**13**年。",
+        "报道写明，该作完全未使用生成式人工智能，由约**5000**人耗时十多年制作，并打磨了**3万**名外观和性格各异的非玩家角色。几乎同一时间，Anthropic在纳斯达克以**813**亿美元规模完成首次公开募股，成为首家上市的大型人工智能实验室。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "曾担任Take-Two Interactive首席执行官、现为TIRTA Ventures管理合伙人的本·费德尔对TechCrunch表示，该系列“很可能是最后一款以这种方式制作的同类游戏”，并认为这种开发方式已接近其自然边界。Take-Two现任首席执行官施特劳斯·泽尔尼克此前也曾称，以为新工具能让个人按一下按钮就生成并推向全球的爆款，是“可笑的想法”。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "媒体怎么看",
+      "paras": [
+        "TechCrunch把这款耗时打磨的人工作品，与同一天人工智能行业的效率叙事对照，认为它表明效率并非唯一美德，并提到YouTube上的低质内容和“效率之年”裁员等副作用作为对照背景。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/39b8af81f78d38031758006766e1880d19f88d4b.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

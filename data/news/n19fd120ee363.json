@@ -1,0 +1,72 @@
+{
+  "id": "n19fd120ee363",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "英伟达叫停四国服务器出货，东南亚云厂商面临许可混乱",
+  "original_title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+  "summary": "《金融时报》报道，英伟达要求戴尔和超微停止向马来西亚、新加坡、泰国和印尼出货服务器。新规要求云厂商90天内申请许可。银行已叫停向新加坡云商Aolani约5亿美元贷款，该交易原计划向字节跳动出租算力。",
+  "facts": [
+    {
+      "text": "《金融时报》援引三名知情人士称，英伟达已要求戴尔和超微等制造伙伴停止向马来西亚、新加坡、泰国和印度尼西亚出货服务器，目前尚不清楚暂停是否只是暂时的。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
+    },
+    {
+      "text": "新规要求云厂商在90天内申请许可并证明终端用户中没有受限企业。银行已叫停向新加坡云服务商Aolani约5亿美元贷款，该交易原计划向字节跳动出租算力。CNBC还报道，经销商正在出售原本面向中国租赁客户的数千颗B300芯片。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据美国贸易代表格里尔称，新规旨在阻断间接获取，包括经东南亚走私以及通过第三国数据中心远程访问。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+      "is_primary": false,
+      "published_at": "2026-11-26T19:21:16+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T19:21:16+08:00",
+  "updated_at": "2026-11-26T19:21:16+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英伟达叫停四国服务器出货，东南亚云厂商面临许可混乱",
+  "lead_zh": "《金融时报》称，英伟达已要求戴尔和超微停止向马来西亚、新加坡、泰国和印尼出货服务器；东南亚云厂商需在90天内申请许可，证明终端用户不在限制之列。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder援引《金融时报》报道称，英伟达已要求戴尔和超微等制造伙伴，停止向马来西亚、新加坡、泰国和印度尼西亚出货服务器。报道引述三名知情人士，并称目前尚不清楚这一暂停是否只是暂时的。背景是美国商务部工业与安全局收紧出口管制，旨在阻止中国企业通过向境外云厂商租用算力来绕开销售禁令。",
+        "新规要求云厂商在**90**天内申请许可，并证明终端用户中没有受限企业。一名云厂商高管对报纸称，申请方式缺少指导，现场“一片混乱”。银行已叫停向新加坡云服务商Aolani约**5**亿美元贷款，该交易原计划向字节跳动出租算力，字节跳动可能因此退出。CNBC还报道，自宣布以来经销商挂出了大量英伟达GPU，其中包括原本面向中国租赁客户的数千颗B300芯片。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "官方怎么说",
+      "paras": [
+        "美国贸易代表贾米森·格里尔对CNBC表示，新规的目标是阻断间接获取，包括经东南亚走私，以及通过第三国数据中心远程访问。人工智能基础设施交易市场GPU Mart总裁杰克·杜哈梅尔等知情人士向CNBC确认，二手市场上的供应激增直接来自这项新规。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

@@ -1,0 +1,184 @@
+{
+  "id": "n02a088434703",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "ggml推出面向AMD锐龙和Radeon的llama.cpp基准看板",
+  "original_title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "summary": "ggml在Hugging Face发布llama.cpp的AMD基准看板，覆盖Radeon 8060S和AI Pro R9700S，可对比量化、构建历史与上下文扩展下的吞吐，工作流和结果均公开。",
+  "facts": [
+    {
+      "text": "llama.cpp与AMD基准看板已在Hugging Face上线，可跟踪不同llama.cpp构建、模型和量化在AMD锐龙与Radeon硬件上的提示处理及文本生成性能。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    },
+    {
+      "text": "当前可选硬件为Radeon 8060S（gfx1151）和Radeon AI Pro R9700S（gfx1201）；公开工作流每周运行，使用llama-bench，并分别在Flash Attention开启与关闭下各重复10次。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据ggml称，希望AMD开发者能按硬件、模型和构建来对比量化并跟踪性能变化，且基准流程与底层结果均对外公开。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "is_primary": true,
+      "published_at": "2026-11-26T19:37:17+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T19:37:17+08:00",
+  "updated_at": "2026-11-26T19:37:17+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "ggml推出面向AMD锐龙和Radeon的llama.cpp基准看板",
+  "lead_zh": "ggml在Hugging Face上线llama.cpp与AMD基准看板，可对比锐龙和Radeon硬件上不同构建、模型与量化的提示处理及文本生成速度。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "ggml在Hugging Face上线了llama.cpp与AMD基准看板，用于跟踪不同llama.cpp构建、模型与量化在本地推理中的表现，覆盖提示处理和文本生成。侧边栏可选择硬件、模型与构建，目前硬件选项为Radeon 8060S（gfx1151）和Radeon AI Pro R9700S（gfx1201）。",
+        "总览页对比同一硬件、模型和构建下的量化结果，两张图分别展示PP512（处理**512**个输入token、不生成）和TG128（生成**128**个token），均从上下文深度为零开始，单位为每秒token，取平均吞吐avg_ts。构建历史页跟踪各次构建的这两项指标，上下文扩展页则观察已有上下文变长后的生成吞吐。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "如何测评",
+      "paras": [
+        "作者介绍，测评使用通过llama-install.sh分发的预构建二进制，该项目也服务于llama.app。面向gfx1151和gfx1201的公开工作流按周调度，用llama-bench分别在Flash Attention开启和关闭下各重复**10**次。",
+        "模型集合会调整，目前包括Inkling 2 Mini、Qwen、Gemma、gpt-oss和LFM，覆盖稠密与混合专家架构；GGUF格式包括Q4_K_M、Q8_0以及其他量化，还有BF16、F16等更高精度格式。看板直接读取公开的ggml-org/install.sh-benches-data存储桶，数据与工作流均可复核或复用。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/c5de500cb1420deaeb65f2722421a3182a84ec3e.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png",
+  "fulltext_status": "ok",
+  "read_minutes": 3,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-26",
+    "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "title_zh": "推出面向 AMD Ryzen 和 Radeon 的 llama.cpp 基准看板",
+    "dek_en": "A Blog post by ggml-org on Hugging Face",
+    "dek_zh": "ggml-org 在 Hugging Face 上发布的一篇博客文章",
+    "word_count_zh": 880,
+    "read_minutes": 3,
+    "omitted_note": "原文另有 1 个表格，未收录",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "llama.cpp × AMD 基准看板已在 Hugging Face 上线。它可以跟踪不同 llama.cpp 构建、模型和量化下的提示处理与文本生成性能，便于了解本地推理在 AMD Ryzen 和 Radeon 硬件上的表现。",
+        "en": "The llama.cpp × AMD Benchmark dashboard is available on Hugging Face. It lets you track prompt processing and text generation performance across llama.cpp builds, models, and quantizations, so you can explore how local inference performs on AMD Ryzen and Radeon hardware."
+      },
+      {
+        "t": "p",
+        "zh": "随着模型、内核和构建的演进，本地推理性能也会变化。我们希望任何 AMD 开发者都能方便地查看这些变化：选择硬件、模型和构建，对比量化，并跟踪性能随时间的变化。基准工作流和底层结果均对外公开，因此你也可以检查我们如何评测推理性能。",
+        "en": "Local inference performance changes as models, kernels, and builds evolve. We want those changes to be easy to inspect for any AMD developer: pick a hardware, a model and a build, compare quantizations, and follow performance over time. The benchmark workflow and underlying results are public, so you can also inspect how we benchmark inference performance."
+      },
+      {
+        "t": "h",
+        "zh": "快速开始",
+        "en": "Quick start"
+      },
+      {
+        "t": "p",
+        "zh": "你可以在 Configuration 侧边栏中选择 Hardware、Model 和 llama.cpp 构建。当前可选硬件为 Radeon 8060S（gfx1151）和 Radeon AI Pro R9700S（gfx1201）。",
+        "en": "You can choose Hardware, Model, and llama.cpp build in the Configuration sidebar. The current hardware choices are Radeon 8060S (gfx1151) and Radeon AI Pro R9700S (gfx1201)."
+      },
+      {
+        "t": "p",
+        "zh": "• 在 Overview 标签页中，针对同一硬件、模型和构建对比量化结果。两张图分别展示 PP512（512 个输入 token、不生成）和 TG128（128 个生成 token），均从上下文深度为零开始。",
+        "en": "• In the Overview tab, compare quantizations for one hardware, model, and build. The two charts show PP512 (512 input tokens, no generation) and TG128 (128 generated tokens), both starting at context depth zero."
+      },
+      {
+        "t": "p",
+        "zh": "• 在 Build history 标签页中，针对所选硬件、模型和量化，跟踪所有已记录构建的 PP512 和 TG128。",
+        "en": "• In the Build history tab, track PP512 and TG128 across all recorded builds for the selected hardware, model, and quantization."
+      },
+      {
+        "t": "p",
+        "zh": "• 在 Context scaling 标签页中，查看在所选构建、硬件、模型和量化下，随着已有上下文增长，token 生成吞吐如何变化。",
+        "en": "• In the Context scaling tab, see how token-generation throughput changes as the existing context grows, for the selected build, hardware, model, and quantization."
+      },
+      {
+        "t": "h",
+        "zh": "这些数字意味着什么",
+        "en": "What the numbers mean"
+      },
+      {
+        "t": "p",
+        "zh": "看板展示两项独立测试，均以每秒 token 数为单位：",
+        "en": "The dashboard shows two separate tests, both measured in tokens per second:"
+      },
+      {
+        "t": "p",
+        "zh": "两项测试均从上下文深度为零开始（n_depth=0）。PP512 衡量在不生成的情况下处理 512 个输入 token；TG128 衡量在没有既有上下文的情况下生成 128 个 token。图中绘制的是平均吞吐（avg_ts）。这些是有用的参考工作负载，而 Context scaling 标签页可以让你观察上下文变长后的 token 生成吞吐。",
+        "en": "Both tests start at context depth zero (n_depth=0). PP512 measures processing 512 input tokens without generation; TG128 measures generating 128 tokens without a pre-existing context. The plotted value is the mean throughput (avg_ts). These are useful reference workloads, while the Context scaling tab lets you explore token generation throughput as the context grows."
+      },
+      {
+        "t": "h",
+        "zh": "我们如何运行基准测试",
+        "en": "How we run the benchmarks"
+      },
+      {
+        "t": "p",
+        "zh": "我们评测的是通过 llama-install.sh 分发的预构建二进制，该项目也是 llama.app 背后的构建与安装项目。面向 gfx1151 和 gfx1201 的公开工作流按周调度，使用 llama-bench 工具在 Flash Attention 开启和关闭下运行标准基准，每种配置重复 10 次。",
+        "en": "We benchmark the prebuilt binaries distributed through llama-install.sh, the build and installation project behind llama.app. The public gfx1151 and gfx1201 workflows are scheduled weekly and run the standard benchmarks using the llama-bench tool with Flash Attention on and off, with 10 repetitions per configuration."
+      },
+      {
+        "t": "p",
+        "zh": "模型集合会调整，目前包括 Inkling 2 Mini、Qwen、Gemma、gpt-oss 和 LFM 模型，覆盖稠密与混合专家架构。可用的 GGUF 格式包括 Q4_K_M、Q8_0 以及其他量化，还有 BF16、F16 等更高精度格式。",
+        "en": "The model set evolves and currently includes Inkling 2 Mini, Qwen, Gemma, gpt-oss, and LFM models, covering both dense and mixture-of-experts architectures. Available GGUF formats include Q4_K_M, Q8_0, other quantizations, and higher-precision formats such as BF16 and F16."
+      },
+      {
+        "t": "h",
+        "zh": "查看并复用结果",
+        "en": "Inspect and reuse the results"
+      },
+      {
+        "t": "p",
+        "zh": "该浏览器直接读取 Hugging Face 上公开的 ggml-org/install.sh-benches-data 存储桶。图表标题旁的数据源链接会打开所选构建、硬件和模型对应的文件夹。",
+        "en": "The explorer reads directly from the public ggml-org/install.sh-benches-data Storage Bucket on Hugging Face. The data source link beside the chart title opens the folder for the selected build, hardware, and model."
+      },
+      {
+        "t": "p",
+        "zh": "标准结果使用 <build>/<hardware>/<model>/<quant>.jsonl。工作负载扫描使用同一文件夹中的 <quant>-tg.jsonl 文件名。",
+        "en": "Standard results use <build>/<hardware>/<model>/<quant>.jsonl. Workload sweeps use the same folder <quant>-tg.jsonl filename."
+      },
+      {
+        "t": "p",
+        "zh": "可以用它们来核查某项结果、制作自己的图表，或与本地运行进行对比。",
+        "en": "Use them to investigate a result, make your own charts, or compare with a local run."
+      },
+      {
+        "t": "h",
+        "zh": "加入讨论",
+        "en": "Join the conversation"
+      },
+      {
+        "t": "p",
+        "zh": "感谢 AMD 团队提供测试基础设施并协助验证设置！欢迎试用看板、检查数据，并告诉我们你希望接下来看到哪些模型和负载。",
+        "en": "Thanks to the AMD team for providing test infrastructure and helping validate the setup! Try the dashboard, inspect the data, and let us know which models and workloads you would like to see next."
+      }
+    ]
+  }
+}

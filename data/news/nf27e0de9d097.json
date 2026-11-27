@@ -1,0 +1,72 @@
+{
+  "id": "nf27e0de9d097",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "标普考虑下调英伟达评级，理由包括关键人风险",
+  "original_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "summary": "标普全球评级考虑将英伟达评级由AA下调至AA-，认为黄仁勋去职又复职暴露出高管监督不足和关键人风险。审查预计90天内完成。英伟达曾计划与六家机构安排5000亿美元基础设施融资，并担保其中25%。",
+  "facts": [
+    {
+      "text": "标普全球评级正考虑下调英伟达信用评级，理由包括管理层和治理实践，以及首席执行官黄仁勋去职后又复职所暴露的“关键人风险”。该机构预计在90天内完成审查，并可能将评级从AA降至AA-，仍为投资级。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+    },
+    {
+      "text": "今年8月，英伟达宣布计划与高盛、阿波罗和黑石等六家金融机构安排5000亿美元人工智能基础设施融资，原条款下英伟达担保贷款的25%。彭博此前报道，即便在黄仁勋去职前，贷款机构已要求其提高担保比例。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据标普称，尽管英伟达财务表现强劲，但此事引发了对“高管监督薄弱、缺乏继任规划”以及过度依赖黄仁勋的担忧。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "is_primary": false,
+      "published_at": "2026-11-26T06:44:32+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T06:44:32+08:00",
+  "updated_at": "2026-11-26T06:44:32+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "标普考虑下调英伟达评级，理由包括关键人风险",
+  "lead_zh": "标普全球评级正考虑将英伟达信用评级由AA下调至AA-，理由包括首席执行官黄仁勋去职又复职后暴露的治理薄弱和关键人风险，审查预计90天内完成。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "TechCrunch报道，三大信用评级机构之一的标普全球评级，正考虑下调英伟达的信用评级。尽管公司财务表现强劲，但首席执行官黄仁勋去职后又复职，引发了对其管理层和治理实践的担忧。标普预计在**90**天内完成审查，并可能将评级从AA降至AA-，这也是该机构尺度上第四高的级别，仍属投资级。",
+        "报道指出，下调可能推高英伟达的借款成本。由于英伟达为一些自身信用不强的新兴云厂商和基础设施公司提供背书，更低的评级也可能使这些公司的债务更贵，或迫使它们提交更多抵押。今年8月，英伟达宣布计划与高盛、阿波罗和黑石等六家金融机构安排**5000**亿美元人工智能基础设施融资，原条款下英伟达担保贷款的**25%**。彭博此前报道，即便在黄仁勋去职前，贷款机构已要求提高担保比例；若评级被下调，这一要求可能进一步加码。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "评级机构怎么说",
+      "paras": [
+        "标普在声明中表示，此事暴露出“高管监督薄弱和缺乏继任规划”，以及所谓“关键人风险”，即公司未来成功过度依赖黄仁勋。TechCrunch据此认为，即便英伟达仍将保持投资级，一次下调也足以改变其融资条件和为合作云厂商提供担保的成本。"
+      ],
+      "sources": [
+        "TechCrunch"
+      ]
+    }
+  ],
+  "image_url": "img/dadce7808c7133e7c725e6b5563e279277e880df.jpg",
+  "image_source": "TechCrunch",
+  "image_origin_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

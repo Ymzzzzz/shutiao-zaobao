@@ -1,0 +1,72 @@
+{
+  "id": "nfa2f0df7cd76",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "微软详解国家支持黑客如何用ARTEX自动发动攻击",
+  "original_title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+  "summary": "微软称，ARTEX能调用Nmap、Metasploit等现成工具，并在模型出错时自动切换。一次行动中，智能体仅用5分钟就从GitHub泄露凭证进入Azure密钥库；Storm-0940活动记录了超过15.1万次失败登录。",
+  "facts": [
+    {
+      "text": "微软威胁情报报告称，人工智能渗透测试框架ARTEX自2026年7月发布以来被广泛用于自动化攻击。GitHub用户Autumn-27在7月公布源码并于10月删除，但仍有副本流传；中国安全公司微步在线还出售商业专业版。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/"
+    },
+    {
+      "text": "微软称，来自中国和朝鲜的国家支持组织已将其纳入行动，包括Salt Typhoon、Crystal Typhoon、Onyx Sleet和Storm-0940。在一次案例中，智能体只用5分钟就在GitHub上找到暴露的凭证并从Azure密钥库取数；Storm-0940活动中记录了超过15.1万次失败登录，峰值达每分钟2900次。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据微软称，ARTEX并不发明新的攻击技术，而是几乎无需人工介入地操控Nmap、Sqlmap、Metasploit和无头浏览器等现有工具，并在出错或额度用尽时自动切换模型或密钥。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+      "is_primary": false,
+      "published_at": "2026-11-26T19:30:06+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T19:30:06+08:00",
+  "updated_at": "2026-11-26T19:30:06+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "微软详解国家支持黑客如何用ARTEX自动发动攻击",
+  "lead_zh": "微软威胁情报报告称，自2026年7月发布以来，人工智能框架ARTEX已被国家支持组织和犯罪团伙用于几乎无需人工介入的自动化网络攻击。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，微软威胁情报详细介绍了人工智能框架ARTEX如何被用于自动化网络攻击。该框架于2026年7月由GitHub用户Autumn-27开源，10月源码被删除，但仍有副本流传，中国安全公司微步在线还出售商业专业版。微软称，来自中国和朝鲜的国家支持组织已将其纳入行动，包括Salt Typhoon、Crystal Typhoon、Onyx Sleet和Storm-0940，犯罪团伙也在供应链等行动中使用。",
+        "系统把任务分给多个专用智能体：目标模型拆解指令，规划智能体依据不断更新的知识图谱分派短任务，工作智能体通过系统命令执行，例如部署网站后门、读取密码文件或劫持云账号。在一次案例中，智能体仅用**5**分钟就在GitHub上找到暴露的凭证并从Azure密钥库取数。Storm-0940活动中，微软记录了超过**15.1万**次失败登录，峰值达每分钟**2900**次，部分被入侵应用还自行授予最高管理权限。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "微软怎么说",
+      "paras": [
+        "微软指出，ARTEX并不发明新的攻击技术，而是几乎无需人工介入地操控Nmap、Sqlmap、Metasploit和无头浏览器等现有工具，并可接入任意大模型，包括去掉安全护栏的修改版；内置池化功能会在出错或额度用尽时自动切换模型或密钥。面对响应窗口被压缩到数分钟的局面，微软建议采用诱饵系统和伪造成功信号等欺骗战术，诱使人工智能自行中止攻击。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/c7689185eaa9b30ef1067e0baa53f6d218bf02bc.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_human_touch.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

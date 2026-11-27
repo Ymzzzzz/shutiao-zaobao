@@ -1,0 +1,77 @@
+{
+  "id": "n4ba826a45a61",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "英国金融监管机构抱怨Meta拒绝联合测试Muse",
+  "original_title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+  "summary": "英国金融行为监管局称，Meta拒绝了联合测试个人智能体Muse的建议。佩恩担心自主智能体如何代表消费者付款。Muse自9月在北美上线以来已有逾1000万用户开通，塞恩斯伯里、马莎等零售商正配合其访问网站。",
+  "facts": [
+    {
+      "text": "英国金融行为监管局创新负责人科林·佩恩表示，Meta上周拒绝了该机构关于在沙盒中联合测试Muse的建议。Muse作为个人助理已于周二在英国推出。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+    },
+    {
+      "text": "自9月在北美上线以来，已有超过1000万用户开通Muse。塞恩斯伯里、马莎百货、奥凯多、Debenhams和Currys等英国零售商表示，一直在与Meta合作，以便Muse访问其网站。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据佩恩称，这是“又一股来袭力量”，大多数智能体来自美国，监管机构希望了解它们将在市场中做什么；如果智能体自主行动，应确保符合消费者利益。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+    },
+    {
+      "text": "据Meta发言人马修·波拉德称，公司“一直在与相关监管机构建设性接触，并将继续这样做”。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "is_primary": false,
+      "published_at": "2026-11-26T18:51:27+08:00"
+    }
+  ],
+  "published_at": "2026-11-26T18:51:27+08:00",
+  "updated_at": "2026-11-26T18:51:27+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "英国金融监管机构抱怨Meta拒绝联合测试Muse",
+  "lead_zh": "英国金融行为监管局创新负责人佩恩称，Meta上周拒绝了在沙盒中联合测试个人智能体Muse的建议；该产品已于周二在英国上线。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "WIRED报道，英国金融行为监管局创新负责人科林·佩恩表示，Meta上周拒绝了该机构关于在沙盒中联合测试个人智能体Muse的建议。Muse以个人助理定位，已于周二在英国推出。英国竞争和数据监管机构也警告Meta，其人工智能产品需遵守英国消费者保护法律。",
+        "自9月在北美上线以来，已有超过**1000万**用户开通Muse。塞恩斯伯里、马莎百货、奥凯多、Debenhams和Currys等英国零售商表示，一直在与Meta合作，以便Muse访问其网站。佩恩特别希望弄清智能体将如何完成支付，并担心在用户对产品理解不足时，提示词可能带来意外后果。他称Meta直到上个月才向该局通报相关计划，而联合测试通常需要数周或数月来筹备。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "佩恩周二在Whitespace主办的一场讨论中称，这是“又一股来袭力量，智能体走上街头，其中大多数来自美国”。他随后对WIRED解释，市场上已有多家进入者，监管机构希望了解它们将做什么，“我认为这不过分”。他还说，如果智能体自主行动，应确保符合消费者利益。Meta发言人马修·波拉德则表示，公司“一直在与相关监管机构建设性接触，并将继续这样做”。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/14ceb99906ae4fa28dd8402643970f38f56b7543.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/master/pass/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
