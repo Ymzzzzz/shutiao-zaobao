@@ -35,7 +35,7 @@
     }
   ],
   "published_at": "2026-11-26T14:41:23+08:00",
-  "updated_at": "2026-11-26T14:41:23+08:00",
+  "updated_at": "2026-11-27T17:58:58+08:00",
   "status": "normal",
   "summary_mode": "ai",
   "title_zh": "Sand.ai发布4800亿参数视频模型MAGI-2并计划开源",
@@ -63,9 +63,9 @@
       ]
     }
   ],
-  "image_url": "",
-  "image_source": "",
-  "image_origin_url": "",
+  "image_url": "img/0896fdf0e4742b58223cc3fa9f2a29a2d32ec674.jpg",
+  "image_source": "量子位",
+  "image_origin_url": "https://static.magi.world/media/website/1731dec49bfb4ed50508835a2ec8ba2e9ef1a353cc12ad6f2d71f94edf48e3e1.jpg",
   "fulltext_status": "",
   "read_minutes": 0,
   "fulltext": null

@@ -35,7 +35,7 @@
     }
   ],
   "published_at": "2026-11-26T08:40:37+08:00",
-  "updated_at": "2026-11-26T08:40:37+08:00",
+  "updated_at": "2026-11-27T17:58:58+08:00",
   "status": "normal",
   "summary_mode": "ai",
   "title_zh": "Anthropic将黎曼猜想证明精简至约7.6万行",
@@ -63,9 +63,9 @@
       ]
     }
   ],
-  "image_url": "",
-  "image_source": "",
-  "image_origin_url": "",
+  "image_url": "img/a37fc70d72db70fa294acb78cd0fb45f26e4868e.jpg",
+  "image_source": "量子位",
+  "image_origin_url": "https://i.qbitai.com/wp-content/uploads/2026/11/article-image-1-33.png",
   "fulltext_status": "",
   "read_minutes": 0,
   "fulltext": null
