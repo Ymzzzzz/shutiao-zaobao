@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "generated_at": "2026-11-28T07:19:54+08:00",
+  "generated_at": "2026-11-28T07:28:31+08:00",
   "summary_mode": "ai",
   "top_items": [
     "n2d7f8b4f8454",
@@ -1009,40 +1009,66 @@
       "read_minutes": 0
     },
     {
-      "id": "n0f9957586415",
-      "category": "应用案例",
+      "id": "n82cb4b8d70c9",
+      "category": "大模型与产品",
       "importance": 1,
       "verified": false,
-      "title": "急诊医生成为医院首位临床人工智能工程师",
-      "original_title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
-      "summary": "IEEE Spectrum报道，波士顿儿童医院急诊科医生Dinesh Rai在2023年看到该院发布的提示工程师招聘后选择应聘，他当时并未指望能得到这份工作。原文大部分未能打开，完整经过仍待核对。",
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "original_title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "summary": "Quickwit查询总耗时降31%，最高降87%",
       "facts": [
         {
-          "text": "IEEE Spectrum介绍，波士顿儿童医院急诊科医生Dinesh Rai会在家中办公室同时与工程师和临床人员合作。",
-          "source": "IEEE Spectrum",
-          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai"
+          "text": "量子位报道，TabbyML将20个智能体组成的系统工程团队投入开源搜索引擎Quickwit，4天内约350次实验后保留6项优化，亿级数据测试中总热查询耗时从40.5秒降至27.9秒。",
+          "source": "量子位"
         }
       ],
-      "claims": [],
+      "claims": [
+        {
+          "text": "据报道，在1亿行数据的ClickBench测试中，热查询几何平均评分从403毫秒降至304毫秒，比Duckflight公开成绩快16%，并在数据湖类别的同口径对比中超越此前所有公开成绩。",
+          "source": "量子位"
+        }
+      ],
       "analysis": [],
       "sources": [
         {
-          "name": "IEEE Spectrum",
-          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "name": "量子位",
+          "url": "https://www.qbitai.com/2026/11/513163.html",
           "is_primary": false,
-          "published_at": "2026-11-27T22:00:01+08:00"
+          "published_at": "2026-11-27T11:53:49+08:00"
         }
       ],
-      "published_at": "2026-11-27T22:00:01+08:00",
-      "updated_at": "2026-11-27T22:00:01+08:00",
+      "published_at": "2026-11-27T11:53:49+08:00",
+      "updated_at": "2026-11-28T07:28:31+08:00",
       "status": "normal",
       "summary_mode": "ai",
-      "title_zh": "急诊医生成为医院首位临床人工智能工程师",
-      "lead_zh": "IEEE Spectrum报道，波士顿儿童医院急诊科医生在2023年应聘该院提示工程师岗位，后成为医院首位临床人工智能工程师，但原文大部分未能完整打开。",
-      "body_zh": [],
-      "image_url": "img/6f89dabe45ddfb1a2e17911507a53789399a5c61.jpg",
-      "image_source": "IEEE Spectrum",
-      "image_origin_url": "https://spectrum.ieee.org/media-library/smiling-man-in-glasses-sits-at-a-desk-surrounded-by-computer-monitors-and-gadgets.png?id=68731256&width=980",
+      "title_zh": "二十个智能体组队优化开源搜索引擎",
+      "lead_zh": "量子位报道，TabbyML让二十个智能体在四天内对开源搜索引擎Quickwit做了约350次实验，热查询总耗时下降31%，并在ClickBench同口径对比中超越此前公开成绩。",
+      "body_zh": [
+        {
+          "kind": "facts",
+          "heading": "发生了什么",
+          "sources": [
+            "量子位"
+          ],
+          "paras": [
+            "量子位报道，人工智能初创公司TabbyML把由**20**个智能体组成的系统工程团队，投入到其业务使用的开源搜索引擎Quickwit中。人类只设定优化目标和工程约束，由智能体自行寻找性能瓶颈、提出方案、设计实验并互相审查代码。Quickwit面向大规模日志和可观测性数据，底层基于Rust编写的全文搜索库Tantivy。",
+            "报道称，这支团队在**4**天内自主开展约**350**次工程实验，最终保留**6**项通过审查的优化。在亿级数据测试中，总热查询耗时从**40.5**秒降至**27.9**秒，下降**31%**，部分查询耗时降幅高达**87%**。智能体主要围绕缓存配置、数据结构、解压缩器复用和内存分配等环节优化，并未重新设计整个搜索引擎。"
+          ]
+        },
+        {
+          "kind": "claims",
+          "heading": "报道怎么说",
+          "sources": [
+            "量子位"
+          ],
+          "paras": [
+            "据报道，在包含**1**亿行数据的ClickBench测试集上，智能体对Quickwit支持的**40**条查询做了优化，热查询几何平均评分从**403**毫秒降至**304**毫秒。按同一组查询重算，优化后的成绩比Duckflight公开成绩的**354**毫秒快**16%**；报道称，在数据湖类别的同口径热查询评分对比中，优化后的Quickwit超越了此前所有公开成绩。"
+          ]
+        }
+      ],
+      "image_url": "",
+      "image_source": "",
+      "image_origin_url": "",
       "fulltext_status": "",
       "read_minutes": 0
     },
