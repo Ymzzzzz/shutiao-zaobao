@@ -1,0 +1,67 @@
+{
+  "id": "n63f7c1abbb4c",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "GTA6主机首发后，编程智能体加速非官方PC移植",
+  "original_title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+  "summary": "GTA6在PlayStation和Xbox上创下约37.9亿美元首日营收后不久，Xbox版被泄露。报道称已有约40个项目借助编程智能体推进PC逆向移植，目前仍没有面向公众的完成版。",
+  "facts": [
+    {
+      "text": "报道称GTA6在PS5和Xbox上的首日营收约37.9亿美元，此后黑客组织分发了被盗的Xbox镜像，游戏可执行文件也已泄露。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据一家追踪平台称，可执行文件泄露后不到四天，已有40个活跃项目，近一半能在PC上启动游戏。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "is_primary": false,
+      "published_at": "2026-11-27T23:37:47+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T23:37:47+08:00",
+  "updated_at": "2026-11-27T23:37:47+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "GTA6主机首发后，编程智能体加速非官方PC移植",
+  "lead_zh": "报道称，GTA6主机首日营收约37.9亿美元后不久Xbox版被泄露，已有约40个项目借助编程智能体推进非官方PC移植。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder报道，Grand Theft Auto VI在PlayStation 5和Xbox Series X|S上迎来历史性首发，首日营收估计约**37.9**亿美元。一天后，黑客组织CyberLeek分发了被盗的Xbox镜像，游戏可执行文件也在几天前泄露。此后，开发者和模组作者迅速尝试通过逆向工程、兼容层和重新编译，让游戏在Windows上运行。",
+        "报道写到，Anthropic的Claude Code等编程智能体明显加快了这一进度，有团队甚至直播移植过程。目前仍没有面向普通玩家的完整PC版，较稳定的构建也不完整，多在封闭圈子流传，或需要较多技术能力。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据一家追踪平台称，可执行文件泄露后不到**4**天，已有**40**个活跃项目，近一半能在PC上启动游戏，进度最靠前的项目按该平台评分已超过可玩构建的**90%**。**11**月**26**日还出现非官方PC多人模式片段，经平台运营方核实，画面中多名玩家驾车并语音聊天，帧率约**25**至**30**帧。官方目前只推出单机，线上模式尚无日期。报道还提到，GTA V隔了约**19**个月才上PC，荒野大镖客2约一年，GTA6正式PC版日期仍未公布。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

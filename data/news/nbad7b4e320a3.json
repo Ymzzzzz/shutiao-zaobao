@@ -1,0 +1,67 @@
+{
+  "id": "nbad7b4e320a3",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "彭博：SAP拟在人工智能转型中至少裁员一万",
+  "original_title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+  "summary": "彭博援引知情人士报道，SAP准备在一轮人工智能重组中裁减至少1万个岗位，约占全球逾11万名员工的9%，产品开发、工程和销售受影响最大。公司目前尚未证实最终数字。",
+  "facts": [
+    {
+      "text": "彭博援引知情人士报道，SAP准备在人工智能重组中裁减至少1万个岗位，约占其全球逾11万名员工的9%。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据知情人士称，各部门都被要求寻找节省开支的办法，产品开发、工程和销售受冲击最大，最终数字还可能在与员工代表谈判后调整。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "is_primary": false,
+      "published_at": "2026-11-27T22:57:25+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T22:57:25+08:00",
+  "updated_at": "2026-11-27T22:57:25+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "彭博：SAP拟在人工智能转型中至少裁员一万",
+  "lead_zh": "彭博援引知情人士报道，SAP准备在人工智能重组中至少裁员1万，约占全球逾11万名员工的9%，公司尚未证实最终数字。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder转述彭博报道称，软件公司SAP正准备在一轮人工智能重组中裁减至少**1**万个岗位，相当于其全球逾**11**万名员工的至少**9%**。该公司**2024**年已大约裁过**1**万个岗位。在员工约占四分之一的德国，现有工作保障持续到**2028**年。",
+        "报道还列举了同行动向：甲骨文在**12**个月内裁减**2.1**万个岗位，微软正向约**6**万名员工提供买断。SAP近期宣布与Mistral AI合作，并收购了多家初创公司。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "各方怎么说",
+      "paras": [
+        "据知情人士称，各部门都被要求找出可节省的开支，产品开发、工程和销售受冲击最大；最终人数尚未确定，还可能在与员工代表谈判后调整。首席执行官Christian Klein希望把人工智能工具嵌入SAP的产品线。SAP拒绝就可能的裁员置评，只表示会持续审视组织架构。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

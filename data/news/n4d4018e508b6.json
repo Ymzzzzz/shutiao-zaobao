@@ -1,0 +1,67 @@
+{
+  "id": "n4d4018e508b6",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "三篇新研究继续为LeCun的世界模型路线提供论据",
+  "original_title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+  "summary": "Yann LeCun认为仅靠语言模型走不到类人智能，正通过巴黎创业公司推进能刻画因果并预先规划行动的世界模型。报道称有三篇新研究展示了这条路线如何衔接，以及物理规律仍构成哪些限制。",
+  "facts": [
+    {
+      "text": "Yann LeCun在2025年末离开Meta，随后于巴黎联合创办AMI Labs，并筹集了超过10亿美元资金。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据The Decoder称，LeCun把公司越来越聚焦大语言模型列为离职原因之一，转而关注可在物理世界运行的系统。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+      "is_primary": false,
+      "published_at": "2026-11-28T00:58:56+08:00"
+    }
+  ],
+  "published_at": "2026-11-28T00:58:56+08:00",
+  "updated_at": "2026-11-28T00:58:56+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "三篇新研究继续为LeCun的世界模型路线提供论据",
+  "lead_zh": "报道称，Yann LeCun离开Meta后在巴黎推进世界模型架构，三篇新研究展示了这条路线如何衔接，以及物理规律仍构成哪些限制。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "人工智能研究者Yann LeCun不认为只靠语言模型就能走向类人智能。他提出的JEPA架构，目标是让机器建立能刻画因果、并提前规划行动的内部世界模型。The Decoder报道，现有三篇新研究展示了这一项目的各部分如何衔接，以及物理规律仍会在哪些地方构成限制。",
+        "报道写到，LeCun在**2025**年末离开Meta，此前他在那里主导人工智能研究达**12**年，随后于巴黎联合创办AMI Labs，并筹集了超过**10**亿美元资金。与许多公司继续训练更大规模聊天模型不同，他目前关注的是面向机器人、工业和可穿戴设备、能够在物理世界运行的系统。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据该报道称，LeCun把Meta越来越聚焦大语言模型列为离职原因之一。需要注意的是，现有公开摘录并未展开这三篇研究的具体实验数据和结论，因此还不能据此判断世界模型路线已经在哪些指标上胜过大语言模型。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/cb84433f86f352aefb163c0beda10846952e9cbe.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/lecun_wireframe.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

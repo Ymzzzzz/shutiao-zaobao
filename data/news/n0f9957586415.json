@@ -1,0 +1,39 @@
+{
+  "id": "n0f9957586415",
+  "category": "应用案例",
+  "importance": 1,
+  "verified": false,
+  "title": "急诊医生成为医院首位临床人工智能工程师",
+  "original_title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+  "summary": "IEEE Spectrum报道，波士顿儿童医院急诊科医生Dinesh Rai在2023年看到该院发布的提示工程师招聘后选择应聘，他当时并未指望能得到这份工作。原文大部分未能打开，完整经过仍待核对。",
+  "facts": [
+    {
+      "text": "IEEE Spectrum介绍，波士顿儿童医院急诊科医生Dinesh Rai会在家中办公室同时与工程师和临床人员合作。",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai"
+    }
+  ],
+  "claims": [],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+      "is_primary": false,
+      "published_at": "2026-11-27T22:00:01+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T22:00:01+08:00",
+  "updated_at": "2026-11-27T22:00:01+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "急诊医生成为医院首位临床人工智能工程师",
+  "lead_zh": "IEEE Spectrum报道，波士顿儿童医院急诊科医生在2023年应聘该院提示工程师岗位，后成为医院首位临床人工智能工程师，但原文大部分未能完整打开。",
+  "body_zh": [],
+  "image_url": "img/6f89dabe45ddfb1a2e17911507a53789399a5c61.jpg",
+  "image_source": "IEEE Spectrum",
+  "image_origin_url": "https://spectrum.ieee.org/media-library/smiling-man-in-glasses-sits-at-a-desk-surrounded-by-computer-monitors-and-gadgets.png?id=68731256&width=980",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

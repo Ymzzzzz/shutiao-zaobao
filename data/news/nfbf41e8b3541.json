@@ -1,0 +1,67 @@
+{
+  "id": "nfbf41e8b3541",
+  "category": "政策与安全",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI反诉苹果窃密并施压共同供应商",
+  "original_title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+  "summary": "据金融时报报道，OpenAI周五在加利福尼亚州法院起诉苹果，指控其窃取商业秘密、胁迫共用供应商，并利用市场地位压制竞争。这场反诉紧跟苹果今夏对前员工泄密提起的诉讼而来。",
+  "facts": [
+    {
+      "text": "金融时报报道，OpenAI周五在加州法院起诉苹果，指控其窃取商业秘密和不正当商业行为。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据OpenAI称，苹果胁迫和威胁与两家公司都有合作的供应商，并利用市场地位压制竞争。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "is_primary": false,
+      "published_at": "2026-11-28T03:38:37+08:00"
+    }
+  ],
+  "published_at": "2026-11-28T03:38:37+08:00",
+  "updated_at": "2026-11-28T03:38:37+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI反诉苹果窃密并施压共同供应商",
+  "lead_zh": "据金融时报报道，OpenAI周五在加州起诉苹果，指控其窃取商业秘密并胁迫共用供应商，此举是对苹果今夏诉讼的反诉。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder援引金融时报报道称，ChatGPT开发商OpenAI周五在加州法院起诉苹果，指控其窃取商业秘密和不正当商业行为。这场诉讼是反诉：苹果已在今夏起诉多名前员工，称其向OpenAI泄露机密信息。就在两年多前，两家公司还高调宣布把ChatGPT接入iPhone。",
+        "报道还提到，OpenAI此前已完成对苹果前首席设计师乔纳森·艾维工作室io总价**64**亿美元的收购，并在筹备可与苹果竞争的自有设备。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "当事方怎么说",
+      "paras": [
+        "据OpenAI在诉状中称，苹果对同时为两家公司供货的厂商进行“胁迫和威胁”，并利用市场地位压制竞争。该公司还指控苹果鼓励员工把公司数据存在个人设备上，再拿这套做法对付想离职的人。诉状称，一名前OpenAI员工回到苹果后，转交了有关产品计划和供应商的细节。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/e9f27bc7ab11c8d0ac991b11980b835b5c57ae8b.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/openai_apple.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

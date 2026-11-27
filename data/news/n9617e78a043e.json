@@ -1,0 +1,89 @@
+{
+  "id": "n9617e78a043e",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "一篇论文提出把连续时间写进神经元的新计算单元",
+  "original_title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+  "summary": "一篇预印本提出阻尼原子波积分神经元，用来替换常见网络中的标准层，并以闭式阻尼演化处理不规则时间观测，不必再调用数值微分方程求解器。作者称在11项任务中多数优于对照方法。",
+  "facts": [
+    {
+      "text": "该研究提出阻尼原子波积分神经元DAWIN，把空间投影与随时间变化的波激发耦合，再用闭式阻尼演化写入局部复值状态。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30025"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据论文称，在11项参数匹配任务中，该方法有9项优于Neural CDE、8项优于ReLU-MLP，并在B200上把并行推理最高加速到串行实现的2630倍。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30025"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30025",
+      "is_primary": true,
+      "published_at": "2026-11-27T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T08:00:00+08:00",
+  "updated_at": "2026-11-27T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "一篇论文提出把连续时间写进神经元的新计算单元",
+  "lead_zh": "一篇预印本提出连续时间时空学习的通用神经元DAWIN，用闭式阻尼演化处理不规则观测，并在11项任务中多数优于对照方法。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "一篇发布在预印本平台的论文指出，常规人工神经元把空间特征聚合与连续物理时间分开，难以刻画不规则观测。作者提出阻尼原子波积分神经元DAWIN，把空间投影与随已过时间变化的波激发耦合，再通过闭式阻尼演化写入局部复值状态，从而不必使用数值微分方程求解器。",
+        "该方法被设计成可替换多层感知机、Transformer和图网络中的标准层。作者还推导了闭式梯度，并说明在阻尼为正、采样间隔远离零时，系统满足有界输入有界输出稳定性。配套实现DAWINLinear采用关联的Triton前缀扫描和FP32累加，对长度为L的序列，并行深度为O(log L)。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "论文怎么说",
+      "paras": [
+        "据论文称，在覆盖不规则振荡、MuJoCo动力学、行人轨迹和PhysioNet 2012临床序列的**11**项参数匹配任务中，DAWIN有**9**项优于Neural CDE、**8**项优于ReLU-MLP；在密集临床动态上取得最低误差（**0.9531** NRMSE，**10**个随机种子全部取胜），死亡率预测以**0.9993** AUROC并列最优。打乱时间间隔后，部分动力学任务误差上升**58.2%**至**77.4%**。在英伟达B200上，并行波积分推理最高可较串行实现加速**2630**倍，峰值显存较Mamba最多降低**97.6%**。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/450c3c74229f024b9c8ed013f486b9b55eff38b3.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.30025.png",
+  "fulltext_status": "abstract_only",
+  "read_minutes": 0,
+  "fulltext": {
+    "status": "abstract_only",
+    "source_lang": "en",
+    "author": "Byunggu Yu, Justin Kim",
+    "author_title_zh": "",
+    "published_at": "2026-11-23",
+    "title_en": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+    "title_zh": "阻尼原子波积分神经元（DAWIN）：一种用于连续时间时空学习的通用基元",
+    "dek_en": "",
+    "dek_zh": "",
+    "word_count_zh": 491,
+    "read_minutes": 2,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "传统人工神经元把空间特征聚合与连续的物理时间分开，限制了它们对非均匀观测建模的能力。我们提出阻尼原子波积分神经元（DAWIN），这是一种连续时间基元，可在 MLP、Transformer 和图神经网络中替换标准神经层。DAWIN 将空间投影与依赖已过时间的波激励耦合，并通过闭式阻尼演化将其积分到局部复状态中，从而避免数值微分方程求解器。我们证明，DAWIN 在间隔增强的输入上可推广静态正弦神经元和无记忆波神经元，推导了闭式梯度，并在正阻尼且采样间隔有下界、不为零的条件下建立了有界输入有界输出稳定性。一种结合性的 Triton 前缀扫描实现 DAWINLinear 使用 FP32 累加，并在序列长度 L 上达到 O(log L) 的并行深度。在 11 项参数匹配的任务中，覆盖非均匀振荡器、MuJoCo 动力学、行人轨迹和 PhysioNet 2012 临床序列，DAWIN 在 9 项任务上优于 Neural CDE，在 8 项任务上优于 ReLU-MLP。它在稠密临床动力学上取得最低误差（0.9531 NRMSE，在全部 10 个种子上都获胜），并在死亡预测上并列最佳（0.9993 AUROC）。打乱已过时间间隔后，在选定的动力学任务上误差增加 58.2%-77.4%，而在一个与时间无关的对照任务上仅增加 0.06%，支持其对物理时间的依赖。在 NVIDIA B200 GPU 上，并行波积分相对其串行实现最多可将推理加速 2,630 倍，并在测试配置中相对 Mamba 最多将峰值 GPU 内存降低 97.6%。",
+        "en": "Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integration Neuron (DAWIN), a continuous-time primitive for replacing standard neural layers in MLPs, Transformers, and graph neural networks. DAWIN couples spatial projection with elapsed-time-dependent wave excitation and integrates it into a local complex state through closed-form damped evolution, avoiding numerical differential equation solvers. We show that DAWIN generalizes static sinusoidal and memoryless wave neurons on interval-augmented inputs, derive closed-form gradients, and establish bounded-input bounded-output stability for positive damping and sampling intervals bounded away from zero. An associative Triton prefix-scan implementation, DAWINLinear, uses FP32 accumulation and achieves O(log L) parallel depth for sequence length L. Across 11 parameter-matched tasks covering irregular oscillators, MuJoCo dynamics, pedestrian trajectories, and PhysioNet 2012 clinical sequences, DAWIN outperforms Neural CDE on 9 tasks and ReLU-MLP on 8. It achieves the lowest error on dense clinical dynamics (0.9531 NRMSE, winning across all 10 seeds) and ties for the best mortality prediction (0.9993 AUROC). Shuffling elapsed intervals increases error by 58.2%-77.4% on selected dynamics tasks, versus 0.06% on a time-irrelevant control, supporting reliance on physical timing. On NVIDIA B200 GPUs, parallel wave integration accelerates inference by up to 2,630 times over its serial implementation and reduces peak GPU memory by up to 97.6% relative to Mamba in the tested configurations."
+      }
+    ],
+    "note": "arXiv 只读摘要页，翻译的是摘要"
+  }
+}

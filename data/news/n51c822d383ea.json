@@ -1,0 +1,67 @@
+{
+  "id": "n51c822d383ea",
+  "category": "芯片与算力",
+  "importance": 1,
+  "verified": false,
+  "title": "彭博：上海机房出现受禁的英伟达高端芯片",
+  "original_title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+  "summary": "彭博根据递交监管部门的文件报道，两家上海公司在与Alice Huang有关的数据中心部署了受美国出口限制的英伟达Blackwell芯片，其中一套机柜还被用于抵押9600万元贷款。",
+  "facts": [
+    {
+      "text": "彭博查阅中方监管文件后报道，上海朔曜将一套GB300-NVL72机柜作为9600万元贷款抵押，另一家公司上海克展在同一地点列出GB200服务器。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据彭博称，未经美国许可向中国出口这些芯片是被禁止的，并通过序列号把机柜追溯到台湾厂商技嘉。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+      "is_primary": false,
+      "published_at": "2026-11-28T02:27:02+08:00"
+    }
+  ],
+  "published_at": "2026-11-28T02:27:02+08:00",
+  "updated_at": "2026-11-28T02:27:02+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "彭博：上海机房出现受禁的英伟达高端芯片",
+  "lead_zh": "彭博根据监管文件报道，两家上海公司在与Alice Huang有关的数据中心部署了受美国出口限制的英伟达高端芯片，其中一套机柜被用于贷款抵押。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder转述彭博调查称，两家中国公司在上海一座与Alice Huang有关的数据中心，安装了英伟达高性能Blackwell芯片。依据递交监管部门的文件，上海朔曜把一套GB300-NVL72机柜作为向上海创新银行贷款**9600**万元（约**1400**万美元）的抵押，另一家公司上海克展则在同一地点的贷款文件中列出GB200服务器。",
+        "彭博还写到，通过公开保修数据库中的序列号，将该机柜追溯到台湾厂商技嘉。报道称，上海朔曜与新加坡公司Megaspeed关系密切；美国特朗普政府本月以涉嫌走私芯片为由，把Megaspeed列入贸易黑名单。Alice Huang于**2023**年创办该公司，英伟达在**4**天内批准其成为合作伙伴。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据彭博称，未经美国许可向中国出口这些芯片是被禁止的。该机构还报道，Megaspeed后来成为英伟达在东南亚的最大客户。The Decoder写道，新收紧的美国出口规则和防扩散措施，已开始给中国人工智能初创公司带来困扰。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "img/56e1cedff457ba483cf17002da29f8f3a6c5552a.jpg",
+  "image_source": "The Decoder",
+  "image_origin_url": "https://the-decoder.com/wp-content/uploads/2026/11/jensen_huang_china.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

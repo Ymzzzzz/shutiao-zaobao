@@ -1,0 +1,67 @@
+{
+  "id": "n355eb2e5ee20",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "德国公司用光波芯片为人工智能做复杂非线性计算",
+  "original_title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+  "summary": "《连线》报道，德国公司Q.ANT开发光子处理器，用光波完成复杂的非线性计算，以降低模型能耗。该公司已把芯片投入云厂商IONOS的试点机房，目标是与图形处理器协同，而不是取而代之。",
+  "facts": [
+    {
+      "text": "德国公司Q.ANT开发光子处理器，用光波进行计算，并已将芯片投入云厂商IONOS运营的机房开展试点。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据该公司称，目前有超过30个工程师团队在开发针对光子计算优化的人工智能模型。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "is_primary": false,
+      "published_at": "2026-11-27T15:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T15:00:00+08:00",
+  "updated_at": "2026-11-27T15:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "德国公司用光波芯片为人工智能做复杂非线性计算",
+  "lead_zh": "《连线》报道，德国公司开发用光波做复杂非线性计算的处理器，并已投入云厂商的试点机房，目标是与现有加速芯片协同而非取代。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "《连线》报道，随着人工智能能耗和电费上升，一些硬件创业公司改从芯片本身入手。德国公司Q.ANT开发光子处理器，用光波而不是电子来传输和处理数据。报道写到，光在传播时不产生热量，并且能同时处理更多数据，因此这类芯片被认为能耗更低，对冷却的需求也更小，而冷却正是数据中心的主要成本之一。",
+        "这类芯片目前很少进入数据中心。Q.ANT已把产品投入云公司IONOS运营的设施做试点。目标不是用光子处理器取代图形处理器，而是两者并用：后者擅长大量加减乘等线性运算，前者更适合复杂的非线性计算。《连线》本月还采访了该公司创始人兼首席执行官Michael Förtsch，讨论能源瓶颈和推广新硬件的挑战。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "公司怎么说",
+      "paras": [
+        "据Q.ANT称，目前有超过**30**个工程师团队在开发针对光子计算优化的人工智能模型。Förtsch在访谈中把要解决的核心问题概括为：巨大能耗所带来的成本。需要注意的是，报道讨论的是技术路线和试点，并不等于这类芯片已经在大规模生产中证明了全面的节能效果。"
+      ],
+      "sources": [
+        "WIRED"
+      ]
+    }
+  ],
+  "image_url": "img/7b172d231bacc24011aae260794680874008d2f0.jpg",
+  "image_source": "WIRED",
+  "image_origin_url": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

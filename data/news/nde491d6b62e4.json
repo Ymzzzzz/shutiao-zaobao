@@ -1,0 +1,89 @@
+{
+  "id": "nde491d6b62e4",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "一篇论文提出双向对齐的语音语义声学分词方法",
+  "original_title": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+  "summary": "一篇预印本提出BiSAT，把语义和声学放到两个分支里分别编码，再用共享索引输出单一离散码流，避免挤在同一特征空间里互相干扰。作者还据此训练了零样本语音合成系统BiSAT-TTS。",
+  "facts": [
+    {
+      "text": "该研究提出双向对齐的语义-声学分词方法BiSAT，用两个分支和共享索引生成单一离散码流。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30723"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据论文称，基于该方法的BiSAT-TTS在训练数据更少的情况下，仍能达到或超过现有语音语言模型配语音合成基线。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30723"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30723",
+      "is_primary": true,
+      "published_at": "2026-11-27T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T08:00:00+08:00",
+  "updated_at": "2026-11-27T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "一篇论文提出双向对齐的语音语义声学分词方法",
+  "lead_zh": "一篇预印本提出BiSAT，用共享索引同时保留语音的语义和声学信息，并据此训练了数据量更少的零样本语音合成系统。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "一篇预印本关注语音语言模型的分词器：这类模型把语音写成离散符号序列，因此既要在较低码率下保住声学细节，也要保住语言内容。作者认为，偏重语义的分词可能丢掉声学细节，偏重声学的分词又会留下不利于语言建模的变化；若把两者塞进同一特征空间，还可能互相干扰。",
+        "为此，论文提出双向对齐的语义-声学分词方法BiSAT：训练时语义、声学各有编码器、码本和解码器，每一帧用共享索引去最小化两路量化误差，从而在分开的连续空间里学习表示，却只输出一条离散码流，也不依赖固定的冻结语义教师。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "论文怎么说",
+      "paras": [
+        "据论文称，重建、冻结码理解和诊断分析显示，BiSAT能在低码率的单一码流中保留可读取的语言与声学结构，并对野外和域外语音有较强泛化。基于它的BiSAT-TTS把自回归文本-语音语言模型与条件流匹配声学解码器搭配，用于零样本语音合成；作者称其在训练数据更少的情况下，仍能达到或超过现有基于语音语言模型的合成基线，并认为对自回归建模更有帮助的是码的可读取结构，而不只是重建质量。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/ad2614e10c3404ff425b5feb27da3fbb60fd83df.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.30723.png",
+  "fulltext_status": "abstract_only",
+  "read_minutes": 0,
+  "fulltext": {
+    "status": "abstract_only",
+    "source_lang": "en",
+    "author": "Y. Lu, L. Wang, S. Okada",
+    "author_title_zh": "",
+    "published_at": "2026-11-23",
+    "title_en": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+    "title_zh": "BiSAT：面向语音语言模型的双向对齐语义-声学分词",
+    "dek_en": "",
+    "dek_zh": "",
+    "word_count_zh": 507,
+    "read_minutes": 2,
+    "omitted_note": "",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "语音语言模型（LM）将语音生成为离散 token 序列，因此需要能在低比特率下同时保留声学细节和语言内容的分词器。偏重语义的分词器可能会丢掉声学细节，而偏重声学的分词器会保留妨碍语言建模的声学变化。统一分词器将二者结合，但在单一特征空间中编码它们可能造成干扰，现有方法通常将声学特征对齐到来自冻结语义教师的固定目标。我们提出双向对齐的语义-声学分词（BiSAT），这是一个统一框架，具有通过共享索引机制耦合的独立声学分支和语义分支。训练时，每个分支都有自己的编码器、码本和解码器，并且在每一帧上，一个共享索引会最小化两个分支的组合量化误差。因此，BiSAT 在分离的连续空间中学习声学和语义表示，同时产生单一的离散码流，并在没有固定语义教师的情况下联合优化两个编码器。在 BiSAT 之上，BiSAT-TTS 将一个自回归文本-语音 LM 与一个条件流匹配声学解码器配对，用于零样本文本转语音。重建、冻结码理解以及诊断分析表明，BiSAT 在低比特率的单一码流中保留了可访问的语言和声学结构，对野外和域外语音具有很强的泛化能力，并学习到互补的成对码本。BiSAT-TTS 以更少的训练数据达到或超过基于语音 LM 的先进 TTS 基线，表明有利于自回归语音建模的是可访问的码结构，而不仅仅是重建质量。音频演示可在 this https URL 获取。",
+        "en": "Speech language models (LMs) generate speech as sequences of discrete tokens, requiring tokenizers that preserve both acoustic detail and linguistic content at a low bitrate. Semanticenhanced tokenizers may discard acoustic detail, whereas acousticoriented tokenizers retain acoustic variation that hinders language modeling. Unified tokenizers combine both, but encoding them within a single feature space can cause interference, and existing methods typically align acoustic features to fixed targets from a frozen semantic teacher. We propose Bidirectionally Aligned Semantic-Acoustic Tokenization (BiSAT), a unified framework with separate acoustic and semantic branches coupled by a shared-index mechanism. During training, each branch has its own encoder, codebook, and decoder, and at every frame a shared index minimizes the combined quantization error across both branches. BiSAT thus learns acoustic and semantic representations in separate continuous spaces while producing a single discrete code stream, jointly optimizing both encoders without fixed semantic teachers. Built on BiSAT, BiSAT-TTS pairs an autoregressive text-speech LM with a conditional flow-matching acoustic decoder for zero-shot text-to-speech. Reconstruction, frozen-code understanding, and diagnostic analyses show that BiSAT preserves accessible linguistic and acoustic structure in a low-bitrate single stream, generalizes strongly to in-thewild and out-of-domain speech, and learns complementary paired codebooks. BiSAT-TTS matches or surpasses state-of-the-art speech LM-based TTS baselines with less training data, demonstrating that accessible code structure, not reconstruction quality alone, benefits autoregressive speech modeling. The audio demos are available at this https URL."
+      }
+    ],
+    "note": "arXiv 只读摘要页，翻译的是摘要"
+  }
+}

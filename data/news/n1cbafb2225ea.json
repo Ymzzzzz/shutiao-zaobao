@@ -1,0 +1,67 @@
+{
+  "id": "n1cbafb2225ea",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "OpenAI打造Athena数据平台，减少智能体猜数",
+  "original_title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+  "summary": "The Information报道，OpenAI正以Athena为代号建设类似语义层的数据管理平台，为智能体提供营收、客户数等指标的统一口径。平台仍在早期开发，公司和定价时间表尚未公布。",
+  "facts": [
+    {
+      "text": "The Information报道，OpenAI正以Athena为代号建设数据管理平台，为智能体提供业务指标的统一定义。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据一名知情人士称，公司正用该平台训练能够收集、记录和更新业务规则的智能体，避免每次都从零开始。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "is_primary": false,
+      "published_at": "2026-11-28T00:05:23+08:00"
+    }
+  ],
+  "published_at": "2026-11-28T00:05:23+08:00",
+  "updated_at": "2026-11-28T00:05:23+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "OpenAI打造Athena数据平台，减少智能体猜数",
+  "lead_zh": "报道称，OpenAI正以Athena为代号建设语义层，给智能体提供营收等业务指标的统一口径，该平台目前仍处于早期开发。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Decoder援引The Information报道称，OpenAI正在建设代号为Athena的数据管理平台，希望提高其智能体处理企业数据时的准确性。该平台类似语义层，也就是为营收、客户数等业务指标提供一致定义的软件。Snowflake和Databricks等数据平台已有各自的语义层。",
+        "报道写到，至少有一名客户认为，去年秋天推出的ChatGPT Work数据分析智能体还不够准确。Athena目前仍处于早期开发，OpenAI尚未公布时间表或定价。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据一名知情人士称，OpenAI正用Athena打造能够收集、记录和更新业务规则的智能体，好让其他智能体不必每次都从零开始。报道认为，更换语义层供应商往往比更换人工智能模型更难，因此该平台也可能被用来强化竞争优势。这些判断目前都还缺少官方确认。"
+      ],
+      "sources": [
+        "The Decoder"
+      ]
+    }
+  ],
+  "image_url": "",
+  "image_source": "",
+  "image_origin_url": "",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

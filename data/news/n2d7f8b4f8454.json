@@ -1,0 +1,373 @@
+{
+  "id": "n2d7f8b4f8454",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": true,
+  "title": "用Trainium3生成带声音视频，10秒约23秒出片",
+  "original_title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "summary": "因与亚马逊云合作，作者获准使用一台Trainium3机器约一个月，并用可同时生成画面和声音的模型做试验。他写道，模型加载后，用一半机器生成10秒、2048×1024的带声片段约需22至23秒。",
+  "facts": [
+    {
+      "text": "作者因所属团队与亚马逊云合作，获准使用一台trn3.48xlarge、配备64个NeuronCore的Trainium3机器约一个月。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/video-trainium3"
+    },
+    {
+      "text": "他用Lightricks的LTX-2.5同时生成画面和声音，称模型加载后在一半机器上生成10秒、2048×1024片段约需22至23秒。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/video-trainium3"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据Lightricks称，其在线接口生成10秒1080p片段需23.7秒；在四块B200上生成10秒720p片段需6.8秒。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/video-trainium3"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "is_primary": true,
+      "published_at": "2026-11-27T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T08:00:00+08:00",
+  "updated_at": "2026-11-27T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "用Trainium3生成带声音视频，10秒约23秒出片",
+  "lead_zh": "作者在亚马逊云的Trainium3机器上试验可同时生成画面与声音的视频模型，称加载完成后，用一半机器约22至23秒即可生成10秒、2048×1024的片段。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "Hugging Face因与亚马逊云合作，获准使用一台Trainium3机器（型号trn3.48xlarge，配备**64**个NeuronCore）约一个月，主要用于测试其模型能否在该芯片上运行。作者写到，在只剩**5**天时，他改用Lightricks的LTX-2.5做视频生成试验，该模型可以同时生成画面和声音。",
+        "作者称，模型加载完成后，在一半机器上生成一段**10**秒、带声音、分辨率为**2048×1024**的片段，大约需要**22至23**秒。输入是一份类似分镜的JSON镜头列表，每个镜头有名称和较长提示词，并可用from、to把前后镜头的首尾帧衔接起来；从上一镜最后**25**帧（约**1**秒）起笔，还可以延续动作。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "作者怎么对比",
+      "paras": [
+        "据文中转述，LTX在线接口生成**10**秒**1080p**片段需要**23.7**秒，作者称自己的结果还快约**1**秒。另据Lightricks称，在**4**块B200 GPU上生成**10**秒**720p**片段只需**6.8**秒，但测量细节并未公布，因此作者没有把它作为主要对照。"
+      ],
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    }
+  ],
+  "image_url": "img/ad4245004760200d1a4753a9187e30cf653526af.jpg",
+  "image_source": "Hugging Face Blog",
+  "image_origin_url": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg",
+  "fulltext_status": "ok",
+  "read_minutes": 9,
+  "fulltext": {
+    "status": "ok",
+    "source_lang": "en",
+    "author": "",
+    "author_title_zh": "",
+    "published_at": "2026-11-26",
+    "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "title_zh": "把 Trainium3 开上赛道：用 LTX-2.5 生成视频",
+    "dek_en": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "dek_zh": "我们正通过开源与开放科学，推动并普及人工智能。",
+    "word_count_zh": 3462,
+    "read_minutes": 9,
+    "omitted_note": "原文另有 3 个表格、1 段代码，未收录",
+    "disclaimer_zh": "本文由 AI 按原文正文逐段翻译，表格、代码等内容可能未收录；如有出入以原文为准。图片与视频版权归原作者，仅供个人学习交流。",
+    "blocks": [
+      {
+        "t": "p",
+        "zh": "得益于我们与 AWS 的合作，我们有幸使用一台 Trainium3 机器（trn3.48xlarge，64 个 NeuronCores）长达一个月。这个月的大部分时间，我们都在上面测试 Hugging Face 的模型，并让更多模型能够运行。",
+        "en": "Thanks to our partnership with AWS, we were lucky enough to get access to a Trainium3 machine (trn3.48xlarge, 64 NeuronCores) for a month. We spent most of the month testing Hugging Face models on it, and getting more of them to work."
+      },
+      {
+        "t": "p",
+        "zh": "还剩五天时，我允许自己找点乐子。当你有一辆法拉利时，总想时不时把它开上赛道。于是我问自己：如果试着生成视频会怎样？",
+        "en": "With five days left, I allowed myself a little fun. When you have a Ferrari, every now and then you want to take it out on the track. So I asked myself: what if I tried to generate videos?"
+      },
+      {
+        "t": "p",
+        "zh": "我选了 Lightricks 的 LTX-2.5，它能同时生成视频和声音。到最后，模型加载完成后，一段带声音的 10 秒片段在半台机器上生成需要 22 到 23 s。下面是结果。",
+        "en": "I picked LTX-2.5 from Lightricks, which generates video and sound together. By the end, once the models were loaded, a 10-second clip with sound took 22 to 23 s to generate, on half of the machine. Here is the result."
+      },
+      {
+        "t": "video",
+        "poster": "img/fulltext/2bc4ae944acafa2e170d8f5c1e787a7ca97d68c5.jpg",
+        "origin_url": "https://huggingface.co/buckets/dacorvo/video-generation/resolve/entertainment/seal.mp4",
+        "caption_zh": "海豹短片，用 LTX-2.5 在 Trainium3 上制作",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 375
+      },
+      {
+        "t": "h",
+        "zh": "两个目标",
+        "en": "Two goals"
+      },
+      {
+        "t": "p",
+        "zh": "我有两个目标。第一是看看在 Trainium3 上用 diffusers 生成视频有多容易。不是示例里的简单片段：我想根据脚本制作短片，更接近真实用途，比如起草一部电影。第二是性能。我想尽量接近 CUDA 或 LTX 自有 API 所能达到的水平。",
+        "en": "I had two goals. The first was to see how easy it is to generate videos with diffusers on Trainium3. Not the simple clips from the examples: I wanted to make short films from a script, closer to a real use case, like drafting a movie. The second was performance. I wanted to get close to what you get with CUDA, or with LTX's own API."
+      },
+      {
+        "t": "p",
+        "zh": "至于 CUDA，我找不到真正可以对比的数字。唯一的数字是 LTX 宣称在四块 B200 GPU 上生成一段 10 秒的 720p 片段只需 6.8 s，但没有说明是如何测量的。于是我把 CUDA 搁在一边，转而与 LTX 的在线 API 比较，LTX 称该 API 生成一段 10 秒的 1080p 片段需要 23.7 s。最终，这套配置与之相当，甚至还快了大约一秒：模型加载完成后，在半台机器上生成一段 2048×1024 的 10 秒片段需要 22 到 23 s。考虑到我几乎没多少时间优化流水线，这个结果已经不错了。",
+        "en": "For CUDA, I found no real figure to compare against. The only one is LTX's claim of 6.8 s for a 10-second 720p clip on four B200 GPUs, with no detail on how it was measured. So I set CUDA aside and compared with LTX's online API instead, which LTX says makes a 10-second 1080p clip in 23.7 s. In the end, the setup matches it, and even beats it by about a second: 22 to 23 s for a 10-second clip at 2048×1024, once the models are loaded, on half of the machine. Not bad, considering how little time I had to optimize the pipelines."
+      },
+      {
+        "t": "h",
+        "zh": "它是如何工作的",
+        "en": "How it works"
+      },
+      {
+        "t": "p",
+        "zh": "输入是一部影片：一个 JSON 镜头列表，每个镜头都有名称和提示词，很像分镜脚本。LTX-2.5 在较长提示词上表现更好，因此每条提示词都是一段话，涵盖风格、主体、运动、摄像机、光线和声音。下面是海豹短片的文件，提示词已缩短：",
+        "en": "The input is a film: a JSON list of shots, each with a name and a prompt, much like a storyboard. LTX-2.5 does better with long prompts, so each prompt is a paragraph on the style, the subject, the motion, the camera, the light and the sound. Here is the seal film's file, with the prompts shortened:"
+      },
+      {
+        "t": "p",
+        "zh": "每个镜头都有名称和提示词，也可以有一个 seed，用来保留我在若干条里选中的那一条。镜头通过两个键串联。这种串联才是关键，因为单靠提示词无法让主体在镜头之间保持一致：",
+        "en": "Each shot has a name and a prompt, and can have a seed, to keep the take I picked among several. Shots are chained with two keys. This chaining is the point, since prompts alone do not keep a subject from one shot to the next:"
+      },
+      {
+        "t": "p",
+        "zh": "• from：该镜头从前一个镜头的最后若干帧开始。从前一个镜头的最后一帧开始，可以在剪辑处保持主体外观；从其最后 25 帧（1 s）开始，还能延续动作。",
+        "en": "• from: the shot starts from the last frames of an earlier shot. Starting from the earlier shot's last frame keeps a subject's look across a cut; starting from its last 25 frames (1 s) also continues the motion."
+      },
+      {
+        "t": "p",
+        "zh": "• to：该镜头结束于后一个镜头的开头若干帧，从而衔接到那个镜头。",
+        "en": "• to: the shot ends on the first frames of a later shot, so that it leads into it."
+      },
+      {
+        "t": "p",
+        "zh": "镜头也可以被裁剪，或在画面上叠加字幕。",
+        "en": "A shot can also be trimmed, or have a caption drawn over it."
+      },
+      {
+        "t": "p",
+        "zh": "用镜头组成影片的方式类似于动画，有两种做法。逐镜推进（straight ahead）是每个镜头都接续前一个。关键姿势法（pose to pose）则是先做好关键镜头，直到得到满意的一条；然后它前面的镜头结束于它的开头若干帧（to），它后面的镜头从它的最后若干帧开始（from）。当一部影片推向高潮（payoff，即前面一切铺垫所指向的那一刻）时，这个高潮就是关键镜头。我是通过反复试错找到这个顺序的，并且用关键姿势法制作了海豹短片，从 iceberg 开始。",
+        "en": "Making a film from shots works like animation, which has two ways to go. Straight ahead, each shot continues the one before. Pose to pose, you make the key shot first, until you get one you like; then the shots before it end on its first frames (to), and the shots after it start from its last frames (from). When a film builds up to a payoff (the moment everything was leading to), the payoff is the key shot. I found this order by trial and error, and made the seal film pose to pose, starting from iceberg."
+      },
+      {
+        "t": "p",
+        "zh": "高潮镜头是 iceberg：冰山翻滚，激起的浪把海豹浇透。nap（睡着的海豹）结束于 iceberg 的前 9 帧（to），这样海豹、浮冰和冰山在进入高潮时保持不变。shake 从 iceberg 的最后 25 帧开始（from）：湿漉漉的海豹抖掉身上的水，趴回浮冰上。梦境片段是单独制作的，再用一处剪辑接到其余部分。",
+        "en": "The payoff is iceberg: the iceberg rolls over, and its wave drenches the seal. nap, the sleeping seal, ends on the first 9 frames of iceberg (to), so that the seal, the floe and the iceberg stay the same into the payoff. shake starts from the last 25 frames of iceberg (from): the dripping seal shakes off the water and flops down on the floe. The dream is made on its own, and a cut joins it to the rest."
+      },
+      {
+        "t": "p",
+        "zh": "在 diffusers 一侧，三条流水线共享 LTX-2.5 的模型。LTX2Pipeline 仅根据提示词生成镜头，LTX2ConditionPipeline 则生成从另一镜头的帧开始或结束于那些帧的镜头。这两条流水线遵循模型卡片中的两阶段蒸馏方案：先 8 步，然后第三条流水线 LTX2LatentUpsamplePipeline 把潜变量放大 ×2，再做最后 3 步。",
+        "en": "On the diffusers side, three pipelines share the models of LTX-2.5. LTX2Pipeline makes the shots from their prompt alone, and LTX2ConditionPipeline makes the shots that start or end on frames of another shot. These two follow the two-stage distilled recipe of the model card: 8 steps, then the third pipeline, LTX2LatentUpsamplePipeline, upscales the latents ×2 before 3 final steps."
+      },
+      {
+        "t": "p",
+        "zh": "生成工作全部由 diffusers 流水线完成。影片部分是叠加其上的大约 160 行 Python：读取影片文件，给镜头排序，使每个关键帧在需要它的镜头之前已经存在，并裁出要交接的帧；然后裁剪、加字幕、均衡声音并组装成片。代码在 dacorvo/video-generation。我保留的影片放在 dacorvo/video-generation 存储桶里，连同它们的 JSON 文件：海豹、狐狸，以及山羊——后者裁剪了其中两个镜头，并在高潮画面上叠加了字幕。",
+        "en": "The diffusers pipelines do all of the generation. The film part is about 160 lines of Python on top: read the film file, order the shots so each keyframe exists before the shot that needs it, and cut the frames to hand over; then trim, caption, even out the sound and assemble the film. The code is in dacorvo/video-generation. The films I kept are in the dacorvo/video-generation bucket, with their JSON files: the seal, the fox, and the goat, which trims two of its shots and draws a caption over its payoff."
+      },
+      {
+        "t": "video",
+        "poster": "img/fulltext/18c6017cca60a5e9db4195c03ff958904d751021.jpg",
+        "origin_url": "https://huggingface.co/buckets/dacorvo/video-generation/resolve/entertainment/fox.mp4",
+        "caption_zh": "狐狸短片，用 LTX-2.5 在 Trainium3 上制作",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 375
+      },
+      {
+        "t": "video",
+        "poster": "img/fulltext/8a2ecab4cd10ee503917441b06618980f65d24f5.jpg",
+        "origin_url": "https://huggingface.co/buckets/dacorvo/video-generation/resolve/entertainment/goat.mp4",
+        "caption_zh": "山羊短片，用 LTX-2.5 在 Trainium3 上制作",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 375
+      },
+      {
+        "t": "h",
+        "zh": "在 Trainium3 上运行",
+        "en": "Running on Trainium3"
+      },
+      {
+        "t": "p",
+        "zh": "开箱即用时，该模型无法在 NeuronCores 上运行：transformer 放不进一个核心，而 diffusers 也没有拆分它的计划。第一个跑起来的尝试（模型卡片中的流水线，把 transformer 拆到 4 个核心上，并打了几处补丁）生成一段 10 秒片段大约要 5 分 20 s，而 NeuronCores 实际在计算的时间大约只有 45 s。更麻烦的是，目标分辨率也达不到。",
+        "en": "Out of the box, the model does not run on the NeuronCores: the transformer does not fit on one, and diffusers has no plan to split it. The first attempt that ran (the model card's pipeline, with the transformer split over 4 cores and a few patches) took about 5 min 20 s for a 10-second clip, and the NeuronCores were actually computing for only about 45 s of it. What's more, the target resolution was out of reach."
+      },
+      {
+        "t": "p",
+        "zh": "五天之后：",
+        "en": "Five days later:"
+      },
+      {
+        "t": "p",
+        "zh": "做到这一步需要三类工作：让模型在 NeuronCores 上跑起来（需要张量并行），把它拆到更多核心上（序列并行），以及让主机跟得上它们。",
+        "en": "Getting there took three kinds of work: making the model run on the NeuronCores (requires tensor parallelism), splitting it over more of them (sequence parallelism), and making the host keep up with them."
+      },
+      {
+        "t": "p",
+        "zh": "下面的多数修复都在设备侧，精力也主要花在那里。但端到端节省最多的却来自主机：这些是容易摘到的果实，因为浪费显然出在那里。",
+        "en": "Most of the fixes below are on the device, and that is where most of the effort went. The biggest end-to-end savings came from the host: the low-hanging fruit, since that is obviously where the waste was."
+      },
+      {
+        "t": "h",
+        "zh": "让它跑起来需要做什么",
+        "en": "What it took to make it work"
+      },
+      {
+        "t": "h",
+        "zh": "让它变快需要做什么",
+        "en": "What it took to make it fast"
+      },
+      {
+        "t": "p",
+        "zh": "有三个问题始终没有得到解释：transformer 编译成一张计算图时，在某一种尺寸下会返回 NaN；在每个新进程里，第一个结束于关键帧的镜头都很慢（即便所有计算图都已在缓存中）；以及潜变量上采样器无法与 transformer 一起加载，因此它仍留在 CPU 上。",
+        "en": "Three issues were never explained: the transformer compiled as one graph returned NaN at one size, the first shot that ends on keyframes was slow in each new process (even with every graph in the cache), and the latent upsampler fails to load next to the transformer, so it stays on the CPU."
+      },
+      {
+        "t": "p",
+        "zh": "其中一部分正在上游修复。diffusers#15420（开放中）修复了 LTX-2 流水线，这样上面的第二个变通办法就不再需要。diffusers#14725（仍然开放）把张量并行和上下文并行纳入同一个 ParallelConfig，并且计划为 LTX-2.5 提供一个 _tp_plan。",
+        "en": "Some of this is being fixed upstream. diffusers#15420 (open) fixes the LTX-2 pipelines, which would make the second workaround above unnecessary. diffusers#14725 (still open) brings tensor and context parallelism into one ParallelConfig, and a _tp_plan for LTX-2.5 is planned."
+      },
+      {
+        "t": "h",
+        "zh": "经验教训",
+        "en": "Lessons learned"
+      },
+      {
+        "t": "p",
+        "zh": "• 两侧都下降得很厉害：主机和设备。运行起来之后，一段片段的主机时间从大约 280 s 降到大约 8 s（约 35×），NeuronCores 上的时间从 45 s 降到 15 s（3×，像素数是原来的四倍，而且还多了第一轮尝试甚至无法加载的第二阶段）。",
+        "en": "• Both sides fell hard: the host and the device. Once running, a clip's host time fell from about 280 s to about 8 s (~35×), and its time on the NeuronCores from 45 s to 15 s (3×, at four times the pixels, and with a second stage the first attempt could not even load)."
+      },
+      {
+        "t": "p",
+        "zh": "• 序列并行是一条片段如何用满这台机器的方式。张量并行是内存所迫（transformer 放不进一个核心），并受 32 个注意力头的限制。把序列拆到更多核心上，才能把 64 个 NeuronCores 中的 32 个用到同一条片段上，也才让 2048×1024 成为可能，因为它把每个核心上的计算图缩小到可以加载的程度。",
+        "en": "• Sequence parallelism is how one clip uses the machine. Tensor parallelism is imposed by memory (the transformer does not fit on one core) and capped by the 32 attention heads. Splitting the sequence over more cores is what puts 32 of the 64 NeuronCores on a single clip, and what made 2048×1024 possible at all, by shrinking each core's graph until it loaded."
+      },
+      {
+        "t": "p",
+        "zh": "• 在 Trainium 上，要为计算图的大小做好规划。形状决定注意力是否走快速内核，过大的计算图则无法加载。",
+        "en": "• On Trainium, plan for the size of the graphs. The shapes decide whether the attention takes the fast kernel, and graphs that are too large fail to load."
+      },
+      {
+        "t": "p",
+        "zh": "• 先对照 CPU 做检查。模型的每一次拆分都先在 CPU 上验证，再放到设备上运行，与 CPU 的对比发现了 GELU 的问题。",
+        "en": "• Check against the CPU first. Each split of the models was checked on CPU before it ran on the device, and the comparison with CPU found the GELU issue."
+      },
+      {
+        "t": "p",
+        "zh": "• 保持被追踪代码的稳定。在我使用的构建中，torch-neuronx 的缓存键包含每个被追踪算子的文件和行号，因此一次编辑可能触发每个计算图长达 30 分钟的重新编译。我此前已经报告过这个问题（aws-neuron/torch-neuronx#1027），该问题现已关闭。",
+        "en": "• Keep the traced code stable. In the build I used, torch-neuronx's cache key included the file and line of each traced op, so an edit could trigger a recompile of up to 30 minutes per graph. I had already reported it (aws-neuron/torch-neuronx#1027), and the issue is now closed."
+      },
+      {
+        "t": "p",
+        "zh": "• 一部影片需要的不只是提示词。单靠提示词无法让一个角色或一座山在镜头之间保持不变，所以镜头会从其他镜头的帧开始，或结束于那些帧。每个镜头也停留在同一个地点：在狐狸短片的一个早期版本里，当一个镜头把狐狸从森林带到湖边时，模型做了一次叠化，换成了另一只狐狸。",
+        "en": "• A film needs more than prompts. Prompts alone do not keep a character, or a mountain, from one shot to the next, so shots start or end on frames of other shots. Each shot also stays in one place: when a shot in an early version of the fox film took the fox from the forest to the lake, the model made a cross-dissolve to another fox."
+      },
+      {
+        "t": "p",
+        "zh": "• 每个镜头要拍若干条。模型经常把某个细节搞错：同一条提示词在 4 条里有 3 条给山羊生成了滑稽的角。每个新镜头我都生成 4 条，然后选一条。",
+        "en": "• Make several takes of each shot. The model often gets a detail wrong: the same prompt gave the goat funny horns in 3 takes out of 4. I made 4 takes of each new shot and picked one."
+      },
+      {
+        "t": "h",
+        "zh": "专业用途",
+        "en": "Professional use cases"
+      },
+      {
+        "t": "p",
+        "zh": "在性能方面，模型加载完成后，一段带声音的 10 秒 2048×1024 片段需要 22 到 23 s。这在半台实例上就能比得上 LTX 的付费 API。若作为服务运行，进程会保持在线，因为加载模型大约需要 3 分钟，第一条片段还要 80 s。",
+        "en": "On the performance side, once the models are loaded, a 10-second 2048×1024 clip with sound takes 22 to 23 s. That rivals LTX's paid API, on half of the instance. A service would keep its processes up, as they take about 3 minutes to load the models, and 80 s for their first clip."
+      },
+      {
+        "t": "p",
+        "zh": "在功能方面，diffusers 已具备起草一部电影所需的能力。镜头由提示词生成，并通过从其他镜头的帧开始或结束于那些帧，在镜头之间保持主体。各条之间靠 seed 区分，影片文件保留我选中的那一条。用同一份代码和影片文件再跑一遍，会得到逐字节相同的影片。镜头也可以从一张图像开始，例如分镜帧或角色设定图，条件流水线会像处理帧一样处理它（我没有在一部影片里尝试过）。",
+        "en": "On the feature side, diffusers has what it takes to draft a movie. The shots come from prompts, and keep their subject from one shot to the next by starting or ending on frames of other shots. Takes differ by their seed, and the film file keeps the one I picked. Re-run with the same code and film file, and you get the same film back, byte for byte. A shot can also start from an image, such as a storyboard frame or a character sheet, which the condition pipeline takes the same way as frames (I did not try it in a film)."
+      },
+      {
+        "t": "p",
+        "zh": "它目前仍只能用于草稿，原因在于：",
+        "en": "What keeps it at drafts:"
+      },
+      {
+        "t": "p",
+        "zh": "• 模型仍然会把细节搞错，因此每个新镜头都需要若干条。",
+        "en": "• The model still gets details wrong, so each new shot needs several takes."
+      },
+      {
+        "t": "p",
+        "zh": "• 每个镜头各自生成声音。成片会均衡背景音量，但声音不会从一镜延续到下一镜。",
+        "en": "• Each shot makes its own sound. The film evens out the background level, but the sound does not carry over from one shot to the next."
+      },
+      {
+        "t": "p",
+        "zh": "• 一个镜头最长 20 s，这是模型的上限。",
+        "en": "• A shot lasts at most 20 s, the model's limit."
+      },
+      {
+        "t": "h",
+        "zh": "从影片到世界模型",
+        "en": "From films to world models"
+      },
+      {
+        "t": "p",
+        "zh": "LTX 称 LTX-2.5 是一个世界模型，机器人是其正在兴起的用途。机器人、汽车和无人机从相机所见的视频中学习，而世界模型可以生成更多这类视频，包括太罕见或太危险而难以实拍的事件。于是我也用同一套代码在真实录像上做了尝试：一个镜头可以从真实相机片段的第一秒开始，并编造接下来发生的事。只给一帧不够，因为模型无法从中判断物体运动有多快。",
+        "en": "LTX calls LTX-2.5 a world model, with robotics as an emerging use. Robots, cars and drones learn from videos of what their cameras see, and a world model can make more of them, including events too rare or too risky to film. So I also tried it on real footage, with the same code: a shot can start from the first second of a real camera clip and invent what happens next. One frame was not enough, as the model cannot tell from it how fast things move."
+      },
+      {
+        "t": "p",
+        "zh": "这是 Fourier GR1-T2 人形机器人的头部相机画面（来自 NVIDIA 的 GR1-100 片段），俯视一张桌子。在这段真实的 6 秒片段里，机器人的左手从盘子里拿起一个橙子，放进托盘。模型只看到该片段的第一秒（双手举起，尚未开始动作），并编造了其余部分。真实发生的事，与它编造的内容并排如下：",
+        "en": "Here is the head camera of a Fourier GR1-T2 humanoid robot (a clip from NVIDIA's GR1-100), looking down at a table. In the real 6-second clip, the robot's left hand picks an orange from a plate and drops it in a tray. The model only sees the first second of that clip (the hands raised, before anything moves) and invents the rest. What really happened, next to its invention:"
+      },
+      {
+        "t": "video",
+        "poster": "img/fulltext/4f0834a8982576c4e59395ae2f949f44ca61110e.jpg",
+        "origin_url": "https://huggingface.co/buckets/dacorvo/video-generation/resolve/robotics/gr1-orange/happened-side-by-side.mp4",
+        "caption_zh": "GR1-T2 人形机器人头部相机的真实录像，与根据其第一秒编造的后续并排",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 188
+      },
+      {
+        "t": "p",
+        "zh": "同一场景、同一次抓取：模型自己编造了抓取动作，并让桌子、手和水果与真实录像保持一致。更有意思的是那些并未发生的事件。从同一秒出发，只改提示词，一个人探过身来也去抓橙子，人的手和机器人的手一起把它送到托盘。共五条，真实录像在前：",
+        "en": "Same scene, same pick: the model invents the grab on its own, and keeps the table, the hands and the fruit consistent with the real footage. More interesting are the events that did not happen. From the same second, with only the prompt changed, a person leans over and grabs the orange too, and the human hand and the robot hand carry it to the tray together. Five takes, with the real footage first:"
+      },
+      {
+        "t": "video",
+        "poster": "img/fulltext/5b23520843f598eb5f545feef5acbbae31179876.jpg",
+        "origin_url": "https://huggingface.co/buckets/dacorvo/video-generation/resolve/robotics/gr1-orange/human-side-by-side.mp4",
+        "caption_zh": "真实片段，后面是五条生成的、一个人帮助机器人搬运橙子的拍摄",
+        "source": "Hugging Face Blog",
+        "w": 750,
+        "h": 250
+      },
+      {
+        "t": "p",
+        "zh": "这个人的手势和时机在每条里都不同，机器人的手臂也会随之调整。这正是它用于训练的吸引力所在：不是片段的单一后续，而是多种后续的分布，每一条都可以由其影片文件和 seed 复现。",
+        "en": "The person's gestures and timing differ in each take, and the robot's arm adapts to them. That is the appeal for training: not one continuation of a clip, but a distribution of them, each reproducible from its film file and seed."
+      },
+      {
+        "t": "p",
+        "zh": "存储桶的 robotics 文件夹里有这五条及其 JSON 文件，还有第二个例子，来自暴风雪中一辆汽车的前向相机（Boreas），其中的替代事件是一辆驶过的卡车把雪泥甩到镜头上。当被要求改为让汽车加速时，模型仍保持了原来的速度：提示词并不能覆盖录像第一秒已经暗示的内容。",
+        "en": "The robotics folder of the bucket has the five takes with their JSON files, and a second example from the front camera of a car in a snowstorm (Boreas), where the alternate event is slush thrown on the lens by a passing truck. Asked to make the car accelerate instead, the model kept its speed: the prompt does not override what the first second of footage already implies."
+      },
+      {
+        "t": "p",
+        "zh": "这些视频遵循的是提示词，而不是机器人或汽车的指令：训练设置需要以这些动作为条件来生成。为此，团队会在自有机器人的帧和动作上，对 LTX-2.5 的预训练检查点做微调。",
+        "en": "These videos follow prompts, not the robot's or car's commands: a training setup would need generation conditioned on those actions. For that, a team fine-tunes the pre-trained checkpoint of LTX-2.5 on the frames and actions of its own robots."
+      },
+      {
+        "t": "p",
+        "zh": "这辆法拉利跑完了赛道，只用了一半的气缸。",
+        "en": "The Ferrari made it around the track, on half of its cylinders."
+      }
+    ]
+  }
+}

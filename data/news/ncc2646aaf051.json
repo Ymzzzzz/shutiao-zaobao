@@ -1,0 +1,67 @@
+{
+  "id": "ncc2646aaf051",
+  "category": "行业动态",
+  "importance": 1,
+  "verified": false,
+  "title": "安卓可用Gemini自制桌面小组件，目前仍在测试",
+  "original_title": "Android’s DIY widgets are a bit of vibe-coding fun",
+  "summary": "The Verge评测谷歌在开发者大会上宣布的自制小组件功能。该功能属于Gemini智能套件，本月开始向Pixel手机推送测试版。作者在Pixel 11 Pro上试用后认为好玩，但还不够实用。",
+  "facts": [
+    {
+      "text": "谷歌在今年春季I/O大会宣布Create My Widget，该功能属于安卓Gemini智能套件，目前处于测试版，本月开始向Pixel手机推送。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+    }
+  ],
+  "claims": [],
+  "analysis": [
+    {
+      "text": "作者认为该功能能带来乐趣，但还没能满足实时公交这样的实用需求，部分作品也看不出多少复杂的软件能力。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "is_primary": false,
+      "published_at": "2026-11-27T22:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T22:00:00+08:00",
+  "updated_at": "2026-11-27T22:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "安卓可用Gemini自制桌面小组件，目前仍在测试",
+  "lead_zh": "The Verge评测称，谷歌宣布的自制桌面小组件已开始向Pixel推送测试版，作者试用后觉得好玩，但还不够实用。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "The Verge作者写道，自己最希望人工智能做的一件实用小事，是提醒会不会错过公交车，因此需要能一眼看到附近站点到站时间的桌面小组件。谷歌在今年春季I/O大会上宣布了名为Create My Widget的功能，把它放在安卓的Gemini智能套件里，目前仍是测试版，本月才开始向Pixel手机推送。作者在Pixel 11 Pro上做了试用。",
+        "他先做了一个每小时更换《侏罗纪公园》台词的组件，大约**20**秒完成；点进去会打开电影台词讨论区。又做了下雨时显示一句固定台词、否则显示“现在没有雨”的组件，以及用于记录每周散步的组件。后者被做成了“记录散步”按钮，点击后由Gemini把一次散步加进日历。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "kind": "analysis",
+      "heading": "作者怎么看",
+      "paras": [
+        "作者认为，这些小组件带来了乐趣，但还没能解决实时公交这种真正影响出行的需求。第一件作品点开后只是跳到讨论区，在他看来“看不出多少软件魔法”。散步组件也没有做成他希望的那种可视化打卡，只能触发把记录写进日历。整体判断是：功能值得玩，但离好用还有距离。"
+      ],
+      "sources": [
+        "The Verge"
+      ]
+    }
+  ],
+  "image_url": "img/3ff2fe887b476b21d51572837f6a4078ad174b13.jpg",
+  "image_source": "The Verge",
+  "image_origin_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

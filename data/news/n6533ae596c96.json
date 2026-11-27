@@ -1,0 +1,67 @@
+{
+  "id": "n6533ae596c96",
+  "category": "研究与论文",
+  "importance": 1,
+  "verified": true,
+  "title": "研究：让大模型自己写上下文并不总能提升表现",
+  "original_title": "Revisiting LLMs as Context Engineers",
+  "summary": "一篇论文把大模型本身当作上下文工程师，比较多种自动构造指令或经验的方法。结果显示没有哪一种能在所有任务上取胜，即使与思维链相比也是如此，收益还与失败轨迹的多样性呈负相关。",
+  "facts": [
+    {
+      "text": "该研究建立了包含不同推理模式的基准，并在约80亿参数的多类模型上比较多种自动上下文工程方法。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30494"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据论文称，这些方法的收益与推理失败模式的多样性呈负相关，相关系数为负0.5。",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30494"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "url": "https://arxiv.org/abs/2611.30494",
+      "is_primary": true,
+      "published_at": "2026-11-27T08:00:00+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T08:00:00+08:00",
+  "updated_at": "2026-11-27T08:00:00+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "研究：让大模型自己写上下文并不总能提升表现",
+  "lead_zh": "一篇论文比较多种由模型自动构造上下文的方法，发现没有万能赢家，收益还与失败轨迹的多样性呈负相关。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "一篇预印本指出，随着大模型被用到更多新任务上，通过构造指令或元数据来引导模型、而不做高强度训练的上下文工程，成了常见做法。越来越多方法进一步让模型自己充当工程师，从离线试验里提炼可复用的指令或经验。作者认为，这看起来像人从经验中学习，但模型何时、如何才能从数据里写出有效上下文，仍不清楚。",
+        "为此，研究建立了包含不同推理模式的数据集基准，并在约**80**亿参数规模的多类模型上比较不同方法，对照也包括简单的思维链。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "论文怎么说",
+      "paras": [
+        "据论文称，没有哪一种自动上下文工程方法能在所有任务上取胜，即使与思维链相比也是如此；靠增加参数或生成轮次来放大能力，也不总能稳定提高已有成绩。在全部数据集和模型上，这类方法的收益与推理轨迹失败模式的多样性呈负相关（r=**-0.5**，p≤**0.05**）。作者认为，部分成功可用指令遵从的改善来解释，但主要瓶颈仍是模型能否从本身就很多样的失败里抽出有效经验。"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ]
+    }
+  ],
+  "image_url": "img/94a39ad49d75ed5ebce21b1df2b5d49aa5061d70.jpg",
+  "image_source": "Hugging Face Daily Papers",
+  "image_origin_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.30494.png",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}

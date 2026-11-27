@@ -1,0 +1,67 @@
+{
+  "id": "n6fe6938db001",
+  "category": "大模型与产品",
+  "importance": 1,
+  "verified": false,
+  "title": "DeepSeek在网页和App显示对话账单，目前聊天仍免费",
+  "original_title": "DeepSeek APP突然更新账单，网友：要收费了？",
+  "summary": "量子位实测发现，DeepSeek网页和App在回复下方增加了Token账单，会列出本轮消耗和单价。作者称计价与其V4.1-Flash空闲时段接口价格一致，但目前聊天仍免费，收费方案尚未公布。",
+  "facts": [
+    {
+      "text": "DeepSeek网页和App在回复下方增加了账单入口，可查看本轮消耗额度、输入输出Token单价、用量和金额，以及上下文占用。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513305.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "据量子位称，计价与DeepSeek-V4.1-Flash接口空闲时段定价一致：每百万Token缓存命中输入0.02元、未命中1元、输出4元，高峰时段翻倍。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513305.html"
+    }
+  ],
+  "analysis": [],
+  "sources": [
+    {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513305.html",
+      "is_primary": false,
+      "published_at": "2026-11-27T15:29:10+08:00"
+    }
+  ],
+  "published_at": "2026-11-27T15:29:10+08:00",
+  "updated_at": "2026-11-27T15:29:10+08:00",
+  "status": "normal",
+  "summary_mode": "ai",
+  "title_zh": "DeepSeek在网页和App显示对话账单，目前聊天仍免费",
+  "lead_zh": "量子位实测发现，DeepSeek网页和App在回复下增加了Token账单，计价与公开接口空闲时段价格一致，但目前聊天仍免费，收费方案尚未公布。",
+  "body_zh": [
+    {
+      "kind": "facts",
+      "heading": "发生了什么",
+      "paras": [
+        "量子位报道，DeepSeek网页和App的回复下方近日出现形似一摞硬币的图标，点开后可看到本轮消耗额度、输入（缓存命中或未命中）和输出Token的单价、用量与金额，以及上下文占用进度。作者实测，用粤语打一句招呼并得到回复，账单显示为**0.000426**元；一轮输入超过**1.3**万Token的网页对话约为**0.0088**元。报道强调，目前账单已出现，聊天却仍免费，收费方案尚未官宣。",
+        "此前在**11**月**16**日，“使用额度已达上限”曾登上热搜：每天免费聊天出现额度，单次文字输入上限被压缩到约**4**万字，超过**72**小时不活跃的长对话也无法继续。系统提示曾把长对话受限的原因直接写为算力不足。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    },
+    {
+      "kind": "claims",
+      "heading": "报道怎么说",
+      "paras": [
+        "据作者称，这套计价与DeepSeek-V4.1-Flash接口空闲时段定价一致：每百万Token输入（缓存命中）**0.02**元、未命中**1**元，输出**4**元，高峰时段统一翻倍。报道还写道，该模型**10**月下旬在OpenRouter上的单周调用量达到**33.6**万亿Token，到文章发布时升至**59.2**万亿，位居该平台调用量榜首。这些平台数据来自报道引用，并不等于官方即将收费。"
+      ],
+      "sources": [
+        "量子位"
+      ]
+    }
+  ],
+  "image_url": "img/8cd58648e9da970df941d77e3f8b037b5265e989.jpg",
+  "image_source": "量子位",
+  "image_origin_url": "https://www.qbitai.com/wp-content/uploads/2019/01/qrcode_QbitAI_1.jpg",
+  "fulltext_status": "",
+  "read_minutes": 0,
+  "fulltext": null
+}
